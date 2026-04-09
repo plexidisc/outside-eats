@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Outside Eats — Peninsula Restaurant Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --cream: #F7F4EF;
+    --ink: #1C1A17;
+    --ink-light: #6B6660;
+    --ink-faint: #A8A39D;
+    --accent: #C45C2E;
+    --accent-light: #F2E6DF;
+    --green: #3A6B4A;
+    --green-light: #E4EFE7;
+    --border: rgba(28,26,23,0.12);
+    --border-strong: rgba(28,26,23,0.22);
+    --card-bg: #FFFFFF;
+    --radius: 12px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--cream);
+    color: var(--ink);
+    min-height: 100vh;
+  }
+
+  /* HEADER */
+  header {
+    background: var(--ink);
+    color: var(--cream);
+    padding: 2.5rem 2rem 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+  header::before {
+    content: '';
+    position: absolute;
+    top: -60px; right: -60px;
+    width: 240px; height: 240px;
+    border-radius: 50%;
+    background: rgba(196,92,46,0.15);
+    pointer-events: none;
+  }
+  .header-inner { max-width: 900px; margin: 0 auto; position: relative; }
+  .wordmark {
+    font-family: 'DM Serif Display', serif;
+    font-size: 36px;
+    letter-spacing: -0.5px;
+    line-height: 1;
+  }
+  .wordmark em { color: var(--accent); font-style: italic; }
+  .tagline {
+    font-size: 13px;
+    font-weight: 300;
+    color: rgba(247,244,239,0.55);
+    margin-top: 6px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  /* SEARCH BAR */
+  .search-bar {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.25rem 2rem;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    background: var(--ink);
+    border-bottom: 1px solid rgba(247,244,239,0.1);
+  }
+  .search-input-wrap {
+    flex: 1;
+    min-width: 200px;
+    position: relative;
+  }
+  .search-input-wrap input {
+    width: 100%;
+    padding: 10px 14px 10px 36px;
+    border-radius: 8px;
+    border: 1px solid rgba(247,244,239,0.2);
+    background: rgba(247,244,239,0.08);
+    color: var(--cream);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .search-input-wrap input::placeholder { color: rgba(247,244,239,0.35); }
+  .search-input-wrap input:focus { border-color: rgba(247,244,239,0.4); }
+  .search-icon {
+    position: absolute; left: 11px; top: 50%; transform: translateY(-50%);
+    color: rgba(247,244,239,0.35); font-size: 15px; pointer-events: none;
+  }
+  .city-select {
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid rgba(247,244,239,0.2);
+    background: rgba(247,244,239,0.08);
+    color: var(--cream);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    outline: none;
+  }
+  .city-select option { background: var(--ink); color: var(--cream); }
+  .search-btn {
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    background: var(--accent);
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+  .search-btn:hover { opacity: 0.88; }
+  .search-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+  /* FILTERS */
+  .filters-bar {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .filter-label { font-size: 12px; color: var(--ink-faint); margin-right: 2px; }
+  .pill {
+    font-size: 12px;
+    padding: 5px 13px;
+    border-radius: 20px;
+    border: 1px solid var(--border-strong);
+    background: white;
+    color: var(--ink-light);
+    cursor: pointer;
+    transition: all 0.12s;
+    font-family: 'DM Sans', sans-serif;
+  }
+  .pill:hover { border-color: var(--accent); color: var(--accent); }
+  .pill.active { background: var(--ink); color: var(--cream); border-color: var(--ink); }
+  .sort-wrap { margin-left: auto; display: flex; gap: 6px; align-items: center; }
+  .sort-select {
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: white;
+    color: var(--ink-light);
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    outline: none;
+  }
+
+  /* MAIN */
+  main { max-width: 900px; margin: 0 auto; padding: 0.5rem 2rem 3rem; }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin: 1.5rem 0 0.75rem;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .section-head h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .section-count { font-size: 12px; color: var(--ink-faint); }
+
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+    cursor: pointer;
+    transition: box-shadow 0.15s, border-color 0.15s;
+    position: relative;
+  }
+  .card:hover { border-color: var(--border-strong); box-shadow: 0 2px 12px rgba(28,26,23,0.07); }
+  .card.expanded { border-color: var(--accent); }
+
+  .card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+  .card-name {
+    font-family: 'DM Serif Display', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.25;
+    color: var(--ink);
+  }
+  .rating {
+    flex-shrink: 0;
+    background: var(--green-light);
+    color: var(--green);
+    font-size: 12px;
+    font-weight: 500;
+    padding: 3px 9px;
+    border-radius: 20px;
+    white-space: nowrap;
+  }
+  .rating.high { background: var(--green-light); color: var(--green); }
+  .rating.mid { background: #FEF3E2; color: #8B5E1A; }
+
+  .card-sub { font-size: 12px; color: var(--ink-light); margin-top: 4px; }
+
+  .card-pills { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 10px; }
+  .cpill {
+    font-size: 11px;
+    padding: 2px 9px;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    color: var(--ink-faint);
+  }
+  .cpill.price { background: var(--green-light); color: var(--green); border-color: transparent; }
+  .cpill.cuisine { background: var(--accent-light); color: var(--accent); border-color: transparent; }
+
+  .card-expand {
+    display: none;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+    animation: fadeIn 0.15s ease;
+  }
+  .card-expand.open { display: block; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: translateY(0); } }
+
+  .snippet {
+    font-size: 13px;
+    color: var(--ink-light);
+    line-height: 1.65;
+    font-style: italic;
+    padding-left: 10px;
+    border-left: 2px solid var(--accent-light);
+  }
+  .card-details { margin-top: 10px; display: flex; flex-direction: column; gap: 4px; }
+  .card-detail { font-size: 12px; color: var(--ink-faint); display: flex; gap: 6px; }
+  .card-detail strong { color: var(--ink-light); font-weight: 400; min-width: 52px; }
+  .map-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 12px;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .map-link:hover { text-decoration: underline; }
+
+  /* STATES */
+  .state-box {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--ink-faint);
+  }
+  .state-box .state-icon { font-size: 32px; margin-bottom: 12px; }
+  .state-box p { font-size: 14px; line-height: 1.6; }
+  .state-box .state-title { font-family: 'DM Serif Display', serif; font-size: 20px; color: var(--ink-light); margin-bottom: 6px; }
+
+  .loading-dots span {
+    display: inline-block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    margin: 0 2px;
+    animation: bounce 1.2s infinite;
+  }
+  .loading-dots span:nth-child(2) { animation-delay: 0.2s; }
+  .loading-dots span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes bounce { 0%,60%,100%{transform:translateY(0)} 30%{transform:translateY(-6px)} }
+
+  .error-msg {
+    background: #FEF2F2;
+    border: 1px solid #FECACA;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 13px;
+    color: #B91C1C;
+    margin: 1rem 0;
+  }
+
+  /* FOOTER */
+  footer {
+    text-align: center;
+    padding: 1.5rem;
+    font-size: 11px;
+    color: var(--ink-faint);
+    border-top: 1px solid var(--border);
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 600px) {
+    header, .search-bar, .filters-bar, main { padding-left: 1rem; padding-right: 1rem; }
+    .wordmark { font-size: 28px; }
+    .sort-wrap { margin-left: 0; width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="wordmark">Outside <em>Eats</em></div>
+    <div class="tagline">San Mateo Peninsula Restaurant Guide</div>
+  </div>
+</header>
+
+<div class="search-bar">
+  <div class="search-input-wrap">
+    <span class="search-icon">⌕</span>
+    <input type="text" id="searchInput" placeholder="Search restaurants..." />
+  </div>
+  <select class="city-select" id="citySelect">
+    <option value="San Mateo, CA">San Mateo</option>
+    <option value="Burlingame, CA">Burlingame</option>
+    <option value="San Carlos, CA">San Carlos</option>
+  </select>
+  <button class="search-btn" id="searchBtn" onclick="fetchRestaurants()">Search</button>
+</div>
+
+<div class="filters-bar">
+  <span class="filter-label">Cuisine:</span>
+  <div id="cuisinePills" style="display:flex;gap:6px;flex-wrap:wrap;"></div>
+  <div class="sort-wrap">
+    <select class="sort-select" id="sortSelect" onchange="renderResults()">
+      <option value="rating">Sort: Rating</option>
+      <option value="reviews">Sort: Most reviewed</option>
+      <option value="name">Sort: Name A–Z</option>
+    </select>
+  </div>
+</div>
+
+<main id="main">
+  <div class="state-box">
+    <div class="state-icon">🍽</div>
+    <div class="state-title">Find your next meal</div>
+    <p>Select a city and hit Search to load restaurants.<br>Data pulled live from Google Places.</p>
+  </div>
+</main>
+
+<footer>Outside Eats · Powered by Google Places · Data reflects current ratings at time of search</footer>
+
+<script>
+const API_KEY = 'AIzaSyCQYQzzCI0wo-3r8phACNFNKGuLx6FKtuw';
+
+let allResults = [];
+let activeCuisine = 'all';
+let expandedCard = null;
+
+const CUISINE_MAP = {
+  italian_restaurant: 'Italian',
+  japanese_restaurant: 'Japanese',
+  mexican_restaurant: 'Mexican',
+  chinese_restaurant: 'Chinese',
+  thai_restaurant: 'Thai',
+  indian_restaurant: 'Indian',
+  french_restaurant: 'French',
+  american_restaurant: 'American',
+  seafood_restaurant: 'Seafood',
+  pizza_restaurant: 'Pizza',
+  steak_house: 'Steakhouse',
+  sushi_restaurant: 'Sushi',
+  mediterranean_restaurant: 'Mediterranean',
+  greek_restaurant: 'Greek',
+  vietnamese_restaurant: 'Vietnamese',
+  korean_restaurant: 'Korean',
+  spanish_restaurant: 'Spanish',
+  peruvian_restaurant: 'Peruvian',
+  brazilian_restaurant: 'Brazilian',
+  latin_american_restaurant: 'Latin American',
+  turkish_restaurant: 'Turkish',
+  german_restaurant: 'German',
+  brunch_restaurant: 'Brunch',
+  breakfast_restaurant: 'Breakfast',
+  vegan_restaurant: 'Vegan',
+  vegetarian_restaurant: 'Vegetarian',
+  gastropub: 'Gastropub',
+  bistro: 'Bistro',
+  bar: 'Bar & Grill',
+};
+
+function getCuisine(types) {
+  if (!types) return 'Restaurant';
+  for (const t of types) {
+    if (CUISINE_MAP[t]) return CUISINE_MAP[t];
+  }
+  return 'Restaurant';
+}
+
+function priceLabel(level) {
+  if (!level) return '$$';
+  return '$'.repeat(level);
+}
+
+function ratingClass(r) {
+  return r >= 4.5 ? 'high' : 'mid';
+}
+
+async function fetchRestaurants() {
+  if (API_KEY === 'YOUR_API_KEY_HERE') {
+    showError('API key not set. Open the HTML file in a text editor and replace AIzaSyCQYQzzCI0wo-3r8phACNFNKGuLx6FKtuw with your Google Places API key.');
+    return;
+  }
+
+  const city = document.getElementById('citySelect').value;
+  const query = document.getElementById('searchInput').value.trim();
+  const searchTerm = query ? `${query} restaurants in ${city}` : `restaurants in ${city}`;
+
+  const btn = document.getElementById('searchBtn');
+  btn.disabled = true;
+  btn.textContent = 'Searching...';
+
+  document.getElementById('main').innerHTML = `
+    <div class="state-box">
+      <div class="loading-dots"><span></span><span></span><span></span></div>
+      <p style="margin-top:12px;">Loading restaurants in ${city}...</p>
+    </div>`;
+
+  allResults = [];
+  activeCuisine = 'all';
+
+  try {
+    const url = `https://places.googleapis.com/v1/places:searchText`;
+    const body = {
+      textQuery: searchTerm,
+      maxResultCount: 20,
+      languageCode: 'en'
+    };
+
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-Goog-Api-Key': API_KEY,
+        'X-Goog-FieldMask': 'places.displayName,places.formattedAddress,places.rating,places.userRatingCount,places.priceLevel,places.primaryTypeDisplayName,places.types,places.regularOpeningHours,places.nationalPhoneNumber,places.reviews,places.id,places.googleMapsUri'
+      },
+      body: JSON.stringify(body)
+    });
+
+    const data = await res.json();
+
+    if (!res.ok) {
+      throw new Error(data.error?.message || 'API request failed');
+    }
+
+    allResults = (data.places || []).filter(p =>
+      p.types && p.types.some(t => t.includes('restaurant') || t.includes('food') || t === 'bar' || t === 'bistro' || t === 'gastropub')
+    );
+
+    buildCuisinePills();
+    renderResults();
+
+  } catch (err) {
+    showError(`Error fetching data: ${err.message}`);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Search';
+  }
+}
+
+function buildCuisinePills() {
+  const cuisines = [...new Set(allResults.map(r => getCuisine(r.types)))].sort();
+  const wrap = document.getElementById('cuisinePills');
+  wrap.innerHTML = '';
+
+  const allPill = makePill('All', 'all');
+  wrap.appendChild(allPill);
+  cuisines.forEach(c => wrap.appendChild(makePill(c, c)));
+}
+
+function makePill(label, value) {
+  const btn = document.createElement('button');
+  btn.className = 'pill' + (activeCuisine === value ? ' active' : '');
+  btn.textContent = label;
+  btn.onclick = () => {
+    activeCuisine = value;
+    document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    renderResults();
+  };
+  return btn;
+}
+
+function getSorted(list) {
+  const sort = document.getElementById('sortSelect').value;
+  return [...list].sort((a, b) => {
+    if (sort === 'rating') return (b.rating || 0) - (a.rating || 0);
+    if (sort === 'reviews') return (b.userRatingCount || 0) - (a.userRatingCount || 0);
+    if (sort === 'name') return (a.displayName?.text || '').localeCompare(b.displayName?.text || '');
+    return 0;
+  });
+}
+
+function renderResults() {
+  const main = document.getElementById('main');
+  expandedCard = null;
+
+  let filtered = allResults;
+  if (activeCuisine !== 'all') {
+    filtered = filtered.filter(r => getCuisine(r.types) === activeCuisine);
+  }
+
+  if (filtered.length === 0) {
+    main.innerHTML = `<div class="state-box"><div class="state-title">No results</div><p>Try a different city or clear the cuisine filter.</p></div>`;
+    return;
+  }
+
+  const sorted = getSorted(filtered);
+  const city = document.getElementById('citySelect').value.replace(', CA', '');
+
+  main.innerHTML = `
+    <div class="section-head">
+      <h2>${city}</h2>
+      <span class="section-count">${sorted.length} restaurants</span>
+    </div>
+    <div class="cards" id="cardsGrid"></div>`;
+
+  const grid = document.getElementById('cardsGrid');
+  sorted.forEach(r => {
+    const card = buildCard(r);
+    grid.appendChild(card);
+  });
+}
+
+function buildCard(r) {
+  const name = r.displayName?.text || 'Unknown';
+  const rating = r.rating ? r.rating.toFixed(1) : 'N/A';
+  const reviewCount = r.userRatingCount ? r.userRatingCount.toLocaleString() : '0';
+  const cuisine = getCuisine(r.types);
+  const price = priceLabel(r.priceLevel);
+  const address = r.formattedAddress || '';
+  const phone = r.nationalPhoneNumber || '';
+  const mapsUrl = r.googleMapsUri || '';
+
+  let hoursText = '';
+  if (r.regularOpeningHours?.weekdayDescriptions) {
+    const today = new Date().getDay();
+    const idx = today === 0 ? 6 : today - 1;
+    const todayStr = r.regularOpeningHours.weekdayDescriptions[idx] || '';
+    hoursText = todayStr.replace(/^[^:]+:\s*/, '');
+  }
+
+  let snippet = '';
+  if (r.reviews && r.reviews.length > 0) {
+    const topReview = r.reviews.find(rv => rv.rating >= 4) || r.reviews[0];
+    if (topReview?.text?.text) {
+      snippet = topReview.text.text.slice(0, 160).trim();
+      if (topReview.text.text.length > 160) snippet += '…';
+    }
+  }
+
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.innerHTML = `
+    <div class="card-top">
+      <div class="card-name">${name}</div>
+      ${rating !== 'N/A' ? `<div class="rating ${ratingClass(parseFloat(rating))}">★ ${rating}</div>` : ''}
+    </div>
+    <div class="card-sub">${reviewCount} reviews</div>
+    <div class="card-pills">
+      <span class="cpill cuisine">${cuisine}</span>
+      <span class="cpill price">${price}</span>
+      ${hoursText ? `<span class="cpill">${hoursText}</span>` : ''}
+    </div>
+    <div class="card-expand">
+      ${snippet ? `<div class="snippet">${snippet}</div>` : ''}
+      <div class="card-details">
+        ${address ? `<div class="card-detail"><strong>Address</strong>${address}</div>` : ''}
+        ${phone ? `<div class="card-detail"><strong>Phone</strong>${phone}</div>` : ''}
+      </div>
+      ${mapsUrl ? `<a class="map-link" href="${mapsUrl}" target="_blank">View on Google Maps →</a>` : ''}
+    </div>`;
+
+  card.addEventListener('click', () => {
+    const exp = card.querySelector('.card-expand');
+    if (expandedCard && expandedCard !== exp) {
+      expandedCard.classList.remove('open');
+      expandedCard.closest('.card').classList.remove('expanded');
+    }
+    exp.classList.toggle('open');
+    card.classList.toggle('expanded');
+    expandedCard = exp.classList.contains('open') ? exp : null;
+  });
+
+  return card;
+}
+
+function showError(msg) {
+  document.getElementById('main').innerHTML = `<div class="error-msg">${msg}</div>`;
+}
+
+document.getElementById('searchInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') fetchRestaurants();
+});
+</script>
+</body>
+</html>
