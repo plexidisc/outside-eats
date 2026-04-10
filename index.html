@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -636,6 +637,13 @@ async function fetchRestaurants() {
     buildCuisineDropdown();
     renderResults();
     if (currentView === 'map') renderMap();
+    if (!query) {
+      gtag('event', 'city_search', {
+        'event_category': 'Search',
+        'event_label': city.replace(', CA', '').replace(', Los Angeles', ''),
+        'value': 1
+      });
+    }
   } catch(err) {
     showError(`Error: ${err.message}`);
   } finally {
@@ -907,3 +915,4 @@ setTimeout(() => {
 </script>
 </body>
 </html>
+
