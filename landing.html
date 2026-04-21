@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Outside Eats — Bay Area Restaurant Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --navy: #1B2A4A;
+  --navy-light: #253d6e;
+  --cream: #FAFAF8;
+  --light-blue: #F0F3F8;
+  --green: #3B6D11;
+  --green-light: #EAF3DE;
+  --border: #E8E8E4;
+  --ink: #1A1A1A;
+  --ink-mid: #555;
+  --ink-faint: #999;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Source Sans 3', sans-serif; background: var(--cream); color: var(--ink); }
+
+/* NAV */
+nav {
+  background: var(--light-blue);
+  border-bottom: 1px solid #D8DEE8;
+  padding: 0.75rem 2rem;
+  display: flex; align-items: center; justify-content: space-between;
+  position: sticky; top: 0; z-index: 100;
+}
+.nav-logo { display: flex; align-items: center; gap: 12px; text-decoration: none; }
+.nav-wordmark { font-family: 'DM Sans', sans-serif; font-size: 20px; letter-spacing: 0.08em; text-transform: uppercase; line-height: 1; }
+.nav-out { color: var(--ink); font-weight: 600; }
+.nav-eats { color: var(--navy); font-weight: 800; }
+.nav-cta {
+  background: var(--navy); color: white;
+  padding: 8px 20px; border-radius: 4px;
+  font-family: 'Source Sans 3', sans-serif; font-size: 14px; font-weight: 700;
+  text-decoration: none; letter-spacing: 0.04em;
+  transition: background 0.15s;
+}
+.nav-cta:hover { background: var(--navy-light); }
+
+/* HERO */
+.hero {
+  background: var(--light-blue);
+  padding: 5rem 2rem 4rem;
+  text-align: center;
+  border-bottom: 1px solid #D8DEE8;
+}
+.hero-logo { margin: 0 auto 2rem; display: block; }
+.hero h1 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--navy); line-height: 1.1; margin-bottom: 1rem;
+}
+.hero h1 span { color: var(--ink); font-weight: 600; }
+.hero-sub {
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  color: var(--ink-mid); max-width: 560px; margin: 0 auto 2.5rem;
+  line-height: 1.6;
+}
+.hero-badge {
+  display: inline-block;
+  background: var(--green-light); color: var(--green);
+  font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em;
+  padding: 5px 14px; border-radius: 3px; margin-bottom: 1.5rem;
+}
+.hero-buttons { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.btn-primary {
+  background: var(--navy); color: white;
+  padding: 12px 28px; border-radius: 4px;
+  font-family: 'Source Sans 3', sans-serif; font-size: 15px; font-weight: 700;
+  text-decoration: none; letter-spacing: 0.04em; transition: background 0.15s;
+}
+.btn-primary:hover { background: var(--navy-light); }
+.btn-secondary {
+  background: white; color: var(--navy);
+  padding: 12px 28px; border-radius: 4px; border: 1px solid #C8CED8;
+  font-family: 'Source Sans 3', sans-serif; font-size: 15px; font-weight: 600;
+  text-decoration: none; transition: border-color 0.15s;
+}
+.btn-secondary:hover { border-color: var(--navy); }
+
+/* STATS */
+.stats {
+  background: var(--navy);
+  padding: 2.5rem 2rem;
+  display: flex; justify-content: center; gap: 4rem; flex-wrap: wrap;
+}
+.stat { text-align: center; color: white; }
+.stat-num { font-family: 'DM Sans', sans-serif; font-size: 2.5rem; font-weight: 800; line-height: 1; }
+.stat-label { font-size: 13px; color: rgba(255,255,255,0.6); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.08em; }
+
+/* FEATURES */
+.features { max-width: 1000px; margin: 0 auto; padding: 5rem 2rem; }
+.features h2 {
+  font-family: 'DM Sans', sans-serif; font-size: 1.75rem; font-weight: 700;
+  text-align: center; margin-bottom: 3rem; color: var(--ink);
+}
+.features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 2rem; }
+.feature-card {
+  background: white; border: 1px solid var(--border); border-radius: 6px;
+  padding: 1.75rem; position: relative; overflow: hidden;
+}
+.feature-card::before {
+  content: ''; position: absolute; top: 0; left: 0;
+  width: 100%; height: 3px; background: var(--navy);
+}
+.feature-icon {
+  width: 44px; height: 44px; background: var(--light-blue);
+  border-radius: 50%; display: flex; align-items: center; justify-content: center;
+  margin-bottom: 1rem;
+}
+.feature-card h3 { font-family: 'DM Sans', sans-serif; font-size: 1.05rem; font-weight: 700; margin-bottom: 0.5rem; }
+.feature-card p { font-size: 14px; color: var(--ink-mid); line-height: 1.6; }
+
+/* HOW IT WORKS */
+.how { background: var(--light-blue); padding: 5rem 2rem; border-top: 1px solid #D8DEE8; border-bottom: 1px solid #D8DEE8; }
+.how-inner { max-width: 800px; margin: 0 auto; }
+.how h2 { font-family: 'DM Sans', sans-serif; font-size: 1.75rem; font-weight: 700; text-align: center; margin-bottom: 3rem; }
+.steps { display: flex; flex-direction: column; gap: 1.5rem; }
+.step { display: flex; gap: 1.25rem; align-items: flex-start; }
+.step-num {
+  width: 36px; height: 36px; background: var(--navy); color: white;
+  border-radius: 50%; display: flex; align-items: center; justify-content: center;
+  font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 15px; flex-shrink: 0;
+}
+.step-body h3 { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1rem; margin-bottom: 3px; }
+.step-body p { font-size: 14px; color: var(--ink-mid); line-height: 1.6; }
+
+/* INSTALL */
+.install { max-width: 900px; margin: 0 auto; padding: 5rem 2rem; }
+.install h2 { font-family: 'DM Sans', sans-serif; font-size: 1.75rem; font-weight: 700; text-align: center; margin-bottom: 0.75rem; }
+.install-sub { text-align: center; color: var(--ink-mid); font-size: 15px; margin-bottom: 3rem; }
+.install-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; }
+.install-card {
+  background: white; border: 1px solid var(--border); border-radius: 6px; padding: 2rem;
+}
+.install-card h3 {
+  font-family: 'DM Sans', sans-serif; font-size: 1.1rem; font-weight: 700;
+  margin-bottom: 1.25rem; display: flex; align-items: center; gap: 10px;
+}
+.os-badge {
+  font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;
+  padding: 3px 8px; border-radius: 3px;
+}
+.ios-badge { background: #E8F0FB; color: #1B2A4A; }
+.android-badge { background: var(--green-light); color: var(--green); }
+.install-steps { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.install-steps li {
+  font-size: 14px; color: var(--ink-mid); line-height: 1.5;
+  padding-left: 1.5rem; position: relative;
+}
+.install-steps li::before {
+  content: attr(data-n);
+  position: absolute; left: 0;
+  font-weight: 700; color: var(--navy); font-size: 13px;
+}
+.install-note { margin-top: 1rem; font-size: 12px; color: var(--ink-faint); font-style: italic; }
+
+/* FEEDBACK */
+.feedback { background: var(--light-blue); border-top: 1px solid #D8DEE8; padding: 5rem 2rem; }
+.feedback-inner { max-width: 600px; margin: 0 auto; text-align: center; }
+.feedback h2 { font-family: 'DM Sans', sans-serif; font-size: 1.75rem; font-weight: 700; margin-bottom: 0.75rem; }
+.feedback-sub { color: var(--ink-mid); font-size: 15px; margin-bottom: 2.5rem; line-height: 1.6; }
+.form-placeholder {
+  background: white; border: 2px dashed #C8CED8; border-radius: 6px;
+  padding: 3rem 2rem; color: var(--ink-faint); font-size: 14px;
+}
+.form-placeholder strong { display: block; font-size: 15px; color: var(--ink-mid); margin-bottom: 0.5rem; font-weight: 600; }
+
+/* FOOTER */
+footer {
+  background: var(--navy); color: rgba(255,255,255,0.6);
+  padding: 2rem; text-align: center; font-size: 13px;
+}
+footer a { color: rgba(255,255,255,0.8); text-decoration: none; }
+footer a:hover { color: white; }
+.footer-links { display: flex; gap: 1.5rem; justify-content: center; margin-bottom: 1rem; flex-wrap: wrap; }
+
+@media (max-width: 640px) {
+  .stats { gap: 2rem; }
+  nav { padding: 0.65rem 1rem; }
+  .hero { padding: 3rem 1rem 2.5rem; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a class="nav-logo" href="/">
+    <svg width="32" height="32" viewBox="0 0 56 56" fill="none">
+      <circle cx="28" cy="28" r="26.5" stroke="#1B2A4A" stroke-width="3"/>
+      <path d="M15 33 Q15 22 28 22 Q41 22 41 33" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" fill="none"/>
+      <line x1="13" y1="33" x2="43" y2="33" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+      <line x1="18" y1="37" x2="38" y2="37" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+      <line x1="28" y1="22" x2="28" y2="19" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="28" cy="18" r="2.8" fill="#1B2A4A"/>
+    </svg>
+    <span class="nav-wordmark"><span class="nav-out">Outside</span><span class="nav-eats">&nbsp;Eats</span></span>
+  </a>
+  <a class="nav-cta" href="/index.html">Open App</a>
+</nav>
+
+<section class="hero">
+  <svg class="hero-logo" width="90" height="90" viewBox="0 0 56 56" fill="none">
+    <circle cx="28" cy="28" r="26.5" stroke="#1B2A4A" stroke-width="3"/>
+    <path d="M15 33 Q15 22 28 22 Q41 22 41 33" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <line x1="13" y1="33" x2="43" y2="33" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+    <line x1="18" y1="37" x2="38" y2="37" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+    <line x1="28" y1="22" x2="28" y2="19" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="28" cy="18" r="2.8" fill="#1B2A4A"/>
+  </svg>
+  <div class="hero-badge">Free to use &mdash; No download required</div>
+  <h1><span>Outside</span> Eats</h1>
+  <p class="hero-sub">Find the best restaurants in the Bay Area. Every listing is rated 4 stars and above. No ads, no noise &mdash; just great places to eat.</p>
+  <div class="hero-buttons">
+    <a class="btn-primary" href="/index.html">Browse Restaurants</a>
+    <a class="btn-secondary" href="#install">Add to Home Screen</a>
+  </div>
+</section>
+
+<section class="stats">
+  <div class="stat">
+    <div class="stat-num">2,600+</div>
+    <div class="stat-label">Restaurants</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num">19</div>
+    <div class="stat-label">Bay Area Cities</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num">4.0+</div>
+    <div class="stat-label">Star Minimum</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num">Free</div>
+    <div class="stat-label">Always</div>
+  </div>
+</section>
+
+<section class="features">
+  <h2>Why Outside Eats</h2>
+  <div class="features-grid">
+    <div class="feature-card">
+      <div class="feature-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B2A4A" stroke-width="2.5"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+      </div>
+      <h3>Curated quality</h3>
+      <p>Every restaurant on Outside Eats is rated 4 stars or higher on Google. No filler, no paid placements in the listings.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B2A4A" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+      </div>
+      <h3>Loads instantly</h3>
+      <p>Restaurant data is built into the app. No waiting for results to load &mdash; everything is ready the moment you open it.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B2A4A" stroke-width="2.5"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+      </div>
+      <h3>Hyper local</h3>
+      <p>Built specifically for the Bay Area Peninsula. Every city from Alameda to Sunnyvale, with real neighborhood coverage.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B2A4A" stroke-width="2.5"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12" y2="18"/></svg>
+      </div>
+      <h3>Works on any device</h3>
+      <p>Use it in your browser or add it to your phone's home screen for a full app experience. No App Store required.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B2A4A" stroke-width="2.5"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
+      </div>
+      <h3>Filter by cuisine</h3>
+      <p>Browse all restaurants or narrow by cuisine type. Sort by highest rated or most reviewed to find exactly what you want.</p>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1B2A4A" stroke-width="2.5"><path d="M3 7l6-3 6 3 6-3v13l-6 3-6-3-6 3V7z"/><path d="M9 4v13M15 7v13"/></svg>
+      </div>
+      <h3>Map view</h3>
+      <p>Switch to map view to see all restaurants in a city plotted visually. Tap any pin to get directions or visit their website.</p>
+    </div>
+  </div>
+</section>
+
+<section class="how">
+  <div class="how-inner">
+    <h2>How it works</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <h3>Choose your city</h3>
+          <p>Select from 19 Bay Area cities in the dropdown. The restaurant list loads instantly from pre-built data &mdash; no waiting.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <h3>Browse or filter</h3>
+          <p>Scroll through all restaurants sorted by rating, or use the cuisine filter to narrow to exactly what you're in the mood for.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <h3>Read reviews and go</h3>
+          <p>Tap the star rating to read Google reviews. Tap Map to get directions. Tap Website to see the menu. That's it.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="install" id="install">
+  <h2>Add to your home screen</h2>
+  <p class="install-sub">Outside Eats works like a native app on both iOS and Android. No App Store, no download &mdash; just tap and go.</p>
+  <div class="install-grid">
+    <div class="install-card">
+      <h3>
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="#1B2A4A"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+        iPhone &amp; iPad
+        <span class="os-badge ios-badge">iOS</span>
+      </h3>
+      <ol class="install-steps">
+        <li data-n="1.">Open outside-eats.com in Safari (must be Safari, not Chrome)</li>
+        <li data-n="2.">Tap the Share button at the bottom of the screen — it looks like a box with an arrow pointing up</li>
+        <li data-n="3.">Scroll down and tap <strong>Add to Home Screen</strong></li>
+        <li data-n="4.">Tap <strong>Add</strong> in the top right corner</li>
+        <li data-n="5.">The Outside Eats icon will appear on your home screen</li>
+      </ol>
+      <p class="install-note">The app will open full screen without the browser address bar, just like a native app.</p>
+    </div>
+    <div class="install-card">
+      <h3>
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="#3B6D11"><path d="M17.6 9.48l1.84-3.18c.16-.31.04-.69-.26-.85-.29-.15-.65-.06-.83.22l-1.88 3.24c-2.86-1.21-6.08-1.21-8.94 0L5.65 5.67c-.19-.29-.54-.37-.83-.22-.3.16-.42.54-.26.85L6.4 9.48C3.3 11.25 1.28 14.44 1 18h22c-.28-3.56-2.3-6.75-5.4-8.52zM7 15.25c-.69 0-1.25-.56-1.25-1.25s.56-1.25 1.25-1.25 1.25.56 1.25 1.25-.56 1.25-1.25 1.25zm10 0c-.69 0-1.25-.56-1.25-1.25s.56-1.25 1.25-1.25 1.25.56 1.25 1.25-.56 1.25-1.25 1.25z"/></svg>
+        Android
+        <span class="os-badge android-badge">Android</span>
+      </h3>
+      <ol class="install-steps">
+        <li data-n="1.">Open outside-eats.com in Chrome</li>
+        <li data-n="2.">Look for the <strong>Install app</strong> banner at the bottom of the screen and tap it. If you don't see it, continue to step 3.</li>
+        <li data-n="3.">Tap the three-dot menu in the top right corner of Chrome</li>
+        <li data-n="4.">Tap <strong>Add to Home screen</strong></li>
+        <li data-n="5.">Tap <strong>Add</strong> to confirm</li>
+      </ol>
+      <p class="install-note">Android may show an automatic install prompt the first time you visit. Either method works.</p>
+    </div>
+  </div>
+</section>
+
+<section class="feedback" id="feedback">
+  <div class="feedback-inner">
+    <h2>We want to hear from you</h2>
+    <p class="feedback-sub">Found a restaurant we missed? Have a suggestion? Notice something broken? Drop us a note and we'll get back to you.</p>
+    <div class="form-placeholder">
+      <strong>Feedback form coming soon</strong>
+      In the meantime, email us at <a href="mailto:info@outside-eats.com" style="color: #1B2A4A; font-weight: 600;">info@outside-eats.com</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-links">
+    <a href="/index.html">Open App</a>
+    <a href="#install">Install</a>
+    <a href="#feedback">Feedback</a>
+    <a href="mailto:info@outside-eats.com">info@outside-eats.com</a>
+  </div>
+  <div>&copy; 2026 Outside Eats &mdash; Bay Area Restaurant Guide</div>
+</footer>
+
+</body>
+</html>
