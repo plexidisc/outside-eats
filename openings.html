@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GMGVMQ0MY1"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-GMGVMQ0MY1');</script>
+<meta charset="UTF-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>New Openings — Outside Eats</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56' fill='none'%3E%3Ccircle cx='28' cy='28' r='26.5' stroke='%231B2A4A' stroke-width='3'/%3E%3Cpath d='M15 33 Q15 22 28 22 Q41 22 41 33' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round' fill='none'/%3E%3Cline x1='13' y1='33' x2='43' y2='33' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Cline x1='18' y1='37' x2='38' y2='37' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Cline x1='28' y1='22' x2='28' y2='19' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Ccircle cx='28' cy='18' r='2.8' fill='%231B2A4A'/%3E%3C/svg%3E">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700;800&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --navy: #1B2A4A; --cream: #FAFAF8; --light-blue: #F0F3F8;
+  --green: #3B6D11; --green-light: #EAF3DE;
+  --border-blue: #D8DEE8; --ink: #1A1A1A; --ink-faint: #999;
+  --amber: #8B5E1A; --amber-light: #FEF3E2;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Source Sans 3', sans-serif; background: var(--cream); color: var(--ink); }
+
+/* BAR 1 */
+.bar1 { background: var(--light-blue); border-bottom: 1px solid var(--border-blue); padding: 0; height: 56px; }
+.bar1-inner { max-width: 1100px; margin: 0 auto; padding: 0 1rem; display: flex; align-items: center; justify-content: space-between; height: 56px; }
+.logo-block { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.wordmark { font-family: 'DM Sans', sans-serif; font-size: 18px; letter-spacing: 0.08em; text-transform: uppercase; line-height: 1; }
+.wordmark-out { color: var(--ink); font-weight: 600; }
+.wordmark-eats { color: var(--navy); font-weight: 800; }
+.logo-sub { font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faint); margin-top: 2px; }
+.logo-divider { width: 1px; height: 32px; background: var(--border-blue); }
+.btn-app { background: var(--navy); color: white; padding: 7px 14px; border-radius: 4px; font-family: 'Source Sans 3', sans-serif; font-size: 13px; font-weight: 700; text-decoration: none; }
+
+/* BAR 2 */
+.bar2 { background: var(--navy); padding: 0; height: 38px; }
+.bar2-inner { max-width: 1100px; margin: 0 auto; padding: 0 1rem; height: 38px; display: flex; align-items: center; }
+.bar2-label { font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.9); letter-spacing: 0.04em; text-transform: uppercase; flex: 1; }
+
+/* OPENINGS LIST */
+.openings-list { max-width: 1100px; margin: 0 auto; background: white; }
+.section-header { padding: 0.4rem 1rem; background: #3B6D11; font-family: 'DM Sans', sans-serif; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: white; }
+.opening-card { display: flex; border-bottom: 1px solid #EFEFEB; min-height: 80px; }
+.opening-card:last-child { border-bottom: none; }
+.opening-badge-block { width: 72px; min-width: 72px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--light-blue); border-right: 1px solid var(--border-blue); padding: 0.5rem; flex-shrink: 0; gap: 4px; }
+.opening-badge-new { font-family: 'DM Sans', sans-serif; font-size: 9px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: white; background: var(--green); padding: 3px 6px; border-radius: 2px; text-align: center; }
+.opening-badge-recent { font-family: 'DM Sans', sans-serif; font-size: 9px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: white; background: var(--amber); padding: 3px 6px; border-radius: 2px; text-align: center; }
+.opening-body { flex: 1; padding: 0.55rem 0.85rem; min-width: 0; display: flex; flex-direction: column; justify-content: space-between; }
+.opening-name { font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 700; color: var(--ink); margin-bottom: 2px; }
+.opening-location { font-size: 11px; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+.opening-highlights { font-size: 12px; color: #666; line-height: 1.5; margin-bottom: 6px; }
+.opening-footer { display: flex; align-items: center; gap: 6px; }
+.olink { font-size: 10px; font-weight: 700; padding: 3px 8px; border: 1px solid var(--navy); border-radius: 2px; color: var(--navy); text-transform: uppercase; letter-spacing: 0.05em; text-decoration: none; white-space: nowrap; flex-shrink: 0; }
+.olink:hover { background: var(--navy); color: white; }
+
+footer { background: var(--navy); color: rgba(255,255,255,0.5); padding: 1.25rem 1rem; text-align: center; font-size: 12px; }
+footer a { color: rgba(255,255,255,0.7); text-decoration: none; }
+
+@media (max-width: 640px) { .opening-name { font-size: 14px; } }
+</style>
+</head>
+<body>
+
+<div class="bar1">
+<div class="bar1-inner">
+  <a class="logo-block" href="/index.html">
+    <svg width="36" height="36" viewBox="0 0 56 56" fill="none">
+      <circle cx="28" cy="28" r="26.5" stroke="#1B2A4A" stroke-width="3"/>
+      <path d="M15 33 Q15 22 28 22 Q41 22 41 33" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" fill="none"/>
+      <line x1="13" y1="33" x2="43" y2="33" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+      <line x1="18" y1="37" x2="38" y2="37" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+      <line x1="28" y1="22" x2="28" y2="19" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="28" cy="18" r="2.8" fill="#1B2A4A"/>
+    </svg>
+    <div class="logo-divider"></div>
+    <div>
+      <div class="wordmark"><span class="wordmark-out">Outside</span><span class="wordmark-eats"> Eats</span></div>
+      <div class="logo-sub">Bay Area &amp; Beyond Restaurant Guide</div>
+    </div>
+  </a>
+  <a class="btn-app" href="/index.html">← Back to App</a>
+</div>
+</div>
+
+<div class="bar2">
+<div class="bar2-inner">
+  <span class="bar2-label">🍽️ New Restaurant Openings</span>
+</div>
+</div>
+
+<div class="openings-list">
+
+  <div class="section-header">New Openings — March &amp; April 2026</div>
+
+  <div class="opening-card">
+    <div class="opening-badge-block">
+      <span class="opening-badge-new">New</span>
+    </div>
+    <div class="opening-body">
+      <div class="opening-name">Shiok Singapore Kitchen</div>
+      <div class="opening-location">Menlo Park</div>
+      <div class="opening-highlights">Authentic Singaporean street food like chili crab and laksa.</div>
+      <div class="opening-footer"><a class="olink" href="https://shiokkitchen.com" target="_blank">Website</a></div>
+    </div>
+  </div>
+
+  <div class="opening-card">
+    <div class="opening-badge-block">
+      <span class="opening-badge-new">New</span>
+    </div>
+    <div class="opening-body">
+      <div class="opening-name">Yutori</div>
+      <div class="opening-location">Palo Alto</div>
+      <div class="opening-highlights">A Japanese multi-concept space with a cafe, market, and bar.</div>
+      <div class="opening-footer"><a class="olink" href="https://yutori-pa.com" target="_blank">Website</a></div>
+    </div>
+  </div>
+
+  <div class="opening-card">
+    <div class="opening-badge-block">
+      <span class="opening-badge-new">New</span>
+    </div>
+    <div class="opening-body">
+      <div class="opening-name">MIXT</div>
+      <div class="opening-location">San Mateo</div>
+      <div class="opening-highlights">Health-focused salads and grain bowls in downtown San Mateo.</div>
+      <div class="opening-footer"><a class="olink" href="https://mixt.com" target="_blank">Website</a></div>
+    </div>
+  </div>
+
+  <div class="opening-card">
+    <div class="opening-badge-block">
+      <span class="opening-badge-new">New</span>
+    </div>
+    <div class="opening-body">
+      <div class="opening-name">Amado</div>
+      <div class="opening-location">Burlingame</div>
+      <div class="opening-highlights">Contemporary Mexican cuisine from the Dominguez restaurant family.</div>
+      <div class="opening-footer"><a class="olink" href="https://amadoburlingame.com" target="_blank">Website</a></div>
+    </div>
+  </div>
+
+  <div class="section-header">Recent Notable Debuts — Winter 2026</div>
+
+  <div class="opening-card">
+    <div class="opening-badge-block">
+      <span class="opening-badge-recent">Recent</span>
+    </div>
+    <div class="opening-body">
+      <div class="opening-name">Hibari</div>
+      <div class="opening-location">Portola Valley</div>
+      <div class="opening-highlights">Upscale sushi and Japanese craftsmanship in Ladera Country Shopper.</div>
+      <div class="opening-footer"><a class="olink" href="https://hibariportolavalley.com" target="_blank">Website</a></div>
+    </div>
+  </div>
+
+  <div class="opening-card">
+    <div class="opening-badge-block">
+      <span class="opening-badge-recent">Recent</span>
+    </div>
+    <div class="opening-body">
+      <div class="opening-name">Sana'a Cafe</div>
+      <div class="opening-location">Redwood City</div>
+      <div class="opening-highlights">Traditional Yemeni coffee and spiced pastries.</div>
+      <div class="opening-footer"><a class="olink" href="https://sanaacafe.com" target="_blank">Website</a></div>
+    </div>
+  </div>
+
+  <div class="opening-card">
+    <div class="opening-badge-block">
+      <span class="opening-badge-recent">Recent</span>
+    </div>
+    <div class="opening-body">
+      <div class="opening-name">Zaytinya</div>
+      <div class="opening-location">Palo Alto</div>
+      <div class="opening-highlights">Mediterranean mezze from Chef José Andrés at Stanford Shopping Center.</div>
+      <div class="opening-footer"><a class="olink" href="https://zaytinya.com" target="_blank">Website</a></div>
+    </div>
+  </div>
+
+  <div class="opening-card">
+    <div class="opening-badge-block">
+      <span class="opening-badge-recent">Recent</span>
+    </div>
+    <div class="opening-body">
+      <div class="opening-name">Café Vivant</div>
+      <div class="opening-location">Menlo Park</div>
+      <div class="opening-highlights">French-inspired bistro and wine bar.</div>
+      <div class="opening-footer"><a class="olink" href="https://cafevivantca.com" target="_blank">Website</a></div>
+    </div>
+  </div>
+
+</div>
+
+<footer>Outside Eats &nbsp;·&nbsp; Powered by Google Places &nbsp;·&nbsp; <a href="/landing.html">More info &amp; advertising</a></footer>
+
+</body>
+</html>
