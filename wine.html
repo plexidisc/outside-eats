@@ -554,5 +554,27 @@ function closePanel() {
 }
 </script>
 
+<script>
+(function () {
+  if (!window.WINE_DATA || !Array.isArray(WINE_DATA)) return;
+  var photoMap = {};
+  WINE_DATA.forEach(function (w) { if (w.photoUrl) photoMap[w.name] = w.photoUrl; });
+  document.querySelectorAll('.winery-name').forEach(function (el) {
+    var name = el.textContent.trim();
+    if (!photoMap[name]) return;
+    var photoDiv = el.closest('.winery-card').querySelector('.winery-photo');
+    if (!photoDiv) return;
+    var img = document.createElement('img');
+    img.src = photoMap[name];
+    img.alt = name;
+    img.loading = 'lazy';
+    img.style.cssText = 'width:100%;height:100%;object-fit:cover;display:block';
+    img.onerror = function () { this.remove(); };
+    photoDiv.innerHTML = '';
+    photoDiv.appendChild(img);
+  });
+})();
+</script>
+
 </body>
 </html>
