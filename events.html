@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GMGVMQ0MY1"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-GMGVMQ0MY1');</script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Food Events — Outside Eats</title>
+<link href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56' fill='none'%3E%3Ccircle cx='28' cy='28' r='26.5' stroke='%231B2A4A' stroke-width='3'/%3E%3Cpath d='M15 33 Q15 22 28 22 Q41 22 41 33' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round' fill='none'/%3E%3Cline x1='13' y1='33' x2='43' y2='33' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Cline x1='18' y1='37' x2='38' y2='37' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Cline x1='28' y1='22' x2='28' y2='19' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Ccircle cx='28' cy='18' r='2.8' fill='%231B2A4A'/%3E%3C/svg%3E" rel="icon" type="image/svg+xml"/>
+<link href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56' fill='none'%3E%3Ccircle cx='28' cy='28' r='26.5' stroke='%231B2A4A' stroke-width='3'/%3E%3Cpath d='M15 33 Q15 22 28 22 Q41 22 41 33' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round' fill='none'/%3E%3Cline x1='13' y1='33' x2='43' y2='33' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Cline x1='18' y1='37' x2='38' y2='37' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Cline x1='28' y1='22' x2='28' y2='19' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Ccircle cx='28' cy='18' r='2.8' fill='%231B2A4A'/%3E%3C/svg%3E" rel="icon" type="image/svg+xml"/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700;800&amp;family=Source+Sans+3:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --navy: #1B2A4A; --cream: #FAFAF8; --light-blue: #F0F3F8;
+  --green: #3B6D11; --green-light: #EAF3DE;
+  --border-blue: #D8DEE8; --ink: #1A1A1A; --ink-faint: #999;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Source Sans 3', sans-serif; background: var(--cream); color: var(--ink); }
+.bar1 { background: var(--light-blue); border-bottom: 1px solid var(--border-blue); padding: 0; height: 56px; }
+.bar1-inner { max-width: 1100px; margin: 0 auto; padding: 0 1rem; display: flex; align-items: center; justify-content: space-between; height: 56px; }
+.logo-block { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.wordmark { font-family: 'DM Sans', sans-serif; font-size: 18px; letter-spacing: 0.08em; text-transform: uppercase; line-height: 1; }
+.wordmark-out { color: var(--ink); font-weight: 600; }
+.wordmark-eats { color: var(--navy); font-weight: 800; }
+.logo-sub { font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faint); margin-top: 2px; }
+.logo-divider { width: 1px; height: 32px; background: var(--border-blue); }
+.btn-app { background: var(--navy); color: white; padding: 7px 14px; border-radius: 4px; font-family: 'Source Sans 3', sans-serif; font-size: 13px; font-weight: 700; text-decoration: none; }
+.bar2 { background: var(--navy); padding: 0; height: 38px; }
+.bar2-inner { max-width: 1100px; margin: 0 auto; padding: 0 1rem; height: 38px; display: flex; align-items: center; gap: 12px; }
+.bar2-label { font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.9); letter-spacing: 0.04em; text-transform: uppercase; flex: 1; }
+
+.month-filter { margin-left: 0; }
+.month-filter select { font-size: 13px; padding: 6px 8px; border: 1px solid rgba(255,255,255,0.2); border-radius: 4px; background: rgba(255,255,255,0.08); color: white; font-family: 'Source Sans 3', sans-serif; cursor: pointer; outline: none; flex-shrink: 0; -webkit-appearance: none; appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='white'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 8px center; padding-right: 24px; }
+.month-filter select option { background: #1B2A4A; color: white; }
+.bar2-updated { margin-left: auto; font-size: 11px; color: rgba(255,255,255,0.5); }
+.event-list { max-width: 1100px; margin: 0 auto; background: white; }
+.month-header { padding: 0.4rem 1rem; background: #6B2737; border-top: 1px solid #6B2737; border-bottom: 1px solid #6B2737; font-family: 'DM Sans', sans-serif; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: white; }
+.event-card { display: flex; border-bottom: 1px solid #EFEFEB; min-height: 90px; }
+.event-card:last-child { border-bottom: none; }
+.event-date-block { width: 72px; min-width: 72px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--light-blue); border-right: 1px solid var(--border-blue); padding: 0.5rem; flex-shrink: 0; }
+.event-month { font-family: 'DM Sans', sans-serif; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--navy); }
+.event-day { font-family: 'DM Sans', sans-serif; font-size: 26px; font-weight: 800; line-height: 1; color: var(--navy); }
+.event-dow { font-size: 10px; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.07em; margin-top: 1px; }
+.event-multiday { font-size: 9px; font-weight: 700; color: var(--green); text-transform: uppercase; letter-spacing: 0.07em; background: var(--green-light); padding: 2px 5px; border-radius: 2px; margin-top: 3px; text-align: center; }
+.event-body { flex: 1; padding: 0.55rem 0.85rem; min-width: 0; display: flex; flex-direction: column; justify-content: space-between; }
+.event-name { font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 700; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 2px; }
+.event-meta { font-size: 11px; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.05em; display: flex; align-items: center; gap: 4px; white-space: nowrap; overflow: hidden; margin-bottom: 3px; }
+.meta-dot { color: #CCC; }
+.now { color: #3B6D11; font-weight: 700; }
+.event-desc { font-size: 12px; color: #666; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 5px; }
+.event-footer { display: flex; align-items: center; gap: 6px; }
+.event-location { font-size: 11px; color: #BBB; flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.elink { font-size: 10px; font-weight: 700; padding: 3px 8px; border: 1px solid var(--navy); border-radius: 2px; color: var(--navy); text-transform: uppercase; letter-spacing: 0.05em; text-decoration: none; white-space: nowrap; flex-shrink: 0; }
+.elink:hover { background: var(--navy); color: white; }
+.cal-wrap { position: relative; display: inline-block; flex-shrink: 0; }
+.cal-btn { font-size: 10px; font-weight: 700; padding: 3px 8px; border: 1px solid var(--green); border-radius: 2px; color: var(--green); text-transform: uppercase; letter-spacing: 0.05em; background: white; cursor: pointer; white-space: nowrap; }
+.cal-btn:hover { background: var(--green-light); }
+.cal-dropdown { display: none; position: absolute; bottom: 100%; left: 0; background: white; border: 1px solid var(--border-blue); border-radius: 3px; box-shadow: 0 2px 8px rgba(0,0,0,0.12); z-index: 10; min-width: 160px; margin-bottom: 4px; }
+.cal-dropdown a { display: block; padding: 7px 12px; font-size: 11px; color: var(--ink); text-decoration: none; white-space: nowrap; }
+.cal-dropdown a:hover { background: var(--light-blue); }
+.cal-wrap.open .cal-dropdown { display: block; }
+footer { background: var(--navy); color: rgba(255,255,255,0.5); padding: 1.25rem 1rem; text-align: center; font-size: 12px; }
+footer a { color: rgba(255,255,255,0.7); text-decoration: none; }
+@media (max-width: 640px) { .event-name { font-size: 14px; } .event-desc { -webkit-line-clamp: 2; } }
+
+.slide-panel-close:hover { color: #1B2A4A; }
+.slide-nav-item:hover { background: #F0F3F8; }
+.slide-nav-item.coming-soon { color: #bbb; pointer-events: none; }
+.slide-nav-item.coming-soon::after { content: ' — Coming Soon'; font-size: 11px; color: #ccc; }
+</style>
+</head>
+<body>
+<div class="bar1">
+<div class="bar1-inner">
+<a class="logo-block" href="/index.html">
+<svg fill="none" height="36" viewbox="0 0 56 56" width="36">
+<circle cx="28" cy="28" r="26.5" stroke="#1B2A4A" stroke-width="3"></circle>
+<path d="M15 33 Q15 22 28 22 Q41 22 41 33" fill="none" stroke="#1B2A4A" stroke-linecap="round" stroke-width="3"></path>
+<line stroke="#1B2A4A" stroke-linecap="round" stroke-width="3" x1="13" x2="43" y1="33" y2="33"></line>
+<line stroke="#1B2A4A" stroke-linecap="round" stroke-width="3" x1="18" x2="38" y1="37" y2="37"></line>
+<line stroke="#1B2A4A" stroke-linecap="round" stroke-width="3" x1="28" x2="28" y1="22" y2="19"></line>
+<circle cx="28" cy="18" fill="#1B2A4A" r="2.8"></circle>
+</svg>
+<div class="logo-divider"></div>
+<div>
+<div class="wordmark"><span class="wordmark-out">Outside</span><span class="wordmark-eats"> Eats</span></div>
+<div class="logo-sub">San Francisco Peninsula Food Guide</div>
+</div>
+</a>
+<a class="btn-app" href="/index.html">← Go Back</a>
+</div>
+</div>
+<div class="bar2">
+<div class="bar2-inner">
+<span class="bar2-label">📅 Food Events</span>
+<div class="month-filter">
+<select id="monthFilter" onchange="filterByMonth(this.value)">
+<option value="all">All months</option>
+<option value="Apr">April 2026</option>
+<option value="May">May 2026</option>
+<option value="Jun">June 2026</option>
+<option value="Jul">July 2026</option>
+<option value="Aug">August 2026</option></select>
+</div>
+<span class="bar2-updated"></span>
+
+</div>
+</div>
+
+
+<div class="event-list">
+<div class="month-header">April 2026</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">Apr</div>
+<div class="event-day">23</div>
+<div class="event-dow">Thu</div>
+<div class="event-multiday">thru May 3</div>
+</div>
+<div class="event-body">
+<div class="event-name">Flavors of the Peninsula</div>
+<div class="event-meta"><span>San Mateo County</span><span class="meta-dot">·</span><span class="now">Happening Now</span></div>
+<div class="event-desc">A regional culinary celebration with special prix-fixe menus at 100+ independently owned restaurants, from Bayside to Coastside.</div>
+<div class="event-footer"><span class="event-location">Various locations, San Mateo County</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Flavors of the Peninsula&amp;dates=20260423T000000Z/20260504T000000Z&amp;location=Various locations, San Mateo County" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260423T000000Z%0ADTEND:20260504T000000Z%0ASUMMARY:Flavors of the Peninsula%0ALOCATION:Various locations, San Mateo County%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Flavors of the Peninsula&amp;startdt=20260423T000000Z&amp;enddt=20260504T000000Z&amp;location=Various locations, San Mateo County&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://www.thesanfranciscopeninsula.com" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="month-header">May 2026</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">May</div>
+<div class="event-day">1</div>
+<div class="event-dow">Fri</div>
+<div class="event-multiday">thru May 4</div>
+</div>
+<div class="event-body">
+<div class="event-name">Taste of Half Moon Bay</div>
+<div class="event-meta"><span>Half Moon Bay</span><span class="meta-dot">·</span><span>Multi-day</span></div>
+<div class="event-desc">A celebration of the coastside's culinary scene with tastings, dinners, and experiences showcasing local chefs, farms, and seafood.</div>
+<div class="event-footer"><span class="event-location">Half Moon Bay, CA</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Taste of Half Moon Bay&amp;dates=20260501T000000Z/20260505T000000Z&amp;location=Half Moon Bay, CA" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260501T000000Z%0ADTEND:20260505T000000Z%0ASUMMARY:Taste of Half Moon Bay%0ALOCATION:Half Moon Bay, CA%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Taste of Half Moon Bay&amp;startdt=20260501T000000Z&amp;enddt=20260505T000000Z&amp;location=Half Moon Bay, CA&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://www.visithalfmoonbay.org/events/taste-of-half-moon-bay/" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">May</div>
+<div class="event-day">1</div>
+<div class="event-dow">Fri</div>
+</div>
+<div class="event-body">
+<div class="event-name">Dine &amp; Dance — Line Dancing at Pinstripes</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>6:30 PM</span></div>
+<div class="event-desc">Combine dinner and line dancing at Pinstripes San Mateo. Great for groups and date nights.</div>
+<div class="event-footer"><span class="event-location">Pinstripes, San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Dine %26 Dance - Line Dancing at Pinstripes&amp;dates=20260501T183000Z/20260501T220000Z&amp;location=Pinstripes, San Mateo" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260501T183000Z%0ADTEND:20260501T220000Z%0ASUMMARY:Dine %26 Dance - Line Dancing at Pinstripes%0ALOCATION:Pinstripes, San Mateo%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Dine %26 Dance - Line Dancing at Pinstripes&amp;startdt=20260501T183000Z&amp;enddt=20260501T220000Z&amp;location=Pinstripes, San Mateo&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://www.eventbrite.com/e/dine-dance-line-dancing-pinstripes-san-mateo-ca-tickets-1986661465924?aff=oddtdtcreator" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">May</div>
+<div class="event-day">2</div>
+<div class="event-dow">Sat</div>
+</div>
+<div class="event-body">
+<div class="event-name">Bubbles &amp; Rosé Tasting</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>11:30 AM</span></div>
+<div class="event-desc">A relaxed afternoon of curated sparkling wine and rosé pours in San Mateo.</div>
+<div class="event-footer"><span class="event-location">San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Bubbles %26 Ros%C3%A9 Tasting&amp;dates=20260502T113000Z/20260502T143000Z&amp;location=San Mateo" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260502T113000Z%0ADTEND:20260502T143000Z%0ASUMMARY:Bubbles %26 Ros%C3%A9 Tasting%0ALOCATION:San Mateo%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Bubbles %26 Ros%C3%A9 Tasting&amp;startdt=20260502T113000Z&amp;enddt=20260502T143000Z&amp;location=San Mateo&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://www.eventbrite.com/e/pause-sip-explore-bubbles-rose-tickets-1985686012316" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">May</div>
+<div class="event-day">9</div>
+<div class="event-dow">Sat</div>
+</div>
+<div class="event-body">
+<div class="event-name">Half Moon Bay Wine &amp; Jazz Festival</div>
+<div class="event-meta"><span>Half Moon Bay</span><span class="meta-dot">·</span><span>12:00 PM – 5:00 PM</span></div>
+<div class="event-desc">The festival's 5th year on historic Main Street, featuring tastings from 50 California wineries alongside world-class jazz performances.</div>
+<div class="event-footer"><span class="event-location">Main St, Half Moon Bay</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Half Moon Bay Wine %26 Jazz Festival&amp;dates=20260509T120000Z/20260509T170000Z&amp;location=Main St, Half Moon Bay, CA 94019" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260509T120000Z%0ADTEND:20260509T170000Z%0ASUMMARY:Half Moon Bay Wine %26 Jazz Festival%0ALOCATION:Main St, Half Moon Bay, CA 94019%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Half Moon Bay Wine %26 Jazz Festival&amp;startdt=20260509T120000Z&amp;enddt=20260509T170000Z&amp;location=Main St, Half Moon Bay, CA 94019&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://hmbwineandjazzfest.com" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">May</div>
+<div class="event-day">21</div>
+<div class="event-dow">Thu</div>
+</div>
+<div class="event-body">
+<div class="event-name">Penfolds AAPI Dinner at Palette Tea Garden</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>5:30 PM – 8:30 PM</span></div>
+<div class="event-desc">An exclusive multi-course dinner honoring Asian American &amp; Pacific Islander Heritage Month, with each dish paired to Penfolds wines including Bin 707 Cabernet Sauvignon. Organized by the Australian American Chamber of Commerce. Tickets $130–$150.</div>
+<div class="event-footer"><span class="event-location">Palette Tea Garden &amp; Dim Sum 彩苑, 48 Hillsdale Mall, San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Penfolds+AAPI+Dinner&dates=20260521T173000/20260521T203000&location=Palette+Tea+Garden,+48+Hillsdale+Mall,+San+Mateo,+CA+94403" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260521T173000%0ADTEND:20260521T203000%0ASUMMARY:Penfolds AAPI Dinner%0ALOCATION:Palette Tea Garden, 48 Hillsdale Mall, San Mateo, CA 94403%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Penfolds+AAPI+Dinner&startdt=20260521T173000&enddt=20260521T203000&location=Palette+Tea+Garden,+48+Hillsdale+Mall,+San+Mateo,+CA+94403&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://allevents.in/san-mateo/penfolds-aapi-dinner/100001987152950969" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="month-header">June 2026</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">Jun</div>
+<div class="event-day">5</div>
+<div class="event-dow">Fri</div>
+<div class="event-multiday">thru Jun 14</div>
+</div>
+<div class="event-body">
+<div class="event-name">San Mateo County Fair</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>11 AM – 10 PM daily</span></div>
+<div class="event-desc">The Peninsula's premier annual fair with carnival rides, fair food, live concerts, exhibits, and family entertainment at the San Mateo County Event Center.</div>
+<div class="event-footer"><span class="event-location">San Mateo County Event Center, San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=San Mateo County Fair&amp;dates=20260605T110000Z/20260614T220000Z&amp;location=1346 Saratoga Dr, San Mateo, CA 94403" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260605%0ADTEND:20260614%0ASUMMARY:San Mateo County Fair%0ALOCATION:1346 Saratoga Dr, San Mateo, CA 94403%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=San Mateo County Fair&amp;startdt=20260605&amp;enddt=20260614&amp;location=1346 Saratoga Dr, San Mateo, CA 94403&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://sanmateocountyfair.com" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">Jun</div>
+<div class="event-day">18</div>
+<div class="event-dow">Thu</div>
+<div class="event-multiday">thru Aug 6</div>
+</div>
+<div class="event-body">
+<div class="event-name">San Mateo Central Park Music Series</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>6:00 PM – 8:00 PM</span><span class="meta-dot">·</span><span>Thursdays</span></div>
+<div class="event-desc">Free weekly outdoor concerts with live music, food vendors, and family-friendly activities in Central Park through August 6.</div>
+<div class="event-footer"><span class="event-location">Central Park, 50 E 5th Ave, San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=San Mateo Central Park Music Series&amp;dates=20260618T180000Z/20260618T200000Z&amp;location=Central Park, 50 E 5th Ave, San Mateo, CA 94401" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260618T180000Z%0ADTEND:20260618T200000Z%0ASUMMARY:San Mateo Central Park Music Series%0ALOCATION:Central Park, 50 E 5th Ave, San Mateo, CA 94401%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=San Mateo Central Park Music Series&amp;startdt=20260618T180000Z&amp;enddt=20260618T200000Z&amp;location=Central Park, 50 E 5th Ave, San Mateo, CA 94401&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://www.cityofsanmateo.org/1663/Special-Events" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="month-header">July 2026</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">Jul</div>
+<div class="event-day">1</div>
+<div class="event-dow">Wed</div>
+<div class="event-multiday">thru Jul 3</div>
+</div>
+<div class="event-body">
+<div class="event-name">FoodieLand Night Market — San Mateo</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>San Mateo County Event Center</span></div>
+<div class="event-desc">A multi-cultural food and entertainment night market with over 150 vendors offering diverse street food, games, and live performances.</div>
+<div class="event-footer"><span class="event-location">San Mateo County Event Center, San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=FoodieLand Night Market San Mateo&amp;dates=20260701T000000Z/20260703T235900Z&amp;location=San Mateo County Event Center, San Mateo, CA 94403" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260701%0ADTEND:20260703%0ASUMMARY:FoodieLand Night Market San Mateo%0ALOCATION:San Mateo County Event Center, San Mateo, CA 94403%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=FoodieLand Night Market San Mateo&amp;startdt=20260701&amp;enddt=20260703&amp;location=San Mateo County Event Center, San Mateo, CA 94403&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://foodielandnm.com" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">Jul</div>
+<div class="event-day">26</div>
+<div class="event-dow">Sun</div>
+</div>
+<div class="event-body">
+<div class="event-name">Heritage Fire — Peninsula Debut</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>Jul 26, 2026</span></div>
+<div class="event-desc">Nationally touring live-fire cooking experience making its Peninsula debut at Coyote Point. Top local chefs and pitmasters.</div>
+<div class="event-footer"><span class="event-location">Coyote Point, San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Heritage Fire - Peninsula Debut&amp;dates=20260726T000000Z/20260727T000000Z&amp;location=Coyote Point, San Mateo" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260726T000000Z%0ADTEND:20260727T000000Z%0ASUMMARY:Heritage Fire - Peninsula Debut%0ALOCATION:Coyote Point, San Mateo%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Heritage Fire - Peninsula Debut&amp;startdt=20260726T000000Z&amp;enddt=20260727T000000Z&amp;location=Coyote Point, San Mateo&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://www.thesanfranciscopeninsula.com/food-and-drink/heritage-fire/" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="month-header">August 2026</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">Aug</div>
+<div class="event-day">8</div>
+<div class="event-dow">Sat</div>
+<div class="event-multiday">thru Aug 9</div>
+</div>
+<div class="event-body">
+<div class="event-name">Bay Area Aloha Festival</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>Multi-day</span></div>
+<div class="event-desc">A two-day celebration of Pacific Islander culture with live entertainment, craft vendors, food, workshops, and family activities. Presented by the Pacific Islanders' Cultural Association. $5 suggested admission; children 12 &amp; under free.</div>
+<div class="event-footer"><span class="event-location">San Mateo County Event Center, 1346 Saratoga Dr, San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bay+Area+Aloha+Festival&dates=20260808/20260810&location=San+Mateo+County+Event+Center,+1346+Saratoga+Dr,+San+Mateo,+CA" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260808%0ADTEND:20260810%0ASUMMARY:Bay Area Aloha Festival%0ALOCATION:San Mateo County Event Center, 1346 Saratoga Dr, San Mateo, CA%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Bay+Area+Aloha+Festival&startdt=20260808&enddt=20260810&location=San+Mateo+County+Event+Center,+1346+Saratoga+Dr,+San+Mateo,+CA&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://www.pica-org.org/" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="event-card">
+<div class="event-date-block">
+<div class="event-month">Aug</div>
+<div class="event-day">15</div>
+<div class="event-dow">Sat</div>
+<div class="event-multiday">thru Aug 16</div>
+</div>
+<div class="event-body">
+<div class="event-name">West Coast Asian Foodie Festival</div>
+<div class="event-meta"><span>San Mateo</span><span class="meta-dot">·</span><span>10:00 AM</span></div>
+<div class="event-desc">A celebration of Asian food, culture, and creativity featuring street food, artisan merch, and live music at the San Mateo County Event Center.</div>
+<div class="event-footer"><span class="event-location">San Mateo County Event Center, San Mateo</span><div class="cal-wrap"><button class="cal-btn">+ Cal</button><div class="cal-dropdown"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=West Coast Asian Foodie Festival&amp;dates=20260815T100000Z/20260816T200000Z&amp;location=San Mateo County Event Center, San Mateo, CA 94403" target="_blank">Google Calendar</a><a download="event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20260815%0ADTEND:20260816%0ASUMMARY:West Coast Asian Foodie Festival%0ALOCATION:San Mateo County Event Center, San Mateo, CA 94403%0AEND:VEVENT%0AEND:VCALENDAR">Apple / iCal</a><a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=West Coast Asian Foodie Festival&amp;startdt=20260815&amp;enddt=20260816&amp;location=San Mateo County Event Center, San Mateo, CA 94403&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent" target="_blank">Outlook</a></div></div><a class="elink" href="https://www.facebook.com/asianfoodiefestival" target="_blank">More Info</a></div>
+</div>
+</div>
+</div>
+<footer>
+<a href="/index.html">Outside Eats</a>  · 
+  <a href="/landing.html">About</a>  · 
+  <a href="mailto:info@outside-eats.com">info@outside-eats.com</a>
+</footer>
+<script>
+document.querySelectorAll('.cal-btn').forEach(function(btn) {
+  btn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    var wrap = btn.closest('.cal-wrap');
+    var isOpen = wrap.classList.contains('open');
+    document.querySelectorAll('.cal-wrap.open').forEach(function(w) { w.classList.remove('open'); });
+    if (!isOpen) wrap.classList.add('open');
+  });
+});
+document.addEventListener('click', function() {
+  document.querySelectorAll('.cal-wrap.open').forEach(function(w) { w.classList.remove('open'); });
+});
+</script>
+<script>
+function filterByMonth(val) {
+  const monthNames = { 'Apr': 'April', 'May': 'May', 'Jun': 'June', 'Jul': 'July' };
+  const headers = document.querySelectorAll('.month-header');
+  const cards = document.querySelectorAll('.event-card');
+  if (val === 'all') {
+    headers.forEach(h => h.style.display = '');
+    cards.forEach(c => c.style.display = '');
+    return;
+  }
+  headers.forEach(h => {
+    h.style.display = h.textContent.includes(monthNames[val] || val) ? '' : 'none';
+  });
+  cards.forEach(c => {
+    const month = c.querySelector('.event-month');
+    c.style.display = (month && month.textContent.trim() === val) ? '' : 'none';
+  });
+}
+</script>
+
+</body>
+</html>
