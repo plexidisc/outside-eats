@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Burlingame Restaurants — Outside Eats</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #fff; color: #1a1a1a; font-size: 14px; }
+.header { background: #1B2A4A; color: white; padding: 1rem 1.5rem; position: sticky; top: 0; z-index: 10; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.header h1 { font-size: 16px; font-weight: 700; letter-spacing: 0.05em; }
+.header span { font-size: 12px; opacity: 0.7; white-space: nowrap; }
+.search-wrap { padding: 0.75rem 1rem; background: #F0F3F8; border-bottom: 1px solid #D8DEE8; }
+input[type=search] { width: 100%; padding: 8px 12px; border: 1px solid #D8DEE8; border-radius: 6px; font-size: 14px; outline: none; }
+.cluster { margin-bottom: 0; }
+.cluster-header { background: #6B2737; color: white; padding: 6px 1rem; font-size: 10px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
+.row { display: flex; align-items: flex-start; gap: 10px; padding: 10px 1rem; border-bottom: 1px solid #F0F0EC; cursor: pointer; }
+.row:active { background: #F8F8F6; }
+.num { font-size: 11px; color: #bbb; width: 24px; flex-shrink: 0; padding-top: 2px; }
+.info { flex: 1; min-width: 0; }
+.name { font-weight: 600; font-size: 14px; line-height: 1.3; }
+.meta { font-size: 11px; color: #777; margin-top: 2px; }
+.cuisine { display: inline-block; font-size: 10px; background: #F0F3F8; color: #555; padding: 1px 6px; border-radius: 10px; font-weight: 500; margin-top: 3px; }
+.check { width: 24px; height: 24px; border: 2px solid #D0D0CA; border-radius: 50%; flex-shrink: 0; margin-top: 2px; transition: all 0.1s; }
+.row.done .check { background: #1B2A4A; border-color: #1B2A4A; position: relative; }
+.row.done .check::after { content: '✓'; color: white; font-size: 13px; font-weight: 700; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.row.done .name { text-decoration: line-through; color: #999; }
+.count-bar { position: fixed; bottom: 0; left: 0; right: 0; background: #1B2A4A; color: white; padding: 10px 1rem; font-size: 13px; font-weight: 600; text-align: center; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>📷 Burlingame Photo Shoot</h1>
+  <span id="totalCount">113 restaurants</span>
+</div>
+
+<div class="search-wrap">
+  <input type="search" id="searchInput" placeholder="Search by name, address, or cuisine..." oninput="filterList()"/>
+</div>
+
+<div id="listWrap"></div>
+<div class="count-bar" id="countBar">0 / 113 photographed</div>
+
+<script>
+const restaurants = [
+  { name: "37 North", cuisine: "American", addr: "835 Airport Blvd" },
+  { name: "ACAN", cuisine: "Other", addr: "339 Primrose Rd" },
+  { name: "Adeline Market", cuisine: "Cafe/Bakery", addr: "1508 Adeline Dr" },
+  { name: "Alana's Cafe", cuisine: "Breakfast", addr: "1408 Burlingame Ave" },
+  { name: "Amado Cocina Regional Mexicana", cuisine: "Mexican", addr: "1100 Burlingame Ave" },
+  { name: "American Bull Bar & Grill", cuisine: "American", addr: "1819 El Camino Real" },
+  { name: "Asian Box", cuisine: "Vietnamese", addr: "1401 Burlingame Ave" },
+  { name: "Backhaus | Burlingame", cuisine: "Cafe/Bakery", addr: "261 California Dr" },
+  { name: "Barracuda Sushi", cuisine: "Japanese", addr: "347 Primrose Rd" },
+  { name: "Barrelhouse", cuisine: "Other", addr: "305 California Dr" },
+  { name: "Behan's An Irish Pub", cuisine: "Other", addr: "1327 Broadway" },
+  { name: "Benihana - Burlingame", cuisine: "Japanese", addr: "1496 Old Bayshore Hwy" },
+  { name: "Bistro Arancini", cuisine: "Italian", addr: "1219 Broadway" },
+  { name: "Blissful Noodle", cuisine: "Other", addr: "1320 Broadway" },
+  { name: "Blue Line Pizza", cuisine: "Pizza", addr: "1108 Burlingame Ave" },
+  { name: "Bonne Sante Broadway", cuisine: "Cafe/Bakery", addr: "1431 Broadway" },
+  { name: "Broadway Grill", cuisine: "American", addr: "1400 Broadway" },
+  { name: "Broadway Prime", cuisine: "Steakhouse", addr: "1316 Broadway" },
+  { name: "BullsHead Express", cuisine: "Other", addr: "819 Mitten Rd #39" },
+  { name: "Buri Buri Burlingame", cuisine: "Other", addr: "1100 Howard Ave Ste D" },
+  { name: "Cafe Cherimoya", cuisine: "Other", addr: "1407 Burlingame Ave" },
+  { name: "Cafe Figaro", cuisine: "Italian", addr: "1318 Broadway" },
+  { name: "Caffe Central", cuisine: "Cafe/Bakery", addr: "1380 Burlingame Ave" },
+  { name: "Caffe Stellato", cuisine: "Cafe/Bakery", addr: "1112 Burlingame Ave" },
+  { name: "Capri Lasagneria", cuisine: "Italian", addr: "231 Park Rd" },
+  { name: "Centro Pizza", cuisine: "Pizza", addr: "1326 Broadway" },
+  { name: "Chef Fatih", cuisine: "Middle Eastern", addr: "1722 Gilbreth Rd" },
+  { name: "Chouchou French Bistro", cuisine: "French", addr: "401 Primrose Rd" },
+  { name: "Christie's", cuisine: "Other", addr: "245 California Dr" },
+  { name: "Cj's Gourmet Delicatessen", cuisine: "Cafe/Bakery", addr: "290 Primrose Rd" },
+  { name: "Coconut Bay Thai Restaurant & Bar", cuisine: "Thai", addr: "1107 Howard Ave" },
+  { name: "Copenhagen Bakery & Cafe", cuisine: "Cafe/Bakery", addr: "1216 Burlingame Ave" },
+  { name: "Crepevine Restaurants", cuisine: "American", addr: "1310 Burlingame Ave" },
+  { name: "Curry Hyuga", cuisine: "Japanese", addr: "1204 Broadway" },
+  { name: "Dumpling Kitchen & Bar", cuisine: "Chinese", addr: "1125 Burlingame Ave" },
+  { name: "El Quetzal comida Guatemalteca", cuisine: "Other", addr: "216 California Dr" },
+  { name: "Farm & Vine American Bistro", cuisine: "American", addr: "248 Lorton Ave" },
+  { name: "Five Guys", cuisine: "Burgers", addr: "203 Primrose Rd" },
+  { name: "Flights 101 Club Lounge", cuisine: "Other", addr: "1800 Old Bayshore Hwy" },
+  { name: "Flights View Lounge", cuisine: "Other", addr: "1800 Old Bayshore Hwy" },
+  { name: "Fuumi", cuisine: "Japanese", addr: "1190 Broadway" },
+  { name: "Gabriel & Daniel's Mexican Grill", cuisine: "Mexican", addr: "250 Anza Blvd" },
+  { name: "Gigi's Cafe", cuisine: "Cafe/Bakery", addr: "111 Anza Blvd" },
+  { name: "Hanabi Ramen and Japanese Curry", cuisine: "Japanese", addr: "723 California Dr" },
+  { name: "Happy Chef", cuisine: "Other", addr: "1520 Trousdale Dr" },
+  { name: "Himali Bistro", cuisine: "Indian", addr: "1251 Broadway" },
+  { name: "House of Kebab", cuisine: "Middle Eastern", addr: "1851 El Camino Real" },
+  { name: "Ike's Love & Sandwiches", cuisine: "Cafe/Bakery", addr: "1400 Howard Ave" },
+  { name: "Il Fornaio Burlingame", cuisine: "Italian", addr: "327 Lorton Ave" },
+  { name: "Jayli's Cocina", cuisine: "Mexican", addr: "1199 Broadway Suite 2" },
+  { name: "K-Noodle", cuisine: "Fusion", addr: "1803 El Camino Real A" },
+  { name: "Kabul Afghan Cuisine", cuisine: "Middle Eastern", addr: "1101 Burlingame Ave" },
+  { name: "Kavurmaci Seyfo", cuisine: "Middle Eastern", addr: "1800 Rollins Rd" },
+  { name: "Kincaid's Fish, Chop & Steakhouse", cuisine: "Steakhouse", addr: "60 Bay View Pl" },
+  { name: "La Corneta Taqueria", cuisine: "Mexican", addr: "1123 Burlingame Ave" },
+  { name: "Le Croissant Cafe", cuisine: "Cafe/Bakery", addr: "1151 Broadway" },
+  { name: "Limón", cuisine: "Peruvian", addr: "1101 Burlingame Ave" },
+  { name: "Little Lucca", cuisine: "Cafe/Bakery", addr: "1809 El Camino Real" },
+  { name: "Lotus Falafel and Shawarma", cuisine: "Middle Eastern", addr: "1107 Burlingame Ave" },
+  { name: "Lunardi's Markets", cuisine: "Other", addr: "1825 El Camino Real" },
+  { name: "Maison Alyzée", cuisine: "Cafe/Bakery", addr: "1208 Burlingame Ave" },
+  { name: "Masala Desi Cafe", cuisine: "Indian", addr: "321 Primrose Rd" },
+  { name: "Maverick Jack's", cuisine: "American", addr: "1190 California Dr" },
+  { name: "Max's of Burlingame", cuisine: "American", addr: "1250 Old Bayshore Hwy" },
+  { name: "Mediterranean Kebab", cuisine: "Greek/Mediterranean", addr: "1318 Burlingame Ave" },
+  { name: "Mediterranean Kitchen Burlingame", cuisine: "Greek/Mediterranean", addr: "270 Lorton Ave" },
+  { name: "Mediterranean Pizza and Gyros", cuisine: "Greek/Mediterranean", addr: "1199 Broadway" },
+  { name: "Mingalaba Restaurant", cuisine: "Other", addr: "1213 Burlingame Ave" },
+  { name: "Mints & Honey Burlingame", cuisine: "Breakfast", addr: "1166 Howard Ave" },
+  { name: "Mokutanya", cuisine: "Japanese", addr: "1155 California Dr" },
+  { name: "Mollie Stone's Markets", cuisine: "Other", addr: "1477 Chapin Ave" },
+  { name: "Mr Teriyaki Sushi", cuisine: "Japanese", addr: "851 Burlway Rd #900" },
+  { name: "Mykonos", cuisine: "Greek/Mediterranean", addr: "226 Lorton Ave" },
+  { name: "Neal's Coffee Shop", cuisine: "Cafe/Bakery", addr: "1845 El Camino Real" },
+  { name: "New England Lobster Market & Eatery", cuisine: "Seafood", addr: "824 Cowan Rd" },
+  { name: "Paddy Flynn's", cuisine: "Other", addr: "246 Lorton Ave" },
+  { name: "Palmetto Superfoods", cuisine: "Vegetarian/Vegan", addr: "225 Primrose Rd" },
+  { name: "Park & Howard Bistro", cuisine: "American", addr: "1300 Howard Ave" },
+  { name: "Patty's Caffe", cuisine: "Cafe/Bakery", addr: "851 Burlway Rd STE 100" },
+  { name: "Patty's Diner", cuisine: "American", addr: "1184 Broadway" },
+  { name: "Pizza My Heart", cuisine: "Pizza", addr: "235 Primrose Rd" },
+  { name: "Pizzeria Delfina", cuisine: "Pizza", addr: "1444 Burlingame Ave" },
+  { name: "Plucky's Cafe", cuisine: "Cafe/Bakery", addr: "1352 Broadway" },
+  { name: "Rasa - Burlingame", cuisine: "Indian", addr: "209 Park Rd" },
+  { name: "Rasoi Restaurant & Lounge", cuisine: "Indian", addr: "1425 Burlingame Ave" },
+  { name: "Rise Pizzeria", cuisine: "Pizza", addr: "1451 Burlingame Ave" },
+  { name: "Ristorante Rocca", cuisine: "Italian", addr: "1205 Broadway" },
+  { name: "Royal Donut Cafe", cuisine: "Cafe/Bakery", addr: "1165 Broadway" },
+  { name: "SAKAE Sushi", cuisine: "Japanese", addr: "243 California Dr" },
+  { name: "SaltYard Restaurant and Bar", cuisine: "American", addr: "322 Lorton Ave" },
+  { name: "Sapore Italiano Ristorante", cuisine: "Italian", addr: "1447 Burlingame Ave" },
+  { name: "Shabu Club", cuisine: "Japanese", addr: "1150 Paloma Ave" },
+  { name: "Shabu House", cuisine: "Japanese", addr: "1150 Paloma Ave" },
+  { name: "Society Restaurant & Hookah Lounge", cuisine: "Greek/Mediterranean", addr: "1130 Broadway" },
+  { name: "Stacks", cuisine: "Breakfast", addr: "361 California Dr" },
+  { name: "Stella", cuisine: "Italian", addr: "1448 Burlingame Ave" },
+  { name: "Tacos Al Vapor Michoacan", cuisine: "Mexican", addr: "1 Park Rd" },
+  { name: "The Apron", cuisine: "Other", addr: "1699 Old Bayshore Hwy" },
+  { name: "The Wine Stop", cuisine: "Wine Bar", addr: "337 Primrose Rd" },
+  { name: "Tomokazu Japanese Cuisine", cuisine: "Japanese", addr: "1101 Howard Ave" },
+  { name: "Truffle Poké Bar", cuisine: "Fusion", addr: "1212 Donnelly Ave" },
+  { name: "Tuna Kahuna", cuisine: "Seafood", addr: "1117 Burlingame Ave" },
+  { name: "Twelvemonth", cuisine: "Vegetarian/Vegan", addr: "330 Lorton Ave" },
+  { name: "Twelvemonth Bar", cuisine: "Vegetarian/Vegan", addr: "336 Lorton Ave" },
+  { name: "Urban Kitchen", cuisine: "American", addr: "1152 Burlingame Ave" },
+  { name: "Velvet 48 Wine Bar", cuisine: "Wine Bar", addr: "310 Lorton Ave" },
+  { name: "Village Host Pizza & Grill", cuisine: "Pizza", addr: "1201 Broadway" },
+  { name: "Watani Spot", cuisine: "Middle Eastern", addr: "1722 Gilbreth Rd" },
+  { name: "YAY Café", cuisine: "Cafe/Bakery", addr: "533 Airport Blvd" },
+  { name: "Yangon", cuisine: "Other", addr: "1136 Broadway" },
+  { name: "Young Can Wok Chinese Bistro", cuisine: "Chinese", addr: "1200 Broadway" },
+  { name: "Yuanbao Jiaozi", cuisine: "Chinese", addr: "1841 El Camino Real" },
+  { name: "Zanzoon Mediterranean Food", cuisine: "Greek/Mediterranean", addr: "1722 Gilbreth Rd" },
+];
+
+const total = restaurants.length;
+let done = new Set();
+
+function render(list) {
+  const clusters = {};
+  list.forEach(r => {
+    const street = r.addr.replace(/^\d+\s*/, '').split(' ').slice(0, 3).join(' ');
+    if (!clusters[street]) clusters[street] = [];
+    clusters[street].push({ ...r, idx: restaurants.indexOf(r) });
+  });
+
+  let html = '';
+  Object.keys(clusters).sort().forEach(street => {
+    html += `<div class="cluster"><div class="cluster-header">${street}</div>`;
+    clusters[street].forEach(r => {
+      const isDone = done.has(r.idx);
+      html += `<div class="row ${isDone ? 'done' : ''}" onclick="toggleDone(${r.idx}, this)">
+        <div class="num">${r.idx + 1}</div>
+        <div class="info">
+          <div class="name">${r.name}</div>
+          <div class="meta">${r.addr}</div>
+          <span class="cuisine">${r.cuisine}</span>
+        </div>
+        <div class="check"></div>
+      </div>`;
+    });
+    html += '</div>';
+  });
+  document.getElementById('listWrap').innerHTML = html;
+  updateCount();
+}
+
+function toggleDone(idx, row) {
+  if (done.has(idx)) { done.delete(idx); row.classList.remove('done'); }
+  else { done.add(idx); row.classList.add('done'); }
+  updateCount();
+}
+
+function updateCount() {
+  document.getElementById('countBar').textContent = `${done.size} / ${total} photographed`;
+}
+
+function filterList() {
+  const q = document.getElementById('searchInput').value.toLowerCase();
+  const filtered = q ? restaurants.filter(r =>
+    r.name.toLowerCase().includes(q) ||
+    r.addr.toLowerCase().includes(q) ||
+    r.cuisine.toLowerCase().includes(q)
+  ) : restaurants;
+  render(filtered);
+}
+
+render(restaurants);
+</script>
+</body>
+</html>
