@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>San Mateo Restaurants — Outside Eats</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #fff; color: #1a1a1a; font-size: 14px; }
+.header { background: #1B2A4A; color: white; padding: 1rem 1.5rem; position: sticky; top: 0; z-index: 10; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.header h1 { font-size: 16px; font-weight: 700; letter-spacing: 0.05em; }
+.header span { font-size: 12px; opacity: 0.7; white-space: nowrap; }
+.search-wrap { padding: 0.75rem 1rem; background: #F0F3F8; border-bottom: 1px solid #D8DEE8; }
+input[type=search] { width: 100%; padding: 8px 12px; border: 1px solid #D8DEE8; border-radius: 6px; font-size: 14px; outline: none; }
+.cluster { margin-bottom: 0; }
+.cluster-header { background: #6B2737; color: white; padding: 6px 1rem; font-size: 10px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
+.row { display: flex; align-items: flex-start; gap: 10px; padding: 10px 1rem; border-bottom: 1px solid #F0F0EC; cursor: pointer; }
+.row:active { background: #F8F8F6; }
+.num { font-size: 11px; color: #bbb; width: 24px; flex-shrink: 0; padding-top: 2px; }
+.info { flex: 1; min-width: 0; }
+.name { font-weight: 600; font-size: 14px; line-height: 1.3; }
+.meta { font-size: 11px; color: #777; margin-top: 2px; }
+.cuisine { display: inline-block; font-size: 10px; background: #F0F3F8; color: #555; padding: 1px 6px; border-radius: 10px; font-weight: 500; margin-top: 3px; }
+.check { width: 24px; height: 24px; border: 2px solid #D0D0CA; border-radius: 50%; flex-shrink: 0; margin-top: 2px; transition: all 0.1s; }
+.row.done .check { background: #1B2A4A; border-color: #1B2A4A; position: relative; }
+.row.done .check::after { content: '✓'; color: white; font-size: 13px; font-weight: 700; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.row.done .name { text-decoration: line-through; color: #999; }
+.count-bar { position: fixed; bottom: 0; left: 0; right: 0; background: #1B2A4A; color: white; padding: 10px 1rem; font-size: 13px; font-weight: 600; text-align: center; }
+.hidden { display: none; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>📷 San Mateo Photo Shoot</h1>
+  <span id="totalCount">217 restaurants</span>
+</div>
+
+<div class="search-wrap">
+  <input type="search" id="searchInput" placeholder="Search by name, address, or cuisine..." oninput="filterList()"/>
+</div>
+
+<div id="listWrap"></div>
+<div class="count-bar" id="countBar">0 / 217 photographed</div>
+
+<script>
+const restaurants = [
+  { name: "A2", cuisine: "Wine Bar", addr: "117 S B St Suite A" },
+  { name: "Al Carbon Pollos a la Brasa", cuisine: "Peruvian", addr: "602 E 4th Ave C" },
+  { name: "Aldo's Pizza", cuisine: "Pizza", addr: "600 S Norfolk St" },
+  { name: "All Spice", cuisine: "American", addr: "1602 S El Camino Real" },
+  { name: "Amazing Katsu - San Mateo", cuisine: "Japanese", addr: "66 21st Ave" },
+  { name: "Amici's East Coast Pizzeria", cuisine: "Pizza", addr: "69 E 3rd Ave" },
+  { name: "Amma's Kitchen (Hyderabadi Biriyani House)", cuisine: "Indian", addr: "66 21st Ave k15" },
+  { name: "Amour Amour", cuisine: "French", addr: "305 E 4th Ave" },
+  { name: "Anatolian Cafe & Market", cuisine: "Middle Eastern", addr: "637 S B St" },
+  { name: "Antojitos Salvadorenos El Torogoz", cuisine: "Other", addr: "2992 E Hillsdale Blvd" },
+  { name: "Apple Fritter", cuisine: "Breakfast", addr: "1901 S Norfolk St" },
+  { name: "Avenida Restaurant", cuisine: "Filipino", addr: "201 E 3rd Ave" },
+  { name: "Avocado Toast", cuisine: "Breakfast", addr: "226 E 3rd Ave" },
+  { name: "Ay Caray Taqueria", cuisine: "Mexican", addr: "478 S Norfolk St" },
+  { name: "B Street & Vine", cuisine: "Wine Bar", addr: "320 S B St" },
+  { name: "BJ's Restaurant & Brewhouse", cuisine: "American", addr: "2206 Bridgepointe Pkwy" },
+  { name: "Bahche", cuisine: "Greek/Mediterranean", addr: "3081 S Delaware St Ste. C" },
+  { name: "Bay Watch San Mateo", cuisine: "Breakfast", addr: "201 2nd Ave" },
+  { name: "Benihana - San Mateo", cuisine: "Japanese", addr: "2204 Bridgepointe Pkwy" },
+  { name: "Best of Burma Restaurant", cuisine: "Other", addr: "146 E 3rd Ave" },
+  { name: "Bibimmate", cuisine: "Korean", addr: "66 21st Ave" },
+  { name: "Big Daddy's Hawaiian BBQ (San Mateo)", cuisine: "BBQ", addr: "66 21st Ave" },
+  { name: "Bizza (San Mateo)", cuisine: "Pizza", addr: "116 E 25th Ave" },
+  { name: "Bonchon San Mateo", cuisine: "Korean", addr: "220 S B St" },
+  { name: "Bonjour Bakehouse", cuisine: "Cafe/Bakery", addr: "1007 Howard Ave" },
+  { name: "Brothers Cafe", cuisine: "Cafe/Bakery", addr: "1338 W Hillsdale Blvd" },
+  { name: "Brundavan Indian restaurant", cuisine: "Indian", addr: "66 21st Ave" },
+  { name: "Cafe 2k", cuisine: "Cafe/Bakery", addr: "2000 Alameda de las Pulgas" },
+  { name: "Cajun Bowl San Mateo", cuisine: "Seafood", addr: "168 E 4th Ave" },
+  { name: "California Fish Grill", cuisine: "Seafood", addr: "2214 Bridgepointe Pkwy" },
+  { name: "Celia's", cuisine: "Mexican", addr: "504 Peninsula Ave" },
+  { name: "Central Park Bistro", cuisine: "American", addr: "181 E 4th Ave" },
+  { name: "Chai Yo Thai Cuisine", cuisine: "Thai", addr: "2116 S El Camino Real" },
+  { name: "Charlie's Taqueria", cuisine: "Mexican", addr: "725 S B St" },
+  { name: "Charm Thai Eatery", cuisine: "Thai", addr: "1428 S El Camino Real" },
+  { name: "Chingu", cuisine: "Korean", addr: "211 S San Mateo Dr" },
+  { name: "Chopstix & Taiwanese Bentos", cuisine: "Chinese", addr: "142 E 3rd Ave" },
+  { name: "Cobani Gyro & Kebab", cuisine: "Greek/Mediterranean", addr: "8 W 25th Ave" },
+  { name: "Colander Kitchens", cuisine: "Fusion", addr: "50 E 3rd Ave" },
+  { name: "Cooking Papa San Mateo", cuisine: "Chinese", addr: "66 21st Ave" },
+  { name: "Crystal Springs Tavern", cuisine: "American", addr: "742 Polhemus Rd" },
+  { name: "Cuban Kitchen", cuisine: "Caribbean", addr: "3799 S El Camino Real" },
+  { name: "Curry & Kabab - San Mateo", cuisine: "Indian", addr: "1923 S El Camino Real" },
+  { name: "Curry Pizza House San Mateo", cuisine: "Fusion", addr: "135 S B St" },
+  { name: "Curry Up Now", cuisine: "Indian", addr: "129 S B St" },
+  { name: "Daeho kalbijjim & beef soup", cuisine: "Korean", addr: "213 2nd Ave" },
+  { name: "Dash Japanese Tapas and Sushi", cuisine: "Japanese", addr: "204A 2nd Ave" },
+  { name: "Dosa Box", cuisine: "Indian", addr: "66 21st Ave" },
+  { name: "Dosa Express", cuisine: "Indian", addr: "514 Peninsula Ave" },
+  { name: "Dough Zone Dumpling House San Mateo", cuisine: "Chinese", addr: "111 E 4th Ave" },
+  { name: "Edi's Quesabirrias & Tacos", cuisine: "Mexican", addr: "500 E 3rd Ave" },
+  { name: "El Palenque Taqueria", cuisine: "Mexican", addr: "15 N Kingston St" },
+  { name: "El Sinaloense Mexican Restaurant", cuisine: "Mexican", addr: "1622 Palm Ave" },
+  { name: "Espetus Churrascaria Brazilian Steakhouse", cuisine: "Brazilian", addr: "710 S B St" },
+  { name: "Fernando's Méxican Restaurant", cuisine: "Mexican", addr: "63 37th Ave" },
+  { name: "Fieldwork San Mateo", cuisine: "American", addr: "3030 S Delaware St" },
+  { name: "Fire Wings San Mateo", cuisine: "American", addr: "206 S B St" },
+  { name: "Fish With You", cuisine: "Chinese", addr: "150 S B St" },
+  { name: "Fletch's Taqueria", cuisine: "Mexican", addr: "385 2nd Ave" },
+  { name: "Flores San Mateo", cuisine: "Mexican", addr: "4 Hillsdale Mall" },
+  { name: "Fogbird", cuisine: "Other", addr: "144 S B St" },
+  { name: "Foreigner Cafe", cuisine: "Cafe/Bakery", addr: "60 E 3rd Ave Ste 108" },
+  { name: "Fuji Sukiyaki", cuisine: "Japanese", addr: "428 E 3rd Ave" },
+  { name: "Furagu Sushi", cuisine: "Japanese", addr: "116 W 25th Ave" },
+  { name: "Gao Viet Kitchen", cuisine: "Vietnamese", addr: "313 S San Mateo Dr" },
+  { name: "Golden 9th Deli & Market", cuisine: "Other", addr: "500 9th Ave" },
+  { name: "Golden Boy Pizza", cuisine: "Pizza", addr: "1119 N Amphlett Blvd" },
+  { name: "Guadalajara Grill", cuisine: "Mexican", addr: "19 Laurie Meadows Dr" },
+  { name: "Gyu-Kaku Japanese BBQ", cuisine: "Japanese", addr: "329 S Ellsworth Ave" },
+  { name: "Happy Lamb Hot Pot", cuisine: "Chinese", addr: "215 S Ellsworth Ave" },
+  { name: "Harry's Shoreview Deli", cuisine: "American", addr: "1446 Cary Ave" },
+  { name: "Heidi's Pies Restaurant", cuisine: "American", addr: "1941 S El Camino Real" },
+  { name: "Himawari", cuisine: "Japanese", addr: "202 2nd Ave" },
+  { name: "HiroNori Craft Ramen", cuisine: "Japanese", addr: "211 E 3rd Ave" },
+  { name: "Hot Wok Bistro", cuisine: "Chinese", addr: "1012 Howard Ave" },
+  { name: "Hotaru Restaurant", cuisine: "Japanese", addr: "33 E 3rd Ave #4010" },
+  { name: "Hummus Mediterranean Kitchen", cuisine: "Greek/Mediterranean", addr: "150 E 4th Ave" },
+  { name: "Ike's Place", cuisine: "Cafe/Bakery", addr: "680 E 3rd Ave" },
+  { name: "Izakaya Fusion Grill Keitan", cuisine: "Japanese", addr: "35 E 3rd Ave" },
+  { name: "Izakaya Ginji", cuisine: "Japanese", addr: "301 E 4th Ave E" },
+  { name: "Izakaya Mai", cuisine: "Japanese", addr: "212 2nd Ave" },
+  { name: "Jack's Restaurant & Bar", cuisine: "American", addr: "1750 S El Camino Real" },
+  { name: "Jeffrey's Hamburgers", cuisine: "Burgers", addr: "42 S B St" },
+  { name: "Jersey Mike's Subs", cuisine: "American", addr: "2925 S El Camino Real" },
+  { name: "Johnny's", cuisine: "Breakfast", addr: "7 N B St" },
+  { name: "Joy Sushi", cuisine: "Japanese", addr: "30 S B St" },
+  { name: "Kajiken", cuisine: "Japanese", addr: "112 S B St" },
+  { name: "Kazu Sushi and Sando", cuisine: "Japanese", addr: "66 21st Ave" },
+  { name: "Kodawari Japanese Cuisine", cuisine: "Japanese", addr: "32 42nd Ave" },
+  { name: "Kokko", cuisine: "Other", addr: "509 2nd Ave" },
+  { name: "LUCETI'S on 25th", cuisine: "Italian", addr: "109 W 25th Ave" },
+  { name: "La Casa de Los Huevos", cuisine: "Mexican", addr: "1214 S El Camino Real" },
+  { name: "La Fonda de San Mateo", cuisine: "Mexican", addr: "2310 S El Camino Real" },
+  { name: "La Lanterna Ristorante", cuisine: "Italian", addr: "180 W 25th Ave" },
+  { name: "La Piñata", cuisine: "Mexican", addr: "120 N B St" },
+  { name: "La Ronda Restaurant Peruvian Cuisine", cuisine: "Peruvian", addr: "224 E Hillsdale Blvd E" },
+  { name: "Las Palomas Taqueria", cuisine: "Mexican", addr: "92 E 3rd Ave" },
+  { name: "Lazy Dog Restaurant & Bar", cuisine: "American", addr: "2208 Bridgepointe Pkwy" },
+  { name: "Little Late Bird", cuisine: "Cafe/Bakery", addr: "777 Mariners Island Blvd STE 170" },
+  { name: "Liuyishou Hotpot (San Mateo)", cuisine: "Chinese", addr: "98 E 3rd Ave" },
+  { name: "Lobster Chef", cuisine: "Chinese", addr: "2948 S Norfolk St" },
+  { name: "Lotus and Lime", cuisine: "Fusion", addr: "66 21st Ave" },
+  { name: "M sandwiches Cafe San Mateo", cuisine: "Vietnamese", addr: "205 E 4th Ave" },
+  { name: "MB's Place", cuisine: "Other", addr: "66 21st Ave" },
+  { name: "MIXT Salads", cuisine: "American", addr: "301 S B St" },
+  { name: "MY Dumpling", cuisine: "Chinese", addr: "100 S B St" },
+  { name: "MalaTown Express", cuisine: "Chinese", addr: "77 E 3rd Ave" },
+  { name: "Maria's Restaurant", cuisine: "Other", addr: "1452 Cary Ave" },
+  { name: "Mariscos El Ajoyano", cuisine: "Mexican", addr: "19 N Kingston St" },
+  { name: "Mateo Pizza Restaurant", cuisine: "Pizza", addr: "851 N San Mateo Dr" },
+  { name: "Maverick Jack's San Mateo", cuisine: "American", addr: "4000 S El Camino Real" },
+  { name: "McGovern's Bar", cuisine: "Other", addr: "215 E 4th Ave" },
+  { name: "Mendocino Farms", cuisine: "American", addr: "1060 Park Pl" },
+  { name: "Mikiya Wagyu Shabu House", cuisine: "Japanese", addr: "68 Hillsdale Mall" },
+  { name: "Miss Shang-San Mateo", cuisine: "Chinese", addr: "123 W 25th Ave" },
+  { name: "Mortar & Pestle Bar", cuisine: "Indian", addr: "130 S B St" },
+  { name: "Mountain Mike's Pizza", cuisine: "Pizza", addr: "154 S B St" },
+  { name: "Mr Pizza Man San Mateo", cuisine: "Pizza", addr: "201 E 4th Ave" },
+  { name: "Myung Dong Tofu Cabin", cuisine: "Korean", addr: "2968 S Norfolk St" },
+  { name: "Neal's Coffee Shop", cuisine: "Cafe/Bakery", addr: "114 De Anza Blvd" },
+  { name: "New Thai Elephant", cuisine: "Thai", addr: "200 S B St" },
+  { name: "New Wing Fat Chinese Restaurant", cuisine: "Chinese", addr: "640 E 3rd Ave" },
+  { name: "New York Pizza", cuisine: "Pizza", addr: "219 S B St" },
+  { name: "Nick The Greek", cuisine: "Greek/Mediterranean", addr: "1324 W Hillsdale Blvd" },
+  { name: "No.5 House", cuisine: "Chinese", addr: "5 S Ellsworth Ave" },
+  { name: "Noma Sushi", cuisine: "Japanese", addr: "152 South Blvd" },
+  { name: "North Beach Pizza", cuisine: "Pizza", addr: "240 E 3rd Ave" },
+  { name: "O2 Valley", cuisine: "Fusion", addr: "41 E 4th Ave" },
+  { name: "OLHSO Korean BBQ House", cuisine: "Korean", addr: "236 S B St" },
+  { name: "Oceanic Restaurant", cuisine: "Chinese", addr: "2507 S El Camino Real" },
+  { name: "Ox 9 Lanzhou Handpulled Noodles", cuisine: "Chinese", addr: "11 S B St" },
+  { name: "PJ's Pizza Co.", cuisine: "Pizza", addr: "168 W 25th Ave" },
+  { name: "Pacific Catch", cuisine: "Seafood", addr: "243 S B St" },
+  { name: "Palette Tea Garden & Dim Sum", cuisine: "Chinese", addr: "48 Hillsdale Mall" },
+  { name: "Palmita", cuisine: "Mexican", addr: "66 21st Ave" },
+  { name: "Panther Brazilian Açai", cuisine: "Brazilian", addr: "300 N San Mateo Dr" },
+  { name: "Pantry Family Restaurant", cuisine: "American", addr: "1855 S Delaware St" },
+  { name: "Pausa Bar & Cookery", cuisine: "Italian", addr: "223 E 4th Ave" },
+  { name: "Peking Alley", cuisine: "Chinese", addr: "4300 S El Camino Real" },
+  { name: "Peninsula Italian American Social Club", cuisine: "Italian", addr: "100 N B St" },
+  { name: "Pho Element", cuisine: "Vietnamese", addr: "2216 S El Camino Real" },
+  { name: "Piazza's Fine Foods", cuisine: "Italian", addr: "1218 W Hillsdale Blvd" },
+  { name: "Pinstripes", cuisine: "American", addr: "36 Hillsdale Mall" },
+  { name: "Pizza My Heart", cuisine: "Pizza", addr: "140 E 4th Ave" },
+  { name: "Poke House - San Mateo", cuisine: "Fusion", addr: "1030 Park Pl" },
+  { name: "Porterhouse", cuisine: "Steakhouse", addr: "164 S B St" },
+  { name: "Prime BBQ", cuisine: "Fusion", addr: "33 W 25th Ave" },
+  { name: "Pupuseria El Salvador", cuisine: "Other", addr: "85 N B St #2" },
+  { name: "Pupuseria Valle de Jiboa", cuisine: "Other", addr: "85 N B St #2" },
+  { name: "Pupusería La Casita", cuisine: "Other", addr: "2996 S Norfolk St" },
+  { name: "Ramen Dojo", cuisine: "Japanese", addr: "805 S B St" },
+  { name: "Ramen Parlor", cuisine: "Japanese", addr: "901 S B St" },
+  { name: "Ravioli House", cuisine: "Italian", addr: "505 S B St" },
+  { name: "Rin-Tei", cuisine: "Japanese", addr: "104 S El Camino Real" },
+  { name: "Rise Woodfire Pizza & Rotisserie", cuisine: "Pizza", addr: "2 N B St" },
+  { name: "S El Camino Taqueria", cuisine: "Mexican", addr: "2317 S El Camino Real" },
+  { name: "SAJJ Mediterranean", cuisine: "Greek/Mediterranean", addr: "251 E 3rd Ave" },
+  { name: "SAMIKCHA MOMO Indian-Nepali Cuisine", cuisine: "Indian", addr: "146 E 3rd Ave" },
+  { name: "Saigon City Restaurant", cuisine: "Vietnamese", addr: "418 E 3rd Ave" },
+  { name: "Sal's Burgers", cuisine: "Burgers", addr: "3158 Campus Dr" },
+  { name: "Sama Coffee Shop", cuisine: "Cafe/Bakery", addr: "800 S B St #500" },
+  { name: "San Mateo Prime", cuisine: "Steakhouse", addr: "174 E 3rd Ave" },
+  { name: "Santa Ramen", cuisine: "Japanese", addr: "1944 S El Camino Real" },
+  { name: "Sapore Express", cuisine: "Italian", addr: "125 E 4th Ave" },
+  { name: "Sapporo Rock & Roll Sushi", cuisine: "Japanese", addr: "2456 S El Camino Real" },
+  { name: "Seapot Hot Pot & Korean BBQ", cuisine: "Korean", addr: "1952 S El Camino Real" },
+  { name: "Seniore's Pizza", cuisine: "Pizza", addr: "2210 S El Camino Real" },
+  { name: "Shah Restaurant", cuisine: "Indian", addr: "2299 S El Camino Real" },
+  { name: "Shang Dumpling", cuisine: "Chinese", addr: "213 E 3rd Ave" },
+  { name: "Silver House", cuisine: "Chinese", addr: "2224 S El Camino Real" },
+  { name: "Silver Lake Seafood Restaurant", cuisine: "Chinese", addr: "2291 S El Camino Real" },
+  { name: "Sole Ristorante Italiano", cuisine: "Italian", addr: "69 37th Ave" },
+  { name: "Sourdough & Co", cuisine: "Cafe/Bakery", addr: "119 De Anza Blvd" },
+  { name: "Suavecito Birria & Tacos", cuisine: "Mexican", addr: "1100 S Amphlett Blvd" },
+  { name: "Super Duper Burgers", cuisine: "Burgers", addr: "1100 Park Pl Building 2 Suite 20" },
+  { name: "Sushi Edomata", cuisine: "Japanese", addr: "38 E 25th Ave" },
+  { name: "Sushi Maruyama", cuisine: "Japanese", addr: "279 Baldwin Ave" },
+  { name: "Sushi Yoshizumi", cuisine: "Japanese", addr: "325 E 4th Ave" },
+  { name: "Sushilito Boy", cuisine: "Fusion", addr: "1600 S El Camino Real" },
+  { name: "Sushirrito", cuisine: "Fusion", addr: "50 E 3rd Ave" },
+  { name: "Swaad sutra Indian restaurant", cuisine: "Indian", addr: "66 21st Ave" },
+  { name: "TAI ER SICHUAN CUISINE", cuisine: "Chinese", addr: "98 E 4th Ave" },
+  { name: "Tabla Indian Restaurant", cuisine: "Indian", addr: "450 S Norfolk St" },
+  { name: "Tacos Al Vapor Nueva Italia", cuisine: "Mexican", addr: "602 B E 4th Ave" },
+  { name: "Taishoken Ramen", cuisine: "Japanese", addr: "47 E 4th Ave" },
+  { name: "Takahashi Market", cuisine: "Japanese", addr: "221 S Claremont St" },
+  { name: "Taki Nori Hand Roll Bar", cuisine: "Japanese", addr: "144 E 3rd Ave" },
+  { name: "Tang Bar San Mateo", cuisine: "Chinese", addr: "62 E 4th Ave" },
+  { name: "Tannourine Restaurant", cuisine: "Middle Eastern", addr: "120 W 25th Ave" },
+  { name: "Taqueria El Chacho", cuisine: "Mexican", addr: "2036 Fashion Island Blvd" },
+  { name: "Taqueria Los Primos #1", cuisine: "Mexican", addr: "85 N B St #4" },
+  { name: "Taqueria Pancho Villa", cuisine: "Mexican", addr: "365 S B St" },
+  { name: "Taquería Los Moreno", cuisine: "Mexican", addr: "37 43rd Ave" },
+  { name: "Taquería las pencas #2", cuisine: "Mexican", addr: "45 N B St" },
+  { name: "Taste and Glory", cuisine: "Breakfast", addr: "1208 S El Camino Real" },
+  { name: "Taste of Shaxian", cuisine: "Chinese", addr: "38 E 4th Ave" },
+  { name: "The Backhouse", cuisine: "Japanese", addr: "66 21st Ave" },
+  { name: "The Barrel Bistro and Wine Bar", cuisine: "Wine Bar", addr: "246 S B St" },
+  { name: "The Burger", cuisine: "Burgers", addr: "1501 S El Camino Real" },
+  { name: "The Swingin' Door", cuisine: "American", addr: "106 E 25th Ave" },
+  { name: "Thonglor Thai Bistro", cuisine: "Thai", addr: "173 E 4th Ave" },
+  { name: "Tokie's Downtown", cuisine: "Japanese", addr: "34 E 4th Ave" },
+  { name: "Tong Sui Desserts & Drinks", cuisine: "Chinese", addr: "250 S B St" },
+  { name: "Totoro Ramen", cuisine: "Japanese", addr: "856 N Delaware St" },
+  { name: "Town of dumpling", cuisine: "Chinese", addr: "29 Laurie Meadows Dr" },
+  { name: "Truffle Poké Bar", cuisine: "Fusion", addr: "1234 S El Camino Real" },
+  { name: "Udon Mugizo - San Mateo", cuisine: "Japanese", addr: "73 E 3rd Ave" },
+  { name: "Urban Momo", cuisine: "Indian", addr: "254 S B St" },
+  { name: "Village Sandwich", cuisine: "Other", addr: "66 21st Ave k15" },
+  { name: "Whisper", cuisine: "Fusion", addr: "310 Baldwin Ave" },
+  { name: "Wunderbar", cuisine: "Other", addr: "310 Baldwin Ave" },
+  { name: "Yuzu", cuisine: "Japanese", addr: "54 37th Ave" },
+  { name: "Zen Noodle Bar", cuisine: "Chinese", addr: "668 E 3rd Ave" },
+  { name: "moonbowls", cuisine: "Korean", addr: "66 21st Ave" },
+  { name: "sweetgreen", cuisine: "American", addr: "1 E 3rd Ave" },
+  { name: "Dynasty BBQ", cuisine: "Chinese", addr: "105 W 25th Ave" },
+  { name: "Li's Knife Cut Noodle", cuisine: "Chinese", addr: "121 W 25th Ave" },
+];
+
+const total = restaurants.length;
+let done = new Set();
+
+function render(list) {
+  // Group by street cluster
+  const clusters = {};
+  list.forEach((r, i) => {
+    const street = r.addr.replace(/^\d+\s*/, '').split(' ').slice(0, 3).join(' ');
+    if (!clusters[street]) clusters[street] = [];
+    clusters[street].push({ ...r, idx: restaurants.indexOf(r) });
+  });
+
+  let html = '';
+  Object.keys(clusters).sort().forEach(street => {
+    html += `<div class="cluster"><div class="cluster-header">${street}</div>`;
+    clusters[street].forEach(r => {
+      const isDone = done.has(r.idx);
+      html += `<div class="row ${isDone ? 'done' : ''}" onclick="toggleDone(${r.idx}, this)">
+        <div class="num">${r.idx + 1}</div>
+        <div class="info">
+          <div class="name">${r.name}</div>
+          <div class="meta">${r.addr}</div>
+          <span class="cuisine">${r.cuisine}</span>
+        </div>
+        <div class="check"></div>
+      </div>`;
+    });
+    html += '</div>';
+  });
+  document.getElementById('listWrap').innerHTML = html;
+  updateCount();
+}
+
+function toggleDone(idx, row) {
+  if (done.has(idx)) { done.delete(idx); row.classList.remove('done'); }
+  else { done.add(idx); row.classList.add('done'); }
+  updateCount();
+}
+
+function updateCount() {
+  document.getElementById('countBar').textContent = `${done.size} / ${total} photographed`;
+  document.getElementById('totalCount').textContent = `${total} restaurants`;
+}
+
+function filterList() {
+  const q = document.getElementById('searchInput').value.toLowerCase();
+  const filtered = q ? restaurants.filter(r =>
+    r.name.toLowerCase().includes(q) ||
+    r.addr.toLowerCase().includes(q) ||
+    r.cuisine.toLowerCase().includes(q)
+  ) : restaurants;
+  render(filtered);
+}
+
+render(restaurants);
+</script>
+</body>
+</html>
