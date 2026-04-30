@@ -2310,8 +2310,7 @@ var PREBAKED_DATA = {
         "text": "The Backhouse",
         "languageCode": "en"
       },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Backhaus Small.jpeg"
+      "cuisine": "Japanese"
     },
     {
       "id": "ChIJdYnq7nCej4ARB-6vA0482oU",
