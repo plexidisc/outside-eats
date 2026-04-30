@@ -3486,7 +3486,8 @@ var PREBAKED_DATA = {
         "text": "Ristorante Rocca",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/burlingame/Ristorante Rocca Small.jpeg"
     },
     {
       "id": "ChIJD1hlWPGdj4ARnx5LiyOUYnc",
