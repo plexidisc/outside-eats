@@ -653,7 +653,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8502569964612674263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "TaquerÃ­a las pencas #2",
+        "text": "TaquerÃÂ­a las pencas #2",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -730,7 +730,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=7558383667026067871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Fernando's MÃ©xican Restaurant",
+        "text": "Fernando's MÃÂ©xican Restaurant",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -791,7 +791,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3236921614483281543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://orderlapinata.com/",
       "displayName": {
-        "text": "La PiÃ±ata",
+        "text": "La PiÃÂ±ata",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -869,7 +869,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14352138296465591772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "MalaTown Express èªééº»è¾£ç«",
+        "text": "MalaTown Express Ã¨ÂÂªÃ©ÂÂÃ©ÂºÂ»Ã¨Â¾Â£Ã§ÂÂ«",
         "languageCode": "en"
       },
       "cuisine": "Chinese",
@@ -901,7 +901,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10454870682169637207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.taierusa.com/",
       "displayName": {
-        "text": "TAI ER SICHUAN CUISINE å¤ªäºå·è (SAN MATEO)",
+        "text": "TAI ER SICHUAN CUISINE Ã¥Â¤ÂªÃ¤ÂºÂÃ¥Â·ÂÃ¨ÂÂ (SAN MATEO)",
         "languageCode": "en"
       },
       "cuisine": "Chinese",
@@ -1026,7 +1026,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=9411667313717023064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://pos.chowbus.com/online-ordering/store/restaurant/14843",
       "displayName": {
-        "text": "äººé´çç«å°éé¦ï¼Dynasty BBQ)",
+        "text": "Ã¤ÂºÂºÃ©ÂÂ´Ã§ÂÂÃ§ÂÂ«Ã¥Â°ÂÃ©ÂÂÃ©Â¦ÂÃ¯Â¼ÂDynasty BBQ)",
         "languageCode": "en"
       },
       "cuisine": "Chinese",
@@ -1371,7 +1371,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10917318187807017123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.ammaskitchen.online/",
       "displayName": {
-        "text": "Ammaâs Kitchen(Hyderabadi Biriyani House)",
+        "text": "AmmaÃ¢ÂÂs Kitchen(Hyderabadi Biriyani House)",
         "languageCode": "en"
       },
       "cuisine": "Indian"
@@ -1588,7 +1588,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=1025086979439199393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Fish With You é±¼ä½ å¨ä¸èµ·ä¸é¥­é¸èé±¼",
+        "text": "Fish With You Ã©Â±Â¼Ã¤Â½Â Ã¥ÂÂ¨Ã¤Â¸ÂÃ¨ÂµÂ·Ã¤Â¸ÂÃ©Â¥Â­Ã©ÂÂ¸Ã¨ÂÂÃ©Â±Â¼",
         "languageCode": "en"
       },
       "cuisine": "Chinese",
@@ -2260,7 +2260,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3284323827020379662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Panther Brazilian AÃ§ai",
+        "text": "Panther Brazilian AÃÂ§ai",
         "languageCode": "pt"
       },
       "cuisine": "Brazilian"
@@ -2698,7 +2698,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=9549412682736820287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://paletteteagarden.com/",
       "displayName": {
-        "text": "Palette Tea Garden & Dim Sum å½©è",
+        "text": "Palette Tea Garden & Dim Sum Ã¥Â½Â©Ã¨ÂÂ",
         "languageCode": "en"
       },
       "cuisine": "Chinese",
@@ -2744,7 +2744,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8660663990687363699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://trufflepokebar.com/",
       "displayName": {
-        "text": "Truffle PokÃ© Bar",
+        "text": "Truffle PokÃÂ© Bar",
         "languageCode": "en"
       },
       "cuisine": "Fusion",
@@ -2791,7 +2791,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=13781967017611394178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://lisnoodle.com/",
       "displayName": {
-        "text": "æé¢è¯· å¤§ç¢ååé¢ Li's Knife Cut Noodle",
+        "text": "Ã¦ÂÂÃ©ÂÂ¢Ã¨Â¯Â· Ã¥Â¤Â§Ã§Â¢ÂÃ¥ÂÂÃ¥ÂÂÃ©ÂÂ¢ Li's Knife Cut Noodle",
         "languageCode": "en"
       },
       "cuisine": "Chinese",
@@ -2867,7 +2867,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=164992918071339627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://pupuserialacasita.com/",
       "displayName": {
-        "text": "PupuserÃ­a La Casita",
+        "text": "PupuserÃÂ­a La Casita",
         "languageCode": "en"
       },
       "cuisine": "Other"
@@ -3219,7 +3219,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=1650361671960952766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://taquerialosmorenoca.com/",
       "displayName": {
-        "text": "TaquerÃ­a Los Moreno",
+        "text": "TaquerÃÂ­a Los Moreno",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -3344,7 +3344,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=12247515611004392711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://happylambhotpot.com/",
       "displayName": {
-        "text": "Happy Lamb Hot Pot, San Mateo å¿«ä¹å°ç¾",
+        "text": "Happy Lamb Hot Pot, San Mateo Ã¥Â¿Â«Ã¤Â¹ÂÃ¥Â°ÂÃ§Â¾Â",
         "languageCode": "en"
       },
       "cuisine": "Chinese",
@@ -3376,7 +3376,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4081683667792091091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.johnnyshmb.com/",
       "displayName": {
-        "text": "Johnnyâs",
+        "text": "JohnnyÃ¢ÂÂs",
         "languageCode": "en"
       },
       "cuisine": "Breakfast",
@@ -3442,7 +3442,8 @@ var PREBAKED_DATA = {
         "text": "Alana's Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/burlingame/Alanas Small.jpeg"
     },
     {
       "id": "ChIJezjoMgCdj4AR9l3eqt29bNg",
@@ -3457,7 +3458,8 @@ var PREBAKED_DATA = {
         "text": "Amado Cocina Regional Mexicana",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/burlingame/Amado Small.jpeg"
     },
     {
       "id": "ChIJCZRsgLN3j4ARbGSv7IQs284",
@@ -3487,7 +3489,8 @@ var PREBAKED_DATA = {
         "text": "Asian Box",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/burlingame/Asian Box Small.jpeg"
     },
     {
       "id": "ChIJc_v9amGdj4ARbw-AnxMEGgQ",
@@ -3607,7 +3610,8 @@ var PREBAKED_DATA = {
         "text": "Blue Line Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/burlingame/BlueLine Small.jpeg"
     },
     {
       "id": "ChIJ7xbkqSV2j4ARMmIU5GRzkWs",
@@ -3727,7 +3731,8 @@ var PREBAKED_DATA = {
         "text": "Caffe Central",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Cafe Central Small.jpeg"
     },
     {
       "id": "ChIJoakpq36dj4ARWtt7W9Ing5E",
@@ -3757,7 +3762,8 @@ var PREBAKED_DATA = {
         "text": "Capri Lasagneria",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/burlingame/Capri Small.jpeg"
     },
     {
       "id": "ChIJCx-t2IF3j4AR9hpvNAjkTwY",
@@ -3878,7 +3884,8 @@ var PREBAKED_DATA = {
         "text": "Crepevine Restaurants",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/Crepevine Small.jpeg"
     },
     {
       "id": "ChIJd14KIfV3j4ARlAEUohNRoQg",
@@ -3908,7 +3915,8 @@ var PREBAKED_DATA = {
         "text": "Dumpling Kitchen & Bar",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/burlingame/D&B Dumpling Small.jpeg"
     },
     {
       "id": "ChIJI9BsyQydj4ARgDTLchiSq28",
@@ -4130,7 +4138,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3279881149490902709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://sites.google.com/view/jayliscocinaburlingame-com/p%C3%A1gina-principal",
       "displayName": {
-        "text": "Jayliâs Cocina",
+        "text": "JayliÃ¢ÂÂs Cocina",
         "languageCode": "es"
       },
       "cuisine": "Mexican"
@@ -4208,7 +4216,8 @@ var PREBAKED_DATA = {
         "text": "La Corneta Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/burlingame/La Corneta Small.jpeg"
     },
     {
       "id": "ChIJofb8riV2j4ARQdV52nlATS0",
@@ -4235,10 +4244,11 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=9738323126302407502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.limonrestaurants.com/?y_source=1_MTk4MDQ4MjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
       "displayName": {
-        "text": "LimÃ³n",
+        "text": "LimÃÂ³n",
         "languageCode": "en"
       },
-      "cuisine": "Peruvian"
+      "cuisine": "Peruvian",
+      "photoUrl": "images/restaurant-photos/burlingame/Limon Small.jpeg"
     },
     {
       "id": "ChIJddVBgrR3j4ARVMlFoRC4Tq4",
@@ -4268,7 +4278,8 @@ var PREBAKED_DATA = {
         "text": "Lotus Falafel and Shawarma - Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/burlingame/Lotus Small.jpeg"
     },
     {
       "id": "ChIJW1thhLN3j4AR54yOHWNVSGQ",
@@ -4295,10 +4306,11 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=12713014837614851513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.maisonalyzee.com/",
       "displayName": {
-        "text": "Maison AlyzÃ©e",
+        "text": "Maison AlyzÃÂ©e",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Maison Alyzee Small.jpeg"
     },
     {
       "id": "ChIJXSwMTU6dj4AR8jC5y1F01_Q",
@@ -4358,7 +4370,8 @@ var PREBAKED_DATA = {
         "text": "Mediterranean Kebab",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/burlingame/Medeterraen Kabob Small.jpeg"
     },
     {
       "id": "ChIJH-bjmi-dj4AR17X2m877L20",
@@ -4554,7 +4567,8 @@ var PREBAKED_DATA = {
         "text": "Park & Howard Bistro",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/Park&Howard Small.jpeg"
     },
     {
       "id": "ChIJg8qyLad3j4AR9klgUj_eNF8",
@@ -4581,7 +4595,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10293186740912203833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Pattyâs Diner",
+        "text": "PattyÃ¢ÂÂs Diner",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -4614,7 +4628,8 @@ var PREBAKED_DATA = {
         "text": "Pizzeria Delfina",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/burlingame/Pizzeria Delfina Small.jpeg"
     },
     {
       "id": "ChIJOxX-qLx3j4AR_Wksr1A1aPE",
@@ -4644,7 +4659,8 @@ var PREBAKED_DATA = {
         "text": "Rasa - Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/burlingame/Rasa Small.jpeg"
     },
     {
       "id": "ChIJ0S5UF_Gdj4ARrPuY3r7Z-yY",
@@ -4659,7 +4675,8 @@ var PREBAKED_DATA = {
         "text": "Rasoi Restaurant & Lounge",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/burlingame/Rasoi Small.jpeg"
     },
     {
       "id": "ChIJV-z5IfGdj4ARWuykkidQUGk",
@@ -4674,7 +4691,8 @@ var PREBAKED_DATA = {
         "text": "Rise Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/burlingame/Rise Small.jpeg"
     },
     {
       "id": "ChIJkxrB_yR2j4ARArTT1P_8Ou0",
@@ -4749,7 +4767,8 @@ var PREBAKED_DATA = {
         "text": "Sapore Italiano Ristorante",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/burlingame/Sapore Small.jpeg"
     },
     {
       "id": "ChIJ9TBrXgB3j4AR8NdHIsecCpw",
@@ -4824,7 +4843,8 @@ var PREBAKED_DATA = {
         "text": "Stella",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/burlingame/Stella Small.jpeg"
     },
     {
       "id": "ChIJT03rQeWdj4ARBIswVlxA1oM",
@@ -4896,7 +4916,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=15666412353490832717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://trufflepokebar.com/",
       "displayName": {
-        "text": "Truffle PokÃ© Bar",
+        "text": "Truffle PokÃÂ© Bar",
         "languageCode": "en"
       },
       "cuisine": "Fusion"
@@ -4914,7 +4934,8 @@ var PREBAKED_DATA = {
         "text": "Tuna Kahuna",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/burlingame/Tuna Kahuna Small.jpeg"
     },
     {
       "id": "ChIJk4HvGi-dj4AR0ojgJrnLKLQ",
@@ -4959,7 +4980,8 @@ var PREBAKED_DATA = {
         "text": "Urban Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/Urban Kitchen Small.jpeg"
     },
     {
       "id": "ChIJdSSDylidj4ARtIpGV--k9Uc",
@@ -5031,7 +5053,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10071509179540613659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.facebook.com/cafeyay/",
       "displayName": {
-        "text": "YAY CafÃ©",
+        "text": "YAY CafÃÂ©",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -5258,7 +5280,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=5674241196341370140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://treasurebelmont.com/",
       "displayName": {
-        "text": "Treasure ä¸­é¤å",
+        "text": "Treasure Ã¤Â¸Â­Ã©Â¤ÂÃ¥ÂÂ",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -5273,7 +5295,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3525776714753688144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.blueskycafeca.com/",
       "displayName": {
-        "text": "Blue Sky CafÃ©",
+        "text": "Blue Sky CafÃÂ©",
         "languageCode": "en"
       },
       "cuisine": "Other"
@@ -5723,7 +5745,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=17600286551292499877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Docâs Bagels",
+        "text": "DocÃ¢ÂÂs Bagels",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -5873,7 +5895,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14813811309686796558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.doms-noms.com/",
       "displayName": {
-        "text": "Domâs Nomâs Catering",
+        "text": "DomÃ¢ÂÂs NomÃ¢ÂÂs Catering",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -5905,7 +5927,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=1091886598373029724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://originaljoes.com/westlake/",
       "displayName": {
-        "text": "Original Joeâs Westlake",
+        "text": "Original JoeÃ¢ÂÂs Westlake",
         "languageCode": "en"
       },
       "cuisine": "Italian"
@@ -6295,7 +6317,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10640757287944182210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.spicyhousetogo.com/",
       "displayName": {
-        "text": "Spicy House å·é¦å°é¤¨",
+        "text": "Spicy House Ã¥Â·ÂÃ©Â¦ÂÃ¥Â°ÂÃ©Â¤Â¨",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -6520,7 +6542,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=16501866438309121572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://keithschickennwaffles.com/?utm_source=google",
       "displayName": {
-        "text": "Keithâs Chicken N Waffles",
+        "text": "KeithÃ¢ÂÂs Chicken N Waffles",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -7015,7 +7037,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=17801178005294841620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "SeÃ±orita Bread",
+        "text": "SeÃÂ±orita Bread",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -7315,7 +7337,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14134918096292000375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Juniorâs Empanadas",
+        "text": "JuniorÃ¢ÂÂs Empanadas",
         "languageCode": "en"
       },
       "cuisine": "Other"
@@ -8347,7 +8369,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=17143217230172377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://11thtiger.com/",
       "displayName": {
-        "text": "11th Tiger - Thai Street CafÃ©",
+        "text": "11th Tiger - Thai Street CafÃÂ©",
         "languageCode": "en"
       }
     },
@@ -8403,7 +8425,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=2052708971434953978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://kibiscafe.com/",
       "displayName": {
-        "text": "kibiâs Cafe Danville",
+        "text": "kibiÃ¢ÂÂs Cafe Danville",
         "languageCode": "en"
       }
     },
@@ -8529,7 +8551,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=16601133294418445670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://fatmaddies.com/",
       "displayName": {
-        "text": "Fat Maddieâs Blackhawk",
+        "text": "Fat MaddieÃ¢ÂÂs Blackhawk",
         "languageCode": "en"
       }
     },
@@ -8991,7 +9013,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=6839013708853333104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "BendiciÃ³n de Dios restaurante y Pupuseria",
+        "text": "BendiciÃÂ³n de Dios restaurante y Pupuseria",
         "languageCode": "en"
       }
     },
@@ -9445,7 +9467,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3662728912137352209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.marriott.com/hotels/hotel-information/restaurant/sfofc-courtyard-san-mateo-foster-city/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
       "displayName": {
-        "text": "The Bistro - Eat. Drink. Connect.Â®",
+        "text": "The Bistro - Eat. Drink. Connect.ÃÂ®",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -9475,7 +9497,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=12102603614406880661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://my-site-100783-102620.square.site/s/order",
       "displayName": {
-        "text": "Birdieâs at Mariners Point",
+        "text": "BirdieÃ¢ÂÂs at Mariners Point",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -9610,7 +9632,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=1494503165431857991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Ninaâs Cafe",
+        "text": "NinaÃ¢ÂÂs Cafe",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -9625,7 +9647,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=12972972608255818103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://cafe-kazka.snackpass.site/",
       "displayName": {
-        "text": "CAFÃ KAZKA",
+        "text": "CAFÃÂ KAZKA",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -10257,7 +10279,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3363680182874658746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.johnnyshmb.com/",
       "displayName": {
-        "text": "Johnnyâs Half Moon Bay",
+        "text": "JohnnyÃ¢ÂÂs Half Moon Bay",
         "languageCode": "en"
       },
       "cuisine": "Breakfast"
@@ -10587,7 +10609,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=13171421773842813847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.mezzalunabythesea.com/caffe-mezzaluna",
       "displayName": {
-        "text": "CaffÃ© Mezza Luna",
+        "text": "CaffÃÂ© Mezza Luna",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -11594,7 +11616,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=13398901622903063780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://amzn.to/4n2p2fH",
       "displayName": {
-        "text": "Phá» Vi Hoa",
+        "text": "PhÃ¡Â»Â Vi Hoa",
         "languageCode": "en"
       },
       "cuisine": "Vietnamese"
@@ -11729,7 +11751,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=2218970813984608631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.sweetdiplomacy.com/losaltos",
       "displayName": {
-        "text": "Sweet DiplomacyÂ® Gluten-Free",
+        "text": "Sweet DiplomacyÃÂ® Gluten-Free",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -11834,7 +11856,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8318212167419526556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://bluestonelane.com/cafes/los-altos-cafe-288-1st-st/?y_source=1_MTM0MDQ0NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
       "displayName": {
-        "text": "Bluestone Lane Los Altos CafÃ©",
+        "text": "Bluestone Lane Los Altos CafÃÂ©",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -12616,7 +12638,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=15096192795140513781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.cafevivantca.com/",
       "displayName": {
-        "text": "CafÃ© Vivant",
+        "text": "CafÃÂ© Vivant",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -13081,7 +13103,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3270078047632082517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://bobscountrycorner.com/",
       "displayName": {
-        "text": "Bobâs Country Corner",
+        "text": "BobÃ¢ÂÂs Country Corner",
         "languageCode": "en"
       },
       "cuisine": "Other"
@@ -13308,7 +13330,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4667817655992042289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.6506775888.com/",
       "displayName": {
-        "text": "Flame BBQ çç­ç§ç¤",
+        "text": "Flame BBQ Ã§ÂÂÃ§ÂÂ­Ã§ÂÂ§Ã§ÂÂ¤",
         "languageCode": "en"
       },
       "cuisine": "BBQ"
@@ -13893,7 +13915,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3280804559925292460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "CafÃ© RaÃ­zes",
+        "text": "CafÃÂ© RaÃÂ­zes",
         "languageCode": "en"
       },
       "cuisine": "Other"
@@ -14495,7 +14517,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14107934966273390117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.limonrestaurants.com/",
       "displayName": {
-        "text": "LimÃ³n",
+        "text": "LimÃÂ³n",
         "languageCode": "en"
       },
       "cuisine": "Peruvian"
@@ -14525,7 +14547,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=7309268844906362363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://6503861358.com/",
       "displayName": {
-        "text": "Fish With Youé±¼ä½ å¨ä¸èµ·Mountain View",
+        "text": "Fish With YouÃ©Â±Â¼Ã¤Â½Â Ã¥ÂÂ¨Ã¤Â¸ÂÃ¨ÂµÂ·Mountain View",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -14645,7 +14667,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10916141406942703533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://costena.com/",
       "displayName": {
-        "text": "La CosteÃ±a",
+        "text": "La CosteÃÂ±a",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -14675,7 +14697,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=1055447785267410244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Iâl Portale Italian Restaurant by Los Portales",
+        "text": "IÃ¢ÂÂl Portale Italian Restaurant by Los Portales",
         "languageCode": "en"
       },
       "cuisine": "Italian"
@@ -14780,7 +14802,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=2144588388473666753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Tacos âThe Auntentic Oaxacanâ",
+        "text": "Tacos Ã¢ÂÂThe Auntentic OaxacanÃ¢ÂÂ",
         "languageCode": "es"
       },
       "cuisine": "Mexican"
@@ -14825,7 +14847,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14122020900462623197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://pos.chowbus.com/online-ordering/store/HuaXiWang-Mountain-View/14707",
       "displayName": {
-        "text": "Joyous Cuisine è±æºªç å±±éç¾é£",
+        "text": "Joyous Cuisine Ã¨ÂÂ±Ã¦ÂºÂªÃ§ÂÂ Ã¥Â±Â±Ã©ÂÂÃ§Â¾ÂÃ©Â£Â",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -14840,7 +14862,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14223442284130889394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.hunanszechuan.com/",
       "displayName": {
-        "text": "å·æ¹å°é¦Hunan Szechuan Cuisine",
+        "text": "Ã¥Â·ÂÃ¦Â¹ÂÃ¥Â°ÂÃ©Â¦ÂHunan Szechuan Cuisine",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -14960,7 +14982,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=5366360192164227818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://mifen101go.site/",
       "displayName": {
-        "text": "Mifen101å¹ºé¶å¹ºï¼åè±æºªçï¼",
+        "text": "Mifen101Ã¥Â¹ÂºÃ©ÂÂ¶Ã¥Â¹ÂºÃ¯Â¼ÂÃ¥ÂÂÃ¨ÂÂ±Ã¦ÂºÂªÃ§ÂÂÃ¯Â¼Â",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -15020,7 +15042,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3254728815221725610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "åå­£è¶é¦ç«é Four Seasons Tea House Hot Pot",
+        "text": "Ã¥ÂÂÃ¥Â­Â£Ã¨ÂÂ¶Ã©Â¦ÂÃ§ÂÂ«Ã©ÂÂ Four Seasons Tea House Hot Pot",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -15125,7 +15147,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10916992384894660414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://beluga.kitchen/m/xQB543?utm_source=google_profile&utm_medium=organic",
       "displayName": {
-        "text": "Phá»tochau 999",
+        "text": "PhÃ¡Â»Âtochau 999",
         "languageCode": "en"
       },
       "cuisine": "Vietnamese"
@@ -15860,7 +15882,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4018582189136010446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=ab282e2d-0799-4074-bcfb-57335f2c1fff",
       "displayName": {
-        "text": "Phá» Tráº§n VÅ©",
+        "text": "PhÃ¡Â»Â TrÃ¡ÂºÂ§n VÃÂ©",
         "languageCode": "en"
       },
       "cuisine": "Vietnamese"
@@ -15920,7 +15942,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=17563084902263872124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://kusanbazaar.com/kusanbazaar-txusjq?utm_source=google",
       "displayName": {
-        "text": "Kusan Bazaar é¾å¹éå¸",
+        "text": "Kusan Bazaar Ã©Â¾ÂÃ¥ÂÂ¹Ã©ÂÂÃ¥Â¸Â",
         "languageCode": "en"
       },
       "cuisine": "Halal"
@@ -15995,7 +16017,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8657125975937507604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.maisonalyzee.com/",
       "displayName": {
-        "text": "Maison AlyzÃ©e",
+        "text": "Maison AlyzÃÂ©e",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -16475,7 +16497,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=11033230523205767434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.thedonsdeli.com/",
       "displayName": {
-        "text": "The Donâs Deli",
+        "text": "The DonÃ¢ÂÂs Deli",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -16520,7 +16542,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14860583790649223161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.eriksdelicafe.com/",
       "displayName": {
-        "text": "Erik's DeliCafÃ©",
+        "text": "Erik's DeliCafÃÂ©",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -16535,7 +16557,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=6229981788672444174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://specialtys.com/",
       "displayName": {
-        "text": "Specialty's CafÃ© & Bakery",
+        "text": "Specialty's CafÃÂ© & Bakery",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -16867,7 +16889,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4899906271822497503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.laperlapacifica.com/",
       "displayName": {
-        "text": "TaquerÃ­a La Perla",
+        "text": "TaquerÃÂ­a La Perla",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -17392,7 +17414,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=9120302596680919511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.hightidepacifica.com/",
       "displayName": {
-        "text": "High Tide Cafe & CrÃªperie",
+        "text": "High Tide Cafe & CrÃÂªperie",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -17994,7 +18016,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3717042603262137464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.telefericbarcelona.com/",
       "displayName": {
-        "text": "TelefÃ¨ric Barcelona Palo Alto",
+        "text": "TelefÃÂ¨ric Barcelona Palo Alto",
         "languageCode": "en"
       },
       "cuisine": "Spanish"
@@ -18384,7 +18406,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14514381363938247703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.celiasrestaurants.com/",
       "displayName": {
-        "text": "Celiaâs Mexican Restaurant",
+        "text": "CeliaÃ¢ÂÂs Mexican Restaurant",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -18594,7 +18616,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4326418899961531051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://tiemuzhencuisine.fronteats.com/#/pos/order/index?channelOrderingId=3",
       "displayName": {
-        "text": "Tie Mu Zhen Cuisine éæ¨çåèè",
+        "text": "Tie Mu Zhen Cuisine Ã©ÂÂÃ¦ÂÂ¨Ã§ÂÂÃ¥ÂÂÃ¨ÂÂÃ¨ÂÂ",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -19164,7 +19186,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=11430232551606756200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.flemingssteakhouse.com/Locations/CA/Palo-Alto?y_source=1_MTU1MDMxNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
       "displayName": {
-        "text": "Flemingâs Prime Steakhouse & Wine Bar",
+        "text": "FlemingÃ¢ÂÂs Prime Steakhouse & Wine Bar",
         "languageCode": "en"
       },
       "cuisine": "Steakhouse"
@@ -19389,7 +19411,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4045576978677917740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.phohanoiusa.com/",
       "displayName": {
-        "text": "Phá» HÃ  Ná»i",
+        "text": "PhÃ¡Â»Â HÃÂ  NÃ¡Â»Âi",
         "languageCode": "en"
       },
       "cuisine": "Vietnamese"
@@ -19509,7 +19531,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10987375865865838498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.protegepaloalto.com/",
       "displayName": {
-        "text": "ProtÃ©gÃ©",
+        "text": "ProtÃÂ©gÃÂ©",
         "languageCode": "en"
       },
       "cuisine": "French"
@@ -19629,7 +19651,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=9084689604748021991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.fambriniscafe.com/",
       "displayName": {
-        "text": "Fambriniâs Cafe",
+        "text": "FambriniÃ¢ÂÂs Cafe",
         "languageCode": "en"
       },
       "cuisine": "Breakfast"
@@ -19809,7 +19831,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=18360756624066265896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.marriott.com/en-us/dining/restaurant-bar/sjcwp-the-westin-palo-alto/5964915-caf-soleil.mi",
       "displayName": {
-        "text": "CafÃ© Soleil",
+        "text": "CafÃÂ© Soleil",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -19824,7 +19846,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=17501195088129731061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.dumplingcityca.com/",
       "displayName": {
-        "text": "Dumpling City æ°´é¥ºä¹å",
+        "text": "Dumpling City Ã¦Â°Â´Ã©Â¥ÂºÃ¤Â¹ÂÃ¥ÂÂ",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -20229,7 +20251,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=5101171270952261647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.avenidas.org/programs/cafe/",
       "displayName": {
-        "text": "Redwood CafÃ© by Chef Julien",
+        "text": "Redwood CafÃÂ© by Chef Julien",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -20366,7 +20388,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=133994136947568358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://kemuri-baru.com/",
       "displayName": {
-        "text": "Kemuri Japanese BarÃº",
+        "text": "Kemuri Japanese BarÃÂº",
         "languageCode": "en"
       },
       "cuisine": "Japanese"
@@ -20801,7 +20823,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8549883461322053678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Taâ Con Madre Taqueria Estilo Mazatlan",
+        "text": "TaÃ¢ÂÂ Con Madre Taqueria Estilo Mazatlan",
         "languageCode": "es"
       },
       "cuisine": "Mexican"
@@ -21341,7 +21363,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=16561713066081744967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.limonrestaurants.com/",
       "displayName": {
-        "text": "LimÃ³n Redwood City",
+        "text": "LimÃÂ³n Redwood City",
         "languageCode": "en"
       },
       "cuisine": "Peruvian"
@@ -21551,7 +21573,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3000065364899424005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://wisteria-deer-sla9.squarespace.com/",
       "displayName": {
-        "text": "Phá» ÄÃ´ng Restaurant",
+        "text": "PhÃ¡Â»Â ÃÂÃÂ´ng Restaurant",
         "languageCode": "en"
       },
       "cuisine": "Vietnamese"
@@ -21581,7 +21603,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8301087712419920352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://maysvietnamese.com/",
       "displayName": {
-        "text": "Mayâs Vietnamese Restaurant",
+        "text": "MayÃ¢ÂÂs Vietnamese Restaurant",
         "languageCode": "en"
       },
       "cuisine": "Vietnamese"
@@ -21776,7 +21798,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10245330709325135080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://thehollocafe.com/",
       "displayName": {
-        "text": "The HollÅ Cafe",
+        "text": "The HollÃÂ Cafe",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
@@ -22166,7 +22188,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=17539306980868706747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Sabor IzalqueÃ±o Pupuseria y Restaurante",
+        "text": "Sabor IzalqueÃÂ±o Pupuseria y Restaurante",
         "languageCode": "en"
       },
       "cuisine": "Other"
@@ -22948,7 +22970,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=12605527569393320220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.celiasrestaurants.com/",
       "displayName": {
-        "text": "Celia's MÃ©xican Restaurant",
+        "text": "Celia's MÃÂ©xican Restaurant",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -23128,7 +23150,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8811321235978795899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.dumplingerasanbruno.com/",
       "displayName": {
-        "text": "Dumpling Era æä¹¡æ°´é¥º",
+        "text": "Dumpling Era Ã¦ÂÂÃ¤Â¹Â¡Ã¦Â°Â´Ã©Â¥Âº",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -23458,7 +23480,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=16517008212314844988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "NIM-ET DÃNER",
+        "text": "NIM-ET DÃÂNER",
         "languageCode": "en"
       },
       "cuisine": "Turkish"
@@ -24780,7 +24802,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=11581081070153661753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.paiksnoodleus.com/",
       "displayName": {
-        "text": "Paik's Noodle íì½©ë°ì  - San Carlos",
+        "text": "Paik's Noodle Ã­ÂÂÃ¬Â½Â©Ã«Â°ÂÃ¬Â Â - San Carlos",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -24855,7 +24877,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=11622989886999974954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://hapasbrewing.com/",
       "displayName": {
-        "text": "Hapaâs Brewing Company",
+        "text": "HapaÃ¢ÂÂs Brewing Company",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -25622,7 +25644,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=2653328501472734700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://grandpalaceseafoodrestaurant.com/?utm_source=google",
       "displayName": {
-        "text": "Grand Palace Seafood Restaurant å¯æºéå®¶",
+        "text": "Grand Palace Seafood Restaurant Ã¥Â¯ÂÃ¦ÂºÂÃ©ÂÂÃ¥Â®Â¶",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -26177,7 +26199,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=3159361497253308457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://kevinsnoodlehouse.com/",
       "displayName": {
-        "text": "Kevinâs Noodle House",
+        "text": "KevinÃ¢ÂÂs Noodle House",
         "languageCode": "en"
       },
       "cuisine": "Vietnamese"
@@ -27208,7 +27230,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=5067063389243416956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://tiajuanamexicangrill.com/",
       "displayName": {
-        "text": "TÃ­a Juana Mexican Grill",
+        "text": "TÃÂ­a Juana Mexican Grill",
         "languageCode": "en"
       }
     },
@@ -27306,7 +27328,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4965054907197862266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://lopeztaquerias.com/?utm_source=gmb&utm_content=website",
       "displayName": {
-        "text": "LÃ³pez Taqueria",
+        "text": "LÃÂ³pez Taqueria",
         "languageCode": "en"
       }
     },
@@ -27320,7 +27342,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=2394602005909589015&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://lamexiquena.cloveronline.com/",
       "displayName": {
-        "text": "MexiqueÃ±a",
+        "text": "MexiqueÃÂ±a",
         "languageCode": "en"
       }
     },
@@ -27488,7 +27510,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=12948171144405090010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.dumplingdepot.com/",
       "displayName": {
-        "text": "Dumpling Depot æ°´é¥ºå®¶å­",
+        "text": "Dumpling Depot Ã¦Â°Â´Ã©Â¥ÂºÃ¥Â®Â¶Ã¥ÂÂ­",
         "languageCode": "en"
       }
     },
@@ -27586,7 +27608,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10191225151882449066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.epicdumpling.com/",
       "displayName": {
-        "text": "Epic Dumpling ä¸åé¦æ°´é¥º",
+        "text": "Epic Dumpling Ã¤Â¸ÂÃ¥ÂÂÃ©Â¦ÂÃ¦Â°Â´Ã©Â¥Âº",
         "languageCode": "en"
       }
     },
@@ -27614,7 +27636,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=2669183938234488538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.dragonvalleyexpress.com/",
       "displayName": {
-        "text": "Dragon Valley Express æºé¾è°· - Sunnyvale",
+        "text": "Dragon Valley Express Ã¦ÂÂºÃ©Â¾ÂÃ¨Â°Â· - Sunnyvale",
         "languageCode": "en"
       }
     },
@@ -27880,7 +27902,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8759555625896402599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.madrascafe.us/index.htm",
       "displayName": {
-        "text": "Madras CafÃ©",
+        "text": "Madras CafÃÂ©",
         "languageCode": "en"
       }
     },
@@ -28356,7 +28378,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=10441492868404676133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Bay DÃ¶ner",
+        "text": "Bay DÃÂ¶ner",
         "languageCode": "en"
       }
     },
@@ -28510,7 +28532,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=473774774889330606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://pholovers-usa.com/",
       "displayName": {
-        "text": "Phá» Lovers",
+        "text": "PhÃ¡Â»Â Lovers",
         "languageCode": "en"
       }
     },
@@ -28524,7 +28546,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=5398683792666108474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://rebrand.ly/pho-nam",
       "displayName": {
-        "text": "Phá» Nam",
+        "text": "PhÃ¡Â»Â Nam",
         "languageCode": "en"
       }
     },
@@ -28552,7 +28574,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=5332693386807671672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://pho1ca.com/",
       "displayName": {
-        "text": "Phá» #1",
+        "text": "PhÃ¡Â»Â #1",
         "languageCode": "en"
       }
     },
@@ -28580,7 +28602,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=14276163212651096374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Phá» Nam Restaurant",
+        "text": "PhÃ¡Â»Â Nam Restaurant",
         "languageCode": "en"
       }
     },
@@ -28636,7 +28658,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=15873428170817946271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Cáº©m HÆ°ng Sandwich and Coffee",
+        "text": "CÃ¡ÂºÂ©m HÃÂ°ng Sandwich and Coffee",
         "languageCode": "en"
       }
     },
@@ -28776,7 +28798,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=15985895772366101552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.emelinasplus.com/",
       "displayName": {
-        "text": "Emelinaâs Peruvian Restaurant",
+        "text": "EmelinaÃ¢ÂÂs Peruvian Restaurant",
         "languageCode": "en"
       }
     },
@@ -29042,7 +29064,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4681222451051157405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.treehousehotels.com/silicon-valley/eat-drink/backyard-cafe?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
       "displayName": {
-        "text": "Backyard CafÃ©",
+        "text": "Backyard CafÃÂ©",
         "languageCode": "en"
       }
     },
@@ -29168,7 +29190,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=2213049495824880187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.fenghotpot.com/",
       "displayName": {
-        "text": "Feng Hotpot å¯æ ¡é¿èç«é",
+        "text": "Feng Hotpot Ã¥ÂÂ¯Ã¦Â Â¡Ã©ÂÂ¿Ã¨ÂÂÃ§ÂÂ«Ã©ÂÂ",
         "languageCode": "en"
       }
     },
@@ -29532,7 +29554,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=743577194867071723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.zanottos.com/",
       "displayName": {
-        "text": "Zanottoâs Sunnyvale Market",
+        "text": "ZanottoÃ¢ÂÂs Sunnyvale Market",
         "languageCode": "en"
       }
     },
@@ -29672,7 +29694,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=9978814315366163650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://pho-queen-noodle-house.keeq.io/",
       "displayName": {
-        "text": "Phá» Queen Noodle House",
+        "text": "PhÃ¡Â»Â Queen Noodle House",
         "languageCode": "en"
       }
     },
@@ -29686,7 +29708,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=6260805621158340472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Birrieria y Taqueria La Gran SeÃ±ora",
+        "text": "Birrieria y Taqueria La Gran SeÃÂ±ora",
         "languageCode": "en"
       }
     },
@@ -29840,7 +29862,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=13667016133665810047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://pos.chowbus.com/online-ordering/store/Dynasty-BBQ-Sunnyvale/20819",
       "displayName": {
-        "text": "äººé´çç«å°éé¦ï¼Dynasty BBQ)",
+        "text": "Ã¤ÂºÂºÃ©ÂÂ´Ã§ÂÂÃ§ÂÂ«Ã¥Â°ÂÃ©ÂÂÃ©Â¦ÂÃ¯Â¼ÂDynasty BBQ)",
         "languageCode": "en"
       }
     },
@@ -29882,7 +29904,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=18090158685076687692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.ordertogo.com/hunanmifensunnyvale",
       "displayName": {
-        "text": "Hunan Mifen Sunnyvale å°é¦çéª¨ç±³ç²",
+        "text": "Hunan Mifen Sunnyvale Ã¥Â°ÂÃ©Â¦ÂÃ§ÂÂÃ©ÂªÂ¨Ã§Â±Â³Ã§Â²Â",
         "languageCode": "en"
       }
     }
@@ -30332,7 +30354,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=8056048955313429699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://revolucionllcca.com/",
       "displayName": {
-        "text": "Casa RevoluciÃ³n Taqueria",
+        "text": "Casa RevoluciÃÂ³n Taqueria",
         "languageCode": "en"
       }
     },
@@ -30346,7 +30368,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=6863420734008854005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.lenaalameda.com/",
       "displayName": {
-        "text": "LeÃ±a Restaurant",
+        "text": "LeÃÂ±a Restaurant",
         "languageCode": "en"
       }
     },
@@ -30402,7 +30424,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=4589630989341728805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://taqueriavivamexico.com/?utm_source=google",
       "displayName": {
-        "text": "Taqueria Viva MÃ©xico",
+        "text": "Taqueria Viva MÃÂ©xico",
         "languageCode": "en"
       }
     },
@@ -32557,7 +32579,7 @@ var PREBAKED_DATA = {
       "googleMapsUri": "https://maps.google.com/?cid=13171421773842813847",
       "websiteUri": "https://www.mezzalunabythesea.com/",
       "displayName": {
-        "text": "CaffÃ© Mezza Luna",
+        "text": "CaffÃÂ© Mezza Luna",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
