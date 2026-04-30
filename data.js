@@ -3942,7 +3942,8 @@ var PREBAKED_DATA = {
         "text": "Patty’s Diner",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/Patty’s Diner Small.jpeg"
     },
     {
       "id": "ChIJT03rQeWdj4ARBIswVlxA1oM",
