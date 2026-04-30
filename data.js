@@ -3470,7 +3470,8 @@ var PREBAKED_DATA = {
         "text": "Bistro Arancini",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/burlingame/Bistro Arancini Small.jpeg"
     },
     {
       "id": "ChIJkxrB_yR2j4ARArTT1P_8Ou0",
