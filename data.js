@@ -204,7 +204,8 @@ var PREBAKED_DATA = {
         "text": "Peninsula Italian American Social Club",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Peninsula Italian American Club Small.jpeg"
     },
     {
       "id": "ChIJBz99fZqfj4AR0xl3FAfBon8",
@@ -377,7 +378,8 @@ var PREBAKED_DATA = {
         "text": "Sushi Maruyama",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sushi Maruyama Small.jpeg"
     },
     {
       "id": "ChIJrTqCc3Cej4ARB1BoBxdHsFw",
@@ -501,7 +503,8 @@ var PREBAKED_DATA = {
         "text": "Benihana - San Mateo",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Benihana Small.jpeg"
     },
     {
       "id": "ChIJ3SH8Znqej4ARUMkudLM5pJE",
@@ -794,7 +797,8 @@ var PREBAKED_DATA = {
         "text": "La Piñata",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/La Pinata Small.jpeg"
     },
     {
       "id": "ChIJ62bRY3Cej4AR3l5NXHnw5fc",
@@ -920,7 +924,8 @@ var PREBAKED_DATA = {
         "text": "Hot Wok Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hot Wok Cafe Small.jpeg"
     },
     {
       "id": "ChIJ30KkXSOfj4AR-BP4ArnxwN0",
@@ -1203,7 +1208,8 @@ var PREBAKED_DATA = {
         "text": "Tabla Indian Restaurant - San Mateo",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tabla Small.jpeg"
     },
     {
       "id": "ChIJdZO-BOafj4ARIn7armdjG4E",
@@ -1389,7 +1395,8 @@ var PREBAKED_DATA = {
         "text": "Lazy Dog Restaurant & Bar",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lazy Dog Small.jpeg"
     },
     {
       "id": "ChIJCzbe2Viej4ARxdm0aQzctUo",
@@ -1483,7 +1490,8 @@ var PREBAKED_DATA = {
         "text": "BJ's Restaurant & Brewhouse",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/BJ Brewhouse Small.jpeg"
     },
     {
       "id": "ChIJ7TKz_xmfj4ARtQgGqsBFIBQ",
@@ -1561,7 +1569,8 @@ var PREBAKED_DATA = {
         "text": "California Fish Grill",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/san-mateo/CA Fish Grill Small.jpeg"
     },
     {
       "id": "ChIJoShLt8Sfj4ARs7XSoeedP98",
@@ -1576,7 +1585,8 @@ var PREBAKED_DATA = {
         "text": "Lobster Chef",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lobster Chef Small.jpeg"
     },
     {
       "id": "ChIJlZciNwCfj4ARoQRaOS3XOQ4",
@@ -1653,7 +1663,8 @@ var PREBAKED_DATA = {
         "text": "Mateo Pizza Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Meteo Pizza Small.jpeg"
     },
     {
       "id": "ChIJt2p0sJWfj4ARAnNW1EHwWbo",
@@ -1779,7 +1790,8 @@ var PREBAKED_DATA = {
         "text": "Aldo's Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Aldos Pizza Small.jpeg"
     },
     {
       "id": "ChIJXYm1UR2fj4ARep4zzoa7lZc",
@@ -1937,7 +1949,8 @@ var PREBAKED_DATA = {
         "text": "Nick The Greek",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Nick The Greek SM Hills Small.jpeg"
     },
     {
       "id": "ChIJpxRGD8efj4AR6j3jq50wM4k",
@@ -2000,7 +2013,8 @@ var PREBAKED_DATA = {
         "text": "Lotus and Lime",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-mateo/Toa Yuen Small.jpeg"
     },
     {
       "id": "ChIJOTbfdHCej4ARIab_uDLZJr0",
@@ -2109,7 +2123,8 @@ var PREBAKED_DATA = {
         "text": "Myung Dong Tofu Cabin",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Myung Dong Tofu cabin Small.jpeg"
     },
     {
       "id": "ChIJ6zDxjXCej4AROgj36_xUWgM",
@@ -2341,7 +2356,8 @@ var PREBAKED_DATA = {
         "text": "Little Late Bird",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Little Late Bird Small.jpeg"
     },
     {
       "id": "ChIJtyXnf-iej4ARgH5vz-MDChE",
@@ -2356,7 +2372,8 @@ var PREBAKED_DATA = {
         "text": "Apple Fritter",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/san-mateo/Apple Fritter Small.jpeg"
     },
     {
       "id": "ChIJEZSWcoqfj4ARRh1KStl4i3s",
@@ -2371,7 +2388,8 @@ var PREBAKED_DATA = {
         "text": "Brothers Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Brothers Cafe Small.jpeg"
     },
     {
       "id": "ChIJUUoh_hmfj4ARhQw2XfMXZQk",
@@ -2543,7 +2561,8 @@ var PREBAKED_DATA = {
         "text": "Crystal Springs Tavern",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Crystal Springs Tavern Small.jpeg"
     },
     {
       "id": "ChIJQ5Cpuxmfj4AR6J-ovmEli1E",
@@ -2654,7 +2673,8 @@ var PREBAKED_DATA = {
         "text": "Neal's Coffee Shop",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Neals Coffee Shop Small.jpeg"
     },
     {
       "id": "ChIJRTWR2O6fj4ARAqPsTcQX5Hk",
@@ -2824,7 +2844,8 @@ var PREBAKED_DATA = {
         "text": "Pupuseria El Salvador ( el rinconcito catracho)",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pupuseria El Salvador Small.jpeg"
     },
     {
       "id": "ChIJA6M4a22fj4ARtjCESKxU3rU",
@@ -2854,7 +2875,8 @@ var PREBAKED_DATA = {
         "text": "Maria's Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-mateo/Marias Small.jpeg"
     },
     {
       "id": "ChIJ0zXSo5afj4ARa-oYUC8sSgI",
@@ -2929,7 +2951,8 @@ var PREBAKED_DATA = {
         "text": "Sal's Burgers",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sals Burgers Small.jpeg"
     },
     {
       "id": "ChIJJ5RD_Eh2j4ARJXCwvPBwjQY",
@@ -2960,7 +2983,8 @@ var PREBAKED_DATA = {
         "text": "Sourdough & Co",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sourdough & Co. Small.jpeg"
     },
     {
       "id": "ChIJP7SzgWOej4ARm8ksqOCHTCw",
@@ -3066,7 +3090,8 @@ var PREBAKED_DATA = {
         "text": "Harry's Shoreview Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Harrys Deli Small.jpeg"
     },
     {
       "id": "ChIJN6x96hadj4AR7ZVrIZVCt4s",
@@ -3097,7 +3122,7 @@ var PREBAKED_DATA = {
         "languageCode": "en"
       },
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Himawari Small.jpeg"
+      "photoUrl": "images/restaurant-photos/san-mateo/Wakuriya Small.jpeg"
     },
     {
       "id": "ChIJe_K0-WSej4ARodOC4dXyLbI",
@@ -3206,7 +3231,8 @@ var PREBAKED_DATA = {
         "text": "Ay Caray Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ay Caray Small.jpeg"
     },
     {
       "id": "ChIJdUQYkhWfj4ARvv8mWDJD5xY",
