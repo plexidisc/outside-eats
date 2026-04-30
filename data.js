@@ -3412,7 +3412,8 @@ var PREBAKED_DATA = {
         "text": "Il Fornaio Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/burlingame/Il Fornaio Small.jpeg"
     },
     {
       "id": "ChIJq7QoI_Gdj4AR2mo3R1T66k0",
@@ -3520,7 +3521,8 @@ var PREBAKED_DATA = {
         "text": "SaltYard Restaurant and Bar",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/Saltyard Small.jpeg"
     },
     {
       "id": "ChIJV-z5IfGdj4ARWuykkidQUGk",
@@ -3551,7 +3553,8 @@ var PREBAKED_DATA = {
         "text": "Farm & Vine American Bistro",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/Farm & Vine Small.jpeg"
     },
     {
       "id": "ChIJIdNAKRydj4ARtMj7FdThMcA",
@@ -3566,7 +3569,8 @@ var PREBAKED_DATA = {
         "text": "Mykonos",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/burlingame/Mykonos Small.jpeg"
     },
     {
       "id": "ChIJTbRINPCdj4ARVQZDEDbvsNQ",
@@ -3597,7 +3601,8 @@ var PREBAKED_DATA = {
         "text": "Twelvemonth",
         "languageCode": "en"
       },
-      "cuisine": "Vegetarian/Vegan"
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/burlingame/Twelvemonth Small.jpeg"
     },
     {
       "id": "ChIJoakpq36dj4ARWtt7W9Ing5E",
@@ -3612,7 +3617,8 @@ var PREBAKED_DATA = {
         "text": "Caffe Stellato",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Cafe Stellato Small.jpeg"
     },
     {
       "id": "ChIJbzla_mudj4ARFkL0OkP34gw",
@@ -3627,7 +3633,8 @@ var PREBAKED_DATA = {
         "text": "Buri Buri Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Buri Buri Small.jpeg"
     },
     {
       "id": "ChIJoYObMe6dj4ARiutMipkwFMo",
@@ -3642,7 +3649,8 @@ var PREBAKED_DATA = {
         "text": "Tomokazu Japanese Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/burlingame/Tomokazu Small.jpeg"
     },
     {
       "id": "ChIJP8ZRyCV2j4ARfqQbhMi2gHE",
@@ -3657,7 +3665,8 @@ var PREBAKED_DATA = {
         "text": "Mokutanya",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/burlingame/Mokutanya Small.jpeg"
     },
     {
       "id": "ChIJr3wONy12j4ARKxEw1C1SA7Y",
@@ -3687,7 +3696,8 @@ var PREBAKED_DATA = {
         "text": "Fuumi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/burlingame/Fuumi Small.jpeg"
     },
     {
       "id": "ChIJ6aPNyfSdj4AROZpGeQ99Cgs",
@@ -3702,7 +3712,8 @@ var PREBAKED_DATA = {
         "text": "Hanabi Ramen and Japanese Curry",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/burlingame/Hanabi Small.jpeg"
     },
     {
       "id": "ChIJ75cJIO6dj4AR1bqt-XFNtDA",
@@ -3732,7 +3743,8 @@ var PREBAKED_DATA = {
         "text": "Barracuda Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/burlingame/Barracuda Small.jpeg"
     },
     {
       "id": "ChIJO0YAtNJ3j4ARqmqR_BuLb4U",
@@ -3762,7 +3774,8 @@ var PREBAKED_DATA = {
         "text": "Curry Hyuga",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/burlingame/Curry Hyuga Small.jpeg"
     },
     {
       "id": "ChIJ9TBrXgB3j4AR8NdHIsecCpw",
@@ -3807,7 +3820,8 @@ var PREBAKED_DATA = {
         "text": "Jayli’s Cocina",
         "languageCode": "es"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/burlingame/Jaylis Small.jpeg"
     },
     {
       "id": "ChIJiYoH-4idj4ARlr9MWyW8vg4",
@@ -3963,7 +3977,8 @@ var PREBAKED_DATA = {
         "text": "Young Can Wok Chinese Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/burlingame/Young Can Dok Chinese Bistro Small.jpeg"
     },
     {
       "id": "ChIJuQl8HCp3j4ARqJO67kMSIJI",
@@ -3978,7 +3993,8 @@ var PREBAKED_DATA = {
         "text": "Yuanbao Jiaozi",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/burlingame/Yuanbao Jiaozi Small.jpeg"
     },
     {
       "id": "ChIJATQCqmd3j4ARCGX0SdHUZrQ",
@@ -3993,7 +4009,8 @@ var PREBAKED_DATA = {
         "text": "Blissful Noodle",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Blissful Noodle Small.jpeg"
     },
     {
       "id": "ChIJQSxYoSV2j4ARlgCVyTXyfrc",
@@ -4008,7 +4025,8 @@ var PREBAKED_DATA = {
         "text": "Yangon",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Yangon Small.jpeg"
     },
     {
       "id": "ChIJiahRlPGdj4ARJjeUd2mmutU",
@@ -4070,7 +4088,8 @@ var PREBAKED_DATA = {
         "text": "Coconut Bay Thai Restaurant & Bar - Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/burlingame/Coconut Bay Small.jpeg"
     },
     {
       "id": "ChIJORjJh2d3j4ARPJK8q1uPWXM",
@@ -4085,7 +4104,8 @@ var PREBAKED_DATA = {
         "text": "Himali Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/burlingame/Himali Bistro Small.jpeg"
     },
     {
       "id": "ChIJTTgiNfCdj4ARxr6K9Uv8XI0",
@@ -4116,7 +4136,8 @@ var PREBAKED_DATA = {
         "text": "Masala Desi Cafe - Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/burlingame/Masala Desi Cafe Small.jpeg"
     },
     {
       "id": "ChIJ0S5UF_Gdj4ARrPuY3r7Z-yY",
@@ -4162,7 +4183,8 @@ var PREBAKED_DATA = {
         "text": "American Bull Bar & Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/The American Bull Small.jpeg"
     },
     {
       "id": "ChIJq2Lo6SR2j4ARZiFdFBGLo9w",
@@ -4177,7 +4199,8 @@ var PREBAKED_DATA = {
         "text": "Broadway Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/Broadway Grill Small.jpeg"
     },
     {
       "id": "ChIJwYo8l5Gdj4ARzYTiPg7X3JI",
@@ -4192,7 +4215,8 @@ var PREBAKED_DATA = {
         "text": "Kincaid's Fish, Chop & Steakhouse",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/burlingame/Kincaids Small.jpeg"
     },
     {
       "id": "ChIJA8gg0Yidj4ARgPypyVcf6rI",
@@ -4252,7 +4276,8 @@ var PREBAKED_DATA = {
         "text": "Stacks",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/burlingame/Stacks Small.jpeg"
     },
     {
       "id": "ChIJDVVK5CR2j4ARgPE-lTYlOWc",
@@ -4267,7 +4292,8 @@ var PREBAKED_DATA = {
         "text": "Broadway Prime",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/burlingame/Broadway Prime Small.jpeg"
     },
     {
       "id": "ChIJCx-t2IF3j4AR9hpvNAjkTwY",
@@ -4282,7 +4308,8 @@ var PREBAKED_DATA = {
         "text": "Centro Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/burlingame/Centro Pizza Small.jpeg"
     },
     {
       "id": "ChIJKUxY8fGdj4ARzMgsgdkCFlk",
@@ -4313,7 +4340,8 @@ var PREBAKED_DATA = {
         "text": "Pizza My Heart",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/burlingame/Pizza My heart Small.jpeg"
     },
     {
       "id": "ChIJabgbACV2j4ARD2wh28Cgs6Y",
@@ -4328,7 +4356,8 @@ var PREBAKED_DATA = {
         "text": "Village Host Pizza & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/burlingame/Village Host Small.jpeg"
     },
     {
       "id": "ChIJj93oSJl3j4ARunOR_4JIHyw",
@@ -4343,7 +4372,8 @@ var PREBAKED_DATA = {
         "text": "Mediterranean Pizza and Gyros",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/burlingame/Mediterranean Pizza & Gyros Small.jpeg"
     },
     {
       "id": "ChIJH-bjmi-dj4AR17X2m877L20",
@@ -4358,7 +4388,8 @@ var PREBAKED_DATA = {
         "text": "Mediterranean Kitchen Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/burlingame/Mediterranean Kitchen Small.jpeg"
     },
     {
       "id": "ChIJRXdXdfGdj4AR5Os-G3Wld1Y",
@@ -4404,7 +4435,8 @@ var PREBAKED_DATA = {
         "text": "House of Kebab",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/burlingame/House of Kebab Small.jpeg"
     },
     {
       "id": "ChIJIV9OtQCdj4ARKiA1bDi2I5A",
@@ -4450,7 +4482,8 @@ var PREBAKED_DATA = {
         "text": "Cafe Cherimoya",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Cafe Cherimoya Small.jpeg"
     },
     {
       "id": "ChIJOxX-qLx3j4AR_Wksr1A1aPE",
@@ -4465,7 +4498,8 @@ var PREBAKED_DATA = {
         "text": "Plucky's Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Pluckys Small.jpeg"
     },
     {
       "id": "ChIJdczlAVh3j4AR5Kn2bwgzIoA",
@@ -4480,7 +4514,8 @@ var PREBAKED_DATA = {
         "text": "K-Noodle",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/burlingame/K- Korean Noodle and Tofu Small.jpeg"
     },
     {
       "id": "ChIJS61xWPGdj4ARtjQ_yit3l8E",
@@ -4495,7 +4530,8 @@ var PREBAKED_DATA = {
         "text": "Chouchou French Bistro",
         "languageCode": "en"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/burlingame/Chou Chou Small.jpeg"
     },
     {
       "id": "ChIJ_5A2dNidj4ARCPcTAiyWG6s",
@@ -4510,7 +4546,8 @@ var PREBAKED_DATA = {
         "text": "Palmetto Superfoods - Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Vegetarian/Vegan"
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/burlingame/Palmetto Small.jpeg"
     },
     {
       "id": "ChIJefXFTACdj4ARQlA2vGf2AXk",
@@ -4525,7 +4562,8 @@ var PREBAKED_DATA = {
         "text": "ACAN",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Acain Small.jpeg"
     },
     {
       "id": "ChIJdSSDylidj4ARtIpGV--k9Uc",
@@ -4540,7 +4578,8 @@ var PREBAKED_DATA = {
         "text": "Velvet 48 Wine Bar",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/burlingame/Velvet Wine Bar Small.jpeg"
     },
     {
       "id": "ChIJf6DDfQB3j4ARgdISlGxgW4o",
@@ -4618,7 +4657,8 @@ var PREBAKED_DATA = {
         "text": "Christie's",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Christies Small.jpeg"
     },
     {
       "id": "ChIJ-dukk7N3j4ARkRsnP4vL6ng",
@@ -4633,7 +4673,8 @@ var PREBAKED_DATA = {
         "text": "Neal's Coffee Shop",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Neals Coffee Shop Small.jpeg"
     },
     {
       "id": "ChIJN-fFVaOdj4AR9PCZYAk8aD4",
@@ -4679,7 +4720,8 @@ var PREBAKED_DATA = {
         "text": "Barrelhouse",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Barrel House Small.jpeg"
     },
     {
       "id": "ChIJ6eT1eKp3j4ARtqja3C5FJGQ",
@@ -4694,7 +4736,8 @@ var PREBAKED_DATA = {
         "text": "Society Restaurant & Hookah Lounge",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/burlingame/Society Small.jpeg"
     },
     {
       "id": "ChIJofaR7yR2j4ARuKNI4uVDOKU",
@@ -4724,7 +4767,8 @@ var PREBAKED_DATA = {
         "text": "Paddy Flynn's",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Paddy Flynns Small.jpeg"
     },
     {
       "id": "ChIJ7W_sp6Odj4ARsnYGnU91N-U",
@@ -4739,7 +4783,8 @@ var PREBAKED_DATA = {
         "text": "Mints & Honey Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/burlingame/Mints & Honey Small.jpeg"
     },
     {
       "id": "ChIJofb8riV2j4ARQdV52nlATS0",
@@ -4754,7 +4799,8 @@ var PREBAKED_DATA = {
         "text": "Le Croissant Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Le Croissant Cafe Small.jpeg"
     },
     {
       "id": "ChIJiS6VHyV2j4ARbXqkhaFevnw",
@@ -4800,7 +4846,8 @@ var PREBAKED_DATA = {
         "text": "Patty's Caffe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Pattys Small.jpeg"
     },
     {
       "id": "ChIJe8Wbv5Odj4ARG6qa1jwwxYs",
@@ -4830,7 +4877,8 @@ var PREBAKED_DATA = {
         "text": "Royal Donut Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Royal Donut Cafe Small.jpeg"
     },
     {
       "id": "ChIJ_SeP6e53j4AR3xo83UeLbog",
@@ -4890,7 +4938,8 @@ var PREBAKED_DATA = {
         "text": "El Quetzal comida Guatemalteca",
         "languageCode": "es"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/El Quetzal Small.jpeg"
     },
     {
       "id": "ChIJxVY3wSV2j4ARhhR0g-Xi2iI",
@@ -4905,7 +4954,8 @@ var PREBAKED_DATA = {
         "text": "Maverick Jack's",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/burlingame/Maverick Jacks Small.jpeg"
     },
     {
       "id": "ChIJSxp0RfCdj4AR-qT7eTk1510",
@@ -4950,7 +5000,8 @@ var PREBAKED_DATA = {
         "text": "Cj's Gourmet Delicatessen",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/CJs Gourmet Deli Small.jpeg"
     },
     {
       "id": "ChIJ7xbkqSV2j4ARMmIU5GRzkWs",
@@ -4965,7 +5016,8 @@ var PREBAKED_DATA = {
         "text": "Bonne Sante Broadway",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Bonnesantes deli Small.jpeg"
     },
     {
       "id": "ChIJI7FkUPCdj4ARYqyVbY1njeE",
@@ -4980,7 +5032,8 @@ var PREBAKED_DATA = {
         "text": "Ike's Love & Sandwiches",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Ikes Small.jpeg"
     },
     {
       "id": "ChIJddVBgrR3j4ARVMlFoRC4Tq4",
@@ -4995,7 +5048,8 @@ var PREBAKED_DATA = {
         "text": "Little Lucca",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Little Lucca Small.jpeg"
     },
     {
       "id": "ChIJtwPpt_adj4ARjf7QYPUCob4",
@@ -5055,7 +5109,8 @@ var PREBAKED_DATA = {
         "text": "Backhaus | Burlingame",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/burlingame/Backhaus Small.jpeg"
     },
     {
       "id": "ChIJTw8ywjCdj4ARTc2cAghHatk",
@@ -5070,7 +5125,8 @@ var PREBAKED_DATA = {
         "text": "Truffle Poké Bar",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/burlingame/Truffle Poke Bar Small.jpeg"
     },
     {
       "id": "ChIJj2Ur5853j4ARmuaRyPUZd_Y",
