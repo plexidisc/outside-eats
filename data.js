@@ -4873,8 +4873,7 @@ var PREBAKED_DATA = {
         "text": "Patty's Caffe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/burlingame/Pattys Small.jpeg"
+      "cuisine": "Cafe/Bakery"
     },
     {
       "id": "ChIJe8Wbv5Odj4ARG6qa1jwwxYs",
