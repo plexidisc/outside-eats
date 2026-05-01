@@ -4757,21 +4757,6 @@ var PREBAKED_DATA = {
       "cuisine": "Other"
     },
     {
-      "id": "ChIJDfEUmfGdj4AReIJafRllhXo",
-      "formattedAddress": "337 Primrose Rd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5782662,
-        "longitude": -122.3488824
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8828573804681396856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.thewinestop.com/",
-      "displayName": {
-        "text": "The Wine Stop",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar"
-    },
-    {
       "id": "ChIJoYObMe6dj4ARiutMipkwFMo",
       "formattedAddress": "1101 Howard Ave, Burlingame, CA 94010, USA",
       "location": {
