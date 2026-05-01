@@ -4643,7 +4643,8 @@ var PREBAKED_DATA = {
         "text": "SAKAE Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/burlingame/SAKAE Sushi Small.jpeg"
     },
     {
       "id": "ChIJmfS6WKKdj4ARmJK7r9oRPWE",
