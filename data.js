@@ -5036,21 +5036,6 @@ var PREBAKED_DATA = {
       "cuisine": "Other"
     },
     {
-      "id": "ChIJW1thhLN3j4AR54yOHWNVSGQ",
-      "formattedAddress": "1825 El Camino Real, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5945197,
-        "longitude": -122.3849796
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7226119486301965543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.lunardis.com/",
-      "displayName": {
-        "text": "Lunardi's Markets",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJ04rnjTZ2j4ARYBKpoMqqGAc",
       "formattedAddress": "1508 Adeline Dr, Burlingame, CA 94010, USA",
       "location": {
