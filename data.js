@@ -2819,21 +2819,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-mateo/Taishoken Small.jpeg"
     },
     {
-      "id": "ChIJI9eeaXqej4ARVJcDscRCXtI",
-      "formattedAddress": "221 S Claremont St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.567023899999995,
-        "longitude": -122.32077609999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15158626808326494036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.takahashimarket.com/",
-      "displayName": {
-        "text": "Takahashi Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
       "id": "ChIJDVXtW-qfj4ARhosLW1QX71s",
       "formattedAddress": "144 E 3rd Ave, San Mateo, CA 94401, USA",
       "location": {
