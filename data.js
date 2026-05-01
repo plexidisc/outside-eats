@@ -1099,8 +1099,7 @@ var PREBAKED_DATA = {
         "text": "Hot Wok Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Hot Wok Cafe Small.jpeg"
+      "cuisine": "Chinese"
     },
     {
       "id": "ChIJeYxGt3Gej4ARWlGEOdBa0LE",
