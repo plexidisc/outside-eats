@@ -4645,7 +4645,8 @@ var PREBAKED_DATA = {
         "text": "Behan's An Irish Pub",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/burlingame/Behan's An Irish Pub Small.jpeg"
     },
     {
       "id": "ChIJP2Uqw_Gdj4ARx2LPjRVSfU4",
