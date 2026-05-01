@@ -2663,21 +2663,6 @@ var PREBAKED_DATA = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJOT48RACfj4ARctqvQQ4bVCs",
-      "formattedAddress": "1100 Park Pl Building 2 Suite 20, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5448743,
-        "longitude": -122.29117869999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3122150189720132210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.superduperburgers.com/",
-      "displayName": {
-        "text": "Super Duper Burgers",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJPwJWe3Cej4AR2tUwdkF4nL8",
       "formattedAddress": "38 E 25th Ave, San Mateo, CA 94403, USA",
       "location": {
