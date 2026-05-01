@@ -64,21 +64,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-mateo/All Spice Small.jpeg"
     },
     {
-      "id": "ChIJh-VJKEqfj4AR9SKGIVMnFRg",
-      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5477207,
-        "longitude": -122.3083157
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1735336469419401973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.amazingkatsu.com/",
-      "displayName": {
-        "text": "Amazing Katsu - San Mateo",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
       "id": "ChIJwbQzTXCej4AR6AiUPmWLsAY",
       "formattedAddress": "69 E 3rd Ave, San Mateo, CA 94401, USA",
       "location": {
