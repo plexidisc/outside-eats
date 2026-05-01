@@ -741,21 +741,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-mateo/Dough Zone Small.jpeg"
     },
     {
-      "id": "ChIJ1dqUT7Kfj4ARJjWhF4JuDFI",
-      "formattedAddress": "500 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5665765,
-        "longitude": -122.32055039999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5912221915851863334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Edi's Quesabirrias & Tacos",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
       "id": "ChIJQbNcA9adj4ARmcSDBfrEoOU",
       "formattedAddress": "15 N Kingston St, San Mateo, CA 94401, USA",
       "location": {
