@@ -4734,7 +4734,8 @@ var PREBAKED_DATA = {
         "text": "Twelvemonth Bar",
         "languageCode": "en"
       },
-      "cuisine": "Vegetarian/Vegan"
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/burlingame/Twelvemonth Bar Small.jpeg"
     },
     {
       "id": "ChIJ3yMp9vGdj4ARcyuhdx581Dc",
