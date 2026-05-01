@@ -3304,21 +3304,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/burlingame/Acain Small.jpeg"
     },
     {
-      "id": "ChIJ04rnjTZ2j4ARYBKpoMqqGAc",
-      "formattedAddress": "1508 Adeline Dr, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.589078,
-        "longitude": -122.37555700000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=511346344962101856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://zstep24.wixsite.com/adelinemarket-1",
-      "displayName": {
-        "text": "Adeline Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJj2yyE_Gdj4ARW78PDfzi8-4",
       "formattedAddress": "1408 Burlingame Ave, Burlingame, CA 94010, USA",
       "location": {
