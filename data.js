@@ -1509,8 +1509,7 @@ var PREBAKED_DATA = {
         "text": "Lotus and Lime",
         "languageCode": "en"
       },
-      "cuisine": "Fusion",
-      "photoUrl": "images/restaurant-photos/san-mateo/Toa Yuen Small.jpeg"
+      "cuisine": "Fusion"
     },
     {
       "id": "ChIJLZhr0v6ej4ARAP-hT1EdtdY",
