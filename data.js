@@ -4332,21 +4332,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/burlingame/Mokutanya Small.jpeg"
     },
     {
-      "id": "ChIJtwPpt_adj4ARjf7QYPUCob4",
-      "formattedAddress": "1477 Chapin Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.577092799999996,
-        "longitude": -122.35058660000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13736263591371275917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.molliestones.com/",
-      "displayName": {
-        "text": "Mollie Stone's Markets",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJO0YAtNJ3j4ARqmqR_BuLb4U",
       "formattedAddress": "851 Burlway Rd #900, Burlingame, CA 94010, USA",
       "location": {
