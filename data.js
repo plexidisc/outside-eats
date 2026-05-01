@@ -4961,21 +4961,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/burlingame/Yangon Small.jpeg"
     },
     {
-      "id": "ChIJe8Wbv5Odj4ARG6qa1jwwxYs",
-      "formattedAddress": "533 Airport Blvd., Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5899123,
-        "longitude": -122.34065190000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10071509179540613659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.facebook.com/cafeyay/",
-      "displayName": {
-        "text": "YAY Café",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJa3BqASV2j4AR0Z5qgwuefME",
       "formattedAddress": "1200 Broadway, Burlingame, CA 94010, USA",
       "location": {
