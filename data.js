@@ -2864,21 +2864,6 @@ var PREBAKED_DATA = {
       "cuisine": "Other"
     },
     {
-      "id": "ChIJSXBk33Gfj4AR12zqfCgB9L8",
-      "formattedAddress": "2992 E Hillsdale Blvd, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5439832,
-        "longitude": -122.2843987
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13831681628967693527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Antojitos Salvadorenos El Torogoz",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJh8qOgm2fj4ARSJdJF-9ehwo",
       "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
       "location": {
