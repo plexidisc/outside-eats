@@ -2678,21 +2678,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-mateo/Colander Kitchens Small.jpeg"
     },
     {
-      "id": "ChIJQRzbpVqej4ARlQ1GvYX4fAs",
-      "formattedAddress": "2000 Alameda de las Pulgas, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.544613999999996,
-        "longitude": -122.32130319999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=827809684819152277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Cafe 2k",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJaftroqafj4ARP2AjcD1UhoQ",
       "formattedAddress": "48 Hillsdale Mall, San Mateo, CA 94403, USA",
       "location": {
