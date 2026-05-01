@@ -1431,21 +1431,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-mateo/Taste & Glory Small.jpeg"
     },
     {
-      "id": "ChIJ06nLGwCfj4AR-MnK7x2Gt7s",
-      "formattedAddress": "1501 S El Camino Real, San Mateo, CA 94402, USA",
-      "location": {
-        "latitude": 37.5540042,
-        "longitude": -122.31546490000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13526427468965792248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/theburger.br2024?igsh=ZW1zdXc1MTV4cXVs",
-      "displayName": {
-        "text": "The Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJ9WyHNXCej4ARr47XTsNUA_Q",
       "formattedAddress": "164 S B St, San Mateo, CA 94401, USA",
       "location": {
