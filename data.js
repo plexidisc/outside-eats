@@ -3188,21 +3188,6 @@ var PREBAKED_DATA = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJq5VmdgCfj4ARu3toZ5YKhn4",
-      "formattedAddress": "2036 Fashion Island Blvd, San Mateo, CA 94404, USA",
-      "location": {
-        "latitude": 37.558823,
-        "longitude": -122.28506019999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9116986136754420667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/taqueriaelchacho",
-      "displayName": {
-        "text": "Taqueria El Chacho",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
       "id": "ChIJJbGJdumfj4ARHqzFGHMnOfs",
       "formattedAddress": "2317 S El Camino Real, San Mateo, CA 94403, USA",
       "location": {
