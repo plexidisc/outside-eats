@@ -3032,21 +3032,6 @@ var PREBAKED_DATA = {
       "cuisine": "American"
     },
     {
-      "id": "ChIJF3DTzkyej4AR1Zy4SeYqAdY",
-      "formattedAddress": "1218 W Hillsdale Blvd, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5338489,
-        "longitude": -122.32597410000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15420653767660969173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.piazzasfinefoods.com/",
-      "displayName": {
-        "text": "Piazza's Fine Foods",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
       "id": "ChIJ4eTlvOifj4AR01DroTjRjGI",
       "formattedAddress": "301 S B St, San Mateo, CA 94401, USA",
       "location": {
