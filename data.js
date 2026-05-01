@@ -2757,21 +2757,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-mateo/Sushilito Boy Small.jpeg"
     },
     {
-      "id": "ChIJbb55ZQCfj4ARU7AUEkjN2Es",
-      "formattedAddress": "50 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.563559999999995,
-        "longitude": -122.32489869999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5465343857238782035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.grubbrr.com/Home/Index/Colander-Kitchens",
-      "displayName": {
-        "text": "Sushirrito",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
       "id": "ChIJbaKmySifj4ARz3VXd1tWphY",
       "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
       "location": {
