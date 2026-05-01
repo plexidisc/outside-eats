@@ -3684,21 +3684,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/burlingame/Centro Pizza Small.jpeg"
     },
     {
-      "id": "ChIJkycOMwB3j4ARheH-Fc_Ul1Q",
-      "formattedAddress": "1722 Gilbreth Rd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5993141,
-        "longitude": -122.37334179999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6095574606561599877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Chef Fatih",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern"
-    },
-    {
       "id": "ChIJS61xWPGdj4ARtjQ_yit3l8E",
       "formattedAddress": "401 Primrose Rd, Burlingame, CA 94010, USA",
       "location": {
