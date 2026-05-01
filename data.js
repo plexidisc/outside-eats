@@ -3175,7 +3175,8 @@ var PREBAKED_DATA = {
         "text": "Wunderbar",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-mateo/Wunderbar Small.jpeg"
     },
     {
       "id": "ChIJX3rgaxqfj4ARTDV4zC6uL8c",
