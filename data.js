@@ -24499,21 +24499,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Paiks Noodle Small.jpeg"
     },
     {
-      "id": "ChIJNV2MsECjj4ARbAiISRFCH0I",
-      "formattedAddress": "1129 Old County Rd, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.5000189,
-        "longitude": -122.2503601
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4764599572796803180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Panda Express",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
       "id": "ChIJtVlMxBeij4ARW1R2aJ91IMI",
       "formattedAddress": "1179 Laurel St, San Carlos, CA 94070, USA",
       "location": {
