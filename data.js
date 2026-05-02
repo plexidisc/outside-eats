@@ -23765,21 +23765,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Amazing Wok Small.jpeg"
     },
     {
-      "id": "ChIJRd5Tuhuij4ARbQPyL8Q8B_Q",
-      "formattedAddress": "810 Laurel St, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.503344,
-        "longitude": -122.25779500000002
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17584090083407037293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://bianchinismarket.com/",
-      "displayName": {
-        "text": "Bianchini's Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJA4uzEgCjj4ARiY62sWiquwE",
       "formattedAddress": "749 Laurel St, San Carlos, CA 94070, USA",
       "location": {
