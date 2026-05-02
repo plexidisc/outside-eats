@@ -5420,21 +5420,6 @@ var PREBAKED_DATA_CENTRAL = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJs2QUB9Cej4ARoAmWNcjjeDQ",
-      "formattedAddress": "950 Tower Ln #1775, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.558151900000006,
-        "longitude": -122.2759802
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3781022336209521056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://cafesavini.com/",
-      "displayName": {
-        "text": "Cafe Savini",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJ0-SErs-ej4AR1iRTjUE-1xk",
       "formattedAddress": "1000 Metro Center Blvd A, Foster City, CA 94404, USA",
       "location": {
