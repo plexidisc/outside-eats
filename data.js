@@ -24990,21 +24990,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Town Small.jpeg"
     },
     {
-      "id": "ChIJAQAE8yWij4ARbU2b6LhgrT4",
-      "formattedAddress": "113 Garnet Ave, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.4874249,
-        "longitude": -122.2584541
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4516372348615216493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://trueethiopiancuisine.com/",
-      "displayName": {
-        "text": "True Ethiopian Cuisine Catering",
-        "languageCode": "en"
-      },
-      "cuisine": "Ethiopian"
-    },
-    {
       "id": "ChIJDWMbdRuij4ARda-i0Gmyi6Q",
       "formattedAddress": "788 Laurel St, San Carlos, CA 94070, USA",
       "location": {
