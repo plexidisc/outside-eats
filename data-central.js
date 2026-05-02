@@ -5276,7 +5276,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Akizu Sushi Bar & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/Akizu Sushi Bar Small.jpeg"
     },
     {
       "id": "ChIJC3dM58Oej4ARtSZewKk4DV8",
@@ -5306,7 +5307,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Bellini Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/foster-city/Bellini Bistro Small.jpeg"
     },
     {
       "id": "ChIJP1LRAkO3j4ARB2vspFlYGDA",
@@ -5321,7 +5323,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Bengalur Ootery",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/foster-city/Bengalur Ootery Small.jpeg"
     },
     {
       "id": "ChIJF5VQdgCfj4ARla0Ubt0V9ac",
@@ -5351,7 +5354,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Cafe Florian Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/foster-city/Cafe Florian Small.jpeg"
     },
     {
       "id": "ChIJH4S-5xCfj4ARd_n1e9pBCbQ",
@@ -5366,7 +5370,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "CAFÉ KAZKA",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Flafel Tazah Small.jpeg"
     },
     {
       "id": "ChIJ0-SErs-ej4AR1iRTjUE-1xk",
@@ -5381,7 +5386,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Chez Xue",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Chez Xue Small.jpeg"
     },
     {
       "id": "ChIJAU8xJHufj4AR7TL-QOc5xf0",
@@ -5396,7 +5402,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Chuan Chim Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/foster-city/Chuan Chim Small.jpeg"
     },
     {
       "id": "ChIJ5XX1Jaifj4AR894A9dc0Oyw",
@@ -5411,7 +5418,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Curry Pizza House Foster City",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/foster-city/Curry Pizza House Small.jpeg"
     },
     {
       "id": "ChIJ21UsjdKej4AR0yA6_V5UPqo",
@@ -5456,7 +5464,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Joy Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Joy Small.jpeg"
     },
     {
       "id": "ChIJKzv8EySZj4ARt59z6jkbXm0",
@@ -5471,7 +5480,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Kenta Ramen",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/Kenta Ramen Small.jpeg"
     },
     {
       "id": "ChIJpfffOryej4AR9A83_u08Aao",
@@ -5501,7 +5511,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "MJ Sushi Foster City",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/MJ Sushi Small.jpeg"
     },
     {
       "id": "ChIJYzJUKuafj4ARaXLgH3mrGik",
@@ -5516,7 +5527,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Mumu Hot Pot",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Mumu Hot Pot Small.jpeg"
     },
     {
       "id": "ChIJ67_S8Vufj4ARVqe1G2oLPeU",
@@ -5546,7 +5558,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Nina’s Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/foster-city/Ninas Cafe Small.jpeg"
     },
     {
       "id": "ChIJ04eH1DWZj4ARcuWDQkRr66Y",
@@ -5558,7 +5571,8 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=12027825170740929906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.dumplingkitchenca.com/",
       "location": {},
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Pan Kee Food Dumpling Kitchen Small.jpeg"
     },
     {
       "id": "ChIJBUil2sWej4ARzhUOnf8CKrg",
@@ -5588,7 +5602,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Penelope's Coffee and Tea",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/foster-city/Penelopes Coffee Small.jpeg"
     },
     {
       "id": "ChIJ666FxteYj4AR1GOowL8wYVY",
@@ -5603,7 +5618,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Pho New Saigon",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/foster-city/Pho Saigon Small.jpeg"
     },
     {
       "id": "ChIJpXTlUimfj4ARk7iiKUV13gg",
@@ -5618,7 +5634,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Rickshaw Corner",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Rickshaw Corner Small.jpeg"
     },
     {
       "id": "ChIJj4VWjUefj4ARzRHHhGocRCM",
@@ -5633,7 +5650,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Sizzling Lunch",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/Sizzling Lunch Small.jpeg"
     },
     {
       "id": "ChIJQ4rvKtaYj4ARBTGefrZrSYg",
@@ -5648,7 +5666,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Soon's Tofu & Korean BBQ",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/foster-city/Soons Tofu & Korean BBQ Small.jpeg"
     },
     {
       "id": "ChIJ0zUtXSSZj4AR4FxutnC97fw",
@@ -5663,7 +5682,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Sweet Basil Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/foster-city/Sweet Basil Small.jpeg"
     },
     {
       "id": "ChIJj7WBxdeYj4ARD_wYzxfoz80",
@@ -5678,7 +5698,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Tai Wu Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Tai Wu Restaurant Small.jpeg"
     },
     {
       "id": "ChIJ_U1_Qzafj4ARhZGhz7-jtvc",
@@ -5693,7 +5714,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Tandoori Pizza - Foster City",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/foster-city/Tandoori Pizza Small.jpeg"
     },
     {
       "id": "ChIJC17Hqsiej4AR54zuflEh5Ek",
@@ -5708,7 +5730,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "The Clubhouse Bistro",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/foster-city/The Clubhouse Bistro Small.jpeg"
     },
     {
       "id": "ChIJnxnmD8yej4ARR4Lfoz-pxt4",
@@ -5723,7 +5746,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "The Sandwich Monkey",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/foster-city/Sandwich Monkey Small.jpeg"
     },
     {
       "id": "ChIJyyldBTifj4ARVdcgK6doVF0",
@@ -5738,7 +5762,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Toast In Town",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/foster-city/Toast In Town Small.jpeg"
     },
     {
       "id": "ChIJewvzhiefj4ARw2VyGqyH5yQ",
@@ -5753,7 +5778,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Tsukira Ramen",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/808 | Ramen Tsukira Small.jpeg"
     },
     {
       "id": "ChIJ6x0WHCyfj4AREfNcpraaJ4s",
@@ -5768,7 +5794,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Waterfront Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/foster-city/Waterfront Pizza Small.jpeg"
     }
   ],
   "Belmont, CA": [
