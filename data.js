@@ -24688,21 +24688,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Sakura Small.jpeg"
     },
     {
-      "id": "ChIJz2PRbuOjj4ARTgWGyy7g2vI",
-      "formattedAddress": "835 Industrial Rd, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.5067474,
-        "longitude": -122.2506431
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17499545793689158990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.invitedclubs.com/clubs/the-alexandria-san-carlos",
-      "displayName": {
-        "text": "Salt & Brine",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJJSytkuWjj4ARGhq-37TLCqQ",
       "formattedAddress": "765 Old County Rd unit B, San Carlos, CA 94070, USA",
       "location": {
