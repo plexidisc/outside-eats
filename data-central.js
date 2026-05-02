@@ -5702,21 +5702,6 @@ var PREBAKED_DATA_CENTRAL = {
       "cuisine": "Korean"
     },
     {
-      "id": "ChIJo5s3R2Gfj4AREFeCeAFQMe8",
-      "formattedAddress": "1141 Triton Dr, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5638691,
-        "longitude": -122.27091489999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17235645216170596112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://starbirdchicken.com/",
-      "displayName": {
-        "text": "Starbird Chicken",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJraT4JOqfj4AR6Nn1Qbx5BBA",
       "formattedAddress": "1141 Triton Dr, Foster City, CA 94404, USA",
       "location": {
