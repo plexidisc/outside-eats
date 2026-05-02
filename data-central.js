@@ -1693,23 +1693,6 @@ var PREBAKED_DATA_CENTRAL = {
       "photoUrl": "images/restaurant-photos/san-mateo/A2 Small.jpeg"
     },
     {
-      "id": "ChIJSQJ_CHuej4ARezc8vH_W3Mc",
-      "formattedAddress": "602 E 4th Ave C, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.566596,
-        "longitude": -122.31857
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14401621552531257211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.alcarbon.us/",
-      "displayName": {
-        "text": "Al Carbon Pollos a la Brasa",
-        "languageCode": "en"
-      },
-      "cuisine": "Peruvian",
-      "phone": "(650) 544-4687",
-      "description": "Free-range Peruvian chicken slowly roasted over mesquite charcoal open flame."
-    },
-    {
       "id": "ChIJ96g6P4eej4ARKIor0cbehBU",
       "formattedAddress": "600 S Norfolk St, San Mateo, CA 94401, USA",
       "location": {
