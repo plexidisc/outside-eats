@@ -24164,21 +24164,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Impasto Small.jpeg"
     },
     {
-      "id": "ChIJ33nQwQaij4ARGaXcr8UY8j4",
-      "formattedAddress": "445 Industrial Rd, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.5129452,
-        "longitude": -122.2586092
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4535715012053607705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/257",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJd8Txf8Ojj4ARzX8-VeI0wjI",
       "formattedAddress": "1050 El Camino Real, San Carlos, CA 94070, USA",
       "location": {
