@@ -5707,7 +5707,8 @@ var PREBAKED_DATA = {
         "text": "Guadalajara Grill #02",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/belmont/Guadalajara Grill #02 Small.jpeg"
     },
     {
       "id": "ChIJ9fPayfufj4ARUa9MNxlDVts",
