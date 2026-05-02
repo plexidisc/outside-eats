@@ -5762,21 +5762,6 @@ var PREBAKED_DATA_CENTRAL = {
       "cuisine": "American"
     },
     {
-      "id": "ChIJ1QYzS0aZj4ARnST3igaZ-Q0",
-      "formattedAddress": "1062 Foster City Blvd, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.553798799999996,
-        "longitude": -122.25729940000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1007004245074322589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Sunshine Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJ0zUtXSSZj4AR4FxutnC97fw",
       "formattedAddress": "1473 Beach Park Blvd, Foster City, CA 94404, USA",
       "location": {
