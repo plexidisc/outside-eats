@@ -24688,21 +24688,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Sakura Small.jpeg"
     },
     {
-      "id": "ChIJJSytkuWjj4ARGhq-37TLCqQ",
-      "formattedAddress": "765 Old County Rd unit B, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.50570580000001,
-        "longitude": -122.2568367
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11820484149695617562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.sarahslatintaste.com/",
-      "displayName": {
-        "text": "Sarah's Latin taste",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJpTY2DACjj4ARjPZ9bq2ReiA",
       "formattedAddress": "677B Laurel St, San Carlos, CA 94070, USA",
       "location": {
