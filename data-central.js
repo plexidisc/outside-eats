@@ -5245,6 +5245,18 @@ var PREBAKED_DATA_CENTRAL = {
       "photoUrl": "images/restaurant-photos/san-mateo/Lis Knife :cut Noodle Small.jpeg",
       "phone": "(650) 458-3020",
       "description": "Handmade noodles cut with rhythmic precision bring comforting home flavors."
+    },
+    {
+      "id": "ChIJC3dM58Oej4ARtSZewKk4DV8",
+      "displayName": {
+        "text": "Armadillo Willy's BBQ",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2260 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6849192910028416693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.armadillowillys.com/mobile-site/locations.asp",
+      "location": {},
+      "cuisine": "BBQ"
     }
   ],
   "Foster City, CA": [
@@ -5278,21 +5290,6 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "photoUrl": "images/restaurant-photos/foster-city/Akizu Sushi Bar Small.jpeg"
-    },
-    {
-      "id": "ChIJC3dM58Oej4ARtSZewKk4DV8",
-      "formattedAddress": "2260 Bridgepointe Pkwy, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.559909,
-        "longitude": -122.281241
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6849192910028416693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.armadillowillys.com/mobile-site/locations.asp",
-      "displayName": {
-        "text": "Armadillo Willy's BBQ",
-        "languageCode": "en"
-      },
-      "cuisine": "BBQ"
     },
     {
       "id": "ChIJ97vvSB6Zj4AR6wwMGV4tjDI",
