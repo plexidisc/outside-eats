@@ -219,8 +219,7 @@ var PREBAKED_DATA = {
         "text": "Bahche",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bahche Small.jpeg"
+      "cuisine": "Greek/Mediterranean"
     },
     {
       "id": "ChIJdYnq7nCej4ARB-6vA0482oU",
