@@ -2699,23 +2699,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Home of the Phozilla with 24-hour simmered marrow broth."
     },
     {
-      "id": "ChIJP7SzgWOej4ARm8ksqOCHTCw",
-      "formattedAddress": "500 9th Ave, San Mateo, CA 94402, USA",
-      "location": {
-        "latitude": 37.5626473,
-        "longitude": -122.31627349999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3192075634862770587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Golden 9th Deli & Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(650) 344-3308",
-      "description": "Family run neighborhood deli and market since 1991."
-    },
-    {
       "id": "ChIJh1Pinbedj4ARfPkf5TbAlbI",
       "formattedAddress": "1119 N Amphlett Blvd, San Mateo, CA 94401, USA",
       "location": {
