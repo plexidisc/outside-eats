@@ -5513,21 +5513,6 @@ var PREBAKED_DATA_CENTRAL = {
       "photoUrl": "images/restaurant-photos/foster-city/Mumu Hot Pot Small.jpeg"
     },
     {
-      "id": "ChIJ67_S8Vufj4ARVqe1G2oLPeU",
-      "formattedAddress": "2017 Chess Dr, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5626394,
-        "longitude": -122.2806964
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16518371558624175958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
-      "displayName": {
-        "text": "Nick The Greek",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
       "id": "ChIJzUNfmTmfj4ARR0ND87WKvRQ",
       "formattedAddress": "969J Edgewater Blvd, Foster City, CA 94404, USA",
       "location": {
