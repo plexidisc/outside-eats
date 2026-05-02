@@ -1747,23 +1747,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "New York-style thin-crust pizza made with freshest ingredients, baked perfectly."
     },
     {
-      "id": "ChIJhcaPCFCfj4ARowgmpAwbgpc",
-      "formattedAddress": "66 21st Ave k15, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5477207,
-        "longitude": -122.3083157
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10917318187807017123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ammaskitchen.online/",
-      "displayName": {
-        "text": "Amma’s Kitchen(Hyderabadi Biriyani House)",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian",
-      "phone": "(650) 597-3533",
-      "description": "Amma's special Boneless Biriyani and crispy dosas delight every palate."
-    },
-    {
       "id": "ChIJ6cW6kHqej4ARiiSPnlGL5eo",
       "displayName": {
         "text": "Amour Amour",
