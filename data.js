@@ -11,6 +11,7 @@ var PREBAKED_DATA = {
       "websiteUri": "https://www.instagram.com/a2_wine_/",
       "location": {},
       "cuisine": "Wine Bar",
+      "phone": "650-387-0888",
       "description": "Local wine bar, art gallery with live music.",
       "photoUrl": "images/restaurant-photos/san-mateo/A2 Small.jpeg"
     },
