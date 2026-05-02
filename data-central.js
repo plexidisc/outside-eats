@@ -5434,21 +5434,6 @@ var PREBAKED_DATA_CENTRAL = {
       "cuisine": "Middle Eastern"
     },
     {
-      "id": "ChIJBUil2sWej4ARwUAgtMR2ET0",
-      "formattedAddress": "1297 Chess Dr A, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.561962,
-        "longitude": -122.27909469999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4400428898125365441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.habitburger.com/store/186/category",
-      "displayName": {
-        "text": "Habit Burger & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJD3hQ9CSZj4ARIGOdnCaEpAA",
       "formattedAddress": "1489 Beach Park Blvd, Foster City, CA 94404, USA",
       "location": {
