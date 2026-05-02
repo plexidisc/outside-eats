@@ -24953,7 +24953,8 @@ var PREBAKED_DATA = {
         "text": "Tamari Authentic Georgian Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Georgian"
+      "cuisine": "Georgian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Tamari Authentic Georgian Cuisine Small.jpeg"
     },
     {
       "id": "ChIJJSytkuWjj4ARGhq-37TLCqQ",
