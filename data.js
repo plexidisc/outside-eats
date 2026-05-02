@@ -96,18 +96,18 @@ var PREBAKED_DATA = {
     },
     {
       "id": "ChIJ6cW6kHqej4ARiiSPnlGL5eo",
-      "formattedAddress": "305 E 4th Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.565045,
-        "longitude": -122.3213334
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16926087957210670218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Amour Amour",
         "languageCode": "en"
       },
-      "cuisine": "French",
+      "formattedAddress": "305 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16926087957210670218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": [
+        "French",
+        "Wine Bar"
+      ],
       "photoUrl": "images/restaurant-photos/san-mateo/Amour Amour Small.jpeg"
     },
     {
