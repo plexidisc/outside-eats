@@ -2,18 +2,16 @@ var PREBAKED_DATA = {
   "San Mateo, CA": [
     {
       "id": "ChIJXTASXQCfj4ARin-W8xOJ608",
-      "formattedAddress": "117 S B St Suite A, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.566973,
-        "longitude": -122.32359249999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5758847267307421578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/a2_wine_/",
       "displayName": {
         "text": "A2",
         "languageCode": "en"
       },
+      "formattedAddress": "117 S B St Suite A, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5758847267307421578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/a2_wine_/",
+      "location": {},
       "cuisine": "Wine Bar",
+      "description": "Local wine bar, art gallery with live music.",
       "photoUrl": "images/restaurant-photos/san-mateo/A2 Small.jpeg"
     },
     {
