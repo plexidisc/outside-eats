@@ -24830,21 +24830,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Stamp Small.jpeg"
     },
     {
-      "id": "ChIJd_J_LACjj4ARcJFzl_QFmXM",
-      "formattedAddress": "1659 El Camino Real, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.4953095,
-        "longitude": -122.2460181
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8329695533869535600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "STOP19",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJgURqeoKjj4ARBo6ogQa5jek",
       "formattedAddress": "648 El Camino Real, San Carlos, CA 94070, USA",
       "location": {
