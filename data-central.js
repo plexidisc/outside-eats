@@ -5480,18 +5480,6 @@ var PREBAKED_DATA_CENTRAL = {
       "cuisine": "Fusion"
     },
     {
-      "id": "ChIJ04eH1DWZj4ARcuWDQkRr66Y",
-      "displayName": {
-        "text": "Pan Kee Food | Dumpling Kitchen",
-        "languageCode": "en"
-      },
-      "formattedAddress": "1459 Beach Park Blvd, Foster City, CA 94404, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=12027825170740929906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dumplingkitchenca.com/",
-      "location": {},
-      "cuisine": "Chinese"
-    },
-    {
       "id": "ChIJE7zFWQCfj4ARE4m1sEVTPKg",
       "formattedAddress": "711 Thayer Ln, Foster City, CA 94404, USA",
       "location": {
@@ -5657,19 +5645,16 @@ var PREBAKED_DATA_CENTRAL = {
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJ5-dADh2fj4ARja1ev1EsjTU",
-      "formattedAddress": "919 Edgewater Blvd, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5455433,
-        "longitude": -122.2713005
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3858789185341009293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.osakamarketplace.com/",
+      "id": "ChIJ04eH1DWZj4ARcuWDQkRr66Y",
       "displayName": {
-        "text": "Osaka Marketplace | Foster City",
+        "text": "Pan Kee Food | Dumpling Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "formattedAddress": "1459 Beach Park Blvd, Foster City, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12027825170740929906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dumplingkitchenca.com/",
+      "location": {},
+      "cuisine": "Chinese"
     },
     {
       "id": "ChIJBUil2sWej4ARzhUOnf8CKrg",
