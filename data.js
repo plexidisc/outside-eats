@@ -23887,7 +23887,8 @@ var PREBAKED_DATA = {
         "text": "Bistro Mitte",
         "languageCode": "en"
       },
-      "cuisine": "German/Austrian"
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Bistro Mitte Small.jpeg"
     },
     {
       "id": "ChIJm47x8hmij4ARyiM10cY4Yno",
