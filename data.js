@@ -220,7 +220,7 @@ var PREBAKED_DATA = {
         "languageCode": "en"
       },
       "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bache Small.jpeg"
+      "photoUrl": "images/restaurant-photos/san-mateo/Bahche Small.jpeg"
     },
     {
       "id": "ChIJdYnq7nCej4ARB-6vA0482oU",
