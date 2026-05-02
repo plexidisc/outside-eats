@@ -24276,21 +24276,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Lous Cafe Small.jpeg"
     },
     {
-      "id": "ChIJs5yt4A-ij4ARlG-aPSpCS1A",
-      "formattedAddress": "760 Industrial Rd, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.5081245,
-        "longitude": -122.2527554
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5785790895477125012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.marshaslunchbox.com/",
-      "displayName": {
-        "text": "Marsha's Lunchbox",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJS24vMjmij4ARvvkYOX9j5K4",
       "formattedAddress": "1620 El Camino Real, San Carlos, CA 94070, USA",
       "location": {
