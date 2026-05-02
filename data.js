@@ -24463,7 +24463,8 @@ var PREBAKED_DATA = {
         "text": "Osteria at Domenico",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Osteria at Domenico Small.jpeg"
     },
     {
       "id": "ChIJ0R5_qJ6jj4ARvA8TdCyp8XY",
