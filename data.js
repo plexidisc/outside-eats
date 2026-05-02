@@ -23876,21 +23876,6 @@ var PREBAKED_DATA = {
       "photoUrl": "images/restaurant-photos/san-carlos/Devils Canyon Small.jpeg"
     },
     {
-      "id": "ChIJGfbLtPqhj4ARQTjBSFsZDkU",
-      "formattedAddress": "Devonshire Little Store, 20 Devonshire Blvd, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.5015405,
-        "longitude": -122.27668399999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4975942518144317505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Devonshire Little Store",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJcWwqtyKjj4AR66v1iaPq7Os",
       "formattedAddress": "1201 Laurel St, San Carlos, CA 94070, USA",
       "location": {
