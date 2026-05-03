@@ -3350,7 +3350,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "phone": "(650) 315-2023",
-      "description": "Sushi bar and yakitori with private tatami room dining."
+      "description": "Sushi bar and yakitori with private tatami room dining.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kodawari Japanese Cuisine Small.jpeg"
     },
     {
       "id": "ChIJi1zXD3qej4ARz_SZHSId8Zc",
