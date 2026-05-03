@@ -4944,23 +4944,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Highest grade seasonal fish from Tsukiji with traditional red vinegar."
     },
     {
-      "id": "ChIJIyz_kHqej4AR7iP5Z0yDksM",
-      "formattedAddress": "325 E 4th Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5651899,
-        "longitude": -122.32123689999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14092470548180837358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://sushiyoshizumi.com/",
-      "displayName": {
-        "text": "Sushi Yoshizumi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "phone": "(650) 437-2282",
-      "description": "Traditional Edomae sushi with seafood sourced directly from Japan."
-    },
-    {
       "id": "ChIJo0jyGB-fj4ARcu4tnBtr6Js",
       "formattedAddress": "1600 S El Camino Real, San Mateo, CA 94402, USA",
       "location": {
