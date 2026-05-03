@@ -5917,23 +5917,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Build-your-own soups, noodles, and stir-fries with customizable options."
     },
     {
-      "id": "ChIJraT4JOqfj4AR6Nn1Qbx5BBA",
-      "formattedAddress": "1141 Triton Dr, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5638691,
-        "longitude": -122.27091489999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1154181253981133288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.starbirdchicken.com/starbird-chicken-menu",
-      "displayName": {
-        "text": "Starbird Salads",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "phone": "(650) 570-0593",
-      "description": "Hand-breaded chicken in secret gluten-free spice blend with house-made sauces."
-    },
-    {
       "id": "ChIJ1QYzS0aZj4ARnST3igaZ-Q0",
       "formattedAddress": "1062 Foster City Blvd, Foster City, CA 94404, USA",
       "location": {
