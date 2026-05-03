@@ -7681,23 +7681,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Family-run Irish pub offering warm hospitality and authentic traditional fare."
     },
     {
-      "id": "ChIJyymzbDiij4ARsYcY9-o6xZ8",
-      "formattedAddress": "774 El Camino Real, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.504872,
-        "longitude": -122.25780069999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11512672803284879281&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mountainmikespizza.com/locations/san-carlos-el-camino-real/",
-      "displayName": {
-        "text": "Mountain Mike's Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza",
-      "phone": "(650) 366-9090",
-      "description": "Home of legendary crispy curly pepperoni that uses natural casing."
-    },
-    {
       "id": "ChIJ03M8lBeij4ARCMh_cLleOWo",
       "formattedAddress": "1137 Laurel St, San Carlos, CA 94070, USA",
       "location": {
