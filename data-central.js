@@ -5523,7 +5523,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Fusion",
       "phone": "(650) 880-8859",
-      "description": "Unexpected yet harmonious flavors in every bite of tasting menu."
+      "description": "Unexpected yet harmonious flavors in every bite of tasting menu.",
+      "photoUrl": "images/restaurant-photos/foster-city/808 Zone - Asian Pacific Fusion Small.jpeg"
     },
     {
       "id": "ChIJpwbKWiSZj4ARjXjoEgUIbq0",
