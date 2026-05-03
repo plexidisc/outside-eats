@@ -7013,7 +7013,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Italian",
       "phone": "(650) 591-0920",
-      "description": "In-house made menu changes seasonally with authentic Italian family recipes."
+      "description": "In-house made menu changes seasonally with authentic Italian family recipes.",
+      "photoUrl": "images/restaurant-photos/san-carlos/888 Ristorante Italiano Small.jpeg"
     },
     {
       "id": "ChIJ__9w8hmij4ARDPrtPmyz7jA",
