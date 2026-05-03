@@ -7895,23 +7895,6 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 637-9238"
     },
     {
-      "id": "ChIJFyAb1uyjj4ARt5So3lLilQ0",
-      "formattedAddress": "796 El Camino Real Suite E, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.504598099999995,
-        "longitude": -122.2577543
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=978937339573736631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://201.pizzaguys.com/",
-      "displayName": {
-        "text": "Pizza Guys",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza",
-      "phone": "(650) 832-7222",
-      "description": "Dough made fresh daily using quality ingredients and Central California tomatoes."
-    },
-    {
       "id": "ChIJw4Q89byjj4AR9b7UxZSum3I",
       "formattedAddress": "603 Laurel St, San Carlos, CA 94070, USA",
       "location": {
