@@ -1995,21 +1995,21 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJe9hUWKKfj4ARd4cxNTD2Mo8",
-      "formattedAddress": "637 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5630656,
-        "longitude": -122.31946810000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10318580383170529143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://anatolianmart.com/",
       "displayName": {
         "text": "Anatolian Cafe & Market",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern",
-      "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg",
+      "formattedAddress": "637 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10318580383170529143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://anatolianmart.com/",
+      "location": {},
+      "cuisine": [
+        "Middle Eastern",
+        "Mediterranean"
+      ],
       "phone": "(650) 445-7273",
-      "description": "Authentic Mediterranean desserts, traditional breakfast, and handcrafted cafe drinks."
+      "description": "Authentic Mediterranean desserts, traditional breakfast, and handcrafted cafe drinks.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg"
     },
     {
       "id": "ChIJtyXnf-iej4ARgH5vz-MDChE",
