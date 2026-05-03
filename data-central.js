@@ -1906,7 +1906,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Peruvian",
       "phone": "(650) 544-4687",
-      "description": "Free-range Peruvian chicken slowly roasted over mesquite charcoal open flame."
+      "description": "Free-range Peruvian chicken slowly roasted over mesquite charcoal open flame.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Al Carbon Small.jpeg"
     },
     {
       "id": "ChIJ96g6P4eej4ARKIor0cbehBU",
@@ -2287,7 +2288,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Cafe/Bakery",
       "phone": "(650) 476-4095",
-      "description": "Award-winning French bakery featuring seasonal treats from local farmers' market ingredients."
+      "description": "Award-winning French bakery featuring seasonal treats from local farmers' market ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bonjour Bakehouse Small.jpeg"
     },
     {
       "id": "ChIJEZSWcoqfj4ARRh1KStl4i3s",
@@ -2571,7 +2573,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Caribbean",
       "phone": "(650) 627-4636",
-      "description": "Female and family owned business serving authentically flavored Cuban cuisine."
+      "description": "Female and family owned business serving authentically flavored Cuban cuisine.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cuban Kitchen Small.jpeg"
     },
     {
       "id": "ChIJTV5S5-Ofj4ARcKTVvNe9Z7E",
@@ -2749,7 +2752,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Mexican",
       "phone": "(650) 345-1180",
-      "description": "Casual dining with personalized customer service from trained staff."
+      "description": "Casual dining with personalized customer service from trained staff.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sinaloense Small.jpeg"
     },
     {
       "id": "ChIJHQ-1AmWej4AR1QryXVCTOi8",
@@ -2784,7 +2788,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Mexican",
       "phone": "(650) 345-9042",
-      "description": "Family-owned since 1985, known as home of the famous margarita."
+      "description": "Family-owned since 1985, known as home of the famous margarita.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fernandos Small.jpeg"
     },
     {
       "id": "ChIJXYm1UR2fj4ARep4zzoa7lZc",
@@ -2978,7 +2983,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Other",
       "phone": "(650) 344-3308",
-      "description": "Family run neighborhood deli and market since 1991."
+      "description": "Family run neighborhood deli and market since 1991.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Golden Ninth Deli Small.jpeg"
     },
     {
       "id": "ChIJh1Pinbedj4ARfPkf5TbAlbI",
@@ -2995,7 +3001,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Pizza",
       "phone": "(650) 315-2988",
-      "description": "Serving Sanfrancilian style focaccia-dough pizza by slice or sheet since 1978."
+      "description": "Serving Sanfrancilian style focaccia-dough pizza by slice or sheet since 1978.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Golden Boy Pizza Small.jpeg"
     },
     {
       "id": "ChIJj_rGBD6fj4AR2yxHbCg-99Y",
@@ -3136,7 +3143,8 @@ var PREBAKED_DATA_CENTRAL = {
         "languageCode": "en"
       },
       "cuisine": "Chinese",
-      "phone": "(650) 548-1758"
+      "phone": "(650) 548-1758",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hot wok Bistro Small.jpeg"
     },
     {
       "id": "ChIJeYxGt3Gej4ARWlGEOdBa0LE",
@@ -3189,7 +3197,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Cafe/Bakery",
       "phone": "(650) 375-8900",
-      "description": "Hot sandwiches on Dutch Crunch bread with famous Dirty Sauce."
+      "description": "Hot sandwiches on Dutch Crunch bread with famous Dirty Sauce.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ikes Place Small.jpeg"
     },
     {
       "id": "ChIJ7yCNNyufj4AR4t1ACpzILO4",
@@ -3400,7 +3409,8 @@ var PREBAKED_DATA_CENTRAL = {
         "languageCode": "en"
       },
       "cuisine": "Other",
-      "phone": "(650) 401-7008"
+      "phone": "(650) 401-7008",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kokko Small.jpeg"
     },
     {
       "id": "ChIJu9fnfEGfj4AReN6R333JaPA",
@@ -3489,7 +3499,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Peruvian",
       "phone": "(650) 389-7495",
-      "description": "They serve fresh vegetables, seafood, and meats at reasonable prices."
+      "description": "They serve fresh vegetables, seafood, and meats at reasonable prices.",
+      "photoUrl": "images/restaurant-photos/san-mateo/La Ronda Restaurant Small.jpeg"
     },
     {
       "id": "ChIJ45zmZ3qej4ARcQEvOh9jrlQ",
@@ -3771,7 +3782,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "American",
       "phone": "(650) 332-8300",
-      "description": "Fresh ingredients and fearless flavor combinations create unexpected culinary adventures."
+      "description": "Fresh ingredients and fearless flavor combinations create unexpected culinary adventures.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mendocino Farms Small.jpeg"
     },
     {
       "id": "ChIJx8042Qafj4ARPEMbdQDvnMM",
@@ -3984,7 +3996,8 @@ var PREBAKED_DATA_CENTRAL = {
         "languageCode": "en"
       },
       "cuisine": "Chinese",
-      "phone": "(650) 458-3248"
+      "phone": "(650) 458-3248",
+      "photoUrl": "images/restaurant-photos/san-mateo/New Wing Fat Small.jpeg"
     },
     {
       "id": "ChIJxd8KkXCej4ARzj6lIWQL8sg",
@@ -4055,7 +4068,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "phone": "(650) 393-4651",
-      "description": "Features creative sushi chefs who craft amazing custom dishes."
+      "description": "Features creative sushi chefs who craft amazing custom dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Noma Small.jpeg"
     },
     {
       "id": "ChIJczpPDO2fj4ARYLg1dsNXlIs",
@@ -4212,7 +4226,8 @@ var PREBAKED_DATA_CENTRAL = {
         "languageCode": "pt"
       },
       "cuisine": "Brazilian",
-      "description": "Customizable açai bowls made with 100% organic ingredients and vegan options."
+      "description": "Customizable açai bowls made with 100% organic ingredients and vegan options.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Panther Brazilian Small.jpeg"
     },
     {
       "id": "ChIJUUoh_hmfj4ARhQw2XfMXZQk",
@@ -4371,7 +4386,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Fusion",
       "phone": "(650) 508-1222",
-      "description": "House-made bowls blend modern creativity with classic Hawaiian flavors daily."
+      "description": "House-made bowls blend modern creativity with classic Hawaiian flavors daily.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Poke House Small.jpeg"
     },
     {
       "id": "ChIJ9WyHNXCej4ARr47XTsNUA_Q",
@@ -4529,7 +4545,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "phone": "(650) 558-8239",
-      "description": "Thai and Japanese fusion with authentic flavors by Chef Tam."
+      "description": "Thai and Japanese fusion with authentic flavors by Chef Tam.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Rin-Tei Small.jpeg"
     },
     {
       "id": "ChIJswaXkbifj4ARBk__2-6HPTU",
@@ -4848,7 +4865,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Italian",
       "phone": "(650) 341-5555",
-      "description": "They treat diners like family with homemade pastas and desserts."
+      "description": "They treat diners like family with homemade pastas and desserts.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sole Small.jpeg"
     },
     {
       "id": "ChIJUeMTJoifj4ARPCq6MwzU2lw",
@@ -4883,7 +4901,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Mexican",
       "phone": "(650) 581-1284",
-      "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas."
+      "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Suavecito Birria Small.jpeg"
     },
     {
       "id": "ChIJPwJWe3Cej4AR2tUwdkF4nL8",
@@ -4900,7 +4919,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "phone": "(650) 344-0888",
-      "description": "Fresh high-quality fish imported from Japan with traditional sushi dishes."
+      "description": "Fresh high-quality fish imported from Japan with traditional sushi dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Edomata Small.jpeg"
     },
     {
       "id": "ChIJHezl03aej4AR1R9NtvewBWg",
@@ -5021,7 +5041,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Mexican",
       "phone": "(650) 344-9936",
-      "description": "Authentic Mexican food from Michoacan with freshly handmade tortillas."
+      "description": "Authentic Mexican food from Michoacan with freshly handmade tortillas.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tacos Al Vapor Small.jpeg"
     },
     {
       "id": "ChIJMbhCJACfj4ARV_ldP34pF5E",
@@ -5337,7 +5358,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "phone": "(650) 781-3137",
-      "description": "Rich pork bone broth slow-cooked for over 18 hours daily."
+      "description": "Rich pork bone broth slow-cooked for over 18 hours daily.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Totoro Ramen Small.jpeg"
     },
     {
       "id": "ChIJr_RGipGfj4ARhmhhx_Txxpw",
@@ -5477,7 +5499,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "phone": "(650) 358-0298",
-      "description": "Fresh fish from Japan and large selection of premium sake."
+      "description": "Fresh fish from Japan and large selection of premium sake.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Yuzu Sushi Small.jpeg"
     },
     {
       "id": "ChIJQ6_pTHqej4ARsN5gHPirK9Y",
@@ -5494,7 +5517,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Chinese",
       "phone": "(650) 781-3183",
-      "description": "Family-owned restaurant serving authentic Shanghai dim sum and noodles."
+      "description": "Family-owned restaurant serving authentic Shanghai dim sum and noodles.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Zen Noodle Bar Small.jpeg"
     },
     {
       "id": "ChIJe1hpqKGfj4ARWBFCgo71nII",
