@@ -4280,7 +4280,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Chinese",
       "phone": "(650) 349-0298",
-      "description": "Fresh handmade noodles and dumplings served daily with authentic Beijing cuisine."
+      "description": "Fresh handmade noodles and dumplings served daily with authentic Beijing cuisine.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Peking Alley Small.jpeg"
     },
     {
       "id": "ChIJje0i-naej4ARp6AWebONsrs",
