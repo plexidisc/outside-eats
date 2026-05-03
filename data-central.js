@@ -5438,7 +5438,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "Falafel Tazah Foster City",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/foster-city/Falafel Tazah Foster City Small.jpeg"
     },
     {
       "id": "ChIJD3hQ9CSZj4ARIGOdnCaEpAA",
