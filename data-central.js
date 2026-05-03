@@ -5279,7 +5279,8 @@ var PREBAKED_DATA_CENTRAL = {
         "text": "808 Zone - Asian Pacific Fusion",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/foster-city/808 Zone - Asian Pacific Fusion Small.jpeg"
     },
     {
       "id": "ChIJpwbKWiSZj4ARjXjoEgUIbq0",
