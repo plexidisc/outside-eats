@@ -2538,7 +2538,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "American",
       "phone": "(650) 242-1280",
-      "description": "Rotating selection of over 20 fresh beers on tap."
+      "description": "Rotating selection of over 20 fresh beers on tap.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fieldwork San Mateo Small.jpeg"
     },
     {
       "id": "ChIJo7QtiEOfj4ARPFSTaTIW0rY",
