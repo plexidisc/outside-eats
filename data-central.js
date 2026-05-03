@@ -5828,23 +5828,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Outdoor seating overlooks the serene lagoon for peaceful brunch dining"
     },
     {
-      "id": "ChIJBUil2sWej4ARzhUOnf8CKrg",
-      "formattedAddress": "1297 Chess Dr Suite D, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.561597,
-        "longitude": -122.278838
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13270422548875449806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.panerabread.com/en-us/cafe/locations/ca/foster-city/1297-chess-dr?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=204546&utm_content=main",
-      "displayName": {
-        "text": "Panera Bread",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "phone": "(650) 350-1106",
-      "description": "Quality soups, salads, and sandwiches with complimentary WiFi and Rapid Pick-Up."
-    },
-    {
       "id": "ChIJrR5MCMyej4AR7p9_0Zsv4RQ",
       "formattedAddress": "3 Plaza View Ln, Foster City, CA 94404, USA",
       "location": {
