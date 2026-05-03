@@ -3305,7 +3305,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "American",
       "phone": "(650) 345-4400",
-      "description": "High quality meats and cheese sliced fresh with store baked bread."
+      "description": "High quality meats and cheese sliced fresh with store baked bread.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Jersey Mike's Subs Small.jpeg"
     },
     {
       "id": "ChIJ19n6fQCfj4AR09dCkKsNpTg",
