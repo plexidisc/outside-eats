@@ -2115,7 +2115,6 @@ var PREBAKED_DATA_CENTRAL = {
         "languageCode": "en"
       },
       "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bahche Small.jpeg",
       "phone": "(650) 315-2197",
       "description": "Modern Greek cuisine with curated wine list and inviting ambiance."
     },
