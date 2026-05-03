@@ -5504,7 +5504,8 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=6849192910028416693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.armadillowillys.com/mobile-site/locations.asp",
       "location": {},
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/san-mateo/Armadillo Willy's BBQ Small.jpeg"
     }
   ],
   "Foster City, CA": [
