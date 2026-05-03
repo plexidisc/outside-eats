@@ -3650,7 +3650,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Mexican",
       "phone": "(650) 513-9604",
-      "description": "They serve authentic ceviche and fresh Sinaloa style seafood dishes."
+      "description": "They serve authentic ceviche and fresh Sinaloa style seafood dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mariscos El Ajoyano Small.jpeg"
     },
     {
       "id": "ChIJERZ2ZWWdj4ARCAAjBDaa2_Q",
