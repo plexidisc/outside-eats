@@ -2732,7 +2732,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Mexican",
       "phone": "(650) 573-6933",
-      "description": "Tasty food delivered to your office with corporate accounts available."
+      "description": "Tasty food delivered to your office with corporate accounts available.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Guadalajara Grill Small.jpeg"
     },
     {
       "id": "ChIJrTqCc3Cej4ARB1BoBxdHsFw",
