@@ -2698,7 +2698,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Mexican",
       "phone": "(650) 342-4040",
-      "description": "Authentic tacos with flaky tortillas and traditional recipes at unbeatable prices."
+      "description": "Authentic tacos with flaky tortillas and traditional recipes at unbeatable prices.",
+      "photoUrl": "images/restaurant-photos/san-mateo/El Palenque Taqueria Small.jpeg"
     },
     {
       "id": "ChIJHwExAV-ej4ARTtO8nKuvAy8",
