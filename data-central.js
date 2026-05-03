@@ -2294,18 +2294,16 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJdZO-BOafj4ARIn7armdjG4E",
-      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5477207,
-        "longitude": -122.3083157
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9303138752230227490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.brundavanindianresturant.online/",
       "displayName": {
         "text": "Brundavan Indian restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9303138752230227490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.brundavanindianresturant.online/",
+      "location": {},
+      "cuisine": "Indian",
+      "description": "Traditional Indian cuisine. Appetizers are a specialty. Reasonably priced."
     },
     {
       "id": "ChIJQbLqm0yfj4ARAp96SCrcv14",
