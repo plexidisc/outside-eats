@@ -5970,23 +5970,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Traditional pizza meets bold Indian spices for fusion flavors."
     },
     {
-      "id": "ChIJb37MOc6ej4AREfR_JIqg1DI",
-      "formattedAddress": "550 Shell Blvd, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5602843,
-        "longitude": -122.2730085
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3662728912137352209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marriott.com/hotels/hotel-information/restaurant/sfofc-courtyard-san-mateo-foster-city/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-      "displayName": {
-        "text": "The Bistro - Eat. Drink. Connect.®",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "phone": "(650) 377-0600",
-      "description": "Fresh California flavors and Starbucks coffee for breakfast and dinner."
-    },
-    {
       "id": "ChIJC17Hqsiej4AR54zuflEh5Ek",
       "formattedAddress": "1221 Chess Dr, Foster City, CA 94404, USA",
       "location": {
