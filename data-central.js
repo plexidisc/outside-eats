@@ -2432,20 +2432,18 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ-f64XwCfj4ARy9MhdAdp8kY",
-      "formattedAddress": "211 S San Mateo Dr, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.56493,
-        "longitude": -122.3246676
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5112264007752995787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://waitwhile.com/locations/chingusanmateo/welcome",
       "displayName": {
         "text": "Chingu",
         "languageCode": "en"
       },
+      "formattedAddress": "211 S San Mateo Dr, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5112264007752995787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://waitwhile.com/locations/chingusanmateo/welcome",
+      "location": {},
       "cuisine": "Korean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Chingu Small.jpeg",
-      "phone": "(650) 781-3075"
+      "phone": "(650) 781-3075",
+      "description": "Casual late night Korean food plus fusion dishes. Fun atmosphere.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Chingu Small.jpeg"
     },
     {
       "id": "ChIJ_apdxcGfj4ARXsR6YZjHLQw",
