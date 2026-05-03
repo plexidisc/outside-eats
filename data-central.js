@@ -5705,23 +5705,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Handmade dumplings crafted with generations-old recipes and finest local ingredients."
     },
     {
-      "id": "ChIJE7zFWQCfj4ARE4m1sEVTPKg",
-      "formattedAddress": "711 Thayer Ln, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.559358499999995,
-        "longitude": -122.2686348
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12122655855757068563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eriksdelicafe.com/",
-      "displayName": {
-        "text": "Erik's DeliCafe of Foster City",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "phone": "(650) 240-0011",
-      "description": "Sandwiches built on fresh baked bread with famous Secret Goo."
-    },
-    {
       "id": "ChIJ21UsjdKej4AR0yA6_V5UPqo",
       "formattedAddress": "780 Alma Ln, Foster City, CA 94404, USA",
       "location": {
