@@ -5722,23 +5722,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Traditional family recipes using freshest Halal meat and locally sourced produce."
     },
     {
-      "id": "ChIJBUil2sWej4ARwUAgtMR2ET0",
-      "formattedAddress": "1297 Chess Dr A, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.561962,
-        "longitude": -122.27909469999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4400428898125365441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.habitburger.com/store/186/category",
-      "displayName": {
-        "text": "Habit Burger & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers",
-      "phone": "(650) 312-8494",
-      "description": "Award-winning Charburgers grilled over an open flame with tempura greens."
-    },
-    {
       "id": "ChIJPYsgLMyej4ARgtYj6UmCzfI",
       "formattedAddress": "531 Foster City Blvd, Foster City, CA 94404, USA",
       "location": {
