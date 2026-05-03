@@ -2695,7 +2695,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Indian",
       "phone": "(650) 389-7690",
-      "description": "Chef curates every meal with emotional perception, food made with love."
+      "description": "Chef curates every meal with emotional perception, food made with love.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Dosa Express Small.jpeg"
     },
     {
       "id": "ChIJGyBz3xmfj4ARnkSXuVr4I2s",
