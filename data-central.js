@@ -2030,6 +2030,20 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "They serve donut burgers, fruity pebble shakes, and churro french toasts."
     },
     {
+      "id": "ChIJC3dM58Oej4ARtSZewKk4DV8",
+      "displayName": {
+        "text": "Armadillo Willy's BBQ",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2260 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6849192910028416693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.armadillowillys.com/mobile-site/locations.asp",
+      "location": {},
+      "cuisine": "BBQ",
+      "description": "Texas style wood-fired barbecue. 40 years in business.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Armadillo Willy's BBQ Small.jpeg"
+    },
+    {
       "id": "ChIJ62bRY3Cej4AR3l5NXHnw5fc",
       "formattedAddress": "201 E 3rd Ave, San Mateo, CA 94401, USA",
       "location": {
@@ -5497,19 +5511,6 @@ var PREBAKED_DATA_CENTRAL = {
       "photoUrl": "images/restaurant-photos/san-mateo/Lis Knife :cut Noodle Small.jpeg",
       "phone": "(650) 458-3020",
       "description": "Handmade noodles cut with rhythmic precision bring comforting home flavors."
-    },
-    {
-      "id": "ChIJC3dM58Oej4ARtSZewKk4DV8",
-      "displayName": {
-        "text": "Armadillo Willy's BBQ",
-        "languageCode": "en"
-      },
-      "formattedAddress": "2260 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=6849192910028416693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.armadillowillys.com/mobile-site/locations.asp",
-      "location": {},
-      "cuisine": "BBQ",
-      "photoUrl": "images/restaurant-photos/san-mateo/Armadillo Willy's BBQ Small.jpeg"
     }
   ],
   "Foster City, CA": [
