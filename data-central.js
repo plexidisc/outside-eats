@@ -5828,23 +5828,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Outdoor seating overlooks the serene lagoon for peaceful brunch dining"
     },
     {
-      "id": "ChIJ5-dADh2fj4ARja1ev1EsjTU",
-      "formattedAddress": "919 Edgewater Blvd, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5455433,
-        "longitude": -122.2713005
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3858789185341009293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.osakamarketplace.com/",
-      "displayName": {
-        "text": "Osaka Marketplace | Foster City",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "phone": "(650) 706-3133",
-      "description": "Locally-owned authentic Japanese supermarket with fresh sushi and wagyu."
-    },
-    {
       "id": "ChIJBUil2sWej4ARzhUOnf8CKrg",
       "formattedAddress": "1297 Chess Dr Suite D, Foster City, CA 94404, USA",
       "location": {
