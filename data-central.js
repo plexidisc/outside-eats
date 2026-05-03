@@ -5722,23 +5722,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Traditional family recipes using freshest Halal meat and locally sourced produce."
     },
     {
-      "id": "ChIJPYsgLMyej4ARgtYj6UmCzfI",
-      "formattedAddress": "531 Foster City Blvd, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.56265570000001,
-        "longitude": -122.2705072
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17495783381359908482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.ihop.com/en-us/ca/foster-city/breakfast-531-foster-city-blvd-3063?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=3063&utm_content=website",
-      "displayName": {
-        "text": "IHOP",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast",
-      "phone": "(650) 573-8887",
-      "description": "Bottomless pancakes available through March 31st, 2026 for dine-in."
-    },
-    {
       "id": "ChIJD3hQ9CSZj4ARIGOdnCaEpAA",
       "formattedAddress": "1489 Beach Park Blvd, Foster City, CA 94404, USA",
       "location": {
