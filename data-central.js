@@ -1981,7 +1981,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Indian",
       "phone": "(650) 597-3533",
-      "description": "Amma's special Boneless Biriyani and crispy dosas delight every palate."
+      "description": "Amma's special Boneless Biriyani and crispy dosas delight every palate.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Amma’s Kitchen(Hyderabadi Biriyani House) Small.jpeg"
     },
     {
       "id": "ChIJ6cW6kHqej4ARiiSPnlGL5eo",
