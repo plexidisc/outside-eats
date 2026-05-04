@@ -6711,23 +6711,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Features Omakase and seasonal fish like Hokkaido Sea urchin."
     },
     {
-      "id": "ChIJG-V2LgCfj4ARsQscShtZVRc",
-      "formattedAddress": "1100 El Camino Real, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5186591,
-        "longitude": -122.2757993
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1681348009635089329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Safeway Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(650) 596-1730",
-      "description": "Order ahead for party trays and platters ready when you arrive."
-    },
-    {
       "id": "ChIJPVFwnz-fj4ARzKTQU-WDneY",
       "formattedAddress": "300 El Camino Real, Belmont, CA 94002, USA",
       "location": {
