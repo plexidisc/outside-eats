@@ -6607,23 +6607,6 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Features savory quesabirrias with melted cheese and fresh Mexican-style seafood."
     },
     {
-      "id": "ChIJUzC8sWafj4ARASZmd6NG3r8",
-      "formattedAddress": "1085 Alameda de las Pulgas, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5106159,
-        "longitude": -122.2931803
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13825565573970798081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.lunardis.com/",
-      "displayName": {
-        "text": "Lunardi's Markets",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(650) 591-5768",
-      "description": "Buyers hand-pick produce daily at 1 a.m. for legendary prime meats."
-    },
-    {
       "id": "ChIJIZyhM1Cfj4AR9QgFYPdBeo4",
       "formattedAddress": "1160 Old County Rd, Belmont, CA 94002, USA",
       "location": {
