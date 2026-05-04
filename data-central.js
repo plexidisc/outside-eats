@@ -1982,7 +1982,7 @@ var PREBAKED_DATA_CENTRAL = {
       "cuisine": "Indian",
       "phone": "(650) 597-3533",
       "description": "Amma's special Boneless Biriyani and crispy dosas delight every palate.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Amma’s Kitchen(Hyderabadi Biriyani House) Small.jpeg"
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJ6cW6kHqej4ARiiSPnlGL5eo",
@@ -2219,7 +2219,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "BBQ",
       "phone": "(323) 238-3320",
-      "description": "Fresh Hawaiian-inspired cuisine that's clean, craveable, and feels great."
+      "description": "Fresh Hawaiian-inspired cuisine that's clean, craveable, and feels great.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJmUsD8Puej4ARjrL6z1BUv0I",
@@ -2325,7 +2326,8 @@ var PREBAKED_DATA_CENTRAL = {
         "longitude": -122.3083
       },
       "cuisine": "Indian",
-      "description": "Traditional Indian cuisine. Appetizers are a specialty. Reasonably priced."
+      "description": "Traditional Indian cuisine. Appetizers are a specialty. Reasonably priced.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJQbLqm0yfj4ARAp96SCrcv14",
@@ -2540,7 +2542,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Chinese",
       "phone": "(415) 690-2233",
-      "description": "Michelin recommended authentic Hong Kong cuisine delivered by meal boxes."
+      "description": "Michelin recommended authentic Hong Kong cuisine delivered by meal boxes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJObonFH-fj4ARLrUSRoNnYI8",
@@ -2683,7 +2686,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Indian",
       "phone": "(650) 315-1073",
-      "description": "Features innovative dosas like Nutella dessert and five cheese varieties."
+      "description": "Features innovative dosas like Nutella dessert and five cheese varieties.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJXfy5KtSdj4ARGeV59JOwm-k",
@@ -3378,7 +3382,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "phone": "(650) 519-2283",
-      "description": "Family-owned business serving omakase boxes and milk bread sandos."
+      "description": "Family-owned business serving omakase boxes and milk bread sandos.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJc8JISACfj4ARpxD6dtUFFf8",
@@ -3609,7 +3614,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Fusion",
       "phone": "(650) 667-8877",
-      "description": "Thai and Vietnamese-inspired purple rice bowls with Wagyu beef."
+      "description": "Thai and Vietnamese-inspired purple rice bowls with Wagyu beef.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJLZhr0v6ej4ARAP-hT1EdtdY",
@@ -3750,7 +3756,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Other",
       "phone": "(415) 748-4222",
-      "description": "Mobile food trailer serving award-winning BBQ and soul food."
+      "description": "Mobile food trailer serving award-winning BBQ and soul food.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJN0qhdXCej4ARGQmAoMQCf9c",
@@ -3857,7 +3864,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Korean",
       "phone": "(866) 692-9615",
-      "description": "High quality, gluten-free ingredients with numerous plant-based options available."
+      "description": "High quality, gluten-free ingredients with numerous plant-based options available.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJYWbtt3Cej4ARfYjowhMuzB0",
@@ -4213,7 +4221,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Mexican",
       "phone": "(650) 200-4859",
-      "description": "Entire menu is gluten and dairy free with made-from-scratch sauces."
+      "description": "Entire menu is gluten and dairy free with made-from-scratch sauces.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJ68Vvr0ydj4ARDrbmnB5DlC0",
@@ -4975,7 +4984,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Indian",
       "phone": "(650) 597-3533",
-      "description": "Authentic dishes crafted using traditional recipes and finest spices."
+      "description": "Authentic dishes crafted using traditional recipes and finest spices.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJI2THxnGej4ARZ8lUgarD0UU",
@@ -5239,7 +5249,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Japanese",
       "phone": "(650) 260-3961",
-      "description": "Chef Ju-i experiments with dry-aging and nontraditional garnishes on sushi."
+      "description": "Chef Ju-i experiments with dry-aging and nontraditional garnishes on sushi.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJo_9a_fufj4ARjlc_P089jEg",
@@ -5433,7 +5444,8 @@ var PREBAKED_DATA_CENTRAL = {
         "languageCode": "en"
       },
       "cuisine": "Other",
-      "description": "Juicy beef patties on toasted brioche buns with house-made sauce."
+      "description": "Juicy beef patties on toasted brioche buns with house-made sauce.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJBz99fZqfj4AR0xl3FAfBon8",
