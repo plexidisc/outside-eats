@@ -2201,7 +2201,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "cuisine": "Korean",
       "phone": "(650) 435-4693",
-      "description": "Handcrafted kimbap rolls made fresh with beet-pickled radish and umami-rich flavors."
+      "description": "Handcrafted kimbap rolls made fresh with beet-pickled radish and umami-rich flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJM4bVPCCfj4ARuWhne1x88Ok",
