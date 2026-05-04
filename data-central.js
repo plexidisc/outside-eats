@@ -3049,7 +3049,7 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 881-3951",
       "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10:30pm, Sun 11:30am–9pm",
       "priceRange": "$$",
-      "description": "Indian street food born in India and raised in California.",
+      "description": "Indian street food born in India and raised in California. Vegetarian and Vegan options.",
       "photoUrl": "images/restaurant-photos/san-mateo/Curry UpNow Small.jpeg"
     },
     {
