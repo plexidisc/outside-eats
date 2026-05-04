@@ -2285,24 +2285,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJhcaPCFCfj4ARowgmpAwbgpc",
-      "formattedAddress": "66 21st Ave k15, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5477207,
-        "longitude": -122.3083157
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10917318187807017123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ammaskitchen.online/",
       "displayName": {
-        "text": "Amma’s Kitchen(Hyderabadi Biriyani House)",
+        "text": "Amma’s Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "66 21st Ave k15, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10917318187807017123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ammaskitchen.online/",
+      "location": {},
       "cuisine": "Indian",
       "phone": "(650) 597-3533",
-      "description": "Amma's special Boneless Biriyani and crispy dosas delight every palate.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
       "hours": "Mon 10am–11pm, Tue 10:20am–11pm, Wed–Thu 10am–11:59pm, Fri 9:30am–11:59pm, Sat 10am–11:59pm, Sun 10:15am–11pm",
-      "menuUrl": "https://www.doordash.com/store/amma's-kitchen-san-mateo-34764957/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Amma's special Boneless Biriyani and crispy dosas delight every palate.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJ6cW6kHqej4ARiiSPnlGL5eo",
