@@ -2504,24 +2504,23 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJM4bVPCCfj4ARuWhne1x88Ok",
-      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5477207,
-        "longitude": -122.3083157
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16857110141896976569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.bigdaddyshawaiianbbq.com/",
       "displayName": {
-        "text": "Big Daddy's Hawaiian BBQ (San Mateo)",
+        "text": "Big Daddy's Hawaiian BBQ",
         "languageCode": "en"
       },
-      "cuisine": "BBQ",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16857110141896976569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bigdaddyshawaiianbbq.com/",
+      "location": {},
+      "cuisine": [
+        "BBQ",
+        "Hawaiian"
+      ],
       "phone": "(323) 238-3320",
-      "description": "Fresh Hawaiian-inspired cuisine that's clean, craveable, and feels great.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
       "hours": "Mon–Sun 10:00am–10:00pm",
-      "menuUrl": "https://www.bigdaddyshawaiianbbq.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Fresh Hawaiian-inspired cuisine that's clean, craveable, and feels great.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJmUsD8Puej4ARjrL6z1BUv0I",
