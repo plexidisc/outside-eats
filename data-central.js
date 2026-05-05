@@ -5786,24 +5786,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJy-fcrYCej4ARYkqWqiQ_Sxc",
-      "formattedAddress": "450 S Norfolk St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5715569,
-        "longitude": -122.3107186
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1678504712838990434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://tablausa.com/",
       "displayName": {
-        "text": "Tabla Indian Restaurant - San Mateo",
+        "text": "Tabla Indian Restaurant",
         "languageCode": "en"
       },
+      "formattedAddress": "450 S Norfolk St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1678504712838990434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tablausa.com/",
+      "location": {},
       "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/san-mateo/Tabla Small.jpeg",
       "phone": "(650) 393-4338",
-      "description": "Fresh locally sourced ingredients create authentic Indian dishes with vibrant flavors.",
       "hours": "Mon–Sun 11:30am–9:30pm",
-      "menuUrl": "https://order.toasttab.com/online/tabla-indian-restaurant-ca-450-s-norfolk-st",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Fresh locally sourced ingredients create authentic Indian dishes with vibrant flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tabla Small.jpeg"
     },
     {
       "id": "ChIJUwAoqHuej4AR_nF_loM446w",
