@@ -988,22 +988,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJARK7-vGdj4ARcFuyCzbVtn4",
-      "formattedAddress": "1101 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5795356,
-        "longitude": -122.3453825
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9130719722641447792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Kabul Afghan Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern",
-      "phone": "(650) 343-2075"
-    },
-    {
       "id": "ChIJf6DDfQB3j4ARgdISlGxgW4o",
       "formattedAddress": "1800 Rollins Rd, Burlingame, CA 94010, USA",
       "location": {
