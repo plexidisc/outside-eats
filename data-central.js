@@ -3104,6 +3104,22 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
+      "id": "ChIJe1hpqKGfj4ARWBFCgo71nII",
+      "displayName": {
+        "text": "Dynasty BBQ",
+        "languageCode": "en"
+      },
+      "formattedAddress": "105 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9411667313717023064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/restaurant/14843",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 393-4819",
+      "hours": "Mon–Thu 4:30pm–11pm, Fri 12pm–2pm, 5pm–11pm, Sat 12pm–11pm, Sun 12pm–10:30pm",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Dynasty BBQ Small.jpeg"
+    },
+    {
       "id": "ChIJQbNcA9adj4ARmcSDBfrEoOU",
       "formattedAddress": "15 N Kingston St, San Mateo, CA 94401, USA",
       "location": {
@@ -5816,24 +5832,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJMbhCJACfj4ARV_ldP34pF5E",
-      "formattedAddress": "98 E 4th Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5633148,
-        "longitude": -122.32340359999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10454870682169637207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.taierusa.com/",
       "displayName": {
-        "text": "TAI ER SICHUAN CUISINE 太二川菜 (SAN MATEO)",
+        "text": "TAI ER SICHUAN CUISINE",
         "languageCode": "en"
       },
+      "formattedAddress": "98 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10454870682169637207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taierusa.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Tai Er Sichuan Cuisine Small.jpeg",
       "phone": "(650) 398-2222",
-      "description": "Experience house-fermented sauerkraut fish from this global Sichuan sensation.",
       "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
-      "menuUrl": "https://www.taierusa.com/new-page",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Experience house-fermented sauerkraut fish from this global Sichuan sensation.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tai Er Sichuan Cuisine Small.jpeg"
     },
     {
       "id": "ChIJmQba6BWfj4ARsGyybmBYOxA",
@@ -6367,22 +6379,6 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm",
       "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu",
       "priceRange": "$"
-    },
-    {
-      "id": "ChIJe1hpqKGfj4ARWBFCgo71nII",
-      "displayName": {
-        "text": "Dynasty BBQ",
-        "languageCode": "en"
-      },
-      "formattedAddress": "105 W 25th Ave, San Mateo, CA 94403, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=9411667313717023064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pos.chowbus.com/online-ordering/store/restaurant/14843",
-      "location": {},
-      "cuisine": "Chinese",
-      "phone": "(650) 393-4819",
-      "hours": "Mon–Thu 4:30pm–11pm, Fri 12pm–2pm, 5pm–11pm, Sat 12pm–11pm, Sun 12pm–10:30pm",
-      "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/san-mateo/Dynasty BBQ Small.jpeg"
     }
   ],
   "Foster City, CA": [
