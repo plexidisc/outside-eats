@@ -3247,23 +3247,19 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJlZciNwCfj4ARoQRaOS3XOQ4",
-      "formattedAddress": "150 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5664339,
-        "longitude": -122.32363240000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1025086979439199393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
-        "text": "Fish With You 鱼你在一起下饭酸菜鱼",
+        "text": "Fish With You",
         "languageCode": "en"
       },
+      "formattedAddress": "150 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1025086979439199393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Fish With You Small.jpeg",
       "phone": "(650) 226-8106",
       "hours": "Mon 11am–9pm, Tue Closed, Wed–Thu 11am–9pm, Fri–Sun 11am–9:30pm",
-      "menuUrl": "https://www.doordash.com/store/fish-with-you-%E9%B1%BC%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7-san-mateo-san-mateo-31649755/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fish With You Small.jpeg"
     },
     {
       "id": "ChIJG2nvYCifj4ARS2YfRVbPyYs",
