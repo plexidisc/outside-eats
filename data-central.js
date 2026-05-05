@@ -2131,16 +2131,16 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "117 S B St Suite A, San Mateo, CA 94401, USA",
       "googleMapsUri": "https://maps.google.com/?cid=5758847267307421578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.instagram.com/a2_wine_/",
-      "location": {
-        "latitude": 37.5665,
-        "longitude": -122.3236
-      },
+      "location": {},
       "cuisine": "Wine Bar",
+      "keywords": [
+        "charcuterie"
+      ],
       "phone": "650-387-0888",
-      "description": "Local wine bar, art gallery with live music.",
-      "photoUrl": "images/restaurant-photos/san-mateo/A2 Small.jpeg",
       "hours": "Mon–Tue Closed, Wed–Sun 5pm–10pm",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Local wine bar, art gallery with live music.",
+      "photoUrl": "images/restaurant-photos/san-mateo/A2 Small.jpeg"
     },
     {
       "id": "ChIJSQJ_CHuej4ARezc8vH_W3Mc",
