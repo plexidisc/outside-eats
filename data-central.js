@@ -2941,24 +2941,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJTV5S5-Ofj4ARcKTVvNe9Z7E",
-      "formattedAddress": "1923 S El Camino Real, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5493592,
-        "longitude": -122.3105966
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12783394801598178416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.currykababca.com/",
       "displayName": {
-        "text": "Curry & Kabab - San Mateo",
+        "text": "Curry & Kabab",
         "languageCode": "en"
       },
+      "formattedAddress": "1923 S El Camino Real, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12783394801598178416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.currykababca.com/",
+      "location": {},
       "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/san-mateo/Curry & Kabob Small.jpeg",
       "phone": "(650) 315-2136",
-      "description": "Chef Mandy specializes in North Indian Curries and tandoori items.",
       "hours": "Mon–Fri 9am–10pm, Sat–Sun 10am–10pm",
-      "menuUrl": "https://www.currykababca.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Chef Mandy specializes in North Indian Curries and tandoori items.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Curry & Kabob Small.jpeg"
     },
     {
       "id": "ChIJ2_xn6N-fj4ARhiafxUTWz5Y",
