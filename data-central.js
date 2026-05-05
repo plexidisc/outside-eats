@@ -2962,24 +2962,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ2_xn6N-fj4ARhiafxUTWz5Y",
-      "formattedAddress": "135 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5667635,
-        "longitude": -122.3236109
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10867140016729958022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://currypizzahouse.com/locations/san-mateo/",
       "displayName": {
-        "text": "Curry Pizza House San Mateo",
+        "text": "Curry Pizza House",
         "languageCode": "en"
       },
+      "formattedAddress": "135 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10867140016729958022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://currypizzahouse.com/locations/san-mateo/",
+      "location": {},
       "cuisine": "Fusion",
-      "photoUrl": "images/restaurant-photos/san-mateo/Curry Pizza House Small.jpeg",
       "phone": "(650) 242-0520",
-      "description": "Craft pizza blending delicious curry flavors with wholesome fresh ingredients.",
       "hours": "Sun–Thu 10am–9pm, Fri–Sat 10am–10pm",
-      "menuUrl": "https://currypizzahouse.com/menu/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Craft pizza blending delicious curry flavors with wholesome fresh ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Curry Pizza House Small.jpeg"
     },
     {
       "id": "ChIJFbeGuHCej4ARWLQmzwIx9Xc",
