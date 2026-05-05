@@ -2193,20 +2193,16 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "1602 S El Camino Real, San Mateo, CA 94402, USA",
       "googleMapsUri": "https://maps.google.com/?cid=11689815519796690505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.allspicerestaurant.com/",
-      "location": {
-        "latitude": 37.5529,
-        "longitude": -122.3156
-      },
+      "location": {},
       "cuisine": [
         "American",
         "Fusion"
       ],
       "phone": "(650) 627-4303",
-      "description": "Chef's worldly cuisine served in a charming 1906 Victorian cottage. Fusion of Asian and modern Californian dishes.",
-      "photoUrl": "images/restaurant-photos/san-mateo/All Spice Small.jpeg",
       "hours": "Mon Closed, Tue–Fri 5:30pm–8pm, Sat 5pm–8pm, Sun Closed",
-      "menuUrl": "https://allspicerestaurant.com/outdoor-dining/",
-      "priceRange": "$$$$"
+      "priceRange": "$$$$",
+      "description": "Chef's worldly cuisine served in a charming 1906 Victorian cottage. Fusion of Asian and modern Californian dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/All Spice Small.jpeg"
     },
     {
       "id": "ChIJwbQzTXCej4AR6AiUPmWLsAY",
