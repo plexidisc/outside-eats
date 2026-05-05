@@ -6378,24 +6378,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJT1h6HgCfj4ARgnzghvthQ78",
-      "formattedAddress": "121 W 25th Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.54355090000001,
-        "longitude": -122.30760660000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13781967017611394178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://lisnoodle.com/",
       "displayName": {
-        "text": "李面请 大碗刀削面 Li's Knife Cut Noodle",
+        "text": "Li's Knife Cut Noodle",
         "languageCode": "en"
       },
+      "formattedAddress": "121 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13781967017611394178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://lisnoodle.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Lis Knife :cut Noodle Small.jpeg",
       "phone": "(650) 458-3020",
-      "description": "Handmade noodles cut with rhythmic precision bring comforting home flavors.",
       "hours": "Mon–Thu 11am–3pm, 5pm–8:30pm, Fri–Sat 11am–3pm, 5pm–9pm, Sun 11am–3pm, 5pm–8:30pm",
-      "menuUrl": "https://www.yelp.com/biz/lis-knife-cut-noodle-san-mateo",
-      "priceRange": "$"
+      "priceRange": "$",
+      "description": "Handmade noodles cut with rhythmic precision bring comforting home flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lis Knife :cut Noodle Small.jpeg"
     }
   ],
   "Foster City, CA": [
