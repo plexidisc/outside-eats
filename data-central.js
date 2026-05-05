@@ -3084,24 +3084,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJGyBz3xmfj4ARnkSXuVr4I2s",
-      "formattedAddress": "111 E 4th Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.563805800000004,
-        "longitude": -122.32324689999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7720287254787605662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.doughzonedumplinghouse.com/locations",
       "displayName": {
-        "text": "Dough Zone Dumpling House San Mateo",
+        "text": "Dough Zone Dumpling House",
         "languageCode": "en"
       },
+      "formattedAddress": "111 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7720287254787605662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.doughzonedumplinghouse.com/locations",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Dough Zone Small.jpeg",
       "phone": "(650) 336-1888",
-      "description": "Known for exquisite Soup Dumplings, Pork Buns, and Dan Dan Noodles.",
       "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
-      "menuUrl": "https://www.doughzonedumplinghouse.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Known for exquisite Soup Dumplings, Pork Buns, and Dan Dan Noodles.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Dough Zone Small.jpeg"
     },
     {
       "id": "ChIJe1hpqKGfj4ARWBFCgo71nII",
