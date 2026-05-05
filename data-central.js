@@ -1835,25 +1835,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$$"
     },
     {
-      "id": "ChIJT03rQeWdj4ARBIswVlxA1oM",
-      "formattedAddress": "1 Park Rd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5749102,
-        "longitude": -122.343432
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9499851229311830788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://themenustar8.com/webspace/menus.php?code=ordertacosalvapormichoacan.com",
-      "displayName": {
-        "text": "Tacos Al Vapor Michoacan",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "phone": "(650) 240-6401",
-      "hours": "Mon–Sat 10am–6pm, Sun Closed",
-      "menuUrl": "https://www.yelp.com/biz/tacos-al-vapor-michoacan-burlingame-2",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJ_SeP6e53j4AR3xo83UeLbog",
       "formattedAddress": "1699 Old Bayshore Hwy, Burlingame, CA 94010, USA",
       "location": {
