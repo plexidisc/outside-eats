@@ -3575,24 +3575,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJj9XMWTmfj4ARiNEt81wYJcU",
-      "formattedAddress": "211 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.565262499999996,
-        "longitude": -122.32300810000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14205787387106021768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://hironori.com/san-mateo",
       "displayName": {
-        "text": "HiroNori Craft Ramen | San Mateo",
+        "text": "HiroNori Craft Ramen",
         "languageCode": "en"
       },
+      "formattedAddress": "211 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14205787387106021768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hironori.com/san-mateo",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Hiro Nori Small.jpeg",
       "phone": "(650) 242-1223",
-      "description": "Original ramen noodles fresh-cut every morning with 24-hour simmered broth.",
       "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–10pm",
-      "menuUrl": "https://hironori.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Original ramen noodles fresh-cut every morning with 24-hour simmered broth.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hiro Nori Small.jpeg"
     },
     {
       "id": "ChIJcSNm1sGdj4ARp19r8dgKWYY",
