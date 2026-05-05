@@ -6699,7 +6699,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Traditional family recipes using freshest Halal meat and locally sourced produce.",
       "hours": "Mon–Fri 11am–8pm, Sat 11am–7pm, Sun Closed",
       "menuUrl": "https://falafeltazah.com/menu/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/foster-city/Falafel Tazah Foster City Small.jpeg"
     },
     {
       "id": "ChIJD3hQ9CSZj4ARIGOdnCaEpAA",
