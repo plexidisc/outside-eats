@@ -4217,24 +4217,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJDc_SPM2fj4AR3I0cYL0JLcc",
-      "formattedAddress": "77 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.564162599999996,
-        "longitude": -122.32477970000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14352138296465591772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
-        "text": "MalaTown Express 自选麻辣烫",
+        "text": "MalaTown Express",
         "languageCode": "en"
       },
+      "formattedAddress": "77 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14352138296465591772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Mala Town Express Small.jpeg",
       "phone": "(650) 541-6666",
-      "description": "Authentic malatang with customizable bowls at only $9.99 per pound.",
       "hours": "Mon–Sun 11:30am–9:30pm",
-      "menuUrl": "https://www.yelp.com/biz/mala-town-express-san-mateo",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Authentic malatang with customizable bowls at only $9.99 per pound.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mala Town Express Small.jpeg"
     },
     {
       "id": "ChIJwRwXQIeej4ARW7apZkKr0vg",
