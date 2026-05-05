@@ -4444,24 +4444,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ0xuuKCOfj4ARsCiMailnXtU",
-      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5477207,
-        "longitude": -122.3083157
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15374839605468342448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.moonbowls.com/",
       "displayName": {
-        "text": "moonbowls (Healthy Korean Bowls- San Mateo)",
+        "text": "Moonbowls (Healthy Korean Bowls)",
         "languageCode": "en"
       },
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15374839605468342448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.moonbowls.com/",
+      "location": {},
       "cuisine": "Korean",
       "phone": "(866) 692-9615",
-      "description": "High quality, gluten-free ingredients with numerous plant-based options available.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
       "hours": "Mon–Sun 10am–10pm",
-      "menuUrl": "https://www.moonbowls.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "High quality, gluten-free ingredients with numerous plant-based options available.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJYWbtt3Cej4ARfYjowhMuzB0",
