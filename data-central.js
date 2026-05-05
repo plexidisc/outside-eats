@@ -5187,7 +5187,7 @@ var PREBAKED_DATA_CENTRAL = {
         "languageCode": "en"
       },
       "formattedAddress": "311 Baldwin Ave.",
-      "googleMapsUri": "",
+      "googleMapsUri": "google.com/maps/place/Reposado+Restaurant+-+San+Mateo/data=!4m2!3m1!1s0x0:0x7651efce11cb4391?sa=X&ved=1t:2428&ictx=111",
       "websiteUri": "https://www.reposadorestaurant.com",
       "location": {},
       "cuisine": "Mexican",
