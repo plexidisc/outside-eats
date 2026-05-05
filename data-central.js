@@ -2441,24 +2441,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJdYnq7nCej4ARB-6vA0482oU",
-      "formattedAddress": "201 2nd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5660306,
-        "longitude": -122.32401580000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9645087857734315527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.baywatchsanmateo.com/",
       "displayName": {
-        "text": "Bay Watch San Mateo",
+        "text": "Bay Watch",
         "languageCode": "en"
       },
+      "formattedAddress": "201 2nd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9645087857734315527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.baywatchsanmateo.com/",
+      "location": {},
       "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bay Watch Small.jpeg",
       "phone": "(650) 342-2356",
-      "description": "Fresh ingredients prepared from scratch daily with bottomless coffee service.",
       "hours": "Mon–Sun 7am–2pm",
-      "menuUrl": "http://www.baywatchsanmateo.com/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Fresh ingredients prepared from scratch daily with bottomless coffee service.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bay Watch Small.jpeg"
     },
     {
       "id": "ChIJuSQHOxKfj4ARSGeDzMgBmgg",
