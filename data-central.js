@@ -6370,23 +6370,19 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJe1hpqKGfj4ARWBFCgo71nII",
-      "formattedAddress": "105 W 25th Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5436791,
-        "longitude": -122.3071561
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9411667313717023064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pos.chowbus.com/online-ordering/store/restaurant/14843",
       "displayName": {
-        "text": "人间烟火小酒馆（Dynasty BBQ)",
+        "text": "Dynasty BBQ",
         "languageCode": "en"
       },
+      "formattedAddress": "105 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9411667313717023064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/restaurant/14843",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Dynasty BBQ Small.jpeg",
       "phone": "(650) 393-4819",
       "hours": "Mon–Thu 4:30pm–11pm, Fri 12pm–2pm, 5pm–11pm, Sat 12pm–11pm, Sun 12pm–10:30pm",
-      "menuUrl": "https://pos.chowbus.com/online-ordering/store/14843",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Dynasty BBQ Small.jpeg"
     }
   ],
   "Foster City, CA": [
