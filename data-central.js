@@ -3496,24 +3496,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ01Fn83Cej4ARB9X33o7q96k",
-      "formattedAddress": "215 S Ellsworth Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.565509,
-        "longitude": -122.3235506
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12247515611004392711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://happylambhotpot.com/",
       "displayName": {
-        "text": "Happy Lamb Hot Pot, San Mateo 快乐小羊",
+        "text": "Happy Lamb Hot Pot",
         "languageCode": "en"
       },
+      "formattedAddress": "215 S Ellsworth Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12247515611004392711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://happylambhotpot.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Happy Lamb Small.jpeg",
       "phone": "(650) 343-2566",
-      "description": "Renowned for six hour bone broth and no dipping sauce approach.",
       "hours": "Mon–Sun 11:30am–10:00pm",
-      "menuUrl": "https://www.yelp.com/menu/happy-lamb-hot-pot-san-mateo",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Renowned for six hour bone broth and no dipping sauce approach.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Happy Lamb Small.jpeg"
     },
     {
       "id": "ChIJ14OHaoeej4ARQa1Xvrjqfoo",
