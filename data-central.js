@@ -2869,24 +2869,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ7VEHR9Ofj4AR6AEUKzk2Y38",
-      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5477207,
-        "longitude": -122.3083157
+      "displayName": {
+        "text": "Cooking Papa",
+        "languageCode": "en"
       },
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
       "googleMapsUri": "https://maps.google.com/?cid=9179240084674970088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.cookingpapa.us/",
-      "displayName": {
-        "text": "Cooking Papa San Mateo",
-        "languageCode": "zh-HK"
-      },
+      "location": {},
       "cuisine": "Chinese",
       "phone": "(415) 690-2233",
-      "description": "Michelin recommended authentic Hong Kong cuisine delivered by meal boxes.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
       "hours": "Mon–Sat 10:00am–7:00pm, Sun 10:00am–12:00pm",
-      "menuUrl": "https://www.cookingpapa.us/menu/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "description": "Michelin recommended authentic Hong Kong cuisine delivered by meal boxes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJObonFH-fj4ARLrUSRoNnYI8",
