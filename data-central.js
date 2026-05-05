@@ -5972,7 +5972,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 315-2274",
       "hours": "Mon–Sun 10am–10pm",
       "menuUrl": "https://www.yelp.com/biz/taqueria-las-pencas-2-san-mateo",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taquería las pencas #2 Small.jpeg"
     },
     {
       "id": "ChIJdUQYkhWfj4ARvv8mWDJD5xY",
