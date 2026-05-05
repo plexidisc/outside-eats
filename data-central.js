@@ -6742,24 +6742,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJpfffOryej4AR9A83_u08Aao",
-      "formattedAddress": "2401 E 3rd Ave #1067, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5721257,
-        "longitude": -122.28304249999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12250139454294396916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Mariners Point Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(650) 573-7003",
-      "hours": "Mon–Fri 11am–11pm, Sat–Sun 11am–9pm",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJnzT-_hafj4AROcD0Hlm62f4",
       "formattedAddress": "977 E Hillsdale Blvd, Foster City, CA 94404, USA",
       "location": {
