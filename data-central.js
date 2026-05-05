@@ -4058,6 +4058,23 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
+      "id": "ChIJT1h6HgCfj4ARgnzghvthQ78",
+      "displayName": {
+        "text": "Li's Knife Cut Noodle",
+        "languageCode": "en"
+      },
+      "formattedAddress": "121 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13781967017611394178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://lisnoodle.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 458-3020",
+      "hours": "Mon–Thu 11am–3pm, 5pm–8:30pm, Fri–Sat 11am–3pm, 5pm–9pm, Sun 11am–3pm, 5pm–8:30pm",
+      "priceRange": "$",
+      "description": "Handmade noodles cut with rhythmic precision bring comforting home flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lis Knife :cut Noodle Small.jpeg"
+    },
+    {
       "id": "ChIJUbQYn8Sfj4AR4Ewh5cOk788",
       "formattedAddress": "777 Mariners Island Blvd STE 170, San Mateo, CA 94404, USA",
       "location": {
@@ -6130,23 +6147,22 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJkc4PgMGfj4ARLqAROaUFcRg",
-      "formattedAddress": "250 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5657285,
-        "longitude": -122.3228156
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1761195136463773742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tongsui.us/",
       "displayName": {
-        "text": "Tong Sui Desserts & Drinks (San Mateo)",
+        "text": "Tong Sui",
         "languageCode": "en"
       },
-      "cuisine": "Chinese",
+      "formattedAddress": "250 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1761195136463773742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tongsui.us/",
+      "location": {},
+      "cuisine": [
+        "Chinese",
+        "Dessert"
+      ],
       "phone": "(650) 931-4253",
-      "description": "Organic coconut pudding made with fresh coconut water and seasonal ingredients.",
       "hours": "Mon–Thu 12pm–9pm, Fri 12pm–9:30pm, Sat 11:30am–9:30pm, Sun 11:30am–9pm",
-      "menuUrl": "https://www.yelp.com/biz/tong-sui-san-mateo",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Organic coconut pudding made with fresh coconut water and seasonal ingredients."
     },
     {
       "id": "ChIJN6x96hadj4AR7ZVrIZVCt4s",
@@ -6375,23 +6391,6 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon–Thu 4:30pm–11pm, Fri 12pm–2pm, 5pm–11pm, Sat 12pm–11pm, Sun 12pm–10:30pm",
       "menuUrl": "https://pos.chowbus.com/online-ordering/store/14843",
       "priceRange": "$$"
-    },
-    {
-      "id": "ChIJT1h6HgCfj4ARgnzghvthQ78",
-      "displayName": {
-        "text": "Li's Knife Cut Noodle",
-        "languageCode": "en"
-      },
-      "formattedAddress": "121 W 25th Ave, San Mateo, CA 94403, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=13781967017611394178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://lisnoodle.com/",
-      "location": {},
-      "cuisine": "Chinese",
-      "phone": "(650) 458-3020",
-      "hours": "Mon–Thu 11am–3pm, 5pm–8:30pm, Fri–Sat 11am–3pm, 5pm–9pm, Sun 11am–3pm, 5pm–8:30pm",
-      "priceRange": "$",
-      "description": "Handmade noodles cut with rhythmic precision bring comforting home flavors.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Lis Knife :cut Noodle Small.jpeg"
     }
   ],
   "Foster City, CA": [
