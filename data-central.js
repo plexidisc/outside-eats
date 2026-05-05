@@ -2198,6 +2198,9 @@ var PREBAKED_DATA_CENTRAL = {
         "American",
         "Fusion"
       ],
+      "keywords": [
+        "fine dining"
+      ],
       "phone": "(650) 627-4303",
       "hours": "Mon Closed, Tue–Fri 5:30pm–8pm, Sat 5pm–8pm, Sun Closed",
       "priceRange": "$$$$",
