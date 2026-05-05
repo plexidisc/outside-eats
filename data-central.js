@@ -5769,24 +5769,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJI2THxnGej4ARZ8lUgarD0UU",
-      "formattedAddress": "1 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.563364,
-        "longitude": -122.32593589999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5031017395831228775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sweetgreen.com/locations/san-mateo",
       "displayName": {
-        "text": "sweetgreen - Healthy Salads, Bowls and Plates",
+        "text": "Sweetgreen",
         "languageCode": "en"
       },
+      "formattedAddress": "1 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5031017395831228775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetgreen.com/locations/san-mateo",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/san-mateo/Sweetgreen Small.jpeg",
       "phone": "(650) 753-6500",
-      "description": "Fresh seasonal ingredients sourced from local farms for sustainable meals.",
       "hours": "Mon–Fri 10:00am–9:00pm, Sat–Sun 10:30am–9:00pm",
-      "menuUrl": "https://www.sweetgreen.com/menu/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Fresh seasonal ingredients sourced from local farms for sustainable meals.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sweetgreen Small.jpeg"
     },
     {
       "id": "ChIJy-fcrYCej4ARYkqWqiQ_Sxc",
