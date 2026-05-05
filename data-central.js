@@ -4193,23 +4193,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJOTbfdHCej4ARIab_uDLZJr0",
-      "formattedAddress": "205 E 4th Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.564473299999996,
-        "longitude": -122.3222723
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13629820134158738977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://m-sandwiches.com/",
       "displayName": {
-        "text": "M sandwiches Cafe San Mateo",
+        "text": "M sandwiches Cafe",
         "languageCode": "en"
       },
+      "formattedAddress": "205 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13629820134158738977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://m-sandwiches.com/",
+      "location": {},
       "cuisine": "Vietnamese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Banh Mi M- Sandwiches Small.jpeg",
       "phone": "(650) 931-4181",
-      "description": "Authentic French-Vietnamese bánh mì with house-made pâté and grilled meats.",
       "hours": "Mon–Sun 9:30am–4:00pm",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Authentic French-Vietnamese bánh mì with house-made pâté and grilled meats.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Banh Mi M- Sandwiches Small.jpeg"
     },
     {
       "id": "ChIJDc_SPM2fj4AR3I0cYL0JLcc",
