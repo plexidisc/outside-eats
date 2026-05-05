@@ -2512,24 +2512,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJmUsD8Puej4ARjrL6z1BUv0I",
-      "formattedAddress": "116 E 25th Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.545299899999996,
-        "longitude": -122.30441370000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4809655633118409358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://eatbizza.com/",
       "displayName": {
-        "text": "Bizza (San Mateo)",
+        "text": "Bizza",
         "languageCode": "en"
       },
+      "formattedAddress": "116 E 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4809655633118409358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://eatbizza.com/",
+      "location": {},
       "cuisine": "Pizza",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bizza Small.jpeg",
       "phone": "(650) 389-2160",
-      "description": "Mediterranean-inspired pizzas fusing bold flavors with classic Italian favorites.",
       "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11:30am–8:30pm",
-      "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94403/bizza-san-mateo/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Mediterranean-inspired pizzas fusing bold flavors with classic Italian favorites.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bizza Small.jpeg"
     },
     {
       "id": "ChIJv_7wm8Oej4ARzflirOTE7qc",
