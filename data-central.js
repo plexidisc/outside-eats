@@ -3191,24 +3191,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJo7QtiEOfj4ARPFSTaTIW0rY",
-      "formattedAddress": "206 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.566041999999996,
-        "longitude": -122.32319860000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13173616265787561020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.firewings.com/san-mateo-ca-94401",
       "displayName": {
-        "text": "Fire Wings San Mateo",
+        "text": "Fire Wings",
         "languageCode": "en"
       },
+      "formattedAddress": "206 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13173616265787561020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.firewings.com/san-mateo-ca-94401",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/san-mateo/Fire Wings Small.jpeg",
       "phone": "(650) 372-5263",
-      "description": "Over 20 wing flavors plus popular garlic noodles and beer",
       "hours": "Sun–Thu 11am–9:45pm, Fri–Sat 11am–10:45pm",
-      "menuUrl": "https://order.online/en-US/store/fire-wings-san-mateo-724497",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Over 20 wing flavors plus popular garlic noodles and beer",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fire Wings Small.jpeg"
     },
     {
       "id": "ChIJlZciNwCfj4ARoQRaOS3XOQ4",
