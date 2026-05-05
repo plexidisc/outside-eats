@@ -6228,24 +6228,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJT5eL6Xyfj4ARd__EqjMZhNo",
-      "formattedAddress": "73 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5641058,
-        "longitude": -122.3248129
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15745737906893160311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mugizo-us.com/sanmateo",
       "displayName": {
-        "text": "Udon Mugizo - San Mateo",
+        "text": "Udon Mugizo",
         "languageCode": "en"
       },
+      "formattedAddress": "73 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15745737906893160311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mugizo-us.com/sanmateo",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Udon Mugizo Small.jpeg",
       "phone": "(650) 315-2000",
-      "description": "Thick-cut homemade udon with kombu kelp stock and premium fish flakes.",
       "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sun 11am–9pm",
-      "menuUrl": "https://order.online/en-US/store/udon-mugizo-san-mateo-33065519",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Thick-cut homemade udon with kombu kelp stock and premium fish flakes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Udon Mugizo Small.jpeg"
     },
     {
       "id": "ChIJV9Djnkmfj4ARSPTuy_3mZn0",
