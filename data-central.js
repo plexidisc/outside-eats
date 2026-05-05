@@ -9347,23 +9347,19 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJn6yuqwmij4ARrdscqJxK_II",
-      "formattedAddress": "620 Airport Way, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.5151667,
-        "longitude": -122.25051939999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9438500955757534125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Sky Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "620 Airport Way, San Carlos, CA 94070, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9438500955757534125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Other",
       "phone": "(650) 595-0464",
-      "description": "Watch planes take off and land while eating breakfast.",
       "hours": "Mon–Thu 7am–2pm, Fri–Sun 7am–3pm",
-      "menuUrl": "https://www.tripadvisor.com/Restaurant_Review-g33011-d1030694-Reviews-Sky_Kitchen-San_Carlos_California.html",
-      "priceRange": "$$"
+      "priceRange": "$",
+      "description": "Watch planes take off and land while eating breakfast."
     },
     {
       "id": "ChIJoeNZl8ijj4ARwlavdRd5gTY",
