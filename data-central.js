@@ -5993,7 +5993,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Classic Mexican comfort dishes in a compact, colorful interior.",
       "hours": "Mon–Sat 9am–9pm, Sun Closed",
       "menuUrl": "https://taquerialosmorenoca.com/taqueria-los-moreno/locations/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taquería Los Moreno Small.jpeg"
     },
     {
       "id": "ChIJZe2ninaej4AR0VJDQPRwrYU",
