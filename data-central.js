@@ -3171,24 +3171,23 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJXYm1UR2fj4ARep4zzoa7lZc",
-      "formattedAddress": "3030 S Delaware St, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5410478,
-        "longitude": -122.2989001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10922842658916507258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://drinkfieldwork.com/san-mateo/",
       "displayName": {
-        "text": "Fieldwork San Mateo",
+        "text": "Fieldwork",
         "languageCode": "en"
       },
-      "cuisine": "American",
+      "formattedAddress": "3030 S Delaware St, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10922842658916507258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://drinkfieldwork.com/san-mateo/",
+      "location": {},
+      "cuisine": [
+        "American",
+        "Brewery"
+      ],
       "phone": "(650) 242-1280",
-      "description": "Rotating selection of over 20 fresh beers on tap.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Fieldwork San Mateo Small.jpeg",
       "hours": "Mon–Thu 12pm–9pm, Fri 12pm–10pm, Sat 11am–10pm, Sun 11am–9pm",
-      "menuUrl": "https://fieldworkbrewing.com/san-mateo/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Rotating selection of over 20 fresh beers on tap.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fieldwork San Mateo Small.jpeg"
     },
     {
       "id": "ChIJo7QtiEOfj4ARPFSTaTIW0rY",
