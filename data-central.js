@@ -6299,6 +6299,23 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm",
       "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu",
       "priceRange": "$"
+    },
+    {
+      "id": "manual_1778003935551",
+      "displayName": {
+        "text": "Reposado",
+        "languageCode": "en"
+      },
+      "formattedAddress": "311 Baldwin Ave.",
+      "googleMapsUri": "",
+      "websiteUri": "https://www.reposadorestaurant.com",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "fine dining"
+      ],
+      "phone": "(650) 292-1321",
+      "priceRange": "$$$"
     }
   ],
   "Foster City, CA": [
