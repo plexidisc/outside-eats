@@ -1482,25 +1482,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$$"
     },
     {
-      "id": "ChIJg8qyLad3j4AR9klgUj_eNF8",
-      "formattedAddress": "851 Burlway Rd STE 100, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.595045999999996,
-        "longitude": -122.3663783
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6860352495938456054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Patty's Caffe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "phone": "(650) 389-6192",
-      "hours": "Mon–Wed 8am–3pm, Thu 8am–3pm, Fri 8am–2pm, Sat–Sun Closed",
-      "menuUrl": "https://www.ubereats.com/store/pattys-caffe/9itrtsmuXi2bO48HOVhVxQ",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJ25O2djd3j4AROSjVIs6-2I4",
       "formattedAddress": "1184 Broadway, Burlingame, CA 94010, USA",
       "location": {
