@@ -2322,16 +2322,15 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "2260 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
       "googleMapsUri": "https://maps.google.com/?cid=6849192910028416693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.armadillowillys.com/mobile-site/locations.asp",
-      "location": {
-        "latitude": 37.5599934,
-        "longitude": -122.2806777
-      },
+      "location": {},
       "cuisine": "BBQ",
-      "description": "Texas style wood-fired barbecue. 40 years in business.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Armadillo Willy's BBQ Small.jpeg",
+      "keywords": [
+        "texas bbq"
+      ],
       "hours": "Mon–Sun 11am–8pm",
-      "menuUrl": "https://order.toasttab.com/online/armadillo-willys-san-mateo-2260-bridgepointe-parkway",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Texas style wood-fired barbecue. 40 years in business.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Armadillo Willy's BBQ Small.jpeg"
     },
     {
       "id": "ChIJ62bRY3Cej4AR3l5NXHnw5fc",
