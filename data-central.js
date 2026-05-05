@@ -2462,24 +2462,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJuSQHOxKfj4ARSGeDzMgBmgg",
-      "formattedAddress": "2204 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
-      "location": {
-        "latitude": 37.561673,
-        "longitude": -122.28211900000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=619809860653115208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.benihana.com/locations/san-mateo/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
       "displayName": {
-        "text": "Benihana - San Mateo",
+        "text": "Benihana",
         "languageCode": "en"
       },
+      "formattedAddress": "2204 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=619809860653115208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.benihana.com/locations/san-mateo/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Benihana Small.jpeg",
       "phone": "(650) 781-0523",
-      "description": "Chefs perform the ancient art of Teppanyaki right at your table.",
       "hours": "Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–10pm",
-      "menuUrl": "https://order.benihana.com/menu/benihana-san-mateo",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "description": "Chefs perform the ancient art of Teppanyaki right at your table.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Benihana Small.jpeg"
     },
     {
       "id": "ChIJ91G1hYGfj4ARq9cpilAzffw",
