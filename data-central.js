@@ -5207,7 +5207,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 430-4312",
       "hours": "Mon–Fri 9am–9pm, Sat–Sun 9am–10pm",
       "menuUrl": "https://www.zmenu.com/pupuseria-valle-de-jiboa-san-mateo-online-menu/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pupuseria Valle de Jiboa Small.jpeg"
     },
     {
       "id": "ChIJe_K0-WSej4ARodOC4dXyLbI",
