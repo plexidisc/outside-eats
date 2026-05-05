@@ -7302,24 +7302,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJV9oypYufj4ARDrGLM-Y6lc0",
-      "formattedAddress": "101 Industrial Rd UNIT 12, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5211101,
-        "longitude": -122.26654079999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14813811309686796558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.doms-noms.com/",
-      "displayName": {
-        "text": "Dom’s Nom’s Catering",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "phone": "(650) 868-7531",
-      "description": "Wood-fired BBQ infused with Filipino culture and seasonal ingredients.",
-      "hours": "Mon–Thu Closed, Fri 10am–5pm, Sat 8am–5pm, Sun 10am–5pm"
-    },
-    {
       "id": "ChIJpw-ShBifj4AR0aDvQcLggMM",
       "formattedAddress": "864 El Camino Real, Belmont, CA 94002, USA",
       "location": {
