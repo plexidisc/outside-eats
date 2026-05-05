@@ -4113,24 +4113,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJv2lTRnCej4ARxfGlAqjhuoo",
-      "formattedAddress": "98 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.564112699999995,
-        "longitude": -122.32413749999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9996550434617422277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://liuyishouna.com/",
       "displayName": {
-        "text": "Liuyishou Hotpot (San Mateo)",
+        "text": "Liuyishou Hotpot",
         "languageCode": "en"
       },
+      "formattedAddress": "98 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9996550434617422277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://liuyishouna.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/LiuYishou Hot Pot Small.jpeg",
       "phone": "(650) 242-1245",
-      "description": "Authentic hot pot with 1,200+ global locations and fashionable quality.",
       "hours": "Mon–Fri 11:30am–2:30pm, 5pm–10pm, Sat 11:30am–11pm, Sun 11:30am–10pm",
-      "menuUrl": "https://www.liuyishouna.com/sanmateomenu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Authentic hot pot with 1,200+ global locations and fashionable quality.",
+      "photoUrl": "images/restaurant-photos/san-mateo/LiuYishou Hot Pot Small.jpeg"
     },
     {
       "id": "ChIJoShLt8Sfj4ARs7XSoeedP98",
