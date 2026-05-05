@@ -4238,23 +4238,19 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ7TKz_xmfj4ARtQgGqsBFIBQ",
-      "formattedAddress": "4000 S El Camino Real, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5321712,
-        "longitude": -122.29191159999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1450235773801859253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.maverickjacks.com/",
       "displayName": {
-        "text": "Maverick Jack's San Mateo",
+        "text": "Maverick Jack's",
         "languageCode": "en"
       },
+      "formattedAddress": "4000 S El Camino Real, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1450235773801859253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.maverickjacks.com/",
+      "location": {},
       "cuisine": "American",
       "phone": "(650) 458-0020",
-      "description": "They use the best ingredients in a lively atmosphere.",
       "hours": "Mon–Fri 11am–8pm, Sat 11am–9pm, Sun 11am–8pm",
-      "menuUrl": "https://www.maverickjacks.com/menus/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "They use the best ingredients in a lively atmosphere."
     },
     {
       "id": "ChIJh8qOgm2fj4ARSJdJF-9ehwo",
