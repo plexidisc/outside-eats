@@ -4805,17 +4805,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJvVwBhup3j4ARMcOzTW1rx0A",
-      "formattedAddress": "1621 El Camino Real, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.6128512,
-        "longitude": -122.40431770000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4667817655992042289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.6506775888.com/",
       "displayName": {
-        "text": "Flame BBQ 炙热烧烤",
+        "text": "Flame BBQ",
         "languageCode": "en"
       },
+      "formattedAddress": "1621 El Camino Real, Millbrae, CA 94030, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4667817655992042289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.6506775888.com/",
+      "location": {},
       "cuisine": "BBQ"
     },
     {
