@@ -4909,21 +4909,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJO-1NZI3024AR5tMbGnQ_7fM",
-      "formattedAddress": "11 Rollins Rd, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.6008236,
-        "longitude": -122.38245549999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17576774688583701478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/190",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJDdqQZ7B3j4AR62oV92RfUQQ",
       "formattedAddress": "100 El Camino Real, Millbrae, CA 94030, USA",
       "location": {
