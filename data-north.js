@@ -3437,7 +3437,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "A One Kitchen & Bar",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-bruno/A One  Small.jpeg"
     },
     {
       "id": "ChIJ5xCMk9B5j4ARWzAnCFHRnpI",
@@ -3452,7 +3453,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Aji Ichi Japanese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Aji Ichi Small.jpeg"
     },
     {
       "id": "ChIJrVseCNt5j4ARlE-IUpmGDBw",
@@ -3482,7 +3484,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Amami Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Amami Sushi Small.jpeg"
     },
     {
       "id": "ChIJN1MBCgR3j4AR3ly-BYuCtzM",
@@ -3497,7 +3500,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Amami Sushi Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Amami Sushi Bistro Small.jpeg"
     },
     {
       "id": "ChIJq6o6t9B5j4AR6TP_wmWeBI0",
@@ -3512,7 +3516,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Atlas Pizza Parlor",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-bruno/Atlas Pizza Parlor Small.jpeg"
     },
     {
       "id": "ChIJTc_G1ed5j4ARMEXc2A7Mb7A",
@@ -3527,7 +3532,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Bayhill Vietnamese Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Bayhill Vietnamese Small.jpeg"
     },
     {
       "id": "ChIJYyokdQB5j4ARyUdWYdILpoA",
@@ -3542,7 +3548,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "bb.q Chicken San Bruno",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-bruno/bb.q Chicken Small.jpeg"
     },
     {
       "id": "ChIJ3Sx3n9d5j4ARge96CQpF2mw",
@@ -3557,7 +3564,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Big Joe's 8",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-bruno/Big Joes Small.jpeg"
     },
     {
       "id": "ChIJ7cdd3ed5j4ARBh2S679hUbE",
@@ -3572,7 +3580,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Big Mouth Burgers",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/san-bruno/Big Mouth Burgers Small.jpeg"
     },
     {
       "id": "ChIJlz4HudB5j4ART4ei0MlPARM",
@@ -3587,7 +3596,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Boiling Beijing",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Boiling Beijin Small.jpeg"
     },
     {
       "id": "ChIJU5UlR6MNkIARXc0GxivD9gg",
@@ -3614,7 +3624,8 @@ var PREBAKED_DATA_NORTH = {
       "googleMapsUri": "https://maps.google.com/?cid=16852014400856854944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.cajunbowlcalifornia.com/",
       "location": {},
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/san-bruno/Cajun Bowl Small.jpeg"
     },
     {
       "id": "ChIJPwBagHl3j4ARD8_PoyaX5BI",
@@ -3629,7 +3640,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Camino Corner Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-bruno/Camino Corner Small.jpeg"
     },
     {
       "id": "ChIJHzQBGrh5j4ARcoK5YW8mxGs",
@@ -3659,7 +3671,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Celia's Méxican Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-bruno/Celias Small.jpeg"
     },
     {
       "id": "ChIJJcSDXXx3j4ARRef7L0P3GpY",
@@ -3674,7 +3687,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Diamond Head General Store",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-bruno/Diamond Head Small.jpeg"
     },
     {
       "id": "ChIJx0kc13t3j4ARcqwDllx9ijg",
@@ -3689,7 +3703,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Dog House",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-bruno/Dog House Small.jpeg"
     },
     {
       "id": "ChIJ91_9D313j4AReztf0PoZSHo",
@@ -3701,7 +3716,8 @@ var PREBAKED_DATA_NORTH = {
       "googleMapsUri": "https://maps.google.com/?cid=8811321235978795899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.dumplingerasanbruno.com/",
       "location": {},
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Dumpling Era Small.jpeg"
     },
     {
       "id": "ChIJoer5tcJ5j4ARktraHJnZr9w",
@@ -3731,7 +3747,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hana Hawaiian Barbeque",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-bruno/Hana Hawaiian Barbeque Small.jpeg"
     },
     {
       "id": "ChIJ2SwHgON5j4ARmjxkgeozmV0",
@@ -3761,7 +3778,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hapa Bistro",
         "languageCode": "en"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/san-bruno/Hapa Small.jpeg"
     },
     {
       "id": "ChIJCa0k7ed5j4ARKtXmth5UXlM",
@@ -3776,7 +3794,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hashes & Brews",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/san-bruno/Hashes & Brews Small.jpeg"
     },
     {
       "id": "ChIJTWs1Ynx3j4ARfMZQCsN4uVQ",
@@ -3791,7 +3810,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hip Hop Bbq Shack",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/san-bruno/Hip Hop BBQ Small.jpeg"
     },
     {
       "id": "ChIJ9ZtGBX13j4ARVq4R51GyLd0",
@@ -3806,7 +3826,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Ichiban Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Ichiban Sushi Small.jpeg"
     },
     {
       "id": "ChIJk-_h1T95j4ARX5kuSsDc_IY",
@@ -3821,7 +3842,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Ichika Izakaya",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Ichika Izakaya Small.jpeg"
     },
     {
       "id": "ChIJTRKGFgB5j4AREUOpohdC2h8",
@@ -3836,7 +3858,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Inda+Mely",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/san-bruno/Inda+Mely Small.jpeg"
     },
     {
       "id": "ChIJbbid39d5j4ARZTEEUB1B_DY",
@@ -3851,7 +3874,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Isla Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/san-bruno/Isla Small.jpeg"
     },
     {
       "id": "ChIJm3_qZcF5j4ARD5nR8hXMQZU",
@@ -3866,7 +3890,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Jack's Restaurant & Bar",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-bruno/Jacks Small.jpeg"
     },
     {
       "id": "ChIJeXxDpLR5j4ARpE0srYmlpDQ",
@@ -3881,7 +3906,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "JC Bruno Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Peruvian"
+      "cuisine": "Peruvian",
+      "photoUrl": "images/restaurant-photos/san-bruno/JC Bruno Small.jpeg"
     },
     {
       "id": "ChIJDZlztdB5j4ARGJbJufIicZI",
@@ -3896,7 +3922,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "K-Grill & Tofu House",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-bruno/K-Grill & Tofu House Small.jpeg"
     },
     {
       "id": "ChIJmVuuuNd5j4ARcDkHCq3dCME",
@@ -3911,7 +3938,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Kuya's Asian Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/san-bruno/Kuya Asian Cuisine Small.jpeg"
     },
     {
       "id": "ChIJDeTMktB5j4ARUweaXXQ1BNE",
@@ -3926,7 +3954,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "La Paloma",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-bruno/La Paloma Small.jpeg"
     },
     {
       "id": "ChIJxdOp0q55j4ARqSqM6hE-V7A",
@@ -3956,7 +3985,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Little Vietnamese Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Little Vietnamese Bistro Small.jpeg"
     },
     {
       "id": "ChIJAU6Tiz15j4ARHfwKIoodbyI",
@@ -3971,7 +4001,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Local Kitchens",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-bruno/Local Kitchens Small.jpeg"
     },
     {
       "id": "ChIJU10PnoV5j4ARTLRLH7cdjms",
@@ -3986,7 +4017,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Lotus Falafel and Shawerma - San Bruno",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/san-bruno/Lotus Small.jpeg"
     },
     {
       "id": "ChIJB0gdNdd5j4ARJRQSc6CBfuY",
@@ -4001,7 +4033,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mar Y Mar",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-bruno/Mar Y Mar | Mariscos Small.jpeg"
     },
     {
       "id": "ChIJc2OQNNd5j4ARLFA88ciy0i0",
@@ -4046,7 +4079,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mazra",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/san-bruno/Mazra Small.jpeg"
     },
     {
       "id": "ChIJU7Ij6nl3j4ARFOK6wkrSz8A",
@@ -4061,7 +4095,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mid East Market",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-bruno/Mid East Market Small.jpeg"
     },
     {
       "id": "ChIJk7Cgmb95j4ARLgQRsr2ljuY",
@@ -4076,7 +4111,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mijouri SushiBune",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Mijouri SushiBune Small.jpeg"
     },
     {
       "id": "ChIJWedTA6B5j4ARyg7aJRyGSNQ",
@@ -4091,7 +4127,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Minari",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-bruno/Minari Small.jpeg"
     },
     {
       "id": "ChIJXWiEi7F5j4ARr4_DzMbCMAM",
@@ -4106,7 +4143,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Naan Point",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/san-bruno/Naan Point Small.jpeg"
     },
     {
       "id": "ChIJVZkPLdJ5j4ARdhLT1ZfiEsY",
@@ -4151,7 +4189,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "One Love Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-bruno/One Love Cafe Small.jpeg"
     },
     {
       "id": "ChIJixazyr53j4ARbVN7UqRLK4U",
@@ -4166,7 +4205,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Pahk Soi Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-bruno/Pahk Soi Restaurant Small.jpeg"
     },
     {
       "id": "ChIJGRqiwnl3j4ARZ734ZpDYGLo",
@@ -4181,7 +4221,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Patio Filipino",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/san-bruno/Patio Filipino Small.jpeg"
     },
     {
       "id": "ChIJrwS1aQR5j4ARCnZVGVuFYGM",
@@ -4196,7 +4237,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Pho de Nguyen",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Pho De Nguyen Small.jpeg"
     },
     {
       "id": "ChIJIe8-DL95j4AR2G1Lh1YXcZk",
@@ -4211,7 +4253,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Poke One",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-bruno/Poke One Small.jpeg"
     },
     {
       "id": "ChIJB5Xmlr95j4ARSHNIkt0dGsw",
@@ -4226,7 +4269,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Red Lobster",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/san-bruno/Red Lobster Small.jpeg"
     },
     {
       "id": "ChIJ7Q2o39d5j4AREF-w4yM3VM4",
@@ -4241,7 +4285,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Roma Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-bruno/Roma Small.jpeg"
     },
     {
       "id": "ChIJ-Sg1uMt5j4ARYQlYRiDAVp0",
@@ -4256,7 +4301,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "SAJJ Mediterranean",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-bruno/Sajj Small.jpeg"
     },
     {
       "id": "ChIJS4znd8R5j4ARy2N4H4STAk8",
@@ -4271,7 +4317,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Seniore's Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-bruno/Seniores Pizza Small.jpeg"
     },
     {
       "id": "ChIJK655YPJ5j4ARioApqA3yJQI",
@@ -4286,7 +4333,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Shari's Cafe and Pies",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/san-bruno/Sharis Small.jpeg"
     },
     {
       "id": "ChIJHTTUpXd3j4ARDOsbDLtHK5w",
@@ -4316,7 +4364,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Societea Tea House & Eatery",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-bruno/Societea Small.jpeg"
     },
     {
       "id": "ChIJEc1aj-55j4ARzLBWVHNR7zw",
@@ -4331,7 +4380,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Spiral Flame",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-bruno/Spiral Flame Small.jpeg"
     },
     {
       "id": "ChIJiUhTONd5j4ARA70fwDme5Xw",
@@ -4346,7 +4396,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Sushi House",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Sushi House Small.jpeg"
     },
     {
       "id": "ChIJsam02qV5j4AREGSgIKJam-Q",
@@ -4406,7 +4457,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria Leon",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-bruno/Taqueria Leon Small.jpeg"
     },
     {
       "id": "ChIJw0Ur_Xx3j4ARPLFEgpW6ajk",
@@ -4421,7 +4473,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria Mi Durango",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-bruno/Taqueria Mi Durango Small.jpeg"
     },
     {
       "id": "ChIJGU_GRs95j4ARI0FIdZE2cd4",
@@ -4436,7 +4489,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria San Bruno",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-bruno/Taqueria San Bruno Small.jpeg"
     },
     {
       "id": "ChIJPVf2vtd5j4ARv2z3Mo0c0Z8",
@@ -4451,7 +4505,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Thai Nakorn Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-bruno/thai Nakorn Small.jpeg"
     },
     {
       "id": "ChIJT6V6JjF5j4ARch_xwXRjaJY",
@@ -4466,7 +4521,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "THE BOYS' DELI",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-bruno/The Boys Deli Small.jpeg"
     },
     {
       "id": "ChIJJwIivrl3j4ARKgAhhW6FwEg",
@@ -4481,7 +4537,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Toto's Pizzeria & Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-bruno/Totos Small.jpeg"
     },
     {
       "id": "ChIJQZDSqyN5j4ARTrI_F0rlEXo",
@@ -4496,7 +4553,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Viet Time",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/san-bruno/Viet Time Small.jpeg"
     },
     {
       "id": "ChIJMenZvdd5j4ARxiX2cvf06PA",
@@ -4511,7 +4569,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "West Coast Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-bruno/West Coast Cafe Small.jpeg"
     },
     {
       "id": "ChIJqw1_WwB5j4ARD9uDZLsEajw",
@@ -4526,7 +4585,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Zorek",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/san-bruno/Zorek Small.jpeg"
     }
   ],
   "Millbrae, CA": [
