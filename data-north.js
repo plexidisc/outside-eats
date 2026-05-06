@@ -4789,34 +4789,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJLVUSzbZ3j4ARrC3UY13Chy0",
-      "formattedAddress": "1601 El Camino Real, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.6126139,
-        "longitude": -122.4041156
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3280804559925292460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Café Raízes",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(650) 636-4441",
-      "hours": {
-        "Monday": "9:15 AM - 5:00 PM",
-        "Tuesday": "9:15 AM - 5:00 PM",
-        "Wednesday": "9:15 AM - 5:00 PM",
-        "Thursday": "9:15 AM - 5:00 PM",
-        "Friday": "9:15 AM - 5:00 PM",
-        "Saturday": "9:30 AM - 5:00 PM",
-        "Sunday": "Closed"
-      },
-      "description": "Hidden gem specializing in authentic Brazilian acai bowls, flaky pastries, and expertly crafted coffee with warm, welcoming service.",
-      "menuUrl": "https://cafe-raizes.res-menu.net/menu",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJ1ePQOZ53j4ARGIF36F6apds",
       "formattedAddress": "1320 El Camino Real, Millbrae, CA 94030, USA",
       "location": {
