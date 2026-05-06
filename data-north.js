@@ -3500,21 +3500,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJK2KnPJ13j4ARhBefGS3iA-c",
-      "formattedAddress": "115 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6156995,
-        "longitude": -122.40719399999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16646397331022747524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Antojitos Mexicanos Jovanni Taco Truck",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
       "id": "ChIJq6o6t9B5j4AR6TP_wmWeBI0",
       "formattedAddress": "637 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
