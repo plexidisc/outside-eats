@@ -4759,21 +4759,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJI1uCi-p3j4ARX8CqrWuJFXc",
-      "formattedAddress": "1135 El Camino Real, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.607009999999995,
-        "longitude": -122.3987746
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8580915760592502879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "displayName": {
-        "text": "Domino's Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
       "id": "ChIJB5-Xq7R3j4AR3rJM-vaG_Qc",
       "formattedAddress": "1625 El Camino Real, Millbrae, CA 94030, USA",
       "location": {
