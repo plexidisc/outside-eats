@@ -4556,7 +4556,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Self grill premium meats and seafoods tableside at this Asian barbecue and skewer spot.",
       "menuUrl": "https://pos.chowbus.com/online-ordering/store/AI-Grill/21922",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/AI Grill Small.jpeg"
     },
     {
       "id": "ChIJ89fqcqR3j4ARbj01ESfcjLE",
@@ -4585,7 +4586,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Locally owned cafe serving housemade bagels, croissants, sandwiches, and coffee for over 20 years in downtown Millbrae.",
       "menuUrl": "http://www.bagelstreetmillbrae.com/menu",
       "priceRange": "$",
-      "photoUrl": "images/restaurant-photos/millbrae/Bagel Street Cafe.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Bagel Street Cafe Small.jpeg"
     },
     {
       "id": "ChIJWysRe9R3j4ARO4Nc3Plajfk",
@@ -4614,7 +4615,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Fresh nigiri and sashimi with chef specialty rolls crafted for authentic Japanese flavors at modest prices.",
       "menuUrl": "https://www.bashamichisushibar.com/9ipsx0j4/bashamichi-sushi-and-bar-millbrae-94030/menu",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Bashamichi.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Bashamichi Small.jpeg"
     },
     {
       "id": "ChIJP2jsTKV3j4ARwBSvFeTCKto",
@@ -4643,7 +4644,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Family owned Vietnamese restaurant serving authentic comfort cuisine rooted in Southern Vietnam culinary traditions.",
       "menuUrl": "http://bentrerestaurant.com/menu%2F-catering",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Ben Tre.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Ben Tre Small.jpeg"
     },
     {
       "id": "ChIJa1ZqPBN3j4ARpBFRZSWM5K8",
@@ -4697,7 +4698,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Greek American brothers serve elevated comfort food with scratch made pancakes, epic Benedicts, and fresh quality ingredients.",
       "menuUrl": "https://brotherscafes.com/menu",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Brothers Cafe.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Brothers Cafe Small.jpeg"
     },
     {
       "id": "ChIJ5Q0_L1d3j4ARbrCtCYpOet0",
@@ -4782,7 +4783,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Authentic Chinese and Korean dishes with fresh vegetables, hand pulled noodles, and flavorful specialties like Mongolian beef.",
       "menuUrl": "http://www.chefwangmillbrae.net/menu",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Chef Wangs.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Chef Wangs Small.jpeg"
     },
     {
       "id": "ChIJB5-Xq7R3j4AR3rJM-vaG_Qc",
@@ -4811,7 +4812,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Authentic Chinese restaurant serving juicy steamed dumplings, soup dumplings, and chewy hand pulled noodles with fresh ingredients.",
       "menuUrl": "https://www.dumplingdelightca.com/",
       "priceRange": "$",
-      "photoUrl": "images/restaurant-photos/millbrae/Dumpling Delight.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Dumpling Delight Small.jpeg"
     },
     {
       "id": "ChIJKYuLwaN3j4ARHu4I6G6zhCk",
@@ -4840,7 +4841,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Serving authentic Mexican food since 1977 with huge portions, fresh ingredients, and famous California Burritos.",
       "menuUrl": "https://elsuperburrito.com/menu",
       "priceRange": "$",
-      "photoUrl": "images/restaurant-photos/millbrae/El Super Burrito.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/El Super Burrito Small.jpeg"
     },
     {
       "id": "ChIJ90wn36R3j4ARq21qK00f2ak",
@@ -4869,7 +4870,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Family run for over three decades offering authentic Irish hospitality and traditional fare. Known for hearty Irish breakfasts and homemade bread.",
       "menuUrl": "https://www.fiddlersgreenmillbrae.com/menu",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Fiddlers Green.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Fiddlers Green Small.jpeg"
     },
     {
       "id": "ChIJvVwBhup3j4ARMcOzTW1rx0A",
@@ -4923,7 +4924,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Authentic Hong Kong style Chinese with generous portions, reasonable prices, and family run friendly service.",
       "menuUrl": "https://www.yelp.com/biz/gourmet-village-millbrae",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Gourmet Village.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Gourmet Village Small.jpeg"
     },
     {
       "id": "ChIJaSezlFp3j4ARh5_WbLWYbtw",
@@ -4939,7 +4940,7 @@ var PREBAKED_DATA_NORTH = {
         "languageCode": "ko"
       },
       "cuisine": "Korean",
-      "photoUrl": "images/restaurant-photos/millbrae/Han Sang.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Han Sang Small.jpeg"
     },
     {
       "id": "ChIJBdZvzhZ3j4AR-I22f4CpLOY",
@@ -4968,7 +4969,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Traditional Japanese Kaiseki showcasing seasonal ingredients with Chef Koji trained at renowned Kitcho in Tokyo.",
       "menuUrl": "http://www.hana-izumi.com/menus",
       "priceRange": "$$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Hana Izumi.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Hana Izumi Small.jpeg"
     },
     {
       "id": "ChIJyRgOxqF3j4AR3ZCxGbc-fAs",
@@ -4997,7 +4998,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Authentic Hubei cuisine from Wuhan brings unique regional flavors and traditional dishes to the Bay Area.",
       "menuUrl": "https://www.hubeirestaurantca.com/order",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Hubei Restaurant.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Hubei Restaurant Small.jpeg"
     },
     {
       "id": "ChIJDdqQZ7B3j4AR62oV92RfUQQ",
@@ -5026,7 +5027,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Authentic Malaysian cuisine featuring beloved dishes like crispy Roti Canai and flavorful Char Koay Teow.",
       "menuUrl": "https://www.ipohgarden.com/menu",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/jinweide Lanzhou Hand Pulled Noodles.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Ipoh Garden Small.jpeg"
     },
     {
       "id": "ChIJkR8_GqV3j4ARqzbNTqZ8-GE",
@@ -5053,7 +5054,8 @@ var PREBAKED_DATA_NORTH = {
         "Sunday": "10:00 AM - 9:00 PM"
       },
       "description": "Chain with 30 years history serving traditional hand pulled beef noodles and homemade dumplings.",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/jinweide Lanzhou Hand Pulled Noodles Small.jpeg"
     },
     {
       "id": "ChIJXUaxArd3j4ARvI3Vs_T5qiQ",
@@ -5107,7 +5109,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Family run since 1996 serving Northern Italian cuisine with exquisite seafood, pasta, veal, and organic salads.",
       "menuUrl": "http://lacollinarestaurant.com/menu",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/La Collina.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/La Collina Small.jpeg"
     },
     {
       "id": "ChIJG3SAdLB3j4ARb-C_eM9Ab3Q",
@@ -5136,7 +5138,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Family run since the 1990s, famous for Imperial Rolls, BBQ specialties, and generous portions of homestyle Vietnamese comfort food.",
       "menuUrl": "https://www.doordash.com/en/store/la-petite-camille-millbrae-905073/",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/La Petite Camille.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/La Petite Camille Small.jpeg"
     },
     {
       "id": "ChIJHyesG6V3j4ARAfN5R3i30qM",
@@ -5165,7 +5167,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Millbrae's oldest Chinese restaurant since 1983, known for MSG free Mandarin cuisine and award winning walnut prawns.",
       "menuUrl": "https://www.lailaimillbraeca.com/order",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Lai Lai Restaurant.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Lai Lai Restaurant Small.jpeg"
     },
     {
       "id": "ChIJS1_qAf93j4ARCziZkBhdz7I",
@@ -5194,7 +5196,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Authentic malatang spot with customizable noodle bowls and Hong Kong breakfast specialties like congee and fresh buns.",
       "menuUrl": "http://lakaspicy.com/",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Laka.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Laka Small.jpeg"
     },
     {
       "id": "ChIJcebJcaR3j4ARd7u80cFS7nE",
@@ -5223,7 +5225,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Italian deli with fresh roasted coffee, full espresso bar, and fresh squeezed orange juice daily.",
       "menuUrl": "https://leonardosdeli.wordpress.com/menu/",
       "priceRange": "$",
-      "photoUrl": "images/restaurant-photos/millbrae/Leonardos.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Leonardos Small.jpeg"
     },
     {
       "id": "ChIJh1U9agV3j4ARAkRAEiCCLJ0",
@@ -5239,7 +5241,7 @@ var PREBAKED_DATA_NORTH = {
         "languageCode": "en"
       },
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/millbrae/Little Chengdu.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Little Chengdu Small.jpeg"
     },
     {
       "id": "ChIJGaeu46N3j4ARokOIXgPSBKM",
@@ -5296,7 +5298,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Family owned since 1959, famous for scratch made pancakes and waffles using finest quality ingredients.",
       "menuUrl": "https://www.millbraepancake.com/our-menus",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/Millbrae Pancake House.JPG"
+      "photoUrl": "images/restaurant-photos/millbrae/Millbrae Pancake House Small.jpeg"
     },
     {
       "id": "ChIJfSy9CLB3j4ARBd_JZx1MDiA",
@@ -5324,7 +5326,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Family recipes passed down generations feature homemade tofu and Korean dishes, bringing comfort and love to every bowl.",
       "menuUrl": "https://millbrae.momstofu.com/?page_id=1143",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Moms Tofu House Small.jpeg"
     },
     {
       "id": "ChIJwaTLcDB3j4AR-O_qxWorHYI",
@@ -5352,7 +5355,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic fusion of Nepali, Indian, and Indo Chinese cuisine featuring freshly made momos with Himalayan spices.",
       "menuUrl": "https://momocurrynepal.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Momo & Curry Nepal Small.jpeg"
     },
     {
       "id": "ChIJhbFpOB13j4ARtYd2wak4IdM",
@@ -5436,7 +5440,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic Cantonese specialties including wonton noodle soup, braised pork, and traditional slow cooked soups with classic double skin milk dessert.",
       "menuUrl": "https://nomnombistro.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Nom Nom Bistro Small.jpeg"
     },
     {
       "id": "ChIJP63mLeF3j4AR6NU9tCK9Rn8",
@@ -5492,7 +5497,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "A nostalgic tribute featuring original 1954 fixtures and romantic melodies with hearty Italian food worth traveling for.",
       "menuUrl": "http://www.osolemiorestaurant.com/menu?menu=menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/O Sole Mio Small.jpeg"
     },
     {
       "id": "ChIJX-NTZnd3j4ARw6KWgZm4PYs",
@@ -5520,7 +5526,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Fresh sushi and customizable udon at amazing value, with iPad ordering for a modern dining experience.",
       "menuUrl": "https://www.allmenus.com/ca/millbrae/714361-one-piece-sushi/menu/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/One Piece Small.jpeg"
     },
     {
       "id": "ChIJRcrP_KR3j4AR37634J0ugyg",
@@ -5548,7 +5555,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Family butcher shop famous for premium dry aged beef and expert staff who help with custom cuts.",
       "menuUrl": "https://towne.io/product/cheddar-burger-1212715/store/pape-meat-151",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Pape Meat Co Small.jpeg"
     },
     {
       "id": "ChIJ_-22_KN3j4AR8MbpX3-TlCY",
@@ -5576,7 +5584,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Handcrafted cakes, freshly baked pastries and breads, and expertly brewed Lavazza coffee.",
       "menuUrl": "https://parisbaguette.com/menu/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/millbrae/Paris Baguette Small.jpeg"
     },
     {
       "id": "ChIJv99iV7B3j4ARs1IkDQeDf1w",
@@ -5604,7 +5613,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Classic American diner known for homemade sausage and Swedish pancakes with generous portions.",
       "menuUrl": "https://peterscafe.shop/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Peters Cafe Small.jpeg"
     },
     {
       "id": "ChIJr-lSxa13j4AR1y499hE-hXE",
@@ -5632,7 +5642,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Traditional Chiu Chow clay pot porridge paired with live seafood from their tank.",
       "menuUrl": "https://www.doordash.com/store/porridge-&-things-millbrae-887061/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Porridge & Things Small.jpeg"
     },
     {
       "id": "ChIJ1QcxIKp3j4AR2x7QKhu10D4",
@@ -5657,7 +5668,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Fresh Dungeness crab prepared in bold Vietnamese styles, served with their famous buttery garlic noodles.",
       "menuUrl": "https://ppqcrab.com/menu/",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/millbrae/PPQ Dungeness Island Small.jpeg"
     },
     {
       "id": "ChIJHdgpcrB3j4AR-WAS9AW4s9k",
@@ -5685,7 +5697,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Award winning chef serves authentic Sichuan cuisine featuring Peking Duck and fresh high quality ingredients.",
       "menuUrl": "http://royalfeastus.com/p3/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Royal Feast Small.jpeg"
     },
     {
       "id": "ChIJA9WtXqR3j4ARyhJbaIDVYhY",
@@ -5713,7 +5726,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Historic steakhouse featuring in house dry aged beef and famous rack of lamb with live music every weekend.",
       "menuUrl": "https://www.sixteenmilehouse.com/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Sixteen Mile House Small.jpeg"
     },
     {
       "id": "ChIJ5ZFVk0N3j4AROcgMpHna2_Q",
@@ -5741,7 +5755,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Award winning pizza by 13 time world champion featuring diverse styles from New York to Detroit and Sicilian pies.",
       "menuUrl": "https://slicehouse.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Slice House Small.jpeg"
     },
     {
       "id": "ChIJ_1_NKtt3j4ARIXhSB9Fuqbc",
@@ -5797,7 +5812,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Enjoy fresh handmade noodles, savory clay pot rice bowls, and signature boba tea all under one roof.",
       "menuUrl": "https://order.toasttab.com/online/social-eatery",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Social Eatery Small.jpeg"
     },
     {
       "id": "ChIJwzg088x3j4ARuoHu8EDrz7U",
@@ -5850,7 +5866,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Specializes in Hainan chicken rice with flavorful broth, noodle soups, and Chiu Chow small plates.",
       "menuUrl": "https://www.specialhainanchickenmillbrae.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Special Hainan Chicken Small.jpeg"
     },
     {
       "id": "ChIJmReAz793j4ARpgLxybdmiGA",
@@ -5906,7 +5923,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Contemporary Indian cuisine with traditional spices meets full bar experience featuring creative cocktails and cozy, elegant atmosphere.",
       "menuUrl": "https://sugandhonline.com/menu/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Sugandh Small.jpeg"
     },
     {
       "id": "ChIJwWkODtJ3j4ARuNZROGAoy4Y",
@@ -5934,7 +5952,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic sushi crafted by Chef Ryo Kikuchi from Hokkaido, emphasizing quality over quantity since 1993.",
       "menuUrl": "https://407sushikei.wixsite.com/sushikei/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Sushi Kei Small.jpeg"
     },
     {
       "id": "ChIJuZElPqV3j4AR5nFBrwGxYuU",
@@ -5962,7 +5981,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Handmade dessert destination offering traditional Chinese treats, gelato, crepes, savory snacks, and specialty twenty layer mille crepes cakes.",
       "menuUrl": "https://www.sweetindulgence.net/menu",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/millbrae/Sweet Indulgence Small.jpeg"
     },
     {
       "id": "ChIJWZqs6Lh3j4AREDe6iLEciUw",
@@ -5990,7 +6010,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Cantonese dim sum parlor serving handmade dumplings and signature BBQ meats with generous portions and reasonable prices.",
       "menuUrl": "https://www.doordash.com/store/the-kitchen-bbq-express-millbrae-24917296/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/The Kitchen Express Small.jpeg"
     },
     {
       "id": "ChIJM8Nmh153j4ARpgUGCBOS8_8",
@@ -6018,7 +6039,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic Cantonese cuisine featuring fresh dim sum daily and live seafood.",
       "menuUrl": "https://www.021designstudio.com/_files/ugd/1cd3dc_36875d132dd9490ab40dcc1aa6a17385.pdf",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Won Kok Small.jpeg"
     },
     {
       "id": "ChIJ24-lQKV3j4ARzs9SiAZKuFs",
@@ -6046,7 +6068,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Michelin rated Hunan spot featuring hand rolled noodles and smoked pork made in house using traditional methods.",
       "menuUrl": "https://www.beyondmenu.com/43048/millbrae/wonderful-millbrae-94030.aspx",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Wonderful Small.jpeg"
     },
     {
       "id": "ChIJMxXQDMh3j4ARmttEc_4v558",
@@ -6101,7 +6124,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Michelin recommended restaurant featuring Chef Hu's award winning Eggplant Dragon and handmade Szechuan noodles.",
       "menuUrl": "https://www.yummysichuan.com/menu-yummysichuan/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Yummy Sichuan Small.jpeg"
     },
     {
       "id": "ChIJDYSuQXZ3j4ARS8vJwcCWzWY",
@@ -6129,7 +6153,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Award winning pizza since 1979 featuring Italian, Greek, and Mediterranean favorites made with fresh premium ingredients.",
       "menuUrl": "https://www.zorbaspizza.com/?page_id=335",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/millbrae/Zorbas Small.jpeg"
     }
   ]
 };
