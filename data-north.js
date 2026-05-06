@@ -4927,7 +4927,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic Chinese and Japanese barbecue with tender skewers, charcoal grilled oysters, and rich unforgettable flavors.",
       "menuUrl": "https://www.beyondmenu.com/61254/millbrae/flame-bbq-%E7%82%99%E7%83%AD%E7%83%A7%E7%83%A4-millbrae-94030.aspx",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Flame BBQ Small.jpeg"
     },
     {
       "id": "ChIJBfESXaR3j4AR8hgZ8QGs0sY",
