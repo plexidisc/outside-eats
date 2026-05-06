@@ -3719,21 +3719,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJCZ0vXtB5j4ARrCpehSDjm7g",
-      "formattedAddress": "600 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6266047,
-        "longitude": -122.41102419999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13302475653184891564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://grandleaderdeli.com/",
-      "displayName": {
-        "text": "Grand Leader Market & Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJlS1epNd5j4ARNN9oeWKizAs",
       "formattedAddress": "482 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
