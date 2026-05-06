@@ -3607,7 +3607,7 @@ var PREBAKED_DATA_NORTH = {
     {
       "id": "ChIJmwWV_Sd5j4ARoBHX0M9h3uk",
       "displayName": {
-        "text": "CAJUN BOWL",
+        "text": "Cajun Bowl",
         "languageCode": "en"
       },
       "formattedAddress": "1230 El Camino Real d, San Bruno, CA 94066, USA",
