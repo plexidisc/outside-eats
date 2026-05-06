@@ -3824,21 +3824,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJc92B7tl5j4ARtvD6JYZPMKM",
-      "formattedAddress": "590 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6253214,
-        "longitude": -122.41391469999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11758986064645779638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.ihop.com/en-us/ca/san-bruno/breakfast-590-el-camino-real-625?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=625&utm_content=website",
-      "displayName": {
-        "text": "IHOP",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
       "id": "ChIJTRKGFgB5j4AREUOpohdC2h8",
       "formattedAddress": "582 San Bruno Ave W, San Bruno, CA 94066, USA",
       "location": {
