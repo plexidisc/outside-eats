@@ -3693,17 +3693,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJ91_9D313j4AReztf0PoZSHo",
-      "formattedAddress": "354 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.620464399999996,
-        "longitude": -122.4104795
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8811321235978795899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dumplingerasanbruno.com/",
       "displayName": {
-        "text": "Dumpling Era 思乡水饺",
+        "text": "Dumpling Era",
         "languageCode": "en"
       },
+      "formattedAddress": "354 El Camino Real, San Bruno, CA 94066, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8811321235978795899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dumplingerasanbruno.com/",
+      "location": {},
       "cuisine": "Chinese"
     },
     {
