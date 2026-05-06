@@ -4688,17 +4688,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJa1ZqPBN3j4ARpBFRZSWM5K8",
-      "formattedAddress": "979 Broadway Unit 106, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.6046994,
-        "longitude": -122.39725949999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12674409343568908708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://binkabites.com/",
       "displayName": {
-        "text": "Binka Bites Bakery Cafe - Millbrae",
+        "text": "Binka Bites Bakery Cafe",
         "languageCode": "en"
       },
+      "formattedAddress": "979 Broadway Unit 106, Millbrae, CA 94030, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12674409343568908708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://binkabites.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery"
     },
     {
