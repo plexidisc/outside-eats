@@ -5219,17 +5219,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJ1QcxIKp3j4AR2x7QKhu10D4",
-      "formattedAddress": "195 El Camino Real, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.6001249,
-        "longitude": -122.3898467
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4526316753794375387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://ppqcrab.com/home/",
       "displayName": {
-        "text": "PPQ Dungeness Island - Millbrae",
+        "text": "PPQ Dungeness Island",
         "languageCode": "en"
       },
+      "formattedAddress": "195 El Camino Real, Millbrae, CA 94030, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4526316753794375387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://ppqcrab.com/home/",
+      "location": {},
       "cuisine": "Seafood"
     },
     {
