@@ -5302,7 +5302,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic Mediterranean restaurant serving 100% organic halal kebabs and gyros with vegan and gluten free options.",
       "menuUrl": "http://www.millbraekebabsgyros.com/menus",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Millbrae Kebabs & Gyros Small.jpeg"
     },
     {
       "id": "ChIJ8Xp2y593j4ARMv-y1yYldJg",
