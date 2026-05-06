@@ -5158,21 +5158,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJKZdaHbd3j4AR0s1qjwZqSMQ",
-      "formattedAddress": "320 Adrian Rd, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.600589,
-        "longitude": -122.38184899999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14143671206165532114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.panerabread.com/en-us/cafe/locations/ca/millbrae/320-adrian-road?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=204473&utm_content=main",
-      "displayName": {
-        "text": "Panera Bread",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJRcrP_KR3j4AR37634J0ugyg",
       "formattedAddress": "25 Hillcrest Blvd, Millbrae, CA 94030, USA",
       "location": {
