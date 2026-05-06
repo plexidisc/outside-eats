@@ -4907,17 +4907,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJXUaxArd3j4ARvI3Vs_T5qiQ",
-      "formattedAddress": "340 Adrian Rd, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.6004524,
-        "longitude": -122.3818817
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2642198960790670780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://hawaiianbarbecue.com/",
       "displayName": {
-        "text": "L & L Hawaiian Barbecue - Millbrae",
+        "text": "L & L Hawaiian Barbecue",
         "languageCode": "en"
       },
+      "formattedAddress": "340 Adrian Rd, Millbrae, CA 94030, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2642198960790670780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hawaiianbarbecue.com/",
+      "location": {},
       "cuisine": "BBQ"
     },
     {
