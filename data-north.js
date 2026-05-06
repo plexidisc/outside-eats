@@ -5446,7 +5446,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic Northeastern Chinese cuisine featuring generous portions and signature dishes like sweet and sour pork.",
       "menuUrl": "https://www.beyondmenu.com/58340/millbrae/new-china-foods--millbrae--millbrae-94030.aspx",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/New China Foods Millbrae Small.jpeg"
     },
     {
       "id": "ChIJW9e-pZV3j4ARhSHqmE5cVk4",
