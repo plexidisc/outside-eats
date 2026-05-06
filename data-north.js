@@ -3545,21 +3545,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Korean"
     },
     {
-      "id": "ChIJpwqqo9d5j4ARrY1IGcOzg5M",
-      "formattedAddress": "480 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.623971999999995,
-        "longitude": -122.41102199999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10629537196048682413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Besan's Market & Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
       "id": "ChIJ3Sx3n9d5j4ARge96CQpF2mw",
       "formattedAddress": "487 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
