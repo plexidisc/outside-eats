@@ -3425,124 +3425,19 @@ var PREBAKED_DATA_NORTH = {
   ],
   "San Bruno, CA": [
     {
-      "id": "ChIJeXxDpLR5j4ARpE0srYmlpDQ",
-      "formattedAddress": "741 San Mateo Ave, San Bruno, CA 94066, USA",
+      "id": "ChIJiV9eh6V5j4ARTSAnmhnGvQw",
+      "formattedAddress": "677 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.6292769,
-        "longitude": -122.41157469999999
+        "latitude": 37.6279511,
+        "longitude": -122.4114418
       },
-      "googleMapsUri": "https://maps.google.com/?cid=3793338796887264676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.jcbrunorestaurant.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=918107712316186701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.aonekitchenbar.com/",
       "displayName": {
-        "text": "JC Bruno Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Peruvian"
-    },
-    {
-      "id": "ChIJMenZvdd5j4ARxiX2cvf06PA",
-      "formattedAddress": "466 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.62348250000001,
-        "longitude": -122.4110061
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17359394107322410438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.westcoastcaferestaurant.com/",
-      "displayName": {
-        "text": "West Coast Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJJwIivrl3j4ARKgAhhW6FwEg",
-      "formattedAddress": "1690 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.613833,
-        "longitude": -122.40449140000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5242336675985686570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.totos.com/",
-      "displayName": {
-        "text": "Toto's Pizzeria & Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJsbg4Jfp3j4AROG11ZWHgmXc",
-      "formattedAddress": "1590 El Camino Real Suite H, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.612734499999995,
-        "longitude": -122.4030566
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8618166070868798776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.hapabistro.com/",
-      "displayName": {
-        "text": "Hapa Bistro",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
-      "id": "ChIJq6o6t9B5j4AR6TP_wmWeBI0",
-      "formattedAddress": "637 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.627208599999996,
-        "longitude": -122.41144329999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10161420819155071977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://atlaspizzaparlor.com/",
-      "displayName": {
-        "text": "Atlas Pizza Parlor",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJAU6Tiz15j4ARHfwKIoodbyI",
-      "formattedAddress": "851 Cherry Ave Suite 2, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.626763,
-        "longitude": -122.42534479999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2481234398818270237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://localkitchens.com/order/local-kitchens-san-bruno-851-cherry-avenue?diningOption=takeout",
-      "displayName": {
-        "text": "Local Kitchens",
+        "text": "A One Kitchen & Bar",
         "languageCode": "en"
       },
       "cuisine": "Other"
-    },
-    {
-      "id": "ChIJS4znd8R5j4ARy2N4H4STAk8",
-      "formattedAddress": "730 Kains Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6272053,
-        "longitude": -122.4163872
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5693275074622677963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://seniorespizza.com/san-bruno",
-      "displayName": {
-        "text": "Seniore's Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJk-_h1T95j4ARX5kuSsDc_IY",
-      "formattedAddress": "851 Cherry Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6257252,
-        "longitude": -122.42639159999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9726892013649828191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://ichikaizakaya.com/",
-      "displayName": {
-        "text": "Ichika Izakaya",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
     },
     {
       "id": "ChIJ5xCMk9B5j4ARWzAnCFHRnpI",
@@ -3575,36 +3470,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJN1MBCgR3j4AR3ly-BYuCtzM",
-      "formattedAddress": "312 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6201856,
-        "longitude": -122.41020300000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3726590750280801502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://amamisushibistrosb.com/",
-      "displayName": {
-        "text": "Amami Sushi Bistro",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJk7Cgmb95j4ARLgQRsr2ljuY",
-      "formattedAddress": "1230 El Camino Real B, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6396034,
-        "longitude": -122.4207175
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16613398309571200046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.mijourisushibune1230b.com/",
-      "displayName": {
-        "text": "Mijouri SushiBune",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
       "id": "ChIJfb6Q7Xl3j4ARK5NmNAkx3YI",
       "formattedAddress": "1789 El Camino Real, San Bruno, CA 94066, USA",
       "location": {
@@ -3620,109 +3485,199 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJiUhTONd5j4ARA70fwDme5Xw",
-      "formattedAddress": "576 San Mateo Ave, San Bruno, CA 94066, USA",
+      "id": "ChIJN1MBCgR3j4AR3ly-BYuCtzM",
+      "formattedAddress": "312 El Camino Real, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.626085599999996,
-        "longitude": -122.41102000000001
+        "latitude": 37.6201856,
+        "longitude": -122.41020300000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=8999773401243434243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sushihouseus.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=3726590750280801502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://amamisushibistrosb.com/",
       "displayName": {
-        "text": "Sushi House",
+        "text": "Amami Sushi Bistro",
         "languageCode": "en"
       },
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJEc1aj-55j4ARzLBWVHNR7zw",
-      "formattedAddress": "705 Camino Plaza, San Bruno, CA 94066, USA",
+      "id": "ChIJK2KnPJ13j4ARhBefGS3iA-c",
+      "formattedAddress": "115 El Camino Real, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.6273213,
-        "longitude": -122.41648610000001
+        "latitude": 37.6156995,
+        "longitude": -122.40719399999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=4390817717487579340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=16646397331022747524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Spiral Flame",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJ9ZtGBX13j4ARVq4R51GyLd0",
-      "formattedAddress": "352 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.620416999999996,
-        "longitude": -122.41044000000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15937590721172844118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://ichibansushifood.com/",
-      "displayName": {
-        "text": "Ichiban Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJTeFlRTN5j4ARNVL3fsrvUHg",
-      "formattedAddress": "446 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6228316,
-        "longitude": -122.4111046
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8669692935680774709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.toasttab.com/local/order/societea-teahouse-eatery",
-      "displayName": {
-        "text": "Societea Tea House & Eatery",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJdy5Iclt5j4ARijdDqguy6lY",
-      "formattedAddress": "504 San Bruno Ave W, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6295602,
-        "longitude": -122.41554859999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6263013994983012234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://mazra.com/",
-      "displayName": {
-        "text": "Mazra",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern"
-    },
-    {
-      "id": "ChIJw0Ur_Xx3j4ARPLFEgpW6ajk",
-      "formattedAddress": "287 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6196406,
-        "longitude": -122.41061139999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4137324358991655228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.taqueriamidurango.com/",
-      "displayName": {
-        "text": "Taqueria Mi Durango",
+        "text": "Antojitos Mexicanos Jovanni Taco Truck",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJGU_GRs95j4ARI0FIdZE2cd4",
-      "formattedAddress": "1045 San Mateo Ave, San Bruno, CA 94066, USA",
+      "id": "ChIJq6o6t9B5j4AR6TP_wmWeBI0",
+      "formattedAddress": "637 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.635352499999996,
-        "longitude": -122.41160889999999
+        "latitude": 37.627208599999996,
+        "longitude": -122.41144329999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16028652547154133283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://taqueriasanbruno.net/",
+      "googleMapsUri": "https://maps.google.com/?cid=10161420819155071977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://atlaspizzaparlor.com/",
       "displayName": {
-        "text": "Taqueria San Bruno",
+        "text": "Atlas Pizza Parlor",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJTc_G1ed5j4ARMEXc2A7Mb7A",
+      "formattedAddress": "851 Cherry Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6266937,
+        "longitude": -122.4266279
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12713604637230122288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Bayhill Vietnamese Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJYyokdQB5j4ARyUdWYdILpoA",
+      "formattedAddress": "851 Cherry Ave #16, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6266509,
+        "longitude": -122.42692759999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9270109881192826825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://bbqchicken.com/",
+      "displayName": {
+        "text": "bb.q Chicken San Bruno",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJpwqqo9d5j4ARrY1IGcOzg5M",
+      "formattedAddress": "480 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.623971999999995,
+        "longitude": -122.41102199999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10629537196048682413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Besan's Market & Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJ3Sx3n9d5j4ARge96CQpF2mw",
+      "formattedAddress": "487 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.624166699999996,
+        "longitude": -122.41138889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7843657610430181249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/BigJoesSanBruno/",
+      "displayName": {
+        "text": "Big Joe's 8",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ7cdd3ed5j4ARBh2S679hUbE",
+      "formattedAddress": "851 Cherry Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.626545199999995,
+        "longitude": -122.4271178
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12777101094745677062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://orderbigmouthburgers.com/",
+      "displayName": {
+        "text": "Big Mouth Burgers",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJlz4HudB5j4ART4ei0MlPARM",
+      "formattedAddress": "649 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.627415,
+        "longitude": -122.411559
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1369463489904674639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://boilingbeijingtogo.com/",
+      "displayName": {
+        "text": "Boiling Beijing",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJU5UlR6MNkIARXc0GxivD9gg",
+      "formattedAddress": "675 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6271431,
+        "longitude": -122.4158768
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=645918189347589469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Braz Burger San Bruno",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJmwWV_Sd5j4ARoBHX0M9h3uk",
+      "formattedAddress": "1230 El Camino Real d, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6396009,
+        "longitude": -122.42074269999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16852014400856854944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cajunbowlcalifornia.com/",
+      "displayName": {
+        "text": "CAJUN BOWL SAN BRUNO",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood"
+    },
+    {
+      "id": "ChIJPwBagHl3j4ARD8_PoyaX5BI",
+      "formattedAddress": "110 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6160881,
+        "longitude": -122.4067688
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1361379179585589007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.toasttab.com/camino-corner",
+      "displayName": {
+        "text": "Camino Corner Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJHzQBGrh5j4ARcoK5YW8mxGs",
+      "formattedAddress": "El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.63045770000001,
+        "longitude": -122.41785480000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7765373917316350578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.casitaveganasf.com/",
+      "displayName": {
+        "text": "Casita Vegana",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan"
     },
     {
       "id": "ChIJ3VlsiHt3j4ARHAEVlInU764",
@@ -3740,6 +3695,291 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican"
     },
     {
+      "id": "ChIJJcSDXXx3j4ARRef7L0P3GpY",
+      "formattedAddress": "260 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6189575,
+        "longitude": -122.4094086
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10816229323023574853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Diamond Head General Store",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJx0kc13t3j4ARcqwDllx9ijg",
+      "formattedAddress": "130 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6165796,
+        "longitude": -122.40730459999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4074206649517321330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Dog House",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ91_9D313j4AReztf0PoZSHo",
+      "formattedAddress": "354 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.620464399999996,
+        "longitude": -122.4104795
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8811321235978795899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dumplingerasanbruno.com/",
+      "displayName": {
+        "text": "Dumpling Era 思乡水饺",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJoer5tcJ5j4ARktraHJnZr9w",
+      "formattedAddress": "611 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.626637099999996,
+        "longitude": -122.41531810000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15902168060905839250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://elranchitoca.com/",
+      "displayName": {
+        "text": "El ranchito",
+        "languageCode": "es"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJCZ0vXtB5j4ARrCpehSDjm7g",
+      "formattedAddress": "600 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6266047,
+        "longitude": -122.41102419999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13302475653184891564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://grandleaderdeli.com/",
+      "displayName": {
+        "text": "Grand Leader Market & Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJlS1epNd5j4ARNN9oeWKizAs",
+      "formattedAddress": "482 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6240425,
+        "longitude": -122.41112520000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=850232973493591860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hanahawaiianbarbeque.com/",
+      "displayName": {
+        "text": "Hana Hawaiian Barbeque",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ2SwHgON5j4ARmjxkgeozmV0",
+      "formattedAddress": "1199 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6363686,
+        "longitude": -122.42145049999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6744478999250222234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hangryplanet.com/",
+      "displayName": {
+        "text": "Hangry Planet",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan"
+    },
+    {
+      "id": "ChIJsbg4Jfp3j4AROG11ZWHgmXc",
+      "formattedAddress": "1590 El Camino Real Suite H, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.612734499999995,
+        "longitude": -122.4030566
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8618166070868798776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hapabistro.com/",
+      "displayName": {
+        "text": "Hapa Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "French"
+    },
+    {
+      "id": "ChIJCa0k7ed5j4ARKtXmth5UXlM",
+      "formattedAddress": "811 Cherry Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.626169,
+        "longitude": -122.4249146
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6007331443853153578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hashesandbrews.com/",
+      "displayName": {
+        "text": "Hashes & Brews",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJTWs1Ynx3j4ARfMZQCsN4uVQ",
+      "formattedAddress": "223 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6184407,
+        "longitude": -122.4096575
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6105043548964439676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Hip Hop Bbq Shack",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ"
+    },
+    {
+      "id": "ChIJ9ZtGBX13j4ARVq4R51GyLd0",
+      "formattedAddress": "352 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.620416999999996,
+        "longitude": -122.41044000000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15937590721172844118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://ichibansushifood.com/",
+      "displayName": {
+        "text": "Ichiban Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJk-_h1T95j4ARX5kuSsDc_IY",
+      "formattedAddress": "851 Cherry Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6257252,
+        "longitude": -122.42639159999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9726892013649828191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://ichikaizakaya.com/",
+      "displayName": {
+        "text": "Ichika Izakaya",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJc92B7tl5j4ARtvD6JYZPMKM",
+      "formattedAddress": "590 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6253214,
+        "longitude": -122.41391469999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11758986064645779638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restaurants.ihop.com/en-us/ca/san-bruno/breakfast-590-el-camino-real-625?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=625&utm_content=website",
+      "displayName": {
+        "text": "IHOP",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJTRKGFgB5j4AREUOpohdC2h8",
+      "formattedAddress": "582 San Bruno Ave W, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6292915,
+        "longitude": -122.4158213
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2295219629379371793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://indaandmely.com/",
+      "displayName": {
+        "text": "Inda+Mely",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJbbid39d5j4ARZTEEUB1B_DY",
+      "formattedAddress": "448 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6229349,
+        "longitude": -122.4110275
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3962113366331502949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.myislarestaurant.com/",
+      "displayName": {
+        "text": "Isla Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJm3_qZcF5j4ARD5nR8hXMQZU",
+      "formattedAddress": "1050 Admiral Ct A, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6340108,
+        "longitude": -122.4202351
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10755101779777657103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ilovejacks.com/",
+      "displayName": {
+        "text": "Jack's Restaurant & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJeXxDpLR5j4ARpE0srYmlpDQ",
+      "formattedAddress": "741 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6292769,
+        "longitude": -122.41157469999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3793338796887264676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.jcbrunorestaurant.com/",
+      "displayName": {
+        "text": "JC Bruno Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Peruvian"
+    },
+    {
+      "id": "ChIJDZlztdB5j4ARGJbJufIicZI",
+      "formattedAddress": "617 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6267985,
+        "longitude": -122.4114418
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10552253827800208920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kgrilltofuhouse.com/",
+      "displayName": {
+        "text": "K-Grill & Tofu House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJmVuuuNd5j4ARcDkHCq3dCME",
+      "formattedAddress": "460 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.623303899999996,
+        "longitude": -122.410819
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13909611184401103216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Kuya's Asian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
       "id": "ChIJDeTMktB5j4ARUweaXXQ1BNE",
       "formattedAddress": "699 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
@@ -3755,19 +3995,64 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJhc20a9d5j4ARKjYbT03LmiA",
-      "formattedAddress": "551 San Mateo Ave, San Bruno, CA 94066, USA",
+      "id": "ChIJxdOp0q55j4ARqSqM6hE-V7A",
+      "formattedAddress": "480 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.625301,
-        "longitude": -122.4115828
+        "latitude": 37.623970299999996,
+        "longitude": -122.41096399999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=2349413688527238698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.taquerialeon.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=12706693120319564457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "Taqueria Leon",
+        "text": "LAFFA Mediterranean restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJl08u0Np5j4ARYtEq0k4fMvo",
+      "formattedAddress": "422 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6220619,
+        "longitude": -122.41103290000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18028506681711448418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.littlevietnamesebistro.com/",
+      "displayName": {
+        "text": "Little Vietnamese Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJAU6Tiz15j4ARHfwKIoodbyI",
+      "formattedAddress": "851 Cherry Ave Suite 2, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.626763,
+        "longitude": -122.42534479999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2481234398818270237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://localkitchens.com/order/local-kitchens-san-bruno-851-cherry-avenue?diningOption=takeout",
+      "displayName": {
+        "text": "Local Kitchens",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJU10PnoV5j4ARTLRLH7cdjms",
+      "formattedAddress": "629 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.626972599999995,
+        "longitude": -122.41143190000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7750164681092478028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lotusfalafel.com/",
+      "displayName": {
+        "text": "Lotus Falafel and Shawerma - San Bruno",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern"
     },
     {
       "id": "ChIJB0gdNdd5j4ARJRQSc6CBfuY",
@@ -3785,16 +4070,376 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJK2KnPJ13j4ARhBefGS3iA-c",
-      "formattedAddress": "115 El Camino Real, San Bruno, CA 94066, USA",
+      "id": "ChIJc2OQNNd5j4ARLFA88ciy0i0",
+      "formattedAddress": "602 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.6156995,
-        "longitude": -122.40719399999999
+        "latitude": 37.626712399999995,
+        "longitude": -122.4110249
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16646397331022747524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=3301898052926459948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Antojitos Mexicanos Jovanni Taco Truck",
+        "text": "Mariscos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJY9Ze3Ht3j4ARV51_F-eCLwg",
+      "formattedAddress": "160 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.616977299999995,
+        "longitude": -122.40745969999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=589834005252119895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mariscos El Pariente",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJdy5Iclt5j4ARijdDqguy6lY",
+      "formattedAddress": "504 San Bruno Ave W, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6295602,
+        "longitude": -122.41554859999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6263013994983012234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mazra.com/",
+      "displayName": {
+        "text": "Mazra",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern"
+    },
+    {
+      "id": "ChIJU7Ij6nl3j4ARFOK6wkrSz8A",
+      "formattedAddress": "1776 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6150758,
+        "longitude": -122.40578540000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13893554593997709844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mid East Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJk7Cgmb95j4ARLgQRsr2ljuY",
+      "formattedAddress": "1230 El Camino Real B, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6396034,
+        "longitude": -122.4207175
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16613398309571200046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mijourisushibune1230b.com/",
+      "displayName": {
+        "text": "Mijouri SushiBune",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJWedTA6B5j4ARyg7aJRyGSNQ",
+      "formattedAddress": "449 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.622852,
+        "longitude": -122.41148
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15296623589816143562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Minari",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJXWiEi7F5j4ARr4_DzMbCMAM",
+      "formattedAddress": "851 Cherry Ave #6, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6266722,
+        "longitude": -122.42553090000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=229897740090576815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://naanpointeat.com/",
+      "displayName": {
+        "text": "Naan Point",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJVZkPLdJ5j4ARdhLT1ZfiEsY",
+      "formattedAddress": "700 San Bruno Ave E, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6307484,
+        "longitude": -122.40654330000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14272719310845842038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://nypizzanow.com/",
+      "displayName": {
+        "text": "New York Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJ4YgGVAB5j4ARPG88T3UzOOU",
+      "formattedAddress": "799 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6282744,
+        "longitude": -122.4166548
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16517008212314844988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "NIM-ET DÖNER",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish"
+    },
+    {
+      "id": "ChIJTcCoP8B5j4ARJkg113dpHZs",
+      "formattedAddress": "486 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6241242,
+        "longitude": -122.4110935
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11177205813636057126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.1lovecafe.com/",
+      "displayName": {
+        "text": "One Love Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJixazyr53j4ARbVN7UqRLK4U",
+      "formattedAddress": "310 Poplar Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6196785,
+        "longitude": -122.41207329999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9595846600173507437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Pahk Soi Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJGRqiwnl3j4ARZ734ZpDYGLo",
+      "formattedAddress": "1770 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.614891,
+        "longitude": -122.4055023
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13409706005210119527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.patiofilipino.com/",
+      "displayName": {
+        "text": "Patio Filipino",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJOTAT0Xt3j4AR58LccpU_1ww",
+      "formattedAddress": "135 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6162844,
+        "longitude": -122.4077432
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=925278159557673703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.wehaveseafood.com/",
+      "displayName": {
+        "text": "Peninsula Seafood Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJrwS1aQR5j4ARCnZVGVuFYGM",
+      "formattedAddress": "586-A San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.626157299999996,
+        "longitude": -122.41104370000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7160870033832637962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.phodenguyen.com/",
+      "displayName": {
+        "text": "Pho de Nguyen",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJIe8-DL95j4AR2G1Lh1YXcZk",
+      "formattedAddress": "1230 El Camino Real suite c, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6395708,
+        "longitude": -122.42078509999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11056644220575772120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Poke One",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJB5Xmlr95j4ARSHNIkt0dGsw",
+      "formattedAddress": "1210 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.638751,
+        "longitude": -122.42193599999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14707100370610975560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.redlobster.com/seafood-restaurants/locations/ca/san-bruno/1210-el-camino-real",
+      "displayName": {
+        "text": "Red Lobster",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood"
+    },
+    {
+      "id": "ChIJ7Q2o39d5j4AREF-w4yM3VM4",
+      "formattedAddress": "424 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.622126099999996,
+        "longitude": -122.41094539999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14867568897140219664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.romadelimenu.com/",
+      "displayName": {
+        "text": "Roma Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ-Sg1uMt5j4ARYQlYRiDAVp0",
+      "formattedAddress": "851 Cherry Ave #15, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.626587,
+        "longitude": -122.42684170000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11337460356803463521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sajjstreeteats.com/",
+      "displayName": {
+        "text": "SAJJ Mediterranean",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJS4znd8R5j4ARy2N4H4STAk8",
+      "formattedAddress": "730 Kains Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6272053,
+        "longitude": -122.4163872
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5693275074622677963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://seniorespizza.com/san-bruno",
+      "displayName": {
+        "text": "Seniore's Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJK655YPJ5j4ARioApqA3yJQI",
+      "formattedAddress": "2010 Rollingwood Dr, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6307718,
+        "longitude": -122.4367996
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=154795902683938954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sharis.com/cafe-locations/san-bruno",
+      "displayName": {
+        "text": "Shari's Cafe and Pies",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJHTTUpXd3j4ARDOsbDLtHK5w",
+      "formattedAddress": "1610 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.613173599999996,
+        "longitude": -122.40387519999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11253166962602928908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.skkoreanbbq.com/",
+      "displayName": {
+        "text": "SK Seoul Kalbi Korean BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJTeFlRTN5j4ARNVL3fsrvUHg",
+      "formattedAddress": "446 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6228316,
+        "longitude": -122.4111046
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8669692935680774709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.toasttab.com/local/order/societea-teahouse-eatery",
+      "displayName": {
+        "text": "Societea Tea House & Eatery",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJEc1aj-55j4ARzLBWVHNR7zw",
+      "formattedAddress": "705 Camino Plaza, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.6273213,
+        "longitude": -122.41648610000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4390817717487579340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Spiral Flame",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJiUhTONd5j4ARA70fwDme5Xw",
+      "formattedAddress": "576 San Mateo Ave, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.626085599999996,
+        "longitude": -122.41102000000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8999773401243434243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sushihouseus.com/",
+      "displayName": {
+        "text": "Sushi House",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJsam02qV5j4AREGSgIKJam-Q",
+      "formattedAddress": "529 El Camino Real, San Bruno, CA 94066, USA",
+      "location": {
+        "latitude": 37.623348,
+        "longitude": -122.41341919999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16472859714416305168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tacos Guadalajara",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -3830,94 +4475,49 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJY9Ze3Ht3j4ARV51_F-eCLwg",
-      "formattedAddress": "160 El Camino Real, San Bruno, CA 94066, USA",
+      "id": "ChIJhc20a9d5j4ARKjYbT03LmiA",
+      "formattedAddress": "551 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.616977299999995,
-        "longitude": -122.40745969999998
+        "latitude": 37.625301,
+        "longitude": -122.4115828
       },
-      "googleMapsUri": "https://maps.google.com/?cid=589834005252119895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
+      "googleMapsUri": "https://maps.google.com/?cid=2349413688527238698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taquerialeon.com/",
       "displayName": {
-        "text": "Mariscos El Pariente",
+        "text": "Taqueria Leon",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJsam02qV5j4AREGSgIKJam-Q",
-      "formattedAddress": "529 El Camino Real, San Bruno, CA 94066, USA",
+      "id": "ChIJw0Ur_Xx3j4ARPLFEgpW6ajk",
+      "formattedAddress": "287 El Camino Real, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.623348,
-        "longitude": -122.41341919999999
+        "latitude": 37.6196406,
+        "longitude": -122.41061139999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16472859714416305168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
+      "googleMapsUri": "https://maps.google.com/?cid=4137324358991655228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taqueriamidurango.com/",
       "displayName": {
-        "text": "Tacos Guadalajara",
+        "text": "Taqueria Mi Durango",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJc2OQNNd5j4ARLFA88ciy0i0",
-      "formattedAddress": "602 San Mateo Ave, San Bruno, CA 94066, USA",
+      "id": "ChIJGU_GRs95j4ARI0FIdZE2cd4",
+      "formattedAddress": "1045 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.626712399999995,
-        "longitude": -122.4110249
+        "latitude": 37.635352499999996,
+        "longitude": -122.41160889999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=3301898052926459948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
+      "googleMapsUri": "https://maps.google.com/?cid=16028652547154133283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://taqueriasanbruno.net/",
       "displayName": {
-        "text": "Mariscos",
+        "text": "Taqueria San Bruno",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJiV9eh6V5j4ARTSAnmhnGvQw",
-      "formattedAddress": "677 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6279511,
-        "longitude": -122.4114418
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=918107712316186701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.aonekitchenbar.com/",
-      "displayName": {
-        "text": "A One Kitchen & Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJlz4HudB5j4ART4ei0MlPARM",
-      "formattedAddress": "649 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.627415,
-        "longitude": -122.411559
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1369463489904674639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://boilingbeijingtogo.com/",
-      "displayName": {
-        "text": "Boiling Beijing",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJ91_9D313j4AReztf0PoZSHo",
-      "formattedAddress": "354 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.620464399999996,
-        "longitude": -122.4104795
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8811321235978795899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dumplingerasanbruno.com/",
-      "displayName": {
-        "text": "Dumpling Era 思乡水饺",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
     },
     {
       "id": "ChIJPVf2vtd5j4ARv2z3Mo0c0Z8",
@@ -3935,364 +4535,34 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Thai"
     },
     {
-      "id": "ChIJixazyr53j4ARbVN7UqRLK4U",
-      "formattedAddress": "310 Poplar Ave, San Bruno, CA 94066, USA",
+      "id": "ChIJT6V6JjF5j4ARch_xwXRjaJY",
+      "formattedAddress": "428 San Bruno Ave W, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.6196785,
-        "longitude": -122.41207329999999
+        "latitude": 37.6297476,
+        "longitude": -122.41474939999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=9595846600173507437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
+      "googleMapsUri": "https://maps.google.com/?cid=10838021856388259698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://theboysdeli.com/",
       "displayName": {
-        "text": "Pahk Soi Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJXWiEi7F5j4ARr4_DzMbCMAM",
-      "formattedAddress": "851 Cherry Ave #6, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6266722,
-        "longitude": -122.42553090000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=229897740090576815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://naanpointeat.com/",
-      "displayName": {
-        "text": "Naan Point",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJTRKGFgB5j4AREUOpohdC2h8",
-      "formattedAddress": "582 San Bruno Ave W, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6292915,
-        "longitude": -122.4158213
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2295219629379371793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://indaandmely.com/",
-      "displayName": {
-        "text": "Inda+Mely",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJm3_qZcF5j4ARD5nR8hXMQZU",
-      "formattedAddress": "1050 Admiral Ct A, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6340108,
-        "longitude": -122.4202351
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10755101779777657103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ilovejacks.com/",
-      "displayName": {
-        "text": "Jack's Restaurant & Bar",
+        "text": "THE BOYS' DELI",
         "languageCode": "en"
       },
       "cuisine": "American"
     },
     {
-      "id": "ChIJCa0k7ed5j4ARKtXmth5UXlM",
-      "formattedAddress": "811 Cherry Ave, San Bruno, CA 94066, USA",
+      "id": "ChIJJwIivrl3j4ARKgAhhW6FwEg",
+      "formattedAddress": "1690 El Camino Real, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.626169,
-        "longitude": -122.4249146
+        "latitude": 37.613833,
+        "longitude": -122.40449140000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=6007331443853153578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hashesandbrews.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=5242336675985686570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.totos.com/",
       "displayName": {
-        "text": "Hashes & Brews",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJTWs1Ynx3j4ARfMZQCsN4uVQ",
-      "formattedAddress": "223 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6184407,
-        "longitude": -122.4096575
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6105043548964439676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Hip Hop Bbq Shack",
-        "languageCode": "en"
-      },
-      "cuisine": "BBQ"
-    },
-    {
-      "id": "ChIJmwWV_Sd5j4ARoBHX0M9h3uk",
-      "formattedAddress": "1230 El Camino Real d, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6396009,
-        "longitude": -122.42074269999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16852014400856854944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cajunbowlcalifornia.com/",
-      "displayName": {
-        "text": "CAJUN BOWL SAN BRUNO",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
-    },
-    {
-      "id": "ChIJK655YPJ5j4ARioApqA3yJQI",
-      "formattedAddress": "2010 Rollingwood Dr, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6307718,
-        "longitude": -122.4367996
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=154795902683938954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sharis.com/cafe-locations/san-bruno",
-      "displayName": {
-        "text": "Shari's Cafe and Pies",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJU5UlR6MNkIARXc0GxivD9gg",
-      "formattedAddress": "675 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6271431,
-        "longitude": -122.4158768
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=645918189347589469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Braz Burger San Bruno",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJ7cdd3ed5j4ARBh2S679hUbE",
-      "formattedAddress": "851 Cherry Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.626545199999995,
-        "longitude": -122.4271178
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12777101094745677062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://orderbigmouthburgers.com/",
-      "displayName": {
-        "text": "Big Mouth Burgers",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJGRqiwnl3j4ARZ734ZpDYGLo",
-      "formattedAddress": "1770 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.614891,
-        "longitude": -122.4055023
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13409706005210119527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.patiofilipino.com/",
-      "displayName": {
-        "text": "Patio Filipino",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJB5Xmlr95j4ARSHNIkt0dGsw",
-      "formattedAddress": "1210 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.638751,
-        "longitude": -122.42193599999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14707100370610975560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.redlobster.com/seafood-restaurants/locations/ca/san-bruno/1210-el-camino-real",
-      "displayName": {
-        "text": "Red Lobster",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
-    },
-    {
-      "id": "ChIJOTAT0Xt3j4AR58LccpU_1ww",
-      "formattedAddress": "135 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6162844,
-        "longitude": -122.4077432
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=925278159557673703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.wehaveseafood.com/",
-      "displayName": {
-        "text": "Peninsula Seafood Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJWedTA6B5j4ARyg7aJRyGSNQ",
-      "formattedAddress": "449 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.622852,
-        "longitude": -122.41148
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15296623589816143562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Minari",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJOTAT0Xt3j4ARyUM5TE5nKSQ",
-      "formattedAddress": "135 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6163088,
-        "longitude": -122.40778739999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2605727445394473929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://wehaveseafood.com/",
-      "displayName": {
-        "text": "All Shores Seafood Brokerage",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJbbid39d5j4ARZTEEUB1B_DY",
-      "formattedAddress": "448 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6229349,
-        "longitude": -122.4110275
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3962113366331502949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.myislarestaurant.com/",
-      "displayName": {
-        "text": "Isla Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJVZkPLdJ5j4ARdhLT1ZfiEsY",
-      "formattedAddress": "700 San Bruno Ave E, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6307484,
-        "longitude": -122.40654330000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14272719310845842038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://nypizzanow.com/",
-      "displayName": {
-        "text": "New York Pizza",
+        "text": "Toto's Pizzeria & Restaurant",
         "languageCode": "en"
       },
       "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJTcCoP8B5j4ARJkg113dpHZs",
-      "formattedAddress": "486 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6241242,
-        "longitude": -122.4110935
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11177205813636057126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.1lovecafe.com/",
-      "displayName": {
-        "text": "One Love Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJxdOp0q55j4ARqSqM6hE-V7A",
-      "formattedAddress": "480 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.623970299999996,
-        "longitude": -122.41096399999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12706693120319564457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "LAFFA Mediterranean restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJU10PnoV5j4ARTLRLH7cdjms",
-      "formattedAddress": "629 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.626972599999995,
-        "longitude": -122.41143190000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7750164681092478028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.lotusfalafel.com/",
-      "displayName": {
-        "text": "Lotus Falafel and Shawerma - San Bruno",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern"
-    },
-    {
-      "id": "ChIJ4YgGVAB5j4ARPG88T3UzOOU",
-      "formattedAddress": "799 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6282744,
-        "longitude": -122.4166548
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16517008212314844988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "NIM-ET DÖNER",
-        "languageCode": "en"
-      },
-      "cuisine": "Turkish"
-    },
-    {
-      "id": "ChIJ-Sg1uMt5j4ARYQlYRiDAVp0",
-      "formattedAddress": "851 Cherry Ave #15, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.626587,
-        "longitude": -122.42684170000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11337460356803463521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://sajjstreeteats.com/",
-      "displayName": {
-        "text": "SAJJ Mediterranean",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJl08u0Np5j4ARYtEq0k4fMvo",
-      "formattedAddress": "422 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6220619,
-        "longitude": -122.41103290000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18028506681711448418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.littlevietnamesebistro.com/",
-      "displayName": {
-        "text": "Little Vietnamese Bistro",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJrwS1aQR5j4ARCnZVGVuFYGM",
-      "formattedAddress": "586-A San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.626157299999996,
-        "longitude": -122.41104370000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7160870033832637962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.phodenguyen.com/",
-      "displayName": {
-        "text": "Pho de Nguyen",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
     },
     {
       "id": "ChIJQZDSqyN5j4ARTrI_F0rlEXo",
@@ -4310,274 +4580,19 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Vietnamese"
     },
     {
-      "id": "ChIJTc_G1ed5j4ARMEXc2A7Mb7A",
-      "formattedAddress": "851 Cherry Ave, San Bruno, CA 94066, USA",
+      "id": "ChIJMenZvdd5j4ARxiX2cvf06PA",
+      "formattedAddress": "466 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
-        "latitude": 37.6266937,
-        "longitude": -122.4266279
+        "latitude": 37.62348250000001,
+        "longitude": -122.4110061
       },
-      "googleMapsUri": "https://maps.google.com/?cid=12713604637230122288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
+      "googleMapsUri": "https://maps.google.com/?cid=17359394107322410438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.westcoastcaferestaurant.com/",
       "displayName": {
-        "text": "Bayhill Vietnamese Bistro",
+        "text": "West Coast Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJDZlztdB5j4ARGJbJufIicZI",
-      "formattedAddress": "617 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6267985,
-        "longitude": -122.4114418
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10552253827800208920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://kgrilltofuhouse.com/",
-      "displayName": {
-        "text": "K-Grill & Tofu House",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJHTTUpXd3j4ARDOsbDLtHK5w",
-      "formattedAddress": "1610 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.613173599999996,
-        "longitude": -122.40387519999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11253166962602928908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.skkoreanbbq.com/",
-      "displayName": {
-        "text": "SK Seoul Kalbi Korean BBQ",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJYyokdQB5j4ARyUdWYdILpoA",
-      "formattedAddress": "851 Cherry Ave #16, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6266509,
-        "longitude": -122.42692759999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9270109881192826825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://bbqchicken.com/",
-      "displayName": {
-        "text": "bb.q Chicken San Bruno",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJPwBagHl3j4ARD8_PoyaX5BI",
-      "formattedAddress": "110 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6160881,
-        "longitude": -122.4067688
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1361379179585589007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.toasttab.com/camino-corner",
-      "displayName": {
-        "text": "Camino Corner Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJHzQBGrh5j4ARcoK5YW8mxGs",
-      "formattedAddress": "El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.63045770000001,
-        "longitude": -122.41785480000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7765373917316350578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.casitaveganasf.com/",
-      "displayName": {
-        "text": "Casita Vegana",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan"
-    },
-    {
-      "id": "ChIJx0kc13t3j4ARcqwDllx9ijg",
-      "formattedAddress": "130 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6165796,
-        "longitude": -122.40730459999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4074206649517321330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Dog House",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ3Sx3n9d5j4ARge96CQpF2mw",
-      "formattedAddress": "487 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.624166699999996,
-        "longitude": -122.41138889999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7843657610430181249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.facebook.com/BigJoesSanBruno/",
-      "displayName": {
-        "text": "Big Joe's 8",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJc92B7tl5j4ARtvD6JYZPMKM",
-      "formattedAddress": "590 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6253214,
-        "longitude": -122.41391469999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11758986064645779638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.ihop.com/en-us/ca/san-bruno/breakfast-590-el-camino-real-625?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=625&utm_content=website",
-      "displayName": {
-        "text": "IHOP",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJU7Ij6nl3j4ARFOK6wkrSz8A",
-      "formattedAddress": "1776 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6150758,
-        "longitude": -122.40578540000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13893554593997709844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Mid East Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJlS1epNd5j4ARNN9oeWKizAs",
-      "formattedAddress": "482 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6240425,
-        "longitude": -122.41112520000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=850232973493591860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hanahawaiianbarbeque.com/",
-      "displayName": {
-        "text": "Hana Hawaiian Barbeque",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJJcSDXXx3j4ARRef7L0P3GpY",
-      "formattedAddress": "260 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6189575,
-        "longitude": -122.4094086
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10816229323023574853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Diamond Head General Store",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJIe8-DL95j4AR2G1Lh1YXcZk",
-      "formattedAddress": "1230 El Camino Real suite c, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6395708,
-        "longitude": -122.42078509999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11056644220575772120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Poke One",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJmVuuuNd5j4ARcDkHCq3dCME",
-      "formattedAddress": "460 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.623303899999996,
-        "longitude": -122.410819
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13909611184401103216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Kuya's Asian Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJpwqqo9d5j4ARrY1IGcOzg5M",
-      "formattedAddress": "480 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.623971999999995,
-        "longitude": -122.41102199999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10629537196048682413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Besan's Market & Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJT6V6JjF5j4ARch_xwXRjaJY",
-      "formattedAddress": "428 San Bruno Ave W, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6297476,
-        "longitude": -122.41474939999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10838021856388259698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://theboysdeli.com/",
-      "displayName": {
-        "text": "THE BOYS' DELI",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJCZ0vXtB5j4ARrCpehSDjm7g",
-      "formattedAddress": "600 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6266047,
-        "longitude": -122.41102419999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13302475653184891564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://grandleaderdeli.com/",
-      "displayName": {
-        "text": "Grand Leader Market & Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ7Q2o39d5j4AREF-w4yM3VM4",
-      "formattedAddress": "424 San Mateo Ave, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.622126099999996,
-        "longitude": -122.41094539999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14867568897140219664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.romadelimenu.com/",
-      "displayName": {
-        "text": "Roma Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
+      "cuisine": "Italian"
     },
     {
       "id": "ChIJqw1_WwB5j4ARD9uDZLsEajw",
@@ -4593,36 +4608,6 @@ var PREBAKED_DATA_NORTH = {
         "languageCode": "en"
       },
       "cuisine": "Middle Eastern"
-    },
-    {
-      "id": "ChIJ2SwHgON5j4ARmjxkgeozmV0",
-      "formattedAddress": "1199 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6363686,
-        "longitude": -122.42145049999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6744478999250222234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hangryplanet.com/",
-      "displayName": {
-        "text": "Hangry Planet",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan"
-    },
-    {
-      "id": "ChIJoer5tcJ5j4ARktraHJnZr9w",
-      "formattedAddress": "611 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.626637099999996,
-        "longitude": -122.41531810000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15902168060905839250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://elranchitoca.com/",
-      "displayName": {
-        "text": "El ranchito",
-        "languageCode": "es"
-      },
-      "cuisine": "Mexican"
     }
   ],
   "Millbrae, CA": [
