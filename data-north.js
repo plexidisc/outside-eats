@@ -4556,8 +4556,7 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Self grill premium meats and seafoods tableside at this Asian barbecue and skewer spot.",
       "menuUrl": "https://pos.chowbus.com/online-ordering/store/AI-Grill/21922",
-      "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/millbrae/AI Grill.JPG"
+      "priceRange": "$$"
     },
     {
       "id": "ChIJ89fqcqR3j4ARbj01ESfcjLE",
