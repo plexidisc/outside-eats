@@ -4642,21 +4642,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJweik4qR3j4ARKZ2j1V4vPbQ",
-      "formattedAddress": "25 Hillcrest Blvd, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.601591299999995,
-        "longitude": -122.3921597
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12987588984764079401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.bacchusws.com/",
-      "displayName": {
-        "text": "Bacchus W&S and WINE BAR by Quinton Jay",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar"
-    },
-    {
       "id": "ChIJ89fqcqR3j4ARbj01ESfcjLE",
       "formattedAddress": "537 Broadway, Millbrae, CA 94030, USA",
       "location": {
