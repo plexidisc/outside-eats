@@ -4759,21 +4759,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJuZZKiNV3j4ARRLu9xsV5swg",
-      "formattedAddress": "106 N Rollins Rd, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.600868299999995,
-        "longitude": -122.384675
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=626978663484472132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.chick-fil-a.com/locations/ca/millbrae-station-in-line?utm_source=google&utm_medium=gmb",
-      "displayName": {
-        "text": "Chick-fil-A",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJI1uCi-p3j4ARX8CqrWuJFXc",
       "formattedAddress": "1135 El Camino Real, Millbrae, CA 94030, USA",
       "location": {
