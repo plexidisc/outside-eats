@@ -5321,17 +5321,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJO78F46R3j4ARy1DzvCbFVxE",
-      "formattedAddress": "9 Hillcrest Blvd, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.601771299999996,
-        "longitude": -122.3920655
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1249684191788093643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.specialhainanchickenmillbrae.com/",
       "displayName": {
-        "text": "Special Hainan Chicken (Millbrae)",
+        "text": "Special Hainan Chicken",
         "languageCode": "en"
       },
+      "formattedAddress": "9 Hillcrest Blvd, Millbrae, CA 94030, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1249684191788093643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.specialhainanchickenmillbrae.com/",
+      "location": {},
       "cuisine": "Chinese"
     },
     {
