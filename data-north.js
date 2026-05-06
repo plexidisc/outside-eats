@@ -4184,21 +4184,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Filipino"
     },
     {
-      "id": "ChIJOTAT0Xt3j4AR58LccpU_1ww",
-      "formattedAddress": "135 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6162844,
-        "longitude": -122.4077432
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=925278159557673703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.wehaveseafood.com/",
-      "displayName": {
-        "text": "Peninsula Seafood Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJrwS1aQR5j4ARCnZVGVuFYGM",
       "formattedAddress": "586-A San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
