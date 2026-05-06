@@ -3606,17 +3606,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJmwWV_Sd5j4ARoBHX0M9h3uk",
-      "formattedAddress": "1230 El Camino Real d, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6396009,
-        "longitude": -122.42074269999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16852014400856854944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cajunbowlcalifornia.com/",
       "displayName": {
-        "text": "CAJUN BOWL SAN BRUNO",
+        "text": "CAJUN BOWL",
         "languageCode": "en"
       },
+      "formattedAddress": "1230 El Camino Real d, San Bruno, CA 94066, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16852014400856854944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cajunbowlcalifornia.com/",
+      "location": {},
       "cuisine": "Seafood"
     },
     {
