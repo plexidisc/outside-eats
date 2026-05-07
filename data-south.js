@@ -1861,21 +1861,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJEab6hT-jj4ARLpgWd7VJp3Y",
-      "formattedAddress": "895 Woodside Rd, Redwood City, CA 94061, USA",
-      "location": {
-        "latitude": 37.4645971,
-        "longitude": -122.224278
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8549883461322053678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Ta’ Con Madre Taqueria Estilo Mazatlan",
-        "languageCode": "es"
-      },
-      "cuisine": "Mexican"
-    },
-    {
       "id": "ChIJ1V0-86ujj4ARKP1O3gOikF8",
       "formattedAddress": "1243 Middlefield Rd, Redwood City, CA 94063, USA",
       "location": {
