@@ -4610,33 +4610,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJ4YgGVAB5j4ARPG88T3UzOOU",
-      "formattedAddress": "799 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6282744,
-        "longitude": -122.4166548
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16517008212314844988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "NIM-ET DÖNER",
-        "languageCode": "en"
-      },
-      "cuisine": "Turkish",
-      "phone": "(415) 613-6918",
-      "hours": {
-        "Monday": "3:00 PM - 12:00 AM",
-        "Tuesday": "Closed",
-        "Wednesday": "3:00 PM - 12:00 AM",
-        "Thursday": "3:00 PM - 12:00 AM",
-        "Friday": "3:00 PM - 12:00 AM",
-        "Saturday": "3:00 PM - 12:00 AM",
-        "Sunday": "3:00 PM - 12:00 AM"
-      },
-      "description": "Authentic Turkish doner with perfectly seasoned meat, fresh bread, and generous portions that rival what you'd find in Turkey.",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJTcCoP8B5j4ARJkg113dpHZs",
       "formattedAddress": "486 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
