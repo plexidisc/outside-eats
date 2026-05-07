@@ -4951,7 +4951,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Real mesquite charcoal grilling since 1991 with American Wagyu and local ranch to table ingredients.",
       "menuUrl": "http://www.skkoreanbbq.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-bruno/SK Seoul Kalbi Korean BBQ Small.jpeg"
     },
     {
       "id": "ChIJTeFlRTN5j4ARNVL3fsrvUHg",
