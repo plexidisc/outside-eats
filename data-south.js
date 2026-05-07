@@ -533,17 +533,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJAagpj1Sij4ARfPW_0Ic-iSY",
-      "formattedAddress": "400 Walnut St, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4904943,
-        "longitude": -122.22503839999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2776819398294369660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eriksdelicafe.com/",
       "displayName": {
-        "text": "Erik's DeliCafe of Redwood City",
+        "text": "Erik's DeliCafe",
         "languageCode": "en"
       },
+      "formattedAddress": "400 Walnut St, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2776819398294369660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eriksdelicafe.com/",
+      "location": {},
       "cuisine": "American"
     },
     {
