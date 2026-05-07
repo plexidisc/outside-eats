@@ -1309,21 +1309,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Pizza"
     },
     {
-      "id": "ChIJr2NdfgCjj4AREe9K7DWv6Bw",
-      "formattedAddress": "2034 Broadway, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.486731000000006,
-        "longitude": -122.22695350000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2083107473791315729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.nickthegreek.com/",
-      "displayName": {
-        "text": "Nick The Greek",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
       "id": "ChIJeRwPW0iij4ARspmjcHcAmoQ",
       "formattedAddress": "408 El Camino Real, Redwood City, CA 94062, USA",
       "location": {
