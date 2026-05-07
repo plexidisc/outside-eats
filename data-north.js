@@ -3494,7 +3494,8 @@ var PREBAKED_DATA_NORTH = {
         "Sunday": "Closed"
       },
       "description": "Local favorite serving fresh sushi and generous bento boxes at surprisingly affordable prices with friendly service.",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-bruno/Akagi Restaurant Small.jpeg"
     },
     {
       "id": "ChIJfb6Q7Xl3j4ARK5NmNAkx3YI",
