@@ -590,17 +590,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJiSG4TKaYj4ARLeRoG2_zEd4",
-      "formattedAddress": "256 Redwood Shores Pkwy, Redwood City, CA 94065, USA",
-      "location": {
-        "latitude": 37.522512,
-        "longitude": -122.2516483
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16001838609550861357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://falafeltazah.com/",
       "displayName": {
-        "text": "Falafel Tazah Redwood City",
+        "text": "Falafel Tazah",
         "languageCode": "en"
       },
+      "formattedAddress": "256 Redwood Shores Pkwy, Redwood City, CA 94065, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16001838609550861357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://falafeltazah.com/",
+      "location": {},
       "cuisine": "Middle Eastern"
     },
     {
