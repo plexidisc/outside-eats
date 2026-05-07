@@ -389,17 +389,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ-esTlrKjj4ARHb6ps9Zsx5E",
-      "formattedAddress": "701 Chesapeake Dr, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.5008615,
-        "longitude": -122.21524470000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10504484325258018333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.crustsourdough.com/",
       "displayName": {
-        "text": "CRUST Sourdough Deli (Redwood City)",
+        "text": "CRUST Sourdough Deli",
         "languageCode": "en"
       },
+      "formattedAddress": "701 Chesapeake Dr, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10504484325258018333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.crustsourdough.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery"
     },
     {
