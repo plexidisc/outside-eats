@@ -4259,7 +4259,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "LAFFA Mediterranean restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-bruno/LAFFA Mediterranean restaurant Small.jpeg"
     },
     {
       "id": "ChIJl08u0Np5j4ARYtEq0k4fMvo",
