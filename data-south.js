@@ -1,21 +1,6 @@
 var PREBAKED_DATA_SOUTH = {
   "Redwood City, CA": [
     {
-      "id": "ChIJT88EM0yij4ARijiCHh33D28",
-      "formattedAddress": "840 Brewster Ave, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4888459,
-        "longitude": -122.23432349999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8002886767298623626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.840winebar.com/",
-      "displayName": {
-        "text": "840 Wine Bar & Cocktail Lounge",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar"
-    },
-    {
       "id": "ChIJP-i6Iaujj4ARZANvuhslxqQ",
       "formattedAddress": "1784 Broadway, Redwood City, CA 94063, USA",
       "location": {
