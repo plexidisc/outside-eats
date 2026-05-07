@@ -1088,17 +1088,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJjVWYnXmjj4ARR3i_L0kG1-U",
-      "formattedAddress": "885 Middlefield Rd space j, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4854023,
-        "longitude": -122.2288281
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16561713066081744967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.limonrestaurants.com/",
       "displayName": {
-        "text": "Limón Redwood City",
+        "text": "Limón",
         "languageCode": "en"
       },
+      "formattedAddress": "885 Middlefield Rd space j, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16561713066081744967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.limonrestaurants.com/",
+      "location": {},
       "cuisine": "Peruvian"
     },
     {
