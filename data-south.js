@@ -401,17 +401,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJg-AAogKjj4AR79FomnvHMn4",
-      "formattedAddress": "900 Middlefield Rd Ste A, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.485385199999996,
-        "longitude": -122.22986219999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9093549931299918319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://currypizzahouse.com/locations/redwood-city/",
       "displayName": {
-        "text": "Curry Pizza House Redwood City",
+        "text": "Curry Pizza House",
         "languageCode": "en"
       },
+      "formattedAddress": "900 Middlefield Rd Ste A, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9093549931299918319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://currypizzahouse.com/locations/redwood-city/",
+      "location": {},
       "cuisine": "Fusion"
     },
     {
