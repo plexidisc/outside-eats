@@ -5015,34 +5015,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJv_LrXsB5j4ARU9mW9fiUdz4",
-      "formattedAddress": "1199 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6363686,
-        "longitude": -122.42145049999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4501230149573204307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://taqueriaangelicas.com/",
-      "displayName": {
-        "text": "Taqueria Angelica's",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "phone": "(650) 834-3695",
-      "hours": {
-        "Monday": "10:00 AM - 10:00 PM",
-        "Tuesday": "10:00 AM - 10:00 PM",
-        "Wednesday": "10:00 AM - 10:00 PM",
-        "Thursday": "10:00 AM - 10:00 PM",
-        "Friday": "10:00 AM - 10:00 PM",
-        "Saturday": "10:00 AM - 10:00 PM",
-        "Sunday": "10:00 AM - 10:00 PM"
-      },
-      "description": "Serving authentic Bay Area tacos from a taco truck since 2000 with flavorful street tacos and vegetarian options.",
-      "menuUrl": "https://taqueriaangelicas.com/menu",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJhc20a9d5j4ARKjYbT03LmiA",
       "formattedAddress": "551 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
