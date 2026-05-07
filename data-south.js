@@ -809,17 +809,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJF1bmK8Sjj4ARw0HRA7w1zro",
-      "formattedAddress": "900 Middlefield Rd Ste A, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4851521,
-        "longitude": -122.2296119
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13460755417891160515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.hiddentapandbarrel.com/",
       "displayName": {
-        "text": "Hidden Tap And Barrel Redwood City",
+        "text": "Hidden Tap And Barrel",
         "languageCode": "en"
       },
+      "formattedAddress": "900 Middlefield Rd Ste A, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13460755417891160515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hiddentapandbarrel.com/",
+      "location": {},
       "cuisine": "Other"
     },
     {
