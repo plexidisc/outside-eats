@@ -1129,21 +1129,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Other"
     },
     {
-      "id": "ChIJVbEYve-jj4AR77rV9jAOcec",
-      "formattedAddress": "2907 El Camino Real, Redwood City, CA 94061, USA",
-      "location": {
-        "latitude": 37.4693397,
-        "longitude": -122.2112908
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16677126498592078575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://loscarnalitos.com/",
-      "displayName": {
-        "text": "Los Carnalitos Food Truck",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
       "id": "ChIJ1_3qwUejj4ARR2LFfqhuGCo",
       "formattedAddress": "3726 Florence St, Redwood City, CA 94063, USA",
       "location": {
