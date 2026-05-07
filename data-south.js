@@ -2087,17 +2087,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJz52yWE2ij4ARYLegb2J92lA",
-      "formattedAddress": "2400 Broadway UNIT 110, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4865005,
-        "longitude": -122.2313906
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5826106929690228576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tongsui.us/",
       "displayName": {
-        "text": "Tong Sui Desserts & Drinks (Redwood City)",
+        "text": "Tong Sui Desserts & Drinks",
         "languageCode": "en"
       },
+      "formattedAddress": "2400 Broadway UNIT 110, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5826106929690228576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tongsui.us/",
+      "location": {},
       "cuisine": "Chinese"
     },
     {
