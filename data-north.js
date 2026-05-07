@@ -6481,34 +6481,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/millbrae/Slice House Small.jpeg"
     },
     {
-      "id": "ChIJ_1_NKtt3j4ARIXhSB9Fuqbc",
-      "formattedAddress": "1350 El Camino Real, Millbrae, CA 94030, USA",
-      "location": {
-        "latitude": 37.6094741,
-        "longitude": -122.40023709999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13234230824054978593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://smasherzfoodtruck.com/",
-      "displayName": {
-        "text": "Smasherz",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers",
-      "phone": "(415) 515-0485",
-      "hours": {
-        "Monday": "11:00 AM - 12:00 AM",
-        "Tuesday": "11:00 AM - 12:00 AM",
-        "Wednesday": "11:00 AM - 12:00 AM",
-        "Thursday": "11:00 AM - 12:00 AM",
-        "Friday": "11:00 AM - 12:00 AM",
-        "Saturday": "11:00 AM - 12:00 AM",
-        "Sunday": "11:00 AM - 12:00 AM"
-      },
-      "description": "The first smash burger taco truck serving 100% halal burgers, innovative tacos, quesadillas, and loaded fries.",
-      "menuUrl": "https://order.toasttab.com/online/smasherz-food-truck-1350-el-camino-real",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJLwXRZzt3j4ARHgU_K9VhQ1E",
       "formattedAddress": "102 S El Camino Real, Millbrae, CA 94030, USA",
       "location": {
