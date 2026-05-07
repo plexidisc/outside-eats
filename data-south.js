@@ -442,21 +442,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Wine Bar"
     },
     {
-      "id": "ChIJqVkXokejj4ARdxkKKEaP5Lo",
-      "formattedAddress": "3640 Florence St, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.478249999999996,
-        "longitude": -122.188441
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13467046317226858871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://delucchismarket.com/",
-      "displayName": {
-        "text": "Delucchi's Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJKy780KGjj4ARxOLR433gz2E",
       "formattedAddress": "593 Woodside Rd, Redwood City, CA 94061, USA",
       "location": {
