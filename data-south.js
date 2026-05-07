@@ -896,17 +896,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJZ3zC1u6jj4ARwN7lwwFR9KY",
-      "formattedAddress": "2655 Broadway, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4860123,
-        "longitude": -122.23426889999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12030329572636876480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ikeslairofredwoodcity.com/",
       "displayName": {
-        "text": "Ike's Lair of Redwood City",
+        "text": "Ike's Lair",
         "languageCode": "en"
       },
+      "formattedAddress": "2655 Broadway, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12030329572636876480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ikeslairofredwoodcity.com/",
+      "location": {},
       "cuisine": "American"
     },
     {
