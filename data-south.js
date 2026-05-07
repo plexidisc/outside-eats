@@ -517,21 +517,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJDfyF0aqjj4ARYDGcEv7_ws4",
-      "formattedAddress": "2110 Middlefield Rd, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4791102,
-        "longitude": -122.21850179999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14898751983994024288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://elpaisabylosalegresca.com/",
-      "displayName": {
-        "text": "El Paisa by Los Alegres Taco Truck",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
       "id": "ChIJ3WkS1zJ-j4AREr2CVc3EjAM",
       "formattedAddress": "2844 Middlefield Rd, Redwood City, CA 94063, USA",
       "location": {
