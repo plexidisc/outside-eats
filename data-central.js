@@ -5197,7 +5197,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 292-1321",
       "hours": "Mon-Fri 11:30am-3:00pm, Mon-Thur 4:00pm-10:00pm, Fri-Sat 4:00pm -10:30pm, Sun 4:00pm-9:00pm, Sat-Sun 11:00 am-3:00pm",
       "priceRange": "$$$",
-      "description": "Higher end, extremely well presented Mexican inspired cuisine. Excellent tequila selection."
+      "description": "Higher end, extremely well presented Mexican inspired cuisine. Excellent tequila selection.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Reposado Small.jpeg"
     },
     {
       "id": "ChIJEdn_l--fj4ARsZH4930Vj_I",
