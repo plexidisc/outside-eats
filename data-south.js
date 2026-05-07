@@ -662,17 +662,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJF_y_20ejj4AR9R7-uYnJtOM",
-      "formattedAddress": "3736 Florence St, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4782969,
-        "longitude": -122.1870338
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16407960935785701109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://freewheelbrewing.com/",
       "displayName": {
-        "text": "Freewheel Brewing Company - Best Brewery and Restaurant in Redwood City",
+        "text": "Freewheel Brewing Co",
         "languageCode": "en"
       },
+      "formattedAddress": "3736 Florence St, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16407960935785701109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://freewheelbrewing.com/",
+      "location": {},
       "cuisine": "American"
     },
     {
