@@ -1745,17 +1745,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJGQ8REkiij4AR-1OuQ3cr8rg",
-      "formattedAddress": "314 El Camino Real, Redwood City, CA 94062, USA",
-      "location": {
-        "latitude": 37.4913927,
-        "longitude": -122.2419875
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13326762038579319803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://stacksbreakfast.com/",
       "displayName": {
-        "text": "STACKS Redwood City",
+        "text": "Stacks",
         "languageCode": "en"
       },
+      "formattedAddress": "314 El Camino Real, Redwood City, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13326762038579319803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://stacksbreakfast.com/",
+      "location": {},
       "cuisine": "Breakfast"
     },
     {
