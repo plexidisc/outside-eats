@@ -28,7 +28,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Akami Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Akami Small.jpeg"
     },
     {
       "id": "ChIJC-SVJiajj4ARDt4B4vYXM9s",
@@ -58,7 +59,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Amici's East Coast Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/redwood-city/Amicis East Coast Pizzeria Small.jpeg"
     },
     {
       "id": "ChIJK_dRm6yjj4ARVkvgwklFI6w",
@@ -88,7 +90,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Aroma House",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/redwood-city/Aroma house Small.jpeg"
     },
     {
       "id": "ChIJ_bDRTNGjj4ARrE7EaFnyyAI",
@@ -103,7 +106,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Asya Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/redwood-city/Asya Small.jpeg"
     },
     {
       "id": "ChIJh_BM4Uyij4ARNQIT1FTeTgo",
@@ -148,7 +152,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Ben Frank's",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Ben Franks Small.jpeg"
     },
     {
       "id": "ChIJbxwY3QCjj4AR5Ht18lctD_Q",
@@ -163,7 +168,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Big Brother's Burgers",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/redwood-city/Big Brothers Small.jpeg"
     },
     {
       "id": "ChIJiXByA5yjj4AR8NNjrgDYPmc",
@@ -175,7 +181,8 @@ var PREBAKED_DATA_SOUTH = {
       "googleMapsUri": "https://maps.google.com/?cid=7439621131900015600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://linktr.ee/bravotaqueria?utm_source=linktree_profile_share&ltsid=14a269d6-1c53-4aed-82cb-7bbf7c6f1114",
       "location": {},
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Bravo Taqueria Small.jpeg"
     },
     {
       "id": "ChIJr4g8FoWjj4AR2iKV6OoPTAU",
@@ -190,7 +197,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Breakers Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/redwood-city/Breakers Cafe Small.jpeg"
     },
     {
       "id": "ChIJJzpLrlKij4ARvTXVU0rQHQQ",
@@ -235,7 +243,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Brochette Dumpling and Grill",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Brochette Small.jpeg"
     },
     {
       "id": "ChIJ_21JHFWjj4ARb-KQ1noiyPo",
@@ -250,7 +259,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Burma Spice",
         "languageCode": "en"
       },
-      "cuisine": "Burmese"
+      "cuisine": "Burmese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Burma Spice Small.jpeg"
     },
     {
       "id": "ChIJiZIkB9Sjj4ARHAWDiFnDQS4",
@@ -265,7 +275,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Canyon Inn",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Canyon Inn Small.jpeg"
     },
     {
       "id": "ChIJXTVJKwyjj4ARvII7xttPFEA",
@@ -280,7 +291,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Capelo's Barbecue",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/redwood-city/Capelos Barbecue Small.jpeg"
     },
     {
       "id": "ChIJgfgcMVKij4ARHBYTWZDH6UA",
@@ -310,7 +322,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Chez Nous Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/redwood-city/Chez Nous Small.jpeg"
     },
     {
       "id": "ChIJbS9puHijj4ARKhaZa0O_hQQ",
@@ -325,7 +338,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Comalito",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Comalito Pupuseria Small.jpeg"
     },
     {
       "id": "ChIJYwn3Ncujj4ARjGggaaJ8eUU",
@@ -340,7 +354,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "CORNER TABLE",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Corner Table Small.jpeg"
     },
     {
       "id": "ChIJ_xjZnDmjj4ARRsLs25aSpGg",
@@ -439,7 +454,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Diner Japonica",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Diner Japonica Small.jpeg"
     },
     {
       "id": "ChIJ2wJOX6yjj4ARHXWap7-AdhM",
@@ -454,7 +470,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Donato Enoteca",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/redwood-city/Donato Small.jpeg"
     },
     {
       "id": "ChIJ66TH5IWfj4ARZ6uzTJZ7iAg",
@@ -484,7 +501,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "El Camaron RWC",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/El Camaron RWC Small.jpeg"
     },
     {
       "id": "ChIJ1ahxvwijj4ARHa3tkj7VbSo",
@@ -499,7 +517,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "El Grullense Grill and Seafood",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/El Grullense Grill Small.jpeg"
     },
     {
       "id": "ChIJ3WkS1zJ-j4AREr2CVc3EjAM",
@@ -541,7 +560,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Eskina Breakfast & Lunch",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/redwood-city/Eskina Small.jpeg"
     },
     {
       "id": "ChIJcT6CYEyij4ARUkq7skoUerQ",
@@ -583,7 +603,8 @@ var PREBAKED_DATA_SOUTH = {
       "googleMapsUri": "https://maps.google.com/?cid=16001838609550861357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://falafeltazah.com/",
       "location": {},
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/redwood-city/Falafel Tazah Small.jpeg"
     },
     {
       "id": "ChIJEd_m3i27j4ARpK8gpI1kGlM",
@@ -598,7 +619,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Feast and Floral",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/redwood-city/Feast & Floral Small.jpeg"
     },
     {
       "id": "ChIJnfcRRACjj4AR7rb5P5g2z8M",
@@ -628,7 +650,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Flamindogs Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Flamin Dogs Deli Small.jpeg"
     },
     {
       "id": "ChIJ___roiN2j4ARISJsK9I53tg",
@@ -655,7 +678,8 @@ var PREBAKED_DATA_SOUTH = {
       "googleMapsUri": "https://maps.google.com/?cid=16407960935785701109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://freewheelbrewing.com/",
       "location": {},
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Freewheel Brewing Company Small.jpeg"
     },
     {
       "id": "ChIJ30OsR_Sjj4ARBahrOGv568w",
@@ -670,7 +694,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Gemelos Cantina & Sports Bar",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Gemelos cantina Small.jpeg"
     },
     {
       "id": "ChIJEZOmhkSjj4ARbvP0SQO9eU0",
@@ -700,7 +725,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Ghostwood Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Ghostwood Small.jpeg"
     },
     {
       "id": "ChIJm7imNa2jj4ARgupdlZ3gQ24",
@@ -760,7 +786,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Harry's Hofbrau",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Harry Hofbrau Small.jpeg"
     },
     {
       "id": "ChIJs3xUa8Gjj4ARzV2rEYaEb_E",
@@ -817,7 +844,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Higuma Japanese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Higuma Small.jpeg"
     },
     {
       "id": "ChIJSfS5NlKij4ARTFMDXhzT3eY",
@@ -847,7 +875,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hometown Noodle Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Hometown Noodle Small.jpeg"
     },
     {
       "id": "ChIJw_cuWTmjj4ARdK0RGgPiOJc",
@@ -862,7 +891,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hurrica Restaurant & Bar",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Hurrica Small.jpeg"
     },
     {
       "id": "ChIJy_6H5Eyij4AR8Wq38iHHktQ",
@@ -904,7 +934,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Karakade Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/redwood-city/Karakade Thai Cuisine Small.jpeg"
     },
     {
       "id": "ChIJJ5LAG02ij4AR5q6-JvUK3AE",
@@ -949,7 +980,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "La Casita Chilanga",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/La casita Chilango Small.jpeg"
     },
     {
       "id": "ChIJsdCloRKjj4ARew1tmjc1B3Y",
@@ -994,7 +1026,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "La Honda Winery",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/redwood-city/La Honda Winery Small.jpeg"
     },
     {
       "id": "ChIJ2xFWvayjj4ARqsNvgp0M5DI",
@@ -1024,7 +1057,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "La Quinta Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/redwood-city/La Quinta Pizza Small.jpeg"
     },
     {
       "id": "ChIJfeOQA26jj4ARPgitgF7IA3g",
@@ -1039,7 +1073,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "La Roca Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/La Roca Small.jpeg"
     },
     {
       "id": "ChIJwYL-H6ujj4ARS7ZReMWhm9M",
@@ -1069,7 +1104,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Lavender 'n Cream",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/redwood-city/Lavender N Cream Small.jpeg"
     },
     {
       "id": "ChIJjVWYnXmjj4ARR3i_L0kG1-U",
@@ -1126,7 +1162,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Los Gallos Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Taqueria Gonzalez Small.jpeg"
     },
     {
       "id": "ChIJkwr5tayjj4ARkXakMZrJOYo",
@@ -1201,7 +1238,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mariscos El Sanignacense",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/El Sanignacense Small.jpeg"
     },
     {
       "id": "ChIJ5-yUCPGjj4ARd9FXalKLLhQ",
@@ -1261,7 +1299,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Milagros Latin Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Milagros Small.jpeg"
     },
     {
       "id": "ChIJMZAdxbCYj4ARvab868SQ4iI",
@@ -1276,7 +1315,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mistral Restaurant & Bar",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/redwood-city/Mistral Small.jpeg"
     },
     {
       "id": "ChIJqeAfJQyjj4ARDu9wmhEDBhA",
@@ -1291,7 +1331,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mountain Mike's Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/redwood-city/Mountain Mikes Small.jpeg"
     },
     {
       "id": "ChIJeRwPW0iij4ARspmjcHcAmoQ",
@@ -1366,7 +1407,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Oh Baby Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Oh Baby Sushi Small.jpeg"
     },
     {
       "id": "ChIJLwPlfKaYj4AR-dh0vPXZPLM",
@@ -1381,7 +1423,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Otoko Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Toko Sushi Small.jpeg"
     },
     {
       "id": "ChIJJfVAn9yjj4ARTo6qF6MBFSw",
@@ -1396,7 +1439,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pamilya",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/redwood-city/Pamilya Small.jpeg"
     },
     {
       "id": "ChIJlXtHpL-jj4AR2w3jSv6_5wM",
@@ -1411,7 +1455,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Paris Baguette",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/redwood-city/Paris Baguette Small.jpeg"
     },
     {
       "id": "ChIJp9_H3Kyjj4ARTvXmQwGc5fI",
@@ -1486,7 +1531,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Prima Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Prima Deli Small.jpeg"
     },
     {
       "id": "ChIJGc59LVajj4ARvOPgtG6gabc",
@@ -1501,7 +1547,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pronto Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/redwood-city/Pronto Pizza Small.jpeg"
     },
     {
       "id": "ChIJ-dJh0lKij4ARq29Tj1z9vPw",
@@ -1531,7 +1578,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Ranzan",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Ranzan Small.jpeg"
     },
     {
       "id": "ChIJOaf5XUyij4AR2S5sp3ltmbM",
@@ -1561,7 +1609,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Redwood City Barbeque",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/redwood-city/Redwood City Barbeque Small.jpeg"
     },
     {
       "id": "ChIJJfonCGWjj4ARleaZij2ZPjA",
@@ -1591,7 +1640,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Redwood Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Redwood Grill Small.jpeg"
     },
     {
       "id": "ChIJ1yx9yKyjj4ARbA11yMYftT4",
@@ -1621,7 +1671,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sabor Izalqueño Pupuseria y Restaurante",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/redwood-city/Sabor Izalqueno Pupuseria Small.jpeg"
     },
     {
       "id": "ChIJt59d0lKij4ARsMDGLWQjKJY",
@@ -1666,7 +1717,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sancho's Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Sanchos Small.jpeg"
     },
     {
       "id": "ChIJN6lxI3Kjj4ARtyvHC8OJ__k",
@@ -1681,7 +1733,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Selby's",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Selbys Small.jpeg"
     },
     {
       "id": "ChIJi_lwH02ij4ARSEaUQwB1TBo",
@@ -1726,7 +1779,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Speederia Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/redwood-city/Speederia Pizzeria Small.jpeg"
     },
     {
       "id": "ChIJGQ8REkiij4AR-1OuQ3cr8rg",
@@ -1738,7 +1792,8 @@ var PREBAKED_DATA_SOUTH = {
       "googleMapsUri": "https://maps.google.com/?cid=13326762038579319803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://stacksbreakfast.com/",
       "location": {},
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/redwood-city/Stacks Small.jpeg"
     },
     {
       "id": "ChIJM2JWkk6jj4ARniMrOcsXTnw",
@@ -1753,7 +1808,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "State of Mind Public House and Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/redwood-city/State of Mind Public House Small.jpeg"
     },
     {
       "id": "ChIJqe-dRoKjj4ARBDgJVI1x_DY",
@@ -1828,7 +1884,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sushi+Plus",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Sushi Plus Small.jpeg"
     },
     {
       "id": "ChIJW9X6gSKjj4ARJctbKrSW7S4",
@@ -1843,7 +1900,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sushinaloa",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/redwood-city/Sushinaloa Small.jpeg"
     },
     {
       "id": "ChIJ1V0-86ujj4ARKP1O3gOikF8",
@@ -1858,7 +1916,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tacos El Grullense #1",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Tacos El Grullense #1 Small.jpeg"
     },
     {
       "id": "ChIJ1ahxvwijj4ARfg2fwTxoX2Y",
@@ -1873,7 +1932,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tacos El Grullense E & E",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Tacos El Grullense E&E3 Small.jpeg"
     },
     {
       "id": "ChIJyVMKSBqij4AR_mUODO7gCmM",
@@ -1888,7 +1948,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tacos Los Gemelos",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/redwood-city/Tacos Los gemelos Small.jpeg"
     },
     {
       "id": "ChIJNXgranejj4ARJvK6WBg63n4",
@@ -1993,7 +2054,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Empanadas King",
         "languageCode": "en"
       },
-      "cuisine": "Argentine"
+      "cuisine": "Argentine",
+      "photoUrl": "images/restaurant-photos/redwood-city/The Empanadas King Small.jpeg"
     },
     {
       "id": "ChIJ8WDdiT2Zj4AR6Ly5f_-5Lo4",
@@ -2008,7 +2070,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Hollō Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/redwood-city/The Hollo Small.jpeg"
     },
     {
       "id": "ChIJ05Ol40yij4ARvUw_3nCmvx4",
@@ -2095,7 +2158,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "US Chinese Food",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/redwood-city/US Chinese Food Small.jpeg"
     },
     {
       "id": "ChIJ67E0Uyqjj4AR1HCza23n34s",
@@ -2140,7 +2204,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Villa Lucia's",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/redwood-city/Villa Lucias Small.jpeg"
     },
     {
       "id": "ChIJzyKHtqyjj4ARM2PMk8_m4IM",
@@ -2215,7 +2280,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Woodside Delicatessen",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Woodside Delicatessen Small.jpeg"
     },
     {
       "id": "ChIJZRttpYajj4ARcez-603tqM0",
@@ -2230,7 +2296,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Woodside Roadhouse",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/redwood-city/Woodside Roadhouse Small.jpeg"
     },
     {
       "id": "ChIJJ5lrIE2ij4ARNh1db5ccElc",
