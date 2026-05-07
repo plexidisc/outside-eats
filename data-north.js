@@ -3912,34 +3912,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJ2SwHgON5j4ARmjxkgeozmV0",
-      "formattedAddress": "1199 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6363686,
-        "longitude": -122.42145049999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6744478999250222234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hangryplanet.com/",
-      "displayName": {
-        "text": "Hangry Planet",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan",
-      "phone": "(650) 589-7058",
-      "hours": {
-        "Monday": "Open 24 hours",
-        "Tuesday": "Open 24 hours",
-        "Wednesday": "Open 24 hours",
-        "Thursday": "Open 24 hours",
-        "Friday": "Open 24 hours",
-        "Saturday": "Open 24 hours",
-        "Sunday": "Open 24 hours"
-      },
-      "description": "North America's first all vegan convenience store featuring curated plant based snacks, meals, and a virtual reality car wash.",
-      "menuUrl": "https://www.yelp.com/menu/hangry-planet-san-bruno",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJsbg4Jfp3j4AROG11ZWHgmXc",
       "formattedAddress": "1590 El Camino Real Suite H, San Bruno, CA 94066, USA",
       "location": {
