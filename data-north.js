@@ -5015,33 +5015,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJmXPpVAB5j4ARhIwivp0t8JI",
-      "formattedAddress": "740 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6277567,
-        "longitude": -122.41572339999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10588012879471086724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Tacos Los Monchis",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "phone": "(408) 549-4056",
-      "hours": {
-        "Monday": "10:00 AM - 5:00 PM",
-        "Tuesday": "5:00 PM - 10:00 PM",
-        "Wednesday": "5:00 PM - 10:00 PM",
-        "Thursday": "5:00 PM - 10:00 PM",
-        "Friday": "5:00 PM - 10:00 PM",
-        "Saturday": "10:00 AM - 5:00 PM",
-        "Sunday": "10:00 AM - 5:00 PM"
-      },
-      "description": "Food truck famous for quesabirria with juicy beef and rich consommé that customers crave repeatedly.",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJv_LrXsB5j4ARU9mW9fiUdz4",
       "formattedAddress": "1199 El Camino Real, San Bruno, CA 94066, USA",
       "location": {
