@@ -3883,34 +3883,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJoer5tcJ5j4ARktraHJnZr9w",
-      "formattedAddress": "611 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.626637099999996,
-        "longitude": -122.41531810000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15902168060905839250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://elranchitoca.com/",
-      "displayName": {
-        "text": "El ranchito",
-        "languageCode": "es"
-      },
-      "cuisine": "Mexican",
-      "phone": "(650) 430-0169",
-      "hours": {
-        "Sunday": "10:00 AM - 7:00 PM",
-        "Monday": "10:00 AM - 9:00 PM",
-        "Tuesday": "10:00 AM - 9:00 PM",
-        "Wednesday": "10:00 AM - 9:00 PM",
-        "Thursday": "10:00 AM - 9:00 PM",
-        "Friday": "10:00 AM - 9:00 PM",
-        "Saturday": "10:00 AM - 8:00 PM"
-      },
-      "description": "Authentic Mexican taco restaurant serving traditional dishes like super burritos, quesadillas, and tacos with fresh ingredients.",
-      "menuUrl": "https://www.elranchitoca.com/el-ranchito-california/",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJlS1epNd5j4ARNN9oeWKizAs",
       "formattedAddress": "482 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
