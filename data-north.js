@@ -4404,7 +4404,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Fresh Mexican seafood with shrimp and octopus cocktails, live music, and a lively atmosphere.",
       "menuUrl": "https://marymar.menufy.com/order",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-bruno/Mariscos Small.jpeg"
     },
     {
       "id": "ChIJY9Ze3Ht3j4ARV51_F-eCLwg",
