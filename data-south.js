@@ -910,21 +910,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "American"
     },
     {
-      "id": "ChIJ0erYxVOij4ARL7SN0fmfWkE",
-      "formattedAddress": "949 Veterans Blvd, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.490584999999996,
-        "longitude": -122.22785999999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4709252255680672815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/246",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJkReq0aGjj4ARvXwGkEvh6ec",
       "formattedAddress": "593 Woodside Rd Suite G, Redwood City, CA 94061, USA",
       "location": {
