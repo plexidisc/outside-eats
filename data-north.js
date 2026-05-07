@@ -3771,34 +3771,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$"
     },
     {
-      "id": "ChIJHzQBGrh5j4ARcoK5YW8mxGs",
-      "formattedAddress": "El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.63045770000001,
-        "longitude": -122.41785480000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7765373917316350578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.casitaveganasf.com/",
-      "displayName": {
-        "text": "Casita Vegana",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan",
-      "phone": "(415) 203-1853",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "Closed",
-        "Wednesday": "12:00 PM - 4:00 PM",
-        "Thursday": "Closed",
-        "Friday": "Closed",
-        "Saturday": "Closed",
-        "Sunday": "Closed"
-      },
-      "description": "Mobile vegan café serving coffee, pastries, and Mexican inspired plates like tacos and tortas with fresh ingredients.",
-      "menuUrl": "https://www.doordash.com/store/casita-vegana---el-camino-real-san-bruno-39559433/",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJ3VlsiHt3j4ARHAEVlInU764",
       "formattedAddress": "201 El Camino Real, San Bruno, CA 94066, USA",
       "location": {
