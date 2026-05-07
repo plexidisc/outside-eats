@@ -5015,32 +5015,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJsam02qV5j4AREGSgIKJam-Q",
-      "formattedAddress": "529 El Camino Real, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.623348,
-        "longitude": -122.41341919999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16472859714416305168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Tacos Guadalajara",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "hours": {
-        "Monday": "10:00 AM - 10:00 PM",
-        "Tuesday": "10:00 AM - 10:00 PM",
-        "Wednesday": "10:00 AM - 10:00 PM",
-        "Thursday": "10:00 AM - 10:00 PM",
-        "Friday": "10:00 AM - 10:00 PM",
-        "Saturday": "Closed",
-        "Sunday": "Closed"
-      },
-      "description": "A taco truck serving exceptional Bay Area tacos with generous meat portions and great value.",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJmXPpVAB5j4ARhIwivp0t8JI",
       "formattedAddress": "740 El Camino Real, San Bruno, CA 94066, USA",
       "location": {
