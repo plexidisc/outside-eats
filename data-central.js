@@ -6156,7 +6156,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Known for its varieties of dumplings and traditional Chinese dishes.",
       "hours": "Mon–Tue 11am–9:30pm, Wed Closed, Thu–Sun 11am–9:30pm",
       "menuUrl": "https://www.townofdumplingca.com/menu",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Town of dumpling Small.jpeg"
     },
     {
       "id": "ChIJ-wp0Z2eej4ARc_LvawPcMHg",
