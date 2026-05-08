@@ -3861,7 +3861,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 347-5777",
       "hours": "Mon-Sat 11am-8pm, Sun 11am-7pm",
       "priceRange": "$",
-      "description": "Very affordable, window service Japanese cuisine. Grab and go: Bento Box, Curry, Bowls, Noodles. Known for great service and friendly staff."
+      "description": "Very affordable, window service Japanese cuisine. Grab and go: Bento Box, Curry, Bowls, Noodles. Known for great service and friendly staff.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kaz Teriyaki Grill Small.jpeg"
     },
     {
       "id": "ChIJe0yiisOfj4ARtrCmoqvdKeA",
