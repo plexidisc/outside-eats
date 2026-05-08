@@ -6339,6 +6339,23 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm",
       "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu",
       "priceRange": "$"
+    },
+    {
+      "id": "manual_1778255094906",
+      "displayName": {
+        "text": "Taqueria Los Primos",
+        "languageCode": "en"
+      },
+      "formattedAddress": "85 N B St #4, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/taqueria+los+primos+%231/data=!4m2!3m1!1s0x808f9e768aa7ed65:0x85ad70f4404352d1?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "menuUrl": "https://img1.wsimg.com/blobby/go/e7d2565a-b9a9-4545-978e-b6df93d21b89/downloads/Taqueria%20_1%202022%20new%20Prices.pdf?ver=1642617310304",
+      "phone": "(650) 347-8760",
+      "hours": "Mon-Sun 9am-10pm",
+      "priceRange": "$",
+      "description": "Family-owned serving high quality authentic Mexican food for 26 years. Warm, friendly service."
     }
   ],
   "Foster City, CA": [
