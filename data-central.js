@@ -6320,6 +6320,27 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm",
       "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu",
       "priceRange": "$"
+    },
+    {
+      "id": "manual_1778251321614",
+      "displayName": {
+        "text": "Kaz Teriyaki Grill",
+        "languageCode": "en"
+      },
+      "formattedAddress": "71 E 4th Ave",
+      "googleMapsUri": "https://www.google.com/maps/place/kaz,+san+mateo/data=!4m2!3m1!1s0x808f9e703c57c823:0x693add8b1a724499?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "https://order.toasttab.com/online/kaz-teriyaki-grill-new",
+      "location": {},
+      "cuisine": "Japanese",
+      "keywords": [
+        "curry",
+        "bento",
+        "bowls"
+      ],
+      "phone": "(650) 347-5777",
+      "hours": "Mon-Sat 11am-8pm, Sun 11am-7pm",
+      "priceRange": "$",
+      "description": "Very affordable, window service Japanese cuisine. Grab and go: Bento Box, Curry, Bowls, Noodles. Known for great service and friendly staff."
     }
   ],
   "Foster City, CA": [
