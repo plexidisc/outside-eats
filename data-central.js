@@ -5929,8 +5929,7 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Family-owned serving high-quality authentic Mexican food for 26 years.",
       "hours": "Mon–Sun 9am–10pm",
       "menuUrl": "https://www.yelp.com/biz/taqueria-los-primos-san-mateo",
-      "priceRange": "$",
-      "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Los Primos #1 Small.jpeg"
+      "priceRange": "$"
     },
     {
       "id": "ChIJfRMInHqej4AR-4NtZnaL4q0",
