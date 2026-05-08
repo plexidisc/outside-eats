@@ -6355,7 +6355,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 347-8760",
       "hours": "Mon-Sun 9am-10pm",
       "priceRange": "$",
-      "description": "Family-owned serving high quality authentic Mexican food for 26 years. Warm, friendly service."
+      "description": "Family-owned serving high quality authentic Mexican food for 26 years. Warm, friendly service.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Los Primos Small.jpeg"
     }
   ],
   "Foster City, CA": [
