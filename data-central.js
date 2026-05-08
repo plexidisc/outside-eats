@@ -5912,6 +5912,23 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
+      "id": "manual_1778252203958",
+      "displayName": {
+        "text": "Taqueria Las Pencas #2",
+        "languageCode": "en"
+      },
+      "formattedAddress": "45 N B St",
+      "googleMapsUri": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiQk6ez-KmUAxUAAAAAHQAAAAAQCQ..i&rlz=1C5CHFA_enUS1103US1103&sca_esv=9033de2d4e2ebdf7&pvq=Cg0vZy8xMXMzYmpmaGpxIhkKE3RhcXVlcmlhIGxhcyBwZW5jYXMQAhgD&lqi=ChN0YXF1ZXJpYSBsYXMgcGVuY2FzSJb8mqiNuICACFofEAAQARACGAEYAiITdGFxdWVyaWEgbGFzIHBlbmNhc5IBEm1leGljYW5fcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOeU5FbHRZbE5uRUFF4AEA-gEECAAQOQ&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=us&sa=X&ftid=0x808f9f58909d3bdd:0x75ff325592a4e2d7",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "phone": "(650)315-2274",
+      "hours": "Mon-Sun 10am-10pm",
+      "priceRange": "$",
+      "description": "Great authentic taqueria nestled surrounded by culture and latin restaurants. Can't beat the prices and quality of food served by family style staff.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Las Pencas #2 Small.jpeg"
+    },
+    {
       "id": "ChIJdUQYkhWfj4ARvv8mWDJD5xY",
       "formattedAddress": "37 43rd Ave, San Mateo, CA 94403, USA",
       "location": {
@@ -5931,26 +5948,6 @@ var PREBAKED_DATA_CENTRAL = {
       "menuUrl": "https://taquerialosmorenoca.com/taqueria-los-moreno/locations/",
       "priceRange": "$",
       "photoUrl": "images/restaurant-photos/san-mateo/Taquería Los Moreno Small.jpeg"
-    },
-    {
-      "id": "ChIJZe2ninaej4AR0VJDQPRwrYU",
-      "formattedAddress": "85 N B St #4, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5690917,
-        "longitude": -122.32638610000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9632479372367844049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Taqueria Los Primos #1",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "phone": "(650) 347-8760",
-      "description": "Family-owned serving high-quality authentic Mexican food for 26 years.",
-      "hours": "Mon–Sun 9am–10pm",
-      "menuUrl": "https://www.yelp.com/biz/taqueria-los-primos-san-mateo",
-      "priceRange": "$"
     },
     {
       "id": "ChIJfRMInHqej4AR-4NtZnaL4q0",
@@ -6341,23 +6338,6 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm",
       "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu",
       "priceRange": "$"
-    },
-    {
-      "id": "manual_1778252203958",
-      "displayName": {
-        "text": "Taqueria Las Pencas #2",
-        "languageCode": "en"
-      },
-      "formattedAddress": "45 N B St",
-      "googleMapsUri": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiQk6ez-KmUAxUAAAAAHQAAAAAQCQ..i&rlz=1C5CHFA_enUS1103US1103&sca_esv=9033de2d4e2ebdf7&pvq=Cg0vZy8xMXMzYmpmaGpxIhkKE3RhcXVlcmlhIGxhcyBwZW5jYXMQAhgD&lqi=ChN0YXF1ZXJpYSBsYXMgcGVuY2FzSJb8mqiNuICACFofEAAQARACGAEYAiITdGFxdWVyaWEgbGFzIHBlbmNhc5IBEm1leGljYW5fcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOeU5FbHRZbE5uRUFF4AEA-gEECAAQOQ&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=us&sa=X&ftid=0x808f9f58909d3bdd:0x75ff325592a4e2d7",
-      "websiteUri": "",
-      "location": {},
-      "cuisine": "Mexican",
-      "phone": "(650)315-2274",
-      "hours": "Mon-Sun 10am-10pm",
-      "priceRange": "$",
-      "description": "Great authentic taqueria nestled surrounded by culture and latin restaurants. Can't beat the prices and quality of food served by family style staff.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Las Pencas #2 Small.jpeg"
     }
   ],
   "Foster City, CA": [
