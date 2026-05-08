@@ -3823,6 +3823,27 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
+      "id": "manual_1778251321614",
+      "displayName": {
+        "text": "Kaz Teriyaki Grill",
+        "languageCode": "en"
+      },
+      "formattedAddress": "71 E 4th Ave",
+      "googleMapsUri": "https://www.google.com/maps/place/kaz,+san+mateo/data=!4m2!3m1!1s0x808f9e703c57c823:0x693add8b1a724499?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "https://order.toasttab.com/online/kaz-teriyaki-grill-new",
+      "location": {},
+      "cuisine": "Japanese",
+      "keywords": [
+        "curry",
+        "bento",
+        "bowls"
+      ],
+      "phone": "(650) 347-5777",
+      "hours": "Mon-Sat 11am-8pm, Sun 11am-7pm",
+      "priceRange": "$",
+      "description": "Very affordable, window service Japanese cuisine. Grab and go: Bento Box, Curry, Bowls, Noodles. Known for great service and friendly staff."
+    },
+    {
       "id": "ChIJe0yiisOfj4ARtrCmoqvdKeA",
       "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
       "location": {
@@ -6322,25 +6343,23 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$"
     },
     {
-      "id": "manual_1778251321614",
+      "id": "manual_1778251763637",
       "displayName": {
-        "text": "Kaz Teriyaki Grill",
+        "text": "Cheesecake Factory",
         "languageCode": "en"
       },
-      "formattedAddress": "71 E 4th Ave",
-      "googleMapsUri": "https://www.google.com/maps/place/kaz,+san+mateo/data=!4m2!3m1!1s0x808f9e703c57c823:0x693add8b1a724499?sa=X&ved=1t:242&ictx=111",
-      "websiteUri": "https://order.toasttab.com/online/kaz-teriyaki-grill-new",
+      "formattedAddress": "398 Hillsdale Shopping Ctr",
+      "googleMapsUri": "https://www.google.com/maps/place/The+Cheesecake+Factory/data=!4m2!3m1!1s0x0:0xa03a9c8abf7329f2?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.thecheesecakefactory.com/?_ga=2.59035566.262883361.1778251379-1419924837.1778251379",
       "location": {},
-      "cuisine": "Japanese",
-      "keywords": [
-        "curry",
-        "bento",
-        "bowls"
+      "cuisine": [
+        "American",
+        "cheesecake"
       ],
-      "phone": "(650) 347-5777",
-      "hours": "Mon-Sat 11am-8pm, Sun 11am-7pm",
-      "priceRange": "$",
-      "description": "Very affordable, window service Japanese cuisine. Grab and go: Bento Box, Curry, Bowls, Noodles. Known for great service and friendly staff."
+      "phone": "(650) 638-0310",
+      "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 10am-10pm",
+      "priceRange": "$$",
+      "description": "popular American chain offering a wide variety of dishes, known for large portions, timely service and comfortable atmosphere. Good if you have a mixed group who like different cuisines."
     }
   ],
   "Foster City, CA": [
