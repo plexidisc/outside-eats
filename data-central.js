@@ -5925,7 +5925,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650)315-2274",
       "hours": "Mon-Sun 10am-10pm",
       "priceRange": "$",
-      "description": "Great authentic taqueria nestled surrounded by culture and latin restaurants. Can't beat the prices and quality of food served by family style staff."
+      "description": "Great authentic taqueria nestled surrounded by culture and latin restaurants. Can't beat the prices and quality of food served by family style staff.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Las Pencas 2 Small.jpeg"
     },
     {
       "id": "ChIJdUQYkhWfj4ARvv8mWDJD5xY",
