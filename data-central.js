@@ -3857,6 +3857,7 @@ var PREBAKED_DATA_CENTRAL = {
         "bento",
         "bowls"
       ],
+      "menuUrl": "https://order.toasttab.com/online/kaz-teriyaki-grill-new",
       "phone": "(650) 347-5777",
       "hours": "Mon-Sat 11am-8pm, Sun 11am-7pm",
       "priceRange": "$",
