@@ -4255,7 +4255,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 458-0020",
       "hours": "Mon–Fri 11am–8pm, Sat 11am–9pm, Sun 11am–8pm",
       "priceRange": "$$",
-      "description": "They use the best ingredients in a lively atmosphere."
+      "description": "They use the best ingredients in a lively atmosphere.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Maverick Jack's Small.jpeg"
     },
     {
       "id": "ChIJh8qOgm2fj4ARSJdJF-9ehwo",
