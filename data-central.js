@@ -6406,22 +6406,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJF5VQdgCfj4ARla0Ubt0V9ac",
-      "displayName": {
-        "text": "Birdie’s at Mariners Point",
-        "languageCode": "en"
-      },
-      "formattedAddress": "2401 E 3rd Ave, Foster City, CA 94404, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=12102603614406880661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://my-site-100783-102620.square.site/s/order",
-      "location": {},
-      "cuisine": "American",
-      "phone": "(650) 573-7888",
-      "hours": "Mon - Sun 11am - 8pm",
-      "priceRange": "$",
-      "description": "Serves five-star quality smashburgers and chicken tenders at affordable prices"
-    },
-    {
       "id": "ChIJC17Hqsiej4ARPcpVelhoE4k",
       "formattedAddress": "1221 Chess Dr 7 Floor, Foster City, CA 94404, USA",
       "location": {
