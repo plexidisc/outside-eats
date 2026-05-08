@@ -6341,6 +6341,22 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm",
       "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu",
       "priceRange": "$"
+    },
+    {
+      "id": "manual_1778252203958",
+      "displayName": {
+        "text": "Taqueria Las Pencas #2",
+        "languageCode": "en"
+      },
+      "formattedAddress": "45 N B St",
+      "googleMapsUri": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiQk6ez-KmUAxUAAAAAHQAAAAAQCQ..i&rlz=1C5CHFA_enUS1103US1103&sca_esv=9033de2d4e2ebdf7&pvq=Cg0vZy8xMXMzYmpmaGpxIhkKE3RhcXVlcmlhIGxhcyBwZW5jYXMQAhgD&lqi=ChN0YXF1ZXJpYSBsYXMgcGVuY2FzSJb8mqiNuICACFofEAAQARACGAEYAiITdGFxdWVyaWEgbGFzIHBlbmNhc5IBEm1leGljYW5fcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOeU5FbHRZbE5uRUFF4AEA-gEECAAQOQ&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=us&sa=X&ftid=0x808f9f58909d3bdd:0x75ff325592a4e2d7",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "phone": "(650)315-2274",
+      "hours": "Mon-Sun 10am-10pm",
+      "priceRange": "$",
+      "description": "Great authentic taqueria nestled surrounded by culture and latin restaurants. Can't beat the prices and quality of food served by family style staff."
     }
   ],
   "Foster City, CA": [
