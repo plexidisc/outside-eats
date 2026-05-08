@@ -6115,7 +6115,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 931-4253",
       "hours": "Mon–Thu 12pm–9pm, Fri 12pm–9:30pm, Sat 11:30am–9:30pm, Sun 11:30am–9pm",
       "priceRange": "$$",
-      "description": "Organic coconut pudding made with fresh coconut water and seasonal ingredients."
+      "description": "Organic coconut pudding made with fresh coconut water and seasonal ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tong Sui Small.jpeg"
     },
     {
       "id": "ChIJN6x96hadj4AR7ZVrIZVCt4s",
