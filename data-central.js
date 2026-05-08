@@ -2778,6 +2778,25 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
+      "id": "manual_1778251763637",
+      "displayName": {
+        "text": "Cheesecake Factory",
+        "languageCode": "en"
+      },
+      "formattedAddress": "398 Hillsdale Shopping Ctr",
+      "googleMapsUri": "https://www.google.com/maps/place/The+Cheesecake+Factory/data=!4m2!3m1!1s0x0:0xa03a9c8abf7329f2?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.thecheesecakefactory.com/?_ga=2.59035566.262883361.1778251379-1419924837.1778251379",
+      "location": {},
+      "cuisine": [
+        "American",
+        "cheesecake"
+      ],
+      "phone": "(650) 638-0310",
+      "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 10am-10pm",
+      "priceRange": "$$",
+      "description": "popular American chain offering a wide variety of dishes, known for large portions, timely service and comfortable atmosphere. Good if you have a mixed group who like different cuisines."
+    },
+    {
       "id": "ChIJ-f64XwCfj4ARy9MhdAdp8kY",
       "displayName": {
         "text": "Chingu",
@@ -5893,25 +5912,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJ3TudkFifj4AR1-KkklUy_3U",
-      "formattedAddress": "45 N B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5684654,
-        "longitude": -122.32576499999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8502569964612674263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Taquería las pencas #2",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "phone": "(650) 315-2274",
-      "hours": "Mon–Sun 10am–10pm",
-      "menuUrl": "https://www.yelp.com/biz/taqueria-las-pencas-2-san-mateo",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJdUQYkhWfj4ARvv8mWDJD5xY",
       "formattedAddress": "37 43rd Ave, San Mateo, CA 94403, USA",
       "location": {
@@ -6341,25 +6341,6 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm",
       "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu",
       "priceRange": "$"
-    },
-    {
-      "id": "manual_1778251763637",
-      "displayName": {
-        "text": "Cheesecake Factory",
-        "languageCode": "en"
-      },
-      "formattedAddress": "398 Hillsdale Shopping Ctr",
-      "googleMapsUri": "https://www.google.com/maps/place/The+Cheesecake+Factory/data=!4m2!3m1!1s0x0:0xa03a9c8abf7329f2?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://www.thecheesecakefactory.com/?_ga=2.59035566.262883361.1778251379-1419924837.1778251379",
-      "location": {},
-      "cuisine": [
-        "American",
-        "cheesecake"
-      ],
-      "phone": "(650) 638-0310",
-      "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 10am-10pm",
-      "priceRange": "$$",
-      "description": "popular American chain offering a wide variety of dishes, known for large portions, timely service and comfortable atmosphere. Good if you have a mixed group who like different cuisines."
     }
   ],
   "Foster City, CA": [
