@@ -9700,21 +9700,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Italian"
     },
     {
-      "id": "ChIJ5V-QXKiwj4ARv5e-BSB9fiA",
-      "formattedAddress": "1159 N Rengstorff Ave, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.420941,
-        "longitude": -122.09335289999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2341446432768038847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/129",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJnd9jPSi3j4AR5m7u0VrveB8",
       "formattedAddress": "53 W El Camino Real, Mountain View, CA 94040, USA",
       "location": {
