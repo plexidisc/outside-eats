@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GMGVMQ0MY1"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-GMGVMQ0MY1');</script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Farmers Markets — Outside Eats</title>
+<link href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56' fill='none'%3E%3Ccircle cx='28' cy='28' r='26.5' stroke='%231B2A4A' stroke-width='3'/%3E%3Cpath d='M15 33 Q15 22 28 22 Q41 22 41 33' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round' fill='none'/%3E%3Cline x1='13' y1='33' x2='43' y2='33' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Cline x1='18' y1='37' x2='38' y2='37' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Cline x1='28' y1='22' x2='28' y2='19' stroke='%231B2A4A' stroke-width='3' stroke-linecap='round'/%3E%3Ccircle cx='28' cy='18' r='2.8' fill='%231B2A4A'/%3E%3C/svg%3E" rel="icon" type="image/svg+xml"/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700;800&amp;family=Source+Sans+3:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<style>
+:root {
+  --navy: #1B2A4A; --cream: #FAFAF8; --light-blue: #F0F3F8;
+  --green: #3B6D11; --green-light: #EAF3DE;
+  --border-blue: #D8DEE8; --ink: #1A1A1A; --ink-faint: #999;
+  --border: #E8E8E4;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Source Sans 3', sans-serif; background: var(--cream); color: var(--ink); }
+
+/* BAR 1 */
+.bar1 { background: #011f49; border-bottom: none; padding: 0; height: 72px; }
+.bar1-inner { max-width: 1100px; margin: 0 auto; padding: 0 1.5rem; display: flex; align-items: center; justify-content: space-between; height: 72px; }
+.logo-block { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
+.logo-divider { width: 1px; height: 42px; background: rgba(255,255,255,0.25); flex-shrink: 0; margin-left: 4px; }
+.logo-text { display: flex; flex-direction: column; }
+.logo-wordmark { font-family: 'DM Sans', sans-serif; font-size: 21px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: white; line-height: 1; }
+.logo-sub { font-size: 9.5px; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.55); margin-top: 3px; }
+
+
+/* BAR 2 */
+.bar2 { background: var(--light-blue); border-bottom: 1px solid var(--border-blue); padding: 0; }
+.bar2-inner { max-width: 1100px; margin: 0 auto; padding: 0.55rem 1.5rem; display: flex; align-items: center; gap: 10px; }
+.bar2-label { font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 700; color: var(--ink); letter-spacing: 0.04em; text-transform: uppercase; flex: 1; }
+.location-filter { position: relative; flex-shrink: 0; }
+.pill-btn { display: flex; align-items: center; gap: 6px; padding: 7px 14px; border-radius: 24px; border: 1.5px solid #C8CED8; background: white; color: var(--ink); font-family: 'Source Sans 3', sans-serif; font-size: 13px; font-weight: 500; cursor: pointer; outline: none; white-space: nowrap; }
+.pill-btn:hover { border-color: #011f49; }
+.pill-btn svg { flex-shrink: 0; opacity: 0.6; }
+.pill-btn-chevron { width: 0; height: 0; flex-shrink: 0; margin-left: 2px; border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 5px solid #666; }
+.pill-dropdown-list { display: none; position: absolute; top: calc(100% + 6px); left: 0; min-width: 180px; background: white; border: 1px solid #C8CED8; border-radius: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); z-index: 500; }
+.pill-dropdown-list.open { display: block; }
+.pill-dropdown-item { padding: 9px 14px; font-size: 14px; font-family: 'Source Sans 3', sans-serif; color: var(--ink); cursor: pointer; }
+.pill-dropdown-item:hover { background: #F0F3F8; }
+.pill-dropdown-item.active { color: #011f49; font-weight: 600; }
+.market-list { max-width: 1100px; margin: 0 auto; background: white; }
+.section-header { padding: 0.4rem 1rem; background: #6B2737; font-family: 'DM Sans', sans-serif; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: white; }
+.market-card { display: flex; border-bottom: 1px solid var(--border); padding: 1.25rem 1rem; gap: 1rem; }
+.market-card:last-child { border-bottom: none; }
+.market-day-block { width: 72px; min-width: 72px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--green-light); border-radius: 4px; padding: 0.5rem; flex-shrink: 0; gap: 2px; }
+.market-day { font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 800; color: var(--green); text-transform: uppercase; letter-spacing: 0.05em; }
+.market-freq { font-family: 'DM Sans', sans-serif; font-size: 9px; font-weight: 700; color: var(--green); text-transform: uppercase; letter-spacing: 0.08em; opacity: 0.8; }
+.market-body { flex: 1; min-width: 0; }
+.market-name { font-family: 'DM Sans', sans-serif; font-size: 16px; font-weight: 700; color: var(--ink); margin-bottom: 4px; }
+.market-meta { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 6px; }
+.market-hours { font-size: 12px; font-weight: 600; color: var(--green); }
+.meta-dot { color: #ccc; font-size: 10px; }
+.market-location { font-size: 12px; color: var(--ink-faint); }
+.market-location a { color: var(--ink-faint); text-decoration: none; border-bottom: 1px dotted #ccc; }
+.market-location a:hover { color: var(--navy); border-bottom-color: var(--navy); }
+.market-desc { font-size: 13px; color: #555; line-height: 1.5; margin-bottom: 8px; }
+.market-footer { display: flex; align-items: center; gap: 8px; }
+.mlink { font-size: 10px; font-weight: 700; padding: 3px 8px; border: 1px solid var(--navy); border-radius: 2px; color: var(--navy); text-transform: uppercase; letter-spacing: 0.05em; text-decoration: none; white-space: nowrap; }
+.mlink:hover { background: var(--navy); color: white; }
+
+/* HAMBURGER */
+.slide-nav-item:hover { background: #F0F3F8; }
+.slide-nav-item.coming-soon { color: #bbb; pointer-events: none; }
+.slide-nav-item.coming-soon::after { content: ' — Coming Soon'; font-size: 11px; color: #ccc; }
+
+
+/* SAVED HEART */
+.fm-heart-btn {
+  background: none; border: none; cursor: pointer; padding: 4px;
+  margin-left: auto; flex-shrink: 0; display: flex; align-items: center;
+  justify-content: center; border-radius: 4px;
+  transition: opacity 0.12s, background 0.12s;
+  opacity: 0.4;
+}
+.fm-heart-btn:hover, .fm-heart-btn.favorited { opacity: 1; background: #fdf0f2; }
+.fm-heart-btn svg { width: 18px; height: 18px; stroke: #e0415a; fill: none; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; transition: fill 0.15s; display: block; }
+.fm-heart-btn.favorited svg { fill: #e0415a; }
+
+.hidden { display: none; }
+footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); text-align: center; }
+
+.hamburger-btn {
+  background: transparent; border: none; padding: 6px;
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: center; gap: 5px; cursor: pointer; flex-shrink: 0;
+}
+.hamburger-btn span { display: block; width: 20px; height: 2px; background: white; border-radius: 2px; }
+.slide-panel {
+  position: fixed; top: 0; right: -280px; width: 280px; height: 100vh;
+  background: white; box-shadow: -4px 0 24px rgba(0,0,0,0.15);
+  z-index: 1000; transition: right 0.25s ease; display: flex; flex-direction: column;
+}
+.slide-panel.open { right: 0; }
+.slide-panel-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.35);
+  z-index: 999; opacity: 0; pointer-events: none; transition: opacity 0.25s ease;
+}
+.slide-panel-overlay.open { opacity: 1; pointer-events: all; }
+.slide-panel-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 1.2rem 1.25rem 1rem; border-bottom: 1px solid #E8E8E4;
+}
+.slide-panel-title {
+  font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 800;
+  letter-spacing: 0.08em; text-transform: uppercase; color: #1B2A4A;
+}
+.slide-panel-close {
+  background: none; border: none; cursor: pointer; padding: 4px;
+  color: #999; font-size: 20px; line-height: 1;
+}
+.slide-panel-close:hover { color: #1B2A4A; }
+.slide-nav { padding: 0.75rem 0; }
+.slide-nav-section {
+  font-family: 'DM Sans', sans-serif; font-size: 10px; font-weight: 700;
+  letter-spacing: 0.1em; text-transform: uppercase; color: #999;
+  padding: 0.75rem 1.25rem 0.35rem;
+}
+.slide-nav-item {
+  display: block; padding: 0.65rem 1.25rem; font-family: 'Source Sans 3', sans-serif;
+  font-size: 15px; font-weight: 500; color: #1A1A1A; text-decoration: none;
+  transition: background 0.12s;
+}
+.slide-nav-item:hover { background: #F0F3F8; }
+.slide-nav-item.coming-soon { color: #bbb; pointer-events: none; }
+.slide-nav-item.coming-soon::after { content: ' — Coming Soon'; font-size: 11px; color: #ccc; }
+
+/* Mobile — mirrors index.html header-top mobile rules */
+@media (max-width: 680px) {
+  .bar1 { height: 60px; }
+  .bar1-inner { height: 60px; padding: 0 1rem; }
+  .logo-block { gap: 8px; margin-right: 12px; }
+  .logo-wordmark { font-size: 17px; }
+  .logo-sub { font-size: 7px; }
+  .logo-divider { display: block; }
+}
+</style>
+</link></head>
+<body>
+<div class="bar1">
+<div class="bar1-inner">
+  <a class="logo-block" href="/index.html">
+    <svg class="logo-icon" width="48" height="48" viewBox="0 0 56 56" fill="none">
+      <circle cx="28" cy="28" r="26.5" stroke="white" stroke-width="2.5"/>
+      <path d="M15 33 Q15 22 28 22 Q41 22 41 33" stroke="white" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+      <line x1="13" y1="33" x2="43" y2="33" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="18" y1="37" x2="38" y2="37" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="28" y1="22" x2="28" y2="19" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="28" cy="18" r="2.8" fill="white"/>
+    </svg>
+    <div class="logo-text">
+      <div class="logo-wordmark">Outside Eats</div>
+      <div class="logo-sub">SF Peninsula Premier Food Guide</div>
+    </div>
+    <div class="logo-divider"></div>
+  </a>
+  <button class="hamburger-btn" onclick="togglePanel()" aria-label="Explore menu"><span></span><span></span><span></span></button>
+</div>
+
+</div>
+<div class="bar2">
+<div class="bar2-inner">
+<span class="bar2-label">🌿 Farmers Markets</span>
+<div class="location-filter" id="locationPillWrap">
+  <button class="pill-btn" id="locationPillBtn" onclick="toggleLocationPill(event)">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+    <span id="locationPillLabel">SF Peninsula</span>
+    <div class="pill-btn-chevron"></div>
+  </button>
+  <div class="pill-dropdown-list" id="locationPillList">
+    <div class="pill-dropdown-item" onclick="selectLocation('all', 'All locations')">All locations</div>
+    <div class="pill-dropdown-item active" onclick="selectLocation('SF Peninsula', 'SF Peninsula')">SF Peninsula</div>
+    <div class="pill-dropdown-item" onclick="selectLocation('San Francisco', 'San Francisco')">San Francisco</div>
+    <div class="pill-dropdown-item" onclick="selectLocation('South Bay', 'South Bay')">South Bay</div>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="slide-panel-overlay" id="panelOverlay" onclick="closePanel()"></div>
+<div class="slide-panel" id="slidePanel">
+  <div class="slide-panel-header">
+    <span class="slide-panel-title">Explore</span>
+    <button class="slide-panel-close" onclick="closePanel()">✕</button>
+  </div>
+  <nav class="slide-nav">
+    <a class="slide-nav-item" href="/index.html">Restaurants</a>
+    <a class="slide-nav-item" href="events.html">Events</a>
+    <a class="slide-nav-item" href="openings.html">Openings</a>
+    <a class="slide-nav-item" href="farmers-markets.html">Farmers Markets</a>
+    <div class="slide-nav-section">Coming Soon</div>
+    <span class="slide-nav-item coming-soon">Wine</span>
+    <span class="slide-nav-item coming-soon">Beer</span>
+    <span class="slide-nav-item coming-soon">Shop</span>
+    </nav>
+</div>
+
+<div class="market-list">
+<div class="section-header" data-location="SF Peninsula">SF Peninsula</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Tue</div>
+<div class="market-freq">Seasonal</div>
+</div>
+<div class="market-body">
+<div class="market-name">25th Ave. Farmers' Market</div>
+<div class="market-meta">
+<span class="market-hours">Afternoon (check seasonal dates)</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=194+W+25th+Ave%2C+San+Mateo" target="_blank" rel="noopener">194 W 25th Ave, San Mateo</a></span>
+</div>
+<div class="market-desc">Traditionally a seasonal market in San Mateo operating on Tuesday afternoons. Check current status for seasonal dates.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_25th_ave__farmers__market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.pcfma.org/25thave" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Wed</div>
+<div class="market-freq">Apr–Dec</div>
+</div>
+<div class="market-body">
+<div class="market-name">Coastside Farmers Market — Pacifica</div>
+<div class="market-meta">
+<span class="market-hours">2:00 PM – 6:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://google.com/maps?ll=37.609283,-122.495032&z=19&t=m&hl=en&gl=US&mapclient=embed&cid=8730350398005431197" target="_blank" rel="noopener">499-419 Old County Rd, Pacifica, CA 94044</a></span>
+</div>
+<div class="market-desc">A lively mid-week market in the Rockaway Beach area. Popular for artisan breads and fresh veggies after work while enjoying the ocean breeze.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_coastside_farmers_market___pacifica" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.coastsidefarmersmarkets.org/" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Thu</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">Portola Valley Farmers' Market</div>
+<div class="market-meta">
+<span class="market-hours">2:00 PM – 5:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=765+Portola+Rd%2C+near+Town+Center" target="_blank" rel="noopener">765 Portola Rd, near Town Center</a></span>
+</div>
+<div class="market-desc">A smaller, relaxed market nestled in the Portola Valley hills. Ideal for farm-fresh eggs, specialty honey, and seasonal greens in a rural, scenic setting.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_portola_valley_farmers__market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.smcgov.org/agwm/location/portola-valley-farmers-market" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Apr–Dec</div>
+</div>
+<div class="market-body">
+<div class="market-name">Coastside Farmers Market — Half Moon Bay</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=Shoreline+Station%2C+225+Cabrillo+Hwy" target="_blank" rel="noopener">Shoreline Station, 225 Cabrillo Hwy</a></span>
+</div>
+<div class="market-desc">Located right on Highway 1 for a quintessential coastal experience. A popular stop for fresh-off-the-boat crab in season, stone fruits, and locally grown flowers.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_coastside_farmers_market___half_moon_bay" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.coastsidefarmersmarkets.org/" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Foster City Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1010+Metro+Center+Blvd%2C+Foster+City" target="_blank" rel="noopener">1010 Metro Center Blvd, Foster City</a></span>
+</div>
+<div class="market-desc">A certified weekly market open year round in the heart of Foster City, with fresh local produce, artisan vendors, and a relaxed community atmosphere steps from the Bay Trail.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_foster_city_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.wcfma.org/foster-city" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Apr–Nov</div>
+</div>
+<div class="market-body">
+<div class="market-name">Redwood City Kiwanis Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">8:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=500+Arguello+St%2C+Redwood+City" target="_blank" rel="noopener">500 Arguello St, Redwood City</a></span>
+</div>
+<div class="market-desc">A long-running community market in the heart of Redwood City known for its friendly neighborhood feel and locally grown fruits and vegetables. Conveniently located near downtown shops and cafes.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_redwood_city_kiwanis_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.rwckiwanisfarmersmarket.com/" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">San Mateo Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1700+W+Hillsdale+Blvd%2C+San+Mateo" target="_blank" rel="noopener">1700 W Hillsdale Blvd, San Mateo</a></span>
+</div>
+<div class="market-desc">Weekly outdoor market with fresh produce, local vendors, and prepared foods at the College of San Mateo.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_san_mateo_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.pcfma.org/market/san-mateo-farmers-market" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">Burlingame Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=Park+Rd+at+Burlingame+Ave%2C+Burlingame" target="_blank" rel="noopener">Park Rd at Burlingame Ave, Burlingame</a></span>
+</div>
+<div class="market-desc">Sunday market in downtown Burlingame with local produce, artisan food vendors, and prepared foods year-round.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_burlingame_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.smcgov.org/agwm/location/fresh-market-burlingame" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">Menlo Park Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1050+Chestnut+St%2C+Menlo+Park" target="_blank" rel="noopener">1050 Chestnut St, Menlo Park</a></span>
+</div>
+<div class="market-desc">Operated by the Menlo Park Live Oak Lions Club, this market has been a local Sunday staple for over 30 years. Known for high-quality organic produce, fresh seafood, and live music. Proceeds and leftover produce often support local homeless outreach.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_menlo_park_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.localharvest.org/menlo-park-farmers-market-M3662" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">San Carlos Farmers' Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=600+Laurel+St+at+Cherry+St%2C+San+Carlos" target="_blank" rel="noopener">600 Laurel St at Cherry St, San Carlos</a></span>
+</div>
+<div class="market-desc">A beloved local tradition on Laurel Street that occasionally features seasonal nighttime events. Great mix of local farms, rotisserie chicken, and live entertainment. Particularly family-friendly.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_san_carlos_farmers__market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://uvfm.org/san-carlos-sundays" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Thu</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">Brisbane Community Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">2:00 PM – 6:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=11+Old+County+Rd%2C+Brisbane" target="_blank" rel="noopener">11 Old County Rd, Brisbane</a></span>
+</div>
+<div class="market-desc">A quiet, community-driven market offering a reliable source of fresh produce and artisanal goods for the SF Peninsula.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_brisbane_community_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.wcfma.org/brisbane" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="SF Peninsula">
+<div class="market-day-block">
+<div class="market-day">Thu &amp; Sat</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">Daly City Farmers' Market at Serramonte</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=133+Serramonte+Center%2C+Daly+City" target="_blank" rel="noopener">133 Serramonte Center, Daly City</a></span>
+</div>
+<div class="market-desc">A convenient stop for SF Peninsula residents with ample parking. Open Thursdays and Saturdays.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_daly_city_farmers__market_at_serramonte" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.cafarmersmkts.com/daly-city-farmers-market" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="section-header" data-location="San Francisco">San Francisco</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Tue, Thu & Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Ferry Plaza Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">Sat 8 AM–2 PM · Tue & Thu 10 AM–2 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1+Ferry+Building%2C+San+Francisco" target="_blank" rel="noopener">1 Ferry Building, San Francisco</a></span>
+</div>
+<div class="market-desc">San Francisco's flagship market, run by Foodwise. Over 100 vendors on Saturdays with top Bay Area farms, artisan food makers, and cooking demos. Tue and Thu for a smaller, more focused weekday market.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_ferry_plaza_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.ferrybuildingmarketplace.com/farmers-market/" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Wed</div>
+<div class="market-freq">Seasonal</div>
+</div>
+<div class="market-body">
+<div class="market-name">Castro Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">4:00 PM – 8:00 PM (Mar–Nov)</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=Noe+St+at+Market+St%2C+San+Francisco" target="_blank" rel="noopener">Noe St at Market St, San Francisco</a></span>
+</div>
+<div class="market-desc">A laid-back neighborhood market at the heart of the Castro, drawing locals with fresh seasonal produce, flowers, and weeknight energy every Wednesday evening.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_castro_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.sfenvironment.org/farmers-markets-in-sf" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Wed & Sun</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Heart of the City Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">7:00 AM – 4:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=147+Fulton+St%2C+San+Francisco" target="_blank" rel="noopener">147 Fulton St, San Francisco</a></span>
+</div>
+<div class="market-desc">One of the oldest and most accessible markets in the city, serving Civic Center since 1981. Strong on affordable produce and one of California's largest farmers market food assistance programs.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_heart_of_the_city_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://heartofthecity-farmersmarket.org" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Alemany Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">6:00 AM – 3:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=100+Alemany+Blvd%2C+San+Francisco" target="_blank" rel="noopener">100 Alemany Blvd, San Francisco</a></span>
+</div>
+<div class="market-desc">The first certified farmers market in California, founded in 1943 and city-run. Known for exceptional Asian produce, wide variety, and the lowest prices of any SF market.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_alemany_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://sfrecpark.org/facilities/facility/details/alemany-farmers-market-403" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Fillmore Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1700+O%27Farrell+St%2C+San+Francisco" target="_blank" rel="noopener">1700 O'Farrell St, San Francisco</a></span>
+</div>
+<div class="market-desc">A Saturday staple in the Western Addition neighborhood with fresh local produce, baked goods, and a strong community vibe on a tree-lined stretch of O'Farrell Street.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_fillmore_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.pcfma.org/market/fillmore-farmers-market" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Noe Valley Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">8:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=3861+24th+St%2C+San+Francisco" target="_blank" rel="noopener">3861 24th St, San Francisco</a></span>
+</div>
+<div class="market-desc">A beloved neighborhood market on Noe Valley Town Square with exactly the right number of vendors. Known for exceptional seasonal produce, good breakfast options, and a walkable, community feel.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_noe_valley_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://noevalleyfarmersmarket.com" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Seasonal</div>
+</div>
+<div class="market-body">
+<div class="market-name">North Beach Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM (May–Nov)</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=659+Columbus+Ave%2C+San+Francisco" target="_blank" rel="noopener">659 Columbus Ave, San Francisco</a></span>
+</div>
+<div class="market-desc">A charming seasonal market near Coit Tower and the Joe DiMaggio Playground. Smaller in scale but curated, with Rize Up Sourdough among the standout vendors.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_north_beach_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.sfenvironment.org/farmers-markets-in-sf" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Clement Street Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 2:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=200+Clement+St%2C+San+Francisco" target="_blank" rel="noopener">200 Clement St, San Francisco</a></span>
+</div>
+<div class="market-desc">A diverse Sunday market in the Inner Richmond with a wide selection of Asian vegetables and herbs alongside the usual California staples. Great value and a lively neighborhood backdrop.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_clement_street_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.sfenvironment.org/farmers-markets-in-sf" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Divisadero Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1377+Fell+St%2C+San+Francisco" target="_blank" rel="noopener">1377 Fell St, San Francisco</a></span>
+</div>
+<div class="market-desc">A neighborhood market in the DMV parking lot near Alamo Square, popular with Haight and NoPa residents. Good selection of organic produce and a friendly, low-key atmosphere.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_divisadero_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.sfenvironment.org/farmers-markets-in-sf" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Fort Mason Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:30 AM – 1:30 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=Fort+Mason+Center%2C+Marina+Blvd%2C+San+Francisco" target="_blank" rel="noopener">Marina Blvd, Fort Mason Center, San Francisco</a></span>
+</div>
+<div class="market-desc">Arguably the most scenic market in the city, set at Fort Mason Center with views of the Golden Gate Bridge and the Bay. Run by AIM with a strong selection of Marin farms and artisan vendors.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_fort_mason_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.agriculturalinstitute.org/fort-mason" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Inner Sunset Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1315+8th+Ave%2C+San+Francisco" target="_blank" rel="noopener">1315 8th Ave, San Francisco</a></span>
+</div>
+<div class="market-desc">A year-round Sunday market tucked between Irving and Judah streets, serving the Inner Sunset neighborhood with fresh produce, baked goods, and local vendors steps from Golden Gate Park.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_inner_sunset_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.sfenvironment.org/farmers-markets-in-sf" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">Outer Sunset Farmers Market &amp; Mercantile</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 2:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1994+37th+Ave%2C+San+Francisco" target="_blank" rel="noopener">1994 37th Ave, San Francisco</a></span>
+</div>
+<div class="market-desc">Family-friendly pop-up market at 37th Avenue with diverse food vendors, food trucks, and local makers.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_outer_sunset_farmers_market__amp__mercantile" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.sunsetmercantilesf.com" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="San Francisco">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Stonestown Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=3251+20th+Ave%2C+San+Francisco" target="_blank" rel="noopener">3251 20th Ave, San Francisco</a></span>
+</div>
+<div class="market-desc">A large, family-friendly market on the westside run by the Agricultural Institute of Marin. Named SF's best family-oriented farmers market, with a strong lineup of Marin farms and ample parking.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_stonestown_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.agriculturalinstitute.org/stonestown" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="section-header" data-location="South Bay">South Bay</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Downtown Palo Alto Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">8:00 AM – 12:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=Gilman+St%2C+Palo+Alto%2C+CA" target="_blank" rel="noopener">Gilman St, Palo Alto</a></span>
+</div>
+<div class="market-desc">A long-running Saturday market on Gilman Street behind the downtown post office, with 40+ vendors selling organic produce, fresh seafood, baked goods, flowers, and live music year-round.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_downtown_palo_alto_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.pafarmersmarket.org" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Rose Garden Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=577+Dana+St%2C+San+Jose%2C+CA" target="_blank" rel="noopener">577 Dana St, San Jose</a></span>
+</div>
+<div class="market-desc">A popular certified market in San Jose's Rose Garden neighborhood, held in the parking lot across from Lincoln High School with fresh produce, flowers, and local vendors every Saturday.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_rose_garden_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://uvfm.org" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Santa Clara Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=950+Jackson+St%2C+Santa+Clara%2C+CA" target="_blank" rel="noopener">950 Jackson St, Santa Clara</a></span>
+</div>
+<div class="market-desc">A well-established Saturday market on Jackson Street between Homestead and Benton, offering seasonal fruits and vegetables, artisan foods, and local vendors in the heart of Santa Clara.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_santa_clara_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://uvfm.org/santa-clara-saturdays" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Saratoga Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=14000+Fruitvale+Dr%2C+Saratoga%2C+CA" target="_blank" rel="noopener">14000 Fruitvale Dr, Saratoga</a></span>
+</div>
+<div class="market-desc">Held at West Valley College with over 50 local farmers and producers year-round. Known for Asian vegetables, fresh chicken, honey, mushrooms, and eggs in a spacious, easy-to-park setting.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_saratoga_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.cafarmersmkts.com/saratoga-farmers-market" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">Sunnyvale Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=Murphy+Ave+at+Washington+Ave%2C+Sunnyvale" target="_blank" rel="noopener">Murphy Ave at Washington Ave, Sunnyvale</a></span>
+</div>
+<div class="market-desc">This market takes over Murphy Avenue for a beautiful backdrop. Excellent variety of specialty prepared foods and ethnic produce. Reviewers highlight the vibrant energy and great central location.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_sunnyvale_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://uvfm.org/sunnyvale-saturday" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sat</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Willow Glen Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=1425+Lincoln+Ave%2C+San+Jose%2C+CA" target="_blank" rel="noopener">1425 Lincoln Ave, San Jose</a></span>
+</div>
+<div class="market-desc">A neighborhood favorite in the walkable Willow Glen district of San Jose. Year-round Saturday market with fresh produce, artisan bread, seafood, and a strong community following.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_willow_glen_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://uvfm.org/willow-glen-saturdays" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">California Avenue Farmers' Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=494+S+California+Ave%2C+Palo+Alto" target="_blank" rel="noopener">494 S California Ave, Palo Alto</a></span>
+</div>
+<div class="market-desc">Set on historic California Avenue in Palo Alto with a sophisticated, community-focused vibe. Features high-quality baked goods, specialty honeys, and diverse produce. Many shoppers pair their visit with brunch at nearby restaurants.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_california_avenue_farmers__market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://uvfm.org/palo-alto-sundays" target="_blank">More Info</a></div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Campbell Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=231+E+Campbell+Ave%2C+Campbell%2C+CA" target="_blank" rel="noopener">231 E Campbell Ave, Campbell</a></span>
+</div>
+<div class="market-desc">One of the South Bay's most celebrated street markets, running along E. Campbell Avenue with fresh produce, live music, arts and crafts, and frequent special events every Sunday year-round.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_campbell_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://uvfm.org/campbell-sundays" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Year Round</div>
+</div>
+<div class="market-body">
+<div class="market-name">Los Gatos Farmers Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=15+Montebello+Way%2C+Los+Gatos%2C+CA" target="_blank" rel="noopener">15 Montebello Way, Los Gatos</a></span>
+</div>
+<div class="market-desc">A charming certified market at Town Park Plaza in downtown Los Gatos with 40+ vendors. Known for Asian vegetables, honey, eggs, fresh chicken, and a walkable downtown setting.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_los_gatos_farmers_market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
+<a class="mlink" href="https://www.cafarmersmkts.com/los-gatos-farmers-market" target="_blank">More Info</a>
+</div>
+</div>
+</div>
+<div class="market-card" data-location="South Bay">
+<div class="market-day-block">
+<div class="market-day">Sun</div>
+<div class="market-freq">Weekly</div>
+</div>
+<div class="market-body">
+<div class="market-name">Mountain View Farmers' Market</div>
+<div class="market-meta">
+<span class="market-hours">9:00 AM – 1:00 PM</span>
+<span class="meta-dot">·</span>
+<span class="market-location"><a href="https://maps.google.com/?q=600+W+Evelyn+Ave%2C+Mountain+View" target="_blank" rel="noopener">600 W Evelyn Ave, Mountain View</a></span>
+</div>
+<div class="market-desc">One of the top-rated markets in the Bay Area. Boasts over 80 vendors with an extensive organic selection and fresh flowers. Extremely popular — arrive early for the best selection.</div>
+<div class="market-footer"><button class="fm-heart-btn" data-fmid="fm_mountain_view_farmers__market" onclick="toggleFM(this)" title="Save to my list"><svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button><a class="mlink" href="https://www.cafarmersmkts.com/mountain-view-farmers-market" target="_blank">More Info</a></div>
+</div>
+</div>
+
+<footer>© 2026 Outside Eats. All Rights Reserved. &nbsp;·&nbsp; <a href="/landing.html" style="color:inherit;text-decoration:underline;">More info &amp; advertising</a></footer>
+
+<script>
+function filterByLocation(val) {
+  document.querySelectorAll('.market-card, .section-header').forEach(function(el) {
+    if (val === 'all' || el.dataset.location === val) {
+      el.classList.remove('hidden');
+    } else {
+      el.classList.add('hidden');
+    }
+  });
+}
+
+function selectLocation(val, label) {
+  document.getElementById('locationPillLabel').textContent = label;
+  document.getElementById('locationPillList').classList.remove('open');
+  document.querySelectorAll('#locationPillList .pill-dropdown-item').forEach(function(el) { el.classList.remove('active'); });
+  event.target.closest('.pill-dropdown-item').classList.add('active');
+  filterByLocation(val);
+}
+
+function toggleLocationPill(e) {
+  e.stopPropagation();
+  document.getElementById('locationPillList').classList.toggle('open');
+}
+
+document.addEventListener('click', function() {
+  var list = document.getElementById('locationPillList');
+  if (list) list.classList.remove('open');
+});
+
+// Default to SF Peninsula on load
+filterByLocation('SF Peninsula');
+
+function togglePanel() {
+  document.getElementById('slidePanel').classList.toggle('open');
+  document.getElementById('panelOverlay').classList.toggle('open');
+}
+function closePanel() {
+  document.getElementById('slidePanel').classList.remove('open');
+  document.getElementById('panelOverlay').classList.remove('open');
+}
+
+// ── FARMERS MARKET FAVORITES ──────────────────────────────
+const FM_FAV_KEY = 'oe_fm_favorites';
+
+function getFMFavorites() {
+  try { return JSON.parse(localStorage.getItem(FM_FAV_KEY) || '[]'); } catch { return []; }
+}
+function saveFMFavorites(ids) {
+  localStorage.setItem(FM_FAV_KEY, JSON.stringify(ids));
+}
+function toggleFM(btn) {
+  const id = btn.dataset.fmid;
+  const favs = getFMFavorites();
+  const idx = favs.indexOf(id);
+  if (idx === -1) { favs.push(id); btn.classList.add('favorited'); btn.title = 'Remove from saved'; }
+  else { favs.splice(idx, 1); btn.classList.remove('favorited'); btn.title = 'Save to my list'; }
+  saveFMFavorites(favs);
+}
+function initFMFavorites() {
+  const favs = getFMFavorites();
+  document.querySelectorAll('.fm-heart-btn').forEach(btn => {
+    if (favs.includes(btn.dataset.fmid)) {
+      btn.classList.add('favorited');
+      btn.title = 'Remove from saved';
+    }
+  });
+}
+document.addEventListener('DOMContentLoaded', initFMFavorites);
+
+</script>
+</body>
+</html>
