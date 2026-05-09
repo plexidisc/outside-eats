@@ -2353,6 +2353,9 @@ var PREBAKED_DATA_CENTRAL = {
       "websiteUri": "http://avenidarestaurant.net/",
       "location": {},
       "cuisine": "Filipino",
+      "keywords": [
+        "outdoor seating"
+      ],
       "menuUrl": "https://avenidarestaurant.net/",
       "phone": "(650) 781-3637",
       "hours": "Mon–Thu 4pm–9pm, Fri-Sat 12pm–10pm, Sun 11:30am–8:30pm",
