@@ -9326,18 +9326,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJW2ynIPu3j4ARXDXw5S94e0o",
-      "formattedAddress": "135 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3944747,
-        "longitude": -122.0782518
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5367015528058598748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.dasbierhauz.com/",
       "displayName": {
         "text": "Das Bierhauz",
         "languageCode": "en"
       },
-      "cuisine": "German/Austrian"
+      "formattedAddress": "135 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5367015528058598748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.dasbierhauz.com/",
+      "location": {},
+      "cuisine": "German/Austrian",
+      "keywords": [
+        "burgers"
+      ]
     },
     {
       "id": "ChIJdwzB9Ji3j4ARCR4skGIBg0Q",
