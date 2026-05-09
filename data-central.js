@@ -2362,24 +2362,25 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJb-BteXCej4ARhYpP7JyS9cA",
-      "formattedAddress": "226 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5652151,
-        "longitude": -122.3225527
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13904180627253463685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://myavocadotoast.com/?utm_source=google",
       "displayName": {
         "text": "Avocado Toast",
         "languageCode": "en"
       },
+      "formattedAddress": "226 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13904180627253463685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://myavocadotoast.com/?utm_source=google",
+      "location": {},
       "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/san-mateo/Avocado Toast Small.jpeg",
-      "phone": "(650) 343-3844",
-      "description": "Family-owned deli serving fresh meals with homemade aiolis and spreads.",
-      "hours": "Mon–Fri 7am–2:30pm, Sat–Sun 8am–3:30pm",
+      "keywords": [
+        "healthy breakfast",
+        "breakfast burrito"
+      ],
       "menuUrl": "https://myavocadotoast.com/menu",
-      "priceRange": "$$"
+      "phone": "(650) 343-3844",
+      "hours": "Mon–Fri 7am–2:30pm, Sat–Sun 8am–3:30pm",
+      "priceRange": "$$",
+      "description": "Family-owned deli serving fresh meals with homemade aiolis and spreads.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Avocado Toast Small.jpeg"
     },
     {
       "id": "ChIJv8E7TYeej4ARi-YP0JM5La8",
