@@ -2214,24 +2214,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJwbQzTXCej4AR6AiUPmWLsAY",
-      "formattedAddress": "69 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5640816,
-        "longitude": -122.32485650000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=482038427086489832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.amicis.com/san-mateo",
       "displayName": {
         "text": "Amici's East Coast Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza",
-      "photoUrl": "images/restaurant-photos/san-mateo/Amicis Small.jpeg",
-      "phone": "(650) 342-9392",
-      "description": "New York-style thin-crust pizza made with freshest ingredients, baked perfectly.",
-      "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 11:30am–9pm",
+      "formattedAddress": "69 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=482038427086489832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amicis.com/san-mateo",
+      "location": {},
+      "cuisine": [
+        "Pizza",
+        "Pasta"
+      ],
+      "keywords": [
+        "pasta",
+        "sandwiches",
+        "kids menu"
+      ],
       "menuUrl": "https://www.amicis.com/menu-san-mateo",
-      "priceRange": "$$"
+      "phone": "(650) 342-9392",
+      "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "New York-style thin-crust pizza made with freshest ingredients, baked perfectly.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Amicis Small.jpeg"
     },
     {
       "id": "ChIJhcaPCFCfj4ARowgmpAwbgpc",
