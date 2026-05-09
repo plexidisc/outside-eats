@@ -2249,6 +2249,10 @@ var PREBAKED_DATA_CENTRAL = {
       "websiteUri": "https://www.ammaskitchen.online/",
       "location": {},
       "cuisine": "Indian",
+      "keywords": [
+        "dosa",
+        "biriyani"
+      ],
       "phone": "(650) 597-3533",
       "hours": "Mon 10am–11pm, Tue 10:20am–11pm, Wed–Thu 10am–11:59pm, Fri 9:30am–11:59pm, Sat 10am–11:59pm, Sun 10:15am–11pm",
       "priceRange": "$$",
