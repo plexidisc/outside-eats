@@ -2344,24 +2344,21 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ62bRY3Cej4AR3l5NXHnw5fc",
-      "formattedAddress": "201 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.565174999999996,
-        "longitude": -122.3231196
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17862947901065223902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://avenidarestaurant.net/",
       "displayName": {
         "text": "Avenida Restaurant",
         "languageCode": "en"
       },
+      "formattedAddress": "201 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17862947901065223902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://avenidarestaurant.net/",
+      "location": {},
       "cuisine": "Filipino",
-      "photoUrl": "images/restaurant-photos/san-mateo/Avenida Small.jpeg",
-      "phone": "(650) 781-3637",
-      "description": "Traditional Filipino recipes elevated with contemporary techniques and local ingredients.",
-      "hours": "Mon–Thu 4pm–9pm, Fri 12pm–10pm, Sat 12pm–10pm, Sun 11:30am–8:30pm",
       "menuUrl": "https://avenidarestaurant.net/",
-      "priceRange": "$$"
+      "phone": "(650) 781-3637",
+      "hours": "Mon–Thu 4pm–9pm, Fri-Sat 12pm–10pm, Sun 11:30am–8:30pm",
+      "priceRange": "$$",
+      "description": "Traditional Filipino recipes elevated with contemporary techniques and local ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Avenida Small.jpeg"
     },
     {
       "id": "ChIJb-BteXCej4ARhYpP7JyS9cA",
