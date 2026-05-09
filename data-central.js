@@ -2170,24 +2170,24 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ96g6P4eej4ARKIor0cbehBU",
-      "formattedAddress": "600 S Norfolk St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5709114,
-        "longitude": -122.30920809999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1550609117216475688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://aldospizzamenu.com/?utm_source=gbp",
       "displayName": {
         "text": "Aldo's Pizza",
         "languageCode": "en"
       },
+      "formattedAddress": "600 S Norfolk St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1550609117216475688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://aldospizzamenu.com/?utm_source=gbp",
+      "location": {},
       "cuisine": "Pizza",
-      "photoUrl": "images/restaurant-photos/san-mateo/Aldos Pizza Small.jpeg",
-      "phone": "(650) 344-5051",
-      "description": "Famous crispy, flaky thin crust made from Aldo's original recipe.",
-      "hours": "Mon–Thu 11:00am–8:30pm, Fri–Sat 11:00am–9:00pm, Sun 11:00am–8:30pm",
+      "keywords": [
+        "thin crust pizza"
+      ],
       "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/aldo-s-pizza/menu",
-      "priceRange": "$$"
+      "phone": "(650) 344-5051",
+      "hours": "Sun–Thu 11:00am–8:30pm, Fri–Sat 11:00am–9:00pm",
+      "priceRange": "$$",
+      "description": "Famous crispy, flaky thin crust made from Aldo's original recipe.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Aldos Pizza Small.jpeg"
     },
     {
       "id": "ChIJc3R6j16ej4ARSX5Uq0eROqI",
