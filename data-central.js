@@ -2268,19 +2268,17 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "305 E 4th Ave, San Mateo, CA 94401, USA",
       "googleMapsUri": "https://maps.google.com/?cid=16926087957210670218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
-      "location": {
-        "latitude": 37.5633,
-        "longitude": -122.3242
-      },
+      "location": {},
       "cuisine": [
-        "French",
-        "Wine Bar"
+        "Wine Bar",
+        "Spanish",
+        "Mediterranean"
       ],
-      "photoUrl": "images/restaurant-photos/san-mateo/Amour Amour Small.jpeg",
+      "menuUrl": "https://www.opentable.com/r/amour-amour-wine-bar-and-tapas-san-mateo",
       "phone": "(650) 513-1759",
       "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 5:00pm–9:30pm, Sun Closed",
-      "menuUrl": "https://www.opentable.com/r/amour-amour-wine-bar-and-tapas-san-mateo",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Amour Amour Small.jpeg"
     },
     {
       "id": "ChIJe9hUWKKfj4ARd4cxNTD2Mo8",
