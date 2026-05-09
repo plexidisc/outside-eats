@@ -2224,7 +2224,7 @@ var PREBAKED_DATA_CENTRAL = {
       "location": {},
       "cuisine": [
         "Pizza",
-        "Pasta"
+        "Italian"
       ],
       "keywords": [
         "pasta",
