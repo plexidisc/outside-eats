@@ -9700,21 +9700,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Italian"
     },
     {
-      "id": "ChIJnd9jPSi3j4AR5m7u0VrveB8",
-      "formattedAddress": "53 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.380406799999996,
-        "longitude": -122.07403409999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2267825585729203942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/152",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJZ51N9z23j4ARBFYUT_oKtCM",
       "formattedAddress": "225 E Middlefield Rd, Mountain View, CA 94043, USA",
       "location": {
