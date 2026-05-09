@@ -2304,24 +2304,24 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJtyXnf-iej4ARgH5vz-MDChE",
-      "formattedAddress": "1901 S Norfolk St, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.553649199999995,
-        "longitude": -122.29081790000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1227798125384531584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.applefrittereatery.com/",
       "displayName": {
         "text": "Apple Fritter",
         "languageCode": "en"
       },
+      "formattedAddress": "1901 S Norfolk St, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1227798125384531584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.applefrittereatery.com/",
+      "location": {},
       "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/san-mateo/Apple Fritter Small.jpeg",
-      "phone": "(650) 525-9125",
-      "description": "They serve donut burgers, fruity pebble shakes, and churro french toasts.",
-      "hours": "Mon–Fri 6:30am–2:45pm, Sat–Sun 7:30am–2:45pm",
+      "keywords": [
+        "burgers"
+      ],
       "menuUrl": "https://www.yelp.com/biz/apple-fritter-san-mateo",
-      "priceRange": "$$"
+      "phone": "(650) 525-9125",
+      "hours": "Mon–Fri 6:30am–2:45pm, Sat–Sun 7:30am–2:45pm",
+      "priceRange": "$$",
+      "description": "They serve donut burgers, fruity pebble shakes, and churro french toasts.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Apple Fritter Small.jpeg"
     },
     {
       "id": "ChIJC3dM58Oej4ARtSZewKk4DV8",
