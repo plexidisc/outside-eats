@@ -2138,7 +2138,8 @@ var PREBAKED_DATA_CENTRAL = {
         "cheese plates",
         "live music",
         "jazz",
-        "date night"
+        "date night",
+        "romantic atmosphere"
       ],
       "phone": "650-387-0888",
       "hours": "Mon–Tue Closed, Wed–Sun 5pm–10pm",
