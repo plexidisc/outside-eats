@@ -2339,7 +2339,7 @@ var PREBAKED_DATA_CENTRAL = {
       ],
       "hours": "Mon–Sun 11am–8pm",
       "priceRange": "$$",
-      "description": "Texas style wood-fired barbecue. 40 years in business.",
+      "description": "Texas style wood-fired barbecue. 40 years in business. Locally Owned.",
       "photoUrl": "images/restaurant-photos/san-mateo/Armadillo Willy's BBQ Small.jpeg"
     },
     {
