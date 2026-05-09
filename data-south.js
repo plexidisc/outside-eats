@@ -9505,21 +9505,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJW2bLBLywj4ARhMyt7xf43Js",
-      "formattedAddress": "2098 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.396018999999995,
-        "longitude": -122.10150729999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11231124352444255364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.fiveguys.com/2098-w-el-camino-real",
-      "displayName": {
-        "text": "Five Guys",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJ57sfDTS3j4ARrjiqh6-gZLQ",
       "formattedAddress": "153 Castro St, Mountain View, CA 94041, USA",
       "location": {
