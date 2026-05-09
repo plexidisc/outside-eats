@@ -9025,21 +9025,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJ9_WPhTO3j4ARX8bl2Ip9510",
-      "formattedAddress": "340 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3921458,
-        "longitude": -122.08032820000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6766515000445355615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://avasmkt.com/",
-      "displayName": {
-        "text": "Ava's Downtown Market & Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJu_26IQm6j4AR_Pl-EyDdOwU",
       "formattedAddress": "2423 Old Middlefield Way, Mountain View, CA 94043, USA",
       "location": {
