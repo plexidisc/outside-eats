@@ -2134,7 +2134,11 @@ var PREBAKED_DATA_CENTRAL = {
       "location": {},
       "cuisine": "Wine Bar",
       "keywords": [
-        "charcuterie"
+        "charcuterie",
+        "cheese plates",
+        "live music",
+        "jazz",
+        "date night"
       ],
       "phone": "650-387-0888",
       "hours": "Mon–Tue Closed, Wed–Sun 5pm–10pm",
