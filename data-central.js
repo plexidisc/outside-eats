@@ -2148,24 +2148,25 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJSQJ_CHuej4ARezc8vH_W3Mc",
-      "formattedAddress": "602 E 4th Ave C, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.566596,
-        "longitude": -122.31857
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14401621552531257211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.alcarbon.us/",
       "displayName": {
         "text": "Al Carbon Pollos a la Brasa",
         "languageCode": "en"
       },
+      "formattedAddress": "602 E 4th Ave C, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14401621552531257211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.alcarbon.us/",
+      "location": {},
       "cuisine": "Peruvian",
-      "phone": "(650) 544-4687",
-      "description": "Free-range Peruvian chicken slowly roasted over mesquite charcoal open flame.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Al Carbon Small.jpeg",
-      "hours": "Mon 9am–7pm, Tue–Thu 9am–8pm, Fri–Sat 9am–9pm, Sun 9am–7pm",
+      "keywords": [
+        "whole chicken",
+        "rotisserie chicken"
+      ],
       "menuUrl": "https://alcarbon.us/menu/",
-      "priceRange": "$$"
+      "phone": "(650) 544-4687",
+      "hours": "Sun-Mon 9am–7pm, Tue–Thu 9am–8pm, Fri–Sat 9am–9pm",
+      "priceRange": "$$",
+      "description": "Free-range Peruvian chicken slowly roasted over mesquite charcoal open flame.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Al Carbon Small.jpeg"
     },
     {
       "id": "ChIJ96g6P4eej4ARKIor0cbehBU",
