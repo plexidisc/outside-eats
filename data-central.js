@@ -2289,20 +2289,18 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "637 S B St, San Mateo, CA 94401, USA",
       "googleMapsUri": "https://maps.google.com/?cid=10318580383170529143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://anatolianmart.com/",
-      "location": {
-        "latitude": 37.5624,
-        "longitude": -122.3254
-      },
+      "location": {},
       "cuisine": [
         "Middle Eastern",
-        "Mediterranean"
+        "Mediterranean",
+        "Turkish"
       ],
-      "phone": "(650) 445-7273",
-      "description": "Authentic Mediterranean desserts, traditional breakfast, and handcrafted cafe drinks.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg",
-      "hours": "Mon–Sun 8am–7pm",
       "menuUrl": "https://www.doordash.com/store/anatolian-san-mateo-34039627/",
-      "priceRange": "$$"
+      "phone": "(650) 445-7273",
+      "hours": "Mon–Sun 8am–7pm",
+      "priceRange": "$$",
+      "description": "Family owned Authentic Mediterranean desserts, traditional breakfast, and handcrafted cafe drinks.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg"
     },
     {
       "id": "ChIJtyXnf-iej4ARgH5vz-MDChE",
