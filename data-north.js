@@ -5485,7 +5485,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic Turkish cuisine featuring fresh kebabs, mezes, and baklava with bold spices and daily sourced halal meats.",
       "menuUrl": "https://cafe-istanbul.com/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Cafe Istanbul Small.jpeg"
     },
     {
       "id": "ChIJ1ePQOZ53j4ARGIF36F6apds",
