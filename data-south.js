@@ -4314,7 +4314,7 @@ var PREBAKED_DATA_SOUTH = {
       "googleMapsUri": "https://maps.google.com/?q=720+Santa+Cruz+Ave,+Menlo+Park,+CA",
       "websiteUri": "https://cafevivantca.com",
       "displayName": {
-        "text": "Caf\u00e9 Vivant",
+        "text": "Café Vivant",
         "languageCode": "en"
       },
       "cuisine": "American,Wine Bar",
@@ -8111,7 +8111,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pompeii Ristorante",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/Pompeii Small.jpeg"
     },
     {
       "id": "ChIJ-2p_QZSxj4ARYGCfHQB_0O4",
@@ -8126,7 +8127,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tre Monti",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/Tre Monti Small.jpeg"
     },
     {
       "id": "ChIJtbMfvUuxj4ARZ8BrWBSv-bE",
@@ -8156,7 +8158,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "State of Mind Public House and Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/los-altos/State of Mind Small.jpeg"
     },
     {
       "id": "ChIJjadGJvCwj4ARXF5gOqhZgOQ",
@@ -8186,7 +8189,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Roja Los Altos",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Roja Los Altos Small.jpeg"
     },
     {
       "id": "ChIJc5kBeZuwj4AR2MeiNjQT000",
@@ -8201,7 +8205,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Pasta Market",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/The Pasta Market Small.jpeg"
     },
     {
       "id": "ChIJm-8VnFmxj4ARHF9KXzjTdPQ",
@@ -8216,7 +8221,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Miko's CALiTALIA",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/los-altos/Mikos Calitalia Small.jpeg"
     },
     {
       "id": "ChIJzYrvNO6wj4AR8INu1uGm4ds",
@@ -8246,7 +8252,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sumo Japanese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Sumo Small.jpeg"
     },
     {
       "id": "ChIJxzb7Bu-wj4ARREiuuOuI7Fo",
@@ -8261,7 +8268,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mikado",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Mikado Small.jpeg"
     },
     {
       "id": "ChIJPcGlQeqxj4AR9FkT7-9ijKA",
@@ -8276,7 +8284,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Yoshi Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Yoshi Sushi Small.jpeg"
     },
     {
       "id": "ChIJpdg90O-wj4ARHsvrk65jirE",
@@ -8291,7 +8300,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hiroshi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Hiroshi Small.jpeg"
     },
     {
       "id": "ChIJW4yhm5uwj4ARBBwtvAQfmkk",
@@ -8306,7 +8316,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sushiko",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Sushiko Small.jpeg"
     },
     {
       "id": "ChIJ1YsQu5uwj4ARLCuO0c9AdlA",
@@ -8321,7 +8332,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Estrellita Mexican Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Estrellitas Mexican Restaurant Small.jpeg"
     },
     {
       "id": "ChIJnfhbvSSxj4ARTj783MFYWKU",
@@ -8336,7 +8348,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "El Comal",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/El Comal Small.jpeg"
     },
     {
       "id": "ChIJbcTCru-wj4ARc6Q5mxRxth4",
@@ -8351,7 +8364,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Casa Lupe",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Casa Lupe Small.jpeg"
     },
     {
       "id": "ChIJF7_im3Gxj4ARzZ56keZ6BRM",
@@ -8366,7 +8380,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Fiesta Vallarta",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Fiesta Vallarta Small.jpeg"
     },
     {
       "id": "ChIJWUOqde-wj4ARvFRj5XeG0CY",
@@ -8381,7 +8396,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Los Altos Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Los Altos Grill Small.jpeg"
     },
     {
       "id": "ChIJ-Sw3qu-wj4ARKXxAJiK8Db4",
@@ -8396,7 +8412,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "LuLu's on Main Street",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Lulus A taqueria Small.jpeg"
     },
     {
       "id": "ChIJieswgBm0j4ARDSKwScWK5gw",
@@ -8411,7 +8428,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Red Pepper Bar and Grill",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Red Pepper Grill Small.jpeg"
     },
     {
       "id": "ChIJ3ekn4Nqxj4ARzOl_dKyqLdY",
@@ -8426,7 +8444,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tacos Al Vapor Michoacan",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Tacos Al Vapor Small.jpeg"
     },
     {
       "id": "ChIJ1T9Tk5uwj4ARFI0FkzPKOvI",
@@ -8441,7 +8460,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Chef Chu's",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Chef Chus Small.jpeg"
     },
     {
       "id": "ChIJNaoyf5uwj4ARkH2E1EA5J-g",
@@ -8456,7 +8476,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Noodle Talk",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Noodle Talk Small.jpeg"
     },
     {
       "id": "ChIJaXfxOu6wj4ARO0BnfIvT9Bo",
@@ -8471,7 +8492,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Charley Noodle & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Charley Noodle & Grill Small.jpeg"
     },
     {
       "id": "ChIJ8QRUHWixj4AR75O-fjpnt8g",
@@ -8486,7 +8508,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Kathmandu Cuisine Los Altos",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Kathmandu Cuisine Small.jpeg"
     },
     {
       "id": "ChIJbfidQpSxj4AR-1vlJ20o6pk",
@@ -8516,7 +8539,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Pho Cabin",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/The Pho Cabin Small.jpeg"
     },
     {
       "id": "ChIJSxBi5Mixj4ARwsvMQF5zgcE",
@@ -8531,7 +8555,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Aurum",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Aurum Small.jpeg"
     },
     {
       "id": "ChIJFwkVC72wj4ARgFhN7WeNqAY",
@@ -8546,7 +8571,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Amber India",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Amber Small.jpeg"
     },
     {
       "id": "ChIJD7zQ58exj4AR3GdrlEhT-bE",
@@ -8561,7 +8587,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Redwood Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Redwood Grill Small.jpeg"
     },
     {
       "id": "ChIJNR-Z3u-wj4ARqG-56lDF-4c",
@@ -8576,7 +8603,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Post",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Post Small.jpeg"
     },
     {
       "id": "ChIJXUFS9DKxj4ARm8sml59lH2U",
@@ -8591,7 +8619,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Holder's Country Inn - Los Altos",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Holders Country Inn Small.jpeg"
     },
     {
       "id": "ChIJxwHRCni6j4ARwJt6NK1v-s4",
@@ -8606,7 +8635,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Courtyard Long Bar & Bistro",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Courtyard Long Bar Small.jpeg"
     },
     {
       "id": "ChIJc5kBeZuwj4ARbr1oPiyATE0",
@@ -8621,7 +8651,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "A Good Morning",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/A good Morning Small.jpeg"
     },
     {
       "id": "ChIJq_CzN-6wj4ARTyyNEspj-Es",
@@ -8636,7 +8667,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Rick's Cafe",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Ricks Cafe Small.jpeg"
     },
     {
       "id": "ChIJ5TATx--wj4ARZdlFK-M2_O4",
@@ -8651,7 +8683,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Rustic House Oyster Bar & Grill - Los Altos",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/los-altos/Rustic House Small.jpeg"
     },
     {
       "id": "ChIJ7ySZIY6xj4ARV6eC-BPNplg",
@@ -8666,7 +8699,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Barbayani Greek Taverna",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/los-altos/Barbayani Small.jpeg"
     },
     {
       "id": "ChIJ53ySlDqxj4ARdyylbzvcJxk",
@@ -8681,7 +8715,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Amandine Lounge",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Amandine Lounge Small.jpeg"
     },
     {
       "id": "ChIJUbgC8-6wj4ARtKqFQrSioy8",
@@ -8696,7 +8731,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Campagne One Main",
         "languageCode": "en"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/los-altos/Campagne One Main Small.jpeg"
     },
     {
       "id": "ChIJXznL_e6wj4ARFXQ_b26GIAs",
@@ -8711,7 +8747,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Spot A Pizza Place",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/los-altos/Spot Small.jpeg"
     },
     {
       "id": "ChIJrxWXNu6wj4ARYLJli-ApALY",
@@ -8726,7 +8763,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Urfa Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/los-altos/Urfa Bistro Small.jpeg"
     },
     {
       "id": "ChIJBRslye-wj4ARuC0vVUKqoNg",
@@ -8741,7 +8779,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Cafe Nur",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/los-altos/Cafe Nur Small.jpeg"
     },
     {
       "id": "ChIJc5kBeZuwj4AR5MSKHQl28rk",
@@ -8756,7 +8795,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Phở Vi Hoa",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/Pho Vi Hoa Small.jpeg"
     },
     {
       "id": "ChIJF3SDJaGxj4ARkzpGB5T6bvw",
@@ -8771,7 +8811,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pho & Banh Mi Los Altos",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/Pho & Banh Mi Green Baker & Cafe Small.jpeg"
     },
     {
       "id": "ChIJS_8lm5uwj4ARTNDjilGJWvY",
@@ -8786,7 +8827,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Su-Dam Korean Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/los-altos/Su-dam Korean Cuisine Small.jpeg"
     },
     {
       "id": "ChIJKagZSAm6j4AROCZf5nrk5fI",
@@ -8801,7 +8843,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Esther's Kitchen & Beer Garden",
         "languageCode": "en"
       },
-      "cuisine": "German/Austrian"
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/los-altos/Esthers Small.jpeg"
     },
     {
       "id": "ChIJ03Tgd56wj4AR9ezZkViDUNY",
@@ -8816,7 +8859,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Dittmer's Gourmet Meats & Wurst-Haus",
         "languageCode": "en"
       },
-      "cuisine": "German/Austrian"
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/los-altos/Dittmers Small.jpeg"
     },
     {
       "id": "ChIJlWhjzu-wj4ARDWUaBphKinA",
@@ -8831,7 +8875,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Village Pantry",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/Village Pantry Small.jpeg"
     },
     {
       "id": "ChIJy02vUuSwj4AR0evlxyNKfn0",
@@ -8846,7 +8891,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Original Pancake House",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/The original Pancake House Small.jpeg"
     },
     {
       "id": "ChIJ0x5zmEuxj4AR9l_uxDv9qUw",
@@ -8861,7 +8907,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tom's Depot Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Toms Breakfast &b Lunch Small.jpeg"
     },
     {
       "id": "ChIJfdipeR6xj4AR9q952VVVFDM",
@@ -8876,7 +8923,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Good Salad",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Good Salad Small.jpeg"
     },
     {
       "id": "ChIJVVWFYUK7j4ARdxGD3jJeyx4",
@@ -8891,7 +8939,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sweet Diplomacy® Gluten-Free",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Sweet Diplomacy Small.jpeg"
     },
     {
       "id": "ChIJG7tRfY-wj4ARCvcoIKiAF64",
@@ -8921,7 +8970,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Murdoch's Bar",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/los-altos/Murdoch Bar Small.jpeg"
     },
     {
       "id": "ChIJ74uIkWKxj4ARvSFTp0x2ZOY",
@@ -8936,7 +8986,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Le banc",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Le Banc Small.jpeg"
     },
     {
       "id": "ChIJVY61xUSxj4ARvHcN5C475mw",
@@ -8951,7 +9002,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Konjoe Burger",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/los-altos/Konjoe Burger Small.jpeg"
     },
     {
       "id": "ChIJUwcM_-6wj4AR4dMgkeeVpFI",
@@ -8981,7 +9033,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "GK Pastry & Sourdough",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/GK Pastry & Sourdough Small.jpeg"
     },
     {
       "id": "ChIJNWwtKWOxj4ARnH1f_eQ5cHM",
@@ -9026,7 +9079,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Elleary Wine Tasting Room",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/los-altos/Elleary Wine Small.jpeg"
     },
     {
       "id": "ChIJ5akihbexj4AR98uhdltEXbc",
@@ -11535,36 +11589,35 @@ var PREBAKED_DATA_SOUTH = {
       },
       "cuisine": "Chinese"
     }
-  ]
-,
+  ],
   "Portola Valley, CA": [
-  {
-  "id": "opening_hibari",
-  "formattedAddress": "3130 Alpine Rd #240, Portola Valley, CA 94028, USA",
-  "location": {
-    "latitude": 37.374,
-    "longitude": -122.2146
-  },
-  "googleMapsUri": "https://maps.google.com/?q=3130+Alpine+Rd,+Portola+Valley,+CA",
-  "websiteUri": "https://hibariportolavalley.com",
-  "displayName": {
-    "text": "Hibari",
-    "languageCode": "en"
-  },
-  "cuisine": "Japanese",
-  "phone": "(650) 656-9243",
-  "hours": {
-    "Monday": "Closed",
-    "Tuesday": "Closed",
-    "Wednesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
-    "Thursday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
-    "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
-    "Saturday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
-    "Sunday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM"
-  },
-  "description": "Intimate kappo-style omakase from a former Nobu head sushi chef. Six-seat counter with chef-prepared courses and a 22-seat dining room with prix fixe tasting menus.",
-  "menuUrl": "https://hibariportolavalley.com",
-  "priceRange": "$$$$"
-}
+    {
+      "id": "opening_hibari",
+      "formattedAddress": "3130 Alpine Rd #240, Portola Valley, CA 94028, USA",
+      "location": {
+        "latitude": 37.374,
+        "longitude": -122.2146
+      },
+      "googleMapsUri": "https://maps.google.com/?q=3130+Alpine+Rd,+Portola+Valley,+CA",
+      "websiteUri": "https://hibariportolavalley.com",
+      "displayName": {
+        "text": "Hibari",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 656-9243",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Thursday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Saturday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Sunday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM"
+      },
+      "description": "Intimate kappo-style omakase from a former Nobu head sushi chef. Six-seat counter with chef-prepared courses and a 22-seat dining room with prix fixe tasting menus.",
+      "menuUrl": "https://hibariportolavalley.com",
+      "priceRange": "$$$$"
+    }
   ]
 };
