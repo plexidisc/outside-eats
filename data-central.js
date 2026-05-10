@@ -75,7 +75,8 @@ var PREBAKED_DATA_CENTRAL = {
       "menuUrl": "https://amadoburlingame.com",
       "hours": "[object Object]",
       "priceRange": "$$$",
-      "description": "Chef Gloria Dominguez brings 38 years of mastery to upscale ancestral Mexican cuisine including seven regional moles, cochinita pibil, and wagyu beef tacos."
+      "description": "Chef Gloria Dominguez brings 38 years of mastery to upscale ancestral Mexican cuisine including seven regional moles, cochinita pibil, and wagyu beef tacos.",
+      "photoUrl": "images/restaurant-photos/burlingame/Amado Small.jpeg"
     },
     {
       "id": "ChIJCZRsgLN3j4ARbGSv7IQs284",
