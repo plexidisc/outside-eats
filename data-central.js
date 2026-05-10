@@ -18,7 +18,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Sustainably sourced ingredients create California-inspired dishes with outdoor courtyard firepits.",
       "hours": "Mon–Sun 6:00am–11:00am, 11:30am–10:00pm",
       "menuUrl": "https://www.opentable.com/37-north-doubletree-by-hilton-burlingame",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/37 North Small.jpeg"
     },
     {
       "id": "ChIJefXFTACdj4ARQlA2vGf2AXk",
@@ -220,7 +221,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Watch jumbo jets land at SFO from waterfront patio dining.",
       "hours": "Mon–Thu 11am–10pm, Fri 11am–11pm, Sat 10am–11pm, Sun 10am–10pm",
       "menuUrl": "https://order.benihana.com/menu/benihana-burlingame",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/Benihana Small.jpeg"
     },
     {
       "id": "ChIJO2sKxnx3j4ARpniKb67Ix2Q",
@@ -366,7 +368,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Gourmet burgers freshly ground in-house using USDA choice angus steak.",
       "hours": "Mon–Fri 10:30am–7pm, Sat–Sun Closed",
       "menuUrl": "https://bullsheadexpress.restaurants-us.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/Bullshead Express Small.jpeg"
     },
     {
       "id": "ChIJbzla_mudj4ARFkL0OkP34gw",
@@ -428,7 +431,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Family-owned Italian restaurant featuring housemade pastas and curated wine pairings.",
       "hours": "Mon–Closed, Tue–Fri 11am–2pm, 5pm–9pm, Sat 5pm–9pm, Sun 4pm–9pm",
       "menuUrl": "https://cafefigaro.me/cafefigaromenu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/Cafe Figaro Small.jpeg"
     },
     {
       "id": "ChIJ4yAec_Gdj4AR0xmQ_i0_EbA",
@@ -778,7 +782,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Famous homemade salsas prepared fresh daily with artistic food presentation.",
       "hours": "Mon–Closed, Tue–Thu 12pm–6pm, Fri 12pm–4pm, Sat 12pm–5pm, Sun 12pm–5pm",
       "menuUrl": "https://www.yelp.com/biz/gabriel-and-daniels-mexican-grill-burlingame-2",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/Gabriel & Daniels Small.jpeg"
     },
     {
       "id": "ChIJiS6VHyV2j4ARbXqkhaFevnw",
@@ -798,7 +803,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Enjoy breakfast and lunch on beautiful patio overlooking the Lagoon.",
       "hours": "Mon–Fri 8:30am–3pm, Sat 10:30am–3pm, Sun Closed",
       "menuUrl": "https://www.gigiscafeburlingame.com/order-online",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/Gigis Cafe Small.jpeg"
     },
     {
       "id": "ChIJ6aPNyfSdj4AROZpGeQ99Cgs",
@@ -1183,7 +1189,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Authentic Jewish deli traditions meet comfort food since 1978.",
       "hours": "Mon–Fri 11am–9pm, Sat–Sun 9am–9pm",
       "menuUrl": "https://www.maxsofburlingame.com/about-us/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/Maxs Small.jpeg"
     },
     {
       "id": "ChIJRXdXdfGdj4AR5Os-G3Wld1Y",
@@ -1329,7 +1336,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Family-owned restaurant serving tasty and cost-friendly sushi and entrees.",
       "hours": "Mon–Fri 11am–2:30pm, 5pm–8:30pm, Sat 5pm–8:30pm, Sun Closed",
       "menuUrl": "https://menupages.com/mr-teriyaki/851-burlway-rd-900-burlingame",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/Mr Teriyaki Sushi Small.jpeg"
     },
     {
       "id": "ChIJIdNAKRydj4ARtMj7FdThMcA",
@@ -1391,7 +1399,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Largest lobster tank on West Coast with fresh Maine lobster.",
       "hours": "Mon–Sun 11am–9pm",
       "menuUrl": "https://order.toasttab.com/online/new-england-lobster-market-eatery",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/New England Lobster Market Small.jpeg"
     },
     {
       "id": "ChIJP2Uqw_Gdj4ARx2LPjRVSfU4",
@@ -1724,7 +1733,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Interactive hot pot with signature house-made green sauce and fusion flavors.",
       "hours": "Mon–Sun 5:00pm–9:00pm",
       "menuUrl": "https://shabuclubsf.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/Shabu Club Small.jpeg"
     },
     {
       "id": "ChIJqfq09yR2j4ARZNC9Jan_MZs",
@@ -1826,7 +1836,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Cafe with waterfront seating at The Landing innovation campus.",
       "hours": "Mon–Fri 8am–2pm, Sat–Sun Closed",
       "menuUrl": "https://www.toasttab.com/local/order/69051-compass-king-street-properties-pid",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/burlingame/The Apron Small.jpeg"
     },
     {
       "id": "ChIJoYObMe6dj4ARiutMipkwFMo",
