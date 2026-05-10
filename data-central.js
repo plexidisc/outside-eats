@@ -2837,7 +2837,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 638-0310",
       "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 10am-10pm",
       "priceRange": "$$",
-      "description": "Popular American chain offering a wide variety of dishes, known for large portions, timely service and comfortable atmosphere. Good if you have a mixed group who like different cuisines."
+      "description": "Popular American chain offering a wide variety of dishes, known for large portions, timely service and comfortable atmosphere. Good if you have a mixed group who like different cuisines.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cheesecake Factory Small.jpeg"
     },
     {
       "id": "ChIJ-f64XwCfj4ARy9MhdAdp8kY",
