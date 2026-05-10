@@ -2126,35 +2126,6 @@ var PREBAKED_DATA_CENTRAL = {
   ],
   "San Mateo, CA": [
     {
-      "id": "opening_mixt",
-      "formattedAddress": "301 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5626,
-        "longitude": -122.3245
-      },
-      "googleMapsUri": "https://maps.google.com/?q=301+S+B+St,+San+Mateo,+CA",
-      "websiteUri": "https://mixt.com",
-      "displayName": {
-        "text": "MIXT",
-        "languageCode": "en"
-      },
-      "cuisine": "Salads",
-      "phone": "(415) 296-8009",
-      "hours": {
-        "Monday": "10:30 AM - 9:00 PM",
-        "Tuesday": "10:30 AM - 9:00 PM",
-        "Wednesday": "10:30 AM - 9:00 PM",
-        "Thursday": "10:30 AM - 9:00 PM",
-        "Friday": "10:30 AM - 9:00 PM",
-        "Saturday": "10:30 AM - 9:00 PM",
-        "Sunday": "10:30 AM - 9:00 PM"
-      },
-      "description": "SF-born salad institution celebrating its 20th anniversary with its first Peninsula location. Fresh chef-crafted salads and grain bowls made with locally sourced seasonal ingredients.",
-      "menuUrl": "https://mixt.com/locations/san-mateo/",
-      "priceRange": "$",
-      "photoUrl": "images/restaurant-photos/san-mateo/MIXT Small.jpeg"
-    },
-    {
       "id": "ChIJXTASXQCfj4ARin-W8xOJ608",
       "displayName": {
         "text": "A2",
@@ -2304,8 +2275,7 @@ var PREBAKED_DATA_CENTRAL = {
       "location": {},
       "cuisine": [
         "Wine Bar",
-        "Spanish",
-        "Mediterranean"
+        "Spanish"
       ],
       "menuUrl": "https://www.opentable.com/r/amour-amour-wine-bar-and-tapas-san-mateo",
       "phone": "(650) 513-1759",
@@ -4444,6 +4414,35 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 11:30am–2pm, 5:30pm–9:30pm, Tue Closed, Wed–Sat 11:30am–2pm, 5:30pm–9:45pm, Sun 11:30am–2pm, 5:30pm–9:45pm",
       "menuUrl": "https://www.yelp.com/biz/miss-shang-san-mateo-4",
       "priceRange": "$$"
+    },
+    {
+      "id": "opening_mixt",
+      "formattedAddress": "301 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5626,
+        "longitude": -122.3245
+      },
+      "googleMapsUri": "https://maps.google.com/?q=301+S+B+St,+San+Mateo,+CA",
+      "websiteUri": "https://mixt.com",
+      "displayName": {
+        "text": "MIXT",
+        "languageCode": "en"
+      },
+      "cuisine": "Salads",
+      "phone": "(415) 296-8009",
+      "hours": {
+        "Monday": "10:30 AM - 9:00 PM",
+        "Tuesday": "10:30 AM - 9:00 PM",
+        "Wednesday": "10:30 AM - 9:00 PM",
+        "Thursday": "10:30 AM - 9:00 PM",
+        "Friday": "10:30 AM - 9:00 PM",
+        "Saturday": "10:30 AM - 9:00 PM",
+        "Sunday": "10:30 AM - 9:00 PM"
+      },
+      "description": "SF-born salad institution celebrating its 20th anniversary with its first Peninsula location. Fresh chef-crafted salads and grain bowls made with locally sourced seasonal ingredients.",
+      "menuUrl": "https://mixt.com/locations/san-mateo/",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/MIXT Small.jpeg"
     },
     {
       "id": "ChIJ4eTlvOifj4AR01DroTjRjGI",
