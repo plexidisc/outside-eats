@@ -5812,7 +5812,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Serves authentic Hawaiian plate lunches with rice, macaroni salad, and grilled meats. A taste of Hawaii with aloha spirit.",
       "menuUrl": "https://www.hawaiianbarbecue.com/menu",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/millbrae/L L Hawaiian Barbecue Small.jpeg"
     },
     {
       "id": "ChIJ56l43qR3j4AR9VlHeiF1NpY",
