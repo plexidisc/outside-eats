@@ -1738,25 +1738,6 @@ var PREBAKED_DATA_CENTRAL = {
       "photoUrl": "images/restaurant-photos/burlingame/Shabu Club Small.jpeg"
     },
     {
-      "id": "ChIJqfq09yR2j4ARZNC9Jan_MZs",
-      "formattedAddress": "1150 Paloma Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.585538899999996,
-        "longitude": -122.3646944
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11183000451685404772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Shabu House",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "phone": "(650) 558-8800",
-      "hours": "Mon–Sun 5:00pm–9:00pm",
-      "menuUrl": "https://shabuclubsf.com/menu",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJ6eT1eKp3j4ARtqja3C5FJGQ",
       "formattedAddress": "1130 Broadway, Burlingame, CA 94010, USA",
       "location": {
