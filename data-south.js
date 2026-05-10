@@ -1,34 +1,6 @@
 var PREBAKED_DATA_SOUTH = {
   "Redwood City, CA": [
     {
-      "id": "opening_sanaa_cafe",
-      "formattedAddress": "2400 Broadway ste 120, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4851,
-        "longitude": -122.2244
-      },
-      "googleMapsUri": "https://maps.google.com/?q=2400+Broadway,+Redwood+City,+CA",
-      "websiteUri": "https://sanaacafe.com",
-      "displayName": {
-        "text": "Sana'a Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe,Yemeni",
-      "phone": "(650) 362-3243",
-      "hours": {
-        "Monday": "7:00 AM - 10:00 PM",
-        "Tuesday": "7:00 AM - 10:00 PM",
-        "Wednesday": "7:00 AM - 10:00 PM",
-        "Thursday": "7:00 AM - 10:00 PM",
-        "Friday": "8:00 AM - 12:00 AM",
-        "Saturday": "8:00 AM - 12:00 AM",
-        "Sunday": "7:00 AM - 10:00 PM"
-      },
-      "description": "Authentic Yemeni coffee house serving cardamom-spiced pour-overs, Turkish coffee, and house-baked pastries including the beloved honey cake.",
-      "menuUrl": "https://sanaacafe.com",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJP-i6Iaujj4ARZANvuhslxqQ",
       "formattedAddress": "1784 Broadway, Redwood City, CA 94063, USA",
       "location": {
@@ -1322,34 +1294,6 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "4:00 PM - 2:00 AM"
       },
       "description": "Sports bar with multiple screens for game viewing, pool table, and Mexican inspired food ordered from next door restaurant.",
-      "priceRange": "$$"
-    },
-    {
-      "id": "ChIJEZOmhkSjj4ARbvP0SQO9eU0",
-      "formattedAddress": "911 Main St, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4848492,
-        "longitude": -122.2258798
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5582701034925781870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://ghostwoodbeer.com/",
-      "displayName": {
-        "text": "Ghostwood Beer Company",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "phone": "(650) 714-7654",
-      "hours": {
-        "Monday": "12:00 PM - 9:00 PM",
-        "Tuesday": "Closed",
-        "Wednesday": "12:00 PM - 9:00 PM",
-        "Thursday": "12:00 PM - 9:00 PM",
-        "Friday": "12:00 PM - 11:00 PM",
-        "Saturday": "12:00 PM - 11:00 PM",
-        "Sunday": "12:00 PM - 9:00 PM"
-      },
-      "description": "Sports bar with arcade games featuring craft beers, signature cocktails, and fresh made burgers in a family friendly atmosphere.",
-      "menuUrl": "https://ghostwoodkitchen.toast.site/menu/ghostwood-redwood-city-911-main-street",
       "priceRange": "$$"
     },
     {
@@ -3097,6 +3041,34 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://sakurateppan.com/menu/",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/redwood-city/Sakura Small.jpeg"
+    },
+    {
+      "id": "opening_sanaa_cafe",
+      "formattedAddress": "2400 Broadway ste 120, Redwood City, CA 94063, USA",
+      "location": {
+        "latitude": 37.4851,
+        "longitude": -122.2244
+      },
+      "googleMapsUri": "https://maps.google.com/?q=2400+Broadway,+Redwood+City,+CA",
+      "websiteUri": "https://sanaacafe.com",
+      "displayName": {
+        "text": "Sana'a Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe,Yemeni",
+      "phone": "(650) 362-3243",
+      "hours": {
+        "Monday": "7:00 AM - 10:00 PM",
+        "Tuesday": "7:00 AM - 10:00 PM",
+        "Wednesday": "7:00 AM - 10:00 PM",
+        "Thursday": "7:00 AM - 10:00 PM",
+        "Friday": "8:00 AM - 12:00 AM",
+        "Saturday": "8:00 AM - 12:00 AM",
+        "Sunday": "7:00 AM - 10:00 PM"
+      },
+      "description": "Authentic Yemeni coffee house serving cardamom-spiced pour-overs, Turkish coffee, and house-baked pastries including the beloved honey cake.",
+      "menuUrl": "https://sanaacafe.com",
+      "priceRange": "$"
     },
     {
       "id": "ChIJhfX8qg6jj4ARoSRAJ4nQhb0",
@@ -8097,7 +8069,1521 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Cafe/Bakery"
     }
   ],
-  "Los Altos, CA": [{"id": "ChIJc5kBeZuwj4ARbr1oPiyATE0", "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA", "location": {"latitude": 37.4013157, "longitude": -122.11469249999998}, "googleMapsUri": "https://maps.google.com/?cid=5569967766664428910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.agoodmorninglosaltos.com/", "displayName": {"text": "A Good Morning", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/los-altos/A good Morning Small.jpeg", "phone": "(650) 941-8154", "hours": {"Mon – Sun": "7:00 AM - 3:00 PM"}, "description": "Famous for their Eggs Benedict with fresh hollandaise sauce and generous portions at affordable prices.", "menuUrl": "https://agoodmorninglosaltos.com/los-altos-a-good-morning-food-menu", "priceRange": "$"}, {"id": "ChIJ53ySlDqxj4ARdyylbzvcJxk", "formattedAddress": "235 1st St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3784834, "longitude": -122.11806499999999}, "googleMapsUri": "https://maps.google.com/?cid=1812659522874190967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Amandine Lounge", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/los-altos/Amandine Lounge Small.jpeg", "phone": "(650) 204-9222", "hours": {"Mon – Thu": "4:00 PM - 12:00 AM", "Fri & Sat": "4:00 PM - 2:00 AM", "Sun": "Closed"}, "description": "A hidden speakeasy featuring expertly crafted seasonal cocktails and an intimate, sophisticated atmosphere.", "priceRange": "$$"}, {"id": "ChIJFwkVC72wj4ARgFhN7WeNqAY", "formattedAddress": "4926 El Camino Real, Los Altos, CA 94022, USA", "location": {"latitude": 37.397166999999996, "longitude": -122.1079311}, "googleMapsUri": "https://maps.google.com/?cid=479788837817374848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.amber-india.com/los-altos", "displayName": {"text": "Amber India", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/los-altos/Amber Small.jpeg", "phone": "(650) 968-7511", "hours": {"Mon – Sun": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM"}, "description": "Authentic North Indian Mughlai cuisine with tandoor specialties and extensive vegetarian options in a hacienda style setting.", "menuUrl": "https://www.amber-india.com/los-altos-menu", "priceRange": "$$"}, {"id": "ChIJSxBi5Mixj4ARwsvMQF5zgcE", "formattedAddress": "132 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3801424, "longitude": -122.1156664}, "googleMapsUri": "https://maps.google.com/?cid=13943552769967049666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.aurumca.com/", "displayName": {"text": "Aurum", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/los-altos/Aurum Small.jpeg", "phone": "(650) 383-5221", "hours": {"Mon – Thu": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Fri & Sat": "11:30 AM - 2:30 PM, 5:00 PM - 10:00 PM", "Sun": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM"}, "description": "Contemporary Indian cuisine blending forgotten traditional recipes with California produce in a vibrant, colorful setting.", "menuUrl": "https://aurumca.com/los-altos-palo-alto-mountain-view-atherton-burlingame-aurum-food-menu", "priceRange": "$$$"}, {"id": "ChIJ7ySZIY6xj4ARV6eC-BPNplg", "formattedAddress": "388 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3780733, "longitude": -122.1176708}, "googleMapsUri": "https://maps.google.com/?cid=6388018607129012055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.barbayanitaverna.com/", "displayName": {"text": "Barbayani Greek Taverna", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/los-altos/Barbayani Small.jpeg", "phone": "(650) 405-6087", "hours": {"Mon – Thu": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM", "Fri & Sat": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Sun": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM"}, "description": "Experience timeless Greek hospitality with beautifully presented Mediterranean dishes featuring fresh ingredients and authentic flavors.", "menuUrl": "https://www.barbayanitaverna.com/lunch/", "priceRange": "$$"}, {"id": "ChIJNWwtKWOxj4ARnH1f_eQ5cHM", "formattedAddress": "288 1st St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3772309, "longitude": -122.1177688}, "googleMapsUri": "https://maps.google.com/?cid=8318212167419526556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://bluestonelane.com/cafes/los-altos-cafe-288-1st-st/?y_source=1_MTM0MDQ0NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D", "displayName": {"text": "Bluestone Lane Los Altos Café", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "phone": "(718) 374-6858", "hours": {"Mon – Sun": "7:00 AM - 5:00 PM"}, "description": "Australian inspired café in a heritage train station offering coastal brunch favorites and premium Melbourne style coffee.", "menuUrl": "https://bluestonelane.com/cafes/los-altos-cafe-288-1st-st/", "priceRange": "$$"}, {"id": "ChIJBRslye-wj4ARuC0vVUKqoNg", "formattedAddress": "280 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3786665, "longitude": -122.11658190000001}, "googleMapsUri": "https://maps.google.com/?cid=15609663510339857848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://cafenur.net/", "displayName": {"text": "Cafe Nur", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/los-altos/Cafe Nur Small.jpeg", "phone": "(650) 917-2313", "hours": {"Mon – Sat": "9:30 AM - 9:00 PM", "Sun": "9:30 AM - 8:30 PM"}, "description": "Authentic Mediterranean halal cuisine featuring Turkish breakfast, grilled kebabs, and handmade baklava in a welcoming downtown setting.", "menuUrl": "https://cafenur.net/mediterranean-food-order-online", "priceRange": "$$"}, {"id": "ChIJtbMfvUuxj4ARZ8BrWBSv-bE", "formattedAddress": "987 Fremont Ave, Los Altos, CA 94024, USA", "location": {"latitude": 37.3530667, "longitude": -122.08750210000001}, "googleMapsUri": "https://maps.google.com/?cid=12824473915831861351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://cafevitale.com/", "displayName": {"text": "Cafe Vitale", "languageCode": "en"}, "cuisine": "Italian", "phone": "(650) 559-1500", "hours": {"Mon – Fri": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM", "Sat & Sun": "12:00 PM - 9:00 PM"}, "description": "Authentic Italian cuisine featuring award winning dishes, live music, and a hometown atmosphere with an upscale flare.", "menuUrl": "https://cafevitale.com/daily-menu/", "priceRange": "$$"}, {"id": "ChIJUbgC8-6wj4ARtKqFQrSioy8", "formattedAddress": "1 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3807871, "longitude": -122.11445889999999}, "googleMapsUri": "https://maps.google.com/?cid=3432766236080319156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.enchantehotel.com/", "displayName": {"text": "Campagne One Main", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/los-altos/Campagne One Main Small.jpeg", "phone": "(650) 946-2000", "hours": {"Mon – Fri": "7:00 AM - 2:00 PM, 4:00 PM - 8:30 PM", "Sat": "10:30 AM - 2:00 PM, 4:00 PM - 8:30 PM", "Sun": "10:30 AM - 2:00 PM"}, "description": "Charming bistro featuring California cuisine with French flair, live entertainment, and outdoor dining in a boutique hotel setting.", "menuUrl": "https://www.enchantehotel.com/to-go-menu", "priceRange": "$$$"}, {"id": "ChIJbcTCru-wj4ARc6Q5mxRxth4", "formattedAddress": "185 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3788889, "longitude": -122.1152778}, "googleMapsUri": "https://maps.google.com/?cid=2213080600216708211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://casalupelosaltos.com/", "displayName": {"text": "Casa Lupe", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/los-altos/Casa Lupe Small.jpeg", "phone": "(650) 941-7390", "hours": {"Mon – Wed": "5:00 PM - 8:30 PM", "Thu": "11:30 AM - 2:00 PM, 5:00 PM - 8:30 PM", "Fri & Sat": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Sun": "Closed"}, "description": "Family owned since 1973, serving authentic Mexican food with traditional family recipes in downtown Los Altos.", "menuUrl": "https://casalupelosaltos.com/menu", "priceRange": "$$"}, {"id": "ChIJjadGJvCwj4ARXF5gOqhZgOQ", "formattedAddress": "160 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3800489, "longitude": -122.11605750000001}, "googleMapsUri": "https://maps.google.com/?cid=16465258816735305308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.cetrella.com/", "displayName": {"text": "Cetrella", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "phone": "(650) 948-0400", "hours": {"Mon": "Closed", "Tue – Sun": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM"}, "description": "Mediterranean cuisine inspired by Capri with premium wine and signature cocktails amid majestic murals and velvet curtains.", "menuUrl": "https://www.cetrella.com/cetrella-los-altos/dining-room/dinner/", "priceRange": "$$$"}, {"id": "ChIJaXfxOu6wj4ARO0BnfIvT9Bo", "formattedAddress": "244 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3796259, "longitude": -122.11695619999998}, "googleMapsUri": "https://maps.google.com/?cid=1942409935344582715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Charley Noodle & Grill", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/los-altos/Charley Noodle & Grill Small.jpeg", "phone": "(650) 948-5700", "hours": {"Mon – Thu": "11:30 AM - 2:30 PM, 5:00 PM - 8:30 PM", "Fri & Sat": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM", "Sun": "Closed"}, "description": "Customizable ramen with handmade noodles and affordable prices. Family run with warm, welcoming service.", "priceRange": "$"}, {"id": "ChIJ1T9Tk5uwj4ARFI0FkzPKOvI", "formattedAddress": "1067 N San Antonio Rd, Los Altos, CA 94022, USA", "location": {"latitude": 37.4005779, "longitude": -122.1136827}, "googleMapsUri": "https://maps.google.com/?cid=17454485628686535956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.chefchu.com/", "displayName": {"text": "Chef Chu's", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/los-altos/Chef Chus Small.jpeg", "phone": "(650) 948-2696", "hours": {"Mon": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Tue": "Closed", "Wed": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Thu – Sun": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM"}, "description": "Peninsula favorite since 1970, renowned for innovative Chinese cuisine and legendary Peking Duck with charismatic owner greeting guests.", "menuUrl": "http://www.chefchu.com/menu/", "priceRange": "$$"}, {"id": "ChIJ03Tgd56wj4AR9ezZkViDUNY", "formattedAddress": "4540 El Camino Real, Los Altos, CA 94022, USA", "location": {"latitude": 37.401527, "longitude": -122.11497999999999}, "googleMapsUri": "https://maps.google.com/?cid=15442987538680769781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.dittmers.com/?y_source=1_MjM4MTEzMjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D", "displayName": {"text": "Dittmer's Gourmet Meats & Wurst-Haus", "languageCode": "en"}, "cuisine": "German/Austrian", "photoUrl": "images/restaurant-photos/los-altos/Dittmers Small.jpeg", "phone": "(650) 941-3800", "hours": {"Mon": "Closed", "Tue – Sat": "9:00 AM - 4:00 PM", "Sun": "Closed"}, "description": "German butcher shop making over 100 specialty items including award winning sausages and fresh smoked meats.", "menuUrl": "https://www.dittmers.com/sandwich-menu", "priceRange": "$$"}, {"id": "ChIJnfhbvSSxj4ARTj783MFYWKU", "formattedAddress": "266 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.378643499999995, "longitude": -122.1164366}, "googleMapsUri": "https://maps.google.com/?cid=11914370403868098126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://elcomalkitchen.com/", "displayName": {"text": "El Comal", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/los-altos/El Comal Small.jpeg", "phone": "(650) 209-5064", "hours": {"Mon": "Closed", "Tue – Thu": "11:00 AM - 2:00 PM, 4:00 PM - 8:00 PM", "Fri": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM", "Sat": "10:00 AM - 2:00 PM, 4:00 PM - 9:00 PM", "Sun": "10:00 AM - 2:00 PM, 4:00 PM - 8:00 PM"}, "description": "Traditional Oaxacan and Yucatán flavors with modern touches, featuring birria, fire grilled octopus, and handmade tortillas.", "menuUrl": "https://www.elcomalkitchen.com/menus", "priceRange": "$$"}, {"id": "ChIJTx-pAQCxj4ARo0w5yddhPmk", "formattedAddress": "188 2nd St, Los Altos, CA 94022, USA", "location": {"latitude": 37.378769000000005, "longitude": -122.11718909999999}, "googleMapsUri": "https://maps.google.com/?cid=7583606401960332451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.ellearywine.com/", "displayName": {"text": "Elleary Wine Tasting Room", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/los-altos/Elleary Wine Small.jpeg", "phone": "(408) 832-3906", "hours": {"Mon – Thu": "Closed", "Fri & Sat": "5:00 PM - 9:00 PM", "Sun": "Closed"}, "description": "Family owned tasting room featuring Napa Valley wines with focus on education and quality vintages at reasonable prices.", "menuUrl": "https://www.ellearywine.com/elleary-wine-tasting/", "priceRange": "$$"}, {"id": "ChIJKagZSAm6j4AROCZf5nrk5fI", "formattedAddress": "987 N San Antonio Rd, Los Altos, CA 94022, USA", "location": {"latitude": 37.3999467, "longitude": -122.1140496}, "googleMapsUri": "https://maps.google.com/?cid=17502646743347439160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://estherskitchenbeergarden.com/", "displayName": {"text": "Esther's Kitchen & Beer Garden", "languageCode": "en"}, "cuisine": "German/Austrian", "photoUrl": "images/restaurant-photos/los-altos/Esthers Small.jpeg", "phone": "(650) 941-4463", "hours": {"Mon – Fri": "10:00 AM - 3:30 PM", "Sat & Sun": "9:00 AM - 3:00 PM"}, "description": "Authentic German pastries and traditional dishes served daily with a welcoming beer garden and outdoor patio.", "menuUrl": "https://www.estherskitchenbeergarden.com/menus", "priceRange": "$$"}, {"id": "ChIJ1YsQu5uwj4ARLCuO0c9AdlA", "formattedAddress": "971 N San Antonio Rd, Los Altos, CA 94022, USA", "location": {"latitude": 37.3997625, "longitude": -122.11394759999999}, "googleMapsUri": "https://maps.google.com/?cid=5797892831604255532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://estrellitarestaurant.com/?utm_source=google", "displayName": {"text": "Estrellita Mexican Bistro", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/los-altos/Estrellitas Mexican Restaurant Small.jpeg", "phone": "(650) 948-9865", "hours": {"Mon": "Closed", "Tue – Thu": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM", "Fri": "11:00 AM - 9:00 PM", "Sat": "10:30 AM - 9:00 PM", "Sun": "10:30 AM - 8:00 PM"}, "description": "Family owned since 1958, serving unique regional Mexican specialties including rotating dishes like Rose Petal Sauce Chicken and handmade mole.", "menuUrl": "https://estrellitarestaurant.com/menu", "priceRange": "$$"}, {"id": "ChIJF7_im3Gxj4ARzZ56keZ6BRM", "formattedAddress": "301 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3790157, "longitude": -122.1173891}, "googleMapsUri": "https://maps.google.com/?cid=1370636792305983181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://fiestavallarta.com/", "displayName": {"text": "Fiesta Vallarta", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/los-altos/Fiesta Vallarta Small.jpeg", "phone": "(650) 559-5871", "hours": {"Mon – Sun": "11:00 AM - 9:00 PM"}, "description": "Authentic Mexican cuisine made from scratch using secret family recipes and fresh ingredients with famous margaritas.", "menuUrl": "https://edcompu.com/fiesta/menu/", "priceRange": "$$"}, {"id": "ChIJWazJJwCxj4ARJjdeVd1adHM", "formattedAddress": "251 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3783635, "longitude": -122.1160624}, "googleMapsUri": "https://maps.google.com/?cid=8319374318326658854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.gkpastry.com/", "displayName": {"text": "GK Pastry & Sourdough", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/los-altos/GK Pastry & Sourdough Small.jpeg", "hours": {"Mon – Sun": "8:00 AM - 9:00 PM"}, "description": "Artisan sourdough bread fermented 12 hours, creative focaccias both sweet and savory, plus handmade crepe cakes.", "menuUrl": "https://www.gkpastry.com/menu", "priceRange": "$$"}, {"id": "ChIJpdg90O-wj4ARHsvrk65jirE", "formattedAddress": "328 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3783585, "longitude": -122.1171826}, "googleMapsUri": "https://maps.google.com/?cid=12793147292956478238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.hiroshi328.com/", "displayName": {"text": "Hiroshi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/los-altos/Hiroshi Small.jpeg", "phone": "(650) 332-8332", "hours": {"Mon – Sun": "5:00 PM - 10:30 PM"}, "description": "Intimate omakase experience featuring premium A5 Wagyu and fish imported directly from Japan's Toyosu market.", "menuUrl": "https://www.exploretock.com/hiroshi328/", "priceRange": "$$$$"}, {"id": "ChIJXUFS9DKxj4ARm8sml59lH2U", "formattedAddress": "134 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.37982770000001, "longitude": -122.11509729999999}, "googleMapsUri": "https://maps.google.com/?cid=7286654458218859419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cupertinocountryinn.com/", "displayName": {"text": "Holder's Country Inn - Los Altos", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/los-altos/Holders Country Inn Small.jpeg", "phone": "(650) 209-5929", "hours": {"Mon – Sun": "7:00 AM - 8:00 PM"}, "description": "Cozy diner serving generous portions with fresh ingredients and a warm, inviting atmosphere perfect for leisurely meals.", "menuUrl": "https://www.cupertinocountryinn.com/menu-2?menu=menu", "priceRange": "$$"}, {"id": "ChIJ8QRUHWixj4AR75O-fjpnt8g", "formattedAddress": "376 1st St, Los Altos, CA 94022, USA", "location": {"latitude": 37.375775999999995, "longitude": -122.11648710000001}, "googleMapsUri": "https://maps.google.com/?cid=14463142229255820271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://ktmcuisinelosaltos.com/", "displayName": {"text": "Kathmandu Cuisine Los Altos", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/los-altos/Kathmandu Cuisine Small.jpeg", "phone": "(650) 383-5477", "hours": {"Mon": "11:00 AM - 9:00 PM", "Tue": "Closed", "Wed – Sun": "11:00 AM - 9:00 PM"}, "description": "Family owned kitchen specializing in handmade momos, traditional thalis, and rich clay oven curries with bold Nepalese spices.", "menuUrl": "https://ktmcuisinelosaltos.com/", "priceRange": "$$"}, {"id": "ChIJVY61xUSxj4ARvHcN5C475mw", "formattedAddress": "170 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3801038, "longitude": -122.11618869999998}, "googleMapsUri": "https://maps.google.com/?cid=7847024473320290236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://konjoe.com/?utm_source=google", "displayName": {"text": "Konjoe Burger", "languageCode": "en"}, "cuisine": "Burgers", "photoUrl": "images/restaurant-photos/los-altos/Konjoe Burger Small.jpeg", "phone": "(650) 383-6010", "hours": {"Mon & Tue": "11:30 AM - 8:00 PM", "Wed & Thu": "11:30 AM - 9:00 PM", "Fri & Sat": "11:30 AM - 10:00 PM", "Sun": "11:30 AM - 8:00 PM"}, "description": "Gourmet burgers crafted from grass fed beef and local produce with bold innovative recipes.", "menuUrl": "https://konjoe.com/menu", "priceRange": "$$"}, {"id": "ChIJ74uIkWKxj4ARvSFTp0x2ZOY", "formattedAddress": "366 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3782262, "longitude": -122.1175377}, "googleMapsUri": "https://maps.google.com/?cid=16601524197991326141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Le banc", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/los-altos/Le Banc Small.jpeg", "phone": "(650) 265-8999", "hours": {"Mon – Wed": "4:00 PM - 12:00 AM", "Thu": "4:00 PM - 1:00 AM", "Fri & Sat": "4:00 PM - 2:00 AM", "Sun": "1:00 PM - 12:00 AM"}, "description": "Lively sports bar offering karaoke nights, pool tables, and craft cocktails in a welcoming community atmosphere.", "priceRange": "$$"}, {"id": "ChIJWUOqde-wj4ARvFRj5XeG0CY", "formattedAddress": "233 3rd St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3782219, "longitude": -122.11485809999998}, "googleMapsUri": "https://maps.google.com/?cid=2796883218104800444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://losaltosgrill.com/", "displayName": {"text": "Los Altos Grill", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/los-altos/Los Altos Grill Small.jpeg", "phone": "(650) 948-3524", "hours": {"Mon – Thu": "11:30 AM - 9:00 PM", "Fri & Sat": "11:30 AM - 9:30 PM", "Sun": "11:30 AM - 9:00 PM"}, "description": "Wood fire rotisserie chicken from their stone fireplace and iron skillet cornbread in a warm atmosphere with live music.", "menuUrl": "https://losaltosgrill.com/menu/", "priceRange": "$$$"}, {"id": "ChIJ-Sw3qu-wj4ARKXxAJiK8Db4", "formattedAddress": "163 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.379246200000004, "longitude": -122.1148341}, "googleMapsUri": "https://maps.google.com/?cid=13694808896760216617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://lulusmexicanfood.com/", "displayName": {"text": "LuLu's on Main Street", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/los-altos/Lulus A taqueria Small.jpeg", "phone": "(650) 559-8226", "hours": {"Mon – Wed": "9:00 AM - 7:30 PM", "Thu – Sat": "9:00 AM - 8:00 PM", "Sun": "9:00 AM - 7:00 PM"}, "description": "Locally sourced ingredients and home style recipes create authentic Mexican cuisine worth tasting.", "menuUrl": "https://www.lulusmexicanfood.com/main-st-menu", "priceRange": "$$"}, {"id": "ChIJxzb7Bu-wj4ARREiuuOuI7Fo", "formattedAddress": "161 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.379292899999996, "longitude": -122.1148714}, "googleMapsUri": "https://maps.google.com/?cid=6551762103914350660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mikadolosaltos.com/", "displayName": {"text": "Mikado", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/los-altos/Mikado Small.jpeg", "phone": "(650) 917-8388", "hours": {"Mon – Sun": "11:30 AM - 3:00 PM, 4:30 PM - 9:00 PM"}, "description": "Fresh sushi and bento boxes with friendly service and consistently high quality fish.", "menuUrl": "https://mikadolosaltos.com/", "priceRange": "$$"}, {"id": "ChIJm-8VnFmxj4ARHF9KXzjTdPQ", "formattedAddress": "170 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3799748, "longitude": -122.1163267}, "googleMapsUri": "https://maps.google.com/?cid=17614936281623191324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mikoscalitalia.com/?utm_source=google", "displayName": {"text": "Miko's CALiTALIA", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/los-altos/Mikos Calitalia Small.jpeg", "phone": "(650) 383-6494", "hours": {"Mon & Tue": "11:30 AM - 8:00 PM", "Wed & Thu": "11:30 AM - 9:00 PM", "Fri & Sat": "11:30 AM - 10:00 PM", "Sun": "11:30 AM - 8:00 PM"}, "description": "NY style pizza with California twist featuring thin, crispy crusts and homemade pastas.", "menuUrl": "https://mikoscalitalia.com/menu", "priceRange": "$$"}, {"id": "ChIJxcoui-ixj4AR-_a0L_CSDJM", "formattedAddress": "170 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3800107, "longitude": -122.1159749}, "googleMapsUri": "https://maps.google.com/?cid=10596005583586129659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.statestreetmarket.com/menu/murdochs-bar/", "displayName": {"text": "Murdoch's Bar", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/los-altos/Murdoch Bar Small.jpeg", "phone": "(650) 900-0390", "hours": {"Mon & Tue": "11:00 AM - 8:00 PM", "Wed & Thu": "11:00 AM - 9:00 PM", "Fri & Sat": "11:00 AM - 10:00 PM", "Sun": "11:00 AM - 8:00 PM"}, "description": "Prohibition Era inspired speakeasy serving classic cocktails, curated spirits, craft beer, and boutique wines in a neighborhood setting.", "menuUrl": "https://www.statestreetmarket.com/menu/murdochs-bar/", "priceRange": "$$"}, {"id": "ChIJNaoyf5uwj4ARkH2E1EA5J-g", "formattedAddress": "4546 El Camino Real # A6, Los Altos, CA 94022, USA", "location": {"latitude": 37.4008056, "longitude": -122.1144528}, "googleMapsUri": "https://maps.google.com/?cid=16728402291497139600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.noodle-talk.com/", "displayName": {"text": "Noodle Talk", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/los-altos/Noodle Talk Small.jpeg"}, {"id": "ChIJF3SDJaGxj4ARkzpGB5T6bvw", "formattedAddress": "696 Fremont Ave, Los Altos, CA 94024, USA", "location": {"latitude": 37.3605114, "longitude": -122.0965141}, "googleMapsUri": "https://maps.google.com/?cid=18189751458680158867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Pho & Banh Mi Los Altos", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/los-altos/Pho & Banh Mi Green Baker & Cafe Small.jpeg", "phone": "(650) 559-0382", "hours": {"Mon": "10:00 AM - 8:00 PM", "Tue": "Closed", "Wed – Sun": "10:00 AM - 8:00 PM"}, "description": "Authentic Vietnamese cuisine featuring fresh ingredients and flavorful combination pho. Also offers convenient drive through service for takeout.", "menuUrl": "https://www.zmenu.com/pho-and-bahnmi-los-altos-online-menu/", "priceRange": "$$"}, {"id": "ChIJc5kBeZuwj4AR5MSKHQl28rk", "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA", "location": {"latitude": 37.401210600000006, "longitude": -122.11456299999999}, "googleMapsUri": "https://maps.google.com/?cid=13398901622903063780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://amzn.to/4n2p2fH", "displayName": {"text": "Phở Vi Hoa", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/los-altos/Pho Vi Hoa Small.jpeg", "phone": "(650) 947-1290", "hours": {"Mon – Sun": "11:00 AM - 8:45 PM"}, "description": "Family recipe pho with rich, flavorful broth simmered for hours and generous portions.", "menuUrl": "http://www.phovihoa.com", "priceRange": "$$"}, {"id": "ChIJ1zaoXO6wj4AR8-1LQdlrr78", "formattedAddress": "100 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.380255999999996, "longitude": -122.11554110000002}, "googleMapsUri": "https://maps.google.com/?cid=13812377163016170995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.pompeiiristorante.com/home.html", "displayName": {"text": "Pompeii Ristorante", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/los-altos/Pompeii Small.jpeg", "phone": "(650) 949-2400", "hours": {"Mon": "Closed", "Tue – Fri": "11:30 AM - 9:00 PM", "Sat & Sun": "12:00 PM - 9:00 PM"}, "description": "Authentic Italian cuisine with specialty dishes like insalate, antipasti, and traditional pizzas in downtown Los Altos.", "menuUrl": "http://www.pompeiiristorante.com/menu.html", "priceRange": "$$"}, {"id": "ChIJieswgBm0j4ARDSKwScWK5gw", "formattedAddress": "2310 Homestead Rd J, Los Altos, CA 94024, USA", "location": {"latitude": 37.3364383, "longitude": -122.06655380000001}, "googleMapsUri": "https://maps.google.com/?cid=929582953048056333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://redpeppergrillca.com/", "displayName": {"text": "Red Pepper Bar and Grill", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/los-altos/Red Pepper Grill Small.jpeg", "phone": "(650) 977-2123", "hours": {"Mon – Sat": "11:00 AM - 9:00 PM", "Sun": "11:00 AM - 8:00 PM"}, "description": "Fresh Cali Mex dishes made from scratch with bold flavors, served in a colorful space with a covered patio.", "menuUrl": "https://www.redpepperbarandgrill.com/menu", "priceRange": "$$"}, {"id": "ChIJD7zQ58exj4AR3GdrlEhT-bE", "formattedAddress": "680 Fremont Ave, Los Altos, CA 94024, USA", "location": {"latitude": 37.3610676, "longitude": -122.0973643}, "googleMapsUri": "https://maps.google.com/?cid=12824372985107015644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.rwgrill.com/", "displayName": {"text": "Redwood Grill", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/los-altos/Redwood Grill Small.jpeg", "phone": "(650) 977-0125", "hours": {"Mon": "Closed", "Tue – Fri": "11:00 AM - 9:00 PM", "Sat": "10:00 AM - 9:00 PM", "Sun": "10:00 AM - 8:00 PM"}, "description": "California comfort food featuring specialty pizzas, grilled salmon, and weekend brunch in a family friendly atmosphere.", "menuUrl": "https://www.rwgrill.com/los-altos/", "priceRange": "$$"}, {"id": "ChIJq_CzN-6wj4ARTyyNEspj-Es", "formattedAddress": "205 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.379399, "longitude": -122.116369}, "googleMapsUri": "https://maps.google.com/?cid=5474235066614623311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.rickscafeonline.com/", "displayName": {"text": "Rick's Cafe", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/los-altos/Ricks Cafe Small.jpeg", "phone": "(650) 559-1941", "hours": {"Mon – Fri": "7:30 AM - 2:00 PM", "Sat & Sun": "7:30 AM - 3:00 PM"}, "description": "A local favorite serving fresh American comfort food with organic coffee roasted on premises three times weekly.", "menuUrl": "http://www.rickscafeonline.com/food-menu", "priceRange": "$$"}, {"id": "ChIJ5wdFOu6wj4ARKPFSgIu3C1Q", "formattedAddress": "242 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.379673499999996, "longitude": -122.1168836}, "googleMapsUri": "https://maps.google.com/?cid=6056135933711020328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.rojalosaltos.com/", "displayName": {"text": "Roja Los Altos", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/los-altos/Roja Los Altos Small.jpeg", "phone": "(650) 935-2372", "hours": {"Mon – Thu": "5:00 PM - 9:00 PM", "Fri & Sat": "5:00 PM - 9:30 PM", "Sun": "Closed"}, "description": "Contemporary American cuisine with European techniques using seasonal California ingredients. Sustainable, farm fresh dishes that change with the seasons.", "menuUrl": "https://rojalosaltos.com/menu", "priceRange": "$$$"}, {"id": "ChIJ5TATx--wj4ARZdlFK-M2_O4", "formattedAddress": "295 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.378285, "longitude": -122.1164972}, "googleMapsUri": "https://maps.google.com/?cid=17220699424469408101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://rustichouselosaltos.com/", "displayName": {"text": "Rustic House Oyster Bar & Grill - Los Altos", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/los-altos/Rustic House Small.jpeg", "phone": "(650) 613-5171", "hours": {"Mon – Thu": "11:00 AM - 8:30 PM", "Fri & Sat": "11:00 AM - 9:30 PM", "Sun": "11:00 AM - 8:30 PM"}, "description": "Fresh seafood and craft cocktails in a casual setting. Specializes in oysters and masterfully plated marina cuisine.", "menuUrl": "http://rustichouselosaltos.com/lunch-and-dinner-menu", "priceRange": "$$"}, {"id": "ChIJXznL_e6wj4ARFXQ_b26GIAs", "formattedAddress": "133 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3797968, "longitude": -122.1146739}, "googleMapsUri": "https://maps.google.com/?cid=801788542542902293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.spotpizzalosaltos.com/", "displayName": {"text": "Spot A Pizza Place", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/los-altos/Spot Small.jpeg", "phone": "(650) 947-7768", "hours": {"Mon – Sun": "11:00 AM - 9:00 PM"}, "description": "Hand tossed pizza dough made fresh daily with beer in the crust and freshly grated mozzarella.", "menuUrl": "https://www.spotpizzalosaltos.com/", "priceRange": "$$"}, {"id": "ChIJbXQkXe6wj4ARdvBYlDi9YNM", "formattedAddress": "101 Plaza N, Los Altos, CA 94022, USA", "location": {"latitude": 37.3803611, "longitude": -122.1157222}, "googleMapsUri": "https://maps.google.com/?cid=15231381990471692406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.stateofmindpublichouse.com/", "displayName": {"text": "State of Mind Public House and Pizzeria", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/los-altos/State of Mind Small.jpeg", "phone": "(650) 383-5210", "hours": {"Mon – Thu": "11:30 AM - 9:00 PM", "Fri & Sat": "11:30 AM - 10:00 PM", "Sun": "11:30 AM - 9:00 PM"}, "description": "Award winning pizzeria serving slow proofed pies with California ingredients plus 40+ rotating craft beers and vintage arcade games.", "menuUrl": "https://www.stateofmindpublichouse.com/food", "priceRange": "$$"}, {"id": "ChIJbfidQpSxj4AR-1vlJ20o6pk", "formattedAddress": "170 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3799748, "longitude": -122.1163267}, "googleMapsUri": "https://maps.google.com/?cid=11090721481639156731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.statestreetmarket.com/", "displayName": {"text": "State Street Market", "languageCode": "en"}, "cuisine": "Other", "phone": "(650) 405-5177", "hours": {"Mon & Tue": "11:00 AM - 8:00 PM", "Wed & Thu": "11:00 AM - 8:30 PM", "Fri & Sat": "11:00 AM - 9:00 PM", "Sun": "11:00 AM - 8:00 PM"}, "description": "A community food hall featuring diverse vendors from ramen to burgers, plus artisan bakery and ice cream.", "menuUrl": "https://www.statestreetmarket.com/food-stalls/", "priceRange": "$$"}, {"id": "ChIJS_8lm5uwj4ARTNDjilGJWvY", "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA", "location": {"latitude": 37.400656999999995, "longitude": -122.1144703}, "googleMapsUri": "https://maps.google.com/?cid=17751651864549773388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sudam4u.com/", "displayName": {"text": "Su-Dam Korean Cuisine", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/los-altos/Su-dam Korean Cuisine Small.jpeg", "phone": "(650) 949-1200", "hours": {"Mon – Fri": "11:30 AM - 2:30 PM, 4:30 PM - 9:30 PM", "Sat": "11:30 AM - 9:00 PM", "Sun": "11:30 AM - 9:30 PM"}, "description": "Authentic Korean comfort food featuring broths simmered 8 hours daily with fresh herbs and wholesome ingredients.", "menuUrl": "https://www.sudamkc.com/menu", "priceRange": "$$"}, {"id": "ChIJzYrvNO6wj4AR8INu1uGm4ds", "formattedAddress": "236 Plaza Central, Los Altos, CA 94022, USA", "location": {"latitude": 37.379140899999996, "longitude": -122.11664999999999}, "googleMapsUri": "https://maps.google.com/?cid=15844128452961534960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sumikagrill.com/", "displayName": {"text": "Sumika", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 917-1822", "hours": {"Mon – Thu": "11:30 AM - 2:00 PM, 5:30 PM - 8:00 PM", "Fri & Sat": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM", "Sun": "11:30 AM - 2:00 PM, 5:30 PM - 8:00 PM"}, "description": "Authentic izakaya serving charcoal grilled skewers and famous oyakodon since 2008.", "menuUrl": "https://www.sumikagrill.com/", "priceRange": "$$"}, {"id": "ChIJLYsmK-6wj4AR5mtsIe0ZzLk", "formattedAddress": "355 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3788075, "longitude": -122.1176352}, "googleMapsUri": "https://maps.google.com/?cid=13388104298524339174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sumosushiboat.com/?utm_source=google", "displayName": {"text": "Sumo Japanese Restaurant", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/los-altos/Sumo Small.jpeg", "phone": "(650) 941-9898", "hours": {"Mon – Wed": "3:30 PM - 9:15 PM", "Thu – Sat": "11:30 AM - 9:15 PM", "Sun": "Closed"}, "description": "Family favorite featuring fresh sushi with a sushi boat bar and extensive vegetarian options in a child friendly atmosphere.", "menuUrl": "https://sumosushiboat.com/menu", "priceRange": "$$"}, {"id": "ChIJW4yhm5uwj4ARBBwtvAQfmkk", "formattedAddress": "4546 W El Camino Real suite a4, Los Altos, CA 94022, USA", "location": {"latitude": 37.400579, "longitude": -122.11464489999999}, "googleMapsUri": "https://maps.google.com/?cid=5303585616379583492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sushikolosaltos.com/", "displayName": {"text": "Sushiko", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/los-altos/Sushiko Small.jpeg", "phone": "(650) 559-9218", "hours": {"Mon – Sat": "11:30 AM - 2:00 PM, 4:00 PM - 8:30 PM", "Sun": "Closed"}, "description": "Second generation sushi restaurant serving fresh fish and perfectly made rolls with complimentary miso soup and edamame.", "menuUrl": "https://www.sushikolosaltos.com/menu.html", "priceRange": "$$"}, {"id": "ChIJVVWFYUK7j4ARdxGD3jJeyx4", "formattedAddress": "209 1st St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3785696, "longitude": -122.11819}, "googleMapsUri": "https://maps.google.com/?cid=2218970813984608631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sweetdiplomacy.com/losaltos", "displayName": {"text": "Sweet Diplomacy® Gluten-Free", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/los-altos/Sweet Diplomacy Small.jpeg", "phone": "(650) 800-3816", "hours": {"Mon": "Closed", "Tue – Sun": "9:00 AM - 6:00 PM"}, "description": "French patisserie using Asian sweet rice flour for American cupcakes with inclusive dietary options.", "menuUrl": "https://www.sweetdiplomacy.com/order", "priceRange": "$"}, {"id": "ChIJ3ekn4Nqxj4ARzOl_dKyqLdY", "formattedAddress": "131 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3798762, "longitude": -122.11458200000001}, "googleMapsUri": "https://maps.google.com/?cid=15433179155734194636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Tacos Al Vapor Michoacan", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/los-altos/Tacos Al Vapor Small.jpeg", "phone": "(650) 293-1586", "hours": {"Mon – Sun": "10:00 AM - 8:00 PM"}, "description": "Fresh handmade steamed tortillas with diverse meats. Free salsa bar with complimentary chips.", "menuUrl": "https://order.online/store/tacos-al-vapor-michoacan-los-altos-28261523", "priceRange": "$"}, {"id": "ChIJ5akihbexj4AR98uhdltEXbc", "formattedAddress": "149 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3794672, "longitude": -122.11477310000001}, "googleMapsUri": "https://maps.google.com/?cid=13212792041397930999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.talpalo.com/", "displayName": {"text": "Tal Palo", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 935-4070", "hours": {"Mon": "Closed", "Tue – Thu": "11:00 AM - 5:00 PM", "Fri": "11:00 AM - 8:00 PM", "Sat": "11:00 AM - 2:00 PM", "Sun": "Closed"}, "description": "No traditional menus, just small batched family style dishes showcasing Mexican tradition and fresh seasonal local offerings.", "priceRange": "$$"}, {"id": "ChIJUwcM_-6wj4AR4dMgkeeVpFI", "formattedAddress": "139 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3796794, "longitude": -122.11467889999999}, "googleMapsUri": "https://maps.google.com/?cid=5955049429095470049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://italiandeligodfather.com/", "displayName": {"text": "The American Italian Deli", "languageCode": "en"}, "cuisine": "American", "phone": "(650) 948-6745", "hours": {"Mon – Sat": "9:00 AM - 5:00 PM", "Sun": "9:00 AM - 4:00 PM"}, "description": "Family owned since 1956, serving fresh sandwiches with quality Molinari meats and tasty catering options.", "menuUrl": "https://italiandeligodfather.com/los-altos-deli-menu/", "priceRange": "$"}, {"id": "ChIJxwHRCni6j4ARwJt6NK1v-s4", "formattedAddress": "4320 El Camino Real, Los Altos, CA 94022, USA", "location": {"latitude": 37.4048436, "longitude": -122.1192062}, "googleMapsUri": "https://maps.google.com/?cid=14914355905691294656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.longbarandbistro.com/", "displayName": {"text": "The Courtyard Long Bar & Bistro", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/los-altos/The Courtyard Long Bar Small.jpeg", "phone": "(650) 770-0425", "hours": {"Mon": "6:00 AM - 11:00 AM, 11:01 AM - 1:30 PM, 4:30 PM - 10:00 PM", "Tue – Fri": "6:00 AM - 1:30 PM, 4:30 PM - 10:00 PM", "Sat": "7:00 AM - 11:00 AM, 11:01 AM - 1:30 PM, 4:30 PM - 10:00 PM", "Sun": "7:00 AM - 2:00 PM, 4:30 PM - 10:00 PM"}, "description": "Outdoor dining with fire pit and California inspired cuisine. Extensive bar with handcrafted cocktails and 37 wines.", "menuUrl": "https://www.longbarandbistro.com/our-menus", "priceRange": "$$"}, {"id": "ChIJfdipeR6xj4AR9q952VVVFDM", "formattedAddress": "170 State St Unit 121, Los Altos, CA 94022, USA", "location": {"latitude": 37.380179999999996, "longitude": -122.11605030000001}, "googleMapsUri": "https://maps.google.com/?cid=3680660622677749750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.thegoodsalad.com/?utm_source=gbp&utm_medium=referral&utm_campaign=ongoing&utm_content=los_altos", "displayName": {"text": "The Good Salad", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/los-altos/The Good Salad Small.jpeg", "phone": "(650) 800-9775", "hours": {"Mon – Sun": "11:00 AM - 8:00 PM"}, "description": "Fresh, customizable salads with signature Good Glaze and halal proteins. Prepare everything in house with quality ingredients.", "menuUrl": "https://www.thegoodsalad.com/menu", "priceRange": "$"}, {"id": "ChIJdWW7YgCxj4ARon_Pw_43oWQ", "formattedAddress": "160 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3800489, "longitude": -122.11605750000001}, "googleMapsUri": "https://maps.google.com/?cid=7251138442389585826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cetrella.com/cetrella-los-altos/the-grotto-speakeasy/", "displayName": {"text": "The Grotto", "languageCode": "en"}, "cuisine": "Other", "phone": "(650) 948-0400", "hours": {"Mon": "Closed", "Tue – Thu": "5:00 PM - 12:00 AM", "Fri & Sat": "5:00 PM - 1:00 AM", "Sun": "Closed"}, "description": "Intimate speakeasy with custom cocktails inspired by Matisse Jazz prints and smooth jazz ambiance.", "priceRange": "$$$"}, {"id": "ChIJy02vUuSwj4AR0evlxyNKfn0", "formattedAddress": "420 S San Antonio Rd, Los Altos, CA 94022, USA", "location": {"latitude": 37.3751556, "longitude": -122.11448060000001}, "googleMapsUri": "https://maps.google.com/?cid=9042746619344579537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://originalpancakehouse.com/index.html", "displayName": {"text": "The Original Pancake House", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/los-altos/The original Pancake House Small.jpeg"}, {"id": "ChIJc5kBeZuwj4AR2MeiNjQT000", "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA", "location": {"latitude": 37.400970799999996, "longitude": -122.11434279999999}, "googleMapsUri": "https://maps.google.com/?cid=5607847075982264280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://losaltos.pastamarket.com/", "displayName": {"text": "The Pasta Market", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/los-altos/The Pasta Market Small.jpeg", "phone": "(650) 949-1235", "hours": {"Mon – Sun": "11:00 AM - 9:00 PM"}, "description": "Family owned since 1982, making fresh pasta and sauces daily using old world recipes and top ingredients.", "menuUrl": "http://losaltos.pastamarket.com/los-altos-pasta-market-los-altos-food-menu", "priceRange": "$"}, {"id": "ChIJ4d-hvv-xj4AR3N32ZHX7ggE", "formattedAddress": "200 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3797475, "longitude": -122.116516}, "googleMapsUri": "https://maps.google.com/?cid=108925822633958876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://thephocabingo.site/", "displayName": {"text": "The Pho Cabin", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/los-altos/The Pho Cabin Small.jpeg", "phone": "(650) 917-1328", "hours": {"Mon": "Closed", "Tue – Sat": "11:00 AM - 3:00 PM, 5:00 PM - 8:00 PM", "Sun": "Closed"}, "description": "Cozy cabin atmosphere with flavorful pho featuring complex broth and generous fresh herbs.", "menuUrl": "https://www.doordash.com/store/the-pho-cabin-los-altos-2411936/", "priceRange": "$$"}, {"id": "ChIJNR-Z3u-wj4ARqG-56lDF-4c", "formattedAddress": "395 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.377796, "longitude": -122.11749929999999}, "googleMapsUri": "https://maps.google.com/?cid=9798642365600722856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://thepostlosaltos.com/", "displayName": {"text": "The Post", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/los-altos/The Post Small.jpeg", "phone": "(650) 935-2003", "hours": {"Mon": "11:30 AM - 9:00 PM", "Tue": "Closed", "Wed & Thu": "11:30 AM - 9:00 PM", "Fri": "11:30 AM - 10:00 PM", "Sat": "11:00 AM - 9:00 PM", "Sun": "11:00 AM - 8:30 PM"}, "description": "Modern American comfort food with seasonal ingredients, craft cocktails, and weekend brunch on a popular outdoor patio.", "menuUrl": "https://www.thepostlosaltos.com/menu/", "priceRange": "$$"}, {"id": "ChIJ0x5zmEuxj4AR9l_uxDv9qUw", "formattedAddress": "991 Fremont Ave, Los Altos, CA 94024, USA", "location": {"latitude": 37.352987999999996, "longitude": -122.08737300000001}, "googleMapsUri": "https://maps.google.com/?cid=5524224851095478262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.toasttab.com/online/toms-depot-cafe-991-fremont-avenue", "displayName": {"text": "Tom's Depot Cafe", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/los-altos/Toms Breakfast &b Lunch Small.jpeg"}, {"id": "ChIJ-2p_QZSxj4ARYGCfHQB_0O4", "formattedAddress": "270 Main St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3786218, "longitude": -122.11648129999999}, "googleMapsUri": "https://maps.google.com/?cid=17208393814656376928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tremontilosaltos.com/?utm_source=google", "displayName": {"text": "Tre Monti", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/los-altos/Tre Monti Small.jpeg", "phone": "(650) 935-2197", "hours": {"Mon": "11:30 AM - 8:30 PM", "Tue": "Closed", "Wed & Thu": "11:30 AM - 8:30 PM", "Fri & Sat": "11:30 AM - 9:00 PM", "Sun": "11:30 AM - 8:30 PM"}, "description": "Homemade pasta and authentic Italian dishes made with fresh ingredients sourced directly from Italy.", "menuUrl": "https://tremontilosaltos.com/menu", "priceRange": "$$$"}, {"id": "ChIJrxWXNu6wj4ARYLJli-ApALY", "formattedAddress": "233 State St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3793824, "longitude": -122.11666199999999}, "googleMapsUri": "https://maps.google.com/?cid=13114528159290995296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.urfabistro.com/", "displayName": {"text": "Urfa Bistro", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/los-altos/Urfa Bistro Small.jpeg", "phone": "(650) 397-5614", "hours": {"Mon – Thu": "11:00 AM - 2:00 PM, 5:00 PM - 8:45 PM", "Fri & Sat": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Sun": "11:00 AM - 2:00 PM, 5:00 PM - 8:45 PM"}, "description": "Turkish Mediterranean cuisine using local ingredients to recreate authentic dishes from Urfa, featuring signature beyti kebab and kunefe.", "menuUrl": "https://urfabistro.com/menu", "priceRange": "$$"}, {"id": "ChIJlWhjzu-wj4ARDWUaBphKinA", "formattedAddress": "184 2nd St, Los Altos, CA 94022, USA", "location": {"latitude": 37.378766, "longitude": -122.11724099999999}, "googleMapsUri": "https://maps.google.com/?cid=8109376095831876877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.thevillagepantry.com/", "displayName": {"text": "Village Pantry", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/los-altos/Village Pantry Small.jpeg", "phone": "(650) 941-0384", "hours": {"Mon – Sun": "7:00 AM - 2:00 PM"}, "description": "A historic diner serving Los Altos since 1947 with home style breakfast and lunch in a cozy diner with garden patio.", "menuUrl": "http://www.thevillagepantry.com/menu_breakfast.php", "priceRange": "$$"}, {"id": "ChIJPcGlQeqxj4AR9FkT7-9ijKA", "formattedAddress": "250 3rd St, Los Altos, CA 94022, USA", "location": {"latitude": 37.377789, "longitude": -122.1151417}, "googleMapsUri": "https://maps.google.com/?cid=11568730325455690228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pos.chowbus.com/online-ordering/store/14161", "displayName": {"text": "Yoshi Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/los-altos/Yoshi Sushi Small.jpeg", "phone": "(650) 941-8150", "hours": {"Mon – Sun": "11:00 AM - 9:30 PM"}, "description": "Incredibly fresh sushi and sashimi with innovative twists, plus great sake and Japanese craft beer.", "menuUrl": "https://www.yoshisushilosaltos.com/menu/", "priceRange": "$$"}, {"id": "ChIJUUxQ8Y-xj4ARP33lTnajNe4", "formattedAddress": "160 1st St, Los Altos, CA 94022, USA", "location": {"latitude": 37.3791046, "longitude": -122.11915719999998}, "googleMapsUri": "https://maps.google.com/?cid=17164805283317644607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.zenshisushi.com/", "displayName": {"text": "ZENSHI Handcrafted Sushi", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 941-1801", "hours": {"Mon – Sun": "9:00 AM - 7:00 PM"}, "description": "Fresh handcrafted sushi made daily with premium ingredients, featuring traditional and American rolls at affordable prices.", "menuUrl": "https://www.zenshisushi.com/menu-2-old", "priceRange": "$$"}],
+  "Los Altos, CA": [
+    {
+      "id": "ChIJc5kBeZuwj4ARbr1oPiyATE0",
+      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.4013157,
+        "longitude": -122.11469249999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5569967766664428910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.agoodmorninglosaltos.com/",
+      "displayName": {
+        "text": "A Good Morning",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/A good Morning Small.jpeg",
+      "phone": "(650) 941-8154",
+      "hours": {
+        "Mon – Sun": "7:00 AM - 3:00 PM"
+      },
+      "description": "Famous for their Eggs Benedict with fresh hollandaise sauce and generous portions at affordable prices.",
+      "menuUrl": "https://agoodmorninglosaltos.com/los-altos-a-good-morning-food-menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ53ySlDqxj4ARdyylbzvcJxk",
+      "formattedAddress": "235 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3784834,
+        "longitude": -122.11806499999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1812659522874190967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Amandine Lounge",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Amandine Lounge Small.jpeg",
+      "phone": "(650) 204-9222",
+      "hours": {
+        "Mon – Thu": "4:00 PM - 12:00 AM",
+        "Fri & Sat": "4:00 PM - 2:00 AM",
+        "Sun": "Closed"
+      },
+      "description": "A hidden speakeasy featuring expertly crafted seasonal cocktails and an intimate, sophisticated atmosphere.",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJFwkVC72wj4ARgFhN7WeNqAY",
+      "formattedAddress": "4926 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.397166999999996,
+        "longitude": -122.1079311
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=479788837817374848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amber-india.com/los-altos",
+      "displayName": {
+        "text": "Amber India",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Amber Small.jpeg",
+      "phone": "(650) 968-7511",
+      "hours": {
+        "Mon – Sun": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM"
+      },
+      "description": "Authentic North Indian Mughlai cuisine with tandoor specialties and extensive vegetarian options in a hacienda style setting.",
+      "menuUrl": "https://www.amber-india.com/los-altos-menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJSxBi5Mixj4ARwsvMQF5zgcE",
+      "formattedAddress": "132 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3801424,
+        "longitude": -122.1156664
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13943552769967049666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.aurumca.com/",
+      "displayName": {
+        "text": "Aurum",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Aurum Small.jpeg",
+      "phone": "(650) 383-5221",
+      "hours": {
+        "Mon – Thu": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Fri & Sat": "11:30 AM - 2:30 PM, 5:00 PM - 10:00 PM",
+        "Sun": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM"
+      },
+      "description": "Contemporary Indian cuisine blending forgotten traditional recipes with California produce in a vibrant, colorful setting.",
+      "menuUrl": "https://aurumca.com/los-altos-palo-alto-mountain-view-atherton-burlingame-aurum-food-menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJ7ySZIY6xj4ARV6eC-BPNplg",
+      "formattedAddress": "388 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3780733,
+        "longitude": -122.1176708
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6388018607129012055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.barbayanitaverna.com/",
+      "displayName": {
+        "text": "Barbayani Greek Taverna",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/los-altos/Barbayani Small.jpeg",
+      "phone": "(650) 405-6087",
+      "hours": {
+        "Mon – Thu": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+        "Fri & Sat": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Sun": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM"
+      },
+      "description": "Experience timeless Greek hospitality with beautifully presented Mediterranean dishes featuring fresh ingredients and authentic flavors.",
+      "menuUrl": "https://www.barbayanitaverna.com/lunch/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJNWwtKWOxj4ARnH1f_eQ5cHM",
+      "formattedAddress": "288 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3772309,
+        "longitude": -122.1177688
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8318212167419526556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bluestonelane.com/cafes/los-altos-cafe-288-1st-st/?y_source=1_MTM0MDQ0NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Bluestone Lane Los Altos Café",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "phone": "(718) 374-6858",
+      "hours": {
+        "Mon – Sun": "7:00 AM - 5:00 PM"
+      },
+      "description": "Australian inspired café in a heritage train station offering coastal brunch favorites and premium Melbourne style coffee.",
+      "menuUrl": "https://bluestonelane.com/cafes/los-altos-cafe-288-1st-st/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJBRslye-wj4ARuC0vVUKqoNg",
+      "formattedAddress": "280 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3786665,
+        "longitude": -122.11658190000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15609663510339857848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cafenur.net/",
+      "displayName": {
+        "text": "Cafe Nur",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/los-altos/Cafe Nur Small.jpeg",
+      "phone": "(650) 917-2313",
+      "hours": {
+        "Mon – Sat": "9:30 AM - 9:00 PM",
+        "Sun": "9:30 AM - 8:30 PM"
+      },
+      "description": "Authentic Mediterranean halal cuisine featuring Turkish breakfast, grilled kebabs, and handmade baklava in a welcoming downtown setting.",
+      "menuUrl": "https://cafenur.net/mediterranean-food-order-online",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJtbMfvUuxj4ARZ8BrWBSv-bE",
+      "formattedAddress": "987 Fremont Ave, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.3530667,
+        "longitude": -122.08750210000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12824473915831861351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cafevitale.com/",
+      "displayName": {
+        "text": "Cafe Vitale",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "phone": "(650) 559-1500",
+      "hours": {
+        "Mon – Fri": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+        "Sat & Sun": "12:00 PM - 9:00 PM"
+      },
+      "description": "Authentic Italian cuisine featuring award winning dishes, live music, and a hometown atmosphere with an upscale flare.",
+      "menuUrl": "https://cafevitale.com/daily-menu/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJUbgC8-6wj4ARtKqFQrSioy8",
+      "formattedAddress": "1 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3807871,
+        "longitude": -122.11445889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3432766236080319156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.enchantehotel.com/",
+      "displayName": {
+        "text": "Campagne One Main",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/los-altos/Campagne One Main Small.jpeg",
+      "phone": "(650) 946-2000",
+      "hours": {
+        "Mon – Fri": "7:00 AM - 2:00 PM, 4:00 PM - 8:30 PM",
+        "Sat": "10:30 AM - 2:00 PM, 4:00 PM - 8:30 PM",
+        "Sun": "10:30 AM - 2:00 PM"
+      },
+      "description": "Charming bistro featuring California cuisine with French flair, live entertainment, and outdoor dining in a boutique hotel setting.",
+      "menuUrl": "https://www.enchantehotel.com/to-go-menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJbcTCru-wj4ARc6Q5mxRxth4",
+      "formattedAddress": "185 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3788889,
+        "longitude": -122.1152778
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2213080600216708211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://casalupelosaltos.com/",
+      "displayName": {
+        "text": "Casa Lupe",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Casa Lupe Small.jpeg",
+      "phone": "(650) 941-7390",
+      "hours": {
+        "Mon – Wed": "5:00 PM - 8:30 PM",
+        "Thu": "11:30 AM - 2:00 PM, 5:00 PM - 8:30 PM",
+        "Fri & Sat": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Sun": "Closed"
+      },
+      "description": "Family owned since 1973, serving authentic Mexican food with traditional family recipes in downtown Los Altos.",
+      "menuUrl": "https://casalupelosaltos.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJjadGJvCwj4ARXF5gOqhZgOQ",
+      "formattedAddress": "160 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3800489,
+        "longitude": -122.11605750000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16465258816735305308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cetrella.com/",
+      "displayName": {
+        "text": "Cetrella",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "phone": "(650) 948-0400",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Sun": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM"
+      },
+      "description": "Mediterranean cuisine inspired by Capri with premium wine and signature cocktails amid majestic murals and velvet curtains.",
+      "menuUrl": "https://www.cetrella.com/cetrella-los-altos/dining-room/dinner/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJaXfxOu6wj4ARO0BnfIvT9Bo",
+      "formattedAddress": "244 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3796259,
+        "longitude": -122.11695619999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1942409935344582715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Charley Noodle & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Charley Noodle & Grill Small.jpeg",
+      "phone": "(650) 948-5700",
+      "hours": {
+        "Mon – Thu": "11:30 AM - 2:30 PM, 5:00 PM - 8:30 PM",
+        "Fri & Sat": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+        "Sun": "Closed"
+      },
+      "description": "Customizable ramen with handmade noodles and affordable prices. Family run with warm, welcoming service.",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ1T9Tk5uwj4ARFI0FkzPKOvI",
+      "formattedAddress": "1067 N San Antonio Rd, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.4005779,
+        "longitude": -122.1136827
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17454485628686535956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.chefchu.com/",
+      "displayName": {
+        "text": "Chef Chu's",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Chef Chus Small.jpeg",
+      "phone": "(650) 948-2696",
+      "hours": {
+        "Mon": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Tue": "Closed",
+        "Wed": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Thu – Sun": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM"
+      },
+      "description": "Peninsula favorite since 1970, renowned for innovative Chinese cuisine and legendary Peking Duck with charismatic owner greeting guests.",
+      "menuUrl": "http://www.chefchu.com/menu/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ03Tgd56wj4AR9ezZkViDUNY",
+      "formattedAddress": "4540 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.401527,
+        "longitude": -122.11497999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15442987538680769781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dittmers.com/?y_source=1_MjM4MTEzMjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Dittmer's Gourmet Meats & Wurst-Haus",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/los-altos/Dittmers Small.jpeg",
+      "phone": "(650) 941-3800",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Sat": "9:00 AM - 4:00 PM",
+        "Sun": "Closed"
+      },
+      "description": "German butcher shop making over 100 specialty items including award winning sausages and fresh smoked meats.",
+      "menuUrl": "https://www.dittmers.com/sandwich-menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJnfhbvSSxj4ARTj783MFYWKU",
+      "formattedAddress": "266 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.378643499999995,
+        "longitude": -122.1164366
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11914370403868098126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://elcomalkitchen.com/",
+      "displayName": {
+        "text": "El Comal",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/El Comal Small.jpeg",
+      "phone": "(650) 209-5064",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Thu": "11:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
+        "Fri": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+        "Sat": "10:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+        "Sun": "10:00 AM - 2:00 PM, 4:00 PM - 8:00 PM"
+      },
+      "description": "Traditional Oaxacan and Yucatán flavors with modern touches, featuring birria, fire grilled octopus, and handmade tortillas.",
+      "menuUrl": "https://www.elcomalkitchen.com/menus",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJTx-pAQCxj4ARo0w5yddhPmk",
+      "formattedAddress": "188 2nd St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.378769000000005,
+        "longitude": -122.11718909999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7583606401960332451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ellearywine.com/",
+      "displayName": {
+        "text": "Elleary Wine Tasting Room",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/los-altos/Elleary Wine Small.jpeg",
+      "phone": "(408) 832-3906",
+      "hours": {
+        "Mon – Thu": "Closed",
+        "Fri & Sat": "5:00 PM - 9:00 PM",
+        "Sun": "Closed"
+      },
+      "description": "Family owned tasting room featuring Napa Valley wines with focus on education and quality vintages at reasonable prices.",
+      "menuUrl": "https://www.ellearywine.com/elleary-wine-tasting/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJKagZSAm6j4AROCZf5nrk5fI",
+      "formattedAddress": "987 N San Antonio Rd, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3999467,
+        "longitude": -122.1140496
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17502646743347439160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://estherskitchenbeergarden.com/",
+      "displayName": {
+        "text": "Esther's Kitchen & Beer Garden",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/los-altos/Esthers Small.jpeg",
+      "phone": "(650) 941-4463",
+      "hours": {
+        "Mon – Fri": "10:00 AM - 3:30 PM",
+        "Sat & Sun": "9:00 AM - 3:00 PM"
+      },
+      "description": "Authentic German pastries and traditional dishes served daily with a welcoming beer garden and outdoor patio.",
+      "menuUrl": "https://www.estherskitchenbeergarden.com/menus",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ1YsQu5uwj4ARLCuO0c9AdlA",
+      "formattedAddress": "971 N San Antonio Rd, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3997625,
+        "longitude": -122.11394759999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5797892831604255532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://estrellitarestaurant.com/?utm_source=google",
+      "displayName": {
+        "text": "Estrellita Mexican Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Estrellitas Mexican Restaurant Small.jpeg",
+      "phone": "(650) 948-9865",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Thu": "11:00 AM - 2:00 PM, 4:00 PM - 9:00 PM",
+        "Fri": "11:00 AM - 9:00 PM",
+        "Sat": "10:30 AM - 9:00 PM",
+        "Sun": "10:30 AM - 8:00 PM"
+      },
+      "description": "Family owned since 1958, serving unique regional Mexican specialties including rotating dishes like Rose Petal Sauce Chicken and handmade mole.",
+      "menuUrl": "https://estrellitarestaurant.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJF7_im3Gxj4ARzZ56keZ6BRM",
+      "formattedAddress": "301 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3790157,
+        "longitude": -122.1173891
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1370636792305983181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://fiestavallarta.com/",
+      "displayName": {
+        "text": "Fiesta Vallarta",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Fiesta Vallarta Small.jpeg",
+      "phone": "(650) 559-5871",
+      "hours": {
+        "Mon – Sun": "11:00 AM - 9:00 PM"
+      },
+      "description": "Authentic Mexican cuisine made from scratch using secret family recipes and fresh ingredients with famous margaritas.",
+      "menuUrl": "https://edcompu.com/fiesta/menu/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJWazJJwCxj4ARJjdeVd1adHM",
+      "formattedAddress": "251 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3783635,
+        "longitude": -122.1160624
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8319374318326658854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.gkpastry.com/",
+      "displayName": {
+        "text": "GK Pastry & Sourdough",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/GK Pastry & Sourdough Small.jpeg",
+      "hours": {
+        "Mon – Sun": "8:00 AM - 9:00 PM"
+      },
+      "description": "Artisan sourdough bread fermented 12 hours, creative focaccias both sweet and savory, plus handmade crepe cakes.",
+      "menuUrl": "https://www.gkpastry.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJpdg90O-wj4ARHsvrk65jirE",
+      "formattedAddress": "328 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3783585,
+        "longitude": -122.1171826
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12793147292956478238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hiroshi328.com/",
+      "displayName": {
+        "text": "Hiroshi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Hiroshi Small.jpeg",
+      "phone": "(650) 332-8332",
+      "hours": {
+        "Mon – Sun": "5:00 PM - 10:30 PM"
+      },
+      "description": "Intimate omakase experience featuring premium A5 Wagyu and fish imported directly from Japan's Toyosu market.",
+      "menuUrl": "https://www.exploretock.com/hiroshi328/",
+      "priceRange": "$$$$"
+    },
+    {
+      "id": "ChIJXUFS9DKxj4ARm8sml59lH2U",
+      "formattedAddress": "134 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.37982770000001,
+        "longitude": -122.11509729999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7286654458218859419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cupertinocountryinn.com/",
+      "displayName": {
+        "text": "Holder's Country Inn - Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Holders Country Inn Small.jpeg",
+      "phone": "(650) 209-5929",
+      "hours": {
+        "Mon – Sun": "7:00 AM - 8:00 PM"
+      },
+      "description": "Cozy diner serving generous portions with fresh ingredients and a warm, inviting atmosphere perfect for leisurely meals.",
+      "menuUrl": "https://www.cupertinocountryinn.com/menu-2?menu=menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ8QRUHWixj4AR75O-fjpnt8g",
+      "formattedAddress": "376 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.375775999999995,
+        "longitude": -122.11648710000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14463142229255820271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://ktmcuisinelosaltos.com/",
+      "displayName": {
+        "text": "Kathmandu Cuisine Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Kathmandu Cuisine Small.jpeg",
+      "phone": "(650) 383-5477",
+      "hours": {
+        "Mon": "11:00 AM - 9:00 PM",
+        "Tue": "Closed",
+        "Wed – Sun": "11:00 AM - 9:00 PM"
+      },
+      "description": "Family owned kitchen specializing in handmade momos, traditional thalis, and rich clay oven curries with bold Nepalese spices.",
+      "menuUrl": "https://ktmcuisinelosaltos.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJVY61xUSxj4ARvHcN5C475mw",
+      "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3801038,
+        "longitude": -122.11618869999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7847024473320290236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://konjoe.com/?utm_source=google",
+      "displayName": {
+        "text": "Konjoe Burger",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/los-altos/Konjoe Burger Small.jpeg",
+      "phone": "(650) 383-6010",
+      "hours": {
+        "Mon & Tue": "11:30 AM - 8:00 PM",
+        "Wed & Thu": "11:30 AM - 9:00 PM",
+        "Fri & Sat": "11:30 AM - 10:00 PM",
+        "Sun": "11:30 AM - 8:00 PM"
+      },
+      "description": "Gourmet burgers crafted from grass fed beef and local produce with bold innovative recipes.",
+      "menuUrl": "https://konjoe.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ74uIkWKxj4ARvSFTp0x2ZOY",
+      "formattedAddress": "366 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3782262,
+        "longitude": -122.1175377
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16601524197991326141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Le banc",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Le Banc Small.jpeg",
+      "phone": "(650) 265-8999",
+      "hours": {
+        "Mon – Wed": "4:00 PM - 12:00 AM",
+        "Thu": "4:00 PM - 1:00 AM",
+        "Fri & Sat": "4:00 PM - 2:00 AM",
+        "Sun": "1:00 PM - 12:00 AM"
+      },
+      "description": "Lively sports bar offering karaoke nights, pool tables, and craft cocktails in a welcoming community atmosphere.",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJWUOqde-wj4ARvFRj5XeG0CY",
+      "formattedAddress": "233 3rd St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3782219,
+        "longitude": -122.11485809999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2796883218104800444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://losaltosgrill.com/",
+      "displayName": {
+        "text": "Los Altos Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Los Altos Grill Small.jpeg",
+      "phone": "(650) 948-3524",
+      "hours": {
+        "Mon – Thu": "11:30 AM - 9:00 PM",
+        "Fri & Sat": "11:30 AM - 9:30 PM",
+        "Sun": "11:30 AM - 9:00 PM"
+      },
+      "description": "Wood fire rotisserie chicken from their stone fireplace and iron skillet cornbread in a warm atmosphere with live music.",
+      "menuUrl": "https://losaltosgrill.com/menu/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJ-Sw3qu-wj4ARKXxAJiK8Db4",
+      "formattedAddress": "163 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.379246200000004,
+        "longitude": -122.1148341
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13694808896760216617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://lulusmexicanfood.com/",
+      "displayName": {
+        "text": "LuLu's on Main Street",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Lulus A taqueria Small.jpeg",
+      "phone": "(650) 559-8226",
+      "hours": {
+        "Mon – Wed": "9:00 AM - 7:30 PM",
+        "Thu – Sat": "9:00 AM - 8:00 PM",
+        "Sun": "9:00 AM - 7:00 PM"
+      },
+      "description": "Locally sourced ingredients and home style recipes create authentic Mexican cuisine worth tasting.",
+      "menuUrl": "https://www.lulusmexicanfood.com/main-st-menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJxzb7Bu-wj4ARREiuuOuI7Fo",
+      "formattedAddress": "161 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.379292899999996,
+        "longitude": -122.1148714
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6551762103914350660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mikadolosaltos.com/",
+      "displayName": {
+        "text": "Mikado",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Mikado Small.jpeg",
+      "phone": "(650) 917-8388",
+      "hours": {
+        "Mon – Sun": "11:30 AM - 3:00 PM, 4:30 PM - 9:00 PM"
+      },
+      "description": "Fresh sushi and bento boxes with friendly service and consistently high quality fish.",
+      "menuUrl": "https://mikadolosaltos.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJm-8VnFmxj4ARHF9KXzjTdPQ",
+      "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3799748,
+        "longitude": -122.1163267
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17614936281623191324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mikoscalitalia.com/?utm_source=google",
+      "displayName": {
+        "text": "Miko's CALiTALIA",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/los-altos/Mikos Calitalia Small.jpeg",
+      "phone": "(650) 383-6494",
+      "hours": {
+        "Mon & Tue": "11:30 AM - 8:00 PM",
+        "Wed & Thu": "11:30 AM - 9:00 PM",
+        "Fri & Sat": "11:30 AM - 10:00 PM",
+        "Sun": "11:30 AM - 8:00 PM"
+      },
+      "description": "NY style pizza with California twist featuring thin, crispy crusts and homemade pastas.",
+      "menuUrl": "https://mikoscalitalia.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJxcoui-ixj4AR-_a0L_CSDJM",
+      "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3800107,
+        "longitude": -122.1159749
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10596005583586129659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.statestreetmarket.com/menu/murdochs-bar/",
+      "displayName": {
+        "text": "Murdoch's Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/los-altos/Murdoch Bar Small.jpeg",
+      "phone": "(650) 900-0390",
+      "hours": {
+        "Mon & Tue": "11:00 AM - 8:00 PM",
+        "Wed & Thu": "11:00 AM - 9:00 PM",
+        "Fri & Sat": "11:00 AM - 10:00 PM",
+        "Sun": "11:00 AM - 8:00 PM"
+      },
+      "description": "Prohibition Era inspired speakeasy serving classic cocktails, curated spirits, craft beer, and boutique wines in a neighborhood setting.",
+      "menuUrl": "https://www.statestreetmarket.com/menu/murdochs-bar/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJNaoyf5uwj4ARkH2E1EA5J-g",
+      "formattedAddress": "4546 El Camino Real # A6, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.4008056,
+        "longitude": -122.1144528
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16728402291497139600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.noodle-talk.com/",
+      "displayName": {
+        "text": "Noodle Talk",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Noodle Talk Small.jpeg"
+    },
+    {
+      "id": "ChIJF3SDJaGxj4ARkzpGB5T6bvw",
+      "formattedAddress": "696 Fremont Ave, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.3605114,
+        "longitude": -122.0965141
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18189751458680158867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Pho & Banh Mi Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/Pho & Banh Mi Green Baker & Cafe Small.jpeg",
+      "phone": "(650) 559-0382",
+      "hours": {
+        "Mon": "10:00 AM - 8:00 PM",
+        "Tue": "Closed",
+        "Wed – Sun": "10:00 AM - 8:00 PM"
+      },
+      "description": "Authentic Vietnamese cuisine featuring fresh ingredients and flavorful combination pho. Also offers convenient drive through service for takeout.",
+      "menuUrl": "https://www.zmenu.com/pho-and-bahnmi-los-altos-online-menu/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJc5kBeZuwj4AR5MSKHQl28rk",
+      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.401210600000006,
+        "longitude": -122.11456299999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13398901622903063780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://amzn.to/4n2p2fH",
+      "displayName": {
+        "text": "Phở Vi Hoa",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/Pho Vi Hoa Small.jpeg",
+      "phone": "(650) 947-1290",
+      "hours": {
+        "Mon – Sun": "11:00 AM - 8:45 PM"
+      },
+      "description": "Family recipe pho with rich, flavorful broth simmered for hours and generous portions.",
+      "menuUrl": "http://www.phovihoa.com",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ1zaoXO6wj4AR8-1LQdlrr78",
+      "formattedAddress": "100 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.380255999999996,
+        "longitude": -122.11554110000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13812377163016170995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.pompeiiristorante.com/home.html",
+      "displayName": {
+        "text": "Pompeii Ristorante",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/Pompeii Small.jpeg",
+      "phone": "(650) 949-2400",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Fri": "11:30 AM - 9:00 PM",
+        "Sat & Sun": "12:00 PM - 9:00 PM"
+      },
+      "description": "Authentic Italian cuisine with specialty dishes like insalate, antipasti, and traditional pizzas in downtown Los Altos.",
+      "menuUrl": "http://www.pompeiiristorante.com/menu.html",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJieswgBm0j4ARDSKwScWK5gw",
+      "formattedAddress": "2310 Homestead Rd J, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.3364383,
+        "longitude": -122.06655380000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=929582953048056333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://redpeppergrillca.com/",
+      "displayName": {
+        "text": "Red Pepper Bar and Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Red Pepper Grill Small.jpeg",
+      "phone": "(650) 977-2123",
+      "hours": {
+        "Mon – Sat": "11:00 AM - 9:00 PM",
+        "Sun": "11:00 AM - 8:00 PM"
+      },
+      "description": "Fresh Cali Mex dishes made from scratch with bold flavors, served in a colorful space with a covered patio.",
+      "menuUrl": "https://www.redpepperbarandgrill.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJD7zQ58exj4AR3GdrlEhT-bE",
+      "formattedAddress": "680 Fremont Ave, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.3610676,
+        "longitude": -122.0973643
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12824372985107015644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.rwgrill.com/",
+      "displayName": {
+        "text": "Redwood Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Redwood Grill Small.jpeg",
+      "phone": "(650) 977-0125",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Fri": "11:00 AM - 9:00 PM",
+        "Sat": "10:00 AM - 9:00 PM",
+        "Sun": "10:00 AM - 8:00 PM"
+      },
+      "description": "California comfort food featuring specialty pizzas, grilled salmon, and weekend brunch in a family friendly atmosphere.",
+      "menuUrl": "https://www.rwgrill.com/los-altos/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJq_CzN-6wj4ARTyyNEspj-Es",
+      "formattedAddress": "205 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.379399,
+        "longitude": -122.116369
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5474235066614623311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rickscafeonline.com/",
+      "displayName": {
+        "text": "Rick's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Ricks Cafe Small.jpeg",
+      "phone": "(650) 559-1941",
+      "hours": {
+        "Mon – Fri": "7:30 AM - 2:00 PM",
+        "Sat & Sun": "7:30 AM - 3:00 PM"
+      },
+      "description": "A local favorite serving fresh American comfort food with organic coffee roasted on premises three times weekly.",
+      "menuUrl": "http://www.rickscafeonline.com/food-menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ5wdFOu6wj4ARKPFSgIu3C1Q",
+      "formattedAddress": "242 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.379673499999996,
+        "longitude": -122.1168836
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6056135933711020328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rojalosaltos.com/",
+      "displayName": {
+        "text": "Roja Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Roja Los Altos Small.jpeg",
+      "phone": "(650) 935-2372",
+      "hours": {
+        "Mon – Thu": "5:00 PM - 9:00 PM",
+        "Fri & Sat": "5:00 PM - 9:30 PM",
+        "Sun": "Closed"
+      },
+      "description": "Contemporary American cuisine with European techniques using seasonal California ingredients. Sustainable, farm fresh dishes that change with the seasons.",
+      "menuUrl": "https://rojalosaltos.com/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJ5TATx--wj4ARZdlFK-M2_O4",
+      "formattedAddress": "295 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.378285,
+        "longitude": -122.1164972
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17220699424469408101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://rustichouselosaltos.com/",
+      "displayName": {
+        "text": "Rustic House Oyster Bar & Grill - Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/los-altos/Rustic House Small.jpeg",
+      "phone": "(650) 613-5171",
+      "hours": {
+        "Mon – Thu": "11:00 AM - 8:30 PM",
+        "Fri & Sat": "11:00 AM - 9:30 PM",
+        "Sun": "11:00 AM - 8:30 PM"
+      },
+      "description": "Fresh seafood and craft cocktails in a casual setting. Specializes in oysters and masterfully plated marina cuisine.",
+      "menuUrl": "http://rustichouselosaltos.com/lunch-and-dinner-menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJXznL_e6wj4ARFXQ_b26GIAs",
+      "formattedAddress": "133 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3797968,
+        "longitude": -122.1146739
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=801788542542902293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.spotpizzalosaltos.com/",
+      "displayName": {
+        "text": "Spot A Pizza Place",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/los-altos/Spot Small.jpeg",
+      "phone": "(650) 947-7768",
+      "hours": {
+        "Mon – Sun": "11:00 AM - 9:00 PM"
+      },
+      "description": "Hand tossed pizza dough made fresh daily with beer in the crust and freshly grated mozzarella.",
+      "menuUrl": "https://www.spotpizzalosaltos.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJbXQkXe6wj4ARdvBYlDi9YNM",
+      "formattedAddress": "101 Plaza N, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3803611,
+        "longitude": -122.1157222
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15231381990471692406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.stateofmindpublichouse.com/",
+      "displayName": {
+        "text": "State of Mind Public House and Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/los-altos/State of Mind Small.jpeg",
+      "phone": "(650) 383-5210",
+      "hours": {
+        "Mon – Thu": "11:30 AM - 9:00 PM",
+        "Fri & Sat": "11:30 AM - 10:00 PM",
+        "Sun": "11:30 AM - 9:00 PM"
+      },
+      "description": "Award winning pizzeria serving slow proofed pies with California ingredients plus 40+ rotating craft beers and vintage arcade games.",
+      "menuUrl": "https://www.stateofmindpublichouse.com/food",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJbfidQpSxj4AR-1vlJ20o6pk",
+      "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3799748,
+        "longitude": -122.1163267
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11090721481639156731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.statestreetmarket.com/",
+      "displayName": {
+        "text": "State Street Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "phone": "(650) 405-5177",
+      "hours": {
+        "Mon & Tue": "11:00 AM - 8:00 PM",
+        "Wed & Thu": "11:00 AM - 8:30 PM",
+        "Fri & Sat": "11:00 AM - 9:00 PM",
+        "Sun": "11:00 AM - 8:00 PM"
+      },
+      "description": "A community food hall featuring diverse vendors from ramen to burgers, plus artisan bakery and ice cream.",
+      "menuUrl": "https://www.statestreetmarket.com/food-stalls/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJS_8lm5uwj4ARTNDjilGJWvY",
+      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.400656999999995,
+        "longitude": -122.1144703
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17751651864549773388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sudam4u.com/",
+      "displayName": {
+        "text": "Su-Dam Korean Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/los-altos/Su-dam Korean Cuisine Small.jpeg",
+      "phone": "(650) 949-1200",
+      "hours": {
+        "Mon – Fri": "11:30 AM - 2:30 PM, 4:30 PM - 9:30 PM",
+        "Sat": "11:30 AM - 9:00 PM",
+        "Sun": "11:30 AM - 9:30 PM"
+      },
+      "description": "Authentic Korean comfort food featuring broths simmered 8 hours daily with fresh herbs and wholesome ingredients.",
+      "menuUrl": "https://www.sudamkc.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJzYrvNO6wj4AR8INu1uGm4ds",
+      "formattedAddress": "236 Plaza Central, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.379140899999996,
+        "longitude": -122.11664999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15844128452961534960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sumikagrill.com/",
+      "displayName": {
+        "text": "Sumika",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 917-1822",
+      "hours": {
+        "Mon – Thu": "11:30 AM - 2:00 PM, 5:30 PM - 8:00 PM",
+        "Fri & Sat": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM",
+        "Sun": "11:30 AM - 2:00 PM, 5:30 PM - 8:00 PM"
+      },
+      "description": "Authentic izakaya serving charcoal grilled skewers and famous oyakodon since 2008.",
+      "menuUrl": "https://www.sumikagrill.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJLYsmK-6wj4AR5mtsIe0ZzLk",
+      "formattedAddress": "355 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3788075,
+        "longitude": -122.1176352
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13388104298524339174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sumosushiboat.com/?utm_source=google",
+      "displayName": {
+        "text": "Sumo Japanese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Sumo Small.jpeg",
+      "phone": "(650) 941-9898",
+      "hours": {
+        "Mon – Wed": "3:30 PM - 9:15 PM",
+        "Thu – Sat": "11:30 AM - 9:15 PM",
+        "Sun": "Closed"
+      },
+      "description": "Family favorite featuring fresh sushi with a sushi boat bar and extensive vegetarian options in a child friendly atmosphere.",
+      "menuUrl": "https://sumosushiboat.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJW4yhm5uwj4ARBBwtvAQfmkk",
+      "formattedAddress": "4546 W El Camino Real suite a4, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.400579,
+        "longitude": -122.11464489999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5303585616379583492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushikolosaltos.com/",
+      "displayName": {
+        "text": "Sushiko",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Sushiko Small.jpeg",
+      "phone": "(650) 559-9218",
+      "hours": {
+        "Mon – Sat": "11:30 AM - 2:00 PM, 4:00 PM - 8:30 PM",
+        "Sun": "Closed"
+      },
+      "description": "Second generation sushi restaurant serving fresh fish and perfectly made rolls with complimentary miso soup and edamame.",
+      "menuUrl": "https://www.sushikolosaltos.com/menu.html",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJVVWFYUK7j4ARdxGD3jJeyx4",
+      "formattedAddress": "209 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3785696,
+        "longitude": -122.11819
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2218970813984608631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetdiplomacy.com/losaltos",
+      "displayName": {
+        "text": "Sweet Diplomacy® Gluten-Free",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Sweet Diplomacy Small.jpeg",
+      "phone": "(650) 800-3816",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Sun": "9:00 AM - 6:00 PM"
+      },
+      "description": "French patisserie using Asian sweet rice flour for American cupcakes with inclusive dietary options.",
+      "menuUrl": "https://www.sweetdiplomacy.com/order",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ3ekn4Nqxj4ARzOl_dKyqLdY",
+      "formattedAddress": "131 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3798762,
+        "longitude": -122.11458200000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15433179155734194636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tacos Al Vapor Michoacan",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Tacos Al Vapor Small.jpeg",
+      "phone": "(650) 293-1586",
+      "hours": {
+        "Mon – Sun": "10:00 AM - 8:00 PM"
+      },
+      "description": "Fresh handmade steamed tortillas with diverse meats. Free salsa bar with complimentary chips.",
+      "menuUrl": "https://order.online/store/tacos-al-vapor-michoacan-los-altos-28261523",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ5akihbexj4AR98uhdltEXbc",
+      "formattedAddress": "149 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3794672,
+        "longitude": -122.11477310000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13212792041397930999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.talpalo.com/",
+      "displayName": {
+        "text": "Tal Palo",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 935-4070",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Thu": "11:00 AM - 5:00 PM",
+        "Fri": "11:00 AM - 8:00 PM",
+        "Sat": "11:00 AM - 2:00 PM",
+        "Sun": "Closed"
+      },
+      "description": "No traditional menus, just small batched family style dishes showcasing Mexican tradition and fresh seasonal local offerings.",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJUwcM_-6wj4AR4dMgkeeVpFI",
+      "formattedAddress": "139 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3796794,
+        "longitude": -122.11467889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5955049429095470049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://italiandeligodfather.com/",
+      "displayName": {
+        "text": "The American Italian Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "phone": "(650) 948-6745",
+      "hours": {
+        "Mon – Sat": "9:00 AM - 5:00 PM",
+        "Sun": "9:00 AM - 4:00 PM"
+      },
+      "description": "Family owned since 1956, serving fresh sandwiches with quality Molinari meats and tasty catering options.",
+      "menuUrl": "https://italiandeligodfather.com/los-altos-deli-menu/",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJxwHRCni6j4ARwJt6NK1v-s4",
+      "formattedAddress": "4320 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.4048436,
+        "longitude": -122.1192062
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14914355905691294656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.longbarandbistro.com/",
+      "displayName": {
+        "text": "The Courtyard Long Bar & Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Courtyard Long Bar Small.jpeg",
+      "phone": "(650) 770-0425",
+      "hours": {
+        "Mon": "6:00 AM - 11:00 AM, 11:01 AM - 1:30 PM, 4:30 PM - 10:00 PM",
+        "Tue – Fri": "6:00 AM - 1:30 PM, 4:30 PM - 10:00 PM",
+        "Sat": "7:00 AM - 11:00 AM, 11:01 AM - 1:30 PM, 4:30 PM - 10:00 PM",
+        "Sun": "7:00 AM - 2:00 PM, 4:30 PM - 10:00 PM"
+      },
+      "description": "Outdoor dining with fire pit and California inspired cuisine. Extensive bar with handcrafted cocktails and 37 wines.",
+      "menuUrl": "https://www.longbarandbistro.com/our-menus",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJfdipeR6xj4AR9q952VVVFDM",
+      "formattedAddress": "170 State St Unit 121, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.380179999999996,
+        "longitude": -122.11605030000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3680660622677749750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thegoodsalad.com/?utm_source=gbp&utm_medium=referral&utm_campaign=ongoing&utm_content=los_altos",
+      "displayName": {
+        "text": "The Good Salad",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Good Salad Small.jpeg",
+      "phone": "(650) 800-9775",
+      "hours": {
+        "Mon – Sun": "11:00 AM - 8:00 PM"
+      },
+      "description": "Fresh, customizable salads with signature Good Glaze and halal proteins. Prepare everything in house with quality ingredients.",
+      "menuUrl": "https://www.thegoodsalad.com/menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJdWW7YgCxj4ARon_Pw_43oWQ",
+      "formattedAddress": "160 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3800489,
+        "longitude": -122.11605750000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7251138442389585826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cetrella.com/cetrella-los-altos/the-grotto-speakeasy/",
+      "displayName": {
+        "text": "The Grotto",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "phone": "(650) 948-0400",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Thu": "5:00 PM - 12:00 AM",
+        "Fri & Sat": "5:00 PM - 1:00 AM",
+        "Sun": "Closed"
+      },
+      "description": "Intimate speakeasy with custom cocktails inspired by Matisse Jazz prints and smooth jazz ambiance.",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJy02vUuSwj4AR0evlxyNKfn0",
+      "formattedAddress": "420 S San Antonio Rd, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3751556,
+        "longitude": -122.11448060000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9042746619344579537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://originalpancakehouse.com/index.html",
+      "displayName": {
+        "text": "The Original Pancake House",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/The original Pancake House Small.jpeg"
+    },
+    {
+      "id": "ChIJc5kBeZuwj4AR2MeiNjQT000",
+      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.400970799999996,
+        "longitude": -122.11434279999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5607847075982264280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://losaltos.pastamarket.com/",
+      "displayName": {
+        "text": "The Pasta Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/The Pasta Market Small.jpeg",
+      "phone": "(650) 949-1235",
+      "hours": {
+        "Mon – Sun": "11:00 AM - 9:00 PM"
+      },
+      "description": "Family owned since 1982, making fresh pasta and sauces daily using old world recipes and top ingredients.",
+      "menuUrl": "http://losaltos.pastamarket.com/los-altos-pasta-market-los-altos-food-menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ4d-hvv-xj4AR3N32ZHX7ggE",
+      "formattedAddress": "200 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3797475,
+        "longitude": -122.116516
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=108925822633958876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://thephocabingo.site/",
+      "displayName": {
+        "text": "The Pho Cabin",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/The Pho Cabin Small.jpeg",
+      "phone": "(650) 917-1328",
+      "hours": {
+        "Mon": "Closed",
+        "Tue – Sat": "11:00 AM - 3:00 PM, 5:00 PM - 8:00 PM",
+        "Sun": "Closed"
+      },
+      "description": "Cozy cabin atmosphere with flavorful pho featuring complex broth and generous fresh herbs.",
+      "menuUrl": "https://www.doordash.com/store/the-pho-cabin-los-altos-2411936/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJNR-Z3u-wj4ARqG-56lDF-4c",
+      "formattedAddress": "395 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.377796,
+        "longitude": -122.11749929999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9798642365600722856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://thepostlosaltos.com/",
+      "displayName": {
+        "text": "The Post",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Post Small.jpeg",
+      "phone": "(650) 935-2003",
+      "hours": {
+        "Mon": "11:30 AM - 9:00 PM",
+        "Tue": "Closed",
+        "Wed & Thu": "11:30 AM - 9:00 PM",
+        "Fri": "11:30 AM - 10:00 PM",
+        "Sat": "11:00 AM - 9:00 PM",
+        "Sun": "11:00 AM - 8:30 PM"
+      },
+      "description": "Modern American comfort food with seasonal ingredients, craft cocktails, and weekend brunch on a popular outdoor patio.",
+      "menuUrl": "https://www.thepostlosaltos.com/menu/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ0x5zmEuxj4AR9l_uxDv9qUw",
+      "formattedAddress": "991 Fremont Ave, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.352987999999996,
+        "longitude": -122.08737300000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5524224851095478262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.toasttab.com/online/toms-depot-cafe-991-fremont-avenue",
+      "displayName": {
+        "text": "Tom's Depot Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Toms Breakfast &b Lunch Small.jpeg"
+    },
+    {
+      "id": "ChIJ-2p_QZSxj4ARYGCfHQB_0O4",
+      "formattedAddress": "270 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3786218,
+        "longitude": -122.11648129999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17208393814656376928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tremontilosaltos.com/?utm_source=google",
+      "displayName": {
+        "text": "Tre Monti",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/Tre Monti Small.jpeg",
+      "phone": "(650) 935-2197",
+      "hours": {
+        "Mon": "11:30 AM - 8:30 PM",
+        "Tue": "Closed",
+        "Wed & Thu": "11:30 AM - 8:30 PM",
+        "Fri & Sat": "11:30 AM - 9:00 PM",
+        "Sun": "11:30 AM - 8:30 PM"
+      },
+      "description": "Homemade pasta and authentic Italian dishes made with fresh ingredients sourced directly from Italy.",
+      "menuUrl": "https://tremontilosaltos.com/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJrxWXNu6wj4ARYLJli-ApALY",
+      "formattedAddress": "233 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3793824,
+        "longitude": -122.11666199999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13114528159290995296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.urfabistro.com/",
+      "displayName": {
+        "text": "Urfa Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/los-altos/Urfa Bistro Small.jpeg",
+      "phone": "(650) 397-5614",
+      "hours": {
+        "Mon – Thu": "11:00 AM - 2:00 PM, 5:00 PM - 8:45 PM",
+        "Fri & Sat": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Sun": "11:00 AM - 2:00 PM, 5:00 PM - 8:45 PM"
+      },
+      "description": "Turkish Mediterranean cuisine using local ingredients to recreate authentic dishes from Urfa, featuring signature beyti kebab and kunefe.",
+      "menuUrl": "https://urfabistro.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJlWhjzu-wj4ARDWUaBphKinA",
+      "formattedAddress": "184 2nd St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.378766,
+        "longitude": -122.11724099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8109376095831876877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thevillagepantry.com/",
+      "displayName": {
+        "text": "Village Pantry",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/Village Pantry Small.jpeg",
+      "phone": "(650) 941-0384",
+      "hours": {
+        "Mon – Sun": "7:00 AM - 2:00 PM"
+      },
+      "description": "A historic diner serving Los Altos since 1947 with home style breakfast and lunch in a cozy diner with garden patio.",
+      "menuUrl": "http://www.thevillagepantry.com/menu_breakfast.php",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJPcGlQeqxj4AR9FkT7-9ijKA",
+      "formattedAddress": "250 3rd St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.377789,
+        "longitude": -122.1151417
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11568730325455690228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/14161",
+      "displayName": {
+        "text": "Yoshi Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Yoshi Sushi Small.jpeg",
+      "phone": "(650) 941-8150",
+      "hours": {
+        "Mon – Sun": "11:00 AM - 9:30 PM"
+      },
+      "description": "Incredibly fresh sushi and sashimi with innovative twists, plus great sake and Japanese craft beer.",
+      "menuUrl": "https://www.yoshisushilosaltos.com/menu/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJUUxQ8Y-xj4ARP33lTnajNe4",
+      "formattedAddress": "160 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3791046,
+        "longitude": -122.11915719999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17164805283317644607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.zenshisushi.com/",
+      "displayName": {
+        "text": "ZENSHI Handcrafted Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 941-1801",
+      "hours": {
+        "Mon – Sun": "9:00 AM - 7:00 PM"
+      },
+      "description": "Fresh handcrafted sushi made daily with premium ingredients, featuring traditional and American rolls at affordable prices.",
+      "menuUrl": "https://www.zenshisushi.com/menu-2-old",
+      "priceRange": "$$"
+    }
+  ],
   "Mountain View, CA": [
     {
       "id": "ChIJRdc6FjS3j4AR2reOejLBfXQ",
