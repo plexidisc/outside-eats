@@ -8099,36 +8099,115 @@ var PREBAKED_DATA_SOUTH = {
   ],
   "Los Altos, CA": [
     {
-      "id": "ChIJ1zaoXO6wj4AR8-1LQdlrr78",
-      "formattedAddress": "100 State St, Los Altos, CA 94022, USA",
+      "id": "ChIJc5kBeZuwj4ARbr1oPiyATE0",
+      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.380255999999996,
-        "longitude": -122.11554110000002
+        "latitude": 37.4013157,
+        "longitude": -122.11469249999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=13812377163016170995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.pompeiiristorante.com/home.html",
+      "googleMapsUri": "https://maps.google.com/?cid=5569967766664428910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.agoodmorninglosaltos.com/",
       "displayName": {
-        "text": "Pompeii Ristorante",
+        "text": "A Good Morning",
         "languageCode": "en"
       },
-      "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/los-altos/Pompeii Small.jpeg"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/A good Morning Small.jpeg"
     },
     {
-      "id": "ChIJ-2p_QZSxj4ARYGCfHQB_0O4",
-      "formattedAddress": "270 Main St, Los Altos, CA 94022, USA",
+      "id": "ChIJ53ySlDqxj4ARdyylbzvcJxk",
+      "formattedAddress": "235 1st St, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.3786218,
-        "longitude": -122.11648129999999
+        "latitude": 37.3784834,
+        "longitude": -122.11806499999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=17208393814656376928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://tremontilosaltos.com/?utm_source=google",
+      "googleMapsUri": "https://maps.google.com/?cid=1812659522874190967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "Tre Monti",
+        "text": "Amandine Lounge",
         "languageCode": "en"
       },
-      "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/los-altos/Tre Monti Small.jpeg"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Amandine Lounge Small.jpeg"
+    },
+    {
+      "id": "ChIJFwkVC72wj4ARgFhN7WeNqAY",
+      "formattedAddress": "4926 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.397166999999996,
+        "longitude": -122.1079311
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=479788837817374848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amber-india.com/los-altos",
+      "displayName": {
+        "text": "Amber India",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Amber Small.jpeg"
+    },
+    {
+      "id": "ChIJSxBi5Mixj4ARwsvMQF5zgcE",
+      "formattedAddress": "132 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3801424,
+        "longitude": -122.1156664
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13943552769967049666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.aurumca.com/",
+      "displayName": {
+        "text": "Aurum",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Aurum Small.jpeg"
+    },
+    {
+      "id": "ChIJ7ySZIY6xj4ARV6eC-BPNplg",
+      "formattedAddress": "388 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3780733,
+        "longitude": -122.1176708
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6388018607129012055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.barbayanitaverna.com/",
+      "displayName": {
+        "text": "Barbayani Greek Taverna",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/los-altos/Barbayani Small.jpeg"
+    },
+    {
+      "id": "ChIJNWwtKWOxj4ARnH1f_eQ5cHM",
+      "formattedAddress": "288 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3772309,
+        "longitude": -122.1177688
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8318212167419526556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bluestonelane.com/cafes/los-altos-cafe-288-1st-st/?y_source=1_MTM0MDQ0NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Bluestone Lane Los Altos Café",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJBRslye-wj4ARuC0vVUKqoNg",
+      "formattedAddress": "280 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3786665,
+        "longitude": -122.11658190000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15609663510339857848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cafenur.net/",
+      "displayName": {
+        "text": "Cafe Nur",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/los-altos/Cafe Nur Small.jpeg"
     },
     {
       "id": "ChIJtbMfvUuxj4ARZ8BrWBSv-bE",
@@ -8146,210 +8225,20 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Italian"
     },
     {
-      "id": "ChIJbXQkXe6wj4ARdvBYlDi9YNM",
-      "formattedAddress": "101 Plaza N, Los Altos, CA 94022, USA",
+      "id": "ChIJUbgC8-6wj4ARtKqFQrSioy8",
+      "formattedAddress": "1 Main St, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.3803611,
-        "longitude": -122.1157222
+        "latitude": 37.3807871,
+        "longitude": -122.11445889999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=15231381990471692406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.stateofmindpublichouse.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=3432766236080319156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.enchantehotel.com/",
       "displayName": {
-        "text": "State of Mind Public House and Pizzeria",
+        "text": "Campagne One Main",
         "languageCode": "en"
       },
-      "cuisine": "Pizza",
-      "photoUrl": "images/restaurant-photos/los-altos/State of Mind Small.jpeg"
-    },
-    {
-      "id": "ChIJjadGJvCwj4ARXF5gOqhZgOQ",
-      "formattedAddress": "160 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3800489,
-        "longitude": -122.11605750000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16465258816735305308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.cetrella.com/",
-      "displayName": {
-        "text": "Cetrella",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJ5wdFOu6wj4ARKPFSgIu3C1Q",
-      "formattedAddress": "242 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.379673499999996,
-        "longitude": -122.1168836
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6056135933711020328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.rojalosaltos.com/",
-      "displayName": {
-        "text": "Roja Los Altos",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/los-altos/Roja Los Altos Small.jpeg"
-    },
-    {
-      "id": "ChIJc5kBeZuwj4AR2MeiNjQT000",
-      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.400970799999996,
-        "longitude": -122.11434279999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5607847075982264280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://losaltos.pastamarket.com/",
-      "displayName": {
-        "text": "The Pasta Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/los-altos/The Pasta Market Small.jpeg"
-    },
-    {
-      "id": "ChIJm-8VnFmxj4ARHF9KXzjTdPQ",
-      "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3799748,
-        "longitude": -122.1163267
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17614936281623191324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mikoscalitalia.com/?utm_source=google",
-      "displayName": {
-        "text": "Miko's CALiTALIA",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion",
-      "photoUrl": "images/restaurant-photos/los-altos/Mikos Calitalia Small.jpeg"
-    },
-    {
-      "id": "ChIJzYrvNO6wj4AR8INu1uGm4ds",
-      "formattedAddress": "236 Plaza Central, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.379140899999996,
-        "longitude": -122.11664999999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15844128452961534960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sumikagrill.com/",
-      "displayName": {
-        "text": "Sumika",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJLYsmK-6wj4AR5mtsIe0ZzLk",
-      "formattedAddress": "355 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3788075,
-        "longitude": -122.1176352
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13388104298524339174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sumosushiboat.com/?utm_source=google",
-      "displayName": {
-        "text": "Sumo Japanese Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/los-altos/Sumo Small.jpeg"
-    },
-    {
-      "id": "ChIJxzb7Bu-wj4ARREiuuOuI7Fo",
-      "formattedAddress": "161 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.379292899999996,
-        "longitude": -122.1148714
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6551762103914350660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mikadolosaltos.com/",
-      "displayName": {
-        "text": "Mikado",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/los-altos/Mikado Small.jpeg"
-    },
-    {
-      "id": "ChIJPcGlQeqxj4AR9FkT7-9ijKA",
-      "formattedAddress": "250 3rd St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.377789,
-        "longitude": -122.1151417
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11568730325455690228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pos.chowbus.com/online-ordering/store/14161",
-      "displayName": {
-        "text": "Yoshi Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/los-altos/Yoshi Sushi Small.jpeg"
-    },
-    {
-      "id": "ChIJpdg90O-wj4ARHsvrk65jirE",
-      "formattedAddress": "328 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3783585,
-        "longitude": -122.1171826
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12793147292956478238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hiroshi328.com/",
-      "displayName": {
-        "text": "Hiroshi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/los-altos/Hiroshi Small.jpeg"
-    },
-    {
-      "id": "ChIJW4yhm5uwj4ARBBwtvAQfmkk",
-      "formattedAddress": "4546 W El Camino Real suite a4, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.400579,
-        "longitude": -122.11464489999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5303585616379583492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sushikolosaltos.com/",
-      "displayName": {
-        "text": "Sushiko",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/los-altos/Sushiko Small.jpeg"
-    },
-    {
-      "id": "ChIJ1YsQu5uwj4ARLCuO0c9AdlA",
-      "formattedAddress": "971 N San Antonio Rd, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3997625,
-        "longitude": -122.11394759999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5797892831604255532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://estrellitarestaurant.com/?utm_source=google",
-      "displayName": {
-        "text": "Estrellita Mexican Bistro",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/los-altos/Estrellitas Mexican Restaurant Small.jpeg"
-    },
-    {
-      "id": "ChIJnfhbvSSxj4ARTj783MFYWKU",
-      "formattedAddress": "266 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.378643499999995,
-        "longitude": -122.1164366
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11914370403868098126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://elcomalkitchen.com/",
-      "displayName": {
-        "text": "El Comal",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/los-altos/El Comal Small.jpeg"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/los-altos/Campagne One Main Small.jpeg"
     },
     {
       "id": "ChIJbcTCru-wj4ARc6Q5mxRxth4",
@@ -8368,6 +8257,133 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/los-altos/Casa Lupe Small.jpeg"
     },
     {
+      "id": "ChIJjadGJvCwj4ARXF5gOqhZgOQ",
+      "formattedAddress": "160 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3800489,
+        "longitude": -122.11605750000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16465258816735305308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cetrella.com/",
+      "displayName": {
+        "text": "Cetrella",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJaXfxOu6wj4ARO0BnfIvT9Bo",
+      "formattedAddress": "244 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3796259,
+        "longitude": -122.11695619999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1942409935344582715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Charley Noodle & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Charley Noodle & Grill Small.jpeg"
+    },
+    {
+      "id": "ChIJ1T9Tk5uwj4ARFI0FkzPKOvI",
+      "formattedAddress": "1067 N San Antonio Rd, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.4005779,
+        "longitude": -122.1136827
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17454485628686535956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.chefchu.com/",
+      "displayName": {
+        "text": "Chef Chu's",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Chef Chus Small.jpeg"
+    },
+    {
+      "id": "ChIJ03Tgd56wj4AR9ezZkViDUNY",
+      "formattedAddress": "4540 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.401527,
+        "longitude": -122.11497999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15442987538680769781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dittmers.com/?y_source=1_MjM4MTEzMjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Dittmer's Gourmet Meats & Wurst-Haus",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/los-altos/Dittmers Small.jpeg"
+    },
+    {
+      "id": "ChIJnfhbvSSxj4ARTj783MFYWKU",
+      "formattedAddress": "266 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.378643499999995,
+        "longitude": -122.1164366
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11914370403868098126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://elcomalkitchen.com/",
+      "displayName": {
+        "text": "El Comal",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/El Comal Small.jpeg"
+    },
+    {
+      "id": "ChIJTx-pAQCxj4ARo0w5yddhPmk",
+      "formattedAddress": "188 2nd St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.378769000000005,
+        "longitude": -122.11718909999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7583606401960332451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ellearywine.com/",
+      "displayName": {
+        "text": "Elleary Wine Tasting Room",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/los-altos/Elleary Wine Small.jpeg"
+    },
+    {
+      "id": "ChIJKagZSAm6j4AROCZf5nrk5fI",
+      "formattedAddress": "987 N San Antonio Rd, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3999467,
+        "longitude": -122.1140496
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17502646743347439160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://estherskitchenbeergarden.com/",
+      "displayName": {
+        "text": "Esther's Kitchen & Beer Garden",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/los-altos/Esthers Small.jpeg"
+    },
+    {
+      "id": "ChIJ1YsQu5uwj4ARLCuO0c9AdlA",
+      "formattedAddress": "971 N San Antonio Rd, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3997625,
+        "longitude": -122.11394759999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5797892831604255532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://estrellitarestaurant.com/?utm_source=google",
+      "displayName": {
+        "text": "Estrellita Mexican Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Estrellitas Mexican Restaurant Small.jpeg"
+    },
+    {
       "id": "ChIJF7_im3Gxj4ARzZ56keZ6BRM",
       "formattedAddress": "301 State St, Los Altos, CA 94022, USA",
       "location": {
@@ -8382,6 +8398,102 @@ var PREBAKED_DATA_SOUTH = {
       },
       "cuisine": "Mexican",
       "photoUrl": "images/restaurant-photos/los-altos/Fiesta Vallarta Small.jpeg"
+    },
+    {
+      "id": "ChIJWazJJwCxj4ARJjdeVd1adHM",
+      "formattedAddress": "251 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3783635,
+        "longitude": -122.1160624
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8319374318326658854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.gkpastry.com/",
+      "displayName": {
+        "text": "GK Pastry & Sourdough",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/GK Pastry & Sourdough Small.jpeg"
+    },
+    {
+      "id": "ChIJpdg90O-wj4ARHsvrk65jirE",
+      "formattedAddress": "328 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3783585,
+        "longitude": -122.1171826
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12793147292956478238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hiroshi328.com/",
+      "displayName": {
+        "text": "Hiroshi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Hiroshi Small.jpeg"
+    },
+    {
+      "id": "ChIJXUFS9DKxj4ARm8sml59lH2U",
+      "formattedAddress": "134 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.37982770000001,
+        "longitude": -122.11509729999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7286654458218859419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cupertinocountryinn.com/",
+      "displayName": {
+        "text": "Holder's Country Inn - Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Holders Country Inn Small.jpeg"
+    },
+    {
+      "id": "ChIJ8QRUHWixj4AR75O-fjpnt8g",
+      "formattedAddress": "376 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.375775999999995,
+        "longitude": -122.11648710000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14463142229255820271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://ktmcuisinelosaltos.com/",
+      "displayName": {
+        "text": "Kathmandu Cuisine Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/los-altos/Kathmandu Cuisine Small.jpeg"
+    },
+    {
+      "id": "ChIJVY61xUSxj4ARvHcN5C475mw",
+      "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3801038,
+        "longitude": -122.11618869999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7847024473320290236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://konjoe.com/?utm_source=google",
+      "displayName": {
+        "text": "Konjoe Burger",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/los-altos/Konjoe Burger Small.jpeg"
+    },
+    {
+      "id": "ChIJ74uIkWKxj4ARvSFTp0x2ZOY",
+      "formattedAddress": "366 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3782262,
+        "longitude": -122.1175377
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16601524197991326141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Le banc",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Le Banc Small.jpeg"
     },
     {
       "id": "ChIJWUOqde-wj4ARvFRj5XeG0CY",
@@ -8416,546 +8528,36 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/los-altos/Lulus A taqueria Small.jpeg"
     },
     {
-      "id": "ChIJieswgBm0j4ARDSKwScWK5gw",
-      "formattedAddress": "2310 Homestead Rd J, Los Altos, CA 94024, USA",
+      "id": "ChIJxzb7Bu-wj4ARREiuuOuI7Fo",
+      "formattedAddress": "161 Main St, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.3364383,
-        "longitude": -122.06655380000001
+        "latitude": 37.379292899999996,
+        "longitude": -122.1148714
       },
-      "googleMapsUri": "https://maps.google.com/?cid=929582953048056333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://redpeppergrillca.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=6551762103914350660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mikadolosaltos.com/",
       "displayName": {
-        "text": "Red Pepper Bar and Grill",
+        "text": "Mikado",
         "languageCode": "en"
       },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/los-altos/Red Pepper Grill Small.jpeg"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Mikado Small.jpeg"
     },
     {
-      "id": "ChIJ3ekn4Nqxj4ARzOl_dKyqLdY",
-      "formattedAddress": "131 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3798762,
-        "longitude": -122.11458200000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15433179155734194636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Tacos Al Vapor Michoacan",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/los-altos/Tacos Al Vapor Small.jpeg"
-    },
-    {
-      "id": "ChIJ1T9Tk5uwj4ARFI0FkzPKOvI",
-      "formattedAddress": "1067 N San Antonio Rd, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.4005779,
-        "longitude": -122.1136827
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17454485628686535956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.chefchu.com/",
-      "displayName": {
-        "text": "Chef Chu's",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/los-altos/Chef Chus Small.jpeg"
-    },
-    {
-      "id": "ChIJNaoyf5uwj4ARkH2E1EA5J-g",
-      "formattedAddress": "4546 El Camino Real # A6, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.4008056,
-        "longitude": -122.1144528
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16728402291497139600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.noodle-talk.com/",
-      "displayName": {
-        "text": "Noodle Talk",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/los-altos/Noodle Talk Small.jpeg"
-    },
-    {
-      "id": "ChIJaXfxOu6wj4ARO0BnfIvT9Bo",
-      "formattedAddress": "244 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3796259,
-        "longitude": -122.11695619999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1942409935344582715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Charley Noodle & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/los-altos/Charley Noodle & Grill Small.jpeg"
-    },
-    {
-      "id": "ChIJ8QRUHWixj4AR75O-fjpnt8g",
-      "formattedAddress": "376 1st St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.375775999999995,
-        "longitude": -122.11648710000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14463142229255820271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://ktmcuisinelosaltos.com/",
-      "displayName": {
-        "text": "Kathmandu Cuisine Los Altos",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/los-altos/Kathmandu Cuisine Small.jpeg"
-    },
-    {
-      "id": "ChIJbfidQpSxj4AR-1vlJ20o6pk",
+      "id": "ChIJm-8VnFmxj4ARHF9KXzjTdPQ",
       "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
       "location": {
         "latitude": 37.3799748,
         "longitude": -122.1163267
       },
-      "googleMapsUri": "https://maps.google.com/?cid=11090721481639156731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.statestreetmarket.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17614936281623191324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mikoscalitalia.com/?utm_source=google",
       "displayName": {
-        "text": "State Street Market",
+        "text": "Miko's CALiTALIA",
         "languageCode": "en"
       },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJ4d-hvv-xj4AR3N32ZHX7ggE",
-      "formattedAddress": "200 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3797475,
-        "longitude": -122.116516
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=108925822633958876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://thephocabingo.site/",
-      "displayName": {
-        "text": "The Pho Cabin",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese",
-      "photoUrl": "images/restaurant-photos/los-altos/The Pho Cabin Small.jpeg"
-    },
-    {
-      "id": "ChIJSxBi5Mixj4ARwsvMQF5zgcE",
-      "formattedAddress": "132 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3801424,
-        "longitude": -122.1156664
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13943552769967049666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.aurumca.com/",
-      "displayName": {
-        "text": "Aurum",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/los-altos/Aurum Small.jpeg"
-    },
-    {
-      "id": "ChIJFwkVC72wj4ARgFhN7WeNqAY",
-      "formattedAddress": "4926 El Camino Real, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.397166999999996,
-        "longitude": -122.1079311
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=479788837817374848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.amber-india.com/los-altos",
-      "displayName": {
-        "text": "Amber India",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/los-altos/Amber Small.jpeg"
-    },
-    {
-      "id": "ChIJD7zQ58exj4AR3GdrlEhT-bE",
-      "formattedAddress": "680 Fremont Ave, Los Altos, CA 94024, USA",
-      "location": {
-        "latitude": 37.3610676,
-        "longitude": -122.0973643
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12824372985107015644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.rwgrill.com/",
-      "displayName": {
-        "text": "Redwood Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/los-altos/Redwood Grill Small.jpeg"
-    },
-    {
-      "id": "ChIJNR-Z3u-wj4ARqG-56lDF-4c",
-      "formattedAddress": "395 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.377796,
-        "longitude": -122.11749929999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9798642365600722856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://thepostlosaltos.com/",
-      "displayName": {
-        "text": "The Post",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/los-altos/The Post Small.jpeg"
-    },
-    {
-      "id": "ChIJXUFS9DKxj4ARm8sml59lH2U",
-      "formattedAddress": "134 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.37982770000001,
-        "longitude": -122.11509729999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7286654458218859419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cupertinocountryinn.com/",
-      "displayName": {
-        "text": "Holder's Country Inn - Los Altos",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/los-altos/Holders Country Inn Small.jpeg"
-    },
-    {
-      "id": "ChIJxwHRCni6j4ARwJt6NK1v-s4",
-      "formattedAddress": "4320 El Camino Real, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.4048436,
-        "longitude": -122.1192062
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14914355905691294656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.longbarandbistro.com/",
-      "displayName": {
-        "text": "The Courtyard Long Bar & Bistro",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/los-altos/The Courtyard Long Bar Small.jpeg"
-    },
-    {
-      "id": "ChIJc5kBeZuwj4ARbr1oPiyATE0",
-      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.4013157,
-        "longitude": -122.11469249999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5569967766664428910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.agoodmorninglosaltos.com/",
-      "displayName": {
-        "text": "A Good Morning",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/los-altos/A good Morning Small.jpeg"
-    },
-    {
-      "id": "ChIJq_CzN-6wj4ARTyyNEspj-Es",
-      "formattedAddress": "205 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.379399,
-        "longitude": -122.116369
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5474235066614623311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.rickscafeonline.com/",
-      "displayName": {
-        "text": "Rick's Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/los-altos/Ricks Cafe Small.jpeg"
-    },
-    {
-      "id": "ChIJ5TATx--wj4ARZdlFK-M2_O4",
-      "formattedAddress": "295 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.378285,
-        "longitude": -122.1164972
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17220699424469408101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://rustichouselosaltos.com/",
-      "displayName": {
-        "text": "Rustic House Oyster Bar & Grill - Los Altos",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood",
-      "photoUrl": "images/restaurant-photos/los-altos/Rustic House Small.jpeg"
-    },
-    {
-      "id": "ChIJ7ySZIY6xj4ARV6eC-BPNplg",
-      "formattedAddress": "388 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3780733,
-        "longitude": -122.1176708
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6388018607129012055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.barbayanitaverna.com/",
-      "displayName": {
-        "text": "Barbayani Greek Taverna",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/los-altos/Barbayani Small.jpeg"
-    },
-    {
-      "id": "ChIJ53ySlDqxj4ARdyylbzvcJxk",
-      "formattedAddress": "235 1st St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3784834,
-        "longitude": -122.11806499999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1812659522874190967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Amandine Lounge",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/los-altos/Amandine Lounge Small.jpeg"
-    },
-    {
-      "id": "ChIJUbgC8-6wj4ARtKqFQrSioy8",
-      "formattedAddress": "1 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3807871,
-        "longitude": -122.11445889999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3432766236080319156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.enchantehotel.com/",
-      "displayName": {
-        "text": "Campagne One Main",
-        "languageCode": "en"
-      },
-      "cuisine": "French",
-      "photoUrl": "images/restaurant-photos/los-altos/Campagne One Main Small.jpeg"
-    },
-    {
-      "id": "ChIJXznL_e6wj4ARFXQ_b26GIAs",
-      "formattedAddress": "133 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3797968,
-        "longitude": -122.1146739
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=801788542542902293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.spotpizzalosaltos.com/",
-      "displayName": {
-        "text": "Spot A Pizza Place",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza",
-      "photoUrl": "images/restaurant-photos/los-altos/Spot Small.jpeg"
-    },
-    {
-      "id": "ChIJrxWXNu6wj4ARYLJli-ApALY",
-      "formattedAddress": "233 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3793824,
-        "longitude": -122.11666199999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13114528159290995296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.urfabistro.com/",
-      "displayName": {
-        "text": "Urfa Bistro",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/los-altos/Urfa Bistro Small.jpeg"
-    },
-    {
-      "id": "ChIJBRslye-wj4ARuC0vVUKqoNg",
-      "formattedAddress": "280 Main St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3786665,
-        "longitude": -122.11658190000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15609663510339857848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://cafenur.net/",
-      "displayName": {
-        "text": "Cafe Nur",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern",
-      "photoUrl": "images/restaurant-photos/los-altos/Cafe Nur Small.jpeg"
-    },
-    {
-      "id": "ChIJc5kBeZuwj4AR5MSKHQl28rk",
-      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.401210600000006,
-        "longitude": -122.11456299999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13398901622903063780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://amzn.to/4n2p2fH",
-      "displayName": {
-        "text": "Phở Vi Hoa",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese",
-      "photoUrl": "images/restaurant-photos/los-altos/Pho Vi Hoa Small.jpeg"
-    },
-    {
-      "id": "ChIJF3SDJaGxj4ARkzpGB5T6bvw",
-      "formattedAddress": "696 Fremont Ave, Los Altos, CA 94024, USA",
-      "location": {
-        "latitude": 37.3605114,
-        "longitude": -122.0965141
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18189751458680158867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Pho & Banh Mi Los Altos",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese",
-      "photoUrl": "images/restaurant-photos/los-altos/Pho & Banh Mi Green Baker & Cafe Small.jpeg"
-    },
-    {
-      "id": "ChIJS_8lm5uwj4ARTNDjilGJWvY",
-      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.400656999999995,
-        "longitude": -122.1144703
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17751651864549773388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sudam4u.com/",
-      "displayName": {
-        "text": "Su-Dam Korean Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean",
-      "photoUrl": "images/restaurant-photos/los-altos/Su-dam Korean Cuisine Small.jpeg"
-    },
-    {
-      "id": "ChIJKagZSAm6j4AROCZf5nrk5fI",
-      "formattedAddress": "987 N San Antonio Rd, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3999467,
-        "longitude": -122.1140496
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17502646743347439160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://estherskitchenbeergarden.com/",
-      "displayName": {
-        "text": "Esther's Kitchen & Beer Garden",
-        "languageCode": "en"
-      },
-      "cuisine": "German/Austrian",
-      "photoUrl": "images/restaurant-photos/los-altos/Esthers Small.jpeg"
-    },
-    {
-      "id": "ChIJ03Tgd56wj4AR9ezZkViDUNY",
-      "formattedAddress": "4540 El Camino Real, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.401527,
-        "longitude": -122.11497999999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15442987538680769781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dittmers.com/?y_source=1_MjM4MTEzMjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "displayName": {
-        "text": "Dittmer's Gourmet Meats & Wurst-Haus",
-        "languageCode": "en"
-      },
-      "cuisine": "German/Austrian",
-      "photoUrl": "images/restaurant-photos/los-altos/Dittmers Small.jpeg"
-    },
-    {
-      "id": "ChIJlWhjzu-wj4ARDWUaBphKinA",
-      "formattedAddress": "184 2nd St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.378766,
-        "longitude": -122.11724099999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8109376095831876877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.thevillagepantry.com/",
-      "displayName": {
-        "text": "Village Pantry",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/los-altos/Village Pantry Small.jpeg"
-    },
-    {
-      "id": "ChIJy02vUuSwj4AR0evlxyNKfn0",
-      "formattedAddress": "420 S San Antonio Rd, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3751556,
-        "longitude": -122.11448060000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9042746619344579537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://originalpancakehouse.com/index.html",
-      "displayName": {
-        "text": "The Original Pancake House",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/los-altos/The original Pancake House Small.jpeg"
-    },
-    {
-      "id": "ChIJ0x5zmEuxj4AR9l_uxDv9qUw",
-      "formattedAddress": "991 Fremont Ave, Los Altos, CA 94024, USA",
-      "location": {
-        "latitude": 37.352987999999996,
-        "longitude": -122.08737300000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5524224851095478262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.toasttab.com/online/toms-depot-cafe-991-fremont-avenue",
-      "displayName": {
-        "text": "Tom's Depot Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/los-altos/Toms Breakfast &b Lunch Small.jpeg"
-    },
-    {
-      "id": "ChIJfdipeR6xj4AR9q952VVVFDM",
-      "formattedAddress": "170 State St Unit 121, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.380179999999996,
-        "longitude": -122.11605030000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3680660622677749750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.thegoodsalad.com/?utm_source=gbp&utm_medium=referral&utm_campaign=ongoing&utm_content=los_altos",
-      "displayName": {
-        "text": "The Good Salad",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/los-altos/The Good Salad Small.jpeg"
-    },
-    {
-      "id": "ChIJVVWFYUK7j4ARdxGD3jJeyx4",
-      "formattedAddress": "209 1st St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3785696,
-        "longitude": -122.11819
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2218970813984608631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sweetdiplomacy.com/losaltos",
-      "displayName": {
-        "text": "Sweet Diplomacy® Gluten-Free",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/los-altos/Sweet Diplomacy Small.jpeg"
-    },
-    {
-      "id": "ChIJG7tRfY-wj4ARCvcoIKiAF64",
-      "formattedAddress": "692 Fremont Ave, Los Altos, CA 94024, USA",
-      "location": {
-        "latitude": 37.3606218,
-        "longitude": -122.0964771
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12544636746646222602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.greenbakeryandcafe.com/#/",
-      "displayName": {
-        "text": "Green Bakery & Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/los-altos/Mikos Calitalia Small.jpeg"
     },
     {
       "id": "ChIJxcoui-ixj4AR-_a0L_CSDJM",
@@ -8974,113 +8576,290 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/los-altos/Murdoch Bar Small.jpeg"
     },
     {
-      "id": "ChIJ74uIkWKxj4ARvSFTp0x2ZOY",
-      "formattedAddress": "366 Main St, Los Altos, CA 94022, USA",
+      "id": "ChIJNaoyf5uwj4ARkH2E1EA5J-g",
+      "formattedAddress": "4546 El Camino Real # A6, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.3782262,
-        "longitude": -122.1175377
+        "latitude": 37.4008056,
+        "longitude": -122.1144528
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16601524197991326141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=16728402291497139600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.noodle-talk.com/",
+      "displayName": {
+        "text": "Noodle Talk",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/los-altos/Noodle Talk Small.jpeg"
+    },
+    {
+      "id": "ChIJF3SDJaGxj4ARkzpGB5T6bvw",
+      "formattedAddress": "696 Fremont Ave, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.3605114,
+        "longitude": -122.0965141
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18189751458680158867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Le banc",
+        "text": "Pho & Banh Mi Los Altos",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/los-altos/Le Banc Small.jpeg"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/Pho & Banh Mi Green Baker & Cafe Small.jpeg"
     },
     {
-      "id": "ChIJVY61xUSxj4ARvHcN5C475mw",
+      "id": "ChIJc5kBeZuwj4AR5MSKHQl28rk",
+      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.401210600000006,
+        "longitude": -122.11456299999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13398901622903063780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://amzn.to/4n2p2fH",
+      "displayName": {
+        "text": "Phở Vi Hoa",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/Pho Vi Hoa Small.jpeg"
+    },
+    {
+      "id": "ChIJ1zaoXO6wj4AR8-1LQdlrr78",
+      "formattedAddress": "100 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.380255999999996,
+        "longitude": -122.11554110000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13812377163016170995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.pompeiiristorante.com/home.html",
+      "displayName": {
+        "text": "Pompeii Ristorante",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/Pompeii Small.jpeg"
+    },
+    {
+      "id": "ChIJieswgBm0j4ARDSKwScWK5gw",
+      "formattedAddress": "2310 Homestead Rd J, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.3364383,
+        "longitude": -122.06655380000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=929582953048056333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://redpeppergrillca.com/",
+      "displayName": {
+        "text": "Red Pepper Bar and Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Red Pepper Grill Small.jpeg"
+    },
+    {
+      "id": "ChIJD7zQ58exj4AR3GdrlEhT-bE",
+      "formattedAddress": "680 Fremont Ave, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.3610676,
+        "longitude": -122.0973643
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12824372985107015644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.rwgrill.com/",
+      "displayName": {
+        "text": "Redwood Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Redwood Grill Small.jpeg"
+    },
+    {
+      "id": "ChIJq_CzN-6wj4ARTyyNEspj-Es",
+      "formattedAddress": "205 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.379399,
+        "longitude": -122.116369
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5474235066614623311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rickscafeonline.com/",
+      "displayName": {
+        "text": "Rick's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/Ricks Cafe Small.jpeg"
+    },
+    {
+      "id": "ChIJ5wdFOu6wj4ARKPFSgIu3C1Q",
+      "formattedAddress": "242 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.379673499999996,
+        "longitude": -122.1168836
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6056135933711020328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rojalosaltos.com/",
+      "displayName": {
+        "text": "Roja Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Roja Los Altos Small.jpeg"
+    },
+    {
+      "id": "ChIJ5TATx--wj4ARZdlFK-M2_O4",
+      "formattedAddress": "295 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.378285,
+        "longitude": -122.1164972
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17220699424469408101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://rustichouselosaltos.com/",
+      "displayName": {
+        "text": "Rustic House Oyster Bar & Grill - Los Altos",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/los-altos/Rustic House Small.jpeg"
+    },
+    {
+      "id": "ChIJXznL_e6wj4ARFXQ_b26GIAs",
+      "formattedAddress": "133 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3797968,
+        "longitude": -122.1146739
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=801788542542902293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.spotpizzalosaltos.com/",
+      "displayName": {
+        "text": "Spot A Pizza Place",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/los-altos/Spot Small.jpeg"
+    },
+    {
+      "id": "ChIJbXQkXe6wj4ARdvBYlDi9YNM",
+      "formattedAddress": "101 Plaza N, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3803611,
+        "longitude": -122.1157222
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15231381990471692406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.stateofmindpublichouse.com/",
+      "displayName": {
+        "text": "State of Mind Public House and Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/los-altos/State of Mind Small.jpeg"
+    },
+    {
+      "id": "ChIJbfidQpSxj4AR-1vlJ20o6pk",
       "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.3801038,
-        "longitude": -122.11618869999998
+        "latitude": 37.3799748,
+        "longitude": -122.1163267
       },
-      "googleMapsUri": "https://maps.google.com/?cid=7847024473320290236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://konjoe.com/?utm_source=google",
+      "googleMapsUri": "https://maps.google.com/?cid=11090721481639156731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.statestreetmarket.com/",
       "displayName": {
-        "text": "Konjoe Burger",
+        "text": "State Street Market",
         "languageCode": "en"
       },
-      "cuisine": "Burgers",
-      "photoUrl": "images/restaurant-photos/los-altos/Konjoe Burger Small.jpeg"
+      "cuisine": "Other"
     },
     {
-      "id": "ChIJUwcM_-6wj4AR4dMgkeeVpFI",
-      "formattedAddress": "139 Main St, Los Altos, CA 94022, USA",
+      "id": "ChIJS_8lm5uwj4ARTNDjilGJWvY",
+      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.3796794,
-        "longitude": -122.11467889999999
+        "latitude": 37.400656999999995,
+        "longitude": -122.1144703
       },
-      "googleMapsUri": "https://maps.google.com/?cid=5955049429095470049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://italiandeligodfather.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17751651864549773388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sudam4u.com/",
       "displayName": {
-        "text": "The American Italian Deli",
+        "text": "Su-Dam Korean Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/los-altos/Su-dam Korean Cuisine Small.jpeg"
     },
     {
-      "id": "ChIJWazJJwCxj4ARJjdeVd1adHM",
-      "formattedAddress": "251 Main St, Los Altos, CA 94022, USA",
+      "id": "ChIJzYrvNO6wj4AR8INu1uGm4ds",
+      "formattedAddress": "236 Plaza Central, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.3783635,
-        "longitude": -122.1160624
+        "latitude": 37.379140899999996,
+        "longitude": -122.11664999999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=8319374318326658854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.gkpastry.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15844128452961534960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sumikagrill.com/",
       "displayName": {
-        "text": "GK Pastry & Sourdough",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/los-altos/GK Pastry & Sourdough Small.jpeg"
-    },
-    {
-      "id": "ChIJNWwtKWOxj4ARnH1f_eQ5cHM",
-      "formattedAddress": "288 1st St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3772309,
-        "longitude": -122.1177688
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8318212167419526556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://bluestonelane.com/cafes/los-altos-cafe-288-1st-st/?y_source=1_MTM0MDQ0NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "displayName": {
-        "text": "Bluestone Lane Los Altos Café",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJUUxQ8Y-xj4ARP33lTnajNe4",
-      "formattedAddress": "160 1st St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3791046,
-        "longitude": -122.11915719999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17164805283317644607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.zenshisushi.com/",
-      "displayName": {
-        "text": "ZENSHI Handcrafted Sushi",
+        "text": "Sumika",
         "languageCode": "en"
       },
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJTx-pAQCxj4ARo0w5yddhPmk",
-      "formattedAddress": "188 2nd St, Los Altos, CA 94022, USA",
+      "id": "ChIJLYsmK-6wj4AR5mtsIe0ZzLk",
+      "formattedAddress": "355 State St, Los Altos, CA 94022, USA",
       "location": {
-        "latitude": 37.378769000000005,
-        "longitude": -122.11718909999999
+        "latitude": 37.3788075,
+        "longitude": -122.1176352
       },
-      "googleMapsUri": "https://maps.google.com/?cid=7583606401960332451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.ellearywine.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13388104298524339174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sumosushiboat.com/?utm_source=google",
       "displayName": {
-        "text": "Elleary Wine Tasting Room",
+        "text": "Sumo Japanese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar",
-      "photoUrl": "images/restaurant-photos/los-altos/Elleary Wine Small.jpeg"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Sumo Small.jpeg"
+    },
+    {
+      "id": "ChIJW4yhm5uwj4ARBBwtvAQfmkk",
+      "formattedAddress": "4546 W El Camino Real suite a4, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.400579,
+        "longitude": -122.11464489999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5303585616379583492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushikolosaltos.com/",
+      "displayName": {
+        "text": "Sushiko",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Sushiko Small.jpeg"
+    },
+    {
+      "id": "ChIJVVWFYUK7j4ARdxGD3jJeyx4",
+      "formattedAddress": "209 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3785696,
+        "longitude": -122.11819
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2218970813984608631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetdiplomacy.com/losaltos",
+      "displayName": {
+        "text": "Sweet Diplomacy® Gluten-Free",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Sweet Diplomacy Small.jpeg"
+    },
+    {
+      "id": "ChIJ3ekn4Nqxj4ARzOl_dKyqLdY",
+      "formattedAddress": "131 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3798762,
+        "longitude": -122.11458200000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15433179155734194636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tacos Al Vapor Michoacan",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/los-altos/Tacos Al Vapor Small.jpeg"
     },
     {
       "id": "ChIJ5akihbexj4AR98uhdltEXbc",
@@ -9098,6 +8877,53 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Mexican"
     },
     {
+      "id": "ChIJUwcM_-6wj4AR4dMgkeeVpFI",
+      "formattedAddress": "139 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3796794,
+        "longitude": -122.11467889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5955049429095470049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://italiandeligodfather.com/",
+      "displayName": {
+        "text": "The American Italian Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJxwHRCni6j4ARwJt6NK1v-s4",
+      "formattedAddress": "4320 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.4048436,
+        "longitude": -122.1192062
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14914355905691294656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.longbarandbistro.com/",
+      "displayName": {
+        "text": "The Courtyard Long Bar & Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Courtyard Long Bar Small.jpeg"
+    },
+    {
+      "id": "ChIJfdipeR6xj4AR9q952VVVFDM",
+      "formattedAddress": "170 State St Unit 121, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.380179999999996,
+        "longitude": -122.11605030000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3680660622677749750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thegoodsalad.com/?utm_source=gbp&utm_medium=referral&utm_campaign=ongoing&utm_content=los_altos",
+      "displayName": {
+        "text": "The Good Salad",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Good Salad Small.jpeg"
+    },
+    {
       "id": "ChIJdWW7YgCxj4ARon_Pw_43oWQ",
       "formattedAddress": "160 State St, Los Altos, CA 94022, USA",
       "location": {
@@ -9111,6 +8937,165 @@ var PREBAKED_DATA_SOUTH = {
         "languageCode": "en"
       },
       "cuisine": "Other"
+    },
+    {
+      "id": "ChIJy02vUuSwj4AR0evlxyNKfn0",
+      "formattedAddress": "420 S San Antonio Rd, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3751556,
+        "longitude": -122.11448060000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9042746619344579537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://originalpancakehouse.com/index.html",
+      "displayName": {
+        "text": "The Original Pancake House",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/The original Pancake House Small.jpeg"
+    },
+    {
+      "id": "ChIJc5kBeZuwj4AR2MeiNjQT000",
+      "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.400970799999996,
+        "longitude": -122.11434279999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5607847075982264280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://losaltos.pastamarket.com/",
+      "displayName": {
+        "text": "The Pasta Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/The Pasta Market Small.jpeg"
+    },
+    {
+      "id": "ChIJ4d-hvv-xj4AR3N32ZHX7ggE",
+      "formattedAddress": "200 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3797475,
+        "longitude": -122.116516
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=108925822633958876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://thephocabingo.site/",
+      "displayName": {
+        "text": "The Pho Cabin",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/los-altos/The Pho Cabin Small.jpeg"
+    },
+    {
+      "id": "ChIJNR-Z3u-wj4ARqG-56lDF-4c",
+      "formattedAddress": "395 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.377796,
+        "longitude": -122.11749929999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9798642365600722856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://thepostlosaltos.com/",
+      "displayName": {
+        "text": "The Post",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/los-altos/The Post Small.jpeg"
+    },
+    {
+      "id": "ChIJ0x5zmEuxj4AR9l_uxDv9qUw",
+      "formattedAddress": "991 Fremont Ave, Los Altos, CA 94024, USA",
+      "location": {
+        "latitude": 37.352987999999996,
+        "longitude": -122.08737300000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5524224851095478262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.toasttab.com/online/toms-depot-cafe-991-fremont-avenue",
+      "displayName": {
+        "text": "Tom's Depot Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/los-altos/Toms Breakfast &b Lunch Small.jpeg"
+    },
+    {
+      "id": "ChIJ-2p_QZSxj4ARYGCfHQB_0O4",
+      "formattedAddress": "270 Main St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3786218,
+        "longitude": -122.11648129999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17208393814656376928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tremontilosaltos.com/?utm_source=google",
+      "displayName": {
+        "text": "Tre Monti",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/los-altos/Tre Monti Small.jpeg"
+    },
+    {
+      "id": "ChIJrxWXNu6wj4ARYLJli-ApALY",
+      "formattedAddress": "233 State St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3793824,
+        "longitude": -122.11666199999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13114528159290995296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.urfabistro.com/",
+      "displayName": {
+        "text": "Urfa Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/los-altos/Urfa Bistro Small.jpeg"
+    },
+    {
+      "id": "ChIJlWhjzu-wj4ARDWUaBphKinA",
+      "formattedAddress": "184 2nd St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.378766,
+        "longitude": -122.11724099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8109376095831876877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thevillagepantry.com/",
+      "displayName": {
+        "text": "Village Pantry",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/los-altos/Village Pantry Small.jpeg"
+    },
+    {
+      "id": "ChIJPcGlQeqxj4AR9FkT7-9ijKA",
+      "formattedAddress": "250 3rd St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.377789,
+        "longitude": -122.1151417
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11568730325455690228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/14161",
+      "displayName": {
+        "text": "Yoshi Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/los-altos/Yoshi Sushi Small.jpeg"
+    },
+    {
+      "id": "ChIJUUxQ8Y-xj4ARP33lTnajNe4",
+      "formattedAddress": "160 1st St, Los Altos, CA 94022, USA",
+      "location": {
+        "latitude": 37.3791046,
+        "longitude": -122.11915719999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17164805283317644607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.zenshisushi.com/",
+      "displayName": {
+        "text": "ZENSHI Handcrafted Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
     }
   ],
   "Mountain View, CA": [
