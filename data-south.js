@@ -1298,32 +1298,21 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJWwc6JK2jj4ARG10bkrc-8ok",
-      "formattedAddress": "911 Main St, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4848492,
-        "longitude": -122.2258798
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9940076285711310107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ghostwood.com/",
       "displayName": {
-        "text": "Ghostwood Kitchen",
+        "text": "Ghostwood",
         "languageCode": "en"
       },
+      "formattedAddress": "911 Main St, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9940076285711310107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ghostwood.com/",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/redwood-city/Ghostwood Small.jpeg",
-      "phone": "(650) 714-7654",
-      "hours": {
-        "Monday": "12:00 PM - 9:00 PM",
-        "Tuesday": "Closed",
-        "Wednesday": "12:00 PM - 9:00 PM",
-        "Thursday": "12:00 PM - 9:00 PM",
-        "Friday": "12:00 PM - 11:00 PM",
-        "Saturday": "12:00 PM - 11:00 PM",
-        "Sunday": "12:00 PM - 9:00 PM"
-      },
-      "description": "Family friendly brewpub with craft beers, signature cocktails, and fresh made daily burgers. Catch live sports with no cover plus arcade games.",
       "menuUrl": "https://ghostwoodkitchen.toast.site/menu/ghostwood-redwood-city-911-main-street",
-      "priceRange": "$$"
+      "phone": "(650) 714-7654",
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "description": "Family friendly brewpub with craft beers, signature cocktails, and fresh made daily burgers. Catch live sports with no cover plus arcade games.",
+      "photoUrl": "images/restaurant-photos/redwood-city/Ghostwood Small.jpeg"
     },
     {
       "id": "ChIJm7imNa2jj4ARgupdlZ3gQ24",
