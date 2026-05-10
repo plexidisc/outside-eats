@@ -2294,7 +2294,6 @@ var PREBAKED_DATA_CENTRAL = {
       "websiteUri": "http://anatolianmart.com/",
       "location": {},
       "cuisine": [
-        "Middle Eastern",
         "Mediterranean",
         "Turkish"
       ],
