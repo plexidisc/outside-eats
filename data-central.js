@@ -775,7 +775,7 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "formattedAddress": "1800 Old Bayshore Hwy, Burlingame, CA 94010, USA",
       "googleMapsUri": "https://maps.google.com/?cid=12610946996665240303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marriott.com/en-us/dining/restaurant-bar/sfobg-san-francisco-airport-marriott-waterfront/7202868-flights-view-lounge-bar.mi",
+      "websiteUri": "https://www.marriott.com/en-us/hotels/sfobg-san-francisco-airport-marriott-waterfront/dining/",
       "location": {},
       "cuisine": "Other",
       "menuUrl": "https://www.menupix.com/sanmateo/restaurants/251028695/Flights-101-Club-Lounge-Burlingame-CA",
