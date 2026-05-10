@@ -1,34 +1,6 @@
 var PREBAKED_DATA_CENTRAL = {
   "Burlingame, CA": [
     {
-      "id": "opening_amado",
-      "formattedAddress": "1100 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5788,
-        "longitude": -122.3469
-      },
-      "googleMapsUri": "https://maps.google.com/?q=1100+Burlingame+Ave,+Burlingame,+CA",
-      "websiteUri": "https://amadoburlingame.com",
-      "displayName": {
-        "text": "Amado",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "phone": null,
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "5:00 PM - 9:30 PM",
-        "Wednesday": "5:00 PM - 9:30 PM",
-        "Thursday": "5:00 PM - 9:30 PM",
-        "Friday": "5:00 PM - 10:30 PM",
-        "Saturday": "5:00 PM - 10:30 PM",
-        "Sunday": "5:00 PM - 9:30 PM"
-      },
-      "description": "Chef Gloria Dominguez brings 38 years of mastery to upscale ancestral Mexican cuisine including seven regional moles, cochinita pibil, and wagyu beef tacos.",
-      "menuUrl": "https://amadoburlingame.com",
-      "priceRange": "$$$"
-    },
-    {
       "id": "ChIJA8gg0Yidj4ARgPypyVcf6rI",
       "formattedAddress": "835 Airport Blvd., Burlingame, CA 94010, USA",
       "location": {
@@ -88,6 +60,34 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon–Sun 9am–2pm",
       "menuUrl": "https://www.alanascafe.com/menu/",
       "priceRange": "$$"
+    },
+    {
+      "id": "opening_amado",
+      "formattedAddress": "1100 Burlingame Ave, Burlingame, CA 94010, USA",
+      "location": {
+        "latitude": 37.5788,
+        "longitude": -122.3469
+      },
+      "googleMapsUri": "https://maps.google.com/?q=1100+Burlingame+Ave,+Burlingame,+CA",
+      "websiteUri": "https://amadoburlingame.com",
+      "displayName": {
+        "text": "Amado",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": null,
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "5:00 PM - 9:30 PM",
+        "Wednesday": "5:00 PM - 9:30 PM",
+        "Thursday": "5:00 PM - 9:30 PM",
+        "Friday": "5:00 PM - 10:30 PM",
+        "Saturday": "5:00 PM - 10:30 PM",
+        "Sunday": "5:00 PM - 9:30 PM"
+      },
+      "description": "Chef Gloria Dominguez brings 38 years of mastery to upscale ancestral Mexican cuisine including seven regional moles, cochinita pibil, and wagyu beef tacos.",
+      "menuUrl": "https://amadoburlingame.com",
+      "priceRange": "$$$"
     },
     {
       "id": "ChIJezjoMgCdj4AR9l3eqt29bNg",
@@ -753,22 +753,19 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJj2Ur5853j4ARmuaRyPUZd_Y",
-      "formattedAddress": "1800 Old Bayshore Hwy, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.602089899999996,
-        "longitude": -122.37047310000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17759692198981527194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marriott.com/hotels/travel/sfobg-san-francisco-airport-marriott-waterfront/",
       "displayName": {
         "text": "Flights 101 Club Lounge",
         "languageCode": "en"
       },
+      "formattedAddress": "1800 Old Bayshore Hwy, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17759692198981527194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.marriott.com/en-us/hotels/sfobg-san-francisco-airport-marriott-waterfront/dining/",
+      "location": {},
       "cuisine": "Other",
       "phone": "(650) 692-9100",
-      "description": "Lounge offers expansive San Francisco Bay views ideal for cocktails.",
       "hours": "Mon–Sun 2pm–11pm",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Lounge offers expansive San Francisco Bay views ideal for cocktails."
     },
     {
       "id": "ChIJCVXOUgB3j4AR78qCUXoVA68",
