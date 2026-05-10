@@ -2800,8 +2800,8 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://www.google.com/maps/place/The+Cheesecake+Factory/data=!4m2!3m1!1s0x0:0xa03a9c8abf7329f2?sa=X&ved=1t:2428&ictx=111",
       "websiteUri": "https://www.thecheesecakefactory.com/?_ga=2.59035566.262883361.1778251379-1419924837.1778251379",
       "location": {},
-      "cuisine": [
-        "American",
+      "cuisine": "American",
+      "keywords": [
         "cheesecake"
       ],
       "phone": "(650) 638-0310",
