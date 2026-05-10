@@ -2151,7 +2151,8 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "description": "SF-born salad institution celebrating its 20th anniversary with its first Peninsula location. Fresh chef-crafted salads and grain bowls made with locally sourced seasonal ingredients.",
       "menuUrl": "https://mixt.com/locations/san-mateo/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/MIXT Small.jpeg"
     },
     {
       "id": "ChIJXTASXQCfj4ARin-W8xOJ608",
