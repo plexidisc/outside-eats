@@ -6547,7 +6547,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Features freshly baked sourdough bread served warm with quality meats, artisan cheese, and house spread.",
       "menuUrl": "https://sourdoughandco.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Sourdough & Co Small.jpeg"
     },
     {
       "id": "ChIJO78F46R3j4ARy1DzvCbFVxE",
@@ -6601,7 +6602,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Sister restaurant to Koi Palace serving classic Cantonese dim sum and modern Hong Kong cafe favorites.",
       "menuUrl": "https://www.stickxsteam.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/Stick Steam Small.jpeg"
     },
     {
       "id": "ChIJkTZrBaV3j4ARKhhXVOTZE4E",
@@ -6802,7 +6804,8 @@ var PREBAKED_DATA_NORTH = {
         "Sunday": "4:00 PM - 11:00 PM"
       },
       "description": "Stylish hotel bar featuring live music, signature cocktails, and tasty small plates near SFO.",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/millbrae/WXYZ Small.jpeg"
     },
     {
       "id": "ChIJa_c7cqN3j4ARxZDulh9WFEQ",
