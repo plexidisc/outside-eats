@@ -752,22 +752,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJj2Ur5853j4ARmuaRyPUZd_Y",
-      "displayName": {
-        "text": "Flights 101 Club Lounge",
-        "languageCode": "en"
-      },
-      "formattedAddress": "1800 Old Bayshore Hwy, Burlingame, CA 94010, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=17759692198981527194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marriott.com/en-us/hotels/sfobg-san-francisco-airport-marriott-waterfront/dining/",
-      "location": {},
-      "cuisine": "Other",
-      "phone": "(650) 692-9100",
-      "hours": "Mon–Sun 2pm–11pm",
-      "priceRange": "$$",
-      "description": "Lounge offers expansive San Francisco Bay views ideal for cocktails."
-    },
-    {
       "id": "ChIJCVXOUgB3j4AR78qCUXoVA68",
       "displayName": {
         "text": "Flights View Lounge",
