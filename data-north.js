@@ -1785,7 +1785,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Riposo",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Riposo Small.jpeg"
     },
     {
       "id": "ChIJ5flhKq95j4AR0cvS1PQaU4I",
@@ -1965,7 +1966,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Guapas Mexican Grill",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Guapas Mexican Grill Small.jpeg"
     },
     {
       "id": "ChIJN16zHtl5j4AR8bwL3CzKvl8",
@@ -2085,7 +2087,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Chico Marx",
         "languageCode": "en"
       },
-      "cuisine": "Spanish"
+      "cuisine": "Spanish",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Chico Marx Small.jpeg"
     },
     {
       "id": "ChIJ85v-6pZ5j4ARvT8xyTRtlkY",
@@ -2400,7 +2403,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Timber + Tide",
         "languageCode": "en"
       },
-      "cuisine": "Vegetarian/Vegan"
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Timer & Tide Small.jpeg"
     },
     {
       "id": "ChIJMYRBJiZ5j4ARne-I7h3pqj4",
@@ -2415,7 +2419,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "The Hangar",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/The Hangar (Camber) Small.jpeg"
     },
     {
       "id": "ChIJP0NeYAB5j4ARCuA62tlULOM",
@@ -2445,7 +2450,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "The Anecdote SSF",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/The Acecdote Small.jpeg"
     },
     {
       "id": "ChIJJVlzX1Z4j4ARD_epiqcc8nA",
@@ -2460,7 +2466,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Foundry & Lux",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Foundry & Lux Small.jpeg"
     },
     {
       "id": "ChIJIRT2A_N5j4ARUeSqS9mNcSg",
@@ -2655,7 +2662,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Layalena Restaurant & Bar",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Layalena Small.jpeg"
     },
     {
       "id": "ChIJK5mCqdB5j4ARyM4sHdX8OD0",
@@ -2685,7 +2693,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Nick The Greek",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Nick the Greek Small.jpeg"
     },
     {
       "id": "ChIJob3XYgB5j4ARKWjU8IpO2Cs",
@@ -3210,7 +3219,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Esposto's Delicatezza",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Espostos Delicatezza Small.jpeg"
     },
     {
       "id": "ChIJ9-wINZx5j4ARwT15YNnyeYI",
@@ -3255,7 +3265,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Bluegrain Sandwich Market",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Bluegrain Sandwich Market Small.jpeg"
     },
     {
       "id": "ChIJjVZ4KGB5j4AR-qb_6Q2bcfI",
@@ -3285,7 +3296,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Luigi's Sandwich Palace",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Luigis Sandwich Palace Small.jpeg"
     },
     {
       "id": "ChIJQd3EoaR5j4AR0OJ0ayk4UVU",
