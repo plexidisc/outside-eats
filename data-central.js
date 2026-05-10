@@ -769,23 +769,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJCVXOUgB3j4AR78qCUXoVA68",
-      "formattedAddress": "1800 Old Bayshore Hwy, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.6025184,
-        "longitude": -122.370382
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12610946996665240303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Flights View Lounge",
         "languageCode": "en"
       },
+      "formattedAddress": "1800 Old Bayshore Hwy, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12610946996665240303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.marriott.com/en-us/dining/restaurant-bar/sfobg-san-francisco-airport-marriott-waterfront/7202868-flights-view-lounge-bar.mi",
+      "location": {},
       "cuisine": "Other",
-      "phone": "(650) 692-9100",
-      "description": "Watch planes take off and land with waterfront bay views.",
-      "hours": "Mon–Thu 2pm–12am, Fri–Sat 2pm–1am, Sun 2pm–12am",
       "menuUrl": "https://www.menupix.com/sanmateo/restaurants/251028695/Flights-101-Club-Lounge-Burlingame-CA",
-      "priceRange": "$$"
+      "phone": "(650) 692-9100",
+      "hours": "Mon–Thu 2pm–12am, Fri–Sat 2pm–1am, Sun 2pm–12am",
+      "priceRange": "$$",
+      "description": "Watch planes take off and land with waterfront bay views."
     },
     {
       "id": "ChIJbeJAtwN3j4ARjIcILBbWNcM",
