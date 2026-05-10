@@ -63,31 +63,19 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "opening_amado",
-      "formattedAddress": "1100 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5788,
-        "longitude": -122.3469
-      },
-      "googleMapsUri": "https://maps.google.com/?q=1100+Burlingame+Ave,+Burlingame,+CA",
-      "websiteUri": "https://amadoburlingame.com",
       "displayName": {
         "text": "Amado",
         "languageCode": "en"
       },
+      "formattedAddress": "1100 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?q=1100+Burlingame+Ave,+Burlingame,+CA",
+      "websiteUri": "https://amadoburlingame.com",
+      "location": {},
       "cuisine": "Mexican",
-      "phone": null,
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "5:00 PM - 9:30 PM",
-        "Wednesday": "5:00 PM - 9:30 PM",
-        "Thursday": "5:00 PM - 9:30 PM",
-        "Friday": "5:00 PM - 10:30 PM",
-        "Saturday": "5:00 PM - 10:30 PM",
-        "Sunday": "5:00 PM - 9:30 PM"
-      },
-      "description": "Chef Gloria Dominguez brings 38 years of mastery to upscale ancestral Mexican cuisine including seven regional moles, cochinita pibil, and wagyu beef tacos.",
       "menuUrl": "https://amadoburlingame.com",
-      "priceRange": "$$$"
+      "hours": "[object Object]",
+      "priceRange": "$$$",
+      "description": "Chef Gloria Dominguez brings 38 years of mastery to upscale ancestral Mexican cuisine including seven regional moles, cochinita pibil, and wagyu beef tacos."
     },
     {
       "id": "ChIJCZRsgLN3j4ARbGSv7IQs284",
