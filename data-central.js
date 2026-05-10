@@ -2009,22 +2009,23 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJk-zkRQB3j4AR_Hhf4H_FQCM",
-      "formattedAddress": "1722 Gilbreth Rd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.599340999999995,
-        "longitude": -122.3740381
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2540247342852831484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.watanispot.com/",
       "displayName": {
         "text": "Watani Spot",
         "languageCode": "en"
       },
+      "formattedAddress": "1722 Gilbreth Rd, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2540247342852831484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.watanispot.com/",
+      "location": {},
       "cuisine": "Middle Eastern",
+      "keywords": [
+        "food truck"
+      ],
+      "menuUrl": "https://www.yelp.com/menu/watani-spot-burlingame",
       "phone": "(650) 770-3999",
       "hours": "Mon–Closed, Tue–Sun 11am–8pm",
-      "menuUrl": "https://www.yelp.com/menu/watani-spot-burlingame",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Food Truck"
     },
     {
       "id": "ChIJQSxYoSV2j4ARlgCVyTXyfrc",
