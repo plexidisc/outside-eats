@@ -736,7 +736,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 692-9100",
       "hours": "Mon–Thu 2pm–12am, Fri–Sat 2pm–1am, Sun 2pm–12am",
       "priceRange": "$$",
-      "description": "Watch planes take off and land with waterfront bay views."
+      "description": "Watch planes take off and land with waterfront bay views.",
+      "photoUrl": "images/restaurant-photos/burlingame/Flights View Lounge Small.jpeg"
     },
     {
       "id": "ChIJbeJAtwN3j4ARjIcILBbWNcM",
