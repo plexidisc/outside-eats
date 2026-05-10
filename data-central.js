@@ -2091,21 +2091,22 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJeR86oRSjj4ARE_EabopCrqc",
-      "formattedAddress": "1722 Gilbreth Rd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.599457,
-        "longitude": -122.37321510000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12082668012601798931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Zanzoon Mediterranean Food",
         "languageCode": "en"
       },
+      "formattedAddress": "1722 Gilbreth Rd, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12082668012601798931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
-      "hours": "Mon–Sun 11am–8pm",
+      "keywords": [
+        "food truck"
+      ],
       "menuUrl": "https://www.ubereats.com/store/zanzoon-mediterranean-food/nxoiwUDZXLO-Je7RMF3CNA",
-      "priceRange": "$$"
+      "hours": "Mon–Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "Food Truck"
     }
   ],
   "San Mateo, CA": [
