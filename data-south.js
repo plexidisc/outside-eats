@@ -3004,34 +3004,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/redwood-city/Sakura Small.jpeg"
     },
     {
-      "id": "opening_sanaa_cafe",
-      "formattedAddress": "2400 Broadway ste 120, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4851,
-        "longitude": -122.2244
-      },
-      "googleMapsUri": "https://maps.google.com/?q=2400+Broadway,+Redwood+City,+CA",
-      "websiteUri": "https://sanaacafe.com",
-      "displayName": {
-        "text": "Sana'a Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe,Yemeni",
-      "phone": "(650) 362-3243",
-      "hours": {
-        "Monday": "7:00 AM - 10:00 PM",
-        "Tuesday": "7:00 AM - 10:00 PM",
-        "Wednesday": "7:00 AM - 10:00 PM",
-        "Thursday": "7:00 AM - 10:00 PM",
-        "Friday": "8:00 AM - 12:00 AM",
-        "Saturday": "8:00 AM - 12:00 AM",
-        "Sunday": "7:00 AM - 10:00 PM"
-      },
-      "description": "Authentic Yemeni coffee house serving cardamom-spiced pour-overs, Turkish coffee, and house-baked pastries including the beloved honey cake.",
-      "menuUrl": "https://sanaacafe.com",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJhfX8qg6jj4ARoSRAJ4nQhb0",
       "formattedAddress": "2400 Broadway ste 120, Redwood City, CA 94063, USA",
       "location": {
