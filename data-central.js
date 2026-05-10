@@ -972,19 +972,20 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJf6DDfQB3j4ARgdISlGxgW4o",
-      "formattedAddress": "1800 Rollins Rd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5979332,
-        "longitude": -122.37982989999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9969668219571720833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Kavurmaci Seyfo",
         "languageCode": "en"
       },
+      "formattedAddress": "1800 Rollins Rd, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9969668219571720833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Middle Eastern",
-      "priceRange": "$"
+      "keywords": [
+        "food truck"
+      ],
+      "priceRange": "$",
+      "description": "Food Truck"
     },
     {
       "id": "ChIJwYo8l5Gdj4ARzYTiPg7X3JI",
