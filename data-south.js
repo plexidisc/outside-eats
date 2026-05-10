@@ -1372,34 +1372,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJqzz4nq2jj4ARG7FSvw5k2Gs",
-      "formattedAddress": "1111 El Camino Real, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.483543399999995,
-        "longitude": -122.2300463
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7771071171529978139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.habitburger.com/store/143/category",
-      "displayName": {
-        "text": "Habit Burger & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers",
-      "phone": "(650) 568-1625",
-      "hours": {
-        "Monday": "10:30 AM - 9:30 PM",
-        "Tuesday": "10:30 AM - 9:30 PM",
-        "Wednesday": "10:30 AM - 9:30 PM",
-        "Thursday": "10:30 AM - 10:30 PM",
-        "Friday": "10:30 AM - 10:30 PM",
-        "Saturday": "10:30 AM - 10:30 PM",
-        "Sunday": "10:30 AM - 9:30 PM"
-      },
-      "description": "Charburgers grilled over open flame with California inspired flavors. Famous for award winning tempura green beans.",
-      "menuUrl": "https://order.habitburger.com/store/143/category",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJ617NLqajj4ARGc1OWKkKyM8",
       "formattedAddress": "1909 El Camino Real, Redwood City, CA 94063, USA",
       "location": {
