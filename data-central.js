@@ -90,25 +90,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$$"
     },
     {
-      "id": "ChIJezjoMgCdj4AR9l3eqt29bNg",
-      "formattedAddress": "1100 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5797044,
-        "longitude": -122.34565509999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15595048369429306870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://amadoburlingame.com/",
-      "displayName": {
-        "text": "Amado Cocina Regional Mexicana",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/burlingame/Amado Small.jpeg",
-      "description": "Seven regional moles paired with plates from those same regions.",
-      "hours": "Mon Closed, Tue–Thu 5pm–9:30pm, Fri–Sat 5pm–10:30pm, Sun 5pm–9:30pm",
-      "priceRange": "$$$"
-    },
-    {
       "id": "ChIJCZRsgLN3j4ARbGSv7IQs284",
       "formattedAddress": "1819 El Camino Real, Burlingame, CA 94010, USA",
       "location": {
