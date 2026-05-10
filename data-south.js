@@ -8987,31 +8987,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJbfidQpSxj4AR-1vlJ20o6pk",
-      "formattedAddress": "170 State St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3799748,
-        "longitude": -122.1163267
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11090721481639156731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.statestreetmarket.com/",
-      "displayName": {
-        "text": "State Street Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(650) 405-5177",
-      "hours": {
-        "Mon & Tue": "11:00 AM - 8:00 PM",
-        "Wed & Thu": "11:00 AM - 8:30 PM",
-        "Fri & Sat": "11:00 AM - 9:00 PM",
-        "Sun": "11:00 AM - 8:00 PM"
-      },
-      "description": "A community food hall featuring diverse vendors from ramen to burgers, plus artisan bakery and ice cream.",
-      "menuUrl": "https://www.statestreetmarket.com/food-stalls/",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJS_8lm5uwj4ARTNDjilGJWvY",
       "formattedAddress": "4546 El Camino Real, Los Altos, CA 94022, USA",
       "location": {
