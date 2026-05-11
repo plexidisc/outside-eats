@@ -2196,21 +2196,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Espostos Delicatezza Small.jpeg"
     },
     {
-      "id": "ChIJ4QJtfSx6j4ARJHJhE0zCUtA",
-      "formattedAddress": "2278 Westborough Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.64487,
-        "longitude": -122.45297120000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15011274139977740836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.fiveguys.com/2278-westborough-blvd",
-      "displayName": {
-        "text": "Five Guys",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJLfiJKq95j4ARnhVwBq1z6zc",
       "formattedAddress": "314 Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
