@@ -1743,50 +1743,49 @@ var PREBAKED_DATA_NORTH = {
   ],
   "South San Francisco, CA": [
     {
-      "id": "ChIJ9yAqw655j4ARNVk5ngbHDRI",
-      "formattedAddress": "224 Grand Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJQbQjIgB5j4AR11taB0RW6Qo",
+      "formattedAddress": "112 Grand Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.655101699999996,
-        "longitude": -122.4090636
+        "latitude": 37.6548914,
+        "longitude": -122.4083034
       },
-      "googleMapsUri": "https://maps.google.com/?cid=1300914698618231093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.buongustorestaurant.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=786254460133989335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://101eatery.com/",
       "displayName": {
-        "text": "Ristorante Buon Gusto",
+        "text": "101 Eatery",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Fusion"
     },
     {
-      "id": "ChIJ5YTATSB5j4ARiYsvu4d-r7g",
-      "formattedAddress": "301 Linden Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJC3Qo77l5j4ARxakzfZ0HvRo",
+      "formattedAddress": "137 S Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.655328100000006,
-        "longitude": -122.41022179999999
+        "latitude": 37.644190699999996,
+        "longitude": -122.41353249999997
       },
-      "googleMapsUri": "https://maps.google.com/?cid=13307994545329245065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.andiamoinbanca.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1926704588576238021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://47hillsbrewingcompany.com/",
       "displayName": {
-        "text": "Andiamo in Banca",
+        "text": "47 Hills Brewing Company",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "American"
     },
     {
-      "id": "ChIJLRR-xlx5j4ARqXkTemCM0bI",
-      "formattedAddress": "256 E Grand Ave., South San Francisco, CA 94080, USA",
+      "id": "ChIJN2Aylal5j4ARHRPEotvm9CQ",
+      "formattedAddress": "722 Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6527262,
-        "longitude": -122.3972433
+        "latitude": 37.6598344,
+        "longitude": -122.40836749999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=12885234354876545449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://riposossf.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2663007110685791005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "Riposo",
+        "text": "Alfredo's Market",
         "languageCode": "en"
       },
-      "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/Riposo Small.jpeg"
+      "cuisine": "Other"
     },
     {
       "id": "ChIJ5flhKq95j4AR0cvS1PQaU4I",
@@ -1804,109 +1803,200 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJIyNi3655j4ARGj3IaAUfGEM",
-      "formattedAddress": "257 Grand Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJ7ernuKl5j4ARsU0VQwKh0cA",
+      "formattedAddress": "713 Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6549145,
-        "longitude": -122.4098943
+        "latitude": 37.65955100000001,
+        "longitude": -122.40896049999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=4834648308075478298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://izanamitogo.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13894063356502166961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.amourasf.com/",
       "displayName": {
-        "text": "Izanami",
+        "text": "Amoura",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Middle Eastern"
     },
     {
-      "id": "ChIJGwb8Cyx6j4AR2tNlBEJH0HE",
-      "formattedAddress": "2278 Westborough Blvd #201, South San Francisco, CA 94080, USA",
+      "id": "ChIJ5YTATSB5j4ARiYsvu4d-r7g",
+      "formattedAddress": "301 Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.644863099999995,
-        "longitude": -122.4528351
+        "latitude": 37.655328100000006,
+        "longitude": -122.41022179999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=8201133270308869082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://tokyosushibarssf.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13307994545329245065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.andiamoinbanca.com/",
       "displayName": {
-        "text": "Tokyo Sushi & Bar",
+        "text": "Andiamo in Banca",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Italian"
     },
     {
-      "id": "ChIJ7S05lK55j4ARZN4V8ezYBfE",
-      "formattedAddress": "112 Grand Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJPf-9eQp5j4ARPjSyf4jxq3E",
+      "formattedAddress": "437A Grand Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6549354,
-        "longitude": -122.4082784
+        "latitude": 37.6558152,
+        "longitude": -122.4140525
       },
-      "googleMapsUri": "https://maps.google.com/?cid=17367526050192809572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.facebook.com/kamusushissf",
+      "googleMapsUri": "https://maps.google.com/?cid=8190905915863610430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.antiguacompany.com/",
       "displayName": {
-        "text": "Kamu Sushi",
+        "text": "Antigua Coffee Shop",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJ1UxyUiJ5j4ARem6ZUQ_SXg0",
-      "formattedAddress": "200 Grand Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJjePCbKF5j4ARAEg5zeP8_WU",
+      "formattedAddress": "599 Railroad Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.655063,
-        "longitude": -122.4086369
+        "latitude": 37.6538006,
+        "longitude": -122.42039099999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=963438333539217018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.shabushack.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7349308222269376512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.basqueculturalcenter.com/",
       "displayName": {
-        "text": "Shabu Shack",
+        "text": "Basque Cultural Center",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Spanish"
     },
     {
-      "id": "ChIJz_xHsER5j4AR7zf9E56eXTI",
-      "formattedAddress": "303 Grand Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJMcbj5655j4ARvDW7v9wbWak",
+      "formattedAddress": "398 Grand Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6550624,
-        "longitude": -122.41037209999999
+        "latitude": 37.655799699999996,
+        "longitude": -122.412303
       },
-      "googleMapsUri": "https://maps.google.com/?cid=3629231276507871215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://hiddenspot.online/",
+      "googleMapsUri": "https://maps.google.com/?cid=12202815300260541884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bentrerestaurant.com/",
       "displayName": {
-        "text": "Hidden Spot - South San Francisco",
+        "text": "Ben Tre Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "Vietnamese"
     },
     {
-      "id": "ChIJK8hJ5LF5j4ARrAswpjdk5k0",
-      "formattedAddress": "334 Grand Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJGYJTY7Z5j4ARPbc-2F7aiII",
+      "formattedAddress": "101 Oyster Point Blvd #105, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6555258,
-        "longitude": -122.4108667
+        "latitude": 37.662609599999996,
+        "longitude": -122.39640069999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=5613284175738047404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.cochinitasf.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=9406007922653050685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bluegrainsandwich.com/",
       "displayName": {
-        "text": "Cochinita",
+        "text": "Bluegrain Sandwich Market",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Bluegrain Sandwich Market Small.jpeg"
     },
     {
-      "id": "ChIJjTvPOKl5j4AR5kk0v1kT9aw",
-      "formattedAddress": "222 Lux Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJwwj8Cyx6j4ARazAX6ERJ1S4",
+      "formattedAddress": "2278 Westborough Blvd Suite 208, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.657085099999996,
-        "longitude": -122.4086002
+        "latitude": 37.645137999999996,
+        "longitude": -122.45232
       },
-      "googleMapsUri": "https://maps.google.com/?cid=12462888819998607846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.lanuevaperlarestaurant.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=3374684056084492395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restaurants.bonchon.com/locations/ca/south-san-francisco/2278-westborough-blvd-suite-208",
       "displayName": {
-        "text": "La Nueva Perla",
+        "text": "Bonchon South San Francisco",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJ9TCbTZZ5j4ARmQrMGeyPoLo",
+      "formattedAddress": "269 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.643501900000004,
+        "longitude": -122.42619819999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13447906731536157337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://boracaygarden.net/",
+      "displayName": {
+        "text": "Boracay Garden and Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJF_7tuqh5j4ARRMB9_pg0WZE",
+      "formattedAddress": "382 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6557165,
+        "longitude": -122.4119108
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10473460240136126532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://brotherscafes.com/",
+      "displayName": {
+        "text": "Brothers Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJiRIjF6Z5j4AREfM_u1eiFH8",
+      "formattedAddress": "423 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6557037,
+        "longitude": -122.4135658
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9157122440038445841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cablecarcafe-ssf.com/",
+      "displayName": {
+        "text": "Cable Car Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJ_edO2655j4ARu3Zi3EmYSHA",
+      "formattedAddress": "226 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6550975,
+        "longitude": -122.40920810000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8090884173568571067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bunnmi.com/",
+      "displayName": {
+        "text": "Cafe Bunn Mi",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJNV79fi14j4AR_0HN8LHVnyw",
+      "formattedAddress": "1165 Airport Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.664063,
+        "longitude": -122.39988999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3215523619191734783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cafedecasa.com/",
+      "displayName": {
+        "text": "Cafe de Casa",
+        "languageCode": "en"
+      },
+      "cuisine": "Brazilian"
+    },
+    {
+      "id": "ChIJ2TMmr_x5j4ARzHVJax_biGw",
+      "formattedAddress": "460 Forbes Blvd Floor 2, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.656082,
+        "longitude": -122.39140799999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7820741680919311820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thehangarssf.com/camber",
+      "displayName": {
+        "text": "Camber",
+        "languageCode": "en"
+      },
+      "cuisine": "French"
     },
     {
       "id": "ChIJDcE55d17j4ARFzyf9h7QvYM",
@@ -1919,157 +2009,6 @@ var PREBAKED_DATA_NORTH = {
       "websiteUri": "https://www.chevys.com/",
       "displayName": {
         "text": "Chevys",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJVVUZQK95j4ARGDmwpMPyup4",
-      "formattedAddress": "319 Baden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6541654,
-        "longitude": -122.4113931
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11437721125756352792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://taquerialaspencas.site/",
-      "displayName": {
-        "text": "Taqueria Las Pencas #1",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJEdXRHKZ5j4ARn_B8DYAC4vU",
-      "formattedAddress": "411 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.655642,
-        "longitude": -122.4129306
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17717726633034313887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://latapatiassf.com/",
-      "displayName": {
-        "text": "La Tapatia Mexicatessen",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJr6mFb6J5j4ARzKGCOSmoWWU",
-      "formattedAddress": "101 Oyster Point Blvd suite 106, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.662609599999996,
-        "longitude": -122.39640069999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7303053165769957836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.guapasmexicangrill.com/",
-      "displayName": {
-        "text": "Guapas Mexican Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/Guapas Mexican Grill Small.jpeg"
-    },
-    {
-      "id": "ChIJN16zHtl5j4AR8bwL3CzKvl8",
-      "formattedAddress": "671 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6496219,
-        "longitude": -122.4305418
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6899173973197307121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.taqueriamidurango.com/",
-      "displayName": {
-        "text": "Taqueria Mi Durango 2",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJwYQXFK95j4AR3slyvlU34Qk",
-      "formattedAddress": "307 Baden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6541594,
-        "longitude": -122.4110001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=711911057508190686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.taquerialamorena.com/",
-      "displayName": {
-        "text": "Taqueria La Morena",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJyXMrsKh5j4ARilrFn_zUS8s",
-      "formattedAddress": "394 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6559496,
-        "longitude": -122.41219199999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14649036394430028426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://taqueriaelfarolito.shop/",
-      "displayName": {
-        "text": "Taqueria El Farolito",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJJ4HwtZ15j4ARcuYCM_GBodQ",
-      "formattedAddress": "792 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.65188140000001,
-        "longitude": -122.43131659999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15321670280234067570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Rancho Las Trancas",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJX5Pl6pl5j4ARuNFBnhF2UcI",
-      "formattedAddress": "435 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6464363,
-        "longitude": -122.4285484
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14002102534513217976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://elfarosmexicanfood.site/",
-      "displayName": {
-        "text": "El Faro's Mexican Food",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJsxqLOql5j4ARjd_V58IDIsE",
-      "formattedAddress": "237 Lux Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6569025,
-        "longitude": -122.40897770000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13916689934176345997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://losmetatestaqueria.com/",
-      "displayName": {
-        "text": "Los Metates",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJRfZbaAB5j4ARBOft5w1oIWs",
-      "formattedAddress": "116 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.654925299999995,
-        "longitude": -122.4084308
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7719565645224732420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Piquin Sabor de Casa",
         "languageCode": "en"
       },
       "cuisine": "Mexican"
@@ -2091,156 +2030,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Chico Marx Small.jpeg"
     },
     {
-      "id": "ChIJ85v-6pZ5j4ARvT8xyTRtlkY",
-      "formattedAddress": "Brentwood Dr, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6419184,
-        "longitude": -122.424809
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5086372902642728893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.facebook.com/people/Tortas-Tacos-La-Cruzazuleada/100087146335073/",
-      "displayName": {
-        "text": "Tortas & tacos la Cruzazuleada",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJdUDXYnZ5j4ARZPRZ5fAcNwQ",
-      "formattedAddress": "415 Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6567103,
-        "longitude": -122.40977149999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=303743320836404324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.taqueriasahuayo.net/",
-      "displayName": {
-        "text": "Taqueria Sahuayo | South San Francisco",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJ10MGCal5j4ARqLvjmA9nNTE",
-      "formattedAddress": "608 Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6583134,
-        "longitude": -122.4088313
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3545853598311365544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.spoton.com/so-taqueria-celaya-1678/south-san-francisco-ca/5d237c4974cae91cd003b6b2",
-      "displayName": {
-        "text": "Taqueria Celaya",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJLwMOS695j4AR7K2z0jaE0iQ",
-      "formattedAddress": "359 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6553374,
-        "longitude": -122.41152369999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2653328501472734700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://grandpalaceseafoodrestaurant.com/?utm_source=google",
-      "displayName": {
-        "text": "Grand Palace Seafood Restaurant 富源酒家",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJh3L_5Zt5j4ARV3QOVFPQ7lc",
-      "formattedAddress": "117 Southwood Center, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.649565900000006,
-        "longitude": -122.43068470000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6336230782067962967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Sky Dragon",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJe1M--Ip5j4ARG9ppyg4TdZU",
-      "formattedAddress": "136 Hazelwood Dr, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6421812,
-        "longitude": -122.42649109999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10769535038172813851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.newdragongardenca.com/?utm_source=gmb&utm_medium=website",
-      "displayName": {
-        "text": "New Dragon Garden",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJAQBAiat5j4ARe7_HOi1-2UU",
-      "formattedAddress": "608 Dubuque Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.657481,
-        "longitude": -122.405252
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5033192791288037243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://hlpeninsula.com/",
-      "displayName": {
-        "text": "H. L. Peninsula Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJu-Ugsbx5j4ARuAx2G-Lsmu4",
-      "formattedAddress": "221 S Spruce Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.647576199999996,
-        "longitude": -122.4192074
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17193314983307775160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://hungtossf.com/",
-      "displayName": {
-        "text": "Hung To Seafood Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJCV-n7a55j4AR0DkewrAHDSc",
-      "formattedAddress": "216 Cypress Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.654505500000006,
-        "longitude": -122.40857860000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2813913797928827344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dumplingempiretogo.com/",
-      "displayName": {
-        "text": "Dumpling Empire",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJK5V_GIp5j4ARD56lJhe5Bfc",
-      "formattedAddress": "320 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.655426,
-        "longitude": -122.41066620000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17799836611335527951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dumplingandcajunseafood.com/",
-      "displayName": {
-        "text": "Dumpling and Cajun Seafood",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
       "id": "ChIJxyBMUzN6j4ARB70iA3iY_Hk",
       "formattedAddress": "3589 Callan Blvd, South San Francisco, CA 94080, USA",
       "location": {
@@ -2256,94 +2045,34 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Filipino"
     },
     {
-      "id": "ChIJhR8_zbx5j4ARHpzlvWr7meA",
-      "formattedAddress": "230 S Spruce Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJK8hJ5LF5j4ARrAswpjdk5k0",
+      "formattedAddress": "334 Grand Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6477212,
-        "longitude": -122.4204129
+        "latitude": 37.6555258,
+        "longitude": -122.4108667
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16184243171803634718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.thenightmarketssf.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=5613284175738047404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cochinitasf.com/",
       "displayName": {
-        "text": "The Night Market",
+        "text": "Cochinita",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Mexican"
     },
     {
-      "id": "ChIJxzxl2K55j4ARD7NfmmvxbfY",
-      "formattedAddress": "265 Grand Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJXbozfuqdj4ARkPo0yP8EabM",
+      "formattedAddress": "308 Alida Way, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6550142,
-        "longitude": -122.41002509999998
+        "latitude": 37.6430827,
+        "longitude": -122.4264405
       },
-      "googleMapsUri": "https://maps.google.com/?cid=17757114350245491471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.thaisatay.net/",
+      "googleMapsUri": "https://maps.google.com/?cid=12927869701965806224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cocinamilonga.com/",
       "displayName": {
-        "text": "Thai Satay Restaurant & Bar",
+        "text": "Cocina Milonga",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJO_Tja5Z5j4ARBP0YTagbeGI",
-      "formattedAddress": "146 Hazelwood Dr, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6421351,
-        "longitude": -122.42661910000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7095451622584155396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.whiteelephantsf.com/",
-      "displayName": {
-        "text": "White Elephant Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJMcbj5655j4ARvDW7v9wbWak",
-      "formattedAddress": "398 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.655799699999996,
-        "longitude": -122.412303
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12202815300260541884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.bentrerestaurant.com/",
-      "displayName": {
-        "text": "Ben Tre Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJ0zeGQ2x5j4ARxU3tCYQlcb0",
-      "formattedAddress": "415 Grand Ave Ste 001, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6555904,
-        "longitude": -122.4131455
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13650733194569141701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://ssf.momstofu.com/",
-      "displayName": {
-        "text": "Mom's Tofu House",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJQbQjIgB5j4AR11taB0RW6Qo",
-      "formattedAddress": "112 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6548914,
-        "longitude": -122.4083034
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=786254460133989335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://101eatery.com/",
-      "displayName": {
-        "text": "101 Eatery",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
+      "cuisine": "Argentine"
     },
     {
       "id": "ChIJa3OLcu55j4ARIZMAVajVZjQ",
@@ -2376,732 +2105,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Fusion"
     },
     {
-      "id": "ChIJ4wm-1WR5j4ARIT9nCmXKfIE",
-      "formattedAddress": "1144 Mission Rd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.661642,
-        "longitude": -122.43830799999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9330555063319871265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.gardenclubrestaurant.com/",
-      "displayName": {
-        "text": "The Garden Club",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJhUzju4R5j4ARJm2dB-Hkhro",
-      "formattedAddress": "685 Gateway Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6584697,
-        "longitude": -122.3986156
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13440681793080356134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://timberandtidessf.com/",
-      "displayName": {
-        "text": "Timber + Tide",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/Timer & Tide Small.jpeg"
-    },
-    {
-      "id": "ChIJMYRBJiZ5j4ARne-I7h3pqj4",
-      "formattedAddress": "460 Forbes Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.656082,
-        "longitude": -122.39140799999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4515677891157618589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.thehangarssf.com/",
-      "displayName": {
-        "text": "The Hangar",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/The Hangar (Camber) Small.jpeg"
-    },
-    {
-      "id": "ChIJP0NeYAB5j4ARCuA62tlULOM",
-      "formattedAddress": "925 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6533245,
-        "longitude": -122.43314339999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16369552040230838282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://nationsrestaurants.com/",
-      "displayName": {
-        "text": "Nation's Giant Hamburgers & Great Pies",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJyQUzolF5j4ARfDGbpD76QrM",
-      "formattedAddress": "348 Oyster Point Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6622786,
-        "longitude": -122.3845549
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12917161828208554364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://theanecdote.com/",
-      "displayName": {
-        "text": "The Anecdote SSF",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/The Acecdote Small.jpeg"
-    },
-    {
-      "id": "ChIJJVlzX1Z4j4ARD_epiqcc8nA",
-      "formattedAddress": "151 Oyster Point Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6633688,
-        "longitude": -122.39503850000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8138598982523418383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.foundryandlux.com/",
-      "displayName": {
-        "text": "Foundry & Lux",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/Foundry & Lux Small.jpeg"
-    },
-    {
-      "id": "ChIJIRT2A_N5j4ARUeSqS9mNcSg",
-      "formattedAddress": "200 Airport Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6541437,
-        "longitude": -122.40756579999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2914266398302331985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://wildflour-ssf.com/",
-      "displayName": {
-        "text": "Wildflour",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ2TMmr_x5j4ARzHVJax_biGw",
-      "formattedAddress": "460 Forbes Blvd Floor 2, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.656082,
-        "longitude": -122.39140799999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7820741680919311820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.thehangarssf.com/camber",
-      "displayName": {
-        "text": "Camber",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
-      "id": "ChIJNddu0Hl5j4AR43eLSZBEa2o",
-      "formattedAddress": "1057 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6556883,
-        "longitude": -122.43581250000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7668298177028257763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Gunter's Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJF_7tuqh5j4ARRMB9_pg0WZE",
-      "formattedAddress": "382 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6557165,
-        "longitude": -122.4119108
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10473460240136126532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://brotherscafes.com/",
-      "displayName": {
-        "text": "Brothers Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJnf1oqbx5j4ARP0Acix7M7dg",
-      "formattedAddress": "113 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6546187,
-        "longitude": -122.4084773
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15631374313227829311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mypizzalover.com/?utm_source=google",
-      "displayName": {
-        "text": "PIZZA LOVER",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJL7keeXd5j4AR_Ls2iBGmDEM",
-      "formattedAddress": "687 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6498862,
-        "longitude": -122.4307434
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4831419094491642876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.speedyspizzagrill.com/?utm_source=gbp",
-      "displayName": {
-        "text": "Speedy's Pizza & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJTUnC_Ol7j4ARlBaTJzc9i5k",
-      "formattedAddress": "101 Hickey Blvd d, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6656875,
-        "longitude": -122.4515399
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11064004216662202004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mountainmikespizza.com/locations/south-san-francisco-hickey-blvd/",
-      "displayName": {
-        "text": "Mountain Mike's Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJuwMZ03B5j4ARe08UfVc2OzQ",
-      "formattedAddress": "600 Linden Ave A, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.658162499999996,
-        "longitude": -122.4088976
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3763661662986719099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.pizzakingsanfrancisco.com/?utm_source=gbp",
-      "displayName": {
-        "text": "Pizza king",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJqfumcsB5j4AR41JImA_qpxc",
-      "formattedAddress": "386 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6557181,
-        "longitude": -122.41198949999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1704588336683307747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://industrypizzassf.com/",
-      "displayName": {
-        "text": "Industry Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJC3Qo77l5j4ARxakzfZ0HvRo",
-      "formattedAddress": "137 S Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.644190699999996,
-        "longitude": -122.41353249999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1926704588576238021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://47hillsbrewingcompany.com/",
-      "displayName": {
-        "text": "47 Hills Brewing Company",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJGbcNdad5j4ARW0zIWdoyEQM",
-      "formattedAddress": "132 Hazelwood Dr, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6422336,
-        "longitude": -122.426379
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=221013770108423259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://sofragrills.com/",
-      "displayName": {
-        "text": "Sofra Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJ7ernuKl5j4ARsU0VQwKh0cA",
-      "formattedAddress": "713 Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.65955100000001,
-        "longitude": -122.40896049999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13894063356502166961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.amourasf.com/",
-      "displayName": {
-        "text": "Amoura",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern"
-    },
-    {
-      "id": "ChIJPSS4fjN5j4ARYWY-wxDZS-U",
-      "formattedAddress": "1429 San Mateo Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6470718,
-        "longitude": -122.40991969999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16522538323957147233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://dahabrestaurantcafe.com/",
-      "displayName": {
-        "text": "Layalena Restaurant & Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/Layalena Small.jpeg"
-    },
-    {
-      "id": "ChIJK5mCqdB5j4ARyM4sHdX8OD0",
-      "formattedAddress": "385 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.655480499999996,
-        "longitude": -122.41217080000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4411553827257110216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://grillkebabsgyrosmenu.com/",
-      "displayName": {
-        "text": "Grill Kebabs and Gyros",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJ-c9L97h5j4ARgwSbjmPT1p8",
-      "formattedAddress": "101 Oyster Point Blvd Suite 104, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.662767699999996,
-        "longitude": -122.396326
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11517625521594369155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
-      "displayName": {
-        "text": "Nick The Greek",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/Nick the Greek Small.jpeg"
-    },
-    {
-      "id": "ChIJob3XYgB5j4ARKWjU8IpO2Cs",
-      "formattedAddress": "337 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.65510950000001,
-        "longitude": -122.41122139999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3159361497253308457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://kevinsnoodlehouse.com/",
-      "displayName": {
-        "text": "Kevin’s Noodle House",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJWQ9Ioq95j4ARag1UuSfmC6k",
-      "formattedAddress": "7 Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6525434,
-        "longitude": -122.41121659999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12181082675441044842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.littlesaigonviet.com/",
-      "displayName": {
-        "text": "Little Saigon",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJ_edO2655j4ARu3Zi3EmYSHA",
-      "formattedAddress": "226 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6550975,
-        "longitude": -122.40920810000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8090884173568571067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://bunnmi.com/",
-      "displayName": {
-        "text": "Cafe Bunn Mi",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJwwj8Cyx6j4ARazAX6ERJ1S4",
-      "formattedAddress": "2278 Westborough Blvd Suite 208, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.645137999999996,
-        "longitude": -122.45232
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3374684056084492395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.bonchon.com/locations/ca/south-san-francisco/2278-westborough-blvd-suite-208",
-      "displayName": {
-        "text": "Bonchon South San Francisco",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJGwb8Cyx6j4ARY256Xh9-ndY",
-      "formattedAddress": "2278 Westborough Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.644929999999995,
-        "longitude": -122.45275
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15464655368654319203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://parisbaguette.com/locations/ca/south-san-francisco/2278-westborough-boulevard/",
-      "displayName": {
-        "text": "Paris Baguette",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJGZNcEDx5j4ARSASXgiSOa3c",
-      "formattedAddress": "207 Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6545,
-        "longitude": -122.41055850000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8605127800482366536&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://rockotoperuviancuisineca.com/",
-      "displayName": {
-        "text": "Rockoto Peruvian Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Peruvian"
-    },
-    {
-      "id": "ChIJNV79fi14j4AR_0HN8LHVnyw",
-      "formattedAddress": "1165 Airport Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.664063,
-        "longitude": -122.39988999999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3215523619191734783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.cafedecasa.com/",
-      "displayName": {
-        "text": "Cafe de Casa",
-        "languageCode": "en"
-      },
-      "cuisine": "Brazilian"
-    },
-    {
-      "id": "ChIJiRIjF6Z5j4ARawB5zIoM2U4",
-      "formattedAddress": "423 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6557908,
-        "longitude": -122.4135105
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5681586195180093547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Villa Del Sol Argentinian Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Argentine"
-    },
-    {
-      "id": "ChIJjePCbKF5j4ARAEg5zeP8_WU",
-      "formattedAddress": "599 Railroad Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6538006,
-        "longitude": -122.42039099999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7349308222269376512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.basqueculturalcenter.com/",
-      "displayName": {
-        "text": "Basque Cultural Center",
-        "languageCode": "en"
-      },
-      "cuisine": "Spanish"
-    },
-    {
-      "id": "ChIJXbozfuqdj4ARkPo0yP8EabM",
-      "formattedAddress": "308 Alida Way, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6430827,
-        "longitude": -122.4264405
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12927869701965806224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cocinamilonga.com/",
-      "displayName": {
-        "text": "Cocina Milonga",
-        "languageCode": "en"
-      },
-      "cuisine": "Argentine"
-    },
-    {
-      "id": "ChIJPQrpmvx5j4ARDgL2D6yM4og",
-      "formattedAddress": "101 Utah Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6459506,
-        "longitude": -122.4043131
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9863600804524851726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Turkish street food KEBAP",
-        "languageCode": "tr"
-      },
-      "cuisine": "Turkish"
-    },
-    {
-      "id": "ChIJUa4Q5Jt5j4ARp3sNK3Lo1UQ",
-      "formattedAddress": "1131 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6567158,
-        "longitude": -122.4374234
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4960126141664689063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://joannsrestaurantca.com/",
-      "displayName": {
-        "text": "Jo Ann's Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJVVUVfix6j4ARaXQvwLTTn4Y",
-      "formattedAddress": "2278 Westborough Blvd # 203, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6449059,
-        "longitude": -122.45261409999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9700704895651247209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.myhulahoops.com/",
-      "displayName": {
-        "text": "Hula Hoops Restaurant & Tiki Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJiRIjF6Z5j4AREfM_u1eiFH8",
-      "formattedAddress": "423 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6557037,
-        "longitude": -122.4135658
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9157122440038445841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://cablecarcafe-ssf.com/",
-      "displayName": {
-        "text": "Cable Car Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJPf-9eQp5j4ARPjSyf4jxq3E",
-      "formattedAddress": "437A Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6558152,
-        "longitude": -122.4140525
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8190905915863610430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.antiguacompany.com/",
-      "displayName": {
-        "text": "Antigua Coffee Shop",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ0Vn8rq55j4ARHxZuV4CKxAI",
-      "formattedAddress": "316 S Airport Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.645391499999995,
-        "longitude": -122.4057477
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=199436567338423839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.ihop.com/en-us/ca/south-san-francisco/breakfast-316-s-airport-blvd-648?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=648&utm_content=website",
-      "displayName": {
-        "text": "IHOP",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJo3Q5HrR5j4ARpaoOfCasJ4o",
-      "formattedAddress": "125 Terminal Ct Stall 44, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6438274,
-        "longitude": -122.4080228
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9955114782615841445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "ROCKO`S CAFE",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ6U65L695j4ARvytYa5ym4tY",
-      "formattedAddress": "307 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6550534,
-        "longitude": -122.41049769999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15484121659599236031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://hawihawaiianbbq.kwickmenu.com/",
-      "displayName": {
-        "text": "Hawi Hawaiian BBQ",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ9TCbTZZ5j4ARmQrMGeyPoLo",
-      "formattedAddress": "269 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.643501900000004,
-        "longitude": -122.42619819999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13447906731536157337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://boracaygarden.net/",
-      "displayName": {
-        "text": "Boracay Garden and Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJy--8FCx6j4ARNw5KPjktnoo",
-      "formattedAddress": "2300 Westborough Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6435367,
-        "longitude": -122.4534993
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9988470747435765303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pitstopbobashop.square.site/",
-      "displayName": {
-        "text": "Pit Stop Boba Shop",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ4xYy55V5j4ARyBXkgCcCAvY",
-      "formattedAddress": "101 Brentwood Dr, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6413484,
-        "longitude": -122.4253741
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17726733451973105096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.thefortsf.com/",
-      "displayName": {
-        "text": "Fort McKinley Restaurant, Bar & Banquet",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJUa4Q5Jt5j4ARomrWGnJ6g2s",
-      "formattedAddress": "1129 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6566853,
-        "longitude": -122.43740129999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7747170414502505122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.karilagan.com/",
-      "displayName": {
-        "text": "Karilagan",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJ9Y7lK3p5j4ARmk8UoOt-Lqg",
-      "formattedAddress": "1155 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.657059499999995,
-        "longitude": -122.43800909999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12118763197768683418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.maxsrestaurantna.com/",
-      "displayName": {
-        "text": "Max's Restaurant South San Francisco, Cuisine of the Philippines",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJGUopVjN6j4ARW0V5k0u0iGE",
-      "formattedAddress": "3573 Callan Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6435928,
-        "longitude": -122.46350359999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7028065455201404251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.seafoodcity.com/",
-      "displayName": {
-        "text": "Seafood City Supermarket",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJ-bDyTTN6j4ARcJxRRu4ENVg",
-      "formattedAddress": "2268 Westborough Blvd #306, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.645353,
-        "longitude": -122.45189799999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6355991870531804272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.goldilocks-usa.com/",
-      "displayName": {
-        "text": "Goldilocks",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJLfiJKq95j4ARnhVwBq1z6zc",
-      "formattedAddress": "314 Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6557356,
-        "longitude": -122.40974699999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4029441478587585950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://flavasjamaicangrillsf.com/?utm_source=google",
-      "displayName": {
-        "text": "Flavas Jamaican Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Caribbean"
-    },
-    {
-      "id": "ChIJQToNPJx5j4ARBogaFNIi8vE",
-      "formattedAddress": "724 El Camino Real, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6508752,
-        "longitude": -122.43066700000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17434035393180370950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.littlelucca.com/",
-      "displayName": {
-        "text": "Little Lucca",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJc4motKt5j4ARoXAhUA2B0MU",
       "formattedAddress": "733 Airport Blvd, South San Francisco, CA 94080, USA",
       "location": {
@@ -3117,6 +2120,66 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "American"
     },
     {
+      "id": "ChIJK5V_GIp5j4ARD56lJhe5Bfc",
+      "formattedAddress": "320 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.655426,
+        "longitude": -122.41066620000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17799836611335527951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dumplingandcajunseafood.com/",
+      "displayName": {
+        "text": "Dumpling and Cajun Seafood",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJCV-n7a55j4AR0DkewrAHDSc",
+      "formattedAddress": "216 Cypress Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.654505500000006,
+        "longitude": -122.40857860000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2813913797928827344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dumplingempiretogo.com/",
+      "displayName": {
+        "text": "Dumpling Empire",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJD9H2Icx5j4ARPr1TeohMhjQ",
+      "formattedAddress": "360 Shaw Rd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6364447,
+        "longitude": -122.4067804
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3784796685903052094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Eat Fuki",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJX5Pl6pl5j4ARuNFBnhF2UcI",
+      "formattedAddress": "435 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6464363,
+        "longitude": -122.4285484
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14002102534513217976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://elfarosmexicanfood.site/",
+      "displayName": {
+        "text": "El Faro's Mexican Food",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
       "id": "ChIJ09CEGK95j4ARcL2UI5z4I-U",
       "formattedAddress": "203 Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
@@ -3130,81 +2193,6 @@ var PREBAKED_DATA_NORTH = {
         "languageCode": "en"
       },
       "cuisine": "Other"
-    },
-    {
-      "id": "ChIJ2yyQCHyAhYAR-JXuEG_K5Cg",
-      "formattedAddress": "360 Shaw Rd C, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6364643,
-        "longitude": -122.4067768
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2946702634581399032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.redsaucemeatballs.com/",
-      "displayName": {
-        "text": "Red Sauce Meatballs Food Truck",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJ_YNUKsl5j4ARLLTWzeVvQZA",
-      "formattedAddress": "899 Airport Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.660951499999996,
-        "longitude": -122.4045582
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10394712447739409452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://hotchicken.org/",
-      "displayName": {
-        "text": "Nashville Hot Chicken",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ4QJtfSx6j4ARJHJhE0zCUtA",
-      "formattedAddress": "2278 Westborough Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.64487,
-        "longitude": -122.45297120000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15011274139977740836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.fiveguys.com/2278-westborough-blvd",
-      "displayName": {
-        "text": "Five Guys",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJkSCk6qB5j4ARrc7BrveOzuE",
-      "formattedAddress": "598 Baden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6563668,
-        "longitude": -122.41975550000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16271099698176183981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.schoolhousegrocery.com/",
-      "displayName": {
-        "text": "School House Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJD9imVFV4j4ARaiaWP9yFidE",
-      "formattedAddress": "1031 Airport Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6630405,
-        "longitude": -122.40154100000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15098746406742402666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Mike & Ken's Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
     },
     {
       "id": "ChIJGQDoQ-B5j4ARXhnGKap7A5Q",
@@ -3223,65 +2211,442 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Espostos Delicatezza Small.jpeg"
     },
     {
-      "id": "ChIJ9-wINZx5j4ARwT15YNnyeYI",
-      "formattedAddress": "772 El Camino Real, South San Francisco, CA 94080, USA",
+      "id": "ChIJ4QJtfSx6j4ARJHJhE0zCUtA",
+      "formattedAddress": "2278 Westborough Blvd, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6515641,
-        "longitude": -122.43102599999997
+        "latitude": 37.64487,
+        "longitude": -122.45297120000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=9401812712553004481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.teanisdeli.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15011274139977740836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restaurants.fiveguys.com/2278-westborough-blvd",
       "displayName": {
-        "text": "Teani's Italian Deli",
+        "text": "Five Guys",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Burgers"
     },
     {
-      "id": "ChIJR5IQoqR5j4AR792RlZx-3_g",
-      "formattedAddress": "151 S Spruce Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJLfiJKq95j4ARnhVwBq1z6zc",
+      "formattedAddress": "314 Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6494974,
-        "longitude": -122.4181883
+        "latitude": 37.6557356,
+        "longitude": -122.40974699999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=17933191452201967087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.subculturedeli.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4029441478587585950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://flavasjamaicangrillsf.com/?utm_source=google",
       "displayName": {
-        "text": "Subculture Deli",
+        "text": "Flavas Jamaican Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "Caribbean"
     },
     {
-      "id": "ChIJGYJTY7Z5j4ARPbc-2F7aiII",
-      "formattedAddress": "101 Oyster Point Blvd #105, South San Francisco, CA 94080, USA",
+      "id": "ChIJ4xYy55V5j4ARyBXkgCcCAvY",
+      "formattedAddress": "101 Brentwood Dr, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6413484,
+        "longitude": -122.4253741
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17726733451973105096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thefortsf.com/",
+      "displayName": {
+        "text": "Fort McKinley Restaurant, Bar & Banquet",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJJVlzX1Z4j4ARD_epiqcc8nA",
+      "formattedAddress": "151 Oyster Point Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6633688,
+        "longitude": -122.39503850000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8138598982523418383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.foundryandlux.com/",
+      "displayName": {
+        "text": "Foundry & Lux",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Foundry & Lux Small.jpeg"
+    },
+    {
+      "id": "ChIJ-bDyTTN6j4ARcJxRRu4ENVg",
+      "formattedAddress": "2268 Westborough Blvd #306, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.645353,
+        "longitude": -122.45189799999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6355991870531804272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.goldilocks-usa.com/",
+      "displayName": {
+        "text": "Goldilocks",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJLwMOS695j4AR7K2z0jaE0iQ",
+      "formattedAddress": "359 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6553374,
+        "longitude": -122.41152369999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2653328501472734700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://grandpalaceseafoodrestaurant.com/?utm_source=google",
+      "displayName": {
+        "text": "Grand Palace Seafood Restaurant 富源酒家",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJK5mCqdB5j4ARyM4sHdX8OD0",
+      "formattedAddress": "385 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.655480499999996,
+        "longitude": -122.41217080000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4411553827257110216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://grillkebabsgyrosmenu.com/",
+      "displayName": {
+        "text": "Grill Kebabs and Gyros",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJr6mFb6J5j4ARzKGCOSmoWWU",
+      "formattedAddress": "101 Oyster Point Blvd suite 106, South San Francisco, CA 94080, USA",
       "location": {
         "latitude": 37.662609599999996,
         "longitude": -122.39640069999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=9406007922653050685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.bluegrainsandwich.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7303053165769957836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.guapasmexicangrill.com/",
       "displayName": {
-        "text": "Bluegrain Sandwich Market",
+        "text": "Guapas Mexican Grill",
         "languageCode": "en"
       },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/Bluegrain Sandwich Market Small.jpeg"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Guapas Mexican Grill Small.jpeg"
     },
     {
-      "id": "ChIJjVZ4KGB5j4AR-qb_6Q2bcfI",
-      "formattedAddress": "26 Chestnut Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJNddu0Hl5j4AR43eLSZBEa2o",
+      "formattedAddress": "1057 El Camino Real, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6558487,
-        "longitude": -122.43214800000001
+        "latitude": 37.6556883,
+        "longitude": -122.43581250000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=17469914913609590522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sourdoughandco.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7668298177028257763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "Sourdough & Co.",
+        "text": "Gunter's Restaurant",
         "languageCode": "en"
       },
       "cuisine": "American"
+    },
+    {
+      "id": "ChIJAQBAiat5j4ARe7_HOi1-2UU",
+      "formattedAddress": "608 Dubuque Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.657481,
+        "longitude": -122.405252
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5033192791288037243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hlpeninsula.com/",
+      "displayName": {
+        "text": "H. L. Peninsula Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ6U65L695j4ARvytYa5ym4tY",
+      "formattedAddress": "307 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6550534,
+        "longitude": -122.41049769999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15484121659599236031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hawihawaiianbbq.kwickmenu.com/",
+      "displayName": {
+        "text": "Hawi Hawaiian BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJz_xHsER5j4AR7zf9E56eXTI",
+      "formattedAddress": "303 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6550624,
+        "longitude": -122.41037209999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3629231276507871215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hiddenspot.online/",
+      "displayName": {
+        "text": "Hidden Spot - South San Francisco",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJdYNVY_95j4ARKp_EswgRg_I",
+      "formattedAddress": "415 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6555787,
+        "longitude": -122.41311879999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17474829708201074474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://untappd.com/v/hidden-tap-and-barrel-south-sf/13308894",
+      "displayName": {
+        "text": "Hidden Tap and Barrel South San Francisco",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJVVUVfix6j4ARaXQvwLTTn4Y",
+      "formattedAddress": "2278 Westborough Blvd # 203, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6449059,
+        "longitude": -122.45261409999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9700704895651247209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.myhulahoops.com/",
+      "displayName": {
+        "text": "Hula Hoops Restaurant & Tiki Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJu-Ugsbx5j4ARuAx2G-Lsmu4",
+      "formattedAddress": "221 S Spruce Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.647576199999996,
+        "longitude": -122.4192074
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17193314983307775160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hungtossf.com/",
+      "displayName": {
+        "text": "Hung To Seafood Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ0Vn8rq55j4ARHxZuV4CKxAI",
+      "formattedAddress": "316 S Airport Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.645391499999995,
+        "longitude": -122.4057477
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=199436567338423839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restaurants.ihop.com/en-us/ca/south-san-francisco/breakfast-316-s-airport-blvd-648?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=648&utm_content=website",
+      "displayName": {
+        "text": "IHOP",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJqfumcsB5j4AR41JImA_qpxc",
+      "formattedAddress": "386 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6557181,
+        "longitude": -122.41198949999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1704588336683307747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://industrypizzassf.com/",
+      "displayName": {
+        "text": "Industry Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJIyNi3655j4ARGj3IaAUfGEM",
+      "formattedAddress": "257 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6549145,
+        "longitude": -122.4098943
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4834648308075478298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://izanamitogo.com/",
+      "displayName": {
+        "text": "Izanami",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJUa4Q5Jt5j4ARp3sNK3Lo1UQ",
+      "formattedAddress": "1131 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6567158,
+        "longitude": -122.4374234
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4960126141664689063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://joannsrestaurantca.com/",
+      "displayName": {
+        "text": "Jo Ann's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJ7S05lK55j4ARZN4V8ezYBfE",
+      "formattedAddress": "112 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6549354,
+        "longitude": -122.4082784
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17367526050192809572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.facebook.com/kamusushissf",
+      "displayName": {
+        "text": "Kamu Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJUa4Q5Jt5j4ARomrWGnJ6g2s",
+      "formattedAddress": "1129 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6566853,
+        "longitude": -122.43740129999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7747170414502505122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.karilagan.com/",
+      "displayName": {
+        "text": "Karilagan",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJob3XYgB5j4ARKWjU8IpO2Cs",
+      "formattedAddress": "337 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.65510950000001,
+        "longitude": -122.41122139999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3159361497253308457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kevinsnoodlehouse.com/",
+      "displayName": {
+        "text": "Kevin’s Noodle House",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJjTvPOKl5j4AR5kk0v1kT9aw",
+      "formattedAddress": "222 Lux Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.657085099999996,
+        "longitude": -122.4086002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12462888819998607846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lanuevaperlarestaurant.com/",
+      "displayName": {
+        "text": "La Nueva Perla",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJEdXRHKZ5j4ARn_B8DYAC4vU",
+      "formattedAddress": "411 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.655642,
+        "longitude": -122.4129306
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17717726633034313887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://latapatiassf.com/",
+      "displayName": {
+        "text": "La Tapatia Mexicatessen",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJa_nwP6Z5j4ARBUWokzU_55Y",
+      "formattedAddress": "439 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6558426,
+        "longitude": -122.41413379999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10873729324652446981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.latortasabrosasf.com/",
+      "displayName": {
+        "text": "La Torta Sabrosa",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJPSS4fjN5j4ARYWY-wxDZS-U",
+      "formattedAddress": "1429 San Mateo Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6470718,
+        "longitude": -122.40991969999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16522538323957147233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://dahabrestaurantcafe.com/",
+      "displayName": {
+        "text": "Layalena Restaurant & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Layalena Small.jpeg"
+    },
+    {
+      "id": "ChIJQToNPJx5j4ARBogaFNIi8vE",
+      "formattedAddress": "724 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6508752,
+        "longitude": -122.43066700000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17434035393180370950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.littlelucca.com/",
+      "displayName": {
+        "text": "Little Lucca",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJWQ9Ioq95j4ARag1UuSfmC6k",
+      "formattedAddress": "7 Linden Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6525434,
+        "longitude": -122.41121659999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12181082675441044842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.littlesaigonviet.com/",
+      "displayName": {
+        "text": "Little Saigon",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJsxqLOql5j4ARjd_V58IDIsE",
+      "formattedAddress": "237 Lux Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6569025,
+        "longitude": -122.40897770000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13916689934176345997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://losmetatestaqueria.com/",
+      "displayName": {
+        "text": "Los Metates",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
     },
     {
       "id": "ChIJZ6UIlkl4j4ARXOX9Zj7UEFE",
@@ -3300,109 +2665,34 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Luigis Sandwich Palace Small.jpeg"
     },
     {
-      "id": "ChIJQd3EoaR5j4AR0OJ0ayk4UVU",
-      "formattedAddress": "151 S Spruce Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJ9Y7lK3p5j4ARmk8UoOt-Lqg",
+      "formattedAddress": "1155 El Camino Real, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6494974,
-        "longitude": -122.4181883
+        "latitude": 37.657059499999995,
+        "longitude": -122.43800909999997
       },
-      "googleMapsUri": "https://maps.google.com/?cid=6147756716885074640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.raysbread.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=12118763197768683418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.maxsrestaurantna.com/",
       "displayName": {
-        "text": "Raymond's Sourdough Bread Outlet",
+        "text": "Max's Restaurant South San Francisco, Cuisine of the Philippines",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Filipino"
     },
     {
-      "id": "ChIJN2Aylal5j4ARHRPEotvm9CQ",
-      "formattedAddress": "722 Linden Ave, South San Francisco, CA 94080, USA",
+      "id": "ChIJD9imVFV4j4ARaiaWP9yFidE",
+      "formattedAddress": "1031 Airport Blvd, South San Francisco, CA 94080, USA",
       "location": {
-        "latitude": 37.6598344,
-        "longitude": -122.40836749999998
+        "latitude": 37.6630405,
+        "longitude": -122.40154100000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=2663007110685791005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=15098746406742402666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Alfredo's Market",
+        "text": "Mike & Ken's Deli",
         "languageCode": "en"
       },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJ45zh4O95j4ARHCfa7Mn1BQk",
-      "formattedAddress": "303 Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.655450699999996,
-        "longitude": -122.4101514
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=650195968835856156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Taqueria Nochistlan",
-        "languageCode": "es"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJD9H2Icx5j4ARPr1TeohMhjQ",
-      "formattedAddress": "360 Shaw Rd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6364447,
-        "longitude": -122.4067804
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3784796685903052094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Eat Fuki",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJa_nwP6Z5j4ARBUWokzU_55Y",
-      "formattedAddress": "439 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6558426,
-        "longitude": -122.41413379999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10873729324652446981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.latortasabrosasf.com/",
-      "displayName": {
-        "text": "La Torta Sabrosa",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJf2OPHKZ5j4ARW3oGN191W9w",
-      "formattedAddress": "415 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6555787,
-        "longitude": -122.41311879999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15878413963030329947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.sanfranciscowineschool.com/winebar",
-      "displayName": {
-        "text": "Secret Wine Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar"
-    },
-    {
-      "id": "ChIJdYNVY_95j4ARKp_EswgRg_I",
-      "formattedAddress": "415 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6555787,
-        "longitude": -122.41311879999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17474829708201074474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://untappd.com/v/hidden-tap-and-barrel-south-sf/13308894",
-      "displayName": {
-        "text": "Hidden Tap and Barrel South San Francisco",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
+      "cuisine": "American"
     },
     {
       "id": "ChIJU6GfPeF7j4ARZWLKcCRDzVA",
@@ -3420,6 +2710,549 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Irish"
     },
     {
+      "id": "ChIJ0zeGQ2x5j4ARxU3tCYQlcb0",
+      "formattedAddress": "415 Grand Ave Ste 001, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6555904,
+        "longitude": -122.4131455
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13650733194569141701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://ssf.momstofu.com/",
+      "displayName": {
+        "text": "Mom's Tofu House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJTUnC_Ol7j4ARlBaTJzc9i5k",
+      "formattedAddress": "101 Hickey Blvd d, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6656875,
+        "longitude": -122.4515399
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11064004216662202004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mountainmikespizza.com/locations/south-san-francisco-hickey-blvd/",
+      "displayName": {
+        "text": "Mountain Mike's Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJ_YNUKsl5j4ARLLTWzeVvQZA",
+      "formattedAddress": "899 Airport Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.660951499999996,
+        "longitude": -122.4045582
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10394712447739409452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hotchicken.org/",
+      "displayName": {
+        "text": "Nashville Hot Chicken",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJP0NeYAB5j4ARCuA62tlULOM",
+      "formattedAddress": "925 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6533245,
+        "longitude": -122.43314339999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16369552040230838282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://nationsrestaurants.com/",
+      "displayName": {
+        "text": "Nation's Giant Hamburgers & Great Pies",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJe1M--Ip5j4ARG9ppyg4TdZU",
+      "formattedAddress": "136 Hazelwood Dr, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6421812,
+        "longitude": -122.42649109999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10769535038172813851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.newdragongardenca.com/?utm_source=gmb&utm_medium=website",
+      "displayName": {
+        "text": "New Dragon Garden",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ-c9L97h5j4ARgwSbjmPT1p8",
+      "formattedAddress": "101 Oyster Point Blvd Suite 104, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.662767699999996,
+        "longitude": -122.396326
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11517625521594369155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
+      "displayName": {
+        "text": "Nick The Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Nick the Greek Small.jpeg"
+    },
+    {
+      "id": "ChIJGwb8Cyx6j4ARY256Xh9-ndY",
+      "formattedAddress": "2278 Westborough Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.644929999999995,
+        "longitude": -122.45275
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15464655368654319203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://parisbaguette.com/locations/ca/south-san-francisco/2278-westborough-boulevard/",
+      "displayName": {
+        "text": "Paris Baguette",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJRfZbaAB5j4ARBOft5w1oIWs",
+      "formattedAddress": "116 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.654925299999995,
+        "longitude": -122.4084308
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7719565645224732420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Piquin Sabor de Casa",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJy--8FCx6j4ARNw5KPjktnoo",
+      "formattedAddress": "2300 Westborough Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6435367,
+        "longitude": -122.4534993
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9988470747435765303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pitstopbobashop.square.site/",
+      "displayName": {
+        "text": "Pit Stop Boba Shop",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJuwMZ03B5j4ARe08UfVc2OzQ",
+      "formattedAddress": "600 Linden Ave A, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.658162499999996,
+        "longitude": -122.4088976
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3763661662986719099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzakingsanfrancisco.com/?utm_source=gbp",
+      "displayName": {
+        "text": "Pizza king",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJnf1oqbx5j4ARP0Acix7M7dg",
+      "formattedAddress": "113 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6546187,
+        "longitude": -122.4084773
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15631374313227829311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mypizzalover.com/?utm_source=google",
+      "displayName": {
+        "text": "PIZZA LOVER",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJJ4HwtZ15j4ARcuYCM_GBodQ",
+      "formattedAddress": "792 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.65188140000001,
+        "longitude": -122.43131659999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15321670280234067570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Rancho Las Trancas",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJQd3EoaR5j4AR0OJ0ayk4UVU",
+      "formattedAddress": "151 S Spruce Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6494974,
+        "longitude": -122.4181883
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6147756716885074640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.raysbread.com/",
+      "displayName": {
+        "text": "Raymond's Sourdough Bread Outlet",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJ2yyQCHyAhYAR-JXuEG_K5Cg",
+      "formattedAddress": "360 Shaw Rd C, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6364643,
+        "longitude": -122.4067768
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2946702634581399032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.redsaucemeatballs.com/",
+      "displayName": {
+        "text": "Red Sauce Meatballs Food Truck",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJLRR-xlx5j4ARqXkTemCM0bI",
+      "formattedAddress": "256 E Grand Ave., South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6527262,
+        "longitude": -122.3972433
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12885234354876545449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://riposossf.com/",
+      "displayName": {
+        "text": "Riposo",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Riposo Small.jpeg"
+    },
+    {
+      "id": "ChIJ9yAqw655j4ARNVk5ngbHDRI",
+      "formattedAddress": "224 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.655101699999996,
+        "longitude": -122.4090636
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1300914698618231093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.buongustorestaurant.com/",
+      "displayName": {
+        "text": "Ristorante Buon Gusto",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJo3Q5HrR5j4ARpaoOfCasJ4o",
+      "formattedAddress": "125 Terminal Ct Stall 44, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6438274,
+        "longitude": -122.4080228
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9955114782615841445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "ROCKO`S CAFE",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJGZNcEDx5j4ARSASXgiSOa3c",
+      "formattedAddress": "207 Linden Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6545,
+        "longitude": -122.41055850000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8605127800482366536&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rockotoperuviancuisineca.com/",
+      "displayName": {
+        "text": "Rockoto Peruvian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Peruvian"
+    },
+    {
+      "id": "ChIJkSCk6qB5j4ARrc7BrveOzuE",
+      "formattedAddress": "598 Baden Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6563668,
+        "longitude": -122.41975550000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16271099698176183981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.schoolhousegrocery.com/",
+      "displayName": {
+        "text": "School House Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJf2OPHKZ5j4ARW3oGN191W9w",
+      "formattedAddress": "415 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6555787,
+        "longitude": -122.41311879999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15878413963030329947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sanfranciscowineschool.com/winebar",
+      "displayName": {
+        "text": "Secret Wine Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar"
+    },
+    {
+      "id": "ChIJ1UxyUiJ5j4ARem6ZUQ_SXg0",
+      "formattedAddress": "200 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.655063,
+        "longitude": -122.4086369
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=963438333539217018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.shabushack.com/",
+      "displayName": {
+        "text": "Shabu Shack",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJh3L_5Zt5j4ARV3QOVFPQ7lc",
+      "formattedAddress": "117 Southwood Center, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.649565900000006,
+        "longitude": -122.43068470000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6336230782067962967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Sky Dragon",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJGbcNdad5j4ARW0zIWdoyEQM",
+      "formattedAddress": "132 Hazelwood Dr, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6422336,
+        "longitude": -122.426379
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=221013770108423259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sofragrills.com/",
+      "displayName": {
+        "text": "Sofra Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJjVZ4KGB5j4AR-qb_6Q2bcfI",
+      "formattedAddress": "26 Chestnut Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6558487,
+        "longitude": -122.43214800000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17469914913609590522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sourdoughandco.com/",
+      "displayName": {
+        "text": "Sourdough & Co.",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJL7keeXd5j4AR_Ls2iBGmDEM",
+      "formattedAddress": "687 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6498862,
+        "longitude": -122.4307434
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4831419094491642876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.speedyspizzagrill.com/?utm_source=gbp",
+      "displayName": {
+        "text": "Speedy's Pizza & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJR5IQoqR5j4AR792RlZx-3_g",
+      "formattedAddress": "151 S Spruce Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6494974,
+        "longitude": -122.4181883
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17933191452201967087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.subculturedeli.com/",
+      "displayName": {
+        "text": "Subculture Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ10MGCal5j4ARqLvjmA9nNTE",
+      "formattedAddress": "608 Linden Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6583134,
+        "longitude": -122.4088313
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3545853598311365544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.spoton.com/so-taqueria-celaya-1678/south-san-francisco-ca/5d237c4974cae91cd003b6b2",
+      "displayName": {
+        "text": "Taqueria Celaya",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJyXMrsKh5j4ARilrFn_zUS8s",
+      "formattedAddress": "394 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6559496,
+        "longitude": -122.41219199999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14649036394430028426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://taqueriaelfarolito.shop/",
+      "displayName": {
+        "text": "Taqueria El Farolito",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJwYQXFK95j4AR3slyvlU34Qk",
+      "formattedAddress": "307 Baden Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6541594,
+        "longitude": -122.4110001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=711911057508190686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.taquerialamorena.com/",
+      "displayName": {
+        "text": "Taqueria La Morena",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJVVUZQK95j4ARGDmwpMPyup4",
+      "formattedAddress": "319 Baden Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6541654,
+        "longitude": -122.4113931
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11437721125756352792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://taquerialaspencas.site/",
+      "displayName": {
+        "text": "Taqueria Las Pencas #1",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJN16zHtl5j4AR8bwL3CzKvl8",
+      "formattedAddress": "671 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6496219,
+        "longitude": -122.4305418
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6899173973197307121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taqueriamidurango.com/",
+      "displayName": {
+        "text": "Taqueria Mi Durango 2",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJ45zh4O95j4ARHCfa7Mn1BQk",
+      "formattedAddress": "303 Linden Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.655450699999996,
+        "longitude": -122.4101514
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=650195968835856156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Taqueria Nochistlan",
+        "languageCode": "es"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJdUDXYnZ5j4ARZPRZ5fAcNwQ",
+      "formattedAddress": "415 Linden Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6567103,
+        "longitude": -122.40977149999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=303743320836404324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taqueriasahuayo.net/",
+      "displayName": {
+        "text": "Taqueria Sahuayo | South San Francisco",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJ9-wINZx5j4ARwT15YNnyeYI",
+      "formattedAddress": "772 El Camino Real, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6515641,
+        "longitude": -122.43102599999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9401812712553004481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.teanisdeli.com/",
+      "displayName": {
+        "text": "Teani's Italian Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJxzxl2K55j4ARD7NfmmvxbfY",
+      "formattedAddress": "265 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6550142,
+        "longitude": -122.41002509999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17757114350245491471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thaisatay.net/",
+      "displayName": {
+        "text": "Thai Satay Restaurant & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJyQUzolF5j4ARfDGbpD76QrM",
+      "formattedAddress": "348 Oyster Point Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6622786,
+        "longitude": -122.3845549
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12917161828208554364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://theanecdote.com/",
+      "displayName": {
+        "text": "The Anecdote SSF",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/The Acecdote Small.jpeg"
+    },
+    {
       "id": "ChIJbfwlE8h5j4AR7ODZpW_nYcs",
       "formattedAddress": "360 Shaw Rd C, South San Francisco, CA 94080, USA",
       "location": {
@@ -3433,6 +3266,158 @@ var PREBAKED_DATA_NORTH = {
         "languageCode": "en"
       },
       "cuisine": "BBQ"
+    },
+    {
+      "id": "ChIJ4wm-1WR5j4ARIT9nCmXKfIE",
+      "formattedAddress": "1144 Mission Rd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.661642,
+        "longitude": -122.43830799999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9330555063319871265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.gardenclubrestaurant.com/",
+      "displayName": {
+        "text": "The Garden Club",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJMYRBJiZ5j4ARne-I7h3pqj4",
+      "formattedAddress": "460 Forbes Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.656082,
+        "longitude": -122.39140799999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4515677891157618589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thehangarssf.com/",
+      "displayName": {
+        "text": "The Hangar",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/The Hangar (Camber) Small.jpeg"
+    },
+    {
+      "id": "ChIJhR8_zbx5j4ARHpzlvWr7meA",
+      "formattedAddress": "230 S Spruce Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6477212,
+        "longitude": -122.4204129
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16184243171803634718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thenightmarketssf.com/",
+      "displayName": {
+        "text": "The Night Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJhUzju4R5j4ARJm2dB-Hkhro",
+      "formattedAddress": "685 Gateway Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6584697,
+        "longitude": -122.3986156
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13440681793080356134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://timberandtidessf.com/",
+      "displayName": {
+        "text": "Timber + Tide",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Timer & Tide Small.jpeg"
+    },
+    {
+      "id": "ChIJGwb8Cyx6j4AR2tNlBEJH0HE",
+      "formattedAddress": "2278 Westborough Blvd #201, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.644863099999995,
+        "longitude": -122.4528351
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8201133270308869082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tokyosushibarssf.com/",
+      "displayName": {
+        "text": "Tokyo Sushi & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ85v-6pZ5j4ARvT8xyTRtlkY",
+      "formattedAddress": "Brentwood Dr, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6419184,
+        "longitude": -122.424809
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5086372902642728893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.facebook.com/people/Tortas-Tacos-La-Cruzazuleada/100087146335073/",
+      "displayName": {
+        "text": "Tortas & tacos la Cruzazuleada",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJPQrpmvx5j4ARDgL2D6yM4og",
+      "formattedAddress": "101 Utah Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6459506,
+        "longitude": -122.4043131
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9863600804524851726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Turkish street food KEBAP",
+        "languageCode": "tr"
+      },
+      "cuisine": "Turkish"
+    },
+    {
+      "id": "ChIJiRIjF6Z5j4ARawB5zIoM2U4",
+      "formattedAddress": "423 Grand Ave, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6557908,
+        "longitude": -122.4135105
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5681586195180093547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Villa Del Sol Argentinian Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Argentine"
+    },
+    {
+      "id": "ChIJO_Tja5Z5j4ARBP0YTagbeGI",
+      "formattedAddress": "146 Hazelwood Dr, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6421351,
+        "longitude": -122.42661910000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7095451622584155396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.whiteelephantsf.com/",
+      "displayName": {
+        "text": "White Elephant Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJIRT2A_N5j4ARUeSqS9mNcSg",
+      "formattedAddress": "200 Airport Blvd, South San Francisco, CA 94080, USA",
+      "location": {
+        "latitude": 37.6541437,
+        "longitude": -122.40756579999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2914266398302331985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://wildflour-ssf.com/",
+      "displayName": {
+        "text": "Wildflour",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
     }
   ],
   "San Bruno, CA": [
