@@ -2030,21 +2030,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Chico Marx Small.jpeg"
     },
     {
-      "id": "ChIJxyBMUzN6j4ARB70iA3iY_Hk",
-      "formattedAddress": "3589 Callan Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.644166,
-        "longitude": -122.46329349999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8790068213936471303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.chowkingusa.com/ca/south-san-francisco/3589-callan-blvd?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=1361755",
-      "displayName": {
-        "text": "Chowking",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
       "id": "ChIJK8hJ5LF5j4ARrAswpjdk5k0",
       "formattedAddress": "334 Grand Ave, South San Francisco, CA 94080, USA",
       "location": {
