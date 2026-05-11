@@ -2816,21 +2816,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJy--8FCx6j4ARNw5KPjktnoo",
-      "formattedAddress": "2300 Westborough Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6435367,
-        "longitude": -122.4534993
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9988470747435765303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pitstopbobashop.square.site/",
-      "displayName": {
-        "text": "Pit Stop Boba Shop",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJuwMZ03B5j4ARe08UfVc2OzQ",
       "formattedAddress": "600 Linden Ave A, South San Francisco, CA 94080, USA",
       "location": {
