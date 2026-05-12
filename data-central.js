@@ -8127,7 +8127,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Microbrewery focusing on true-to-style Belgians, lagers and flavorful ales.",
       "hours": "Mon–Tue 2pm–8pm, Wed–Thu 2pm–10pm, Fri 1pm–10pm, Sat 12pm–10pm, Sun 12pm–8pm",
       "menuUrl": "https://www.blueoakbrewing.com/beer",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-carlos/Blue Oak Brewing2 Small.jpeg"
     },
     {
       "id": "ChIJoYyTMRqij4ARfm7W1012IOM",
@@ -9027,7 +9028,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "New Haven style wood-fired pizzas and handmade pastas from Gambardella's owner.",
       "hours": "Mon–Mon Closed, Tue–Sat 4pm–9pm, Sun–Sun Closed",
       "menuUrl": "https://pazzosancarlos.com/menu/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-carlos/Pazzo Small.jpeg"
     },
     {
       "id": "ChIJqy9n7AOij4ARTLAjf4-3mtk",
@@ -9314,7 +9316,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 595-0464",
       "hours": "Mon–Thu 7am–2pm, Fri–Sun 7am–3pm",
       "priceRange": "$",
-      "description": "Watch planes take off and land while eating breakfast."
+      "description": "Watch planes take off and land while eating breakfast.",
+      "photoUrl": "images/restaurant-photos/san-carlos/Sky Kitchen Small.jpeg"
     },
     {
       "id": "ChIJoeNZl8ijj4ARwlavdRd5gTY",
@@ -9376,7 +9379,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Authentic smoked BBQ with creative options like brisket and crepes.",
       "hours": "Mon–Fri 9am–6pm, Sat 9am–5pm, Sun Closed",
       "menuUrl": "https://postmates.com/store/spill-the-tea-bbq-sc/phyORjaERg22wncQzyJkMg",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-carlos/Spill the Tea Small.jpeg"
     },
     {
       "id": "ChIJT_Z7eRyjj4ARYHsoLEJpiNk",
