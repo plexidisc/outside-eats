@@ -1906,7 +1906,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Bonchon South San Francisco",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Bonchon Small.jpeg"
     },
     {
       "id": "ChIJ9TCbTZZ5j4ARmQrMGeyPoLo",
@@ -1921,7 +1922,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Boracay Garden and Grill",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Boracay Garden & Grill Small.jpeg"
     },
     {
       "id": "ChIJF_7tuqh5j4ARRMB9_pg0WZE",
@@ -2011,7 +2013,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Chevys",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Chevys Small.jpeg"
     },
     {
       "id": "ChIJr6BCCfR5j4AR1gyk7I8dWZE",
@@ -2057,7 +2060,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Cocina Milonga",
         "languageCode": "en"
       },
-      "cuisine": "Argentine"
+      "cuisine": "Argentine",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Cocina Milonga Small.jpeg"
     },
     {
       "id": "ChIJa3OLcu55j4ARIZMAVajVZjQ",
@@ -2162,7 +2166,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "El Faro's Mexican Food",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/El Faro Small.jpeg"
     },
     {
       "id": "ChIJ09CEGK95j4ARcL2UI5z4I-U",
@@ -2223,7 +2228,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Fort McKinley Restaurant, Bar & Banquet",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Fort Mckinley Small.jpeg"
     },
     {
       "id": "ChIJJVlzX1Z4j4ARD_epiqcc8nA",
@@ -2254,7 +2260,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Goldilocks",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Goldilocks Small.jpeg"
     },
     {
       "id": "ChIJLwMOS695j4AR7K2z0jaE0iQ",
@@ -2315,7 +2322,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Gunter's Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Gunters Small.jpeg"
     },
     {
       "id": "ChIJAQBAiat5j4ARe7_HOi1-2UU",
@@ -2390,7 +2398,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hula Hoops Restaurant & Tiki Bar",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Hula Hoops Small.jpeg"
     },
     {
       "id": "ChIJu-Ugsbx5j4ARuAx2G-Lsmu4",
@@ -2465,7 +2474,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Jo Ann's Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Jo Anns Small.jpeg"
     },
     {
       "id": "ChIJ7S05lK55j4ARZN4V8ezYBfE",
@@ -2495,7 +2505,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Karilagan",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Karilagan Small.jpeg"
     },
     {
       "id": "ChIJob3XYgB5j4ARKWjU8IpO2Cs",
@@ -2586,7 +2597,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Little Lucca",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Little Lucca Small.jpeg"
     },
     {
       "id": "ChIJWQ9Ioq95j4ARag1UuSfmC6k",
@@ -2647,7 +2659,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Max's Restaurant South San Francisco, Cuisine of the Philippines",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Max's Small.jpeg"
     },
     {
       "id": "ChIJD9imVFV4j4ARaiaWP9yFidE",
@@ -2677,7 +2690,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Molloy's Tavern",
         "languageCode": "en"
       },
-      "cuisine": "Irish"
+      "cuisine": "Irish",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Molloys Small.jpeg"
     },
     {
       "id": "ChIJ0zeGQ2x5j4ARxU3tCYQlcb0",
@@ -2707,7 +2721,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mountain Mike's Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Mountain Mikes Small.jpeg"
     },
     {
       "id": "ChIJ_YNUKsl5j4ARLLTWzeVvQZA",
@@ -2737,7 +2752,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Nation's Giant Hamburgers & Great Pies",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Nations Small.jpeg"
     },
     {
       "id": "ChIJe1M--Ip5j4ARG9ppyg4TdZU",
@@ -2752,7 +2768,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "New Dragon Garden",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/New Dragon Garden Small.jpeg"
     },
     {
       "id": "ChIJ-c9L97h5j4ARgwSbjmPT1p8",
@@ -2783,7 +2800,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Paris Baguette",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Paris Baguette Small.jpeg"
     },
     {
       "id": "ChIJRfZbaAB5j4ARBOft5w1oIWs",
@@ -2843,7 +2861,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Rancho Las Trancas",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Rancho Las Trancas Small.jpeg"
     },
     {
       "id": "ChIJQd3EoaR5j4AR0OJ0ayk4UVU",
@@ -2994,7 +3013,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Sky Dragon",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Sky Dragon Restaurant Small.jpeg"
     },
     {
       "id": "ChIJGbcNdad5j4ARW0zIWdoyEQM",
@@ -3009,7 +3029,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Sofra Grill",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Sofra Grill Small.jpeg"
     },
     {
       "id": "ChIJjVZ4KGB5j4AR-qb_6Q2bcfI",
@@ -3024,7 +3045,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Sourdough & Co.",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Sourdough & Co Small.jpeg"
     },
     {
       "id": "ChIJL7keeXd5j4AR_Ls2iBGmDEM",
@@ -3039,7 +3061,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Speedy's Pizza & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Speedys Small.jpeg"
     },
     {
       "id": "ChIJR5IQoqR5j4AR792RlZx-3_g",
@@ -3129,7 +3152,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria Mi Durango 2",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Taqueria Mi Durango Small.jpeg"
     },
     {
       "id": "ChIJ45zh4O95j4ARHCfa7Mn1BQk",
@@ -3174,7 +3198,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Teani's Italian Deli",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Teanis Small.jpeg"
     },
     {
       "id": "ChIJxzxl2K55j4ARD7NfmmvxbfY",
@@ -3235,7 +3260,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "The Garden Club",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/The Garden club Small.jpeg"
     },
     {
       "id": "ChIJMYRBJiZ5j4ARne-I7h3pqj4",
@@ -3297,7 +3323,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Tokyo Sushi & Bar",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Tokyo sushi & bar Small.jpeg"
     },
     {
       "id": "ChIJ85v-6pZ5j4ARvT8xyTRtlkY",
@@ -3312,7 +3339,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Tortas & tacos la Cruzazuleada",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Totas & tacos La Cruzazuleada Small.jpeg"
     },
     {
       "id": "ChIJPQrpmvx5j4ARDgL2D6yM4og",
@@ -3357,7 +3385,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "White Elephant Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/White Elephant Small.jpeg"
     },
     {
       "id": "ChIJIRT2A_N5j4ARUeSqS9mNcSg",
