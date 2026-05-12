@@ -1986,21 +1986,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Brazilian"
     },
     {
-      "id": "ChIJ2TMmr_x5j4ARzHVJax_biGw",
-      "formattedAddress": "460 Forbes Blvd Floor 2, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.656082,
-        "longitude": -122.39140799999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7820741680919311820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.thehangarssf.com/camber",
-      "displayName": {
-        "text": "Camber",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
       "id": "ChIJDcE55d17j4ARFzyf9h7QvYM",
       "formattedAddress": "141 Hickey Blvd, South San Francisco, CA 94080, USA",
       "location": {
