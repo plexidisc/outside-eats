@@ -2695,21 +2695,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Mountain Mikes Small.jpeg"
     },
     {
-      "id": "ChIJ_YNUKsl5j4ARLLTWzeVvQZA",
-      "formattedAddress": "899 Airport Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.660951499999996,
-        "longitude": -122.4045582
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10394712447739409452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://hotchicken.org/",
-      "displayName": {
-        "text": "Nashville Hot Chicken",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJP0NeYAB5j4ARCuA62tlULOM",
       "formattedAddress": "925 El Camino Real, South San Francisco, CA 94080, USA",
       "location": {
