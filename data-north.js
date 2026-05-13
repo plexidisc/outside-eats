@@ -2376,7 +2376,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Unique fusion of handmade dumplings and Cajun seafood with fresh, flavorful dishes crafted to order.",
       "menuUrl": "https://www.dumplingcajun.com/eg178kti/dumpling-and-cajun-seafood-south-san-francisco-94080/order-online",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Dumpling and Cajun Seafood Small.jpeg"
     },
     {
       "id": "ChIJCV-n7a55j4AR0DkewrAHDSc",
