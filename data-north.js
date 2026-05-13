@@ -2943,7 +2943,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Secret Wine Bar",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Secret Wine Bar Small.jpeg"
     },
     {
       "id": "ChIJ1UxyUiJ5j4ARem6ZUQ_SXg0",
