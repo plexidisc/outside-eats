@@ -2916,21 +2916,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Rock to Peruvian Cuisine Small.jpeg"
     },
     {
-      "id": "ChIJkSCk6qB5j4ARrc7BrveOzuE",
-      "formattedAddress": "598 Baden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6563668,
-        "longitude": -122.41975550000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16271099698176183981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.schoolhousegrocery.com/",
-      "displayName": {
-        "text": "School House Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJf2OPHKZ5j4ARW3oGN191W9w",
       "formattedAddress": "415 Grand Ave, South San Francisco, CA 94080, USA",
       "location": {
