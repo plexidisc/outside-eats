@@ -1838,21 +1838,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Antigua Coffee Shop Small.jpeg"
     },
     {
-      "id": "ChIJjePCbKF5j4ARAEg5zeP8_WU",
-      "formattedAddress": "599 Railroad Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6538006,
-        "longitude": -122.42039099999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7349308222269376512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.basqueculturalcenter.com/",
-      "displayName": {
-        "text": "Basque Cultural Center",
-        "languageCode": "en"
-      },
-      "cuisine": "Spanish"
-    },
-    {
       "id": "ChIJMcbj5655j4ARvDW7v9wbWak",
       "formattedAddress": "398 Grand Ave, South San Francisco, CA 94080, USA",
       "location": {
