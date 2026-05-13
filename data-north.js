@@ -1774,21 +1774,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "American"
     },
     {
-      "id": "ChIJN2Aylal5j4ARHRPEotvm9CQ",
-      "formattedAddress": "722 Linden Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6598344,
-        "longitude": -122.40836749999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2663007110685791005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Alfredo's Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJ5flhKq95j4AR0cvS1PQaU4I",
       "formattedAddress": "310 Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
