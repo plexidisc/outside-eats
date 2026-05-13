@@ -5520,6 +5520,2361 @@ var PREBAKED_DATA_SOUTH = {
   ],
   "Palo Alto, CA": [
     {
+      "id": "ChIJ-RTutuW6j4AR4VYL3DZDAvg",
+      "formattedAddress": "340 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4270754,
+        "longitude": -122.14440950000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17870920174258575073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://anatoliankitchen.com/",
+      "displayName": {
+        "text": "Anatolian Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish"
+    },
+    {
+      "id": "ChIJL6eIury7j4ARRvbC__WInac",
+      "formattedAddress": "201 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444894399999995,
+        "longitude": -122.1628303
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12077960365816870470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushiaraki.com/",
+      "displayName": {
+        "text": "Araki Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJXzozIq2jj4ARpEwPAaO9InY",
+      "formattedAddress": "140 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439087,
+        "longitude": -122.16336249999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8512574753478757540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.aryasteakhouse.com/",
+      "displayName": {
+        "text": "Arya Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse"
+    },
+    {
+      "id": "ChIJmUWp5SS7j4ARwkXUtEmqFdc",
+      "formattedAddress": "855 El Camino Real, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4387251,
+        "longitude": -122.1598525
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15498480926208574914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://asianbox.com/",
+      "displayName": {
+        "text": "Asian Box",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJi9iYmjm7j4AR904-JYOQQN4",
+      "formattedAddress": "335 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4464879,
+        "longitude": -122.1613445
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16014959167869439735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bevri.com/",
+      "displayName": {
+        "text": "Bevri - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Georgian"
+    },
+    {
+      "id": "ChIJMzIVsOW6j4ARuVSOvM3YcfY",
+      "formattedAddress": "2363 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4277401,
+        "longitude": -122.14430329999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17758213183841916089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bistroelan.com/",
+      "displayName": {
+        "text": "Bistro Elan",
+        "languageCode": "en"
+      },
+      "cuisine": "French"
+    },
+    {
+      "id": "ChIJYUh8Jzq7j4ARXcdvPyLUR68",
+      "formattedAddress": "548 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4445889,
+        "longitude": -122.1612389
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12630296923542112093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bistromaxine.com/",
+      "displayName": {
+        "text": "Bistro Maxine",
+        "languageCode": "en"
+      },
+      "cuisine": "French"
+    },
+    {
+      "id": "ChIJEQbMSzq7j4ARCIzIQRU45og",
+      "formattedAddress": "643 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4435214,
+        "longitude": -122.1605738
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9864633697750780936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://dineatbuca.com/locations/palo-alto/?utm_campaign=local&utm_source=gbp&utm_medium=organic&utm_content=palo-alto",
+      "displayName": {
+        "text": "Buca di Beppo Italian Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJ8QesCuW6j4ARfJfR8qxpWzE",
+      "formattedAddress": "2437 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427287,
+        "longitude": -122.14339079999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3556552522268252028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cafeprobono.com/",
+      "displayName": {
+        "text": "Cafe Pro Bono",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJIe9vfzC7j4ARKMPewN6Czv4",
+      "formattedAddress": "675 El Camino Real, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.440655199999995,
+        "longitude": -122.1627702
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18360756624066265896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.marriott.com/en-us/dining/restaurant-bar/sjcwp-the-westin-palo-alto/5964915-caf-soleil.mi",
+      "displayName": {
+        "text": "Café Soleil",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJm8EK_e-6j4ARgml6h3Srj60",
+      "formattedAddress": "200 Sheridan Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4267836,
+        "longitude": -122.1405856
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12506403207208659330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cafferiace.com/",
+      "displayName": {
+        "text": "Caffe Riace",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJ7c_w_4q6j4ARF8QWNPNwbck",
+      "formattedAddress": "3740 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4175915,
+        "longitude": -122.13196810000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14514381363938247703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.celiasrestaurants.com/",
+      "displayName": {
+        "text": "Celia’s Mexican Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJTamC_qi7j4ARMAC_ZB2hHMI",
+      "formattedAddress": "2180 W Bayshore Rd #120, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.448276899999996,
+        "longitude": -122.1261363
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13987231690322280496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.chefzhaokitchen.com/",
+      "displayName": {
+        "text": "Chef Zhao Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ6QBUzju7j4ARLrzLJUbvDpY",
+      "formattedAddress": "250 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4442768,
+        "longitude": -122.16003429999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10812842839923997742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "City Hall Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJJWJdZ2G7j4AR5F36uT8-it8",
+      "formattedAddress": "918 Industrial Ave, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.422642599999996,
+        "longitude": -122.0983441
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16107755460668055012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cloudchef.co/",
+      "displayName": {
+        "text": "CloudChef",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc",
+      "formattedAddress": "642 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443916,
+        "longitude": -122.160191
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7492068501438780553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coconutspaloalto.com/",
+      "displayName": {
+        "text": "Coconuts Caribbean Restaurant & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Caribbean"
+    },
+    {
+      "id": "ChIJd0Absfi6j4ARJUQZcc5Tzu0",
+      "formattedAddress": "2605 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4343952,
+        "longitude": -122.1301177
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17135725778317165605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://comoestataqueria.net/",
+      "displayName": {
+        "text": "Como Esta Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJY5UIijm7j4ARPkLgY0DXJuI",
+      "formattedAddress": "538 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444609199999995,
+        "longitude": -122.16152839999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16295948973240238654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coupacafe.com/",
+      "displayName": {
+        "text": "Coupa Cafe - Ramona",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJgbClrTm7j4ARJhcj3TrrG9g",
+      "formattedAddress": "367 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4469366,
+        "longitude": -122.16094960000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15572298774614316838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.crepevine.com/?y_source=1_MTQ3MjMwNjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Crepevine Restaurants",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJU6Ckice7j4ARZKSms3jZOHA",
+      "formattedAddress": "3000 El Camino Real Building 5 Suite 100, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4209453,
+        "longitude": -122.14147290000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8086452243377071204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.crustsourdough.com/",
+      "displayName": {
+        "text": "CRUST Sourdough Deli (Palo Alto Square)",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJSwaMPEq7j4ARrdiph55BO04",
+      "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.446115500000005,
+        "longitude": -122.16106979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5637171507721001133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://paloalto.mycurrypizza.com/",
+      "displayName": {
+        "text": "Curry Pizza House Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJtUAJ_4q6j4ARjgupREDbjSo",
+      "formattedAddress": "3781 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4179259,
+        "longitude": -122.13161269999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3066347990385494926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.dasichuanrestaurant.com/",
+      "displayName": {
+        "text": "Da Sichuan Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ7ZNa4dG7j4ARszvuKU9_usY",
+      "formattedAddress": "2363 Birch St #B, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4278581,
+        "longitude": -122.14422800000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14319897943160535987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Daigo",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJe4kIFje7j4ARqb6yVqdp0tU",
+      "formattedAddress": "129 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444781899999995,
+        "longitude": -122.16510269999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15407493442622897833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.online/business/darbar-5",
+      "displayName": {
+        "text": "Darbar Indian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJxUf2lnm6j4AROxY8N4vkocM",
+      "formattedAddress": "4261 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4078109,
+        "longitude": -122.11998779999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14096799595224634939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://dinahshotel.com/",
+      "displayName": {
+        "text": "Dinah's Poolside Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJBVNwaxK6j4ARUPhWmCDHXYk",
+      "formattedAddress": "799 San Antonio Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.420349699999996,
+        "longitude": -122.10223459999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9898286498838935632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dohatsutenramen.com/",
+      "displayName": {
+        "text": "Dohatsuten Ramen & Tapas",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJHz4XFiW7j4ARn0Db50n4L2k",
+      "formattedAddress": "855 El Camino Real #104, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4389992,
+        "longitude": -122.1588592
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7579549694194040991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cafedoucefrance.com/",
+      "displayName": {
+        "text": "Douce France",
+        "languageCode": "en"
+      },
+      "cuisine": "French"
+    },
+    {
+      "id": "ChIJEwdRVPO6j4ARcukXyQ4qM6o",
+      "formattedAddress": "3450 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.419122699999996,
+        "longitude": -122.1349592
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12264192453251688818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.driftwooddeliandmarket.com/",
+      "displayName": {
+        "text": "Driftwood Deli & Market",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ8zxNqPS6j4AR9anIFDW84PI",
+      "formattedAddress": "3487 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.419506399999996,
+        "longitude": -122.13469529999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17501195088129731061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dumplingcityca.com/",
+      "displayName": {
+        "text": "Dumpling City 水饺之城",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJwVXiPQ-7j4ARm5uHGNqN66U",
+      "formattedAddress": "530 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4454109,
+        "longitude": -122.161097
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11955805603639040923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.mealkeyway.com/customer/release/index?mid=4b4c333472657138707150773566592b3239424469673d3d#/main",
+      "displayName": {
+        "text": "Dumpling Hours-Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ84zhlRG6j4ARRHn_8eTSKj4",
+      "formattedAddress": "920 Commercial St, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.422913799999996,
+        "longitude": -122.099947
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4479624660127807812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "El Taco Ranchero",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJRTRAoc67j4ARM-MLNMDboBo",
+      "formattedAddress": "550 Waverley St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.44648120000001,
+        "longitude": -122.1599474
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1918775059813229363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ethelsfancypa.com/",
+      "displayName": {
+        "text": "Ethel's Fancy",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ4a0RmI67j4ARqr2S5nEYX2U",
+      "formattedAddress": "518 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4453864,
+        "longitude": -122.16135999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7304583998096981418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ettanrestaurant.com/",
+      "displayName": {
+        "text": "Ettan",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJByU8Zze7j4ARtKef7nHMEks",
+      "formattedAddress": "420 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4451287,
+        "longitude": -122.16379929999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5409610892132198324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.evvia.net/",
+      "displayName": {
+        "text": "Evvia Estiatorio",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJJS3eBO-6j4AR55CwERBNE34",
+      "formattedAddress": "2500 El Camino Real Suite 105, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4242609,
+        "longitude": -122.1449674
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9084689604748021991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.fambriniscafe.com/",
+      "displayName": {
+        "text": "Fambrini’s Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJ2VtDOzS7j4ARaKOgGvJXoJ4",
+      "formattedAddress": "180 El Camino Real G-2, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.44457,
+        "longitude": -122.17032979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11430232551606756200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.flemingssteakhouse.com/Locations/CA/Palo-Alto?y_source=1_MTU1MDMxNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Fleming’s Prime Steakhouse & Wine Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse"
+    },
+    {
+      "id": "ChIJ5Q2_GWO6j4AREsesK8JkKW4",
+      "formattedAddress": "4119 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413888899999996,
+        "longitude": -122.1258333
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7937986603336386322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://fukisushi.com/",
+      "displayName": {
+        "text": "Fuki Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ90rubDS7j4AR7pLFdYlNGU4",
+      "formattedAddress": "660 Stanford Shopping Center #244B, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.442727399999995,
+        "longitude": -122.1705035
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5627614462157886190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.gofishpokebar.com/",
+      "displayName": {
+        "text": "Go Fish Poke Bar- Stanford Shopping Center",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJP_XllSS7j4ARhy2W_qw79aQ",
+      "formattedAddress": "855 El Camino Real #65, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4379565,
+        "longitude": -122.1598063
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11886472405705960839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://gotts.com/",
+      "displayName": {
+        "text": "Gott's",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ-Z6WDW26j4ARvRm_XzDSf3o",
+      "formattedAddress": "3950 Middlefield Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.418678299999996,
+        "longitude": -122.10912849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8827004899876084157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.greenelephantgourmet.com/",
+      "displayName": {
+        "text": "Green Elephant Gourmet",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJZ-fddRO7j4AR_0Gsc_U5HbQ",
+      "formattedAddress": "855 El Camino Real #161, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.439176499999995,
+        "longitude": -122.1581733
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12978593427522077183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hatchedbites.com/",
+      "displayName": {
+        "text": "Hatched",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJB6tydHK7j4ARMYHQSAGD5ig",
+      "formattedAddress": "544 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439995,
+        "longitude": -122.1620763
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2947187047700398385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://linktr.ee/teapot_inc",
+      "displayName": {
+        "text": "HE&C Tea + Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJh6RQtJa7j4AR-KdyKoeGyQ4",
+      "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4461225,
+        "longitude": -122.16108659999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1065530701940697080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hiddentapandbarrel.com/",
+      "displayName": {
+        "text": "Hidden Tap And Barrel Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJzUCJ5Hu6j4ARglde9co9EK8",
+      "formattedAddress": "4224 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.408964999999995,
+        "longitude": -122.12244109999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12614650498174048130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hobees.com/",
+      "displayName": {
+        "text": "Hobee's",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJcymZ93y7j4ARGg6qXQT9Adc",
+      "formattedAddress": "3441 Alma St Suite 100, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4191895,
+        "longitude": -122.12491339999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15492942388324339226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.holysushi.org/",
+      "displayName": {
+        "text": "Holy Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJtRLy85ywj4AR38KYK7uJ0Yc",
+      "formattedAddress": "3691 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4184801,
+        "longitude": -122.13286660000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9786754902236119775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hongkongrestaurantpl.com/",
+      "displayName": {
+        "text": "Hong Kong Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJkTR5DEy7j4ARg9mfRMQbDQc",
+      "formattedAddress": "855 El Camino Real Ste 151, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4390997,
+        "longitude": -122.15842599999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=508092862741600643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.horsefeather.com/",
+      "displayName": {
+        "text": "Horsefeather Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJHz4XFiW7j4AR4OCRJ5FPWnQ",
+      "formattedAddress": "855 El Camino Real #60, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.438029,
+        "longitude": -122.160035
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8384101141156323552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.howiesartisanpizza.com/",
+      "displayName": {
+        "text": "Howie's Artisan Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJw9v7bFC7j4ARqHLv-7H0mZQ",
+      "formattedAddress": "715 Stanford Shopping Center, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4427416,
+        "longitude": -122.17288519999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10707858634323227304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://eatathummus.com/",
+      "displayName": {
+        "text": "Hummus Mediterranean Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJBxeyFAC7j4ARQqr2OhsHIfA",
+      "formattedAddress": "460 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4455552,
+        "longitude": -122.16287459999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17303119056868911682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ikiomakasepaloalto.com/",
+      "displayName": {
+        "text": "Iki Omakase",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJq0UsRXS7j4ARiC9b0hTPMjg",
+      "formattedAddress": "151 California Ave unit e, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428383,
+        "longitude": -122.14229350000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4049526703294984072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.imperialtreasurepaloalto.com/",
+      "displayName": {
+        "text": "Imperial treasure",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJC89ba1Vk3IAR76YZVUjy_gw",
+      "formattedAddress": "3295 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4209587,
+        "longitude": -122.1369645
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=936452165018953455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://indorestaurant.com/",
+      "displayName": {
+        "text": "INDO Restaurant & Lounge",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJmVLGgvi6j4ARTTuCWlOncSk",
+      "formattedAddress": "2710 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.433177799999996,
+        "longitude": -122.12942319999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2986352004365957965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.indochineca.com/",
+      "displayName": {
+        "text": "Indochine",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJC3GmmeW6j4ARj7GQjerUWUY",
+      "formattedAddress": "341 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426967999999995,
+        "longitude": -122.144055
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5069316959444709775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.italicorestaurant.com/",
+      "displayName": {
+        "text": "iTalico",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJ06EYWO-6j4AR5x1zss9iick",
+      "formattedAddress": "477 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425408399999995,
+        "longitude": -122.14532919999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14522247117624516071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.izzysbrooklynbagels.com/%20%20%20%20%20https://izzysbb.square.site/#4",
+      "displayName": {
+        "text": "Izzy's Brooklyn Bagels",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJIdvn8OW6j4ARLuSJEAHBDoY",
+      "formattedAddress": "454 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425861999999995,
+        "longitude": -122.14545299999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9659870461072892974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.jinshorestaurant.com/",
+      "displayName": {
+        "text": "Jin Sho",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJK3g59OW6j4AR5Q5CCNShy3o",
+      "formattedAddress": "405 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4263889,
+        "longitude": -122.14455830000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8848343824943156965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://joaniescafepaloalto.com/",
+      "displayName": {
+        "text": "Joanie's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJqQzX9eW6j4ARRQTr9028s7k",
+      "formattedAddress": "451 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425717399999996,
+        "longitude": -122.1451083
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13381245960905753669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.kaligreekkitchen.com/",
+      "displayName": {
+        "text": "Kali Greek Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJ0dOudwC7j4AREfbInswM9lA",
+      "formattedAddress": "4131 El Camino Way, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413880299999995,
+        "longitude": -122.124792
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5833864440281888273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kanjisushiramen.menu11.com/",
+      "displayName": {
+        "text": "Kanji Sushi & Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJMcUKNDi7j4AREnV3Wx48tZg",
+      "formattedAddress": "330 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4470525,
+        "longitude": -122.16237349999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11003767365630915858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kanpaipaloalto.com/",
+      "displayName": {
+        "text": "Kanpai",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJbxXHNb-7j4ARBRYRzHaw37A",
+      "formattedAddress": "339 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4465508,
+        "longitude": -122.1613223
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12745099494758094341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.khazanapaloalto.com/",
+      "displayName": {
+        "text": "Khazana by Chef Sanjeev Kapoor",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJc5w7vvy6j4ARAFnKDu5CVRI",
+      "formattedAddress": "2680 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4334804,
+        "longitude": -122.13011600000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1321035655920900352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.kirks-steakburgers.com/?utm_source=gmb&utm_medium=organic&utm_campaign=palo+alto",
+      "displayName": {
+        "text": "Kirk's SteakBurgers - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJRbsp9uW6j4ARyUJHxK7xFX8",
+      "formattedAddress": "463 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4254329,
+        "longitude": -122.1452003
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9157491150247379657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.labodeguita.com/",
+      "displayName": {
+        "text": "La Bodeguita del Medio",
+        "languageCode": "en"
+      },
+      "cuisine": "Caribbean"
+    },
+    {
+      "id": "ChIJp_VW7eW6j4ARpcOR4xWV7bo",
+      "formattedAddress": "415 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4262194,
+        "longitude": -122.1446667
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13469585981779854245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.labohemepaloalto.com/",
+      "displayName": {
+        "text": "La Boheme",
+        "languageCode": "en"
+      },
+      "cuisine": "French"
+    },
+    {
+      "id": "ChIJX2dDTkW7j4ARFo59XEuoaPk",
+      "formattedAddress": "3906 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4192296,
+        "longitude": -122.11039539999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17971799354649710102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lequyorg.wordpress.com/",
+      "displayName": {
+        "text": "LeQuy",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJScdLwDm7j4ARCbo6bng01sU",
+      "formattedAddress": "271 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445838599999995,
+        "longitude": -122.16219160000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14255639362337946121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.localunion271.com/",
+      "displayName": {
+        "text": "Local Union 271",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJEWzP8uW6j4ARv-d5dhqlvk8",
+      "formattedAddress": "425 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4260752,
+        "longitude": -122.14474440000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5746211707646764991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.lotusthaibistro.com/home",
+      "displayName": {
+        "text": "Lotus Thai Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJG7rdAmS7j4ARayztR1t8nNg",
+      "formattedAddress": "488 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4480031,
+        "longitude": -122.15927529999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15608487140049890411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.louandherberts.com/?y_source=1_MTA2Njc4ODczNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "displayName": {
+        "text": "Lou & Herbert's",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJq2vyQB67j4ARBkHWA8vFNqU",
+      "formattedAddress": "420 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4458957,
+        "longitude": -122.1632956
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11904920140733890822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.macarenarestaurant.com/",
+      "displayName": {
+        "text": "Macarena Restaurant in Palo Alto",
+        "languageCode": "es"
+      },
+      "cuisine": "Spanish"
+    },
+    {
+      "id": "ChIJQSEisjC7j4AR3juLmOBOEys",
+      "formattedAddress": "27 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4430264,
+        "longitude": -122.16552460000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3103911294727306206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://macpark.com/?utm_source=google",
+      "displayName": {
+        "text": "MacArthur Park Restaurant and Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJK7u-fDi7j4ARObxmEVWASuE",
+      "formattedAddress": "499 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.449140899999996,
+        "longitude": -122.1607321
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16233928909662895161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mademoisellecolette.com/",
+      "displayName": {
+        "text": "Mademoiselle Colette",
+        "languageCode": "en"
+      },
+      "cuisine": "French"
+    },
+    {
+      "id": "ChIJ3TuFfAC7j4ARKtxjkDxyt8s",
+      "formattedAddress": "1497 1/2 E Bayshore Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.4629234,
+        "longitude": -122.1440096
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14679327114883488810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Marcella La Pupuseria",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJhdRF_Zq7j4ARNcQ9kDH1444",
+      "formattedAddress": "383 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.447201799999995,
+        "longitude": -122.16081659999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10296342766321255477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.marugameudon.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+      "displayName": {
+        "text": "Marugame Udon",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJEWzP8uW6j4ARkmIR7vba8es",
+      "formattedAddress": "433 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426045599999995,
+        "longitude": -122.1448464
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17001610822391259794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mediterraneanwraps.com/?utm_source=google",
+      "displayName": {
+        "text": "Mediterranean Wraps",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJH_zZcy-7j4ARwPbn3XT47A4",
+      "formattedAddress": "167 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443697799999995,
+        "longitude": -122.16209699999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1075507591857567424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mendocinofarms.com/locations/palo-alto",
+      "displayName": {
+        "text": "Mendocino Farms",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJgfDze5W7j4ARwXfuLNFJ6jM",
+      "formattedAddress": "640 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4432991,
+        "longitude": -122.16098969999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3740883603235436481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.meyhouserestaurant.com/",
+      "displayName": {
+        "text": "Meyhouse & Meyhouse Jazz Club",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish"
+    },
+    {
+      "id": "ChIJAQDASDq7j4ARmCZUEs0AJD4",
+      "formattedAddress": "632 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4433231,
+        "longitude": -122.161034
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4477704810288916120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mezekebab.com/",
+      "displayName": {
+        "text": "Meze Kebab",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJ1QZb_YW7j4ARtxp0qRa2n-o",
+      "formattedAddress": "2305 El Camino Real suite a, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4257573,
+        "longitude": -122.14644109999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16906431734620625591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mjsushi.net/",
+      "displayName": {
+        "text": "MJ Sushi Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJE4gDeLG7j4AR_kI1Gek5x9E",
+      "formattedAddress": "447 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425763599999996,
+        "longitude": -122.1449994
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15116114347605443326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://namasteindiabistro.com/",
+      "displayName": {
+        "text": "Namaste Indian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJq6oGtOW6j4AROUSVKcfXF0k",
+      "formattedAddress": "2323 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4279112,
+        "longitude": -122.14446710000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5266915539629196345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://naschmarktpaloalto.com/",
+      "displayName": {
+        "text": "Naschmarkt - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian"
+    },
+    {
+      "id": "ChIJiZtnUze7j4ARuAzIjrVxmsM",
+      "formattedAddress": "125 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439807,
+        "longitude": -122.1637183
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14094703008407882936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "New York New York Sandwiches",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ0y2QeTm7j4ARoys6DSP_0k4",
+      "formattedAddress": "325 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4455148,
+        "longitude": -122.16014190000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5679882606078471075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.newyorkpizzapaloalto.com/",
+      "displayName": {
+        "text": "New York Pizza Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJofIvZUq7j4ARjUq2CGrWy74",
+      "formattedAddress": "322 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4461163,
+        "longitude": -122.16103849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13748318038379612813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.nickthegreek.com/",
+      "displayName": {
+        "text": "Nick The Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJIxzPPjq7j4ARKDndKncRuwU",
+      "formattedAddress": "180 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4437193,
+        "longitude": -122.16147029999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=412942994352453928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.noburestaurants.com/paloalto/home/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
+      "displayName": {
+        "text": "Nobu Restaurant Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJdwmtjjm7j4ARuuLA95wq7wQ",
+      "formattedAddress": "535 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4449386,
+        "longitude": -122.1614268
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=355549749245436602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nolas.com/",
+      "displayName": {
+        "text": "Nola",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJweDvIRm7j4AR8IWnMD_jNrI",
+      "formattedAddress": "452 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4476055,
+        "longitude": -122.1595835
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12841701248032278000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.o2-valley.com/palo-alto/menu",
+      "displayName": {
+        "text": "O2 Valley",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJYZChWOa6j4ARo-N9ldn_yos",
+      "formattedAddress": "2111 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427065,
+        "longitude": -122.14805059999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10073144826548577187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://odorisushistanford.com/",
+      "displayName": {
+        "text": "Odori Japanese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ0wzVVCC7j4ARETETP1JS-5M",
+      "formattedAddress": "205 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4449633,
+        "longitude": -122.1628192
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10663207055928799505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.oklavacafe.com/",
+      "displayName": {
+        "text": "Oklava Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish"
+    },
+    {
+      "id": "ChIJz1CaiuS7j4ARJ0FvNTILUoo",
+      "formattedAddress": "164 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4442218,
+        "longitude": -122.163046
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9967041235597082919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.onigilly.com/",
+      "displayName": {
+        "text": "Onigilly Japanese Kitchen - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ361H6jm7j4ARk1vmz_dEqwE",
+      "formattedAddress": "261 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4456966,
+        "longitude": -122.16222820000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=120265646191041427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orenshummus.com/",
+      "displayName": {
+        "text": "Oren's Hummus",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern"
+    },
+    {
+      "id": "ChIJe858WAS7j4AR3SYscE3OsZU",
+      "formattedAddress": "855 El Camino Real #162, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4391487,
+        "longitude": -122.15807369999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10786629414518793949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.orenshummusexpress.com/",
+      "displayName": {
+        "text": "Orens Hummus Express",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern"
+    },
+    {
+      "id": "ChIJPwEoJjq7j4AR4Ymjl9MBLUw",
+      "formattedAddress": "247 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444444,
+        "longitude": -122.16116709999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5489045529128307169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.osteriatoscanapaloalto.com/",
+      "displayName": {
+        "text": "Osteria Toscana",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJJzcXtnO7j4ARGsdmlyvEgYI",
+      "formattedAddress": "711 Stanford Shopping Center, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4427423,
+        "longitude": -122.1729721
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9404013188429039386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pacificcatch.com/",
+      "displayName": {
+        "text": "Pacific Catch",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood"
+    },
+    {
+      "id": "ChIJyaiRIjq7j4ARpFp0WP-WoNA",
+      "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4438785,
+        "longitude": -122.16178900000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15033181579607562916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.paloaltocreamery.com/",
+      "displayName": {
+        "text": "Palo Alto Creamery",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ3dmr7OW6j4ARdga458ttjlg",
+      "formattedAddress": "408 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4266169,
+        "longitude": -122.14491950000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6381158444563957366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.solrestaurantsca.com/",
+      "displayName": {
+        "text": "Palo Alto Sol",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJdas5PTq7j4ARyZEoz7vVmg0",
+      "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4438785,
+        "longitude": -122.16178900000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=980330871517647305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.paloaltocreamery.com/",
+      "displayName": {
+        "text": "Peninsula Fountain Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJT_HstGa7j4ARLGiY5dPGJDg",
+      "formattedAddress": "185 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444708899999995,
+        "longitude": -122.16304019999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4045576978677917740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.phohanoiusa.com/",
+      "displayName": {
+        "text": "Phở Hà Nội",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJo6Vgo226j4ARtyvUj7a6Fy4",
+      "formattedAddress": "3922 Middlefield Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.4186066,
+        "longitude": -122.10979180000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3321328543468891063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://piazzaslovesfood.com/",
+      "displayName": {
+        "text": "Piazza's Fine Foods",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJCS4OBAC7j4AR3jawAgUTF3I",
+      "formattedAddress": "3864 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4170934,
+        "longitude": -122.1312946
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8221060557028996830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://222.pizzaguys.com/",
+      "displayName": {
+        "text": "Pizza Guys",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJN1Yf8Dm7j4ARg7totskx17E",
+      "formattedAddress": "220 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4448417,
+        "longitude": -122.16231940000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12814766007124540291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzamyheart.com/",
+      "displayName": {
+        "text": "Pizza My Heart",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJCS_HTDq7j4ARskXdL5usfsU",
+      "formattedAddress": "651 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4434222,
+        "longitude": -122.1604222
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14231001655060284850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzeriadelfina.com/location/palo-alto/",
+      "displayName": {
+        "text": "Pizzeria Delfina - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJHUVxbf67j4ARDeXKRT7FmeA",
+      "formattedAddress": "855 El Camino Real #9, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4384958,
+        "longitude": -122.16064029999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16184183607182157069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.poke.house/locations/poke-el-camino-palo-alto",
+      "displayName": {
+        "text": "Poke House - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJ14CVruW6j4ARoh-i6iIAe5g",
+      "formattedAddress": "250 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427836,
+        "longitude": -122.14382429999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10987375865865838498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.protegepaloalto.com/",
+      "displayName": {
+        "text": "Protégé",
+        "languageCode": "en"
+      },
+      "cuisine": "French"
+    },
+    {
+      "id": "ChIJq6Jj6y-7j4ARmkaTCtvuosg",
+      "formattedAddress": "445 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4257831,
+        "longitude": -122.1449662
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14457380378355386010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ramenkowa.com/",
+      "displayName": {
+        "text": "Ramen Kowa",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJR1988Qm7j4ARi_KmggVETuc",
+      "formattedAddress": "541 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4454813,
+        "longitude": -122.16072450000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16667334061402288779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ramennagiusa.com/",
+      "displayName": {
+        "text": "Ramen Nagi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJmWwu4jm7j4ARtbXJ6I2CZrg",
+      "formattedAddress": "445 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445076300000004,
+        "longitude": -122.1631074
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13287451296610760117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://rangoonrubypa.com/",
+      "displayName": {
+        "text": "Rangoon Ruby Burmese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Burmese"
+    },
+    {
+      "id": "ChIJeYSESRq7j4AREj5yWWRdjrc",
+      "formattedAddress": "201 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428218,
+        "longitude": -122.14306999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13226611841212497426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rararestaurant.com/",
+      "displayName": {
+        "text": "Rara",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJlSPd8w67j4ARZy6_cUeyGng",
+      "formattedAddress": "501 Oxford Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4265576,
+        "longitude": -122.1484342
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8654425653866606183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://realmediterraneankitchen.com/",
+      "displayName": {
+        "text": "Real Mediterranean Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJt-5IyBa7j4ARD5iJZz4Ay0Y",
+      "formattedAddress": "450 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4462476,
+        "longitude": -122.1624397
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5101171270952261647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.avenidas.org/programs/cafe/",
+      "displayName": {
+        "text": "Redwood Café by Chef Julien",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJY0yKLzq7j4ARNNLYPbJMgN8",
+      "formattedAddress": "236 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4441583,
+        "longitude": -122.1609667
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16104956595902403124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.reposadorestaurant.com/",
+      "displayName": {
+        "text": "Reposado",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJxQENlQ67j4AReETtyacmZA4",
+      "formattedAddress": "180 El Camino Real Building B, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4447784,
+        "longitude": -122.17224119999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1036996316291220600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rh.com/paloalto/restaurant",
+      "displayName": {
+        "text": "RH Rooftop Restaurant at RH Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJD_pTEsy7j4ARmC6OuQ2GZ0k",
+      "formattedAddress": "473 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4481323,
+        "longitude": -122.15981430000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5289343680875736728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roohrestaurants.com/",
+      "displayName": {
+        "text": "ROOH Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJrTBLD1K7j4ARMNQr2bMszJ0",
+      "formattedAddress": "855 El Camino Real #157, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4392357,
+        "longitude": -122.1583252
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11370512310157956144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.roostandroast.com/",
+      "displayName": {
+        "text": "Roost & Roast",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJxRoy-X27j4AR_bK2I_FqBVg",
+      "formattedAddress": "115 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443025299999995,
+        "longitude": -122.16261410000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6342593234140050173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sanagus.com/",
+      "displayName": {
+        "text": "San Agus Cocina Urbana & Cocktails",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU",
+      "formattedAddress": "491 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4489978,
+        "longitude": -122.1608828
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google",
+      "displayName": {
+        "text": "Sancho's Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJc1ATKFa6j4ARZQoyTzpy0-8",
+      "formattedAddress": "2723 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.433534099999996,
+        "longitude": -122.12897609999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17281281789913074277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google",
+      "displayName": {
+        "text": "Sancho's Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg",
+      "formattedAddress": "417 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426165000000005,
+        "longitude": -122.1446335
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8702456324778615288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sekoyapaloalto.com/",
+      "displayName": {
+        "text": "Sekoya Lounge & Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJB3hVsb67j4ARXMaL06rl50c",
+      "formattedAddress": "3398 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4194321,
+        "longitude": -122.1356069
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5181362418169398876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.showdecarnes.com/",
+      "displayName": {
+        "text": "Show de Carnes Brazilian Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Brazilian"
+    },
+    {
+      "id": "ChIJF-8UBYq6j4AR5FBD89Ka32Y",
+      "formattedAddress": "3924 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.41637,
+        "longitude": -122.12979109999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7412813742490210532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.siamfinethaicuisine.com/",
+      "displayName": {
+        "text": "Siam Fine Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJs-mASty7j4ARGnTRbfH7NBc",
+      "formattedAddress": "444 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475699,
+        "longitude": -122.15975949999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1672238376009430042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.simmer-steamer.com/",
+      "displayName": {
+        "text": "Simmer & Steamer",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJtWFrFmO6j4ARbA4cFdc8mG0",
+      "formattedAddress": "4127 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413779999999996,
+        "longitude": -122.125402
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7897128841063960172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://paloaltotofuhouse.square.site/",
+      "displayName": {
+        "text": "So Gong Dong Tofu House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJaeHk_jm7j4ARZfXh674aljg",
+      "formattedAddress": "168 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444269399999996,
+        "longitude": -122.16286670000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4077475919934125413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cafesprout.com/",
+      "displayName": {
+        "text": "Sprout Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan"
+    },
+    {
+      "id": "ChIJ_UjdV--7j4ARt2YRSWk7iZU",
+      "formattedAddress": "369 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426696899999996,
+        "longitude": -122.14417370000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10775208906844104375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://squarepieguys.com/",
+      "displayName": {
+        "text": "Square Pie Guys",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJg5-D9Aq7j4ARGDDPZcQFjmg",
+      "formattedAddress": "3850 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4171877,
+        "longitude": -122.13138039999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7533965567717224472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://stateofmindslicehouse.com/",
+      "displayName": {
+        "text": "State of Mind Slice House",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJ-a6t5Tm7j4ARsEz4451NPDk",
+      "formattedAddress": "209 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4450435,
+        "longitude": -122.1628635
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4124256699294436528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://steampaloalto.com/",
+      "displayName": {
+        "text": "Steam",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ8RX-6uW6j4ARyxo26LXPQ0k",
+      "formattedAddress": "406 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.42663900000001,
+        "longitude": -122.14495509999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5279291568400243403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sunofwolfpa.com/",
+      "displayName": {
+        "text": "SUN of WOLF",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJaWnuL-e6j4ARR6YIY348nZk",
+      "formattedAddress": "1921 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428562,
+        "longitude": -122.14967199999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11069069972671604295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sundancethesteakhouse.com/",
+      "displayName": {
+        "text": "Sundance The Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse"
+    },
+    {
+      "id": "ChIJHz4XFiW7j4AR5t10topddew",
+      "formattedAddress": "855 El Camino Real Ste 158, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4392636,
+        "longitude": -122.1582398
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17038627615574121958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sushihouse855.com/",
+      "displayName": {
+        "text": "Sushi House",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ-cKKzxa7j4ARMboigp4Thvk",
+      "formattedAddress": "180 El Camino Real #700a, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443218,
+        "longitude": -122.172501
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17980080133832358449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushiroku.com/",
+      "displayName": {
+        "text": "Sushi Roku Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJgSKtATq7j4AR1LVZ7VN8W3I",
+      "formattedAddress": "150 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443996999999996,
+        "longitude": -122.162979
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8240316643110663636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetmaplesf.com/",
+      "displayName": {
+        "text": "Sweet Maple",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJUYJ9Ejm7j4AR10nzVhZIoYo",
+      "formattedAddress": "560 Waverley St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.446472199999995,
+        "longitude": -122.1596583
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9989344709269735895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://taipanpaloalto.com/",
+      "displayName": {
+        "text": "Tai Pan",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJwWcdxzi7j4ARSPpV37nhr58",
+      "formattedAddress": "546 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4488748,
+        "longitude": -122.15841719999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11506663761387059784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tamarinerestaurant.com/",
+      "displayName": {
+        "text": "Tamarine Restaurant & Gallery",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJsZYrFAC7j4ARgZiNdSEjGsQ",
+      "formattedAddress": "461 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4450425,
+        "longitude": -122.16305779999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14130645407441459329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tanevegan.com/locations/palo-alto",
+      "displayName": {
+        "text": "Tane Vegan Izakaya",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ7f7sE4u6j4ARzIuv160J9jU",
+      "formattedAddress": "3636 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4182304,
+        "longitude": -122.13318509999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3888305970533600204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://taqueriaelgrullense.shop/",
+      "displayName": {
+        "text": "Taqueria El Grullense M&G",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJN1Zo_zi7j4ARIT2NbTuxNZQ",
+      "formattedAddress": "423 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475347,
+        "longitude": -122.1603022
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10679636960178158881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taste-paloalto.com/",
+      "displayName": {
+        "text": "Taste",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJg2K45--7j4ARb3QmTT7tfM4",
+      "formattedAddress": "443 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445152199999995,
+        "longitude": -122.16302990000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14879028120763397231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tastypotcalifornia.com/",
+      "displayName": {
+        "text": "Tasty Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJVVUFazu7j4ARLXVs7f4wu-M",
+      "formattedAddress": "800 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4422042,
+        "longitude": -122.1590523
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16409763538717668653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://tavernarestaurant.net/",
+      "displayName": {
+        "text": "TAVERNA",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJU-h6-Q27j4AReNRuzo2WlTM",
+      "formattedAddress": "855 El Camino Real #130, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4383765,
+        "longitude": -122.1583028
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3717042603262137464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.telefericbarcelona.com/",
+      "displayName": {
+        "text": "Telefèric Barcelona Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Spanish"
+    },
+    {
+      "id": "ChIJtXQ38-W6j4AR44dFBS3v120",
+      "formattedAddress": "448 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4259205,
+        "longitude": -122.14547429999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7915057846767945699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.terunpizza.com/",
+      "displayName": {
+        "text": "Terun Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJ-zxk19G7j4ARJqNjr1SADak",
+      "formattedAddress": "2450 Park Blvd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428022899999995,
+        "longitude": -122.14277039999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12181533668315210534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://dinefarmfresh.com/",
+      "displayName": {
+        "text": "The Farm",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJe5AqVr3Lj4AROFFL6ZwfRH0",
+      "formattedAddress": "4131 El Camino Real #100, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413300299999996,
+        "longitude": -122.1251502
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9026374311946703160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.themalawahbar.com/",
+      "displayName": {
+        "text": "The Ma'lawah Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern"
+    },
+    {
+      "id": "ChIJa4KZHam7j4ARndJA04xsjxU",
+      "formattedAddress": "2170 W Bayshore Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.448261200000005,
+        "longitude": -122.12565610000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1553579748561572509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://marketatedgewood.com/",
+      "displayName": {
+        "text": "THE MARKET AT EDGEWOOD",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJD9VYOzS7j4ARus4pfa0zkJU",
+      "formattedAddress": "180 El Camino Real, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443094699999996,
+        "longitude": -122.17259729999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10777170728519847610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.themelt.com/",
+      "displayName": {
+        "text": "The Melt",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJiXr_Zze7j4ARgRtbgk7Len4",
+      "formattedAddress": "412 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4451556,
+        "longitude": -122.16393889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9113820333992516481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thepatiopa.com/",
+      "displayName": {
+        "text": "The Patio @ Rudy's",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJRzi6GDq7j4ARVC4ZzH-ZgJU",
+      "formattedAddress": "547 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4444157,
+        "longitude": -122.16174609999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10772779082834325076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://therosepa.com/",
+      "displayName": {
+        "text": "The Rose & Crown",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJOT4Wp3m6j4ARL_3gCaC-HJ0",
+      "formattedAddress": "4269 W El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4075646,
+        "longitude": -122.1205417
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11321133157872368943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.theseausa.com/",
+      "displayName": {
+        "text": "The Sea by Alexander's Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse"
+    },
+    {
+      "id": "ChIJGaMq8zm7j4ARYe6wItroPNY",
+      "formattedAddress": "520 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4448271,
+        "longitude": -122.16193469999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15437469646301752929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thepawineroom.com/",
+      "displayName": {
+        "text": "The Wine Room",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar"
+    },
+    {
+      "id": "ChIJrW5Qkga7j4ARq0q-MRGHCjw",
+      "formattedAddress": "3345 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4202733,
+        "longitude": -122.1360386
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4326418899961531051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tiemuzhencuisine.fronteats.com/#/pos/order/index?channelOrderingId=3",
+      "displayName": {
+        "text": "Tie Mu Zhen Cuisine 铁木真内蒙菜",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJgVkH4BO7j4AR9Qj0HVCbuy8",
+      "formattedAddress": "540 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445247099999996,
+        "longitude": -122.16098969999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3439513508829726965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tongsui.us/",
+      "displayName": {
+        "text": "Tong Sui Desserts & Drinks (Palo Alto)",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJexdrvjK7j4AR--GDhkDzYds",
+      "formattedAddress": "700 Welch Rd, Palo Alto, CA 94305, USA",
+      "location": {
+        "latitude": 37.437217,
+        "longitude": -122.173251
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15808183625507398139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tootsiesbarn.com/",
+      "displayName": {
+        "text": "Tootsie's At The Stanford Barn",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJt9KIrTW7j4ARjb1bTp5MW-E",
+      "formattedAddress": "180 El Camino Real Ste 1140, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443920999999996,
+        "longitude": -122.17032299999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16238657124217634189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.truefoodkitchen.com/locations/paloalto/",
+      "displayName": {
+        "text": "True Food Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan"
+    },
+    {
+      "id": "ChIJGe-xIgC7j4ARqZPigyQDpDE",
+      "formattedAddress": "448 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475872,
+        "longitude": -122.15963889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3576987459405386665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Urban Momo",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJISfg6jK7j4AR1QjILutJPms",
+      "formattedAddress": "700 Welch Rd #110, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.437207199999996,
+        "longitude": -122.17326430000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7727695285065353429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.vinaenoteca.com/",
+      "displayName": {
+        "text": "Vina Enoteca",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJ2S5OXzi7j4ARGnV-XOyU-4g",
+      "formattedAddress": "431 Kipling St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.448325,
+        "longitude": -122.1604148
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9870646751197558042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://vinolocale.com/",
+      "displayName": {
+        "text": "Vino Locale",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar"
+    },
+    {
+      "id": "ChIJ82AEPzi7j4ARaPsjO4AFqR8",
+      "formattedAddress": "South, 855 El Camino Real Building 4, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4382288,
+        "longitude": -122.1587727
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2281360734546033512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://wildseedsf.com/",
+      "displayName": {
+        "text": "Wildseed",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan"
+    },
+    {
+      "id": "ChIJk0N57Sm7j4ARq4jfPi88hKY",
+      "formattedAddress": "180 Stanford Shopping Center Unit 240-C, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4425494,
+        "longitude": -122.1705679
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11998781480837810347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://worldwrapps.com/",
+      "displayName": {
+        "text": "World Wrapps",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJpTk-VTi7j4ARpZhH_XR68_I",
+      "formattedAddress": "403 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4473827,
+        "longitude": -122.1604918
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17506470819403372709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.yayoi-us.com/",
+      "displayName": {
+        "text": "YAYOI Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
       "id": "opening_yutori",
       "formattedAddress": "3375 El Camino Real, Palo Alto, CA 94306, USA",
       "location": {
@@ -5546,6 +7901,21 @@ var PREBAKED_DATA_SOUTH = {
       "description": "A California-inspired Japanese cafe and konbini serving matcha drinks, fresh onigiri, seasonal bentos, and sandwiches daily in a thoughtfully designed space.",
       "menuUrl": "https://yutori-pa.com",
       "priceRange": "$$"
+    },
+    {
+      "id": "ChIJcx9Pl-W6j4ARcUXBVpDCqUE",
+      "formattedAddress": "365 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4267457,
+        "longitude": -122.14408219999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4731526808716002673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://zareensrestaurant.com/",
+      "displayName": {
+        "text": "Zareen's Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
     },
     {
       "id": "opening_zaytinya",
@@ -5576,1386 +7946,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$$"
     },
     {
-      "id": "ChIJC3GmmeW6j4ARj7GQjerUWUY",
-      "formattedAddress": "341 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.426967999999995,
-        "longitude": -122.144055
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5069316959444709775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.italicorestaurant.com/",
-      "displayName": {
-        "text": "iTalico",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJPwEoJjq7j4AR4Ymjl9MBLUw",
-      "formattedAddress": "247 Hamilton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.444444,
-        "longitude": -122.16116709999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5489045529128307169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.osteriatoscanapaloalto.com/",
-      "displayName": {
-        "text": "Osteria Toscana",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJISfg6jK7j4AR1QjILutJPms",
-      "formattedAddress": "700 Welch Rd #110, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.437207199999996,
-        "longitude": -122.17326430000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7727695285065353429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.vinaenoteca.com/",
-      "displayName": {
-        "text": "Vina Enoteca",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJ8QesCuW6j4ARfJfR8qxpWzE",
-      "formattedAddress": "2437 Birch St, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.427287,
-        "longitude": -122.14339079999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3556552522268252028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.cafeprobono.com/",
-      "displayName": {
-        "text": "Cafe Pro Bono",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJCS_HTDq7j4ARskXdL5usfsU",
-      "formattedAddress": "651 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4434222,
-        "longitude": -122.1604222
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14231001655060284850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.pizzeriadelfina.com/location/palo-alto/",
-      "displayName": {
-        "text": "Pizzeria Delfina - Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJtXQ38-W6j4AR44dFBS3v120",
-      "formattedAddress": "448 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4259205,
-        "longitude": -122.14547429999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7915057846767945699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.terunpizza.com/",
-      "displayName": {
-        "text": "Terun Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJEQbMSzq7j4ARCIzIQRU45og",
-      "formattedAddress": "643 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4435214,
-        "longitude": -122.1605738
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9864633697750780936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://dineatbuca.com/locations/palo-alto/?utm_campaign=local&utm_source=gbp&utm_medium=organic&utm_content=palo-alto",
-      "displayName": {
-        "text": "Buca di Beppo Italian Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJm8EK_e-6j4ARgml6h3Srj60",
-      "formattedAddress": "200 Sheridan Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4267836,
-        "longitude": -122.1405856
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12506403207208659330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cafferiace.com/",
-      "displayName": {
-        "text": "Caffe Riace",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJexdrvjK7j4AR--GDhkDzYds",
-      "formattedAddress": "700 Welch Rd, Palo Alto, CA 94305, USA",
-      "location": {
-        "latitude": 37.437217,
-        "longitude": -122.173251
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15808183625507398139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.tootsiesbarn.com/",
-      "displayName": {
-        "text": "Tootsie's At The Stanford Barn",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJdwmtjjm7j4ARuuLA95wq7wQ",
-      "formattedAddress": "535 Ramona St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4449386,
-        "longitude": -122.1614268
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=355549749245436602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.nolas.com/",
-      "displayName": {
-        "text": "Nola",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJRTRAoc67j4ARM-MLNMDboBo",
-      "formattedAddress": "550 Waverley St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.44648120000001,
-        "longitude": -122.1599474
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1918775059813229363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ethelsfancypa.com/",
-      "displayName": {
-        "text": "Ethel's Fancy",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJU-h6-Q27j4AReNRuzo2WlTM",
-      "formattedAddress": "855 El Camino Real #130, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4383765,
-        "longitude": -122.1583028
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3717042603262137464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.telefericbarcelona.com/",
-      "displayName": {
-        "text": "Telefèric Barcelona Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Spanish"
-    },
-    {
-      "id": "ChIJOzI3gjm7j4ARtGwnfAcuKaU",
-      "formattedAddress": "585 Bryant St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4453069,
-        "longitude": -122.16042180000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11901094099985853620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.zolapaloalto.com/",
-      "displayName": {
-        "text": "Zola + BarZola",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
-      "id": "ChIJ2S5OXzi7j4ARGnV-XOyU-4g",
-      "formattedAddress": "431 Kipling St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.448325,
-        "longitude": -122.1604148
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9870646751197558042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://vinolocale.com/",
-      "displayName": {
-        "text": "Vino Locale",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar"
-    },
-    {
-      "id": "ChIJi9iYmjm7j4AR904-JYOQQN4",
-      "formattedAddress": "335 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4464879,
-        "longitude": -122.1613445
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16014959167869439735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.bevri.com/",
-      "displayName": {
-        "text": "Bevri - Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Georgian"
-    },
-    {
-      "id": "ChIJ-cKKzxa7j4ARMboigp4Thvk",
-      "formattedAddress": "180 El Camino Real #700a, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.443218,
-        "longitude": -122.172501
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17980080133832358449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sushiroku.com/",
-      "displayName": {
-        "text": "Sushi Roku Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ0dOudwC7j4AREfbInswM9lA",
-      "formattedAddress": "4131 El Camino Way, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.413880299999995,
-        "longitude": -122.124792
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5833864440281888273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://kanjisushiramen.menu11.com/",
-      "displayName": {
-        "text": "Kanji Sushi & Ramen",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJsZYrFAC7j4ARgZiNdSEjGsQ",
-      "formattedAddress": "461 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4450425,
-        "longitude": -122.16305779999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14130645407441459329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.tanevegan.com/locations/palo-alto",
-      "displayName": {
-        "text": "Tane Vegan Izakaya",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJhdRF_Zq7j4ARNcQ9kDH1444",
-      "formattedAddress": "383 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.447201799999995,
-        "longitude": -122.16081659999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10296342766321255477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marugameudon.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
-      "displayName": {
-        "text": "Marugame Udon",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ7ZNa4dG7j4ARszvuKU9_usY",
-      "formattedAddress": "2363 Birch St #B, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4278581,
-        "longitude": -122.14422800000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14319897943160535987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Daigo",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJIxzPPjq7j4ARKDndKncRuwU",
-      "formattedAddress": "180 Hamilton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4437193,
-        "longitude": -122.16147029999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=412942994352453928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.noburestaurants.com/paloalto/home/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
-      "displayName": {
-        "text": "Nobu Restaurant Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJpTk-VTi7j4ARpZhH_XR68_I",
-      "formattedAddress": "403 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4473827,
-        "longitude": -122.1604918
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17506470819403372709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.yayoi-us.com/",
-      "displayName": {
-        "text": "YAYOI Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJIdvn8OW6j4ARLuSJEAHBDoY",
-      "formattedAddress": "454 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.425861999999995,
-        "longitude": -122.14545299999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9659870461072892974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.jinshorestaurant.com/",
-      "displayName": {
-        "text": "Jin Sho",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ5Q2_GWO6j4AREsesK8JkKW4",
-      "formattedAddress": "4119 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.413888899999996,
-        "longitude": -122.1258333
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7937986603336386322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://fukisushi.com/",
-      "displayName": {
-        "text": "Fuki Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ1QZb_YW7j4ARtxp0qRa2n-o",
-      "formattedAddress": "2305 El Camino Real suite a, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4257573,
-        "longitude": -122.14644109999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16906431734620625591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mjsushi.net/",
-      "displayName": {
-        "text": "MJ Sushi Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJYZChWOa6j4ARo-N9ldn_yos",
-      "formattedAddress": "2111 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.427065,
-        "longitude": -122.14805059999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10073144826548577187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://odorisushistanford.com/",
-      "displayName": {
-        "text": "Odori Japanese Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJBxeyFAC7j4ARQqr2OhsHIfA",
-      "formattedAddress": "460 Ramona St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4455552,
-        "longitude": -122.16287459999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17303119056868911682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ikiomakasepaloalto.com/",
-      "displayName": {
-        "text": "Iki Omakase",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJR1988Qm7j4ARi_KmggVETuc",
-      "formattedAddress": "541 Bryant St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4454813,
-        "longitude": -122.16072450000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16667334061402288779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.ramennagiusa.com/",
-      "displayName": {
-        "text": "Ramen Nagi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJMcUKNDi7j4AREnV3Wx48tZg",
-      "formattedAddress": "330 Lytton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4470525,
-        "longitude": -122.16237349999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11003767365630915858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://kanpaipaloalto.com/",
-      "displayName": {
-        "text": "Kanpai",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJL6eIury7j4ARRvbC__WInac",
-      "formattedAddress": "201 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.444894399999995,
-        "longitude": -122.1628303
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12077960365816870470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sushiaraki.com/",
-      "displayName": {
-        "text": "Araki Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJBVNwaxK6j4ARUPhWmCDHXYk",
-      "formattedAddress": "799 San Antonio Rd, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.420349699999996,
-        "longitude": -122.10223459999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9898286498838935632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dohatsutenramen.com/",
-      "displayName": {
-        "text": "Dohatsuten Ramen & Tapas",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg",
-      "formattedAddress": "417 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.426165000000005,
-        "longitude": -122.1446335
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8702456324778615288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sekoyapaloalto.com/",
-      "displayName": {
-        "text": "Sekoya Lounge & Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJY0yKLzq7j4ARNNLYPbJMgN8",
-      "formattedAddress": "236 Hamilton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4441583,
-        "longitude": -122.1609667
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16104956595902403124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.reposadorestaurant.com/",
-      "displayName": {
-        "text": "Reposado",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJxRoy-X27j4AR_bK2I_FqBVg",
-      "formattedAddress": "115 Hamilton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.443025299999995,
-        "longitude": -122.16261410000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6342593234140050173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sanagus.com/",
-      "displayName": {
-        "text": "San Agus Cocina Urbana & Cocktails",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJ8RX-6uW6j4ARyxo26LXPQ0k",
-      "formattedAddress": "406 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.42663900000001,
-        "longitude": -122.14495509999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5279291568400243403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sunofwolfpa.com/",
-      "displayName": {
-        "text": "SUN of WOLF",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ7f7sE4u6j4ARzIuv160J9jU",
-      "formattedAddress": "3636 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4182304,
-        "longitude": -122.13318509999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3888305970533600204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://taqueriaelgrullense.shop/",
-      "displayName": {
-        "text": "Taqueria El Grullense M&G",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJ3dmr7OW6j4ARdga458ttjlg",
-      "formattedAddress": "408 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4266169,
-        "longitude": -122.14491950000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6381158444563957366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.solrestaurantsca.com/",
-      "displayName": {
-        "text": "Palo Alto Sol",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJ7c_w_4q6j4ARF8QWNPNwbck",
-      "formattedAddress": "3740 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4175915,
-        "longitude": -122.13196810000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14514381363938247703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.celiasrestaurants.com/",
-      "displayName": {
-        "text": "Celia’s Mexican Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJRbsp9uW6j4ARyUJHxK7xFX8",
-      "formattedAddress": "463 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4254329,
-        "longitude": -122.1452003
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9157491150247379657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.labodeguita.com/",
-      "displayName": {
-        "text": "La Bodeguita del Medio",
-        "languageCode": "en"
-      },
-      "cuisine": "Caribbean"
-    },
-    {
-      "id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU",
-      "formattedAddress": "491 Lytton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4489978,
-        "longitude": -122.1608828
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google",
-      "displayName": {
-        "text": "Sancho's Taqueria",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJd0Absfi6j4ARJUQZcc5Tzu0",
-      "formattedAddress": "2605 Middlefield Rd, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4343952,
-        "longitude": -122.1301177
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17135725778317165605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://comoestataqueria.net/",
-      "displayName": {
-        "text": "Como Esta Taqueria",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJc1ATKFa6j4ARZQoyTzpy0-8",
-      "formattedAddress": "2723 Middlefield Rd, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.433534099999996,
-        "longitude": -122.12897609999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17281281789913074277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google",
-      "displayName": {
-        "text": "Sancho's Taqueria",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJ82AEPzi7j4ARaPsjO4AFqR8",
-      "formattedAddress": "South, 855 El Camino Real Building 4, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4382288,
-        "longitude": -122.1587727
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2281360734546033512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://wildseedsf.com/",
-      "displayName": {
-        "text": "Wildseed",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan"
-    },
-    {
-      "id": "ChIJN1Zo_zi7j4ARIT2NbTuxNZQ",
-      "formattedAddress": "423 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4475347,
-        "longitude": -122.1603022
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10679636960178158881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.taste-paloalto.com/",
-      "displayName": {
-        "text": "Taste",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJTamC_qi7j4ARMAC_ZB2hHMI",
-      "formattedAddress": "2180 W Bayshore Rd #120, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.448276899999996,
-        "longitude": -122.1261363
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13987231690322280496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.chefzhaokitchen.com/",
-      "displayName": {
-        "text": "Chef Zhao Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJq0UsRXS7j4ARiC9b0hTPMjg",
-      "formattedAddress": "151 California Ave unit e, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.428383,
-        "longitude": -122.14229350000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4049526703294984072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.imperialtreasurepaloalto.com/",
-      "displayName": {
-        "text": "Imperial treasure",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJtRLy85ywj4AR38KYK7uJ0Yc",
-      "formattedAddress": "3691 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4184801,
-        "longitude": -122.13286660000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9786754902236119775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://hongkongrestaurantpl.com/",
-      "displayName": {
-        "text": "Hong Kong Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJUYJ9Ejm7j4AR10nzVhZIoYo",
-      "formattedAddress": "560 Waverley St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.446472199999995,
-        "longitude": -122.1596583
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9989344709269735895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://taipanpaloalto.com/",
-      "displayName": {
-        "text": "Tai Pan",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJ-a6t5Tm7j4ARsEz4451NPDk",
-      "formattedAddress": "209 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4450435,
-        "longitude": -122.1628635
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4124256699294436528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://steampaloalto.com/",
-      "displayName": {
-        "text": "Steam",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJwVXiPQ-7j4ARm5uHGNqN66U",
-      "formattedAddress": "530 Bryant St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4454109,
-        "longitude": -122.161097
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11955805603639040923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.mealkeyway.com/customer/release/index?mid=4b4c333472657138707150773566592b3239424469673d3d#/main",
-      "displayName": {
-        "text": "Dumpling Hours-Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJtUAJ_4q6j4ARjgupREDbjSo",
-      "formattedAddress": "3781 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4179259,
-        "longitude": -122.13161269999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3066347990385494926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.dasichuanrestaurant.com/",
-      "displayName": {
-        "text": "Da Sichuan Bistro",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJrW5Qkga7j4ARq0q-MRGHCjw",
-      "formattedAddress": "3345 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4202733,
-        "longitude": -122.1360386
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4326418899961531051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://tiemuzhencuisine.fronteats.com/#/pos/order/index?channelOrderingId=3",
-      "displayName": {
-        "text": "Tie Mu Zhen Cuisine 铁木真内蒙菜",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJB6tydHK7j4ARMYHQSAGD5ig",
-      "formattedAddress": "544 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4439995,
-        "longitude": -122.1620763
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2947187047700398385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://linktr.ee/teapot_inc",
-      "displayName": {
-        "text": "HE&C Tea + Pot",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJ-Z6WDW26j4ARvRm_XzDSf3o",
-      "formattedAddress": "3950 Middlefield Rd, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.418678299999996,
-        "longitude": -122.10912849999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8827004899876084157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.greenelephantgourmet.com/",
-      "displayName": {
-        "text": "Green Elephant Gourmet",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJmWwu4jm7j4ARtbXJ6I2CZrg",
-      "formattedAddress": "445 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.445076300000004,
-        "longitude": -122.1631074
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13287451296610760117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://rangoonrubypa.com/",
-      "displayName": {
-        "text": "Rangoon Ruby Burmese Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Burmese"
-    },
-    {
-      "id": "ChIJmUWp5SS7j4ARwkXUtEmqFdc",
-      "formattedAddress": "855 El Camino Real, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4387251,
-        "longitude": -122.1598525
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15498480926208574914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://asianbox.com/",
-      "displayName": {
-        "text": "Asian Box",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJF-8UBYq6j4AR5FBD89Ka32Y",
-      "formattedAddress": "3924 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.41637,
-        "longitude": -122.12979109999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7412813742490210532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.siamfinethaicuisine.com/",
-      "displayName": {
-        "text": "Siam Fine Thai Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJrTBLD1K7j4ARMNQr2bMszJ0",
-      "formattedAddress": "855 El Camino Real #157, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4392357,
-        "longitude": -122.1583252
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11370512310157956144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.roostandroast.com/",
-      "displayName": {
-        "text": "Roost & Roast",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJEWzP8uW6j4ARv-d5dhqlvk8",
-      "formattedAddress": "425 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4260752,
-        "longitude": -122.14474440000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5746211707646764991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.lotusthaibistro.com/home",
-      "displayName": {
-        "text": "Lotus Thai Bistro",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJmVLGgvi6j4ARTTuCWlOncSk",
-      "formattedAddress": "2710 Middlefield Rd, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.433177799999996,
-        "longitude": -122.12942319999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2986352004365957965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.indochineca.com/",
-      "displayName": {
-        "text": "Indochine",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJE4gDeLG7j4AR_kI1Gek5x9E",
-      "formattedAddress": "447 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.425763599999996,
-        "longitude": -122.1449994
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15116114347605443326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://namasteindiabistro.com/",
-      "displayName": {
-        "text": "Namaste Indian Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJ4a0RmI67j4ARqr2S5nEYX2U",
-      "formattedAddress": "518 Bryant St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4453864,
-        "longitude": -122.16135999999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7304583998096981418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ettanrestaurant.com/",
-      "displayName": {
-        "text": "Ettan",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJcx9Pl-W6j4ARcUXBVpDCqUE",
-      "formattedAddress": "365 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4267457,
-        "longitude": -122.14408219999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4731526808716002673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://zareensrestaurant.com/",
-      "displayName": {
-        "text": "Zareen's Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJbxXHNb-7j4ARBRYRzHaw37A",
-      "formattedAddress": "339 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4465508,
-        "longitude": -122.1613223
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12745099494758094341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.khazanapaloalto.com/",
-      "displayName": {
-        "text": "Khazana by Chef Sanjeev Kapoor",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJeYSESRq7j4AREj5yWWRdjrc",
-      "formattedAddress": "201 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.428218,
-        "longitude": -122.14306999999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13226611841212497426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://rararestaurant.com/",
-      "displayName": {
-        "text": "Rara",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJD_pTEsy7j4ARmC6OuQ2GZ0k",
-      "formattedAddress": "473 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4481323,
-        "longitude": -122.15981430000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5289343680875736728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.roohrestaurants.com/",
-      "displayName": {
-        "text": "ROOH Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJe4kIFje7j4ARqb6yVqdp0tU",
-      "formattedAddress": "129 Lytton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.444781899999995,
-        "longitude": -122.16510269999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15407493442622897833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.online/business/darbar-5",
-      "displayName": {
-        "text": "Darbar Indian Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJJWJdZ2G7j4AR5F36uT8-it8",
-      "formattedAddress": "918 Industrial Ave, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.422642599999996,
-        "longitude": -122.0983441
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16107755460668055012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://cloudchef.co/",
-      "displayName": {
-        "text": "CloudChef",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJyaiRIjq7j4ARpFp0WP-WoNA",
-      "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4438785,
-        "longitude": -122.16178900000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15033181579607562916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.paloaltocreamery.com/",
-      "displayName": {
-        "text": "Palo Alto Creamery",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJxQENlQ67j4AReETtyacmZA4",
-      "formattedAddress": "180 El Camino Real Building B, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.4447784,
-        "longitude": -122.17224119999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1036996316291220600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.rh.com/paloalto/restaurant",
-      "displayName": {
-        "text": "RH Rooftop Restaurant at RH Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJScdLwDm7j4ARCbo6bng01sU",
-      "formattedAddress": "271 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.445838599999995,
-        "longitude": -122.16219160000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14255639362337946121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.localunion271.com/",
-      "displayName": {
-        "text": "Local Union 271",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJgSKtATq7j4AR1LVZ7VN8W3I",
-      "formattedAddress": "150 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.443996999999996,
-        "longitude": -122.162979
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8240316643110663636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sweetmaplesf.com/",
-      "displayName": {
-        "text": "Sweet Maple",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJD9VYOzS7j4ARus4pfa0zkJU",
-      "formattedAddress": "180 El Camino Real, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.443094699999996,
-        "longitude": -122.17259729999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10777170728519847610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.themelt.com/",
-      "displayName": {
-        "text": "The Melt",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJP_XllSS7j4ARhy2W_qw79aQ",
-      "formattedAddress": "855 El Camino Real #65, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4379565,
-        "longitude": -122.1598063
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11886472405705960839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://gotts.com/",
-      "displayName": {
-        "text": "Gott's",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJdas5PTq7j4ARyZEoz7vVmg0",
-      "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4438785,
-        "longitude": -122.16178900000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=980330871517647305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.paloaltocreamery.com/",
-      "displayName": {
-        "text": "Peninsula Fountain Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ-zxk19G7j4ARJqNjr1SADak",
-      "formattedAddress": "2450 Park Blvd, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.428022899999995,
-        "longitude": -122.14277039999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12181533668315210534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://dinefarmfresh.com/",
-      "displayName": {
-        "text": "The Farm",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJxUf2lnm6j4AROxY8N4vkocM",
-      "formattedAddress": "4261 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4078109,
-        "longitude": -122.11998779999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14096799595224634939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://dinahshotel.com/",
-      "displayName": {
-        "text": "Dinah's Poolside Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJaWnuL-e6j4ARR6YIY348nZk",
-      "formattedAddress": "1921 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.428562,
-        "longitude": -122.14967199999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11069069972671604295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://sundancethesteakhouse.com/",
-      "displayName": {
-        "text": "Sundance The Steakhouse",
-        "languageCode": "en"
-      },
-      "cuisine": "Steakhouse"
-    },
-    {
-      "id": "ChIJq2vyQB67j4ARBkHWA8vFNqU",
-      "formattedAddress": "420 Ramona St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4458957,
-        "longitude": -122.1632956
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11904920140733890822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.macarenarestaurant.com/",
-      "displayName": {
-        "text": "Macarena Restaurant in Palo Alto",
-        "languageCode": "es"
-      },
-      "cuisine": "Spanish"
-    },
-    {
-      "id": "ChIJJzcXtnO7j4ARGsdmlyvEgYI",
-      "formattedAddress": "711 Stanford Shopping Center, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.4427423,
-        "longitude": -122.1729721
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9404013188429039386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pacificcatch.com/",
-      "displayName": {
-        "text": "Pacific Catch",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
-    },
-    {
-      "id": "ChIJOT4Wp3m6j4ARL_3gCaC-HJ0",
-      "formattedAddress": "4269 W El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4075646,
-        "longitude": -122.1205417
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11321133157872368943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.theseausa.com/",
-      "displayName": {
-        "text": "The Sea by Alexander's Steakhouse",
-        "languageCode": "en"
-      },
-      "cuisine": "Steakhouse"
-    },
-    {
-      "id": "ChIJg5-D9Aq7j4ARGDDPZcQFjmg",
-      "formattedAddress": "3850 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4171877,
-        "longitude": -122.13138039999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7533965567717224472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://stateofmindslicehouse.com/",
-      "displayName": {
-        "text": "State of Mind Slice House",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJCS4OBAC7j4AR3jawAgUTF3I",
-      "formattedAddress": "3864 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4170934,
-        "longitude": -122.1312946
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8221060557028996830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://222.pizzaguys.com/",
-      "displayName": {
-        "text": "Pizza Guys",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJHz4XFiW7j4AR4OCRJ5FPWnQ",
-      "formattedAddress": "855 El Camino Real #60, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.438029,
-        "longitude": -122.160035
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8384101141156323552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.howiesartisanpizza.com/",
-      "displayName": {
-        "text": "Howie's Artisan Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJSwaMPEq7j4ARrdiph55BO04",
-      "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.446115500000005,
-        "longitude": -122.16106979999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5637171507721001133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://paloalto.mycurrypizza.com/",
-      "displayName": {
-        "text": "Curry Pizza House Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJN1Yf8Dm7j4ARg7totskx17E",
-      "formattedAddress": "220 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4448417,
-        "longitude": -122.16231940000002
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12814766007124540291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.pizzamyheart.com/",
-      "displayName": {
-        "text": "Pizza My Heart",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJ_UjdV--7j4ARt2YRSWk7iZU",
-      "formattedAddress": "369 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.426696899999996,
-        "longitude": -122.14417370000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10775208906844104375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://squarepieguys.com/",
-      "displayName": {
-        "text": "Square Pie Guys",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJ0y2QeTm7j4ARoys6DSP_0k4",
-      "formattedAddress": "325 Hamilton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4455148,
-        "longitude": -122.16014190000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5679882606078471075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.newyorkpizzapaloalto.com/",
-      "displayName": {
-        "text": "New York Pizza Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJgfDze5W7j4ARwXfuLNFJ6jM",
-      "formattedAddress": "640 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4432991,
-        "longitude": -122.16098969999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3740883603235436481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.meyhouserestaurant.com/",
-      "displayName": {
-        "text": "Meyhouse & Meyhouse Jazz Club",
-        "languageCode": "en"
-      },
-      "cuisine": "Turkish"
-    },
-    {
-      "id": "ChIJ2VtDOzS7j4ARaKOgGvJXoJ4",
-      "formattedAddress": "180 El Camino Real G-2, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.44457,
-        "longitude": -122.17032979999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11430232551606756200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.flemingssteakhouse.com/Locations/CA/Palo-Alto?y_source=1_MTU1MDMxNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "displayName": {
-        "text": "Fleming’s Prime Steakhouse & Wine Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "Steakhouse"
-    },
-    {
-      "id": "ChIJB3hVsb67j4ARXMaL06rl50c",
-      "formattedAddress": "3398 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4194321,
-        "longitude": -122.1356069
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5181362418169398876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.showdecarnes.com/",
-      "displayName": {
-        "text": "Show de Carnes Brazilian Steakhouse",
-        "languageCode": "en"
-      },
-      "cuisine": "Brazilian"
-    },
-    {
-      "id": "ChIJXzozIq2jj4ARpEwPAaO9InY",
-      "formattedAddress": "140 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4439087,
-        "longitude": -122.16336249999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8512574753478757540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.aryasteakhouse.com/",
-      "displayName": {
-        "text": "Arya Steakhouse",
-        "languageCode": "en"
-      },
-      "cuisine": "Steakhouse"
-    },
-    {
       "id": "ChIJOW6rzsq7j4ARwtuFAHGPH-o",
       "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA",
       "location": {
@@ -6971,1024 +7961,19 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Greek/Mediterranean"
     },
     {
-      "id": "ChIJByU8Zze7j4ARtKef7nHMEks",
-      "formattedAddress": "420 Emerson St, Palo Alto, CA 94301, USA",
+      "id": "ChIJOzI3gjm7j4ARtGwnfAcuKaU",
+      "formattedAddress": "585 Bryant St, Palo Alto, CA 94301, USA",
       "location": {
-        "latitude": 37.4451287,
-        "longitude": -122.16379929999998
+        "latitude": 37.4453069,
+        "longitude": -122.16042180000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=5409610892132198324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.evvia.net/",
+      "googleMapsUri": "https://maps.google.com/?cid=11901094099985853620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.zolapaloalto.com/",
       "displayName": {
-        "text": "Evvia Estiatorio",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJAQDASDq7j4ARmCZUEs0AJD4",
-      "formattedAddress": "632 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4433231,
-        "longitude": -122.161034
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4477704810288916120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mezekebab.com/",
-      "displayName": {
-        "text": "Meze Kebab",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJ-RTutuW6j4AR4VYL3DZDAvg",
-      "formattedAddress": "340 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4270754,
-        "longitude": -122.14440950000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17870920174258575073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://anatoliankitchen.com/",
-      "displayName": {
-        "text": "Anatolian Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Turkish"
-    },
-    {
-      "id": "ChIJw9v7bFC7j4ARqHLv-7H0mZQ",
-      "formattedAddress": "715 Stanford Shopping Center, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.4427416,
-        "longitude": -122.17288519999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10707858634323227304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://eatathummus.com/",
-      "displayName": {
-        "text": "Hummus Mediterranean Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJVVUFazu7j4ARLXVs7f4wu-M",
-      "formattedAddress": "800 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4422042,
-        "longitude": -122.1590523
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16409763538717668653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://tavernarestaurant.net/",
-      "displayName": {
-        "text": "TAVERNA",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJEWzP8uW6j4ARkmIR7vba8es",
-      "formattedAddress": "433 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.426045599999995,
-        "longitude": -122.1448464
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17001610822391259794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mediterraneanwraps.com/?utm_source=google",
-      "displayName": {
-        "text": "Mediterranean Wraps",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJ361H6jm7j4ARk1vmz_dEqwE",
-      "formattedAddress": "261 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4456966,
-        "longitude": -122.16222820000002
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=120265646191041427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://orenshummus.com/",
-      "displayName": {
-        "text": "Oren's Hummus",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern"
-    },
-    {
-      "id": "ChIJqQzX9eW6j4ARRQTr9028s7k",
-      "formattedAddress": "451 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.425717399999996,
-        "longitude": -122.1451083
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13381245960905753669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.kaligreekkitchen.com/",
-      "displayName": {
-        "text": "Kali Greek Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJofIvZUq7j4ARjUq2CGrWy74",
-      "formattedAddress": "322 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4461163,
-        "longitude": -122.16103849999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13748318038379612813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.nickthegreek.com/",
-      "displayName": {
-        "text": "Nick The Greek",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJwWcdxzi7j4ARSPpV37nhr58",
-      "formattedAddress": "546 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4488748,
-        "longitude": -122.15841719999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11506663761387059784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tamarinerestaurant.com/",
-      "displayName": {
-        "text": "Tamarine Restaurant & Gallery",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJX2dDTkW7j4ARFo59XEuoaPk",
-      "formattedAddress": "3906 Middlefield Rd, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4192296,
-        "longitude": -122.11039539999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17971799354649710102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://lequyorg.wordpress.com/",
-      "displayName": {
-        "text": "LeQuy",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJT_HstGa7j4ARLGiY5dPGJDg",
-      "formattedAddress": "185 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.444708899999995,
-        "longitude": -122.16304019999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4045576978677917740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.phohanoiusa.com/",
-      "displayName": {
-        "text": "Phở Hà Nội",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJk0N57Sm7j4ARq4jfPi88hKY",
-      "formattedAddress": "180 Stanford Shopping Center Unit 240-C, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.4425494,
-        "longitude": -122.1705679
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11998781480837810347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://worldwrapps.com/",
-      "displayName": {
-        "text": "World Wrapps",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJtWFrFmO6j4ARbA4cFdc8mG0",
-      "formattedAddress": "4127 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.413779999999996,
-        "longitude": -122.125402
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7897128841063960172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://paloaltotofuhouse.square.site/",
-      "displayName": {
-        "text": "So Gong Dong Tofu House",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJs-mASty7j4ARGnTRbfH7NBc",
-      "formattedAddress": "444 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4475699,
-        "longitude": -122.15975949999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1672238376009430042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.simmer-steamer.com/",
-      "displayName": {
-        "text": "Simmer & Steamer",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJp_VW7eW6j4ARpcOR4xWV7bo",
-      "formattedAddress": "415 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4262194,
-        "longitude": -122.1446667
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13469585981779854245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.labohemepaloalto.com/",
-      "displayName": {
-        "text": "La Boheme",
+        "text": "Zola + BarZola",
         "languageCode": "en"
       },
       "cuisine": "French"
-    },
-    {
-      "id": "ChIJHz4XFiW7j4ARn0Db50n4L2k",
-      "formattedAddress": "855 El Camino Real #104, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4389992,
-        "longitude": -122.1588592
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7579549694194040991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://cafedoucefrance.com/",
-      "displayName": {
-        "text": "Douce France",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
-      "id": "ChIJMzIVsOW6j4ARuVSOvM3YcfY",
-      "formattedAddress": "2363 Birch St, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4277401,
-        "longitude": -122.14430329999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17758213183841916089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.bistroelan.com/",
-      "displayName": {
-        "text": "Bistro Elan",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
-      "id": "ChIJK7u-fDi7j4ARObxmEVWASuE",
-      "formattedAddress": "499 Lytton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.449140899999996,
-        "longitude": -122.1607321
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16233928909662895161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.mademoisellecolette.com/",
-      "displayName": {
-        "text": "Mademoiselle Colette",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
-      "id": "ChIJ14CVruW6j4ARoh-i6iIAe5g",
-      "formattedAddress": "250 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.427836,
-        "longitude": -122.14382429999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10987375865865838498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.protegepaloalto.com/",
-      "displayName": {
-        "text": "Protégé",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
-      "id": "ChIJYUh8Jzq7j4ARXcdvPyLUR68",
-      "formattedAddress": "548 Ramona St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4445889,
-        "longitude": -122.1612389
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12630296923542112093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.bistromaxine.com/",
-      "displayName": {
-        "text": "Bistro Maxine",
-        "languageCode": "en"
-      },
-      "cuisine": "French"
-    },
-    {
-      "id": "ChIJ0wzVVCC7j4ARETETP1JS-5M",
-      "formattedAddress": "205 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4449633,
-        "longitude": -122.1628192
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10663207055928799505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.oklavacafe.com/",
-      "displayName": {
-        "text": "Oklava Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Turkish"
-    },
-    {
-      "id": "ChIJq6oGtOW6j4AROUSVKcfXF0k",
-      "formattedAddress": "2323 Birch St, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4279112,
-        "longitude": -122.14446710000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5266915539629196345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://naschmarktpaloalto.com/",
-      "displayName": {
-        "text": "Naschmarkt - Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "German/Austrian"
-    },
-    {
-      "id": "ChIJG7rdAmS7j4ARayztR1t8nNg",
-      "formattedAddress": "488 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4480031,
-        "longitude": -122.15927529999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15608487140049890411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.louandherberts.com/?y_source=1_MTA2Njc4ODczNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-      "displayName": {
-        "text": "Lou & Herbert's",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJZ-fddRO7j4AR_0Gsc_U5HbQ",
-      "formattedAddress": "855 El Camino Real #161, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.439176499999995,
-        "longitude": -122.1581733
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12978593427522077183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.hatchedbites.com/",
-      "displayName": {
-        "text": "Hatched",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJK3g59OW6j4AR5Q5CCNShy3o",
-      "formattedAddress": "405 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4263889,
-        "longitude": -122.14455830000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8848343824943156965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://joaniescafepaloalto.com/",
-      "displayName": {
-        "text": "Joanie's Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJzUCJ5Hu6j4ARglde9co9EK8",
-      "formattedAddress": "4224 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.408964999999995,
-        "longitude": -122.12244109999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12614650498174048130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://hobees.com/",
-      "displayName": {
-        "text": "Hobee's",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJJS3eBO-6j4AR55CwERBNE34",
-      "formattedAddress": "2500 El Camino Real Suite 105, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4242609,
-        "longitude": -122.1449674
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9084689604748021991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.fambriniscafe.com/",
-      "displayName": {
-        "text": "Fambrini’s Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJkTR5DEy7j4ARg9mfRMQbDQc",
-      "formattedAddress": "855 El Camino Real Ste 151, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4390997,
-        "longitude": -122.15842599999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=508092862741600643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.horsefeather.com/",
-      "displayName": {
-        "text": "Horsefeather Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJHz4XFiW7j4AR5t10topddew",
-      "formattedAddress": "855 El Camino Real Ste 158, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4392636,
-        "longitude": -122.1582398
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17038627615574121958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.sushihouse855.com/",
-      "displayName": {
-        "text": "Sushi House",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJcymZ93y7j4ARGg6qXQT9Adc",
-      "formattedAddress": "3441 Alma St Suite 100, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4191895,
-        "longitude": -122.12491339999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15492942388324339226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.holysushi.org/",
-      "displayName": {
-        "text": "Holy Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJt9KIrTW7j4ARjb1bTp5MW-E",
-      "formattedAddress": "180 El Camino Real Ste 1140, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.443920999999996,
-        "longitude": -122.17032299999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16238657124217634189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.truefoodkitchen.com/locations/paloalto/",
-      "displayName": {
-        "text": "True Food Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan"
-    },
-    {
-      "id": "ChIJaeHk_jm7j4ARZfXh674aljg",
-      "formattedAddress": "168 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.444269399999996,
-        "longitude": -122.16286670000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4077475919934125413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://cafesprout.com/",
-      "displayName": {
-        "text": "Sprout Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan"
-    },
-    {
-      "id": "ChIJH_zZcy-7j4ARwPbn3XT47A4",
-      "formattedAddress": "167 Hamilton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.443697799999995,
-        "longitude": -122.16209699999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1075507591857567424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mendocinofarms.com/locations/palo-alto",
-      "displayName": {
-        "text": "Mendocino Farms",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJh6RQtJa7j4AR-KdyKoeGyQ4",
-      "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4461225,
-        "longitude": -122.16108659999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1065530701940697080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://hiddentapandbarrel.com/",
-      "displayName": {
-        "text": "Hidden Tap And Barrel Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJRzi6GDq7j4ARVC4ZzH-ZgJU",
-      "formattedAddress": "547 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4444157,
-        "longitude": -122.16174609999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10772779082834325076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://therosepa.com/",
-      "displayName": {
-        "text": "The Rose & Crown",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJiXr_Zze7j4ARgRtbgk7Len4",
-      "formattedAddress": "412 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4451556,
-        "longitude": -122.16393889999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9113820333992516481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.thepatiopa.com/",
-      "displayName": {
-        "text": "The Patio @ Rudy's",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJgbClrTm7j4ARJhcj3TrrG9g",
-      "formattedAddress": "367 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4469366,
-        "longitude": -122.16094960000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15572298774614316838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.crepevine.com/?y_source=1_MTQ3MjMwNjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "displayName": {
-        "text": "Crepevine Restaurants",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ6QBUzju7j4ARLrzLJUbvDpY",
-      "formattedAddress": "250 Hamilton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4442768,
-        "longitude": -122.16003429999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10812842839923997742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "City Hall Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJIe9vfzC7j4ARKMPewN6Czv4",
-      "formattedAddress": "675 El Camino Real, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.440655199999995,
-        "longitude": -122.1627702
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18360756624066265896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marriott.com/en-us/dining/restaurant-bar/sjcwp-the-westin-palo-alto/5964915-caf-soleil.mi",
-      "displayName": {
-        "text": "Café Soleil",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ8zxNqPS6j4AR9anIFDW84PI",
-      "formattedAddress": "3487 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.419506399999996,
-        "longitude": -122.13469529999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17501195088129731061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dumplingcityca.com/",
-      "displayName": {
-        "text": "Dumpling City 水饺之城",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJgVkH4BO7j4AR9Qj0HVCbuy8",
-      "formattedAddress": "540 Bryant St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.445247099999996,
-        "longitude": -122.16098969999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3439513508829726965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tongsui.us/",
-      "displayName": {
-        "text": "Tong Sui Desserts & Drinks (Palo Alto)",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJlSPd8w67j4ARZy6_cUeyGng",
-      "formattedAddress": "501 Oxford Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4265576,
-        "longitude": -122.1484342
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8654425653866606183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://realmediterraneankitchen.com/",
-      "displayName": {
-        "text": "Real Mediterranean Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJe858WAS7j4AR3SYscE3OsZU",
-      "formattedAddress": "855 El Camino Real #162, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4391487,
-        "longitude": -122.15807369999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10786629414518793949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.orenshummusexpress.com/",
-      "displayName": {
-        "text": "Orens Hummus Express",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern"
-    },
-    {
-      "id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc",
-      "formattedAddress": "642 Ramona St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.443916,
-        "longitude": -122.160191
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7492068501438780553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.coconutspaloalto.com/",
-      "displayName": {
-        "text": "Coconuts Caribbean Restaurant & Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "Caribbean"
-    },
-    {
-      "id": "ChIJHUVxbf67j4ARDeXKRT7FmeA",
-      "formattedAddress": "855 El Camino Real #9, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4384958,
-        "longitude": -122.16064029999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16184183607182157069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.poke.house/locations/poke-el-camino-palo-alto",
-      "displayName": {
-        "text": "Poke House - Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJ90rubDS7j4AR7pLFdYlNGU4",
-      "formattedAddress": "660 Stanford Shopping Center #244B, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.442727399999995,
-        "longitude": -122.1705035
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5627614462157886190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.gofishpokebar.com/",
-      "displayName": {
-        "text": "Go Fish Poke Bar- Stanford Shopping Center",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJweDvIRm7j4AR8IWnMD_jNrI",
-      "formattedAddress": "452 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4476055,
-        "longitude": -122.1595835
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12841701248032278000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.o2-valley.com/palo-alto/menu",
-      "displayName": {
-        "text": "O2 Valley",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJe5AqVr3Lj4AROFFL6ZwfRH0",
-      "formattedAddress": "4131 El Camino Real #100, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.413300299999996,
-        "longitude": -122.1251502
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9026374311946703160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.themalawahbar.com/",
-      "displayName": {
-        "text": "The Ma'lawah Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern"
-    },
-    {
-      "id": "ChIJY5UIijm7j4ARPkLgY0DXJuI",
-      "formattedAddress": "538 Ramona St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.444609199999995,
-        "longitude": -122.16152839999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16295948973240238654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.coupacafe.com/",
-      "displayName": {
-        "text": "Coupa Cafe - Ramona",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ3TuFfAC7j4ARKtxjkDxyt8s",
-      "formattedAddress": "1497 1/2 E Bayshore Rd, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.4629234,
-        "longitude": -122.1440096
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14679327114883488810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Marcella La Pupuseria",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJc5w7vvy6j4ARAFnKDu5CVRI",
-      "formattedAddress": "2680 Middlefield Rd, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4334804,
-        "longitude": -122.13011600000002
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1321035655920900352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.kirks-steakburgers.com/?utm_source=gmb&utm_medium=organic&utm_campaign=palo+alto",
-      "displayName": {
-        "text": "Kirk's SteakBurgers - Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJU6Ckice7j4ARZKSms3jZOHA",
-      "formattedAddress": "3000 El Camino Real Building 5 Suite 100, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4209453,
-        "longitude": -122.14147290000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8086452243377071204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.crustsourdough.com/",
-      "displayName": {
-        "text": "CRUST Sourdough Deli (Palo Alto Square)",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJEwdRVPO6j4ARcukXyQ4qM6o",
-      "formattedAddress": "3450 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.419122699999996,
-        "longitude": -122.1349592
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12264192453251688818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.driftwooddeliandmarket.com/",
-      "displayName": {
-        "text": "Driftwood Deli & Market",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJ06EYWO-6j4AR5x1zss9iick",
-      "formattedAddress": "477 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.425408399999995,
-        "longitude": -122.14532919999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14522247117624516071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.izzysbrooklynbagels.com/%20%20%20%20%20https://izzysbb.square.site/#4",
-      "displayName": {
-        "text": "Izzy's Brooklyn Bagels",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJiZtnUze7j4ARuAzIjrVxmsM",
-      "formattedAddress": "125 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4439807,
-        "longitude": -122.1637183
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14094703008407882936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "New York New York Sandwiches",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJa4KZHam7j4ARndJA04xsjxU",
-      "formattedAddress": "2170 W Bayshore Rd, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.448261200000005,
-        "longitude": -122.12565610000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1553579748561572509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://marketatedgewood.com/",
-      "displayName": {
-        "text": "THE MARKET AT EDGEWOOD",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJo6Vgo226j4ARtyvUj7a6Fy4",
-      "formattedAddress": "3922 Middlefield Rd, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.4186066,
-        "longitude": -122.10979180000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3321328543468891063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://piazzaslovesfood.com/",
-      "displayName": {
-        "text": "Piazza's Fine Foods",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJq6Jj6y-7j4ARmkaTCtvuosg",
-      "formattedAddress": "445 California Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4257831,
-        "longitude": -122.1449662
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14457380378355386010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ramenkowa.com/",
-      "displayName": {
-        "text": "Ramen Kowa",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ84zhlRG6j4ARRHn_8eTSKj4",
-      "formattedAddress": "920 Commercial St, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.422913799999996,
-        "longitude": -122.099947
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4479624660127807812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "El Taco Ranchero",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJQ1s1_Ti7j4ARwdpxYOuYKAY",
-      "formattedAddress": "448 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4475872,
-        "longitude": -122.15963889999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=443772699998804673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sushirrito.com/",
-      "displayName": {
-        "text": "Sushirrito",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJGaMq8zm7j4ARYe6wItroPNY",
-      "formattedAddress": "520 Ramona St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4448271,
-        "longitude": -122.16193469999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15437469646301752929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.thepawineroom.com/",
-      "displayName": {
-        "text": "The Wine Room",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar"
-    },
-    {
-      "id": "ChIJz1CaiuS7j4ARJ0FvNTILUoo",
-      "formattedAddress": "164 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4442218,
-        "longitude": -122.163046
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9967041235597082919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.onigilly.com/",
-      "displayName": {
-        "text": "Onigilly Japanese Kitchen - Palo Alto",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJg2K45--7j4ARb3QmTT7tfM4",
-      "formattedAddress": "443 Emerson St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.445152199999995,
-        "longitude": -122.16302990000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14879028120763397231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.tastypotcalifornia.com/",
-      "displayName": {
-        "text": "Tasty Pot",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJQSEisjC7j4AR3juLmOBOEys",
-      "formattedAddress": "27 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4430264,
-        "longitude": -122.16552460000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3103911294727306206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://macpark.com/?utm_source=google",
-      "displayName": {
-        "text": "MacArthur Park Restaurant and Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJC89ba1Vk3IAR76YZVUjy_gw",
-      "formattedAddress": "3295 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4209587,
-        "longitude": -122.1369645
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=936452165018953455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://indorestaurant.com/",
-      "displayName": {
-        "text": "INDO Restaurant & Lounge",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJGe-xIgC7j4ARqZPigyQDpDE",
-      "formattedAddress": "448 University Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4475872,
-        "longitude": -122.15963889999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3576987459405386665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Urban Momo",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJt-5IyBa7j4ARD5iJZz4Ay0Y",
-      "formattedAddress": "450 Bryant St, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4462476,
-        "longitude": -122.1624397
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5101171270952261647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.avenidas.org/programs/cafe/",
-      "displayName": {
-        "text": "Redwood Café by Chef Julien",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
     }
   ],
   "Los Altos, CA": [
