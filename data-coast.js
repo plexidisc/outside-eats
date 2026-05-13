@@ -2406,7 +2406,8 @@ var PREBAKED_DATA_COAST = {
       "websiteUri": "https://www.alicesrestaurant.com/",
       "location": {},
       "cuisine": "American",
-      "description": "A historic landmark in the Woodside redwoods, serving as a legendary destination for hikers, motorcyclists, and locals. The menu offers locally sourced American comfort food like gourmet burgers and BBQ in a casual, dog-friendly atmosphere with beautiful outdoor seating."
+      "description": "A historic landmark in the Woodside redwoods, serving as a legendary destination for hikers, motorcyclists, and locals. The menu offers locally sourced American comfort food like gourmet burgers and BBQ in a casual, dog-friendly atmosphere with beautiful outdoor seating.",
+      "photoUrl": "images/restaurant-photos/woodside/Alice's Restaurant Small.jpeg"
     }
   ]
 };
