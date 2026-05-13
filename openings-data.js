@@ -1,1 +1,0 @@
-var OPENINGS_DATA = [];
