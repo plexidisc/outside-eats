@@ -1755,7 +1755,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "101 Eatery",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/101 Eatery _Grill Katsu Small.jpeg"
     },
     {
       "id": "ChIJC3Qo77l5j4ARxakzfZ0HvRo",
@@ -1800,7 +1801,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Amami San",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Amami San Sushi Small.jpeg"
     },
     {
       "id": "ChIJ7ernuKl5j4ARsU0VQwKh0cA",
@@ -1815,7 +1817,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Amoura",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Amoura Small.jpeg"
     },
     {
       "id": "ChIJ5YTATSB5j4ARiYsvu4d-r7g",
@@ -1830,7 +1833,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Andiamo in Banca",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Andiamo Small.jpeg"
     },
     {
       "id": "ChIJPf-9eQp5j4ARPjSyf4jxq3E",
@@ -1845,7 +1849,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Antigua Coffee Shop",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Antigua Coffee Shop Small.jpeg"
     },
     {
       "id": "ChIJjePCbKF5j4ARAEg5zeP8_WU",
@@ -1875,7 +1880,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Ben Tre Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Ben Tre Small.jpeg"
     },
     {
       "id": "ChIJGYJTY7Z5j4ARPbc-2F7aiII",
@@ -1938,7 +1944,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Brothers Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Brothers cafe Small.jpeg"
     },
     {
       "id": "ChIJiRIjF6Z5j4AREfM_u1eiFH8",
@@ -1953,7 +1960,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Cable Car Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Cable Car Cafe Small.jpeg"
     },
     {
       "id": "ChIJ_edO2655j4ARu3Zi3EmYSHA",
@@ -1968,7 +1976,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Cafe Bunn Mi",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Cafe Bunn Mi Small.jpeg"
     },
     {
       "id": "ChIJNV79fi14j4AR_0HN8LHVnyw",
@@ -1983,7 +1992,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Cafe de Casa",
         "languageCode": "en"
       },
-      "cuisine": "Brazilian"
+      "cuisine": "Brazilian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Cafe De Casa Small.jpeg"
     },
     {
       "id": "ChIJDcE55d17j4ARFzyf9h7QvYM",
@@ -2030,7 +2040,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Cochinita",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Cochinita Small.jpeg"
     },
     {
       "id": "ChIJXbozfuqdj4ARkPo0yP8EabM",
@@ -2061,7 +2072,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Curry Corner Indian Restaurant And Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Curry Corner | Pizza Kings Small.jpeg"
     },
     {
       "id": "ChIJrX_QA3N5j4ARP7x9MtND580",
@@ -2076,7 +2088,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Curry Pizza House South San Francisco",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Curry Pizza House Small.jpeg"
     },
     {
       "id": "ChIJc4motKt5j4ARoXAhUA2B0MU",
@@ -2091,7 +2104,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Darby Dan's Sandwiches",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Darby dans Small.jpeg"
     },
     {
       "id": "ChIJK5V_GIp5j4ARD56lJhe5Bfc",
@@ -2121,7 +2135,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Dumpling Empire",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Dumpling Empire Small.jpeg"
     },
     {
       "id": "ChIJD9H2Icx5j4ARPr1TeohMhjQ",
@@ -2167,7 +2182,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "El Santaneco",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/El Santaneco Small.jpeg"
     },
     {
       "id": "ChIJGQDoQ-B5j4ARXhnGKap7A5Q",
@@ -2198,7 +2214,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Flavas Jamaican Grill",
         "languageCode": "en"
       },
-      "cuisine": "Caribbean"
+      "cuisine": "Caribbean",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Flava Jamaican Grill Small.jpeg"
     },
     {
       "id": "ChIJ4xYy55V5j4ARyBXkgCcCAvY",
@@ -2261,7 +2278,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Grand Palace Seafood Restaurant 富源酒家",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Grand Palace Small.jpeg"
     },
     {
       "id": "ChIJK5mCqdB5j4ARyM4sHdX8OD0",
@@ -2276,7 +2294,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Grill Kebabs and Gyros",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Grill Kebabs and Gyros Small.jpeg"
     },
     {
       "id": "ChIJr6mFb6J5j4ARzKGCOSmoWWU",
@@ -2338,7 +2357,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hawi Hawaiian BBQ",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Hawi Hawaiian BBQ Small.jpeg"
     },
     {
       "id": "ChIJz_xHsER5j4AR7zf9E56eXTI",
@@ -2353,7 +2373,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hidden Spot - South San Francisco",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Hidden Spot Small.jpeg"
     },
     {
       "id": "ChIJdYNVY_95j4ARKp_EswgRg_I",
@@ -2399,7 +2420,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hung To Seafood Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Hung to Seafood Small.jpeg"
     },
     {
       "id": "ChIJ0Vn8rq55j4ARHxZuV4CKxAI",
@@ -2429,7 +2451,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Industry Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Industry Pizza Small.jpeg"
     },
     {
       "id": "ChIJIyNi3655j4ARGj3IaAUfGEM",
@@ -2444,7 +2467,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Izanami",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Izanami Small.jpeg"
     },
     {
       "id": "ChIJUa4Q5Jt5j4ARp3sNK3Lo1UQ",
@@ -2506,7 +2530,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Kevin’s Noodle House",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Kevins Noodel House Small.jpeg"
     },
     {
       "id": "ChIJjTvPOKl5j4AR5kk0v1kT9aw",
@@ -2536,7 +2561,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "La Tapatia Mexicatessen",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/La Tapatia Small.jpeg"
     },
     {
       "id": "ChIJa_nwP6Z5j4ARBUWokzU_55Y",
@@ -2551,7 +2577,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "La Torta Sabrosa",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/La Torta Small.jpeg"
     },
     {
       "id": "ChIJPSS4fjN5j4ARYWY-wxDZS-U",
@@ -2613,7 +2640,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Los Metates",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Los Metates Small.jpeg"
     },
     {
       "id": "ChIJZ6UIlkl4j4ARXOX9Zj7UEFE",
@@ -2660,7 +2688,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mike & Ken's Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Mike & kens Deli Small.jpeg"
     },
     {
       "id": "ChIJU6GfPeF7j4ARZWLKcCRDzVA",
@@ -2691,7 +2720,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mom's Tofu House",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Mom's Tofu Small.jpeg"
     },
     {
       "id": "ChIJTUnC_Ol7j4ARlBaTJzc9i5k",
@@ -2801,7 +2831,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Piquin Sabor de Casa",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Piquin Sabor de Casa Small.jpeg"
     },
     {
       "id": "ChIJuwMZ03B5j4ARe08UfVc2OzQ",
@@ -2831,7 +2862,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "PIZZA LOVER",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Pizza Lover Small.jpeg"
     },
     {
       "id": "ChIJJ4HwtZ15j4ARcuYCM_GBodQ",
@@ -2908,7 +2940,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Ristorante Buon Gusto",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Ristorante Buon Gusto Small.jpeg"
     },
     {
       "id": "ChIJo3Q5HrR5j4ARpaoOfCasJ4o",
@@ -2938,7 +2971,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Rockoto Peruvian Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Peruvian"
+      "cuisine": "Peruvian",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Rock to Peruvian Cuisine Small.jpeg"
     },
     {
       "id": "ChIJkSCk6qB5j4ARrc7BrveOzuE",
@@ -2983,7 +3017,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Shabu Shack",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Shabu Shack Small.jpeg"
     },
     {
       "id": "ChIJh3L_5Zt5j4ARV3QOVFPQ7lc",
@@ -3062,7 +3097,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Subculture Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Subculture Deli Small.jpeg"
     },
     {
       "id": "ChIJ10MGCal5j4ARqLvjmA9nNTE",
@@ -3077,7 +3113,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria Celaya",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Taqueria Celaya Small.jpeg"
     },
     {
       "id": "ChIJyXMrsKh5j4ARilrFn_zUS8s",
@@ -3092,7 +3129,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria El Farolito",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Taqueria El farolito Small.jpeg"
     },
     {
       "id": "ChIJwYQXFK95j4AR3slyvlU34Qk",
@@ -3107,7 +3145,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria La Morena",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Taqueria La morena Small.jpeg"
     },
     {
       "id": "ChIJVVUZQK95j4ARGDmwpMPyup4",
@@ -3122,7 +3161,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria Las Pencas #1",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Taqueria Las Pencas Small.jpeg"
     },
     {
       "id": "ChIJN16zHtl5j4AR8bwL3CzKvl8",
@@ -3168,7 +3208,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria Sahuayo | South San Francisco",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Taqueria Sahuayo Small.jpeg"
     },
     {
       "id": "ChIJ9-wINZx5j4ARwT15YNnyeYI",
@@ -3199,7 +3240,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Thai Satay Restaurant & Bar",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Thai Satay Small.jpeg"
     },
     {
       "id": "ChIJyQUzolF5j4ARfDGbpD76QrM",
@@ -3277,7 +3319,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "The Night Market",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/The night Market Small.jpeg"
     },
     {
       "id": "ChIJhUzju4R5j4ARJm2dB-Hkhro",
@@ -3355,7 +3398,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Villa Del Sol Argentinian Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Argentine"
+      "cuisine": "Argentine",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Villa Del Sol Small.jpeg"
     },
     {
       "id": "ChIJO_Tja5Z5j4ARBP0YTagbeGI",
@@ -3386,7 +3430,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Wildflour",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Wildflour Small.jpeg"
     }
   ],
   "San Bruno, CA": [
