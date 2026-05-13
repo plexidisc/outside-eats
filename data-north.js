@@ -3188,17 +3188,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJbfwlE8h5j4AR7ODZpW_nYcs",
-      "formattedAddress": "360 Shaw Rd C, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6364644,
-        "longitude": -122.40677670000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14655249129150210284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.theboneyardtruck.com/",
       "displayName": {
         "text": "The Boneyard",
         "languageCode": "en"
       },
+      "formattedAddress": "360 Shaw Rd C, South San Francisco, CA 94080, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14655249129150210284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.theboneyardtruck.com/",
+      "location": {},
       "cuisine": "BBQ"
     },
     {
