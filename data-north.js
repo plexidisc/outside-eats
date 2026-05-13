@@ -2787,7 +2787,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Pizza king",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Pizza king Small.jpeg"
     },
     {
       "id": "ChIJnf1oqbx5j4ARP0Acix7M7dg",
