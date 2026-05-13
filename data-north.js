@@ -2394,21 +2394,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/south-san-francisco/Hung to Seafood Small.jpeg"
     },
     {
-      "id": "ChIJ0Vn8rq55j4ARHxZuV4CKxAI",
-      "formattedAddress": "316 S Airport Blvd, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.645391499999995,
-        "longitude": -122.4057477
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=199436567338423839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.ihop.com/en-us/ca/south-san-francisco/breakfast-316-s-airport-blvd-648?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=648&utm_content=website",
-      "displayName": {
-        "text": "IHOP",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
       "id": "ChIJqfumcsB5j4AR41JImA_qpxc",
       "formattedAddress": "386 Grand Ave, South San Francisco, CA 94080, USA",
       "location": {
