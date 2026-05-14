@@ -7590,21 +7590,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Middle Eastern"
     },
     {
-      "id": "ChIJa4KZHam7j4ARndJA04xsjxU",
-      "formattedAddress": "2170 W Bayshore Rd, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.448261200000005,
-        "longitude": -122.12565610000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1553579748561572509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://marketatedgewood.com/",
-      "displayName": {
-        "text": "THE MARKET AT EDGEWOOD",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJD9VYOzS7j4ARus4pfa0zkJU",
       "formattedAddress": "180 El Camino Real, Palo Alto, CA 94304, USA",
       "location": {
