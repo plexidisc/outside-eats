@@ -5910,21 +5910,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "French"
     },
     {
-      "id": "ChIJEwdRVPO6j4ARcukXyQ4qM6o",
-      "formattedAddress": "3450 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.419122699999996,
-        "longitude": -122.1349592
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12264192453251688818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.driftwooddeliandmarket.com/",
-      "displayName": {
-        "text": "Driftwood Deli & Market",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJ8zxNqPS6j4AR9anIFDW84PI",
       "formattedAddress": "3487 El Camino Real, Palo Alto, CA 94306, USA",
       "location": {
