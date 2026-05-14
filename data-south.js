@@ -5730,21 +5730,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJJWJdZ2G7j4AR5F36uT8-it8",
-      "formattedAddress": "918 Industrial Ave, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.422642599999996,
-        "longitude": -122.0983441
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16107755460668055012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://cloudchef.co/",
-      "displayName": {
-        "text": "CloudChef",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc",
       "formattedAddress": "642 Ramona St, Palo Alto, CA 94301, USA",
       "location": {
