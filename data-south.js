@@ -6555,21 +6555,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "French"
     },
     {
-      "id": "ChIJ3TuFfAC7j4ARKtxjkDxyt8s",
-      "formattedAddress": "1497 1/2 E Bayshore Rd, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.4629234,
-        "longitude": -122.1440096
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14679327114883488810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Marcella La Pupuseria",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJhdRF_Zq7j4ARNcQ9kDH1444",
       "formattedAddress": "383 University Ave, Palo Alto, CA 94301, USA",
       "location": {
