@@ -5547,7 +5547,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Araki Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Araki Sushi Small.jpeg"
     },
     {
       "id": "ChIJXzozIq2jj4ARpEwPAaO9InY",
@@ -5562,7 +5563,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Arya Steakhouse",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/Arya Steakhouse Small.jpeg"
     },
     {
       "id": "ChIJmUWp5SS7j4ARwkXUtEmqFdc",
@@ -5577,7 +5579,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Asian Box",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Asian Box Small.jpeg"
     },
     {
       "id": "ChIJi9iYmjm7j4AR904-JYOQQN4",
@@ -5592,7 +5595,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Bevri - Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Georgian"
+      "cuisine": "Georgian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Bevri Small.jpeg"
     },
     {
       "id": "ChIJMzIVsOW6j4ARuVSOvM3YcfY",
@@ -5622,7 +5626,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Bistro Maxine",
         "languageCode": "en"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Bistro Maxine Small.jpeg"
     },
     {
       "id": "ChIJEQbMSzq7j4ARCIzIQRU45og",
@@ -5637,7 +5642,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Buca di Beppo Italian Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Buca Small.jpeg"
     },
     {
       "id": "ChIJ8QesCuW6j4ARfJfR8qxpWzE",
@@ -5697,7 +5703,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Celia’s Mexican Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Celias Small.jpeg"
     },
     {
       "id": "ChIJTamC_qi7j4ARMAC_ZB2hHMI",
@@ -5742,7 +5749,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Coconuts Caribbean Restaurant & Bar",
         "languageCode": "en"
       },
-      "cuisine": "Caribbean"
+      "cuisine": "Caribbean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Coconuts Small.jpeg"
     },
     {
       "id": "ChIJd0Absfi6j4ARJUQZcc5Tzu0",
@@ -5757,7 +5765,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Como Esta Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Como Esta Small.jpeg"
     },
     {
       "id": "ChIJY5UIijm7j4ARPkLgY0DXJuI",
@@ -5772,7 +5781,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Coupa Cafe - Ramona",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/palo-alto/Coupa Cafe_Ramona Small.jpeg"
     },
     {
       "id": "ChIJgbClrTm7j4ARJhcj3TrrG9g",
@@ -5787,7 +5797,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Crepevine Restaurants",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Crepevine Small.jpeg"
     },
     {
       "id": "ChIJU6Ckice7j4ARZKSms3jZOHA",
@@ -5817,7 +5828,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Curry Pizza House Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Curry Pizza House Small.jpeg"
     },
     {
       "id": "ChIJtUAJ_4q6j4ARjgupREDbjSo",
@@ -5832,7 +5844,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Da Sichuan Bistro",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Da Sichuan Bistro Small.jpeg"
     },
     {
       "id": "ChIJ7ZNa4dG7j4ARszvuKU9_usY",
@@ -5862,7 +5875,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Darbar Indian Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Darbar Small.jpeg"
     },
     {
       "id": "ChIJxUf2lnm6j4AROxY8N4vkocM",
@@ -5892,7 +5906,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Dohatsuten Ramen & Tapas",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Dohatsuten Small.jpeg"
     },
     {
       "id": "ChIJHz4XFiW7j4ARn0Db50n4L2k",
@@ -5907,7 +5922,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Douce France",
         "languageCode": "en"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Douce France Small.jpeg"
     },
     {
       "id": "ChIJ8zxNqPS6j4AR9anIFDW84PI",
@@ -5937,7 +5953,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Dumpling Hours-Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Dumpling Hours Small.jpeg"
     },
     {
       "id": "ChIJ84zhlRG6j4ARRHn_8eTSKj4",
@@ -5967,7 +5984,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Ethel's Fancy",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ethels fancy Small.jpeg"
     },
     {
       "id": "ChIJ4a0RmI67j4ARqr2S5nEYX2U",
@@ -5997,7 +6015,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Evvia Estiatorio",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Evvia Small.jpeg"
     },
     {
       "id": "ChIJJS3eBO-6j4AR55CwERBNE34",
@@ -6027,7 +6046,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Fleming’s Prime Steakhouse & Wine Bar",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/Flemings Small.jpeg"
     },
     {
       "id": "ChIJ5Q2_GWO6j4AREsesK8JkKW4",
@@ -6042,7 +6062,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Fuki Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Fuki-Sushi Small.jpeg"
     },
     {
       "id": "ChIJ90rubDS7j4AR7pLFdYlNGU4",
@@ -6057,7 +6078,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Go Fish Poke Bar- Stanford Shopping Center",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Go Fish Poke Bar Small.jpeg"
     },
     {
       "id": "ChIJP_XllSS7j4ARhy2W_qw79aQ",
@@ -6072,7 +6094,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Gott's",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Gotts Roadside Small.jpeg"
     },
     {
       "id": "ChIJ-Z6WDW26j4ARvRm_XzDSf3o",
@@ -6087,7 +6110,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Green Elephant Gourmet",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Green Elephant Gourmet Small.jpeg"
     },
     {
       "id": "ChIJZ-fddRO7j4AR_0Gsc_U5HbQ",
@@ -6102,7 +6126,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hatched",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hatched Small.jpeg"
     },
     {
       "id": "ChIJB6tydHK7j4ARMYHQSAGD5ig",
@@ -6117,7 +6142,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "HE&C Tea + Pot",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/He&C Tea + Pot Small.jpeg"
     },
     {
       "id": "ChIJh6RQtJa7j4AR-KdyKoeGyQ4",
@@ -6177,7 +6203,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hong Kong Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hong Kong Restaurant Small.jpeg"
     },
     {
       "id": "ChIJkTR5DEy7j4ARg9mfRMQbDQc",
@@ -6192,7 +6219,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Horsefeather Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Horse Feather Small.jpeg"
     },
     {
       "id": "ChIJHz4XFiW7j4AR4OCRJ5FPWnQ",
@@ -6207,7 +6235,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Howie's Artisan Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Howies Artisan Pizza Small.jpeg"
     },
     {
       "id": "ChIJw9v7bFC7j4ARqHLv-7H0mZQ",
@@ -6222,7 +6251,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hummus Mediterranean Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hummus Small.jpeg"
     },
     {
       "id": "ChIJBxeyFAC7j4ARQqr2OhsHIfA",
@@ -6237,7 +6267,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Iki Omakase",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Iki Omakase Small.jpeg"
     },
     {
       "id": "ChIJq0UsRXS7j4ARiC9b0hTPMjg",
@@ -6267,7 +6298,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "INDO Restaurant & Lounge",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Indo Small.jpeg"
     },
     {
       "id": "ChIJmVLGgvi6j4ARTTuCWlOncSk",
@@ -6282,7 +6314,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Indochine",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Indochine Small.jpeg"
     },
     {
       "id": "ChIJC3GmmeW6j4ARj7GQjerUWUY",
@@ -6372,7 +6405,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Kanji Sushi & Ramen",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kanji Sushi Small.jpeg"
     },
     {
       "id": "ChIJMcUKNDi7j4AREnV3Wx48tZg",
@@ -6387,7 +6421,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Kanpai",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kanpai Small.jpeg"
     },
     {
       "id": "ChIJbxXHNb-7j4ARBRYRzHaw37A",
@@ -6402,7 +6437,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Khazana by Chef Sanjeev Kapoor",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Khazana Small.jpeg"
     },
     {
       "id": "ChIJc5w7vvy6j4ARAFnKDu5CVRI",
@@ -6417,7 +6453,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Kirk's SteakBurgers - Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kirks Small.jpeg"
     },
     {
       "id": "ChIJRbsp9uW6j4ARyUJHxK7xFX8",
@@ -6462,7 +6499,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "LeQuy",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Le Quy Small.jpeg"
     },
     {
       "id": "ChIJScdLwDm7j4ARCbo6bng01sU",
@@ -6477,7 +6515,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Local Union 271",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Local Union 271 Small.jpeg"
     },
     {
       "id": "ChIJEWzP8uW6j4ARv-d5dhqlvk8",
@@ -6507,7 +6546,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Lou & Herbert's",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Lou & Herberts Cafe Small.jpeg"
     },
     {
       "id": "ChIJq2vyQB67j4ARBkHWA8vFNqU",
@@ -6522,7 +6562,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Macarena Restaurant in Palo Alto",
         "languageCode": "es"
       },
-      "cuisine": "Spanish"
+      "cuisine": "Spanish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Macarena Small.jpeg"
     },
     {
       "id": "ChIJQSEisjC7j4AR3juLmOBOEys",
@@ -6537,7 +6578,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "MacArthur Park Restaurant and Bar",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/MacArthur Park Small.jpeg"
     },
     {
       "id": "ChIJK7u-fDi7j4ARObxmEVWASuE",
@@ -6552,7 +6594,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mademoiselle Colette",
         "languageCode": "en"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Mademoisel Colette Small.jpeg"
     },
     {
       "id": "ChIJhdRF_Zq7j4ARNcQ9kDH1444",
@@ -6567,7 +6610,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Marugame Udon",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Marugame Udon Small.jpeg"
     },
     {
       "id": "ChIJEWzP8uW6j4ARkmIR7vba8es",
@@ -6597,7 +6641,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mendocino Farms",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Mendocino Farms Small.jpeg"
     },
     {
       "id": "ChIJgfDze5W7j4ARwXfuLNFJ6jM",
@@ -6612,7 +6657,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Meyhouse & Meyhouse Jazz Club",
         "languageCode": "en"
       },
-      "cuisine": "Turkish"
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Meyhouse Small.jpeg"
     },
     {
       "id": "ChIJAQDASDq7j4ARmCZUEs0AJD4",
@@ -6627,7 +6673,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Meze Kebab",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Meze Kebab Small.jpeg"
     },
     {
       "id": "ChIJ1QZb_YW7j4ARtxp0qRa2n-o",
@@ -6687,7 +6734,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "New York New York Sandwiches",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/New York New York Sandwiches Small.jpeg"
     },
     {
       "id": "ChIJ0y2QeTm7j4ARoys6DSP_0k4",
@@ -6702,7 +6750,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "New York Pizza Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/New York Pizza Small.jpeg"
     },
     {
       "id": "ChIJofIvZUq7j4ARjUq2CGrWy74",
@@ -6717,7 +6766,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Nick The Greek",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nick The Greek Small.jpeg"
     },
     {
       "id": "ChIJIxzPPjq7j4ARKDndKncRuwU",
@@ -6732,7 +6782,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Nobu Restaurant Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nobu Small.jpeg"
     },
     {
       "id": "ChIJdwmtjjm7j4ARuuLA95wq7wQ",
@@ -6747,7 +6798,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Nola",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nola Small.jpeg"
     },
     {
       "id": "ChIJweDvIRm7j4AR8IWnMD_jNrI",
@@ -6762,7 +6814,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "O2 Valley",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/O2 Valley Small.jpeg"
     },
     {
       "id": "ChIJYZChWOa6j4ARo-N9ldn_yos",
@@ -6792,7 +6845,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Oklava Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Turkish"
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Oklava Small.jpeg"
     },
     {
       "id": "ChIJz1CaiuS7j4ARJ0FvNTILUoo",
@@ -6807,7 +6861,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Onigilly Japanese Kitchen - Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Onigilly Small.jpeg"
     },
     {
       "id": "ChIJ361H6jm7j4ARk1vmz_dEqwE",
@@ -6822,7 +6877,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Oren's Hummus",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Small.jpeg"
     },
     {
       "id": "ChIJe858WAS7j4AR3SYscE3OsZU",
@@ -6837,7 +6893,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Orens Hummus Express",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Express Small.jpeg"
     },
     {
       "id": "ChIJPwEoJjq7j4AR4Ymjl9MBLUw",
@@ -6852,7 +6909,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Osteria Toscana",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Osteria Small.jpeg"
     },
     {
       "id": "ChIJJzcXtnO7j4ARGsdmlyvEgYI",
@@ -6867,7 +6925,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pacific Catch",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pacific Catch Small.jpeg"
     },
     {
       "id": "ChIJyaiRIjq7j4ARpFp0WP-WoNA",
@@ -6912,7 +6971,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Peninsula Fountain Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Peninsula Foutain & Grill Small.jpeg"
     },
     {
       "id": "ChIJT_HstGa7j4ARLGiY5dPGJDg",
@@ -6927,7 +6987,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Phở Hà Nội",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pho Ha Noi Small.jpeg"
     },
     {
       "id": "ChIJo6Vgo226j4ARtyvUj7a6Fy4",
@@ -6957,7 +7018,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pizza Guys",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizza Guys Small.jpeg"
     },
     {
       "id": "ChIJN1Yf8Dm7j4ARg7totskx17E",
@@ -6972,7 +7034,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pizza My Heart",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizza My Heart Small.jpeg"
     },
     {
       "id": "ChIJCS_HTDq7j4ARskXdL5usfsU",
@@ -6987,7 +7050,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pizzeria Delfina - Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizzeria Delfina Small.jpeg"
     },
     {
       "id": "ChIJHUVxbf67j4ARDeXKRT7FmeA",
@@ -7002,7 +7066,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Poke House - Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Poke House Small.jpeg"
     },
     {
       "id": "ChIJ14CVruW6j4ARoh-i6iIAe5g",
@@ -7047,7 +7112,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Ramen Nagi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ramen Nagi Small.jpeg"
     },
     {
       "id": "ChIJmWwu4jm7j4ARtbXJ6I2CZrg",
@@ -7062,7 +7128,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Rangoon Ruby Burmese Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Burmese"
+      "cuisine": "Burmese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Rangoon Ruby Small.jpeg"
     },
     {
       "id": "ChIJeYSESRq7j4AREj5yWWRdjrc",
@@ -7122,7 +7189,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Reposado",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Reposado Small.jpeg"
     },
     {
       "id": "ChIJxQENlQ67j4AReETtyacmZA4",
@@ -7137,7 +7205,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "RH Rooftop Restaurant at RH Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/RH Rooftop Restaurant Small.jpeg"
     },
     {
       "id": "ChIJD_pTEsy7j4ARmC6OuQ2GZ0k",
@@ -7152,7 +7221,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "ROOH Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Rooh Small.jpeg"
     },
     {
       "id": "ChIJrTBLD1K7j4ARMNQr2bMszJ0",
@@ -7167,7 +7237,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Roost & Roast",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Roost & Roast Small.jpeg"
     },
     {
       "id": "ChIJxRoy-X27j4AR_bK2I_FqBVg",
@@ -7182,7 +7253,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "San Agus Cocina Urbana & Cocktails",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/San Agus Small.jpeg"
     },
     {
       "id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU",
@@ -7212,7 +7284,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sancho's Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sanchos Taqueria Small.jpeg"
     },
     {
       "id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg",
@@ -7242,7 +7315,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Show de Carnes Brazilian Steakhouse",
         "languageCode": "en"
       },
-      "cuisine": "Brazilian"
+      "cuisine": "Brazilian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Show De Carnes Small.jpeg"
     },
     {
       "id": "ChIJF-8UBYq6j4AR5FBD89Ka32Y",
@@ -7257,7 +7331,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Siam Fine Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Siam Small.jpeg"
     },
     {
       "id": "ChIJs-mASty7j4ARGnTRbfH7NBc",
@@ -7272,7 +7347,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Simmer & Steamer",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Simmer & Steamer Small.jpeg"
     },
     {
       "id": "ChIJtWFrFmO6j4ARbA4cFdc8mG0",
@@ -7302,7 +7378,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sprout Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Vegetarian/Vegan"
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sprout Cafe Small.jpeg"
     },
     {
       "id": "ChIJ_UjdV--7j4ARt2YRSWk7iZU",
@@ -7332,7 +7409,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "State of Mind Slice House",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/State of Mind Small.jpeg"
     },
     {
       "id": "ChIJ-a6t5Tm7j4ARsEz4451NPDk",
@@ -7347,7 +7425,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Steam",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Steam Small.jpeg"
     },
     {
       "id": "ChIJ8RX-6uW6j4ARyxo26LXPQ0k",
@@ -7392,7 +7471,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sushi House",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Suhi House Small.jpeg"
     },
     {
       "id": "ChIJ-cKKzxa7j4ARMboigp4Thvk",
@@ -7407,7 +7487,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sushi Roku Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sushi Roku Small.jpeg"
     },
     {
       "id": "ChIJgSKtATq7j4AR1LVZ7VN8W3I",
@@ -7422,7 +7503,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sweet Maple",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sweet Maple Small.jpeg"
     },
     {
       "id": "ChIJUYJ9Ejm7j4AR10nzVhZIoYo",
@@ -7437,7 +7519,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tai Pan",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tai Pan Small.jpeg"
     },
     {
       "id": "ChIJwWcdxzi7j4ARSPpV37nhr58",
@@ -7452,7 +7535,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tamarine Restaurant & Gallery",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tamarine Small.jpeg"
     },
     {
       "id": "ChIJsZYrFAC7j4ARgZiNdSEjGsQ",
@@ -7467,7 +7551,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tane Vegan Izakaya",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tane Vegan Izakaya Small.jpeg"
     },
     {
       "id": "ChIJ7f7sE4u6j4ARzIuv160J9jU",
@@ -7482,7 +7567,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Taqueria El Grullense M&G",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taqueria El Grullense M&G Small.jpeg"
     },
     {
       "id": "ChIJN1Zo_zi7j4ARIT2NbTuxNZQ",
@@ -7497,7 +7583,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Taste",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taste Small.jpeg"
     },
     {
       "id": "ChIJg2K45--7j4ARb3QmTT7tfM4",
@@ -7512,7 +7599,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tasty Pot",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tasty Pot Small.jpeg"
     },
     {
       "id": "ChIJVVUFazu7j4ARLXVs7f4wu-M",
@@ -7527,7 +7615,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "TAVERNA",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taverna Small.jpeg"
     },
     {
       "id": "ChIJU-h6-Q27j4AReNRuzo2WlTM",
@@ -7542,7 +7631,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Telefèric Barcelona Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Spanish"
+      "cuisine": "Spanish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Teleferic Small.jpeg"
     },
     {
       "id": "ChIJtXQ38-W6j4AR44dFBS3v120",
@@ -7587,7 +7677,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Ma'lawah Bar",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Malawah Bar Small.jpeg"
     },
     {
       "id": "ChIJD9VYOzS7j4ARus4pfa0zkJU",
@@ -7602,7 +7693,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Melt",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Melt Small.jpeg"
     },
     {
       "id": "ChIJiXr_Zze7j4ARgRtbgk7Len4",
@@ -7617,7 +7709,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Patio @ Rudy's",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Patio Small.jpeg"
     },
     {
       "id": "ChIJRzi6GDq7j4ARVC4ZzH-ZgJU",
@@ -7632,7 +7725,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Rose & Crown",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Rose & Crown Small.jpeg"
     },
     {
       "id": "ChIJOT4Wp3m6j4ARL_3gCaC-HJ0",
@@ -7647,7 +7741,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Sea by Alexander's Steakhouse",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Sea Small.jpeg"
     },
     {
       "id": "ChIJGaMq8zm7j4ARYe6wItroPNY",
@@ -7662,7 +7757,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Wine Room",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Wine Room Small.jpeg"
     },
     {
       "id": "ChIJrW5Qkga7j4ARq0q-MRGHCjw",
@@ -7677,7 +7773,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tie Mu Zhen Cuisine 铁木真内蒙菜",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tie Mu Zhen  Small.jpeg"
     },
     {
       "id": "ChIJgVkH4BO7j4AR9Qj0HVCbuy8",
@@ -7692,7 +7789,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tong Sui Desserts & Drinks (Palo Alto)",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tong Sui Small.jpeg"
     },
     {
       "id": "ChIJexdrvjK7j4AR--GDhkDzYds",
@@ -7707,7 +7805,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tootsie's At The Stanford Barn",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tootsies Small.jpeg"
     },
     {
       "id": "ChIJt9KIrTW7j4ARjb1bTp5MW-E",
@@ -7722,7 +7821,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "True Food Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Vegetarian/Vegan"
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/True Food Small.jpeg"
     },
     {
       "id": "ChIJGe-xIgC7j4ARqZPigyQDpDE",
@@ -7737,7 +7837,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Urban Momo",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Urban Momo Small.jpeg"
     },
     {
       "id": "ChIJISfg6jK7j4AR1QjILutJPms",
@@ -7752,7 +7853,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Vina Enoteca",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Vina Enoteca Small.jpeg"
     },
     {
       "id": "ChIJ2S5OXzi7j4ARGnV-XOyU-4g",
@@ -7767,7 +7869,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Vino Locale",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/palo-alto/Vino Locale Small.jpeg"
     },
     {
       "id": "ChIJ82AEPzi7j4ARaPsjO4AFqR8",
@@ -7782,7 +7885,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Wildseed",
         "languageCode": "en"
       },
-      "cuisine": "Vegetarian/Vegan"
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/Wildseed Small.jpeg"
     },
     {
       "id": "ChIJk0N57Sm7j4ARq4jfPi88hKY",
@@ -7797,7 +7901,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "World Wrapps",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/World Wrapps Small.jpeg"
     },
     {
       "id": "ChIJpTk-VTi7j4ARpZhH_XR68_I",
@@ -7812,7 +7917,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "YAYOI Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Yayoi Small.jpeg"
     },
     {
       "id": "opening_yutori",
@@ -7840,7 +7946,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "A California-inspired Japanese cafe and konbini serving matcha drinks, fresh onigiri, seasonal bentos, and sandwiches daily in a thoughtfully designed space.",
       "menuUrl": "https://yutori-pa.com",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Yutori Small.jpeg"
     },
     {
       "id": "ChIJcx9Pl-W6j4ARcUXBVpDCqUE",
@@ -7898,7 +8005,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Zaytinya",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"
     },
     {
       "id": "ChIJOzI3gjm7j4ARtGwnfAcuKaU",
@@ -7913,7 +8021,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Zola + BarZola",
         "languageCode": "en"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zola Small.jpeg"
     }
   ],
   "Los Altos, CA": [
