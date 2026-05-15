@@ -5786,21 +5786,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/palo-alto/Crepevine Small.jpeg"
     },
     {
-      "id": "ChIJU6Ckice7j4ARZKSms3jZOHA",
-      "formattedAddress": "3000 El Camino Real Building 5 Suite 100, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4209453,
-        "longitude": -122.14147290000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8086452243377071204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.crustsourdough.com/",
-      "displayName": {
-        "text": "CRUST Sourdough Deli (Palo Alto Square)",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJSwaMPEq7j4ARrdiph55BO04",
       "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
       "location": {
