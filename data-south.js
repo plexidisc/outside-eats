@@ -6146,21 +6146,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Other"
     },
     {
-      "id": "ChIJzUCJ5Hu6j4ARglde9co9EK8",
-      "formattedAddress": "4224 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.408964999999995,
-        "longitude": -122.12244109999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12614650498174048130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://hobees.com/",
-      "displayName": {
-        "text": "Hobee's",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
       "id": "ChIJcymZ93y7j4ARGg6qXQT9Adc",
       "formattedAddress": "3441 Alma St Suite 100, Palo Alto, CA 94306, USA",
       "location": {
