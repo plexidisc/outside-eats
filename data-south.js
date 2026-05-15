@@ -5722,21 +5722,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJ6QBUzju7j4ARLrzLJUbvDpY",
-      "formattedAddress": "250 Hamilton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4442768,
-        "longitude": -122.16003429999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10812842839923997742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "City Hall Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc",
       "formattedAddress": "642 Ramona St, Palo Alto, CA 94301, USA",
       "location": {
