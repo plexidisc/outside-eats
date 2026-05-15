@@ -7053,7 +7053,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Naschmarkt - Palo Alto",
         "languageCode": "en"
       },
-      "cuisine": "German/Austrian"
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Naschmarkt - Palo Alto Small.jpeg"
     },
     {
       "id": "ChIJiZtnUze7j4ARuAzIjrVxmsM",
