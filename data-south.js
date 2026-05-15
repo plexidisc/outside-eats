@@ -6881,7 +6881,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Palo Alto Creamery",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Creamery Small.jpeg"
     },
     {
       "id": "ChIJ3dmr7OW6j4ARdga458ttjlg",
