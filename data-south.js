@@ -7279,7 +7279,8 @@ var PREBAKED_DATA_SOUTH = {
       "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google",
       "location": {},
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _Lytton Small.jpeg"
     },
     {
       "id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg",
