@@ -7328,7 +7328,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "So Gong Dong Tofu House",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/palo-alto/So Gong Dong Tofu House Small.jpeg"
     },
     {
       "id": "ChIJaeHk_jm7j4ARZfXh674aljg",
