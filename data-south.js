@@ -5866,21 +5866,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/palo-alto/Douce France Small.jpeg"
     },
     {
-      "id": "ChIJ8zxNqPS6j4AR9anIFDW84PI",
-      "formattedAddress": "3487 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.419506399999996,
-        "longitude": -122.13469529999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17501195088129731061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dumplingcityca.com/",
-      "displayName": {
-        "text": "Dumpling City 水饺之城",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
       "id": "ChIJwVXiPQ-7j4ARm5uHGNqN66U",
       "formattedAddress": "530 Bryant St, Palo Alto, CA 94301, USA",
       "location": {
