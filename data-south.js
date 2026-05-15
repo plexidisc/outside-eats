@@ -5661,21 +5661,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Italian"
     },
     {
-      "id": "ChIJIe9vfzC7j4ARKMPewN6Czv4",
-      "formattedAddress": "675 El Camino Real, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.440655199999995,
-        "longitude": -122.1627702
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18360756624066265896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marriott.com/en-us/dining/restaurant-bar/sjcwp-the-westin-palo-alto/5964915-caf-soleil.mi",
-      "displayName": {
-        "text": "Café Soleil",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJm8EK_e-6j4ARgml6h3Srj60",
       "formattedAddress": "200 Sheridan Ave, Palo Alto, CA 94306, USA",
       "location": {
