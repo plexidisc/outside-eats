@@ -7258,17 +7258,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU",
-      "formattedAddress": "491 Lytton Ave, Palo Alto, CA 94301, USA",
-      "location": {
-        "latitude": 37.4489978,
-        "longitude": -122.1608828
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google",
       "displayName": {
-        "text": "Sancho's Taqueria",
+        "text": "Sancho's Taqueria _Lytton",
         "languageCode": "en"
       },
+      "formattedAddress": "491 Lytton Ave, Palo Alto, CA 94301, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google",
+      "location": {},
       "cuisine": "Mexican"
     },
     {
