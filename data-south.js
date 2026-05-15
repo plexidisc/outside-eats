@@ -6902,21 +6902,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/palo-alto/Pho Ha Noi Small.jpeg"
     },
     {
-      "id": "ChIJo6Vgo226j4ARtyvUj7a6Fy4",
-      "formattedAddress": "3922 Middlefield Rd, Palo Alto, CA 94303, USA",
-      "location": {
-        "latitude": 37.4186066,
-        "longitude": -122.10979180000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3321328543468891063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://piazzaslovesfood.com/",
-      "displayName": {
-        "text": "Piazza's Fine Foods",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJCS4OBAC7j4AR3jawAgUTF3I",
       "formattedAddress": "3864 El Camino Real, Palo Alto, CA 94306, USA",
       "location": {
