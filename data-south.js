@@ -5879,21 +5879,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/palo-alto/Darbar Small.jpeg"
     },
     {
-      "id": "ChIJxUf2lnm6j4AROxY8N4vkocM",
-      "formattedAddress": "4261 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4078109,
-        "longitude": -122.11998779999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14096799595224634939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://dinahshotel.com/",
-      "displayName": {
-        "text": "Dinah's Poolside Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJBVNwaxK6j4ARUPhWmCDHXYk",
       "formattedAddress": "799 San Antonio Rd, Palo Alto, CA 94303, USA",
       "location": {
@@ -7257,19 +7242,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/palo-alto/San Agus Small.jpeg"
     },
     {
-      "id": "ChIJc1ATKFa6j4ARZQoyTzpy0-8",
-      "displayName": {
-        "text": "Sancho's Taqueria _middlefield",
-        "languageCode": "en"
-      },
-      "formattedAddress": "2723 Middlefield Rd, Palo Alto, CA 94306, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=17281281789913074277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google",
-      "location": {},
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _middlefield Small.jpeg"
-    },
-    {
       "id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU",
       "displayName": {
         "text": "Sancho's Taqueria _Lytton",
@@ -7281,6 +7253,19 @@ var PREBAKED_DATA_SOUTH = {
       "location": {},
       "cuisine": "Mexican",
       "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _Lytton Small.jpeg"
+    },
+    {
+      "id": "ChIJc1ATKFa6j4ARZQoyTzpy0-8",
+      "displayName": {
+        "text": "Sancho's Taqueria _middlefield",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2723 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17281281789913074277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google",
+      "location": {},
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _middlefield Small.jpeg"
     },
     {
       "id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg",
