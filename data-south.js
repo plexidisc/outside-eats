@@ -5861,7 +5861,8 @@ var PREBAKED_DATA_SOUTH = {
         "Friday": "11:00 AM-9:30 PM",
         "Saturday": "11:00 AM-9:30 PM",
         "Sunday": "11:00 AM-9:30 PM"
-      }
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Chef Zhao Kitchen Small.jpeg"
     },
     {
       "id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc",
@@ -6251,7 +6252,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
       },
       "menuUrl": "https://www.ettanrestaurant.com/",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ettan Small.jpeg"
     },
     {
       "id": "ChIJByU8Zze7j4ARtKef7nHMEks",
@@ -7497,7 +7499,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Redwood Café by Chef Julien",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/palo-alto/Redwood Cafe Small.jpeg"
     },
     {
       "id": "ChIJY0yKLzq7j4ARNNLYPbJMgN8",
