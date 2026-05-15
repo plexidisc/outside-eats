@@ -7267,7 +7267,7 @@ var PREBAKED_DATA_SOUTH = {
       "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google",
       "location": {},
       "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/palo-alto/Sanchos Taqueria Small.jpeg"
+      "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _middlefield Small.jpeg"
     },
     {
       "id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU",
