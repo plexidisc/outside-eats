@@ -3651,34 +3651,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJQd3EoaR5j4AR0OJ0ayk4UVU",
-      "formattedAddress": "151 S Spruce Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6494974,
-        "longitude": -122.4181883
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6147756716885074640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.raysbread.com/",
-      "displayName": {
-        "text": "Raymond's Sourdough Bread Outlet",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "phone": "(650) 589-4572",
-      "hours": {
-        "Monday": "9:00 AM - 5:00 PM",
-        "Tuesday": "9:00 AM - 5:00 PM",
-        "Wednesday": "9:00 AM - 5:00 PM",
-        "Thursday": "9:00 AM - 5:00 PM",
-        "Friday": "9:00 AM - 5:00 PM",
-        "Saturday": "9:00 AM - 5:00 PM",
-        "Sunday": "9:00 AM - 5:00 PM"
-      },
-      "description": "Naturally fermented sourdough with golden crust and wonderful sour flavor, served hot and fresh daily.",
-      "menuUrl": "https://order.toasttab.com/online/raymondssourdoughbakery",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJ2yyQCHyAhYAR-JXuEG_K5Cg",
       "formattedAddress": "360 Shaw Rd C, South San Francisco, CA 94080, USA",
       "location": {
