@@ -3364,33 +3364,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJNXgranejj4ARJvK6WBg63n4",
-      "formattedAddress": "426 MacArthur Ave, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4777609,
-        "longitude": -122.2114472
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9141808169850958374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.tryotter.com/s/taiwanese-eats/426-macarthur-ave,-redwood-city,-ca-94063,-usa-redwood-city/8d965cf3-a761-4fc4-9aca-273f57de3c27",
-      "displayName": {
-        "text": "Taiwanese Eats",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "hours": {
-        "Monday": "9:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
-        "Tuesday": "9:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
-        "Wednesday": "9:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
-        "Thursday": "9:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
-        "Friday": "9:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
-        "Saturday": "9:00 AM - 2:00 PM, 4:00 PM - 8:00 PM",
-        "Sunday": "9:00 AM - 2:00 PM, 4:00 PM - 8:00 PM"
-      },
-      "description": "Authentic Taiwanese breakfast and brunch street food featuring popular rice rolls and bento boxes.",
-      "menuUrl": "https://order.tryotter.com/s/taiwanese-eats/426-macarthur-ave,-redwood-city,-ca-94063,-usa-redwood-city/8d965cf3-a761-4fc4-9aca-273f57de3c27",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJfeQC06yjj4ARV47a4dPtR4E",
       "formattedAddress": "2096 Broadway, Redwood City, CA 94063, USA",
       "location": {
