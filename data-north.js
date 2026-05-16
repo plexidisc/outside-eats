@@ -5575,7 +5575,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Fresh Mexican seafood truck famous for crispy Tacos Dorados with fried shrimp, ceviche tostadas, and aguachile at great prices.",
       "menuUrl": "http://ordermariscoselpariente.com/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-bruno/Mariscos El Pariente Small.jpeg"
     },
     {
       "id": "ChIJdy5Iclt5j4ARijdDqguy6lY",
