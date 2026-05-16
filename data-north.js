@@ -3705,7 +3705,7 @@ var PREBAKED_DATA_NORTH = {
       "description": "Bay Area's only meatball truck featuring grass fed beef, natural pork, and organic turkey with fresh, simple ingredients.",
       "menuUrl": "http://www.redsaucemeatballs.com/menu",
       "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/south-san-francisco/Red Sauce Meatballs Food Truck Small.jpeg"
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Turkish street food KEBAP Small.jpeg"
     },
     {
       "id": "ChIJLRR-xlx5j4ARqXkTemCM0bI",
@@ -4181,7 +4181,8 @@ var PREBAKED_DATA_NORTH = {
         "Sunday": "Closed"
       },
       "description": "Taco truck serving fresh, juicy al pastor with pineapple and generous portions at affordable prices.",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Turkish street food KEBAP Small.jpeg"
     },
     {
       "id": "ChIJdUDXYnZ5j4ARZPRZ5fAcNwQ",
@@ -4322,7 +4323,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Meats are smoked to succulent perfection daily and paired with seasonal sides and fresh baked breads.",
       "menuUrl": "http://www.theboneyardtruck.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Turkish street food KEBAP Small.jpeg"
     },
     {
       "id": "ChIJ4wm-1WR5j4ARIT9nCmXKfIE",
