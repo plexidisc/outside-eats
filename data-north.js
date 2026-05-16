@@ -2753,7 +2753,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Authentic Cantonese dim sum and fresh seafood with elegant waterfront views near SFO airport.",
       "menuUrl": "https://www.hlpeninsula.com/southsf",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/H. L. Peninsula Restaurant Small.jpeg"
     },
     {
       "id": "ChIJ6U65L695j4ARvytYa5ym4tY",
