@@ -3739,21 +3739,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJo3Q5HrR5j4ARpaoOfCasJ4o",
-      "formattedAddress": "125 Terminal Ct Stall 44, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6438274,
-        "longitude": -122.4080228
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9955114782615841445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "ROCKO`S CAFE",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJGZNcEDx5j4ARSASXgiSOa3c",
       "formattedAddress": "207 Linden Ave, South San Francisco, CA 94080, USA",
       "location": {
