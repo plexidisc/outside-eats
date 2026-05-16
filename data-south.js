@@ -6078,7 +6078,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.doordash.com/business/el-ranchero-49577/menu/",
       "priceRange": "$",
-      "description": "No-frills Mexican street food counter with fresh-made tacos and burritos at some of the most affordable prices on the Peninsula."
+      "description": "No-frills Mexican street food counter with fresh-made tacos and burritos at some of the most affordable prices on the Peninsula.",
+      "photoUrl": "images/restaurant-photos/palo-alto/El Taco Ranchero Small.jpeg"
     },
     {
       "id": "ChIJRTRAoc67j4ARM-MLNMDboBo",
