@@ -9271,7 +9271,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Chef Jose Andres brings his celebrated mezze concept to Stanford Shopping Center with Turkish, Greek and Lebanese small plates and creative Mediterranean cocktails.",
       "menuUrl": "https://zaytinya.com/palo-alto",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"
     },
     {
       "id": "ChIJOW6rzsq7j4ARwtuFAHGPH-o",
