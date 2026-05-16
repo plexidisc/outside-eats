@@ -5147,7 +5147,8 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Authentic Salvadoran restaurant specializing in handcrafted pupusas and traditional cuisine",
       "hours": "Mon–Fri 11:45am–6pm, Sat–Sun Closed",
       "menuUrl": "https://pupuserialacasita.com/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pupusería La Casita Small.jpeg"
     },
     {
       "id": "ChIJA6M4a22fj4ARtjCESKxU3rU",
