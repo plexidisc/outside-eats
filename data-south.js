@@ -5518,7 +5518,3922 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$$"
     }
   ],
-  "Palo Alto, CA": [{"id": "ChIJ-RTutuW6j4AR4VYL3DZDAvg", "formattedAddress": "340 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4270754, "longitude": -122.14440950000001}, "googleMapsUri": "https://maps.google.com/?cid=17870920174258575073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://anatoliankitchen.com/", "displayName": {"text": "Anatolian Kitchen", "languageCode": "en"}, "cuisine": "Turkish", "description": "California Avenue Turkish kitchen specializing in beef doner kebab, Adana kebab and house-made manti since 2010.", "phone": "(650) 853-9700", "menuUrl": "https://anatoliankitchen.com", "priceRange": "$$", "hours": {"Monday": "11:30 AM-9:00 PM", "Tuesday": "11:30 AM-9:00 PM", "Wednesday": "11:30 AM-9:00 PM", "Thursday": "11:30 AM-9:00 PM", "Friday": "11:30 AM-9:30 PM", "Saturday": "11:30 AM-9:30 PM", "Sunday": "11:30 AM-9:00 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Anatolian Kitchen Small.jpeg"}, {"id": "ChIJL6eIury7j4ARRvbC__WInac", "formattedAddress": "201 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444894399999995, "longitude": -122.1628303}, "googleMapsUri": "https://maps.google.com/?cid=12077960365816870470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sushiaraki.com/", "displayName": {"text": "Araki Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Araki Sushi Small.jpeg", "description": "Fresh sushi, sashimi and bento boxes at reasonable prices with standout lunch deals on University Avenue.", "phone": "(650) 324-3300", "menuUrl": "https://www.sushiaraki.com/", "priceRange": "$$", "hours": {"Monday": "10:00 AM-10:00 PM", "Tuesday": "10:00 AM-10:00 PM", "Wednesday": "10:00 AM-10:00 PM", "Thursday": "10:00 AM-10:00 PM", "Friday": "11:00 AM-11:00 PM", "Saturday": "11:00 AM-11:00 PM", "Sunday": "10:00 AM-10:00 PM"}}, {"id": "ChIJXzozIq2jj4ARpEwPAaO9InY", "formattedAddress": "140 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4439087, "longitude": -122.16336249999999}, "googleMapsUri": "https://maps.google.com/?cid=8512574753478757540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.aryasteakhouse.com/", "displayName": {"text": "Arya Steakhouse", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/palo-alto/Arya Steakhouse Small.jpeg", "description": "Persian and steakhouse hybrid with halal aged meats, barg kabob, saffron rice and private dining rooms.", "phone": "(650) 304-3119", "menuUrl": "https://www.aryasteakhouse.com/", "priceRange": "$$$", "hours": {"Monday": "11:30 AM-9:30 PM", "Tuesday": "11:30 AM-9:30 PM", "Wednesday": "11:30 AM-9:30 PM", "Thursday": "11:30 AM-9:30 PM", "Friday": "11:30 AM-9:30 PM", "Saturday": "11:30 AM-9:30 PM", "Sunday": "11:30 AM-9:30 PM"}}, {"id": "ChIJmUWp5SS7j4ARwkXUtEmqFdc", "formattedAddress": "855 El Camino Real, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4387251, "longitude": -122.1598525}, "googleMapsUri": "https://maps.google.com/?cid=15498480926208574914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://asianbox.com/", "displayName": {"text": "Asian Box", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Asian Box Small.jpeg", "description": "100% gluten-free Vietnamese scratch kitchen with bold six-spice chicken, coconut curry tofu and lemongrass pork bowls.", "phone": "(650) 543-3390", "menuUrl": "https://www.asianbox.com/menu", "priceRange": "$$", "hours": {"Monday": "11:00 AM-9:00 PM", "Tuesday": "11:00 AM-9:00 PM", "Wednesday": "11:00 AM-9:00 PM", "Thursday": "11:00 AM-9:00 PM", "Friday": "11:00 AM-9:00 PM", "Saturday": "11:00 AM-9:00 PM", "Sunday": "11:00 AM-9:00 PM"}}, {"id": "ChIJi9iYmjm7j4AR904-JYOQQN4", "formattedAddress": "335 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4464879, "longitude": -122.1613445}, "googleMapsUri": "https://maps.google.com/?cid=16014959167869439735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bevri.com/", "displayName": {"text": "Bevri - Palo Alto", "languageCode": "en"}, "cuisine": "Georgian", "photoUrl": "images/restaurant-photos/palo-alto/Bevri Small.jpeg", "description": "The Bay Area's only Georgian restaurant, famous for wood-fired khachapuri cheese boats and hand-rolled khinkali dumplings.", "phone": "(650) 332-7770", "menuUrl": "https://www.bevri.com/menu", "priceRange": "$$$", "hours": {"Monday": "11:30 AM-9:30 PM", "Tuesday": "11:30 AM-9:30 PM", "Wednesday": "11:30 AM-9:30 PM", "Thursday": "11:30 AM-9:30 PM", "Friday": "11:30 AM-9:30 PM", "Saturday": "11:30 AM-9:30 PM", "Sunday": "11:30 AM-9:30 PM"}}, {"id": "ChIJMzIVsOW6j4ARuVSOvM3YcfY", "formattedAddress": "2363 Birch St, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4277401, "longitude": -122.14430329999999}, "googleMapsUri": "https://maps.google.com/?cid=17758213183841916089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.bistroelan.com/", "displayName": {"text": "Bistro Elan", "languageCode": "en"}, "cuisine": "French", "description": "Intimate French bistro sourcing local farm ingredients with a seasonal menu and rotating desserts.", "phone": "(650) 327-0284", "menuUrl": "https://www.bistroelan.com/menu", "priceRange": "$$$", "hours": {"Tuesday": "5:00 PM-9:00 PM", "Wednesday": "5:00 PM-9:00 PM", "Thursday": "5:00 PM-9:00 PM", "Friday": "5:00 PM-9:00 PM", "Saturday": "5:00 PM-9:00 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Bistro Elan Small.jpeg"}, {"id": "ChIJYUh8Jzq7j4ARXcdvPyLUR68", "formattedAddress": "548 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4445889, "longitude": -122.1612389}, "googleMapsUri": "https://maps.google.com/?cid=12630296923542112093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bistromaxine.com/", "displayName": {"text": "Bistro Maxine", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Bistro Maxine Small.jpeg", "description": "Palo Alto's only authentic French crepe cafe since 2006, using batter and equipment imported directly from France.", "phone": "(650) 323-1815", "menuUrl": "https://www.bistromaxine.com/menu", "priceRange": "$$", "hours": {"Tuesday": "8:00 AM-2:00 PM", "Wednesday": "8:00 AM-2:00 PM", "Thursday": "8:00 AM-2:00 PM", "Friday": "8:00 AM-2:00 PM", "Saturday": "8:00 AM-2:00 PM", "Sunday": "8:00 AM-2:00 PM"}}, {"id": "ChIJEQbMSzq7j4ARCIzIQRU45og", "formattedAddress": "643 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4435214, "longitude": -122.1605738}, "googleMapsUri": "https://maps.google.com/?cid=9864633697750780936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://dineatbuca.com/locations/palo-alto/?utm_campaign=local&utm_source=gbp&utm_medium=organic&utm_content=palo-alto", "displayName": {"text": "Buca di Beppo Italian Restaurant", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/palo-alto/Buca Small.jpeg", "description": "Festive family-style Italian with generous portions of classic pasta, lasagna and chicken for groups and celebrations.", "phone": "(650) 213-1111", "menuUrl": "https://www.bucadibeppo.com/menu/", "priceRange": "$$", "hours": {"Monday": "11:00 AM-10:00 PM", "Tuesday": "11:00 AM-10:00 PM", "Wednesday": "11:00 AM-10:00 PM", "Thursday": "11:00 AM-10:00 PM", "Friday": "11:00 AM-10:00 PM", "Saturday": "11:00 AM-10:00 PM", "Sunday": "11:00 AM-10:00 PM"}}, {"id": "ChIJ8QesCuW6j4ARfJfR8qxpWzE", "formattedAddress": "2437 Birch St, Palo Alto, CA 94306, USA", "location": {"latitude": 37.427287, "longitude": -122.14339079999999}, "googleMapsUri": "https://maps.google.com/?cid=3556552522268252028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.cafeprobono.com/", "displayName": {"text": "Cafe Pro Bono", "languageCode": "en"}, "cuisine": "Italian", "description": "Three-time Palo Alto Weekly best Italian restaurant winner with housemade pasta and organic ingredients for 30-plus years.", "phone": "(650) 326-1626", "menuUrl": "https://www.cafeprobono.com/menu", "priceRange": "$$", "hours": {"Monday": "11:30 AM-9:00 PM", "Tuesday": "11:30 AM-9:00 PM", "Wednesday": "11:30 AM-9:00 PM", "Thursday": "11:30 AM-9:00 PM", "Friday": "11:30 AM-9:00 PM", "Saturday": "11:30 AM-9:00 PM", "Sunday": "11:30 AM-9:00 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Cafe Pro Bono Small.jpeg"}, {"id": "ChIJm8EK_e-6j4ARgml6h3Srj60", "formattedAddress": "200 Sheridan Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4267836, "longitude": -122.1405856}, "googleMapsUri": "https://maps.google.com/?cid=12506403207208659330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cafferiace.com/", "displayName": {"text": "Caffe Riace", "languageCode": "en"}, "cuisine": "Italian", "description": "Family-owned California Avenue Sicilian trattoria since 1997 with outdoor piazza dining and housemade Italian specialties.", "phone": "(650) 473-9746", "menuUrl": "https://www.cafferiace.com/menu", "priceRange": "$$", "hours": {"Monday": "11:30 AM-9:00 PM", "Tuesday": "11:30 AM-9:00 PM", "Wednesday": "11:30 AM-9:00 PM", "Thursday": "11:30 AM-9:00 PM", "Friday": "11:30 AM-9:00 PM", "Saturday": "11:30 AM-9:00 PM", "Sunday": "11:30 AM-9:00 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Caffe Riace Small.jpeg"}, {"id": "ChIJ7c_w_4q6j4ARF8QWNPNwbck", "formattedAddress": "3740 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4175915, "longitude": -122.13196810000001}, "googleMapsUri": "https://maps.google.com/?cid=14514381363938247703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.celiasrestaurants.com/", "displayName": {"text": "Celia’s Mexican Restaurant", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Celias Small.jpeg", "description": "Daily fresh salsa, lard-free tortillas and skinless chicken define this longtime El Camino Real neighborhood staple.", "phone": "(650) 494-5040", "menuUrl": "https://www.celiasrestaurants.com/menu", "priceRange": "$$", "hours": {"Monday": "11:00 AM-9:00 PM", "Tuesday": "11:00 AM-9:00 PM", "Wednesday": "11:00 AM-9:00 PM", "Thursday": "11:00 AM-9:00 PM", "Friday": "11:00 AM-9:00 PM", "Saturday": "11:00 AM-9:00 PM", "Sunday": "11:00 AM-9:00 PM"}}, {"id": "ChIJTamC_qi7j4ARMAC_ZB2hHMI", "formattedAddress": "2180 W Bayshore Rd #120, Palo Alto, CA 94303, USA", "location": {"latitude": 37.448276899999996, "longitude": -122.1261363}, "googleMapsUri": "https://maps.google.com/?cid=13987231690322280496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.chefzhaokitchen.com/", "displayName": {"text": "Chef Zhao Kitchen", "languageCode": "en"}, "cuisine": "Chinese", "description": "Regional Chinese cooking with bold wok-fired dishes and dumplings popular with the Stanford community.", "phone": "(650) 521-0766", "menuUrl": "https://www.chefzhaokitchen.com/menu", "priceRange": "$$", "hours": {"Monday": "11:00 AM-9:30 PM", "Tuesday": "11:00 AM-9:30 PM", "Wednesday": "11:00 AM-9:30 PM", "Thursday": "11:00 AM-9:30 PM", "Friday": "11:00 AM-9:30 PM", "Saturday": "11:00 AM-9:30 PM", "Sunday": "11:00 AM-9:30 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Chef Zhao Kitchen Small.jpeg"}, {"id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc", "formattedAddress": "642 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.443916, "longitude": -122.160191}, "googleMapsUri": "https://maps.google.com/?cid=7492068501438780553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.coconutspaloalto.com/", "displayName": {"text": "Coconuts Caribbean Restaurant & Bar", "languageCode": "en"}, "cuisine": "Caribbean", "photoUrl": "images/restaurant-photos/palo-alto/Coconuts Small.jpeg", "description": "Jerk chicken, curried goat and oxtail bring island flavors to Silicon Valley in a lively full-bar setting.", "phone": "(650) 324-1000", "menuUrl": "https://www.coconutscaribbean.com/menu", "priceRange": "$$", "hours": {"Tuesday": "11:30 AM-9:00 PM", "Wednesday": "11:30 AM-9:00 PM", "Thursday": "11:30 AM-9:00 PM", "Friday": "11:30 AM-9:00 PM", "Saturday": "11:30 AM-9:00 PM", "Sunday": "11:30 AM-9:00 PM"}}, {"id": "ChIJd0Absfi6j4ARJUQZcc5Tzu0", "formattedAddress": "2605 Middlefield Rd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4343952, "longitude": -122.1301177}, "googleMapsUri": "https://maps.google.com/?cid=17135725778317165605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://comoestataqueria.net/", "displayName": {"text": "Como Esta Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Como Esta Small.jpeg", "description": "No-frills Middlefield Road taqueria with fresh-made burritos and tacos at the most affordable prices in Palo Alto.", "phone": "(650) 327-2200", "menuUrl": "https://www.comoestataqueria.com/menu", "priceRange": "$", "hours": {"Monday": "10:00 AM-9:00 PM", "Tuesday": "10:00 AM-9:00 PM", "Wednesday": "10:00 AM-9:00 PM", "Thursday": "10:00 AM-9:00 PM", "Friday": "10:00 AM-9:00 PM", "Saturday": "10:00 AM-9:00 PM", "Sunday": "10:00 AM-9:00 PM"}}, {"id": "ChIJY5UIijm7j4ARPkLgY0DXJuI", "formattedAddress": "538 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444609199999995, "longitude": -122.16152839999998}, "googleMapsUri": "https://maps.google.com/?cid=16295948973240238654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.coupacafe.com/", "displayName": {"text": "Coupa Cafe - Ramona", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/palo-alto/Coupa Cafe_Ramona Small.jpeg", "description": "Venezuelan cafe and Silicon Valley landmark since 2004, known for locally roasted coffee and gluten-free arepas.", "phone": "(650) 322-6872", "menuUrl": "https://www.coupacafe.com/menu", "priceRange": "$$", "hours": {"Monday": "7:00 AM-6:00 PM", "Tuesday": "7:00 AM-6:00 PM", "Wednesday": "7:00 AM-6:00 PM", "Thursday": "7:00 AM-6:00 PM", "Friday": "7:00 AM-6:00 PM", "Saturday": "7:00 AM-6:00 PM", "Sunday": "7:00 AM-6:00 PM"}}, {"id": "ChIJgbClrTm7j4ARJhcj3TrrG9g", "formattedAddress": "367 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4469366, "longitude": -122.16094960000001}, "googleMapsUri": "https://maps.google.com/?cid=15572298774614316838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.crepevine.com/?y_source=1_MTQ3MjMwNjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D", "displayName": {"text": "Crepevine Restaurants", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Crepevine Small.jpeg", "description": "All-day neighborhood cafe serving generous crepes, omelets, salads and sandwiches from breakfast through dinner.", "phone": "(650) 323-3601", "menuUrl": "https://www.crepevine.com/menu", "priceRange": "$$", "hours": {"Monday": "8:00 AM-9:00 PM", "Tuesday": "8:00 AM-9:00 PM", "Wednesday": "8:00 AM-9:00 PM", "Thursday": "8:00 AM-9:00 PM", "Friday": "8:00 AM-9:00 PM", "Saturday": "8:00 AM-9:00 PM", "Sunday": "8:00 AM-9:00 PM"}}, {"id": "ChIJSwaMPEq7j4ARrdiph55BO04", "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.446115500000005, "longitude": -122.16106979999999}, "googleMapsUri": "https://maps.google.com/?cid=5637171507721001133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://paloalto.mycurrypizza.com/", "displayName": {"text": "Curry Pizza House Palo Alto", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Curry Pizza House Small.jpeg", "phone": "(650) 319-6400", "hours": {"Monday": "10:00 AM – 10:00 PM", "Tuesday": "10:00 AM – 10:00 PM", "Wednesday": "10:00 AM – 10:00 PM", "Thursday": "10:00 AM – 10:00 PM", "Friday": "10:00 AM – 10:00 PM", "Saturday": "10:00 AM – 10:00 PM", "Sunday": "10:00 AM – 10:00 PM"}, "menuUrl": "https://currypizzahouse.com/locations/palo-alto/", "priceRange": "$$", "description": "Indian fusion pizza on University Avenue with butter chicken, tandoori chicken, and chili paneer pies alongside craft beer and outdoor seating."}, {"id": "ChIJtUAJ_4q6j4ARjgupREDbjSo", "formattedAddress": "3781 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4179259, "longitude": -122.13161269999998}, "googleMapsUri": "https://maps.google.com/?cid=3066347990385494926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.dasichuanrestaurant.com/", "displayName": {"text": "Da Sichuan Bistro", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Da Sichuan Bistro Small.jpeg", "phone": "(650) 849-2000", "hours": {"Monday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM", "Tuesday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM", "Wednesday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM", "Thursday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM", "Friday": "11:00 AM – 2:00 PM, 4:30 PM – 10:00 PM", "Saturday": "11:00 AM – 2:00 PM, 4:30 PM – 10:00 PM", "Sunday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM"}, "menuUrl": "http://www.dasichuanrestaurant.com/", "priceRange": "$$", "description": "Longstanding El Camino Real Sichuan kitchen famous for spicy dan dan noodles, mapo tofu, and owner warmth after six-plus years in Palo Alto."}, {"id": "ChIJ7ZNa4dG7j4ARszvuKU9_usY", "formattedAddress": "2363 Birch St #B, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4278581, "longitude": -122.14422800000001}, "googleMapsUri": "https://maps.google.com/?cid=14319897943160535987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Daigo", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 384-6880", "hours": {"Monday": "5:00 PM – 8:05 PM", "Tuesday": "5:00 PM – 8:05 PM", "Wednesday": "5:00 PM – 8:05 PM", "Thursday": "5:00 PM – 8:05 PM", "Friday": "5:00 PM – 8:05 PM", "Saturday": "5:00 PM – 8:05 PM", "Sunday": "5:00 PM – 8:05 PM"}, "menuUrl": "https://order.online/store/daigo-palo-alto-723254", "priceRange": "$$$", "photoUrl": "images/restaurant-photos/palo-alto/Daigo Small.jpeg", "description": "Hidden gem on Birch Street serving exceptional omakase, hamachi shots, and yuzu cheesecake in an intimate Japan-reminiscent setting."}, {"id": "ChIJe4kIFje7j4ARqb6yVqdp0tU", "formattedAddress": "129 Lytton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444781899999995, "longitude": -122.16510269999999}, "googleMapsUri": "https://maps.google.com/?cid=15407493442622897833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.online/business/darbar-5", "displayName": {"text": "Darbar Indian Cuisine", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Darbar Small.jpeg", "phone": "(650) 321-6688", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "menuUrl": "https://www.grubhub.com/restaurant/darbar-indian-cuisine-129-lytton-ave-palo-alto/5549096", "priceRange": "$$", "description": "Award-winning Indian kitchen one block from Stanford combining north and south regional dishes with a beloved weekday lunch buffet since the 1980s."}, {"id": "ChIJBVNwaxK6j4ARUPhWmCDHXYk", "formattedAddress": "799 San Antonio Rd, Palo Alto, CA 94303, USA", "location": {"latitude": 37.420349699999996, "longitude": -122.10223459999997}, "googleMapsUri": "https://maps.google.com/?cid=9898286498838935632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.dohatsutenramen.com/", "displayName": {"text": "Dohatsuten Ramen & Tapas", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Dohatsuten Small.jpeg", "phone": "(650) 493-2878", "hours": {"Monday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Tuesday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Wednesday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Thursday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Friday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Saturday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Sunday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM"}, "menuUrl": "https://dohatsutenramen.com/", "priceRange": "$$", "description": "Nagoya-style ramen with spicy minced pork and Japanese small plates in a vibrant family-friendly spot open since 2009."}, {"id": "ChIJHz4XFiW7j4ARn0Db50n4L2k", "formattedAddress": "855 El Camino Real #104, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4389992, "longitude": -122.1588592}, "googleMapsUri": "https://maps.google.com/?cid=7579549694194040991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://cafedoucefrance.com/", "displayName": {"text": "Douce France", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Douce France Small.jpeg", "phone": "(650) 322-3601", "hours": {"Monday": "9:00 AM – 5:00 PM", "Tuesday": "9:00 AM – 5:00 PM", "Wednesday": "9:00 AM – 5:00 PM", "Thursday": "9:00 AM – 5:00 PM", "Friday": "9:00 AM – 5:00 PM", "Saturday": "9:00 AM – 5:00 PM", "Sunday": "9:00 AM – 5:00 PM"}, "menuUrl": "https://www.cafedoucefrance.com/", "priceRange": "$$", "description": "Alsatian bakery cafe in Town and Country Village since 1981, beloved for handmade croissants, buckwheat crepes, and Lavazza espresso."}, {"id": "ChIJwVXiPQ-7j4ARm5uHGNqN66U", "formattedAddress": "530 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4454109, "longitude": -122.161097}, "googleMapsUri": "https://maps.google.com/?cid=11955805603639040923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.mealkeyway.com/customer/release/index?mid=4b4c333472657138707150773566592b3239424469673d3d#/main", "displayName": {"text": "Dumpling Hours-Palo Alto", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Dumpling Hours Small.jpeg", "phone": "(650) 323-1888", "hours": {"Monday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Tuesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Wednesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Thursday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Friday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Saturday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Sunday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM"}, "menuUrl": "https://order.online/store/dumpling-hours-palo-alto-29675092", "priceRange": "$$", "description": "Palo Alto's go-to dumpling house with handmade xiao long bao, pan-fried dumplings, and noodle soups served twice daily."}, {"id": "ChIJ84zhlRG6j4ARRHn_8eTSKj4", "formattedAddress": "920 Commercial St, Palo Alto, CA 94303, USA", "location": {"latitude": 37.422913799999996, "longitude": -122.099947}, "googleMapsUri": "https://maps.google.com/?cid=4479624660127807812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "El Taco Ranchero", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 471-3868", "hours": {"Monday": "10:00 AM – 6:00 PM", "Tuesday": "10:00 AM – 6:00 PM", "Wednesday": "10:00 AM – 6:00 PM", "Thursday": "10:00 AM – 6:00 PM", "Friday": "10:00 AM – 6:00 PM", "Saturday": "10:00 AM – 6:00 PM"}, "menuUrl": "https://www.doordash.com/business/el-ranchero-49577/menu/", "priceRange": "$", "description": "No-frills Mexican street food counter with fresh-made tacos and burritos at some of the most affordable prices on the Peninsula."}, {"id": "ChIJRTRAoc67j4ARM-MLNMDboBo", "formattedAddress": "550 Waverley St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.44648120000001, "longitude": -122.1599474}, "googleMapsUri": "https://maps.google.com/?cid=1918775059813229363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ethelsfancypa.com/", "displayName": {"text": "Ethel's Fancy", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Naschmrkt Small.jpeg", "phone": "(650) 561-4860", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:30 PM", "Saturday": "5:00 PM – 9:30 PM"}, "menuUrl": "https://www.ethelsfancypa.com/", "priceRange": "$$$", "description": "A cozy upscale neighborhood restaurant in downtown Palo Alto focused on locally sourced seasonal ingredients and a thoughtfully curated wine list."}, {"id": "ChIJ4a0RmI67j4ARqr2S5nEYX2U", "formattedAddress": "518 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4453864, "longitude": -122.16135999999999}, "googleMapsUri": "https://maps.google.com/?cid=7304583998096981418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ettanrestaurant.com/", "displayName": {"text": "Ettan", "languageCode": "en"}, "cuisine": "Indian", "phone": "(650) 752-6281", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "https://www.ettanrestaurant.com/", "priceRange": "$$$", "photoUrl": "images/restaurant-photos/palo-alto/Ettan Small.jpeg", "description": "Critically acclaimed modern Indian restaurant from acclaimed chef Srijith Gopinathan offering a refined tasting menu and a la carte with a curated wine list."}, {"id": "ChIJByU8Zze7j4ARtKef7nHMEks", "formattedAddress": "420 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4451287, "longitude": -122.16379929999998}, "googleMapsUri": "https://maps.google.com/?cid=5409610892132198324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.evvia.net/", "displayName": {"text": "Evvia Estiatorio", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Evvia Small.jpeg", "phone": "(650) 326-0983", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"}, "menuUrl": "https://evvia.net/menu/", "priceRange": "$$$$", "description": "Celebrated Greek kitchen on Emerson Street with wood-fired lamb, whole fish, and mezze that have earned consistent acclaim for over 25 years."}, {"id": "ChIJJS3eBO-6j4AR55CwERBNE34", "formattedAddress": "2500 El Camino Real Suite 105, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4242609, "longitude": -122.1449674}, "googleMapsUri": "https://maps.google.com/?cid=9084689604748021991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.fambriniscafe.com/", "displayName": {"text": "Fambrini’s Cafe", "languageCode": "en"}, "cuisine": "Breakfast", "phone": "(650) 858-1268", "hours": {"Monday": "9:30 AM – 3:00 PM", "Tuesday": "9:30 AM – 3:00 PM", "Wednesday": "9:30 AM – 3:00 PM", "Thursday": "9:30 AM – 3:00 PM", "Friday": "9:30 AM – 3:00 PM", "Saturday": "10:00 AM – 3:00 PM", "Sunday": "10:00 AM – 3:00 PM"}, "menuUrl": "https://www.fambriniscafe.com/", "priceRange": "$$", "photoUrl": "images/restaurant-photos/palo-alto/Fambrinis Cafe Small.jpeg", "description": "Cheerful daytime cafe near Stanford serving generous housemade soups, paninis, and daily specials in a relaxed neighborhood setting."}, {"id": "ChIJ2VtDOzS7j4ARaKOgGvJXoJ4", "formattedAddress": "180 El Camino Real G-2, Palo Alto, CA 94304, USA", "location": {"latitude": 37.44457, "longitude": -122.17032979999999}, "googleMapsUri": "https://maps.google.com/?cid=11430232551606756200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.flemingssteakhouse.com/Locations/CA/Palo-Alto?y_source=1_MTU1MDMxNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D", "displayName": {"text": "Fleming’s Prime Steakhouse & Wine Bar", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/palo-alto/Flemings Small.jpeg", "phone": "(650) 328-8888", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "4:00 PM – 10:00 PM", "Sunday": "4:00 PM – 9:00 PM"}, "menuUrl": "https://www.flemingssteakhouse.com/locations/ca/palo-alto", "priceRange": "$$$$", "description": "Upscale steakhouse featuring prime dry-aged cuts and one of the most extensive wine-by-the-glass programs of any Peninsula restaurant."}, {"id": "ChIJ5Q2_GWO6j4AREsesK8JkKW4", "formattedAddress": "4119 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.413888899999996, "longitude": -122.1258333}, "googleMapsUri": "https://maps.google.com/?cid=7937986603336386322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://fukisushi.com/", "displayName": {"text": "Fuki Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Fuki-Sushi Small.jpeg", "phone": "(650) 494-9383", "hours": {"Monday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Tuesday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Wednesday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Thursday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Friday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Saturday": "5:15 PM – 9:00 PM"}, "menuUrl": "https://fukisushi.com/menu/", "priceRange": "$$$", "description": "Elegant California Avenue sushi restaurant with a devoted following for its pristine nigiri, omakase options, and serene unhurried dining pace."}, {"id": "ChIJ90rubDS7j4AR7pLFdYlNGU4", "formattedAddress": "660 Stanford Shopping Center #244B, Palo Alto, CA 94304, USA", "location": {"latitude": 37.442727399999995, "longitude": -122.1705035}, "googleMapsUri": "https://maps.google.com/?cid=5627614462157886190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.gofishpokebar.com/", "displayName": {"text": "Go Fish Poke Bar- Stanford Shopping Center", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Go Fish Poke Bar Small.jpeg", "phone": "(650) 656-8291", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.ubereats.com/store/go-fish-poke-bar-palo-alto/SzN1KTv5Ss2cGdx-CoWJDw", "priceRange": "$$", "description": "Build-your-own poke bowls with fresh ahi tuna, salmon, and creative sauces at Stanford Shopping Center."}, {"id": "ChIJP_XllSS7j4ARhy2W_qw79aQ", "formattedAddress": "855 El Camino Real #65, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4379565, "longitude": -122.1598063}, "googleMapsUri": "https://maps.google.com/?cid=11886472405705960839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://gotts.com/", "displayName": {"text": "Gott's", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Gotts Roadside Small.jpeg", "phone": "(650) 326-1000", "hours": {"Monday": "10:30 AM – 9:00 PM", "Tuesday": "10:30 AM – 9:00 PM", "Wednesday": "10:30 AM – 9:00 PM", "Thursday": "10:30 AM – 9:00 PM", "Friday": "10:30 AM – 9:00 PM", "Saturday": "10:30 AM – 9:00 PM", "Sunday": "10:30 AM – 9:00 PM"}, "menuUrl": "https://www.gotts.com/menu/", "priceRange": "$$", "description": "Northern California roadside classic known for grass-fed burgers, crispy onion rings, and seasonal milkshakes in a bustling open-air setting."}, {"id": "ChIJ-Z6WDW26j4ARvRm_XzDSf3o", "formattedAddress": "3950 Middlefield Rd, Palo Alto, CA 94303, USA", "location": {"latitude": 37.418678299999996, "longitude": -122.10912849999998}, "googleMapsUri": "https://maps.google.com/?cid=8827004899876084157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.greenelephantgourmet.com/", "displayName": {"text": "Green Elephant Gourmet", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/palo-alto/Green Elephant Gourmet Small.jpeg", "phone": "(650) 494-7391", "hours": {"Tuesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Wednesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Thursday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Friday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Saturday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Sunday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM"}, "menuUrl": "http://greenelephantgourmet.com/", "priceRange": "$$", "description": "Beloved neighborhood Thai kitchen with a devoted local following for its green curry, pad see ew, and generous lunch specials."}, {"id": "ChIJZ-fddRO7j4AR_0Gsc_U5HbQ", "formattedAddress": "855 El Camino Real #161, Palo Alto, CA 94301, USA", "location": {"latitude": 37.439176499999995, "longitude": -122.1581733}, "googleMapsUri": "https://maps.google.com/?cid=12978593427522077183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.hatchedbites.com/", "displayName": {"text": "Hatched", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/palo-alto/Hatched Small.jpeg", "description": "Egg-forward breakfast spot at Town and Country Village with Asian-inflected sandwiches, smashed avocado toasts, and ceremonial-grade matcha lattes.", "phone": "(650) 561-3386", "hours": {"Monday": "8:00 AM – 2:30 PM", "Tuesday": "8:00 AM – 2:30 PM", "Wednesday": "8:00 AM – 2:30 PM", "Thursday": "8:00 AM – 2:30 PM", "Friday": "8:00 AM – 2:30 PM", "Saturday": "8:00 AM – 2:30 PM", "Sunday": "8:00 AM – 2:30 PM"}, "menuUrl": "https://www.hatchedbites.com/menu", "priceRange": "$$"}, {"id": "ChIJB6tydHK7j4ARMYHQSAGD5ig", "formattedAddress": "544 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4439995, "longitude": -122.1620763}, "googleMapsUri": "https://maps.google.com/?cid=2947187047700398385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://linktr.ee/teapot_inc", "displayName": {"text": "HE&C Tea + Pot", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/He&C Tea + Pot Small.jpeg", "description": "Individual hot pot concept on Emerson Street serving Kagoshima wagyu beef and handcrafted fruit teas with organic milk and fresh fruit.", "phone": "(650) 600-0149", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://hecteapot.com/", "priceRange": "$$"}, {"id": "ChIJh6RQtJa7j4AR-KdyKoeGyQ4", "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4461225, "longitude": -122.16108659999999}, "googleMapsUri": "https://maps.google.com/?cid=1065530701940697080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://hiddentapandbarrel.com/", "displayName": {"text": "Hidden Tap And Barrel Palo Alto", "languageCode": "en"}, "cuisine": "Other", "description": "Craft beer and cocktail bar with a rotating tap list and a kitchen serving elevated pub food and weekend brunch.", "phone": "(650) 433-2540", "hours": {"Tuesday": "4:00 PM – 10:00 PM", "Wednesday": "4:00 PM – 10:00 PM", "Thursday": "4:00 PM – 10:00 PM", "Friday": "11:30 AM – 11:00 PM", "Saturday": "11:30 AM – 11:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://hiddentapandbarrel.com/palo-alto", "priceRange": "$$"}, {"id": "ChIJcymZ93y7j4ARGg6qXQT9Adc", "formattedAddress": "3441 Alma St Suite 100, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4191895, "longitude": -122.12491339999998}, "googleMapsUri": "https://maps.google.com/?cid=15492942388324339226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.holysushi.org/", "displayName": {"text": "Holy Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Holy Sushi Small.jpeg", "description": "Casual downtown sushi spot with an extensive menu of rolls, nigiri, and Japanese entrees at approachable everyday prices.", "phone": "(650) 328-3600", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$", "menuUrl": "https://holysushi.org/menu"}, {"id": "ChIJtRLy85ywj4AR38KYK7uJ0Yc", "formattedAddress": "3691 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4184801, "longitude": -122.13286660000001}, "googleMapsUri": "https://maps.google.com/?cid=9786754902236119775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://hongkongrestaurantpl.com/", "displayName": {"text": "Hong Kong Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Hong Kong Restaurant Small.jpeg", "description": "Longstanding Cantonese kitchen on El Camino Real serving traditional homestyle dishes like walnut prawns, beef clay pot, and shrimp chow fun.", "phone": "(650) 325-3788", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJkTR5DEy7j4ARg9mfRMQbDQc", "formattedAddress": "855 El Camino Real Ste 151, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4390997, "longitude": -122.15842599999999}, "googleMapsUri": "https://maps.google.com/?cid=508092862741600643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.horsefeather.com/", "displayName": {"text": "Horsefeather Palo Alto", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Horse Feather Small.jpeg", "description": "SF's beloved New American restaurant at Town and Country Village with Asian-Latin inspired dishes, inventive cocktails, and a bold low-proof program.", "phone": "(650) 231-2177", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 11:00 PM", "Saturday": "5:00 PM – 11:00 PM", "Sunday": "5:00 PM – 9:00 PM"}, "menuUrl": "https://horsefeather.com/pa/menu", "priceRange": "$$$"}, {"id": "ChIJHz4XFiW7j4AR4OCRJ5FPWnQ", "formattedAddress": "855 El Camino Real #60, Palo Alto, CA 94301, USA", "location": {"latitude": 37.438029, "longitude": -122.160035}, "googleMapsUri": "https://maps.google.com/?cid=8384101141156323552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.howiesartisanpizza.com/", "displayName": {"text": "Howie's Artisan Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Howies Artisan Pizza Small.jpeg", "description": "Multiple-time Palo Alto Weekly Best Pizza winner with California thin-crust pies, housemade sausage and ricotta, and fresh handmade pasta since 2009.", "phone": "(650) 326-1111", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.howiesartisanpizza.com/", "priceRange": "$$"}, {"id": "ChIJw9v7bFC7j4ARqHLv-7H0mZQ", "formattedAddress": "715 Stanford Shopping Center, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4427416, "longitude": -122.17288519999998}, "googleMapsUri": "https://maps.google.com/?cid=10707858634323227304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://eatathummus.com/", "displayName": {"text": "Hummus Mediterranean Kitchen", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Hummus Small.jpeg", "description": "Halal Turkish-Mediterranean kitchen at Stanford Shopping Center with fresh-baked pita, housemade hummus, slow-roasted gyro meats, and lahmacun.", "phone": "(650) 321-6602", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.eatathummus.com/palo-alto", "priceRange": "$$"}, {"id": "ChIJBxeyFAC7j4ARQqr2OhsHIfA", "formattedAddress": "460 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4455552, "longitude": -122.16287459999998}, "googleMapsUri": "https://maps.google.com/?cid=17303119056868911682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ikiomakasepaloalto.com/", "displayName": {"text": "Iki Omakase", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Iki Omakase Small.jpeg", "description": "Bay Area-style Edomae omakase at $195 per person from Chef Jiabo Li, trained at Sushi Hon and Sato Omakase in San Francisco.", "phone": "(650) 656-8180", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://www.ikiomakasepaloalto.com/", "priceRange": "$$$$"}, {"id": "ChIJq0UsRXS7j4ARiC9b0hTPMjg", "formattedAddress": "151 California Ave unit e, Palo Alto, CA 94306, USA", "location": {"latitude": 37.428383, "longitude": -122.14229350000001}, "googleMapsUri": "https://maps.google.com/?cid=4049526703294984072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.imperialtreasurepaloalto.com/", "displayName": {"text": "Imperial treasure", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Imperial Treasure Small.jpeg", "description": "Upscale Chinese restaurant on California Avenue with tableside-carved Peking duck, xiao long bao, and Szechuan specialties in an elegant setting.", "phone": "(650) 326-6888", "hours": {"Monday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "menuUrl": "https://www.imperialtreasurepaloalto.com/", "priceRange": "$$$"}, {"id": "ChIJC89ba1Vk3IAR76YZVUjy_gw", "formattedAddress": "3295 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4209587, "longitude": -122.1369645}, "googleMapsUri": "https://maps.google.com/?cid=936452165018953455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://indorestaurant.com/", "displayName": {"text": "INDO Restaurant & Lounge", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Indo Small.jpeg", "description": "Indonesian fusion kitchen on El Camino Real blending native Chef Diana Anwar's authentic recipes with California-French technique and craft cocktails.", "phone": "(650) 332-7777", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://www.indorestaurant.com/", "priceRange": "$$$"}, {"id": "ChIJmVLGgvi6j4ARTTuCWlOncSk", "formattedAddress": "2710 Middlefield Rd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.433177799999996, "longitude": -122.12942319999999}, "googleMapsUri": "https://maps.google.com/?cid=2986352004365957965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.indochineca.com/", "displayName": {"text": "Indochine", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Indochine Small.jpeg", "description": "Longstanding Middlefield Road Thai and Vietnamese kitchen with bold curries, fresh spring rolls, and catering for private events and corporate meetings.", "phone": "(650) 321-8880", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "menuUrl": "https://www.indochinethai.com/", "priceRange": "$$"}, {"id": "ChIJC3GmmeW6j4ARj7GQjerUWUY", "formattedAddress": "341 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.426967999999995, "longitude": -122.144055}, "googleMapsUri": "https://maps.google.com/?cid=5069316959444709775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.italicorestaurant.com/", "displayName": {"text": "iTalico", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/palo-alto/iTalico Small.jpeg", "description": "Michelin Bib Gourmand-recognized California Avenue Italian with Neapolitan-style pizza, housemade pasta, and a Wine Spectator-awarded wine list.", "phone": "(650) 318-6199", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://www.italicorestaurant.com/menu-italico", "priceRange": "$$$"}, {"id": "ChIJ06EYWO-6j4AR5x1zss9iick", "formattedAddress": "477 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.425408399999995, "longitude": -122.14532919999998}, "googleMapsUri": "https://maps.google.com/?cid=14522247117624516071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.izzysbrooklynbagels.com/%20%20%20%20%20https://izzysbb.square.site/#4", "displayName": {"text": "Izzy's Brooklyn Bagels", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/palo-alto/Izzys Brooklyn Bagels Small.jpeg", "description": "Colorful hand-rolled bagels, deli sandwiches, and coffee served daily from 6 AM at a beloved Palo Alto institution.", "phone": "(650) 328-5588", "hours": {"Monday": "6:00 AM – 3:00 PM", "Tuesday": "6:00 AM – 3:00 PM", "Wednesday": "6:00 AM – 3:00 PM", "Thursday": "6:00 AM – 3:00 PM", "Friday": "6:00 AM – 3:00 PM", "Saturday": "6:00 AM – 3:00 PM", "Sunday": "6:00 AM – 3:00 PM"}, "menuUrl": "https://www.izzysbrooklynbagels.com/menu", "priceRange": "$"}, {"id": "ChIJIdvn8OW6j4ARLuSJEAHBDoY", "formattedAddress": "454 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.425861999999995, "longitude": -122.14545299999999}, "googleMapsUri": "https://maps.google.com/?cid=9659870461072892974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.jinshorestaurant.com/", "displayName": {"text": "Jin Sho", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Jinsho Small.jpeg", "description": "Refined California Avenue Japanese restaurant with chefs trained at Nobu NY, praised for pristine miso black cod, blue fin tuna, and seasonal sashimi.", "phone": "(650) 617-3122", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "https://www.jinshorestaurant.com/", "priceRange": "$$$"}, {"id": "ChIJK3g59OW6j4AR5Q5CCNShy3o", "formattedAddress": "405 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4263889, "longitude": -122.14455830000001}, "googleMapsUri": "https://maps.google.com/?cid=8848343824943156965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://joaniescafepaloalto.com/", "displayName": {"text": "Joanie's Cafe", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/palo-alto/Joanies Cafe Small.jpeg", "description": "Four-time Palo Alto Weekly Best Breakfast winner known for generous American portions, smoked salmon omelets, Cobb salad, and hash browns.", "phone": "(650) 326-8485", "hours": {"Monday": "7:00 AM – 3:00 PM", "Tuesday": "7:00 AM – 3:00 PM", "Wednesday": "7:00 AM – 3:00 PM", "Thursday": "7:00 AM – 3:00 PM", "Friday": "7:00 AM – 3:00 PM", "Saturday": "7:00 AM – 3:00 PM", "Sunday": "7:00 AM – 3:00 PM"}, "menuUrl": "http://joaniescafepaloalto.com/menus.html", "priceRange": "$$"}, {"id": "ChIJqQzX9eW6j4ARRQTr9028s7k", "formattedAddress": "451 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.425717399999996, "longitude": -122.1451083}, "googleMapsUri": "https://maps.google.com/?cid=13381245960905753669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.kaligreekkitchen.com/", "displayName": {"text": "Kali Greek Kitchen", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Kali Small.jpeg", "description": "Fast-casual Greek kitchen at Stanford Shopping Center serving housemade gyros, falafel, and fresh-baked pita with a vibrant Mediterranean spread.", "phone": "(650) 485-3134", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://kaligreekkitchen.com/menu", "priceRange": "$$"}, {"id": "ChIJ0dOudwC7j4AREfbInswM9lA", "formattedAddress": "4131 El Camino Way, Palo Alto, CA 94306, USA", "location": {"latitude": 37.413880299999995, "longitude": -122.124792}, "googleMapsUri": "https://maps.google.com/?cid=5833864440281888273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://kanjisushiramen.menu11.com/", "displayName": {"text": "Kanji Sushi & Ramen", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Kanji Sushi Small.jpeg", "description": "Lively Japanese spot combining creative sushi rolls and rich tonkotsu and miso ramen bowls in a casual, welcoming setting.", "phone": "(650) 565-8868", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJMcUKNDi7j4AREnV3Wx48tZg", "formattedAddress": "330 Lytton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4470525, "longitude": -122.16237349999999}, "googleMapsUri": "https://maps.google.com/?cid=11003767365630915858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://kanpaipaloalto.com/", "displayName": {"text": "Kanpai", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Kanpai Small.jpeg", "description": "Intimate Lytton Avenue Japanese restaurant with a tranquil Japan-inspired interior, traditional donburi, sushi, and an extensive sake selection.", "phone": "(650) 321-7796", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:00 PM", "Saturday": "5:00 PM – 9:00 PM", "Sunday": "5:00 PM – 9:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJbxXHNb-7j4ARBRYRzHaw37A", "formattedAddress": "339 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4465508, "longitude": -122.1613223}, "googleMapsUri": "https://maps.google.com/?cid=12745099494758094341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.khazanapaloalto.com/", "displayName": {"text": "Khazana by Chef Sanjeev Kapoor", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Khazana Small.jpeg", "description": "Modern Indian concept on University Avenue from India's most celebrated TV chef with seasonal cocktails and a full bar.", "phone": "(650) 326-0000", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"}, "menuUrl": "https://www.khazanapaloalto.com/", "priceRange": "$$$"}, {"id": "ChIJc5w7vvy6j4ARAFnKDu5CVRI", "formattedAddress": "2680 Middlefield Rd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4334804, "longitude": -122.13011600000002}, "googleMapsUri": "https://maps.google.com/?cid=1321035655920900352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.kirks-steakburgers.com/?utm_source=gmb&utm_medium=organic&utm_campaign=palo+alto", "displayName": {"text": "Kirk's SteakBurgers - Palo Alto", "languageCode": "en"}, "cuisine": "Burgers", "photoUrl": "images/restaurant-photos/palo-alto/Kirks Small.jpeg", "description": "Bay Area burger institution grinding USDA choice steak in-house daily for thick patties and a devoted following for over 40 years.", "phone": "(650) 324-6151", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://kirksburgers.com/menu/", "priceRange": "$$"}, {"id": "ChIJRbsp9uW6j4ARyUJHxK7xFX8", "formattedAddress": "463 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4254329, "longitude": -122.1452003}, "googleMapsUri": "https://maps.google.com/?cid=9157491150247379657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.labodeguita.com/", "displayName": {"text": "La Bodeguita del Medio", "languageCode": "en"}, "cuisine": "Caribbean", "photoUrl": "images/restaurant-photos/palo-alto/La Bodeguita Del Medio Small.jpeg", "description": "Multiple Palo Alto Weekly Best Ambience and Best Latin American winner with Cuban ropa vieja, rum cocktails, and a heated California Avenue patio.", "phone": "(650) 326-7762", "hours": {"Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://labodeguita.com/", "priceRange": "$$"}, {"id": "ChIJp_VW7eW6j4ARpcOR4xWV7bo", "formattedAddress": "415 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4262194, "longitude": -122.1446667}, "googleMapsUri": "https://maps.google.com/?cid=13469585981779854245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.labohemepaloalto.com/", "displayName": {"text": "La Boheme", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/La Boheme Small.jpeg", "description": "Intimate French-Californian dinner spot with refined coq au vin, beef bourguignon, and a thoughtfully curated wine list for special evenings.", "phone": "(650) 328-8180", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://labohemepaloalto.com/menu", "priceRange": "$$$"}, {"id": "ChIJX2dDTkW7j4ARFo59XEuoaPk", "formattedAddress": "3906 Middlefield Rd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4192296, "longitude": -122.11039539999999}, "googleMapsUri": "https://maps.google.com/?cid=17971799354649710102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://lequyorg.wordpress.com/", "displayName": {"text": "LeQuy", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Le Quy Small.jpeg", "description": "Neighborhood Vietnamese restaurant with a loyal Palo Alto following for pho, banh mi, and classic stir-fries at everyday prices.", "phone": "(650) 326-5420", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJScdLwDm7j4ARCbo6bng01sU", "formattedAddress": "271 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.445838599999995, "longitude": -122.16219160000001}, "googleMapsUri": "https://maps.google.com/?cid=14255639362337946121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.localunion271.com/", "displayName": {"text": "Local Union 271", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Local Union 271 Small.jpeg", "description": "Family-owned farm-to-table American kitchen with scratch-made dishes, locally sourced ingredients, and handcrafted decor throughout.", "phone": "(650) 747-0555", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "menuUrl": "https://localunion271.com/menu", "priceRange": "$$$"}, {"id": "ChIJEWzP8uW6j4ARv-d5dhqlvk8", "formattedAddress": "425 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4260752, "longitude": -122.14474440000001}, "googleMapsUri": "https://maps.google.com/?cid=5746211707646764991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.lotusthaibistro.com/home", "displayName": {"text": "Lotus Thai Bistro", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/palo-alto/Lotus Thai Bistro Small.jpeg", "description": "Reliable California Avenue Thai bistro with a broad menu of curries, pad Thai, and noodle dishes for casual lunch and dinner.", "phone": "(650) 329-8424", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://www.lotusthaibistro.com/menu", "priceRange": "$$"}, {"id": "ChIJG7rdAmS7j4ARayztR1t8nNg", "formattedAddress": "488 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4480031, "longitude": -122.15927529999999}, "googleMapsUri": "https://maps.google.com/?cid=15608487140049890411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.louandherberts.com/?y_source=1_MTA2Njc4ODczNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D", "displayName": {"text": "Lou & Herbert's", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Lou & Herberts Cafe Small.jpeg", "description": "All-day neighborhood American cafe serving breakfast and dinner from early morning through evening with a relaxed, welcoming atmosphere.", "phone": "(650) 521-0651", "hours": {"Monday": "7:00 AM – 9:00 PM", "Tuesday": "7:00 AM – 9:00 PM", "Wednesday": "7:00 AM – 9:00 PM", "Thursday": "7:00 AM – 9:00 PM", "Friday": "7:00 AM – 9:00 PM", "Saturday": "7:00 AM – 9:00 PM", "Sunday": "7:00 AM – 9:00 PM"}, "menuUrl": "https://www.louandherberts.com/", "priceRange": "$$"}, {"id": "ChIJq2vyQB67j4ARBkHWA8vFNqU", "formattedAddress": "420 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4458957, "longitude": -122.1632956}, "googleMapsUri": "https://maps.google.com/?cid=11904920140733890822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.macarenarestaurant.com/", "displayName": {"text": "Macarena Restaurant in Palo Alto", "languageCode": "es"}, "cuisine": "Spanish", "photoUrl": "images/restaurant-photos/palo-alto/Macarena Small.jpeg", "phone": "(650) 321-8772", "hours": {"Monday": "11:30 AM – 9:30 PM", "Tuesday": "11:30 AM – 9:30 PM", "Wednesday": "11:30 AM – 9:30 PM", "Thursday": "11:30 AM – 9:30 PM", "Friday": "11:30 AM – 9:30 PM", "Saturday": "11:30 AM – 9:30 PM", "Sunday": "11:30 AM – 9:30 PM"}, "menuUrl": "https://www.macarena.restaurant/menu", "priceRange": "$$", "description": "Traditional Spanish kitchen on Ramona Street with Michelin backing, authentic paellas, croquetas de jamon, and house-made sangria."}, {"id": "ChIJQSEisjC7j4AR3juLmOBOEys", "formattedAddress": "27 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4430264, "longitude": -122.16552460000001}, "googleMapsUri": "https://maps.google.com/?cid=3103911294727306206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://macpark.com/?utm_source=google", "displayName": {"text": "MacArthur Park Restaurant and Bar", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/MacArthur Park Small.jpeg", "phone": "(650) 321-9990", "hours": {"Tuesday": "4:30 PM – 9:00 PM", "Wednesday": "4:30 PM – 9:00 PM", "Thursday": "4:30 PM – 9:00 PM", "Friday": "4:30 PM – 9:00 PM", "Saturday": "4:30 PM – 9:00 PM"}, "menuUrl": "https://macpark.com/menus/", "priceRange": "$$", "description": "Palo Alto landmark since 1972 in a 1918 Julia Morgan building, famous for award-winning mesquite BBQ baby back ribs and prime rib."}, {"id": "ChIJK7u-fDi7j4ARObxmEVWASuE", "formattedAddress": "499 Lytton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.449140899999996, "longitude": -122.1607321}, "googleMapsUri": "https://maps.google.com/?cid=16233928909662895161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.mademoisellecolette.com/", "displayName": {"text": "Mademoiselle Colette", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Mademoisel Colette Small.jpeg", "phone": "(650) 326-8485", "hours": {"Monday": "8:00 AM – 4:00 PM", "Tuesday": "8:00 AM – 4:00 PM", "Wednesday": "8:00 AM – 4:00 PM", "Thursday": "8:00 AM – 4:00 PM", "Friday": "8:00 AM – 4:00 PM", "Saturday": "8:00 AM – 4:00 PM", "Sunday": "8:00 AM – 4:00 PM"}, "menuUrl": "https://www.mademoisellecolette.com/palo-alto-menu/", "priceRange": "$$", "description": "French patisserie on Lytton Avenue known for buttery handmade croissants, elegant tarts, and silky espresso since 2015."}, {"id": "ChIJhdRF_Zq7j4ARNcQ9kDH1444", "formattedAddress": "383 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.447201799999995, "longitude": -122.16081659999999}, "googleMapsUri": "https://maps.google.com/?cid=10296342766321255477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.marugameudon.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ", "displayName": {"text": "Marugame Udon", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Marugame Udon Small.jpeg", "phone": "(650) 681-1280", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "menuUrl": "https://www.marugameudon.com/menu/", "priceRange": "$$", "description": "Japanese fast-casual chain on University Avenue with handcrafted Sanuki-style udon made to order in an open theater kitchen."}, {"id": "ChIJEWzP8uW6j4ARkmIR7vba8es", "formattedAddress": "433 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.426045599999995, "longitude": -122.1448464}, "googleMapsUri": "https://maps.google.com/?cid=17001610822391259794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mediterraneanwraps.com/?utm_source=google", "displayName": {"text": "Mediterranean Wraps", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Mediterranean Wraps Small.jpeg", "phone": "(650) 326-2900", "hours": {"Monday": "10:30 AM – 8:00 PM", "Tuesday": "10:30 AM – 8:00 PM", "Wednesday": "10:30 AM – 8:00 PM", "Thursday": "10:30 AM – 8:00 PM", "Friday": "10:30 AM – 8:00 PM", "Saturday": "11:00 AM – 7:00 PM"}, "priceRange": "$", "description": "Quick-service Mediterranean counter with fresh-made wraps, falafel, and gyros at some of the most affordable prices on California Avenue."}, {"id": "ChIJH_zZcy-7j4ARwPbn3XT47A4", "formattedAddress": "167 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.443697799999995, "longitude": -122.16209699999997}, "googleMapsUri": "https://maps.google.com/?cid=1075507591857567424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mendocinofarms.com/locations/palo-alto", "displayName": {"text": "Mendocino Farms", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Mendocino Farms Small.jpeg", "phone": "(650) 561-1540", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.mendocinofarms.com/menu/palo-alto/", "priceRange": "$$", "description": "California sandwich and salad chain known for fresh ingredients, bold flavor combinations, and extensive options for all dietary preferences."}, {"id": "ChIJgfDze5W7j4ARwXfuLNFJ6jM", "formattedAddress": "640 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4432991, "longitude": -122.16098969999999}, "googleMapsUri": "https://maps.google.com/?cid=3740883603235436481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.meyhouserestaurant.com/", "displayName": {"text": "Meyhouse & Meyhouse Jazz Club", "languageCode": "en"}, "cuisine": "Turkish", "photoUrl": "images/restaurant-photos/palo-alto/Meyhouse Small.jpeg", "phone": "(650) 521-9002", "hours": {"Tuesday": "5:00 PM – 11:00 PM", "Wednesday": "5:00 PM – 11:00 PM", "Thursday": "5:00 PM – 11:00 PM", "Friday": "5:00 PM – 11:00 PM", "Saturday": "5:00 PM – 11:00 PM", "Sunday": "5:00 PM – 11:00 PM"}, "menuUrl": "https://www.meyhouserestaurant.com/palo-alto", "priceRange": "$$$", "description": "Elevated Turkish-Mediterranean dining on Emerson Street with live jazz, tender lamb chops, vibrant mezes, and a curated wine list."}, {"id": "ChIJAQDASDq7j4ARmCZUEs0AJD4", "formattedAddress": "632 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4433231, "longitude": -122.161034}, "googleMapsUri": "https://maps.google.com/?cid=4477704810288916120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mezekebab.com/", "displayName": {"text": "Meze Kebab", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Meze Kebab Small.jpeg", "phone": "(650) 521-0282", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Downtown Palo Alto Turkish kitchen serving housemade hummus, grilled kebabs, and Mediterranean small plates next door to Meyhouse."}, {"id": "ChIJ1QZb_YW7j4ARtxp0qRa2n-o", "formattedAddress": "2305 El Camino Real suite a, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4257573, "longitude": -122.14644109999998}, "googleMapsUri": "https://maps.google.com/?cid=16906431734620625591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mjsushi.net/", "displayName": {"text": "MJ Sushi Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/MJ Sushi Small.jpeg", "phone": "(650) 617-4567", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$", "description": "Casual neighborhood sushi spot with generous portions of fresh nigiri, creative rolls, and beef udon at everyday prices.", "menuUrl": "https://mjsushi.net/menu"}, {"id": "ChIJE4gDeLG7j4AR_kI1Gek5x9E", "formattedAddress": "447 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.425763599999996, "longitude": -122.1449994}, "googleMapsUri": "https://maps.google.com/?cid=15116114347605443326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://namasteindiabistro.com/", "displayName": {"text": "Namaste Indian Cuisine", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Namaste Small.jpeg", "phone": "(650) 462-9696", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "priceRange": "$$", "description": "Neighborhood Indian kitchen with a devoted local following for butter chicken, garlic naan, and a weekday lunch buffet."}, {"id": "ChIJq6oGtOW6j4AROUSVKcfXF0k", "formattedAddress": "2323 Birch St, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4279112, "longitude": -122.14446710000001}, "googleMapsUri": "https://maps.google.com/?cid=5266915539629196345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://naschmarktpaloalto.com/", "displayName": {"text": "Naschmarkt - Palo Alto", "languageCode": "en"}, "cuisine": "German/Austrian", "photoUrl": "images/restaurant-photos/palo-alto/Naschmarkt - Palo Alto Small.jpeg", "phone": "(650) 328-2445", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://naschmarktpaloalto.com/", "priceRange": "$$$", "description": "Family-owned Austrian restaurant on Birch Street with crispy Wiener Schnitzel, double-cooked pork belly, and European beers since 2022."}, {"id": "ChIJiZtnUze7j4ARuAzIjrVxmsM", "formattedAddress": "125 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4439807, "longitude": -122.1637183}, "googleMapsUri": "https://maps.google.com/?cid=14094703008407882936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "New York New York Sandwiches", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/New York New York Sandwiches Small.jpeg", "phone": "(650) 328-8800", "hours": {"Monday": "10:00 AM – 6:00 PM", "Tuesday": "10:00 AM – 6:00 PM", "Wednesday": "10:00 AM – 6:00 PM", "Thursday": "10:00 AM – 6:00 PM", "Friday": "10:00 AM – 6:00 PM", "Saturday": "10:00 AM – 6:00 PM"}, "priceRange": "$", "description": "Longtime Palo Alto deli with thick-cut New York style deli sandwiches and classic cold-cut combinations at affordable prices."}, {"id": "ChIJ0y2QeTm7j4ARoys6DSP_0k4", "formattedAddress": "325 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4455148, "longitude": -122.16014190000001}, "googleMapsUri": "https://maps.google.com/?cid=5679882606078471075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.newyorkpizzapaloalto.com/", "displayName": {"text": "New York Pizza Palo Alto", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/New York Pizza Small.jpeg", "phone": "(650) 326-6973", "hours": {"Monday": "11:00 AM – 11:00 PM", "Tuesday": "11:00 AM – 11:00 PM", "Wednesday": "11:00 AM – 11:00 PM", "Thursday": "11:00 AM – 11:00 PM", "Friday": "11:00 AM – 11:00 PM", "Saturday": "11:00 AM – 11:00 PM", "Sunday": "11:00 AM – 11:00 PM"}, "priceRange": "$", "description": "Classic New York style pizza by the slice or whole pie with a devoted following for its foldable thin crust and late-night hours.", "menuUrl": "https://newyorkpizza.biz/menu"}, {"id": "ChIJofIvZUq7j4ARjUq2CGrWy74", "formattedAddress": "322 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4461163, "longitude": -122.16103849999998}, "googleMapsUri": "https://maps.google.com/?cid=13748318038379612813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.nickthegreek.com/", "displayName": {"text": "Nick The Greek", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Nick The Greek Small.jpeg", "phone": "(650) 382-4010", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "menuUrl": "https://www.nickthegreek.com/menu", "priceRange": "$$", "description": "Fast-casual Greek chain with hand-carved gyros, lamb and chicken souvlaki, and fresh tzatziki served quickly in a modern setting."}, {"id": "ChIJIxzPPjq7j4ARKDndKncRuwU", "formattedAddress": "180 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4437193, "longitude": -122.16147029999999}, "googleMapsUri": "https://maps.google.com/?cid=412942994352453928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.noburestaurants.com/paloalto/home/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp", "displayName": {"text": "Nobu Restaurant Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Nobu Small.jpeg", "phone": "(650) 531-8800", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://noburestaurants.com/paloalto/home", "priceRange": "$$$$", "description": "The Bay Area's only Nobu location at the Epiphany Hotel, co-founded by Chef Matsuhisa and Robert De Niro, with signature black cod miso."}, {"id": "ChIJdwmtjjm7j4ARuuLA95wq7wQ", "formattedAddress": "535 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4449386, "longitude": -122.1614268}, "googleMapsUri": "https://maps.google.com/?cid=355549749245436602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.nolas.com/", "displayName": {"text": "Nola", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Nola Small.jpeg", "phone": "(650) 328-2722", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$$", "description": "New Orleans-inspired kitchen on University Avenue with Cajun and Creole classics, craft cocktails, and a lively all-day dining atmosphere.", "menuUrl": "https://www.nolapaloalto.com/menu"}, {"id": "ChIJweDvIRm7j4AR8IWnMD_jNrI", "formattedAddress": "452 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4476055, "longitude": -122.1595835}, "googleMapsUri": "https://maps.google.com/?cid=12841701248032278000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.o2-valley.com/palo-alto/menu", "displayName": {"text": "O2 Valley", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/O2 Valley Small.jpeg", "phone": "(650) 565-8860", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Chinese hot pot and bubble tea spot with a broad selection of broths, fresh ingredients, and customizable dipping sauces."}, {"id": "ChIJYZChWOa6j4ARo-N9ldn_yos", "formattedAddress": "2111 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.427065, "longitude": -122.14805059999999}, "googleMapsUri": "https://maps.google.com/?cid=10073144826548577187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://odorisushistanford.com/", "displayName": {"text": "Odori Japanese Cuisine", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Odori Sushi Small.jpeg", "phone": "(650) 322-7939", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "priceRange": "$$", "description": "Quiet neighborhood Japanese restaurant with precise sashimi, teriyaki, and bento boxes in a relaxed unhurried setting."}, {"id": "ChIJ0wzVVCC7j4ARETETP1JS-5M", "formattedAddress": "205 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4449633, "longitude": -122.1628192}, "googleMapsUri": "https://maps.google.com/?cid=10663207055928799505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.oklavacafe.com/", "displayName": {"text": "Oklava Cafe", "languageCode": "en"}, "cuisine": "Turkish", "photoUrl": "images/restaurant-photos/palo-alto/Oklava Small.jpeg", "phone": "(650) 617-8888", "hours": {"Monday": "8:00 AM – 8:00 PM", "Tuesday": "8:00 AM – 8:00 PM", "Wednesday": "8:00 AM – 8:00 PM", "Thursday": "8:00 AM – 8:00 PM", "Friday": "8:00 AM – 8:00 PM", "Saturday": "8:00 AM – 8:00 PM", "Sunday": "8:00 AM – 8:00 PM"}, "priceRange": "$$", "description": "Turkish-inspired all-day cafe serving freshly prepared breakfast, housemade pastries, sandwiches, and specialty coffees from early morning."}, {"id": "ChIJz1CaiuS7j4ARJ0FvNTILUoo", "formattedAddress": "164 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4442218, "longitude": -122.163046}, "googleMapsUri": "https://maps.google.com/?cid=9967041235597082919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.onigilly.com/", "displayName": {"text": "Onigilly Japanese Kitchen - Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Onigilly Small.jpeg", "phone": "(650) 561-4868", "hours": {"Monday": "11:00 AM – 8:00 PM", "Tuesday": "11:00 AM – 8:00 PM", "Wednesday": "11:00 AM – 8:00 PM", "Thursday": "11:00 AM – 8:00 PM", "Friday": "11:00 AM – 8:00 PM", "Saturday": "11:00 AM – 8:00 PM", "Sunday": "11:00 AM – 8:00 PM"}, "priceRange": "$", "description": "Japanese rice ball chain with gourmet onigiri stuffed with premium fillings like salmon, tuna, and umeboshi for a quick nutritious meal.", "menuUrl": "https://www.onigilly.com/menu"}, {"id": "ChIJ361H6jm7j4ARk1vmz_dEqwE", "formattedAddress": "261 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4456966, "longitude": -122.16222820000002}, "googleMapsUri": "https://maps.google.com/?cid=120265646191041427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://orenshummus.com/", "displayName": {"text": "Oren's Hummus", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Small.jpeg", "phone": "(650) 752-6492", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://orenshummus.com/menu", "priceRange": "$$", "description": "Israeli-style hummus restaurant on University Avenue with velvety housemade hummus, fresh pita, and a devoted line of regulars."}, {"id": "ChIJe858WAS7j4AR3SYscE3OsZU", "formattedAddress": "855 El Camino Real #162, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4391487, "longitude": -122.15807369999999}, "googleMapsUri": "https://maps.google.com/?cid=10786629414518793949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.orenshummusexpress.com/", "displayName": {"text": "Orens Hummus Express", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Express Small.jpeg", "phone": "(650) 600-8181", "hours": {"Monday": "11:00 AM – 8:00 PM", "Tuesday": "11:00 AM – 8:00 PM", "Wednesday": "11:00 AM – 8:00 PM", "Thursday": "11:00 AM – 8:00 PM", "Friday": "11:00 AM – 8:00 PM", "Saturday": "11:00 AM – 8:00 PM", "Sunday": "11:00 AM – 8:00 PM"}, "priceRange": "$$", "description": "A faster-format companion to Oren's Hummus with the same fresh housemade hummus and falafel in a more casual counter setting."}, {"id": "ChIJPwEoJjq7j4AR4Ymjl9MBLUw", "formattedAddress": "247 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444444, "longitude": -122.16116709999999}, "googleMapsUri": "https://maps.google.com/?cid=5489045529128307169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.osteriatoscanapaloalto.com/", "displayName": {"text": "Osteria Toscana", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/palo-alto/Osteria Small.jpeg", "phone": "(650) 328-5700", "hours": {"Tuesday": "5:00 PM – 9:30 PM", "Wednesday": "5:00 PM – 9:30 PM", "Thursday": "5:00 PM – 9:30 PM", "Friday": "5:00 PM – 9:30 PM", "Saturday": "5:00 PM – 9:30 PM", "Sunday": "5:00 PM – 9:30 PM"}, "priceRange": "$$$", "description": "California Avenue Tuscan trattoria with housemade pasta, braised meats, and a curated Italian wine list in a warm intimate setting.", "menuUrl": "https://www.osteriapaloalto.com/menu"}, {"id": "ChIJJzcXtnO7j4ARGsdmlyvEgYI", "formattedAddress": "711 Stanford Shopping Center, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4427423, "longitude": -122.1729721}, "googleMapsUri": "https://maps.google.com/?cid=9404013188429039386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pacificcatch.com/", "displayName": {"text": "Pacific Catch", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/palo-alto/Pacific Catch Small.jpeg", "phone": "(650) 324-2722", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "West Coast fish house at Stanford Shopping Center serving sustainably sourced seafood with Pacific Rim flavors and Aloha-inspired hospitality."}, {"id": "ChIJyaiRIjq7j4ARpFp0WP-WoNA", "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4438785, "longitude": -122.16178900000001}, "googleMapsUri": "https://maps.google.com/?cid=15033181579607562916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.paloaltocreamery.com/", "displayName": {"text": "Palo Alto Creamery", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Creamery Small.jpeg", "phone": "(650) 327-3136", "hours": {"Monday": "7:00 AM – 9:00 PM", "Tuesday": "7:00 AM – 9:00 PM", "Wednesday": "7:00 AM – 9:00 PM", "Thursday": "7:00 AM – 9:00 PM", "Friday": "7:00 AM – 9:00 PM", "Saturday": "7:00 AM – 9:00 PM", "Sunday": "7:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "A Palo Alto institution since 1923 with made-from-scratch milkshakes, burgers, waffles, and all-American fountain treats served by authentic soda jerks."}, {"id": "ChIJ3dmr7OW6j4ARdga458ttjlg", "formattedAddress": "408 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4266169, "longitude": -122.14491950000001}, "googleMapsUri": "https://maps.google.com/?cid=6381158444563957366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.solrestaurantsca.com/", "displayName": {"text": "Palo Alto Sol", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Sol Small.jpeg", "phone": "(650) 328-8840", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Family-owned Mexican kitchen serving traditional regional dishes from Puebla using family recipes and sustainably sourced local ingredients."}, {"id": "ChIJdas5PTq7j4ARyZEoz7vVmg0", "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4438785, "longitude": -122.16178900000001}, "googleMapsUri": "https://maps.google.com/?cid=980330871517647305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.paloaltocreamery.com/", "displayName": {"text": "Peninsula Fountain Grill", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Peninsula Foutain & Grill Small.jpeg", "phone": "(650) 326-9276", "hours": {"Monday": "7:00 AM – 3:00 PM", "Tuesday": "7:00 AM – 3:00 PM", "Wednesday": "7:00 AM – 3:00 PM", "Thursday": "7:00 AM – 3:00 PM", "Friday": "7:00 AM – 3:00 PM", "Saturday": "7:00 AM – 3:00 PM", "Sunday": "7:00 AM – 3:00 PM"}, "priceRange": "$$", "description": "A beloved Palo Alto lunch counter institution known colloquially as The Creamery, serving burgers, omelets, waffles, and house-made pie since 1923."}, {"id": "ChIJT_HstGa7j4ARLGiY5dPGJDg", "formattedAddress": "185 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444708899999995, "longitude": -122.16304019999998}, "googleMapsUri": "https://maps.google.com/?cid=4045576978677917740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.phohanoiusa.com/", "displayName": {"text": "Phở Hà Nội", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Pho Ha Noi Small.jpeg", "phone": "(650) 561-4862", "hours": {"Monday": "10:00 AM – 9:00 PM", "Tuesday": "10:00 AM – 9:00 PM", "Wednesday": "10:00 AM – 9:00 PM", "Thursday": "10:00 AM – 9:00 PM", "Friday": "10:00 AM – 9:00 PM", "Saturday": "10:00 AM – 9:00 PM", "Sunday": "10:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Vietnamese pho kitchen using ancestral spice recipes, Harris Ranch Angus beef, free-range chicken, and spices harvested from Vietnam's Central Valley mountains."}, {"id": "ChIJCS4OBAC7j4AR3jawAgUTF3I", "formattedAddress": "3864 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4170934, "longitude": -122.1312946}, "googleMapsUri": "https://maps.google.com/?cid=8221060557028996830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://222.pizzaguys.com/", "displayName": {"text": "Pizza Guys", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Pizza Guys Small.jpeg", "phone": "(650) 462-9999", "hours": {"Monday": "10:00 AM – 11:00 PM", "Tuesday": "10:00 AM – 11:00 PM", "Wednesday": "10:00 AM – 11:00 PM", "Thursday": "10:00 AM – 11:00 PM", "Friday": "10:00 AM – 11:00 PM", "Saturday": "10:00 AM – 11:00 PM", "Sunday": "10:00 AM – 11:00 PM"}, "priceRange": "$", "description": "Made-to-order pizza chain with a broad menu of classic and specialty pies available for delivery and pickup until 11 PM daily."}, {"id": "ChIJN1Yf8Dm7j4ARg7totskx17E", "formattedAddress": "220 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4448417, "longitude": -122.16231940000002}, "googleMapsUri": "https://maps.google.com/?cid=12814766007124540291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.pizzamyheart.com/", "displayName": {"text": "Pizza My Heart", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Pizza My Heart Small.jpeg", "phone": "(650) 323-4100", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$", "description": "California surf-culture pizza chain with a devoted Peninsula following for its thin-crust pies, calzones, and affordable slices."}, {"id": "ChIJCS_HTDq7j4ARskXdL5usfsU", "formattedAddress": "651 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4434222, "longitude": -122.1604222}, "googleMapsUri": "https://maps.google.com/?cid=14231001655060284850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.pizzeriadelfina.com/location/palo-alto/", "displayName": {"text": "Pizzeria Delfina - Palo Alto", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Pizzeria Delfina Small.jpeg", "phone": "(650) 353-2208", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "priceRange": "$$", "description": "Peninsula outpost of the James Beard Award-winning SF original, serving Neapolitan-inspired thin-crust pizzas with a daily-changing seasonal menu since 2014."}, {"id": "ChIJHUVxbf67j4ARDeXKRT7FmeA", "formattedAddress": "855 El Camino Real #9, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4384958, "longitude": -122.16064029999998}, "googleMapsUri": "https://maps.google.com/?cid=16184183607182157069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.poke.house/locations/poke-el-camino-palo-alto", "displayName": {"text": "Poke House - Palo Alto", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Poke House Small.jpeg", "phone": "(650) 617-3333", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Build-your-own poke bowl concept inspired by Hawaiian flavors with fresh sustainable fish and a California spirit in every bowl."}, {"id": "ChIJ14CVruW6j4ARoh-i6iIAe5g", "formattedAddress": "250 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.427836, "longitude": -122.14382429999999}, "googleMapsUri": "https://maps.google.com/?cid=10987375865865838498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.protegepaloalto.com/", "displayName": {"text": "Protégé", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Protege Small.jpeg", "phone": "(650) 332-0474", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:00 PM", "Saturday": "5:00 PM – 9:00 PM"}, "priceRange": "$$$$", "description": "Michelin-starred New American restaurant on California Avenue from French Laundry alumni, earning the Bay Area's attention since opening in 2018."}, {"id": "ChIJq6Jj6y-7j4ARmkaTCtvuosg", "formattedAddress": "445 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4257831, "longitude": -122.1449662}, "googleMapsUri": "https://maps.google.com/?cid=14457380378355386010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ramenkowa.com/", "displayName": {"text": "Ramen Kowa", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Ramen Kowa Small.jpeg", "phone": "(650) 600-8288", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "priceRange": "$$", "description": "California Avenue ramen kitchen with rich broths, perfectly fried karaage, and Japanese curry in a neighborhood setting representing Japanese culture and craft."}, {"id": "ChIJR1988Qm7j4ARi_KmggVETuc", "formattedAddress": "541 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4454813, "longitude": -122.16072450000001}, "googleMapsUri": "https://maps.google.com/?cid=16667334061402288779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.ramennagiusa.com/", "displayName": {"text": "Ramen Nagi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Ramen Nagi Small.jpeg", "phone": "(650) 399-9285", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$$", "description": "Revered Tokyo-based ramen chain with its first US location in Palo Alto, famous for intensely rich broth and fully customizable bowls."}, {"id": "ChIJmWwu4jm7j4ARtbXJ6I2CZrg", "formattedAddress": "445 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.445076300000004, "longitude": -122.1631074}, "googleMapsUri": "https://maps.google.com/?cid=13287451296610760117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://rangoonrubypa.com/", "displayName": {"text": "Rangoon Ruby Burmese Cuisine", "languageCode": "en"}, "cuisine": "Burmese", "photoUrl": "images/restaurant-photos/palo-alto/Rangoon Ruby Small.jpeg", "phone": "(650) 323-6543", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Chef Max Lee's celebrated Burmese kitchen with garlic noodles, coconut rice, and nan gyi dok noodles drawing a devoted following for modern Burmese cuisine."}, {"id": "ChIJeYSESRq7j4AREj5yWWRdjrc", "formattedAddress": "201 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.428218, "longitude": -122.14306999999998}, "googleMapsUri": "https://maps.google.com/?cid=13226611841212497426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://rararestaurant.com/", "displayName": {"text": "Rara", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Rara Small.jpeg", "phone": "(650) 521-0768", "hours": {"Monday": "11:30 AM – 9:30 PM", "Tuesday": "11:30 AM – 9:30 PM", "Wednesday": "11:30 AM – 9:30 PM", "Thursday": "11:30 AM – 9:30 PM", "Friday": "11:30 AM – 9:30 PM", "Saturday": "11:30 AM – 9:30 PM", "Sunday": "11:30 AM – 9:30 PM"}, "priceRange": "$$", "description": "A vibrant neighborhood restaurant with a rotating menu of globally inspired small plates, natural wines, and a lively convivial atmosphere."}, {"id": "ChIJlSPd8w67j4ARZy6_cUeyGng", "formattedAddress": "501 Oxford Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4265576, "longitude": -122.1484342}, "googleMapsUri": "https://maps.google.com/?cid=8654425653866606183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://realmediterraneankitchen.com/", "displayName": {"text": "Real Mediterranean Kitchen", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "phone": "(650) 272-6955", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Fresh housemade Mediterranean dishes with halal options, generous portions, and a broad menu of wraps, plates, and sides in a casual setting."}, {"id": "ChIJt-5IyBa7j4ARD5iJZz4Ay0Y", "formattedAddress": "450 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4462476, "longitude": -122.1624397}, "googleMapsUri": "https://maps.google.com/?cid=5101171270952261647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.avenidas.org/programs/cafe/", "displayName": {"text": "Redwood Café by Chef Julien", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/palo-alto/Redwood Cafe Small.jpeg", "phone": "(650) 322-8505", "hours": {"Monday": "7:00 AM – 3:00 PM", "Tuesday": "7:00 AM – 3:00 PM", "Wednesday": "7:00 AM – 3:00 PM", "Thursday": "7:00 AM – 3:00 PM", "Friday": "7:00 AM – 3:00 PM"}, "priceRange": "$$", "description": "Daytime cafe from a French-trained chef with farm-to-table breakfast and lunch using locally procured ingredients near Stanford."}, {"id": "ChIJY0yKLzq7j4ARNNLYPbJMgN8", "formattedAddress": "236 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4441583, "longitude": -122.1609667}, "googleMapsUri": "https://maps.google.com/?cid=16104956595902403124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.reposadorestaurant.com/", "displayName": {"text": "Reposado", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Reposado Small.jpeg", "phone": "(650) 833-3151", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$$", "description": "Palo Alto's premier tequila and mezcal destination with an extensive agave spirits program alongside a full Mexican kitchen and lively bar."}, {"id": "ChIJxQENlQ67j4AReETtyacmZA4", "formattedAddress": "180 El Camino Real Building B, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4447784, "longitude": -122.17224119999999}, "googleMapsUri": "https://maps.google.com/?cid=1036996316291220600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.rh.com/paloalto/restaurant", "displayName": {"text": "RH Rooftop Restaurant at RH Palo Alto", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/RH Rooftop Restaurant Small.jpeg"}, {"id": "ChIJD_pTEsy7j4ARmC6OuQ2GZ0k", "formattedAddress": "473 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4481323, "longitude": -122.15981430000001}, "googleMapsUri": "https://maps.google.com/?cid=5289343680875736728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.roohrestaurants.com/", "displayName": {"text": "ROOH Palo Alto", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Rooh Small.jpeg", "phone": "(650) 304-3963", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "priceRange": "$$$", "description": "Modern Indian kitchen on University Avenue from Chef Sujan Sarkar exploring open-fire cooking and regional Indian flavors in a splashy communal setting."}, {"id": "ChIJrTBLD1K7j4ARMNQr2bMszJ0", "formattedAddress": "855 El Camino Real #157, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4392357, "longitude": -122.1583252}, "googleMapsUri": "https://maps.google.com/?cid=11370512310157956144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.roostandroast.com/", "displayName": {"text": "Roost & Roast", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/palo-alto/Roost & Roast Small.jpeg", "phone": "(650) 600-0012", "hours": {"Monday": "7:00 AM – 5:00 PM", "Tuesday": "7:00 AM – 5:00 PM", "Wednesday": "7:00 AM – 5:00 PM", "Thursday": "7:00 AM – 5:00 PM", "Friday": "7:00 AM – 5:00 PM", "Saturday": "7:00 AM – 5:00 PM", "Sunday": "7:00 AM – 5:00 PM"}, "priceRange": "$$", "description": "All-day breakfast and brunch spot in Town and Country Village from the team behind Hatched, with rotisserie chicken, sandwiches, and craft coffee."}, {"id": "ChIJxRoy-X27j4AR_bK2I_FqBVg", "formattedAddress": "115 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.443025299999995, "longitude": -122.16261410000001}, "googleMapsUri": "https://maps.google.com/?cid=6342593234140050173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sanagus.com/", "displayName": {"text": "San Agus Cocina Urbana & Cocktails", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/San Agus Small.jpeg", "phone": "(650) 521-0082", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 9:00 PM"}, "menuUrl": "https://www.sanagus.com/menu", "priceRange": "$$", "description": "Mexico City street kitchen with 40-plus tequilas and mezcals, pastor tacos, cochinita pibil, and margaritas in a cozy lively setting."}, {"id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU", "displayName": {"text": "Sancho's Taqueria _Lytton", "languageCode": "en"}, "formattedAddress": "491 Lytton Ave, Palo Alto, CA 94301, USA", "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google", "location": {}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _Lytton Small.jpeg", "phone": "(650) 324-8226", "hours": {"Monday": "10:30 AM – 9:00 PM", "Tuesday": "10:30 AM – 9:00 PM", "Wednesday": "10:30 AM – 9:00 PM", "Thursday": "10:30 AM – 9:00 PM", "Friday": "10:30 AM – 9:00 PM", "Saturday": "10:30 AM – 9:00 PM", "Sunday": "10:30 AM – 9:00 PM"}, "menuUrl": "http://sanchostaqueria.com/", "priceRange": "$", "description": "Fast-casual Palo Alto taqueria with a devoted following for fresh fish tacos, California burritos, and loaded nachos at affordable prices."}, {"id": "ChIJc1ATKFa6j4ARZQoyTzpy0-8", "displayName": {"text": "Sancho's Taqueria _middlefield", "languageCode": "en"}, "formattedAddress": "2723 Middlefield Rd, Palo Alto, CA 94306, USA", "googleMapsUri": "https://maps.google.com/?cid=17281281789913074277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google", "location": {}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _middlefield Small.jpeg", "phone": "(650) 324-8226", "hours": {"Monday": "10:30 AM – 9:00 PM", "Tuesday": "10:30 AM – 9:00 PM", "Wednesday": "10:30 AM – 9:00 PM", "Thursday": "10:30 AM – 9:00 PM", "Friday": "10:30 AM – 9:00 PM", "Saturday": "10:30 AM – 9:00 PM", "Sunday": "10:30 AM – 9:00 PM"}, "menuUrl": "http://sanchostaqueria.com/", "priceRange": "$", "description": "Fast-casual Palo Alto taqueria with a devoted following for fresh fish tacos, California burritos, and loaded nachos at affordable prices."}, {"id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg", "formattedAddress": "417 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.426165000000005, "longitude": -122.1446335}, "googleMapsUri": "https://maps.google.com/?cid=8702456324778615288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sekoyapaloalto.com/", "displayName": {"text": "Sekoya Lounge & Kitchen", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Sekoya Small.jpeg", "phone": "(650) 321-2300", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 11:00 PM", "Saturday": "5:00 PM – 11:00 PM"}, "menuUrl": "https://www.sekoyapaloalto.com/", "priceRange": "$$$", "description": "California Avenue's most sceney restaurant with seasonal New American dishes, a Hibachi grill, house-made breads, and craft cocktails."}, {"id": "ChIJB3hVsb67j4ARXMaL06rl50c", "formattedAddress": "3398 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4194321, "longitude": -122.1356069}, "googleMapsUri": "https://maps.google.com/?cid=5181362418169398876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.showdecarnes.com/", "displayName": {"text": "Show de Carnes Brazilian Steakhouse", "languageCode": "en"}, "cuisine": "Brazilian", "photoUrl": "images/restaurant-photos/palo-alto/Show De Carnes Small.jpeg", "phone": "(650) 384-6720", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://showdecarnes.com/", "priceRange": "$$$$", "description": "Authentic Brazilian churrascaria experience with tableside carving of perfectly grilled meats and the vibrant flavors of Brazil."}, {"id": "ChIJF-8UBYq6j4AR5FBD89Ka32Y", "formattedAddress": "3924 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.41637, "longitude": -122.12979109999999}, "googleMapsUri": "https://maps.google.com/?cid=7412813742490210532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.siamfinethaicuisine.com/", "displayName": {"text": "Siam Fine Thai Cuisine", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/palo-alto/Siam Small.jpeg", "phone": "(650) 856-8998", "hours": {"Monday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "5:00 PM – 9:30 PM", "Sunday": "5:00 PM – 9:30 PM"}, "menuUrl": "https://www.siamfinethai.com/", "priceRange": "$$", "description": "Refined Thai kitchen with a dedicated following for elevated curries, pad Thai, and wok-fired dishes in a comfortable setting."}, {"id": "ChIJs-mASty7j4ARGnTRbfH7NBc", "formattedAddress": "444 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4475699, "longitude": -122.15975949999999}, "googleMapsUri": "https://maps.google.com/?cid=1672238376009430042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.simmer-steamer.com/", "displayName": {"text": "Simmer & Steamer", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Simmer & Steamer Small.jpeg", "phone": "(650) 660-6816", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://order.online/store/simmer-steamer-palo-alto-24754388", "priceRange": "$$", "description": "Taiwanese hot pot and steamer restaurant with individual broth selections, fresh ingredients, and a broad Asian comfort food menu."}, {"id": "ChIJtWFrFmO6j4ARbA4cFdc8mG0", "formattedAddress": "4127 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.413779999999996, "longitude": -122.125402}, "googleMapsUri": "https://maps.google.com/?cid=7897128841063960172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://paloaltotofuhouse.square.site/", "displayName": {"text": "So Gong Dong Tofu House", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/palo-alto/So Gong Dong Tofu House Small.jpeg", "phone": "(650) 424-8282", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.sgdtofu.com/", "priceRange": "$$", "description": "One of the Bay Area's only Korean restaurants specializing in sundubu-jjigae, serving authentic soft tofu soups and stews since 2003."}, {"id": "ChIJaeHk_jm7j4ARZfXh674aljg", "formattedAddress": "168 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444269399999996, "longitude": -122.16286670000001}, "googleMapsUri": "https://maps.google.com/?cid=4077475919934125413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://cafesprout.com/", "displayName": {"text": "Sprout Cafe", "languageCode": "en"}, "cuisine": "Vegetarian/Vegan", "photoUrl": "images/restaurant-photos/palo-alto/Sprout Cafe Small.jpeg", "phone": "(650) 323-7678", "hours": {"Monday": "11:00 AM – 7:00 PM", "Tuesday": "11:00 AM – 7:00 PM", "Wednesday": "11:00 AM – 7:00 PM", "Thursday": "11:00 AM – 7:00 PM", "Friday": "11:00 AM – 7:00 PM", "Saturday": "11:00 AM – 4:00 PM"}, "menuUrl": "http://www.sproutcafepaloalto.com/", "priceRange": "$$", "description": "University Avenue healthy cafe with fresh salads, grain bowls, and seasonal ingredients popular with the Stanford community."}, {"id": "ChIJ_UjdV--7j4ARt2YRSWk7iZU", "formattedAddress": "369 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.426696899999996, "longitude": -122.14417370000001}, "googleMapsUri": "https://maps.google.com/?cid=10775208906844104375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://squarepieguys.com/", "displayName": {"text": "Square Pie Guys", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Square Pie Guys Small.jpeg", "phone": "(650) 204-8930", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://squarepieguys.com/", "priceRange": "$$", "description": "Detroit-style square pizza with a crispy caramelized cheese crust and creative toppings, a Bay Area cult favorite on University Avenue."}, {"id": "ChIJg5-D9Aq7j4ARGDDPZcQFjmg", "formattedAddress": "3850 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4171877, "longitude": -122.13138039999998}, "googleMapsUri": "https://maps.google.com/?cid=7533965567717224472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://stateofmindslicehouse.com/", "displayName": {"text": "State of Mind Slice House", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/State of Mind Small.jpeg", "phone": "(650) 561-3995", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.stateofmindpub.com/", "priceRange": "$$", "description": "New York-style pizza pub with generous slices, craft beer on tap, and a casual neighborhood atmosphere perfect for watching sports."}, {"id": "ChIJ-a6t5Tm7j4ARsEz4451NPDk", "formattedAddress": "209 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4450435, "longitude": -122.1628635}, "googleMapsUri": "https://maps.google.com/?cid=4124256699294436528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://steampaloalto.com/", "displayName": {"text": "Steam", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Steam Small.jpeg", "phone": "(650) 322-1888", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "http://www.steampaloalto.com/", "priceRange": "$$", "description": "Palo Alto's go-to dim sum restaurant with a broad menu of steamed and fried dumplings, rice noodles, and Taiwanese specialties."}, {"id": "ChIJ8RX-6uW6j4ARyxo26LXPQ0k", "formattedAddress": "406 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.42663900000001, "longitude": -122.14495509999998}, "googleMapsUri": "https://maps.google.com/?cid=5279291568400243403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sunofwolfpa.com/", "displayName": {"text": "SUN of WOLF", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Sun of Wolf Small.jpeg", "phone": "(650) 561-3329", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:00 PM", "Saturday": "5:00 PM – 9:00 PM"}, "menuUrl": "https://www.sunofwolf.com/", "priceRange": "$$", "description": "Palo Alto Weekly Best Mexican winner with inventive Mexico City inspired tacos, carnitas, and craft cocktails in an intimate setting."}, {"id": "ChIJaWnuL-e6j4ARR6YIY348nZk", "formattedAddress": "1921 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.428562, "longitude": -122.14967199999998}, "googleMapsUri": "https://maps.google.com/?cid=11069069972671604295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://sundancethesteakhouse.com/", "displayName": {"text": "Sundance The Steakhouse", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/palo-alto/Sundance Small.jpeg", "phone": "(650) 321-6798", "hours": {"Monday": "5:00 PM – 9:30 PM", "Tuesday": "5:00 PM – 9:30 PM", "Wednesday": "5:00 PM – 9:30 PM", "Thursday": "5:00 PM – 9:30 PM", "Friday": "4:30 PM – 10:00 PM", "Saturday": "4:30 PM – 10:00 PM", "Sunday": "4:30 PM – 9:00 PM"}, "menuUrl": "https://sundancethesteakhouse.com/", "priceRange": "$$$$", "description": "A Palo Alto institution since 1974 with fireplaces, dark wood booths, slow-roasted prime rib, and hand-cut USDA Prime steaks."}, {"id": "ChIJHz4XFiW7j4AR5t10topddew", "formattedAddress": "855 El Camino Real Ste 158, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4392636, "longitude": -122.1582398}, "googleMapsUri": "https://maps.google.com/?cid=17038627615574121958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.sushihouse855.com/", "displayName": {"text": "Sushi House", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Suhi House Small.jpeg", "phone": "(650) 493-2700", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "http://www.sushihousepa.com/", "priceRange": "$$", "description": "Longtime Palo Alto neighborhood sushi restaurant with fresh traditional nigiri, rolls, and Japanese entrees in a welcoming setting."}, {"id": "ChIJ-cKKzxa7j4ARMboigp4Thvk", "formattedAddress": "180 El Camino Real #700a, Palo Alto, CA 94304, USA", "location": {"latitude": 37.443218, "longitude": -122.172501}, "googleMapsUri": "https://maps.google.com/?cid=17980080133832358449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sushiroku.com/", "displayName": {"text": "Sushi Roku Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Sushi Roku Small.jpeg", "phone": "(650) 543-1555", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 11:00 PM", "Friday": "5:00 PM – 11:00 PM", "Saturday": "5:00 PM – 11:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://www.sushiroku.com/", "priceRange": "$$$", "description": "Upscale contemporary Japanese restaurant at Stanford Shopping Center with premium nigiri, signature rolls, and creative cocktails."}, {"id": "ChIJgSKtATq7j4AR1LVZ7VN8W3I", "formattedAddress": "150 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.443996999999996, "longitude": -122.162979}, "googleMapsUri": "https://maps.google.com/?cid=8240316643110663636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sweetmaplesf.com/", "displayName": {"text": "Sweet Maple", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/palo-alto/Sweet Maple Small.jpeg", "phone": "(650) 321-9338", "hours": {"Monday": "8:00 AM – 2:30 PM", "Tuesday": "8:00 AM – 2:30 PM", "Wednesday": "8:00 AM – 2:30 PM", "Thursday": "8:00 AM – 2:30 PM", "Friday": "8:00 AM – 2:30 PM", "Saturday": "8:00 AM – 2:30 PM", "Sunday": "8:00 AM – 2:30 PM"}, "menuUrl": "https://www.sweetmaplesf.com/", "priceRange": "$$", "description": "SF brunch import beloved for thick-cut millionaire bacon, fluffy pancakes, and creative egg dishes with lines forming before opening."}, {"id": "ChIJUYJ9Ejm7j4AR10nzVhZIoYo", "formattedAddress": "560 Waverley St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.446472199999995, "longitude": -122.1596583}, "googleMapsUri": "https://maps.google.com/?cid=9989344709269735895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://taipanpaloalto.com/", "displayName": {"text": "Tai Pan", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Tai Pan Small.jpeg"}, {"id": "ChIJwWcdxzi7j4ARSPpV37nhr58", "formattedAddress": "546 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4488748, "longitude": -122.15841719999997}, "googleMapsUri": "https://maps.google.com/?cid=11506663761387059784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tamarinerestaurant.com/", "displayName": {"text": "Tamarine Restaurant & Gallery", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Tamarine Small.jpeg"}, {"id": "ChIJsZYrFAC7j4ARgZiNdSEjGsQ", "formattedAddress": "461 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4450425, "longitude": -122.16305779999999}, "googleMapsUri": "https://maps.google.com/?cid=14130645407441459329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tanevegan.com/locations/palo-alto", "displayName": {"text": "Tane Vegan Izakaya", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Tane Vegan Izakaya Small.jpeg"}, {"id": "ChIJ7f7sE4u6j4ARzIuv160J9jU", "formattedAddress": "3636 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4182304, "longitude": -122.13318509999998}, "googleMapsUri": "https://maps.google.com/?cid=3888305970533600204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://taqueriaelgrullense.shop/", "displayName": {"text": "Taqueria El Grullense M&G", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Taqueria El Grullense M&G Small.jpeg"}, {"id": "ChIJN1Zo_zi7j4ARIT2NbTuxNZQ", "formattedAddress": "423 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4475347, "longitude": -122.1603022}, "googleMapsUri": "https://maps.google.com/?cid=10679636960178158881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.taste-paloalto.com/", "displayName": {"text": "Taste", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Taste Small.jpeg"}, {"id": "ChIJg2K45--7j4ARb3QmTT7tfM4", "formattedAddress": "443 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.445152199999995, "longitude": -122.16302990000001}, "googleMapsUri": "https://maps.google.com/?cid=14879028120763397231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tastypotcalifornia.com/", "displayName": {"text": "Tasty Pot", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Tasty Pot Small.jpeg"}, {"id": "ChIJVVUFazu7j4ARLXVs7f4wu-M", "formattedAddress": "800 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4422042, "longitude": -122.1590523}, "googleMapsUri": "https://maps.google.com/?cid=16409763538717668653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://tavernarestaurant.net/", "displayName": {"text": "TAVERNA", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Taverna Small.jpeg"}, {"id": "ChIJU-h6-Q27j4AReNRuzo2WlTM", "formattedAddress": "855 El Camino Real #130, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4383765, "longitude": -122.1583028}, "googleMapsUri": "https://maps.google.com/?cid=3717042603262137464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.telefericbarcelona.com/", "displayName": {"text": "Telefèric Barcelona Palo Alto", "languageCode": "en"}, "cuisine": "Spanish", "photoUrl": "images/restaurant-photos/palo-alto/Teleferic Small.jpeg"}, {"id": "ChIJtXQ38-W6j4AR44dFBS3v120", "formattedAddress": "448 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4259205, "longitude": -122.14547429999999}, "googleMapsUri": "https://maps.google.com/?cid=7915057846767945699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.terunpizza.com/", "displayName": {"text": "Terun Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Terun Small.jpeg"}, {"id": "ChIJ-zxk19G7j4ARJqNjr1SADak", "formattedAddress": "2450 Park Blvd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.428022899999995, "longitude": -122.14277039999999}, "googleMapsUri": "https://maps.google.com/?cid=12181533668315210534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://dinefarmfresh.com/", "displayName": {"text": "The Farm", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/The Farm Small.jpeg"}, {"id": "ChIJe5AqVr3Lj4AROFFL6ZwfRH0", "formattedAddress": "4131 El Camino Real #100, Palo Alto, CA 94306, USA", "location": {"latitude": 37.413300299999996, "longitude": -122.1251502}, "googleMapsUri": "https://maps.google.com/?cid=9026374311946703160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.themalawahbar.com/", "displayName": {"text": "The Ma'lawah Bar", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/palo-alto/The Malawah Bar Small.jpeg"}, {"id": "ChIJD9VYOzS7j4ARus4pfa0zkJU", "formattedAddress": "180 El Camino Real, Palo Alto, CA 94304, USA", "location": {"latitude": 37.443094699999996, "longitude": -122.17259729999999}, "googleMapsUri": "https://maps.google.com/?cid=10777170728519847610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.themelt.com/", "displayName": {"text": "The Melt", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/The Melt Small.jpeg"}, {"id": "ChIJiXr_Zze7j4ARgRtbgk7Len4", "formattedAddress": "412 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4451556, "longitude": -122.16393889999999}, "googleMapsUri": "https://maps.google.com/?cid=9113820333992516481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.thepatiopa.com/", "displayName": {"text": "The Patio @ Rudy's", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/The Patio Small.jpeg"}, {"id": "ChIJRzi6GDq7j4ARVC4ZzH-ZgJU", "formattedAddress": "547 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4444157, "longitude": -122.16174609999999}, "googleMapsUri": "https://maps.google.com/?cid=10772779082834325076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://therosepa.com/", "displayName": {"text": "The Rose & Crown", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/palo-alto/The Rose & Crown Small.jpeg"}, {"id": "ChIJOT4Wp3m6j4ARL_3gCaC-HJ0", "formattedAddress": "4269 W El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4075646, "longitude": -122.1205417}, "googleMapsUri": "https://maps.google.com/?cid=11321133157872368943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.theseausa.com/", "displayName": {"text": "The Sea by Alexander's Steakhouse", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/palo-alto/The Sea Small.jpeg"}, {"id": "ChIJGaMq8zm7j4ARYe6wItroPNY", "formattedAddress": "520 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4448271, "longitude": -122.16193469999999}, "googleMapsUri": "https://maps.google.com/?cid=15437469646301752929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.thepawineroom.com/", "displayName": {"text": "The Wine Room", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/palo-alto/The Wine Room Small.jpeg"}, {"id": "ChIJrW5Qkga7j4ARq0q-MRGHCjw", "formattedAddress": "3345 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4202733, "longitude": -122.1360386}, "googleMapsUri": "https://maps.google.com/?cid=4326418899961531051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tiemuzhencuisine.fronteats.com/#/pos/order/index?channelOrderingId=3", "displayName": {"text": "Tie Mu Zhen Cuisine 铁木真内蒙菜", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Tie Mu Zhen  Small.jpeg"}, {"id": "ChIJgVkH4BO7j4AR9Qj0HVCbuy8", "formattedAddress": "540 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.445247099999996, "longitude": -122.16098969999999}, "googleMapsUri": "https://maps.google.com/?cid=3439513508829726965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tongsui.us/", "displayName": {"text": "Tong Sui Desserts & Drinks (Palo Alto)", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Tong Sui Small.jpeg"}, {"id": "ChIJexdrvjK7j4AR--GDhkDzYds", "formattedAddress": "700 Welch Rd, Palo Alto, CA 94305, USA", "location": {"latitude": 37.437217, "longitude": -122.173251}, "googleMapsUri": "https://maps.google.com/?cid=15808183625507398139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tootsiesbarn.com/", "displayName": {"text": "Tootsie's At The Stanford Barn", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/palo-alto/Tootsies Small.jpeg"}, {"id": "ChIJt9KIrTW7j4ARjb1bTp5MW-E", "formattedAddress": "180 El Camino Real Ste 1140, Palo Alto, CA 94304, USA", "location": {"latitude": 37.443920999999996, "longitude": -122.17032299999998}, "googleMapsUri": "https://maps.google.com/?cid=16238657124217634189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.truefoodkitchen.com/locations/paloalto/", "displayName": {"text": "True Food Kitchen", "languageCode": "en"}, "cuisine": "Vegetarian/Vegan", "photoUrl": "images/restaurant-photos/palo-alto/True Food Small.jpeg"}, {"id": "ChIJGe-xIgC7j4ARqZPigyQDpDE", "formattedAddress": "448 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4475872, "longitude": -122.15963889999999}, "googleMapsUri": "https://maps.google.com/?cid=3576987459405386665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Urban Momo", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Urban Momo Small.jpeg"}, {"id": "ChIJISfg6jK7j4AR1QjILutJPms", "formattedAddress": "700 Welch Rd #110, Palo Alto, CA 94304, USA", "location": {"latitude": 37.437207199999996, "longitude": -122.17326430000001}, "googleMapsUri": "https://maps.google.com/?cid=7727695285065353429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.vinaenoteca.com/", "displayName": {"text": "Vina Enoteca", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/palo-alto/Vina Enoteca Small.jpeg"}, {"id": "ChIJ2S5OXzi7j4ARGnV-XOyU-4g", "formattedAddress": "431 Kipling St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.448325, "longitude": -122.1604148}, "googleMapsUri": "https://maps.google.com/?cid=9870646751197558042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://vinolocale.com/", "displayName": {"text": "Vino Locale", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/palo-alto/Vino Locale Small.jpeg"}, {"id": "ChIJ82AEPzi7j4ARaPsjO4AFqR8", "formattedAddress": "South, 855 El Camino Real Building 4, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4382288, "longitude": -122.1587727}, "googleMapsUri": "https://maps.google.com/?cid=2281360734546033512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://wildseedsf.com/", "displayName": {"text": "Wildseed", "languageCode": "en"}, "cuisine": "Vegetarian/Vegan", "photoUrl": "images/restaurant-photos/palo-alto/Wildseed Small.jpeg"}, {"id": "ChIJk0N57Sm7j4ARq4jfPi88hKY", "formattedAddress": "180 Stanford Shopping Center Unit 240-C, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4425494, "longitude": -122.1705679}, "googleMapsUri": "https://maps.google.com/?cid=11998781480837810347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://worldwrapps.com/", "displayName": {"text": "World Wrapps", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/World Wrapps Small.jpeg"}, {"id": "ChIJpTk-VTi7j4ARpZhH_XR68_I", "formattedAddress": "403 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4473827, "longitude": -122.1604918}, "googleMapsUri": "https://maps.google.com/?cid=17506470819403372709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.yayoi-us.com/", "displayName": {"text": "YAYOI Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Yayoi Small.jpeg"}, {"id": "opening_yutori", "formattedAddress": "3375 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4242, "longitude": -122.1139}, "googleMapsUri": "https://maps.google.com/?q=3375+El+Camino+Real,+Palo+Alto,+CA", "websiteUri": "https://yutori-pa.com", "displayName": {"text": "Yutori", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 764-0110", "hours": {"Monday": "8:00 AM - 5:00 PM", "Tuesday": "8:00 AM - 5:00 PM", "Wednesday": "8:00 AM - 5:00 PM", "Thursday": "8:00 AM - 5:00 PM", "Friday": "8:00 AM - 5:00 PM", "Saturday": "8:00 AM - 5:00 PM", "Sunday": "8:00 AM - 5:00 PM"}, "description": "A California-inspired Japanese cafe and konbini serving matcha drinks, fresh onigiri, seasonal bentos, and sandwiches daily in a thoughtfully designed space.", "menuUrl": "https://yutori-pa.com", "priceRange": "$$", "photoUrl": "images/restaurant-photos/palo-alto/Yutori Small.jpeg"}, {"id": "ChIJcx9Pl-W6j4ARcUXBVpDCqUE", "formattedAddress": "365 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4267457, "longitude": -122.14408219999999}, "googleMapsUri": "https://maps.google.com/?cid=4731526808716002673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://zareensrestaurant.com/", "displayName": {"text": "Zareen's Palo Alto", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Zareens Small.jpeg"}, {"id": "opening_zaytinya", "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4425, "longitude": -122.1604}, "googleMapsUri": "https://maps.google.com/?q=180+El+Camino+Real,+Stanford+Shopping+Center,+Palo+Alto,+CA", "websiteUri": "https://zaytinya.com", "displayName": {"text": "Zaytinya", "languageCode": "en"}, "cuisine": "Mediterranean", "phone": "(650) 203-2000", "hours": {"Monday": "4:00 PM - 9:00 PM", "Tuesday": "4:00 PM - 9:00 PM", "Wednesday": "11:30 AM - 9:00 PM", "Thursday": "11:30 AM - 9:00 PM", "Friday": "11:30 AM - 10:00 PM", "Saturday": "11:30 AM - 10:00 PM", "Sunday": "11:30 AM - 9:00 PM"}, "description": "Chef Jose Andres brings his celebrated mezze concept to Stanford Shopping Center with Turkish, Greek and Lebanese small plates and creative Mediterranean cocktails.", "menuUrl": "https://zaytinya.com/palo-alto", "priceRange": "$$$"}, {"id": "ChIJOW6rzsq7j4ARwtuFAHGPH-o", "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA", "location": {"latitude": 37.444477899999995, "longitude": -122.1719398}, "googleMapsUri": "https://maps.google.com/?cid=16870360444656016322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.zaytinya.com/location/palo-alto/", "displayName": {"text": "Zaytinya", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"}, {"id": "ChIJOzI3gjm7j4ARtGwnfAcuKaU", "formattedAddress": "585 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4453069, "longitude": -122.16042180000001}, "googleMapsUri": "https://maps.google.com/?cid=11901094099985853620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.zolapaloalto.com/", "displayName": {"text": "Zola + BarZola", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Zola Small.jpeg"}],
+  "Palo Alto, CA": [
+    {
+      "id": "ChIJ-RTutuW6j4AR4VYL3DZDAvg",
+      "formattedAddress": "340 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4270754,
+        "longitude": -122.14440950000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17870920174258575073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://anatoliankitchen.com/",
+      "displayName": {
+        "text": "Anatolian Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish",
+      "description": "California Avenue Turkish kitchen specializing in beef doner kebab, Adana kebab and house-made manti since 2010.",
+      "phone": "(650) 853-9700",
+      "menuUrl": "https://anatoliankitchen.com",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:30 AM-9:00 PM",
+        "Tuesday": "11:30 AM-9:00 PM",
+        "Wednesday": "11:30 AM-9:00 PM",
+        "Thursday": "11:30 AM-9:00 PM",
+        "Friday": "11:30 AM-9:30 PM",
+        "Saturday": "11:30 AM-9:30 PM",
+        "Sunday": "11:30 AM-9:00 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Anatolian Kitchen Small.jpeg"
+    },
+    {
+      "id": "ChIJL6eIury7j4ARRvbC__WInac",
+      "formattedAddress": "201 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444894399999995,
+        "longitude": -122.1628303
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12077960365816870470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushiaraki.com/",
+      "displayName": {
+        "text": "Araki Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Araki Sushi Small.jpeg",
+      "description": "Fresh sushi, sashimi and bento boxes at reasonable prices with standout lunch deals on University Avenue.",
+      "phone": "(650) 324-3300",
+      "menuUrl": "https://www.sushiaraki.com/",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "10:00 AM-10:00 PM",
+        "Tuesday": "10:00 AM-10:00 PM",
+        "Wednesday": "10:00 AM-10:00 PM",
+        "Thursday": "10:00 AM-10:00 PM",
+        "Friday": "11:00 AM-11:00 PM",
+        "Saturday": "11:00 AM-11:00 PM",
+        "Sunday": "10:00 AM-10:00 PM"
+      }
+    },
+    {
+      "id": "ChIJXzozIq2jj4ARpEwPAaO9InY",
+      "formattedAddress": "140 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439087,
+        "longitude": -122.16336249999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8512574753478757540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.aryasteakhouse.com/",
+      "displayName": {
+        "text": "Arya Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/Arya Steakhouse Small.jpeg",
+      "description": "Persian and steakhouse hybrid with halal aged meats, barg kabob, saffron rice and private dining rooms.",
+      "phone": "(650) 304-3119",
+      "menuUrl": "https://www.aryasteakhouse.com/",
+      "priceRange": "$$$",
+      "hours": {
+        "Monday": "11:30 AM-9:30 PM",
+        "Tuesday": "11:30 AM-9:30 PM",
+        "Wednesday": "11:30 AM-9:30 PM",
+        "Thursday": "11:30 AM-9:30 PM",
+        "Friday": "11:30 AM-9:30 PM",
+        "Saturday": "11:30 AM-9:30 PM",
+        "Sunday": "11:30 AM-9:30 PM"
+      }
+    },
+    {
+      "id": "ChIJmUWp5SS7j4ARwkXUtEmqFdc",
+      "formattedAddress": "855 El Camino Real, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4387251,
+        "longitude": -122.1598525
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15498480926208574914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://asianbox.com/",
+      "displayName": {
+        "text": "Asian Box",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Asian Box Small.jpeg",
+      "description": "100% gluten-free Vietnamese scratch kitchen with bold six-spice chicken, coconut curry tofu and lemongrass pork bowls.",
+      "phone": "(650) 543-3390",
+      "menuUrl": "https://www.asianbox.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:00 AM-9:00 PM",
+        "Tuesday": "11:00 AM-9:00 PM",
+        "Wednesday": "11:00 AM-9:00 PM",
+        "Thursday": "11:00 AM-9:00 PM",
+        "Friday": "11:00 AM-9:00 PM",
+        "Saturday": "11:00 AM-9:00 PM",
+        "Sunday": "11:00 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJi9iYmjm7j4AR904-JYOQQN4",
+      "formattedAddress": "335 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4464879,
+        "longitude": -122.1613445
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16014959167869439735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bevri.com/",
+      "displayName": {
+        "text": "Bevri - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Georgian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Bevri Small.jpeg",
+      "description": "The Bay Area's only Georgian restaurant, famous for wood-fired khachapuri cheese boats and hand-rolled khinkali dumplings.",
+      "phone": "(650) 332-7770",
+      "menuUrl": "https://www.bevri.com/menu",
+      "priceRange": "$$$",
+      "hours": {
+        "Monday": "11:30 AM-9:30 PM",
+        "Tuesday": "11:30 AM-9:30 PM",
+        "Wednesday": "11:30 AM-9:30 PM",
+        "Thursday": "11:30 AM-9:30 PM",
+        "Friday": "11:30 AM-9:30 PM",
+        "Saturday": "11:30 AM-9:30 PM",
+        "Sunday": "11:30 AM-9:30 PM"
+      }
+    },
+    {
+      "id": "ChIJMzIVsOW6j4ARuVSOvM3YcfY",
+      "formattedAddress": "2363 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4277401,
+        "longitude": -122.14430329999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17758213183841916089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bistroelan.com/",
+      "displayName": {
+        "text": "Bistro Elan",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "description": "Intimate French bistro sourcing local farm ingredients with a seasonal menu and rotating desserts.",
+      "phone": "(650) 327-0284",
+      "menuUrl": "https://www.bistroelan.com/menu",
+      "priceRange": "$$$",
+      "hours": {
+        "Tuesday": "5:00 PM-9:00 PM",
+        "Wednesday": "5:00 PM-9:00 PM",
+        "Thursday": "5:00 PM-9:00 PM",
+        "Friday": "5:00 PM-9:00 PM",
+        "Saturday": "5:00 PM-9:00 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Bistro Elan Small.jpeg"
+    },
+    {
+      "id": "ChIJYUh8Jzq7j4ARXcdvPyLUR68",
+      "formattedAddress": "548 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4445889,
+        "longitude": -122.1612389
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12630296923542112093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bistromaxine.com/",
+      "displayName": {
+        "text": "Bistro Maxine",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Bistro Maxine Small.jpeg",
+      "description": "Palo Alto's only authentic French crepe cafe since 2006, using batter and equipment imported directly from France.",
+      "phone": "(650) 323-1815",
+      "menuUrl": "https://www.bistromaxine.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Tuesday": "8:00 AM-2:00 PM",
+        "Wednesday": "8:00 AM-2:00 PM",
+        "Thursday": "8:00 AM-2:00 PM",
+        "Friday": "8:00 AM-2:00 PM",
+        "Saturday": "8:00 AM-2:00 PM",
+        "Sunday": "8:00 AM-2:00 PM"
+      }
+    },
+    {
+      "id": "ChIJEQbMSzq7j4ARCIzIQRU45og",
+      "formattedAddress": "643 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4435214,
+        "longitude": -122.1605738
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9864633697750780936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://dineatbuca.com/locations/palo-alto/?utm_campaign=local&utm_source=gbp&utm_medium=organic&utm_content=palo-alto",
+      "displayName": {
+        "text": "Buca di Beppo Italian Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Buca Small.jpeg",
+      "description": "Festive family-style Italian with generous portions of classic pasta, lasagna and chicken for groups and celebrations.",
+      "phone": "(650) 213-1111",
+      "menuUrl": "https://www.bucadibeppo.com/menu/",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:00 AM-10:00 PM",
+        "Tuesday": "11:00 AM-10:00 PM",
+        "Wednesday": "11:00 AM-10:00 PM",
+        "Thursday": "11:00 AM-10:00 PM",
+        "Friday": "11:00 AM-10:00 PM",
+        "Saturday": "11:00 AM-10:00 PM",
+        "Sunday": "11:00 AM-10:00 PM"
+      }
+    },
+    {
+      "id": "ChIJ8QesCuW6j4ARfJfR8qxpWzE",
+      "formattedAddress": "2437 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427287,
+        "longitude": -122.14339079999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3556552522268252028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cafeprobono.com/",
+      "displayName": {
+        "text": "Cafe Pro Bono",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "description": "Three-time Palo Alto Weekly best Italian restaurant winner with housemade pasta and organic ingredients for 30-plus years.",
+      "phone": "(650) 326-1626",
+      "menuUrl": "https://www.cafeprobono.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:30 AM-9:00 PM",
+        "Tuesday": "11:30 AM-9:00 PM",
+        "Wednesday": "11:30 AM-9:00 PM",
+        "Thursday": "11:30 AM-9:00 PM",
+        "Friday": "11:30 AM-9:00 PM",
+        "Saturday": "11:30 AM-9:00 PM",
+        "Sunday": "11:30 AM-9:00 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Cafe Pro Bono Small.jpeg"
+    },
+    {
+      "id": "ChIJm8EK_e-6j4ARgml6h3Srj60",
+      "formattedAddress": "200 Sheridan Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4267836,
+        "longitude": -122.1405856
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12506403207208659330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cafferiace.com/",
+      "displayName": {
+        "text": "Caffe Riace",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "description": "Family-owned California Avenue Sicilian trattoria since 1997 with outdoor piazza dining and housemade Italian specialties.",
+      "phone": "(650) 473-9746",
+      "menuUrl": "https://www.cafferiace.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:30 AM-9:00 PM",
+        "Tuesday": "11:30 AM-9:00 PM",
+        "Wednesday": "11:30 AM-9:00 PM",
+        "Thursday": "11:30 AM-9:00 PM",
+        "Friday": "11:30 AM-9:00 PM",
+        "Saturday": "11:30 AM-9:00 PM",
+        "Sunday": "11:30 AM-9:00 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Caffe Riace Small.jpeg"
+    },
+    {
+      "id": "ChIJ7c_w_4q6j4ARF8QWNPNwbck",
+      "formattedAddress": "3740 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4175915,
+        "longitude": -122.13196810000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14514381363938247703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.celiasrestaurants.com/",
+      "displayName": {
+        "text": "Celia’s Mexican Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Celias Small.jpeg",
+      "description": "Daily fresh salsa, lard-free tortillas and skinless chicken define this longtime El Camino Real neighborhood staple.",
+      "phone": "(650) 494-5040",
+      "menuUrl": "https://www.celiasrestaurants.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:00 AM-9:00 PM",
+        "Tuesday": "11:00 AM-9:00 PM",
+        "Wednesday": "11:00 AM-9:00 PM",
+        "Thursday": "11:00 AM-9:00 PM",
+        "Friday": "11:00 AM-9:00 PM",
+        "Saturday": "11:00 AM-9:00 PM",
+        "Sunday": "11:00 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJTamC_qi7j4ARMAC_ZB2hHMI",
+      "formattedAddress": "2180 W Bayshore Rd #120, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.448276899999996,
+        "longitude": -122.1261363
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13987231690322280496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.chefzhaokitchen.com/",
+      "displayName": {
+        "text": "Chef Zhao Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "description": "Regional Chinese cooking with bold wok-fired dishes and dumplings popular with the Stanford community.",
+      "phone": "(650) 521-0766",
+      "menuUrl": "https://www.chefzhaokitchen.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:00 AM-9:30 PM",
+        "Tuesday": "11:00 AM-9:30 PM",
+        "Wednesday": "11:00 AM-9:30 PM",
+        "Thursday": "11:00 AM-9:30 PM",
+        "Friday": "11:00 AM-9:30 PM",
+        "Saturday": "11:00 AM-9:30 PM",
+        "Sunday": "11:00 AM-9:30 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Chef Zhao Kitchen Small.jpeg"
+    },
+    {
+      "id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc",
+      "formattedAddress": "642 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443916,
+        "longitude": -122.160191
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7492068501438780553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coconutspaloalto.com/",
+      "displayName": {
+        "text": "Coconuts Caribbean Restaurant & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Caribbean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Coconuts Small.jpeg",
+      "description": "Jerk chicken, curried goat and oxtail bring island flavors to Silicon Valley in a lively full-bar setting.",
+      "phone": "(650) 324-1000",
+      "menuUrl": "https://www.coconutscaribbean.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Tuesday": "11:30 AM-9:00 PM",
+        "Wednesday": "11:30 AM-9:00 PM",
+        "Thursday": "11:30 AM-9:00 PM",
+        "Friday": "11:30 AM-9:00 PM",
+        "Saturday": "11:30 AM-9:00 PM",
+        "Sunday": "11:30 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJd0Absfi6j4ARJUQZcc5Tzu0",
+      "formattedAddress": "2605 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4343952,
+        "longitude": -122.1301177
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17135725778317165605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://comoestataqueria.net/",
+      "displayName": {
+        "text": "Como Esta Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Como Esta Small.jpeg",
+      "description": "No-frills Middlefield Road taqueria with fresh-made burritos and tacos at the most affordable prices in Palo Alto.",
+      "phone": "(650) 327-2200",
+      "menuUrl": "https://www.comoestataqueria.com/menu",
+      "priceRange": "$",
+      "hours": {
+        "Monday": "10:00 AM-9:00 PM",
+        "Tuesday": "10:00 AM-9:00 PM",
+        "Wednesday": "10:00 AM-9:00 PM",
+        "Thursday": "10:00 AM-9:00 PM",
+        "Friday": "10:00 AM-9:00 PM",
+        "Saturday": "10:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJY5UIijm7j4ARPkLgY0DXJuI",
+      "formattedAddress": "538 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444609199999995,
+        "longitude": -122.16152839999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16295948973240238654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coupacafe.com/",
+      "displayName": {
+        "text": "Coupa Cafe - Ramona",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/palo-alto/Coupa Cafe_Ramona Small.jpeg",
+      "description": "Venezuelan cafe and Silicon Valley landmark since 2004, known for locally roasted coffee and gluten-free arepas.",
+      "phone": "(650) 322-6872",
+      "menuUrl": "https://www.coupacafe.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "7:00 AM-6:00 PM",
+        "Tuesday": "7:00 AM-6:00 PM",
+        "Wednesday": "7:00 AM-6:00 PM",
+        "Thursday": "7:00 AM-6:00 PM",
+        "Friday": "7:00 AM-6:00 PM",
+        "Saturday": "7:00 AM-6:00 PM",
+        "Sunday": "7:00 AM-6:00 PM"
+      }
+    },
+    {
+      "id": "ChIJgbClrTm7j4ARJhcj3TrrG9g",
+      "formattedAddress": "367 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4469366,
+        "longitude": -122.16094960000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15572298774614316838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.crepevine.com/?y_source=1_MTQ3MjMwNjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Crepevine Restaurants",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Crepevine Small.jpeg",
+      "description": "All-day neighborhood cafe serving generous crepes, omelets, salads and sandwiches from breakfast through dinner.",
+      "phone": "(650) 323-3601",
+      "menuUrl": "https://www.crepevine.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "8:00 AM-9:00 PM",
+        "Tuesday": "8:00 AM-9:00 PM",
+        "Wednesday": "8:00 AM-9:00 PM",
+        "Thursday": "8:00 AM-9:00 PM",
+        "Friday": "8:00 AM-9:00 PM",
+        "Saturday": "8:00 AM-9:00 PM",
+        "Sunday": "8:00 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJSwaMPEq7j4ARrdiph55BO04",
+      "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.446115500000005,
+        "longitude": -122.16106979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5637171507721001133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://paloalto.mycurrypizza.com/",
+      "displayName": {
+        "text": "Curry Pizza House Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Curry Pizza House Small.jpeg",
+      "phone": "(650) 319-6400",
+      "hours": {
+        "Monday": "10:00 AM – 10:00 PM",
+        "Tuesday": "10:00 AM – 10:00 PM",
+        "Wednesday": "10:00 AM – 10:00 PM",
+        "Thursday": "10:00 AM – 10:00 PM",
+        "Friday": "10:00 AM – 10:00 PM",
+        "Saturday": "10:00 AM – 10:00 PM",
+        "Sunday": "10:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://currypizzahouse.com/locations/palo-alto/",
+      "priceRange": "$$",
+      "description": "Indian fusion pizza on University Avenue with butter chicken, tandoori chicken, and chili paneer pies alongside craft beer and outdoor seating."
+    },
+    {
+      "id": "ChIJtUAJ_4q6j4ARjgupREDbjSo",
+      "formattedAddress": "3781 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4179259,
+        "longitude": -122.13161269999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3066347990385494926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.dasichuanrestaurant.com/",
+      "displayName": {
+        "text": "Da Sichuan Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Da Sichuan Bistro Small.jpeg",
+      "phone": "(650) 849-2000",
+      "hours": {
+        "Monday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM",
+        "Tuesday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM",
+        "Wednesday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM",
+        "Thursday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM",
+        "Friday": "11:00 AM – 2:00 PM, 4:30 PM – 10:00 PM",
+        "Saturday": "11:00 AM – 2:00 PM, 4:30 PM – 10:00 PM",
+        "Sunday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM"
+      },
+      "menuUrl": "http://www.dasichuanrestaurant.com/",
+      "priceRange": "$$",
+      "description": "Longstanding El Camino Real Sichuan kitchen famous for spicy dan dan noodles, mapo tofu, and owner warmth after six-plus years in Palo Alto."
+    },
+    {
+      "id": "ChIJ7ZNa4dG7j4ARszvuKU9_usY",
+      "formattedAddress": "2363 Birch St #B, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4278581,
+        "longitude": -122.14422800000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14319897943160535987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Daigo",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 384-6880",
+      "hours": {
+        "Monday": "5:00 PM – 8:05 PM",
+        "Tuesday": "5:00 PM – 8:05 PM",
+        "Wednesday": "5:00 PM – 8:05 PM",
+        "Thursday": "5:00 PM – 8:05 PM",
+        "Friday": "5:00 PM – 8:05 PM",
+        "Saturday": "5:00 PM – 8:05 PM",
+        "Sunday": "5:00 PM – 8:05 PM"
+      },
+      "menuUrl": "https://order.online/store/daigo-palo-alto-723254",
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Daigo Small.jpeg",
+      "description": "Hidden gem on Birch Street serving exceptional omakase, hamachi shots, and yuzu cheesecake in an intimate Japan-reminiscent setting."
+    },
+    {
+      "id": "ChIJe4kIFje7j4ARqb6yVqdp0tU",
+      "formattedAddress": "129 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444781899999995,
+        "longitude": -122.16510269999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15407493442622897833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.online/business/darbar-5",
+      "displayName": {
+        "text": "Darbar Indian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Darbar Small.jpeg",
+      "phone": "(650) 321-6688",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.grubhub.com/restaurant/darbar-indian-cuisine-129-lytton-ave-palo-alto/5549096",
+      "priceRange": "$$",
+      "description": "Award-winning Indian kitchen one block from Stanford combining north and south regional dishes with a beloved weekday lunch buffet since the 1980s."
+    },
+    {
+      "id": "ChIJBVNwaxK6j4ARUPhWmCDHXYk",
+      "formattedAddress": "799 San Antonio Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.420349699999996,
+        "longitude": -122.10223459999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9898286498838935632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dohatsutenramen.com/",
+      "displayName": {
+        "text": "Dohatsuten Ramen & Tapas",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Dohatsuten Small.jpeg",
+      "phone": "(650) 493-2878",
+      "hours": {
+        "Monday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Tuesday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Wednesday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Thursday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Friday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Saturday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Sunday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM"
+      },
+      "menuUrl": "https://dohatsutenramen.com/",
+      "priceRange": "$$",
+      "description": "Nagoya-style ramen with spicy minced pork and Japanese small plates in a vibrant family-friendly spot open since 2009."
+    },
+    {
+      "id": "ChIJHz4XFiW7j4ARn0Db50n4L2k",
+      "formattedAddress": "855 El Camino Real #104, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4389992,
+        "longitude": -122.1588592
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7579549694194040991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cafedoucefrance.com/",
+      "displayName": {
+        "text": "Douce France",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Douce France Small.jpeg",
+      "phone": "(650) 322-3601",
+      "hours": {
+        "Monday": "9:00 AM – 5:00 PM",
+        "Tuesday": "9:00 AM – 5:00 PM",
+        "Wednesday": "9:00 AM – 5:00 PM",
+        "Thursday": "9:00 AM – 5:00 PM",
+        "Friday": "9:00 AM – 5:00 PM",
+        "Saturday": "9:00 AM – 5:00 PM",
+        "Sunday": "9:00 AM – 5:00 PM"
+      },
+      "menuUrl": "https://www.cafedoucefrance.com/",
+      "priceRange": "$$",
+      "description": "Alsatian bakery cafe in Town and Country Village since 1981, beloved for handmade croissants, buckwheat crepes, and Lavazza espresso."
+    },
+    {
+      "id": "ChIJwVXiPQ-7j4ARm5uHGNqN66U",
+      "formattedAddress": "530 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4454109,
+        "longitude": -122.161097
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11955805603639040923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.mealkeyway.com/customer/release/index?mid=4b4c333472657138707150773566592b3239424469673d3d#/main",
+      "displayName": {
+        "text": "Dumpling Hours-Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Dumpling Hours Small.jpeg",
+      "phone": "(650) 323-1888",
+      "hours": {
+        "Monday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Tuesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Wednesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Thursday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Friday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Saturday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Sunday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM"
+      },
+      "menuUrl": "https://order.online/store/dumpling-hours-palo-alto-29675092",
+      "priceRange": "$$",
+      "description": "Palo Alto's go-to dumpling house with handmade xiao long bao, pan-fried dumplings, and noodle soups served twice daily."
+    },
+    {
+      "id": "ChIJ84zhlRG6j4ARRHn_8eTSKj4",
+      "formattedAddress": "920 Commercial St, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.422913799999996,
+        "longitude": -122.099947
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4479624660127807812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "El Taco Ranchero",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 471-3868",
+      "hours": {
+        "Monday": "10:00 AM – 6:00 PM",
+        "Tuesday": "10:00 AM – 6:00 PM",
+        "Wednesday": "10:00 AM – 6:00 PM",
+        "Thursday": "10:00 AM – 6:00 PM",
+        "Friday": "10:00 AM – 6:00 PM",
+        "Saturday": "10:00 AM – 6:00 PM"
+      },
+      "menuUrl": "https://www.doordash.com/business/el-ranchero-49577/menu/",
+      "priceRange": "$",
+      "description": "No-frills Mexican street food counter with fresh-made tacos and burritos at some of the most affordable prices on the Peninsula."
+    },
+    {
+      "id": "ChIJRTRAoc67j4ARM-MLNMDboBo",
+      "formattedAddress": "550 Waverley St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.44648120000001,
+        "longitude": -122.1599474
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1918775059813229363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ethelsfancypa.com/",
+      "displayName": {
+        "text": "Ethel's Fancy",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Naschmrkt Small.jpeg",
+      "phone": "(650) 561-4860",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:30 PM",
+        "Saturday": "5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.ethelsfancypa.com/",
+      "priceRange": "$$$",
+      "description": "A cozy upscale neighborhood restaurant in downtown Palo Alto focused on locally sourced seasonal ingredients and a thoughtfully curated wine list."
+    },
+    {
+      "id": "ChIJ4a0RmI67j4ARqr2S5nEYX2U",
+      "formattedAddress": "518 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4453864,
+        "longitude": -122.16135999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7304583998096981418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ettanrestaurant.com/",
+      "displayName": {
+        "text": "Ettan",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "phone": "(650) 752-6281",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.ettanrestaurant.com/",
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ettan Small.jpeg",
+      "description": "Critically acclaimed modern Indian restaurant from acclaimed chef Srijith Gopinathan offering a refined tasting menu and a la carte with a curated wine list."
+    },
+    {
+      "id": "ChIJByU8Zze7j4ARtKef7nHMEks",
+      "formattedAddress": "420 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4451287,
+        "longitude": -122.16379929999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5409610892132198324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.evvia.net/",
+      "displayName": {
+        "text": "Evvia Estiatorio",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Evvia Small.jpeg",
+      "phone": "(650) 326-0983",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://evvia.net/menu/",
+      "priceRange": "$$$$",
+      "description": "Celebrated Greek kitchen on Emerson Street with wood-fired lamb, whole fish, and mezze that have earned consistent acclaim for over 25 years."
+    },
+    {
+      "id": "ChIJJS3eBO-6j4AR55CwERBNE34",
+      "formattedAddress": "2500 El Camino Real Suite 105, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4242609,
+        "longitude": -122.1449674
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9084689604748021991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.fambriniscafe.com/",
+      "displayName": {
+        "text": "Fambrini’s Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "phone": "(650) 858-1268",
+      "hours": {
+        "Monday": "9:30 AM – 3:00 PM",
+        "Tuesday": "9:30 AM – 3:00 PM",
+        "Wednesday": "9:30 AM – 3:00 PM",
+        "Thursday": "9:30 AM – 3:00 PM",
+        "Friday": "9:30 AM – 3:00 PM",
+        "Saturday": "10:00 AM – 3:00 PM",
+        "Sunday": "10:00 AM – 3:00 PM"
+      },
+      "menuUrl": "https://www.fambriniscafe.com/",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Fambrinis Cafe Small.jpeg",
+      "description": "Cheerful daytime cafe near Stanford serving generous housemade soups, paninis, and daily specials in a relaxed neighborhood setting."
+    },
+    {
+      "id": "ChIJ2VtDOzS7j4ARaKOgGvJXoJ4",
+      "formattedAddress": "180 El Camino Real G-2, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.44457,
+        "longitude": -122.17032979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11430232551606756200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.flemingssteakhouse.com/Locations/CA/Palo-Alto?y_source=1_MTU1MDMxNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Fleming’s Prime Steakhouse & Wine Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/Flemings Small.jpeg",
+      "phone": "(650) 328-8888",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "4:00 PM – 10:00 PM",
+        "Sunday": "4:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.flemingssteakhouse.com/locations/ca/palo-alto",
+      "priceRange": "$$$$",
+      "description": "Upscale steakhouse featuring prime dry-aged cuts and one of the most extensive wine-by-the-glass programs of any Peninsula restaurant."
+    },
+    {
+      "id": "ChIJ5Q2_GWO6j4AREsesK8JkKW4",
+      "formattedAddress": "4119 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413888899999996,
+        "longitude": -122.1258333
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7937986603336386322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://fukisushi.com/",
+      "displayName": {
+        "text": "Fuki Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Fuki-Sushi Small.jpeg",
+      "phone": "(650) 494-9383",
+      "hours": {
+        "Monday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Tuesday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Wednesday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Thursday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Friday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Saturday": "5:15 PM – 9:00 PM"
+      },
+      "menuUrl": "https://fukisushi.com/menu/",
+      "priceRange": "$$$",
+      "description": "Elegant California Avenue sushi restaurant with a devoted following for its pristine nigiri, omakase options, and serene unhurried dining pace."
+    },
+    {
+      "id": "ChIJ90rubDS7j4AR7pLFdYlNGU4",
+      "formattedAddress": "660 Stanford Shopping Center #244B, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.442727399999995,
+        "longitude": -122.1705035
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5627614462157886190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.gofishpokebar.com/",
+      "displayName": {
+        "text": "Go Fish Poke Bar- Stanford Shopping Center",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Go Fish Poke Bar Small.jpeg",
+      "phone": "(650) 656-8291",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.ubereats.com/store/go-fish-poke-bar-palo-alto/SzN1KTv5Ss2cGdx-CoWJDw",
+      "priceRange": "$$",
+      "description": "Build-your-own poke bowls with fresh ahi tuna, salmon, and creative sauces at Stanford Shopping Center."
+    },
+    {
+      "id": "ChIJP_XllSS7j4ARhy2W_qw79aQ",
+      "formattedAddress": "855 El Camino Real #65, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4379565,
+        "longitude": -122.1598063
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11886472405705960839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://gotts.com/",
+      "displayName": {
+        "text": "Gott's",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Gotts Roadside Small.jpeg",
+      "phone": "(650) 326-1000",
+      "hours": {
+        "Monday": "10:30 AM – 9:00 PM",
+        "Tuesday": "10:30 AM – 9:00 PM",
+        "Wednesday": "10:30 AM – 9:00 PM",
+        "Thursday": "10:30 AM – 9:00 PM",
+        "Friday": "10:30 AM – 9:00 PM",
+        "Saturday": "10:30 AM – 9:00 PM",
+        "Sunday": "10:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.gotts.com/menu/",
+      "priceRange": "$$",
+      "description": "Northern California roadside classic known for grass-fed burgers, crispy onion rings, and seasonal milkshakes in a bustling open-air setting."
+    },
+    {
+      "id": "ChIJ-Z6WDW26j4ARvRm_XzDSf3o",
+      "formattedAddress": "3950 Middlefield Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.418678299999996,
+        "longitude": -122.10912849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8827004899876084157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.greenelephantgourmet.com/",
+      "displayName": {
+        "text": "Green Elephant Gourmet",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Green Elephant Gourmet Small.jpeg",
+      "phone": "(650) 494-7391",
+      "hours": {
+        "Tuesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Wednesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Thursday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Friday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Saturday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Sunday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM"
+      },
+      "menuUrl": "http://greenelephantgourmet.com/",
+      "priceRange": "$$",
+      "description": "Beloved neighborhood Thai kitchen with a devoted local following for its green curry, pad see ew, and generous lunch specials."
+    },
+    {
+      "id": "ChIJZ-fddRO7j4AR_0Gsc_U5HbQ",
+      "formattedAddress": "855 El Camino Real #161, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.439176499999995,
+        "longitude": -122.1581733
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12978593427522077183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hatchedbites.com/",
+      "displayName": {
+        "text": "Hatched",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hatched Small.jpeg",
+      "description": "Egg-forward breakfast spot at Town and Country Village with Asian-inflected sandwiches, smashed avocado toasts, and ceremonial-grade matcha lattes.",
+      "phone": "(650) 561-3386",
+      "hours": {
+        "Monday": "8:00 AM – 2:30 PM",
+        "Tuesday": "8:00 AM – 2:30 PM",
+        "Wednesday": "8:00 AM – 2:30 PM",
+        "Thursday": "8:00 AM – 2:30 PM",
+        "Friday": "8:00 AM – 2:30 PM",
+        "Saturday": "8:00 AM – 2:30 PM",
+        "Sunday": "8:00 AM – 2:30 PM"
+      },
+      "menuUrl": "https://www.hatchedbites.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJB6tydHK7j4ARMYHQSAGD5ig",
+      "formattedAddress": "544 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439995,
+        "longitude": -122.1620763
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2947187047700398385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://linktr.ee/teapot_inc",
+      "displayName": {
+        "text": "HE&C Tea + Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/He&C Tea + Pot Small.jpeg",
+      "description": "Individual hot pot concept on Emerson Street serving Kagoshima wagyu beef and handcrafted fruit teas with organic milk and fresh fruit.",
+      "phone": "(650) 600-0149",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://hecteapot.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJh6RQtJa7j4AR-KdyKoeGyQ4",
+      "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4461225,
+        "longitude": -122.16108659999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1065530701940697080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hiddentapandbarrel.com/",
+      "displayName": {
+        "text": "Hidden Tap And Barrel Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "description": "Craft beer and cocktail bar with a rotating tap list and a kitchen serving elevated pub food and weekend brunch.",
+      "phone": "(650) 433-2540",
+      "hours": {
+        "Tuesday": "4:00 PM – 10:00 PM",
+        "Wednesday": "4:00 PM – 10:00 PM",
+        "Thursday": "4:00 PM – 10:00 PM",
+        "Friday": "11:30 AM – 11:00 PM",
+        "Saturday": "11:30 AM – 11:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://hiddentapandbarrel.com/palo-alto",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJcymZ93y7j4ARGg6qXQT9Adc",
+      "formattedAddress": "3441 Alma St Suite 100, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4191895,
+        "longitude": -122.12491339999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15492942388324339226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.holysushi.org/",
+      "displayName": {
+        "text": "Holy Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Holy Sushi Small.jpeg",
+      "description": "Casual downtown sushi spot with an extensive menu of rolls, nigiri, and Japanese entrees at approachable everyday prices.",
+      "phone": "(650) 328-3600",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$",
+      "menuUrl": "https://holysushi.org/menu"
+    },
+    {
+      "id": "ChIJtRLy85ywj4AR38KYK7uJ0Yc",
+      "formattedAddress": "3691 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4184801,
+        "longitude": -122.13286660000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9786754902236119775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hongkongrestaurantpl.com/",
+      "displayName": {
+        "text": "Hong Kong Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hong Kong Restaurant Small.jpeg",
+      "description": "Longstanding Cantonese kitchen on El Camino Real serving traditional homestyle dishes like walnut prawns, beef clay pot, and shrimp chow fun.",
+      "phone": "(650) 325-3788",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJkTR5DEy7j4ARg9mfRMQbDQc",
+      "formattedAddress": "855 El Camino Real Ste 151, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4390997,
+        "longitude": -122.15842599999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=508092862741600643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.horsefeather.com/",
+      "displayName": {
+        "text": "Horsefeather Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Horse Feather Small.jpeg",
+      "description": "SF's beloved New American restaurant at Town and Country Village with Asian-Latin inspired dishes, inventive cocktails, and a bold low-proof program.",
+      "phone": "(650) 231-2177",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 11:00 PM",
+        "Saturday": "5:00 PM – 11:00 PM",
+        "Sunday": "5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://horsefeather.com/pa/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJHz4XFiW7j4AR4OCRJ5FPWnQ",
+      "formattedAddress": "855 El Camino Real #60, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.438029,
+        "longitude": -122.160035
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8384101141156323552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.howiesartisanpizza.com/",
+      "displayName": {
+        "text": "Howie's Artisan Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Howies Artisan Pizza Small.jpeg",
+      "description": "Multiple-time Palo Alto Weekly Best Pizza winner with California thin-crust pies, housemade sausage and ricotta, and fresh handmade pasta since 2009.",
+      "phone": "(650) 326-1111",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.howiesartisanpizza.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJw9v7bFC7j4ARqHLv-7H0mZQ",
+      "formattedAddress": "715 Stanford Shopping Center, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4427416,
+        "longitude": -122.17288519999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10707858634323227304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://eatathummus.com/",
+      "displayName": {
+        "text": "Hummus Mediterranean Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hummus Small.jpeg",
+      "description": "Halal Turkish-Mediterranean kitchen at Stanford Shopping Center with fresh-baked pita, housemade hummus, slow-roasted gyro meats, and lahmacun.",
+      "phone": "(650) 321-6602",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.eatathummus.com/palo-alto",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJBxeyFAC7j4ARQqr2OhsHIfA",
+      "formattedAddress": "460 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4455552,
+        "longitude": -122.16287459999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17303119056868911682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ikiomakasepaloalto.com/",
+      "displayName": {
+        "text": "Iki Omakase",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Iki Omakase Small.jpeg",
+      "description": "Bay Area-style Edomae omakase at $195 per person from Chef Jiabo Li, trained at Sushi Hon and Sato Omakase in San Francisco.",
+      "phone": "(650) 656-8180",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.ikiomakasepaloalto.com/",
+      "priceRange": "$$$$"
+    },
+    {
+      "id": "ChIJq0UsRXS7j4ARiC9b0hTPMjg",
+      "formattedAddress": "151 California Ave unit e, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428383,
+        "longitude": -122.14229350000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4049526703294984072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.imperialtreasurepaloalto.com/",
+      "displayName": {
+        "text": "Imperial treasure",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Imperial Treasure Small.jpeg",
+      "description": "Upscale Chinese restaurant on California Avenue with tableside-carved Peking duck, xiao long bao, and Szechuan specialties in an elegant setting.",
+      "phone": "(650) 326-6888",
+      "hours": {
+        "Monday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.imperialtreasurepaloalto.com/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJC89ba1Vk3IAR76YZVUjy_gw",
+      "formattedAddress": "3295 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4209587,
+        "longitude": -122.1369645
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=936452165018953455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://indorestaurant.com/",
+      "displayName": {
+        "text": "INDO Restaurant & Lounge",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Indo Small.jpeg",
+      "description": "Indonesian fusion kitchen on El Camino Real blending native Chef Diana Anwar's authentic recipes with California-French technique and craft cocktails.",
+      "phone": "(650) 332-7777",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.indorestaurant.com/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJmVLGgvi6j4ARTTuCWlOncSk",
+      "formattedAddress": "2710 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.433177799999996,
+        "longitude": -122.12942319999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2986352004365957965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.indochineca.com/",
+      "displayName": {
+        "text": "Indochine",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Indochine Small.jpeg",
+      "description": "Longstanding Middlefield Road Thai and Vietnamese kitchen with bold curries, fresh spring rolls, and catering for private events and corporate meetings.",
+      "phone": "(650) 321-8880",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.indochinethai.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJC3GmmeW6j4ARj7GQjerUWUY",
+      "formattedAddress": "341 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426967999999995,
+        "longitude": -122.144055
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5069316959444709775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.italicorestaurant.com/",
+      "displayName": {
+        "text": "iTalico",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/iTalico Small.jpeg",
+      "description": "Michelin Bib Gourmand-recognized California Avenue Italian with Neapolitan-style pizza, housemade pasta, and a Wine Spectator-awarded wine list.",
+      "phone": "(650) 318-6199",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.italicorestaurant.com/menu-italico",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJ06EYWO-6j4AR5x1zss9iick",
+      "formattedAddress": "477 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425408399999995,
+        "longitude": -122.14532919999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14522247117624516071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.izzysbrooklynbagels.com/%20%20%20%20%20https://izzysbb.square.site/#4",
+      "displayName": {
+        "text": "Izzy's Brooklyn Bagels",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/palo-alto/Izzys Brooklyn Bagels Small.jpeg",
+      "description": "Colorful hand-rolled bagels, deli sandwiches, and coffee served daily from 6 AM at a beloved Palo Alto institution.",
+      "phone": "(650) 328-5588",
+      "hours": {
+        "Monday": "6:00 AM – 3:00 PM",
+        "Tuesday": "6:00 AM – 3:00 PM",
+        "Wednesday": "6:00 AM – 3:00 PM",
+        "Thursday": "6:00 AM – 3:00 PM",
+        "Friday": "6:00 AM – 3:00 PM",
+        "Saturday": "6:00 AM – 3:00 PM",
+        "Sunday": "6:00 AM – 3:00 PM"
+      },
+      "menuUrl": "https://www.izzysbrooklynbagels.com/menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJIdvn8OW6j4ARLuSJEAHBDoY",
+      "formattedAddress": "454 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425861999999995,
+        "longitude": -122.14545299999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9659870461072892974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.jinshorestaurant.com/",
+      "displayName": {
+        "text": "Jin Sho",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Jinsho Small.jpeg",
+      "description": "Refined California Avenue Japanese restaurant with chefs trained at Nobu NY, praised for pristine miso black cod, blue fin tuna, and seasonal sashimi.",
+      "phone": "(650) 617-3122",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.jinshorestaurant.com/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJK3g59OW6j4AR5Q5CCNShy3o",
+      "formattedAddress": "405 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4263889,
+        "longitude": -122.14455830000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8848343824943156965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://joaniescafepaloalto.com/",
+      "displayName": {
+        "text": "Joanie's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Joanies Cafe Small.jpeg",
+      "description": "Four-time Palo Alto Weekly Best Breakfast winner known for generous American portions, smoked salmon omelets, Cobb salad, and hash browns.",
+      "phone": "(650) 326-8485",
+      "hours": {
+        "Monday": "7:00 AM – 3:00 PM",
+        "Tuesday": "7:00 AM – 3:00 PM",
+        "Wednesday": "7:00 AM – 3:00 PM",
+        "Thursday": "7:00 AM – 3:00 PM",
+        "Friday": "7:00 AM – 3:00 PM",
+        "Saturday": "7:00 AM – 3:00 PM",
+        "Sunday": "7:00 AM – 3:00 PM"
+      },
+      "menuUrl": "http://joaniescafepaloalto.com/menus.html",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJqQzX9eW6j4ARRQTr9028s7k",
+      "formattedAddress": "451 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425717399999996,
+        "longitude": -122.1451083
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13381245960905753669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.kaligreekkitchen.com/",
+      "displayName": {
+        "text": "Kali Greek Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kali Small.jpeg",
+      "description": "Fast-casual Greek kitchen at Stanford Shopping Center serving housemade gyros, falafel, and fresh-baked pita with a vibrant Mediterranean spread.",
+      "phone": "(650) 485-3134",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://kaligreekkitchen.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ0dOudwC7j4AREfbInswM9lA",
+      "formattedAddress": "4131 El Camino Way, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413880299999995,
+        "longitude": -122.124792
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5833864440281888273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kanjisushiramen.menu11.com/",
+      "displayName": {
+        "text": "Kanji Sushi & Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kanji Sushi Small.jpeg",
+      "description": "Lively Japanese spot combining creative sushi rolls and rich tonkotsu and miso ramen bowls in a casual, welcoming setting.",
+      "phone": "(650) 565-8868",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJMcUKNDi7j4AREnV3Wx48tZg",
+      "formattedAddress": "330 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4470525,
+        "longitude": -122.16237349999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11003767365630915858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kanpaipaloalto.com/",
+      "displayName": {
+        "text": "Kanpai",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kanpai Small.jpeg",
+      "description": "Intimate Lytton Avenue Japanese restaurant with a tranquil Japan-inspired interior, traditional donburi, sushi, and an extensive sake selection.",
+      "phone": "(650) 321-7796",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:00 PM",
+        "Saturday": "5:00 PM – 9:00 PM",
+        "Sunday": "5:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJbxXHNb-7j4ARBRYRzHaw37A",
+      "formattedAddress": "339 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4465508,
+        "longitude": -122.1613223
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12745099494758094341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.khazanapaloalto.com/",
+      "displayName": {
+        "text": "Khazana by Chef Sanjeev Kapoor",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Khazana Small.jpeg",
+      "description": "Modern Indian concept on University Avenue from India's most celebrated TV chef with seasonal cocktails and a full bar.",
+      "phone": "(650) 326-0000",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.khazanapaloalto.com/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJc5w7vvy6j4ARAFnKDu5CVRI",
+      "formattedAddress": "2680 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4334804,
+        "longitude": -122.13011600000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1321035655920900352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.kirks-steakburgers.com/?utm_source=gmb&utm_medium=organic&utm_campaign=palo+alto",
+      "displayName": {
+        "text": "Kirk's SteakBurgers - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kirks Small.jpeg",
+      "description": "Bay Area burger institution grinding USDA choice steak in-house daily for thick patties and a devoted following for over 40 years.",
+      "phone": "(650) 324-6151",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://kirksburgers.com/menu/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJRbsp9uW6j4ARyUJHxK7xFX8",
+      "formattedAddress": "463 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4254329,
+        "longitude": -122.1452003
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9157491150247379657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.labodeguita.com/",
+      "displayName": {
+        "text": "La Bodeguita del Medio",
+        "languageCode": "en"
+      },
+      "cuisine": "Caribbean",
+      "photoUrl": "images/restaurant-photos/palo-alto/La Bodeguita Del Medio Small.jpeg",
+      "description": "Multiple Palo Alto Weekly Best Ambience and Best Latin American winner with Cuban ropa vieja, rum cocktails, and a heated California Avenue patio.",
+      "phone": "(650) 326-7762",
+      "hours": {
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://labodeguita.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJp_VW7eW6j4ARpcOR4xWV7bo",
+      "formattedAddress": "415 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4262194,
+        "longitude": -122.1446667
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13469585981779854245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.labohemepaloalto.com/",
+      "displayName": {
+        "text": "La Boheme",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/La Boheme Small.jpeg",
+      "description": "Intimate French-Californian dinner spot with refined coq au vin, beef bourguignon, and a thoughtfully curated wine list for special evenings.",
+      "phone": "(650) 328-8180",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://labohemepaloalto.com/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJX2dDTkW7j4ARFo59XEuoaPk",
+      "formattedAddress": "3906 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4192296,
+        "longitude": -122.11039539999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17971799354649710102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lequyorg.wordpress.com/",
+      "displayName": {
+        "text": "LeQuy",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Le Quy Small.jpeg",
+      "description": "Neighborhood Vietnamese restaurant with a loyal Palo Alto following for pho, banh mi, and classic stir-fries at everyday prices.",
+      "phone": "(650) 326-5420",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJScdLwDm7j4ARCbo6bng01sU",
+      "formattedAddress": "271 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445838599999995,
+        "longitude": -122.16219160000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14255639362337946121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.localunion271.com/",
+      "displayName": {
+        "text": "Local Union 271",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Local Union 271 Small.jpeg",
+      "description": "Family-owned farm-to-table American kitchen with scratch-made dishes, locally sourced ingredients, and handcrafted decor throughout.",
+      "phone": "(650) 747-0555",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "menuUrl": "https://localunion271.com/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJEWzP8uW6j4ARv-d5dhqlvk8",
+      "formattedAddress": "425 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4260752,
+        "longitude": -122.14474440000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5746211707646764991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.lotusthaibistro.com/home",
+      "displayName": {
+        "text": "Lotus Thai Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Lotus Thai Bistro Small.jpeg",
+      "description": "Reliable California Avenue Thai bistro with a broad menu of curries, pad Thai, and noodle dishes for casual lunch and dinner.",
+      "phone": "(650) 329-8424",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.lotusthaibistro.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJG7rdAmS7j4ARayztR1t8nNg",
+      "formattedAddress": "488 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4480031,
+        "longitude": -122.15927529999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15608487140049890411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.louandherberts.com/?y_source=1_MTA2Njc4ODczNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "displayName": {
+        "text": "Lou & Herbert's",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Lou & Herberts Cafe Small.jpeg",
+      "description": "All-day neighborhood American cafe serving breakfast and dinner from early morning through evening with a relaxed, welcoming atmosphere.",
+      "phone": "(650) 521-0651",
+      "hours": {
+        "Monday": "7:00 AM – 9:00 PM",
+        "Tuesday": "7:00 AM – 9:00 PM",
+        "Wednesday": "7:00 AM – 9:00 PM",
+        "Thursday": "7:00 AM – 9:00 PM",
+        "Friday": "7:00 AM – 9:00 PM",
+        "Saturday": "7:00 AM – 9:00 PM",
+        "Sunday": "7:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.louandherberts.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJq2vyQB67j4ARBkHWA8vFNqU",
+      "formattedAddress": "420 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4458957,
+        "longitude": -122.1632956
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11904920140733890822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.macarenarestaurant.com/",
+      "displayName": {
+        "text": "Macarena Restaurant in Palo Alto",
+        "languageCode": "es"
+      },
+      "cuisine": "Spanish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Macarena Small.jpeg",
+      "phone": "(650) 321-8772",
+      "hours": {
+        "Monday": "11:30 AM – 9:30 PM",
+        "Tuesday": "11:30 AM – 9:30 PM",
+        "Wednesday": "11:30 AM – 9:30 PM",
+        "Thursday": "11:30 AM – 9:30 PM",
+        "Friday": "11:30 AM – 9:30 PM",
+        "Saturday": "11:30 AM – 9:30 PM",
+        "Sunday": "11:30 AM – 9:30 PM"
+      },
+      "menuUrl": "https://www.macarena.restaurant/menu",
+      "priceRange": "$$",
+      "description": "Traditional Spanish kitchen on Ramona Street with Michelin backing, authentic paellas, croquetas de jamon, and house-made sangria."
+    },
+    {
+      "id": "ChIJQSEisjC7j4AR3juLmOBOEys",
+      "formattedAddress": "27 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4430264,
+        "longitude": -122.16552460000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3103911294727306206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://macpark.com/?utm_source=google",
+      "displayName": {
+        "text": "MacArthur Park Restaurant and Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/MacArthur Park Small.jpeg",
+      "phone": "(650) 321-9990",
+      "hours": {
+        "Tuesday": "4:30 PM – 9:00 PM",
+        "Wednesday": "4:30 PM – 9:00 PM",
+        "Thursday": "4:30 PM – 9:00 PM",
+        "Friday": "4:30 PM – 9:00 PM",
+        "Saturday": "4:30 PM – 9:00 PM"
+      },
+      "menuUrl": "https://macpark.com/menus/",
+      "priceRange": "$$",
+      "description": "Palo Alto landmark since 1972 in a 1918 Julia Morgan building, famous for award-winning mesquite BBQ baby back ribs and prime rib."
+    },
+    {
+      "id": "ChIJK7u-fDi7j4ARObxmEVWASuE",
+      "formattedAddress": "499 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.449140899999996,
+        "longitude": -122.1607321
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16233928909662895161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mademoisellecolette.com/",
+      "displayName": {
+        "text": "Mademoiselle Colette",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Mademoisel Colette Small.jpeg",
+      "phone": "(650) 326-8485",
+      "hours": {
+        "Monday": "8:00 AM – 4:00 PM",
+        "Tuesday": "8:00 AM – 4:00 PM",
+        "Wednesday": "8:00 AM – 4:00 PM",
+        "Thursday": "8:00 AM – 4:00 PM",
+        "Friday": "8:00 AM – 4:00 PM",
+        "Saturday": "8:00 AM – 4:00 PM",
+        "Sunday": "8:00 AM – 4:00 PM"
+      },
+      "menuUrl": "https://www.mademoisellecolette.com/palo-alto-menu/",
+      "priceRange": "$$",
+      "description": "French patisserie on Lytton Avenue known for buttery handmade croissants, elegant tarts, and silky espresso since 2015."
+    },
+    {
+      "id": "ChIJhdRF_Zq7j4ARNcQ9kDH1444",
+      "formattedAddress": "383 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.447201799999995,
+        "longitude": -122.16081659999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10296342766321255477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.marugameudon.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+      "displayName": {
+        "text": "Marugame Udon",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Marugame Udon Small.jpeg",
+      "phone": "(650) 681-1280",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.marugameudon.com/menu/",
+      "priceRange": "$$",
+      "description": "Japanese fast-casual chain on University Avenue with handcrafted Sanuki-style udon made to order in an open theater kitchen."
+    },
+    {
+      "id": "ChIJEWzP8uW6j4ARkmIR7vba8es",
+      "formattedAddress": "433 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426045599999995,
+        "longitude": -122.1448464
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17001610822391259794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mediterraneanwraps.com/?utm_source=google",
+      "displayName": {
+        "text": "Mediterranean Wraps",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Mediterranean Wraps Small.jpeg",
+      "phone": "(650) 326-2900",
+      "hours": {
+        "Monday": "10:30 AM – 8:00 PM",
+        "Tuesday": "10:30 AM – 8:00 PM",
+        "Wednesday": "10:30 AM – 8:00 PM",
+        "Thursday": "10:30 AM – 8:00 PM",
+        "Friday": "10:30 AM – 8:00 PM",
+        "Saturday": "11:00 AM – 7:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Quick-service Mediterranean counter with fresh-made wraps, falafel, and gyros at some of the most affordable prices on California Avenue."
+    },
+    {
+      "id": "ChIJH_zZcy-7j4ARwPbn3XT47A4",
+      "formattedAddress": "167 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443697799999995,
+        "longitude": -122.16209699999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1075507591857567424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mendocinofarms.com/locations/palo-alto",
+      "displayName": {
+        "text": "Mendocino Farms",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Mendocino Farms Small.jpeg",
+      "phone": "(650) 561-1540",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.mendocinofarms.com/menu/palo-alto/",
+      "priceRange": "$$",
+      "description": "California sandwich and salad chain known for fresh ingredients, bold flavor combinations, and extensive options for all dietary preferences."
+    },
+    {
+      "id": "ChIJgfDze5W7j4ARwXfuLNFJ6jM",
+      "formattedAddress": "640 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4432991,
+        "longitude": -122.16098969999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3740883603235436481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.meyhouserestaurant.com/",
+      "displayName": {
+        "text": "Meyhouse & Meyhouse Jazz Club",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Meyhouse Small.jpeg",
+      "phone": "(650) 521-9002",
+      "hours": {
+        "Tuesday": "5:00 PM – 11:00 PM",
+        "Wednesday": "5:00 PM – 11:00 PM",
+        "Thursday": "5:00 PM – 11:00 PM",
+        "Friday": "5:00 PM – 11:00 PM",
+        "Saturday": "5:00 PM – 11:00 PM",
+        "Sunday": "5:00 PM – 11:00 PM"
+      },
+      "menuUrl": "https://www.meyhouserestaurant.com/palo-alto",
+      "priceRange": "$$$",
+      "description": "Elevated Turkish-Mediterranean dining on Emerson Street with live jazz, tender lamb chops, vibrant mezes, and a curated wine list."
+    },
+    {
+      "id": "ChIJAQDASDq7j4ARmCZUEs0AJD4",
+      "formattedAddress": "632 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4433231,
+        "longitude": -122.161034
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4477704810288916120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mezekebab.com/",
+      "displayName": {
+        "text": "Meze Kebab",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Meze Kebab Small.jpeg",
+      "phone": "(650) 521-0282",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Downtown Palo Alto Turkish kitchen serving housemade hummus, grilled kebabs, and Mediterranean small plates next door to Meyhouse."
+    },
+    {
+      "id": "ChIJ1QZb_YW7j4ARtxp0qRa2n-o",
+      "formattedAddress": "2305 El Camino Real suite a, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4257573,
+        "longitude": -122.14644109999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16906431734620625591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mjsushi.net/",
+      "displayName": {
+        "text": "MJ Sushi Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/MJ Sushi Small.jpeg",
+      "phone": "(650) 617-4567",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Casual neighborhood sushi spot with generous portions of fresh nigiri, creative rolls, and beef udon at everyday prices.",
+      "menuUrl": "https://mjsushi.net/menu"
+    },
+    {
+      "id": "ChIJE4gDeLG7j4AR_kI1Gek5x9E",
+      "formattedAddress": "447 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425763599999996,
+        "longitude": -122.1449994
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15116114347605443326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://namasteindiabistro.com/",
+      "displayName": {
+        "text": "Namaste Indian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Namaste Small.jpeg",
+      "phone": "(650) 462-9696",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Neighborhood Indian kitchen with a devoted local following for butter chicken, garlic naan, and a weekday lunch buffet."
+    },
+    {
+      "id": "ChIJq6oGtOW6j4AROUSVKcfXF0k",
+      "formattedAddress": "2323 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4279112,
+        "longitude": -122.14446710000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5266915539629196345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://naschmarktpaloalto.com/",
+      "displayName": {
+        "text": "Naschmarkt - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Naschmarkt - Palo Alto Small.jpeg",
+      "phone": "(650) 328-2445",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://naschmarktpaloalto.com/",
+      "priceRange": "$$$",
+      "description": "Family-owned Austrian restaurant on Birch Street with crispy Wiener Schnitzel, double-cooked pork belly, and European beers since 2022."
+    },
+    {
+      "id": "ChIJiZtnUze7j4ARuAzIjrVxmsM",
+      "formattedAddress": "125 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439807,
+        "longitude": -122.1637183
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14094703008407882936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "New York New York Sandwiches",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/New York New York Sandwiches Small.jpeg",
+      "phone": "(650) 328-8800",
+      "hours": {
+        "Monday": "10:00 AM – 6:00 PM",
+        "Tuesday": "10:00 AM – 6:00 PM",
+        "Wednesday": "10:00 AM – 6:00 PM",
+        "Thursday": "10:00 AM – 6:00 PM",
+        "Friday": "10:00 AM – 6:00 PM",
+        "Saturday": "10:00 AM – 6:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Longtime Palo Alto deli with thick-cut New York style deli sandwiches and classic cold-cut combinations at affordable prices."
+    },
+    {
+      "id": "ChIJ0y2QeTm7j4ARoys6DSP_0k4",
+      "formattedAddress": "325 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4455148,
+        "longitude": -122.16014190000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5679882606078471075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.newyorkpizzapaloalto.com/",
+      "displayName": {
+        "text": "New York Pizza Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/New York Pizza Small.jpeg",
+      "phone": "(650) 326-6973",
+      "hours": {
+        "Monday": "11:00 AM – 11:00 PM",
+        "Tuesday": "11:00 AM – 11:00 PM",
+        "Wednesday": "11:00 AM – 11:00 PM",
+        "Thursday": "11:00 AM – 11:00 PM",
+        "Friday": "11:00 AM – 11:00 PM",
+        "Saturday": "11:00 AM – 11:00 PM",
+        "Sunday": "11:00 AM – 11:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Classic New York style pizza by the slice or whole pie with a devoted following for its foldable thin crust and late-night hours.",
+      "menuUrl": "https://newyorkpizza.biz/menu"
+    },
+    {
+      "id": "ChIJofIvZUq7j4ARjUq2CGrWy74",
+      "formattedAddress": "322 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4461163,
+        "longitude": -122.16103849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13748318038379612813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.nickthegreek.com/",
+      "displayName": {
+        "text": "Nick The Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nick The Greek Small.jpeg",
+      "phone": "(650) 382-4010",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.nickthegreek.com/menu",
+      "priceRange": "$$",
+      "description": "Fast-casual Greek chain with hand-carved gyros, lamb and chicken souvlaki, and fresh tzatziki served quickly in a modern setting."
+    },
+    {
+      "id": "ChIJIxzPPjq7j4ARKDndKncRuwU",
+      "formattedAddress": "180 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4437193,
+        "longitude": -122.16147029999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=412942994352453928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.noburestaurants.com/paloalto/home/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
+      "displayName": {
+        "text": "Nobu Restaurant Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nobu Small.jpeg",
+      "phone": "(650) 531-8800",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://noburestaurants.com/paloalto/home",
+      "priceRange": "$$$$",
+      "description": "The Bay Area's only Nobu location at the Epiphany Hotel, co-founded by Chef Matsuhisa and Robert De Niro, with signature black cod miso."
+    },
+    {
+      "id": "ChIJdwmtjjm7j4ARuuLA95wq7wQ",
+      "formattedAddress": "535 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4449386,
+        "longitude": -122.1614268
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=355549749245436602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nolas.com/",
+      "displayName": {
+        "text": "Nola",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nola Small.jpeg",
+      "phone": "(650) 328-2722",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$$",
+      "description": "New Orleans-inspired kitchen on University Avenue with Cajun and Creole classics, craft cocktails, and a lively all-day dining atmosphere.",
+      "menuUrl": "https://www.nolapaloalto.com/menu"
+    },
+    {
+      "id": "ChIJweDvIRm7j4AR8IWnMD_jNrI",
+      "formattedAddress": "452 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4476055,
+        "longitude": -122.1595835
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12841701248032278000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.o2-valley.com/palo-alto/menu",
+      "displayName": {
+        "text": "O2 Valley",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/O2 Valley Small.jpeg",
+      "phone": "(650) 565-8860",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Chinese hot pot and bubble tea spot with a broad selection of broths, fresh ingredients, and customizable dipping sauces."
+    },
+    {
+      "id": "ChIJYZChWOa6j4ARo-N9ldn_yos",
+      "formattedAddress": "2111 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427065,
+        "longitude": -122.14805059999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10073144826548577187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://odorisushistanford.com/",
+      "displayName": {
+        "text": "Odori Japanese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Odori Sushi Small.jpeg",
+      "phone": "(650) 322-7939",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Quiet neighborhood Japanese restaurant with precise sashimi, teriyaki, and bento boxes in a relaxed unhurried setting."
+    },
+    {
+      "id": "ChIJ0wzVVCC7j4ARETETP1JS-5M",
+      "formattedAddress": "205 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4449633,
+        "longitude": -122.1628192
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10663207055928799505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.oklavacafe.com/",
+      "displayName": {
+        "text": "Oklava Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Oklava Small.jpeg",
+      "phone": "(650) 617-8888",
+      "hours": {
+        "Monday": "8:00 AM – 8:00 PM",
+        "Tuesday": "8:00 AM – 8:00 PM",
+        "Wednesday": "8:00 AM – 8:00 PM",
+        "Thursday": "8:00 AM – 8:00 PM",
+        "Friday": "8:00 AM – 8:00 PM",
+        "Saturday": "8:00 AM – 8:00 PM",
+        "Sunday": "8:00 AM – 8:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Turkish-inspired all-day cafe serving freshly prepared breakfast, housemade pastries, sandwiches, and specialty coffees from early morning."
+    },
+    {
+      "id": "ChIJz1CaiuS7j4ARJ0FvNTILUoo",
+      "formattedAddress": "164 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4442218,
+        "longitude": -122.163046
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9967041235597082919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.onigilly.com/",
+      "displayName": {
+        "text": "Onigilly Japanese Kitchen - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Onigilly Small.jpeg",
+      "phone": "(650) 561-4868",
+      "hours": {
+        "Monday": "11:00 AM – 8:00 PM",
+        "Tuesday": "11:00 AM – 8:00 PM",
+        "Wednesday": "11:00 AM – 8:00 PM",
+        "Thursday": "11:00 AM – 8:00 PM",
+        "Friday": "11:00 AM – 8:00 PM",
+        "Saturday": "11:00 AM – 8:00 PM",
+        "Sunday": "11:00 AM – 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Japanese rice ball chain with gourmet onigiri stuffed with premium fillings like salmon, tuna, and umeboshi for a quick nutritious meal.",
+      "menuUrl": "https://www.onigilly.com/menu"
+    },
+    {
+      "id": "ChIJ361H6jm7j4ARk1vmz_dEqwE",
+      "formattedAddress": "261 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4456966,
+        "longitude": -122.16222820000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=120265646191041427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orenshummus.com/",
+      "displayName": {
+        "text": "Oren's Hummus",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Small.jpeg",
+      "phone": "(650) 752-6492",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://orenshummus.com/menu",
+      "priceRange": "$$",
+      "description": "Israeli-style hummus restaurant on University Avenue with velvety housemade hummus, fresh pita, and a devoted line of regulars."
+    },
+    {
+      "id": "ChIJe858WAS7j4AR3SYscE3OsZU",
+      "formattedAddress": "855 El Camino Real #162, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4391487,
+        "longitude": -122.15807369999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10786629414518793949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.orenshummusexpress.com/",
+      "displayName": {
+        "text": "Orens Hummus Express",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Express Small.jpeg",
+      "phone": "(650) 600-8181",
+      "hours": {
+        "Monday": "11:00 AM – 8:00 PM",
+        "Tuesday": "11:00 AM – 8:00 PM",
+        "Wednesday": "11:00 AM – 8:00 PM",
+        "Thursday": "11:00 AM – 8:00 PM",
+        "Friday": "11:00 AM – 8:00 PM",
+        "Saturday": "11:00 AM – 8:00 PM",
+        "Sunday": "11:00 AM – 8:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "A faster-format companion to Oren's Hummus with the same fresh housemade hummus and falafel in a more casual counter setting."
+    },
+    {
+      "id": "ChIJPwEoJjq7j4AR4Ymjl9MBLUw",
+      "formattedAddress": "247 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444444,
+        "longitude": -122.16116709999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5489045529128307169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.osteriatoscanapaloalto.com/",
+      "displayName": {
+        "text": "Osteria Toscana",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Osteria Small.jpeg",
+      "phone": "(650) 328-5700",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:30 PM",
+        "Wednesday": "5:00 PM – 9:30 PM",
+        "Thursday": "5:00 PM – 9:30 PM",
+        "Friday": "5:00 PM – 9:30 PM",
+        "Saturday": "5:00 PM – 9:30 PM",
+        "Sunday": "5:00 PM – 9:30 PM"
+      },
+      "priceRange": "$$$",
+      "description": "California Avenue Tuscan trattoria with housemade pasta, braised meats, and a curated Italian wine list in a warm intimate setting.",
+      "menuUrl": "https://www.osteriapaloalto.com/menu"
+    },
+    {
+      "id": "ChIJJzcXtnO7j4ARGsdmlyvEgYI",
+      "formattedAddress": "711 Stanford Shopping Center, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4427423,
+        "longitude": -122.1729721
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9404013188429039386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pacificcatch.com/",
+      "displayName": {
+        "text": "Pacific Catch",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pacific Catch Small.jpeg",
+      "phone": "(650) 324-2722",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "West Coast fish house at Stanford Shopping Center serving sustainably sourced seafood with Pacific Rim flavors and Aloha-inspired hospitality."
+    },
+    {
+      "id": "ChIJyaiRIjq7j4ARpFp0WP-WoNA",
+      "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4438785,
+        "longitude": -122.16178900000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15033181579607562916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.paloaltocreamery.com/",
+      "displayName": {
+        "text": "Palo Alto Creamery",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Creamery Small.jpeg",
+      "phone": "(650) 327-3136",
+      "hours": {
+        "Monday": "7:00 AM – 9:00 PM",
+        "Tuesday": "7:00 AM – 9:00 PM",
+        "Wednesday": "7:00 AM – 9:00 PM",
+        "Thursday": "7:00 AM – 9:00 PM",
+        "Friday": "7:00 AM – 9:00 PM",
+        "Saturday": "7:00 AM – 9:00 PM",
+        "Sunday": "7:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "A Palo Alto institution since 1923 with made-from-scratch milkshakes, burgers, waffles, and all-American fountain treats served by authentic soda jerks."
+    },
+    {
+      "id": "ChIJ3dmr7OW6j4ARdga458ttjlg",
+      "formattedAddress": "408 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4266169,
+        "longitude": -122.14491950000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6381158444563957366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.solrestaurantsca.com/",
+      "displayName": {
+        "text": "Palo Alto Sol",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Sol Small.jpeg",
+      "phone": "(650) 328-8840",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Family-owned Mexican kitchen serving traditional regional dishes from Puebla using family recipes and sustainably sourced local ingredients."
+    },
+    {
+      "id": "ChIJdas5PTq7j4ARyZEoz7vVmg0",
+      "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4438785,
+        "longitude": -122.16178900000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=980330871517647305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.paloaltocreamery.com/",
+      "displayName": {
+        "text": "Peninsula Fountain Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Peninsula Foutain & Grill Small.jpeg",
+      "phone": "(650) 326-9276",
+      "hours": {
+        "Monday": "7:00 AM – 3:00 PM",
+        "Tuesday": "7:00 AM – 3:00 PM",
+        "Wednesday": "7:00 AM – 3:00 PM",
+        "Thursday": "7:00 AM – 3:00 PM",
+        "Friday": "7:00 AM – 3:00 PM",
+        "Saturday": "7:00 AM – 3:00 PM",
+        "Sunday": "7:00 AM – 3:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "A beloved Palo Alto lunch counter institution known colloquially as The Creamery, serving burgers, omelets, waffles, and house-made pie since 1923."
+    },
+    {
+      "id": "ChIJT_HstGa7j4ARLGiY5dPGJDg",
+      "formattedAddress": "185 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444708899999995,
+        "longitude": -122.16304019999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4045576978677917740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.phohanoiusa.com/",
+      "displayName": {
+        "text": "Phở Hà Nội",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pho Ha Noi Small.jpeg",
+      "phone": "(650) 561-4862",
+      "hours": {
+        "Monday": "10:00 AM – 9:00 PM",
+        "Tuesday": "10:00 AM – 9:00 PM",
+        "Wednesday": "10:00 AM – 9:00 PM",
+        "Thursday": "10:00 AM – 9:00 PM",
+        "Friday": "10:00 AM – 9:00 PM",
+        "Saturday": "10:00 AM – 9:00 PM",
+        "Sunday": "10:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Vietnamese pho kitchen using ancestral spice recipes, Harris Ranch Angus beef, free-range chicken, and spices harvested from Vietnam's Central Valley mountains."
+    },
+    {
+      "id": "ChIJCS4OBAC7j4AR3jawAgUTF3I",
+      "formattedAddress": "3864 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4170934,
+        "longitude": -122.1312946
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8221060557028996830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://222.pizzaguys.com/",
+      "displayName": {
+        "text": "Pizza Guys",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizza Guys Small.jpeg",
+      "phone": "(650) 462-9999",
+      "hours": {
+        "Monday": "10:00 AM – 11:00 PM",
+        "Tuesday": "10:00 AM – 11:00 PM",
+        "Wednesday": "10:00 AM – 11:00 PM",
+        "Thursday": "10:00 AM – 11:00 PM",
+        "Friday": "10:00 AM – 11:00 PM",
+        "Saturday": "10:00 AM – 11:00 PM",
+        "Sunday": "10:00 AM – 11:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Made-to-order pizza chain with a broad menu of classic and specialty pies available for delivery and pickup until 11 PM daily."
+    },
+    {
+      "id": "ChIJN1Yf8Dm7j4ARg7totskx17E",
+      "formattedAddress": "220 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4448417,
+        "longitude": -122.16231940000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12814766007124540291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzamyheart.com/",
+      "displayName": {
+        "text": "Pizza My Heart",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizza My Heart Small.jpeg",
+      "phone": "(650) 323-4100",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$",
+      "description": "California surf-culture pizza chain with a devoted Peninsula following for its thin-crust pies, calzones, and affordable slices."
+    },
+    {
+      "id": "ChIJCS_HTDq7j4ARskXdL5usfsU",
+      "formattedAddress": "651 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4434222,
+        "longitude": -122.1604222
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14231001655060284850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzeriadelfina.com/location/palo-alto/",
+      "displayName": {
+        "text": "Pizzeria Delfina - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizzeria Delfina Small.jpeg",
+      "phone": "(650) 353-2208",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Peninsula outpost of the James Beard Award-winning SF original, serving Neapolitan-inspired thin-crust pizzas with a daily-changing seasonal menu since 2014."
+    },
+    {
+      "id": "ChIJHUVxbf67j4ARDeXKRT7FmeA",
+      "formattedAddress": "855 El Camino Real #9, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4384958,
+        "longitude": -122.16064029999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16184183607182157069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.poke.house/locations/poke-el-camino-palo-alto",
+      "displayName": {
+        "text": "Poke House - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Poke House Small.jpeg",
+      "phone": "(650) 617-3333",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Build-your-own poke bowl concept inspired by Hawaiian flavors with fresh sustainable fish and a California spirit in every bowl."
+    },
+    {
+      "id": "ChIJ14CVruW6j4ARoh-i6iIAe5g",
+      "formattedAddress": "250 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427836,
+        "longitude": -122.14382429999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10987375865865838498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.protegepaloalto.com/",
+      "displayName": {
+        "text": "Protégé",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Protege Small.jpeg",
+      "phone": "(650) 332-0474",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:00 PM",
+        "Saturday": "5:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$$$",
+      "description": "Michelin-starred New American restaurant on California Avenue from French Laundry alumni, earning the Bay Area's attention since opening in 2018."
+    },
+    {
+      "id": "ChIJq6Jj6y-7j4ARmkaTCtvuosg",
+      "formattedAddress": "445 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4257831,
+        "longitude": -122.1449662
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14457380378355386010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ramenkowa.com/",
+      "displayName": {
+        "text": "Ramen Kowa",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ramen Kowa Small.jpeg",
+      "phone": "(650) 600-8288",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "California Avenue ramen kitchen with rich broths, perfectly fried karaage, and Japanese curry in a neighborhood setting representing Japanese culture and craft."
+    },
+    {
+      "id": "ChIJR1988Qm7j4ARi_KmggVETuc",
+      "formattedAddress": "541 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4454813,
+        "longitude": -122.16072450000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16667334061402288779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ramennagiusa.com/",
+      "displayName": {
+        "text": "Ramen Nagi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ramen Nagi Small.jpeg",
+      "phone": "(650) 399-9285",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Revered Tokyo-based ramen chain with its first US location in Palo Alto, famous for intensely rich broth and fully customizable bowls."
+    },
+    {
+      "id": "ChIJmWwu4jm7j4ARtbXJ6I2CZrg",
+      "formattedAddress": "445 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445076300000004,
+        "longitude": -122.1631074
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13287451296610760117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://rangoonrubypa.com/",
+      "displayName": {
+        "text": "Rangoon Ruby Burmese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Burmese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Rangoon Ruby Small.jpeg",
+      "phone": "(650) 323-6543",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Chef Max Lee's celebrated Burmese kitchen with garlic noodles, coconut rice, and nan gyi dok noodles drawing a devoted following for modern Burmese cuisine."
+    },
+    {
+      "id": "ChIJeYSESRq7j4AREj5yWWRdjrc",
+      "formattedAddress": "201 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428218,
+        "longitude": -122.14306999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13226611841212497426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rararestaurant.com/",
+      "displayName": {
+        "text": "Rara",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Rara Small.jpeg",
+      "phone": "(650) 521-0768",
+      "hours": {
+        "Monday": "11:30 AM – 9:30 PM",
+        "Tuesday": "11:30 AM – 9:30 PM",
+        "Wednesday": "11:30 AM – 9:30 PM",
+        "Thursday": "11:30 AM – 9:30 PM",
+        "Friday": "11:30 AM – 9:30 PM",
+        "Saturday": "11:30 AM – 9:30 PM",
+        "Sunday": "11:30 AM – 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "A vibrant neighborhood restaurant with a rotating menu of globally inspired small plates, natural wines, and a lively convivial atmosphere."
+    },
+    {
+      "id": "ChIJlSPd8w67j4ARZy6_cUeyGng",
+      "formattedAddress": "501 Oxford Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4265576,
+        "longitude": -122.1484342
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8654425653866606183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://realmediterraneankitchen.com/",
+      "displayName": {
+        "text": "Real Mediterranean Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "phone": "(650) 272-6955",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Fresh housemade Mediterranean dishes with halal options, generous portions, and a broad menu of wraps, plates, and sides in a casual setting."
+    },
+    {
+      "id": "ChIJt-5IyBa7j4ARD5iJZz4Ay0Y",
+      "formattedAddress": "450 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4462476,
+        "longitude": -122.1624397
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5101171270952261647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.avenidas.org/programs/cafe/",
+      "displayName": {
+        "text": "Redwood Café by Chef Julien",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/palo-alto/Redwood Cafe Small.jpeg",
+      "phone": "(650) 322-8505",
+      "hours": {
+        "Monday": "7:00 AM – 3:00 PM",
+        "Tuesday": "7:00 AM – 3:00 PM",
+        "Wednesday": "7:00 AM – 3:00 PM",
+        "Thursday": "7:00 AM – 3:00 PM",
+        "Friday": "7:00 AM – 3:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Daytime cafe from a French-trained chef with farm-to-table breakfast and lunch using locally procured ingredients near Stanford."
+    },
+    {
+      "id": "ChIJY0yKLzq7j4ARNNLYPbJMgN8",
+      "formattedAddress": "236 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4441583,
+        "longitude": -122.1609667
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16104956595902403124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.reposadorestaurant.com/",
+      "displayName": {
+        "text": "Reposado",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Reposado Small.jpeg",
+      "phone": "(650) 833-3151",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$$",
+      "description": "Palo Alto's premier tequila and mezcal destination with an extensive agave spirits program alongside a full Mexican kitchen and lively bar."
+    },
+    {
+      "id": "ChIJxQENlQ67j4AReETtyacmZA4",
+      "formattedAddress": "180 El Camino Real Building B, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4447784,
+        "longitude": -122.17224119999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1036996316291220600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rh.com/paloalto/restaurant",
+      "displayName": {
+        "text": "RH Rooftop Restaurant at RH Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/RH Rooftop Restaurant Small.jpeg"
+    },
+    {
+      "id": "ChIJD_pTEsy7j4ARmC6OuQ2GZ0k",
+      "formattedAddress": "473 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4481323,
+        "longitude": -122.15981430000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5289343680875736728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roohrestaurants.com/",
+      "displayName": {
+        "text": "ROOH Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Rooh Small.jpeg",
+      "phone": "(650) 304-3963",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "priceRange": "$$$",
+      "description": "Modern Indian kitchen on University Avenue from Chef Sujan Sarkar exploring open-fire cooking and regional Indian flavors in a splashy communal setting."
+    },
+    {
+      "id": "ChIJrTBLD1K7j4ARMNQr2bMszJ0",
+      "formattedAddress": "855 El Camino Real #157, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4392357,
+        "longitude": -122.1583252
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11370512310157956144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.roostandroast.com/",
+      "displayName": {
+        "text": "Roost & Roast",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Roost & Roast Small.jpeg",
+      "phone": "(650) 600-0012",
+      "hours": {
+        "Monday": "7:00 AM – 5:00 PM",
+        "Tuesday": "7:00 AM – 5:00 PM",
+        "Wednesday": "7:00 AM – 5:00 PM",
+        "Thursday": "7:00 AM – 5:00 PM",
+        "Friday": "7:00 AM – 5:00 PM",
+        "Saturday": "7:00 AM – 5:00 PM",
+        "Sunday": "7:00 AM – 5:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "All-day breakfast and brunch spot in Town and Country Village from the team behind Hatched, with rotisserie chicken, sandwiches, and craft coffee."
+    },
+    {
+      "id": "ChIJxRoy-X27j4AR_bK2I_FqBVg",
+      "formattedAddress": "115 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443025299999995,
+        "longitude": -122.16261410000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6342593234140050173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sanagus.com/",
+      "displayName": {
+        "text": "San Agus Cocina Urbana & Cocktails",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/San Agus Small.jpeg",
+      "phone": "(650) 521-0082",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.sanagus.com/menu",
+      "priceRange": "$$",
+      "description": "Mexico City street kitchen with 40-plus tequilas and mezcals, pastor tacos, cochinita pibil, and margaritas in a cozy lively setting."
+    },
+    {
+      "id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU",
+      "displayName": {
+        "text": "Sancho's Taqueria _Lytton",
+        "languageCode": "en"
+      },
+      "formattedAddress": "491 Lytton Ave, Palo Alto, CA 94301, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google",
+      "location": {},
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _Lytton Small.jpeg",
+      "phone": "(650) 324-8226",
+      "hours": {
+        "Monday": "10:30 AM – 9:00 PM",
+        "Tuesday": "10:30 AM – 9:00 PM",
+        "Wednesday": "10:30 AM – 9:00 PM",
+        "Thursday": "10:30 AM – 9:00 PM",
+        "Friday": "10:30 AM – 9:00 PM",
+        "Saturday": "10:30 AM – 9:00 PM",
+        "Sunday": "10:30 AM – 9:00 PM"
+      },
+      "menuUrl": "http://sanchostaqueria.com/",
+      "priceRange": "$",
+      "description": "Fast-casual Palo Alto taqueria with a devoted following for fresh fish tacos, California burritos, and loaded nachos at affordable prices."
+    },
+    {
+      "id": "ChIJc1ATKFa6j4ARZQoyTzpy0-8",
+      "displayName": {
+        "text": "Sancho's Taqueria _middlefield",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2723 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17281281789913074277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google",
+      "location": {},
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _middlefield Small.jpeg",
+      "phone": "(650) 324-8226",
+      "hours": {
+        "Monday": "10:30 AM – 9:00 PM",
+        "Tuesday": "10:30 AM – 9:00 PM",
+        "Wednesday": "10:30 AM – 9:00 PM",
+        "Thursday": "10:30 AM – 9:00 PM",
+        "Friday": "10:30 AM – 9:00 PM",
+        "Saturday": "10:30 AM – 9:00 PM",
+        "Sunday": "10:30 AM – 9:00 PM"
+      },
+      "menuUrl": "http://sanchostaqueria.com/",
+      "priceRange": "$",
+      "description": "Fast-casual Palo Alto taqueria with a devoted following for fresh fish tacos, California burritos, and loaded nachos at affordable prices."
+    },
+    {
+      "id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg",
+      "formattedAddress": "417 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426165000000005,
+        "longitude": -122.1446335
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8702456324778615288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sekoyapaloalto.com/",
+      "displayName": {
+        "text": "Sekoya Lounge & Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sekoya Small.jpeg",
+      "phone": "(650) 321-2300",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 11:00 PM",
+        "Saturday": "5:00 PM – 11:00 PM"
+      },
+      "menuUrl": "https://www.sekoyapaloalto.com/",
+      "priceRange": "$$$",
+      "description": "California Avenue's most sceney restaurant with seasonal New American dishes, a Hibachi grill, house-made breads, and craft cocktails."
+    },
+    {
+      "id": "ChIJB3hVsb67j4ARXMaL06rl50c",
+      "formattedAddress": "3398 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4194321,
+        "longitude": -122.1356069
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5181362418169398876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.showdecarnes.com/",
+      "displayName": {
+        "text": "Show de Carnes Brazilian Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Brazilian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Show De Carnes Small.jpeg",
+      "phone": "(650) 384-6720",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://showdecarnes.com/",
+      "priceRange": "$$$$",
+      "description": "Authentic Brazilian churrascaria experience with tableside carving of perfectly grilled meats and the vibrant flavors of Brazil."
+    },
+    {
+      "id": "ChIJF-8UBYq6j4AR5FBD89Ka32Y",
+      "formattedAddress": "3924 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.41637,
+        "longitude": -122.12979109999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7412813742490210532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.siamfinethaicuisine.com/",
+      "displayName": {
+        "text": "Siam Fine Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Siam Small.jpeg",
+      "phone": "(650) 856-8998",
+      "hours": {
+        "Monday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "5:00 PM – 9:30 PM",
+        "Sunday": "5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.siamfinethai.com/",
+      "priceRange": "$$",
+      "description": "Refined Thai kitchen with a dedicated following for elevated curries, pad Thai, and wok-fired dishes in a comfortable setting."
+    },
+    {
+      "id": "ChIJs-mASty7j4ARGnTRbfH7NBc",
+      "formattedAddress": "444 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475699,
+        "longitude": -122.15975949999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1672238376009430042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.simmer-steamer.com/",
+      "displayName": {
+        "text": "Simmer & Steamer",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Simmer & Steamer Small.jpeg",
+      "phone": "(650) 660-6816",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://order.online/store/simmer-steamer-palo-alto-24754388",
+      "priceRange": "$$",
+      "description": "Taiwanese hot pot and steamer restaurant with individual broth selections, fresh ingredients, and a broad Asian comfort food menu."
+    },
+    {
+      "id": "ChIJtWFrFmO6j4ARbA4cFdc8mG0",
+      "formattedAddress": "4127 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413779999999996,
+        "longitude": -122.125402
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7897128841063960172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://paloaltotofuhouse.square.site/",
+      "displayName": {
+        "text": "So Gong Dong Tofu House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/palo-alto/So Gong Dong Tofu House Small.jpeg",
+      "phone": "(650) 424-8282",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.sgdtofu.com/",
+      "priceRange": "$$",
+      "description": "One of the Bay Area's only Korean restaurants specializing in sundubu-jjigae, serving authentic soft tofu soups and stews since 2003."
+    },
+    {
+      "id": "ChIJaeHk_jm7j4ARZfXh674aljg",
+      "formattedAddress": "168 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444269399999996,
+        "longitude": -122.16286670000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4077475919934125413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cafesprout.com/",
+      "displayName": {
+        "text": "Sprout Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sprout Cafe Small.jpeg",
+      "phone": "(650) 323-7678",
+      "hours": {
+        "Monday": "11:00 AM – 7:00 PM",
+        "Tuesday": "11:00 AM – 7:00 PM",
+        "Wednesday": "11:00 AM – 7:00 PM",
+        "Thursday": "11:00 AM – 7:00 PM",
+        "Friday": "11:00 AM – 7:00 PM",
+        "Saturday": "11:00 AM – 4:00 PM"
+      },
+      "menuUrl": "http://www.sproutcafepaloalto.com/",
+      "priceRange": "$$",
+      "description": "University Avenue healthy cafe with fresh salads, grain bowls, and seasonal ingredients popular with the Stanford community."
+    },
+    {
+      "id": "ChIJ_UjdV--7j4ARt2YRSWk7iZU",
+      "formattedAddress": "369 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426696899999996,
+        "longitude": -122.14417370000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10775208906844104375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://squarepieguys.com/",
+      "displayName": {
+        "text": "Square Pie Guys",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Square Pie Guys Small.jpeg",
+      "phone": "(650) 204-8930",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://squarepieguys.com/",
+      "priceRange": "$$",
+      "description": "Detroit-style square pizza with a crispy caramelized cheese crust and creative toppings, a Bay Area cult favorite on University Avenue."
+    },
+    {
+      "id": "ChIJg5-D9Aq7j4ARGDDPZcQFjmg",
+      "formattedAddress": "3850 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4171877,
+        "longitude": -122.13138039999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7533965567717224472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://stateofmindslicehouse.com/",
+      "displayName": {
+        "text": "State of Mind Slice House",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/State of Mind Small.jpeg",
+      "phone": "(650) 561-3995",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.stateofmindpub.com/",
+      "priceRange": "$$",
+      "description": "New York-style pizza pub with generous slices, craft beer on tap, and a casual neighborhood atmosphere perfect for watching sports."
+    },
+    {
+      "id": "ChIJ-a6t5Tm7j4ARsEz4451NPDk",
+      "formattedAddress": "209 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4450435,
+        "longitude": -122.1628635
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4124256699294436528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://steampaloalto.com/",
+      "displayName": {
+        "text": "Steam",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Steam Small.jpeg",
+      "phone": "(650) 322-1888",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "http://www.steampaloalto.com/",
+      "priceRange": "$$",
+      "description": "Palo Alto's go-to dim sum restaurant with a broad menu of steamed and fried dumplings, rice noodles, and Taiwanese specialties."
+    },
+    {
+      "id": "ChIJ8RX-6uW6j4ARyxo26LXPQ0k",
+      "formattedAddress": "406 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.42663900000001,
+        "longitude": -122.14495509999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5279291568400243403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sunofwolfpa.com/",
+      "displayName": {
+        "text": "SUN of WOLF",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sun of Wolf Small.jpeg",
+      "phone": "(650) 561-3329",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:00 PM",
+        "Saturday": "5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.sunofwolf.com/",
+      "priceRange": "$$",
+      "description": "Palo Alto Weekly Best Mexican winner with inventive Mexico City inspired tacos, carnitas, and craft cocktails in an intimate setting."
+    },
+    {
+      "id": "ChIJaWnuL-e6j4ARR6YIY348nZk",
+      "formattedAddress": "1921 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428562,
+        "longitude": -122.14967199999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11069069972671604295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sundancethesteakhouse.com/",
+      "displayName": {
+        "text": "Sundance The Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sundance Small.jpeg",
+      "phone": "(650) 321-6798",
+      "hours": {
+        "Monday": "5:00 PM – 9:30 PM",
+        "Tuesday": "5:00 PM – 9:30 PM",
+        "Wednesday": "5:00 PM – 9:30 PM",
+        "Thursday": "5:00 PM – 9:30 PM",
+        "Friday": "4:30 PM – 10:00 PM",
+        "Saturday": "4:30 PM – 10:00 PM",
+        "Sunday": "4:30 PM – 9:00 PM"
+      },
+      "menuUrl": "https://sundancethesteakhouse.com/",
+      "priceRange": "$$$$",
+      "description": "A Palo Alto institution since 1974 with fireplaces, dark wood booths, slow-roasted prime rib, and hand-cut USDA Prime steaks."
+    },
+    {
+      "id": "ChIJHz4XFiW7j4AR5t10topddew",
+      "formattedAddress": "855 El Camino Real Ste 158, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4392636,
+        "longitude": -122.1582398
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17038627615574121958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sushihouse855.com/",
+      "displayName": {
+        "text": "Sushi House",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Suhi House Small.jpeg",
+      "phone": "(650) 493-2700",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "http://www.sushihousepa.com/",
+      "priceRange": "$$",
+      "description": "Longtime Palo Alto neighborhood sushi restaurant with fresh traditional nigiri, rolls, and Japanese entrees in a welcoming setting."
+    },
+    {
+      "id": "ChIJ-cKKzxa7j4ARMboigp4Thvk",
+      "formattedAddress": "180 El Camino Real #700a, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443218,
+        "longitude": -122.172501
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17980080133832358449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushiroku.com/",
+      "displayName": {
+        "text": "Sushi Roku Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sushi Roku Small.jpeg",
+      "phone": "(650) 543-1555",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 11:00 PM",
+        "Friday": "5:00 PM – 11:00 PM",
+        "Saturday": "5:00 PM – 11:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.sushiroku.com/",
+      "priceRange": "$$$",
+      "description": "Upscale contemporary Japanese restaurant at Stanford Shopping Center with premium nigiri, signature rolls, and creative cocktails."
+    },
+    {
+      "id": "ChIJgSKtATq7j4AR1LVZ7VN8W3I",
+      "formattedAddress": "150 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443996999999996,
+        "longitude": -122.162979
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8240316643110663636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetmaplesf.com/",
+      "displayName": {
+        "text": "Sweet Maple",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sweet Maple Small.jpeg",
+      "phone": "(650) 321-9338",
+      "hours": {
+        "Monday": "8:00 AM – 2:30 PM",
+        "Tuesday": "8:00 AM – 2:30 PM",
+        "Wednesday": "8:00 AM – 2:30 PM",
+        "Thursday": "8:00 AM – 2:30 PM",
+        "Friday": "8:00 AM – 2:30 PM",
+        "Saturday": "8:00 AM – 2:30 PM",
+        "Sunday": "8:00 AM – 2:30 PM"
+      },
+      "menuUrl": "https://www.sweetmaplesf.com/",
+      "priceRange": "$$",
+      "description": "SF brunch import beloved for thick-cut millionaire bacon, fluffy pancakes, and creative egg dishes with lines forming before opening."
+    },
+    {
+      "id": "ChIJUYJ9Ejm7j4AR10nzVhZIoYo",
+      "formattedAddress": "560 Waverley St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.446472199999995,
+        "longitude": -122.1596583
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9989344709269735895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://taipanpaloalto.com/",
+      "displayName": {
+        "text": "Tai Pan",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tai Pan Small.jpeg"
+    },
+    {
+      "id": "ChIJwWcdxzi7j4ARSPpV37nhr58",
+      "formattedAddress": "546 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4488748,
+        "longitude": -122.15841719999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11506663761387059784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tamarinerestaurant.com/",
+      "displayName": {
+        "text": "Tamarine Restaurant & Gallery",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tamarine Small.jpeg"
+    },
+    {
+      "id": "ChIJsZYrFAC7j4ARgZiNdSEjGsQ",
+      "formattedAddress": "461 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4450425,
+        "longitude": -122.16305779999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14130645407441459329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tanevegan.com/locations/palo-alto",
+      "displayName": {
+        "text": "Tane Vegan Izakaya",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tane Vegan Izakaya Small.jpeg"
+    },
+    {
+      "id": "ChIJ7f7sE4u6j4ARzIuv160J9jU",
+      "formattedAddress": "3636 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4182304,
+        "longitude": -122.13318509999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3888305970533600204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://taqueriaelgrullense.shop/",
+      "displayName": {
+        "text": "Taqueria El Grullense M&G",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taqueria El Grullense M&G Small.jpeg"
+    },
+    {
+      "id": "ChIJN1Zo_zi7j4ARIT2NbTuxNZQ",
+      "formattedAddress": "423 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475347,
+        "longitude": -122.1603022
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10679636960178158881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taste-paloalto.com/",
+      "displayName": {
+        "text": "Taste",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taste Small.jpeg"
+    },
+    {
+      "id": "ChIJg2K45--7j4ARb3QmTT7tfM4",
+      "formattedAddress": "443 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445152199999995,
+        "longitude": -122.16302990000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14879028120763397231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tastypotcalifornia.com/",
+      "displayName": {
+        "text": "Tasty Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tasty Pot Small.jpeg"
+    },
+    {
+      "id": "ChIJVVUFazu7j4ARLXVs7f4wu-M",
+      "formattedAddress": "800 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4422042,
+        "longitude": -122.1590523
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16409763538717668653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://tavernarestaurant.net/",
+      "displayName": {
+        "text": "TAVERNA",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taverna Small.jpeg"
+    },
+    {
+      "id": "ChIJU-h6-Q27j4AReNRuzo2WlTM",
+      "formattedAddress": "855 El Camino Real #130, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4383765,
+        "longitude": -122.1583028
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3717042603262137464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.telefericbarcelona.com/",
+      "displayName": {
+        "text": "Telefèric Barcelona Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Spanish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Teleferic Small.jpeg"
+    },
+    {
+      "id": "ChIJtXQ38-W6j4AR44dFBS3v120",
+      "formattedAddress": "448 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4259205,
+        "longitude": -122.14547429999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7915057846767945699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.terunpizza.com/",
+      "displayName": {
+        "text": "Terun Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Terun Small.jpeg"
+    },
+    {
+      "id": "ChIJ-zxk19G7j4ARJqNjr1SADak",
+      "formattedAddress": "2450 Park Blvd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428022899999995,
+        "longitude": -122.14277039999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12181533668315210534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://dinefarmfresh.com/",
+      "displayName": {
+        "text": "The Farm",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Farm Small.jpeg"
+    },
+    {
+      "id": "ChIJe5AqVr3Lj4AROFFL6ZwfRH0",
+      "formattedAddress": "4131 El Camino Real #100, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413300299999996,
+        "longitude": -122.1251502
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9026374311946703160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.themalawahbar.com/",
+      "displayName": {
+        "text": "The Ma'lawah Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Malawah Bar Small.jpeg"
+    },
+    {
+      "id": "ChIJD9VYOzS7j4ARus4pfa0zkJU",
+      "formattedAddress": "180 El Camino Real, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443094699999996,
+        "longitude": -122.17259729999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10777170728519847610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.themelt.com/",
+      "displayName": {
+        "text": "The Melt",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Melt Small.jpeg"
+    },
+    {
+      "id": "ChIJiXr_Zze7j4ARgRtbgk7Len4",
+      "formattedAddress": "412 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4451556,
+        "longitude": -122.16393889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9113820333992516481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thepatiopa.com/",
+      "displayName": {
+        "text": "The Patio @ Rudy's",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Patio Small.jpeg"
+    },
+    {
+      "id": "ChIJRzi6GDq7j4ARVC4ZzH-ZgJU",
+      "formattedAddress": "547 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4444157,
+        "longitude": -122.16174609999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10772779082834325076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://therosepa.com/",
+      "displayName": {
+        "text": "The Rose & Crown",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Rose & Crown Small.jpeg"
+    },
+    {
+      "id": "ChIJOT4Wp3m6j4ARL_3gCaC-HJ0",
+      "formattedAddress": "4269 W El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4075646,
+        "longitude": -122.1205417
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11321133157872368943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.theseausa.com/",
+      "displayName": {
+        "text": "The Sea by Alexander's Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Sea Small.jpeg"
+    },
+    {
+      "id": "ChIJGaMq8zm7j4ARYe6wItroPNY",
+      "formattedAddress": "520 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4448271,
+        "longitude": -122.16193469999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15437469646301752929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thepawineroom.com/",
+      "displayName": {
+        "text": "The Wine Room",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Wine Room Small.jpeg"
+    },
+    {
+      "id": "ChIJrW5Qkga7j4ARq0q-MRGHCjw",
+      "formattedAddress": "3345 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4202733,
+        "longitude": -122.1360386
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4326418899961531051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tiemuzhencuisine.fronteats.com/#/pos/order/index?channelOrderingId=3",
+      "displayName": {
+        "text": "Tie Mu Zhen Cuisine 铁木真内蒙菜",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tie Mu Zhen  Small.jpeg"
+    },
+    {
+      "id": "ChIJgVkH4BO7j4AR9Qj0HVCbuy8",
+      "formattedAddress": "540 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445247099999996,
+        "longitude": -122.16098969999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3439513508829726965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tongsui.us/",
+      "displayName": {
+        "text": "Tong Sui Desserts & Drinks (Palo Alto)",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tong Sui Small.jpeg"
+    },
+    {
+      "id": "ChIJexdrvjK7j4AR--GDhkDzYds",
+      "formattedAddress": "700 Welch Rd, Palo Alto, CA 94305, USA",
+      "location": {
+        "latitude": 37.437217,
+        "longitude": -122.173251
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15808183625507398139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tootsiesbarn.com/",
+      "displayName": {
+        "text": "Tootsie's At The Stanford Barn",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tootsies Small.jpeg"
+    },
+    {
+      "id": "ChIJt9KIrTW7j4ARjb1bTp5MW-E",
+      "formattedAddress": "180 El Camino Real Ste 1140, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443920999999996,
+        "longitude": -122.17032299999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16238657124217634189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.truefoodkitchen.com/locations/paloalto/",
+      "displayName": {
+        "text": "True Food Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/True Food Small.jpeg"
+    },
+    {
+      "id": "ChIJGe-xIgC7j4ARqZPigyQDpDE",
+      "formattedAddress": "448 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475872,
+        "longitude": -122.15963889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3576987459405386665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Urban Momo",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Urban Momo Small.jpeg"
+    },
+    {
+      "id": "ChIJISfg6jK7j4AR1QjILutJPms",
+      "formattedAddress": "700 Welch Rd #110, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.437207199999996,
+        "longitude": -122.17326430000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7727695285065353429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.vinaenoteca.com/",
+      "displayName": {
+        "text": "Vina Enoteca",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Vina Enoteca Small.jpeg"
+    },
+    {
+      "id": "ChIJ2S5OXzi7j4ARGnV-XOyU-4g",
+      "formattedAddress": "431 Kipling St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.448325,
+        "longitude": -122.1604148
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9870646751197558042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://vinolocale.com/",
+      "displayName": {
+        "text": "Vino Locale",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/palo-alto/Vino Locale Small.jpeg"
+    },
+    {
+      "id": "ChIJ82AEPzi7j4ARaPsjO4AFqR8",
+      "formattedAddress": "South, 855 El Camino Real Building 4, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4382288,
+        "longitude": -122.1587727
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2281360734546033512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://wildseedsf.com/",
+      "displayName": {
+        "text": "Wildseed",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/Wildseed Small.jpeg"
+    },
+    {
+      "id": "ChIJk0N57Sm7j4ARq4jfPi88hKY",
+      "formattedAddress": "180 Stanford Shopping Center Unit 240-C, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4425494,
+        "longitude": -122.1705679
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11998781480837810347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://worldwrapps.com/",
+      "displayName": {
+        "text": "World Wrapps",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/World Wrapps Small.jpeg"
+    },
+    {
+      "id": "ChIJpTk-VTi7j4ARpZhH_XR68_I",
+      "formattedAddress": "403 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4473827,
+        "longitude": -122.1604918
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17506470819403372709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.yayoi-us.com/",
+      "displayName": {
+        "text": "YAYOI Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Yayoi Small.jpeg"
+    },
+    {
+      "id": "opening_yutori",
+      "formattedAddress": "3375 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4242,
+        "longitude": -122.1139
+      },
+      "googleMapsUri": "https://maps.google.com/?q=3375+El+Camino+Real,+Palo+Alto,+CA",
+      "websiteUri": "https://yutori-pa.com",
+      "displayName": {
+        "text": "Yutori",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 764-0110",
+      "hours": {
+        "Monday": "8:00 AM - 5:00 PM",
+        "Tuesday": "8:00 AM - 5:00 PM",
+        "Wednesday": "8:00 AM - 5:00 PM",
+        "Thursday": "8:00 AM - 5:00 PM",
+        "Friday": "8:00 AM - 5:00 PM",
+        "Saturday": "8:00 AM - 5:00 PM",
+        "Sunday": "8:00 AM - 5:00 PM"
+      },
+      "description": "A California-inspired Japanese cafe and konbini serving matcha drinks, fresh onigiri, seasonal bentos, and sandwiches daily in a thoughtfully designed space.",
+      "menuUrl": "https://yutori-pa.com",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Yutori Small.jpeg"
+    },
+    {
+      "id": "ChIJcx9Pl-W6j4ARcUXBVpDCqUE",
+      "formattedAddress": "365 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4267457,
+        "longitude": -122.14408219999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4731526808716002673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://zareensrestaurant.com/",
+      "displayName": {
+        "text": "Zareen's Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zareens Small.jpeg"
+    },
+    {
+      "id": "opening_zaytinya",
+      "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4425,
+        "longitude": -122.1604
+      },
+      "googleMapsUri": "https://maps.google.com/?q=180+El+Camino+Real,+Stanford+Shopping+Center,+Palo+Alto,+CA",
+      "websiteUri": "https://zaytinya.com",
+      "displayName": {
+        "text": "Zaytinya",
+        "languageCode": "en"
+      },
+      "cuisine": "Mediterranean",
+      "phone": "(650) 203-2000",
+      "hours": {
+        "Monday": "4:00 PM - 9:00 PM",
+        "Tuesday": "4:00 PM - 9:00 PM",
+        "Wednesday": "11:30 AM - 9:00 PM",
+        "Thursday": "11:30 AM - 9:00 PM",
+        "Friday": "11:30 AM - 10:00 PM",
+        "Saturday": "11:30 AM - 10:00 PM",
+        "Sunday": "11:30 AM - 9:00 PM"
+      },
+      "description": "Chef Jose Andres brings his celebrated mezze concept to Stanford Shopping Center with Turkish, Greek and Lebanese small plates and creative Mediterranean cocktails.",
+      "menuUrl": "https://zaytinya.com/palo-alto",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJOW6rzsq7j4ARwtuFAHGPH-o",
+      "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.444477899999995,
+        "longitude": -122.1719398
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16870360444656016322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.zaytinya.com/location/palo-alto/",
+      "displayName": {
+        "text": "Zaytinya",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"
+    },
+    {
+      "id": "ChIJOzI3gjm7j4ARtGwnfAcuKaU",
+      "formattedAddress": "585 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4453069,
+        "longitude": -122.16042180000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11901094099985853620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.zolapaloalto.com/",
+      "displayName": {
+        "text": "Zola + BarZola",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zola Small.jpeg"
+    }
+  ],
   "Los Altos, CA": [
     {
       "id": "ChIJc5kBeZuwj4ARbr1oPiyATE0",
@@ -7083,7 +10998,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Amici's East Coast Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/mountain-view/Amicis East Coast Small.jpeg"
     },
     {
       "id": "ChIJHfE7_6Oxj4ARfJFUHF8hdbQ",
@@ -7143,7 +11059,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Bajis Cafe",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Bajis Cafe Small.jpeg"
     },
     {
       "id": "ChIJDSpH40u3j4ARUfRnCcCRK9E",
@@ -7263,7 +11180,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Casa Mia Restaurant (Mountain View)",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/mountain-view/Casa Mia Small.jpeg"
     },
     {
       "id": "ChIJ03QfnzO3j4ARC0p7TSYoCpA",
@@ -7293,7 +11211,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Caspian Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/mountain-view/Caspian Small.jpeg"
     },
     {
       "id": "ChIJvY7dlVq3j4AR27iAvJpn6bE",
@@ -7383,7 +11302,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Chili's Grill & Bar",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Chilis Small.jpeg"
     },
     {
       "id": "ChIJgT5ZKhGxj4ARdYMpDtwhEjk",
@@ -7518,7 +11438,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Eighty-Eight Sushi & Ramen",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eighty Eight Small.jpeg"
     },
     {
       "id": "ChIJS9wPPhC6j4AR-SeTDDlmO84",
@@ -7533,7 +11454,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Erik's DeliCafé",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eriks Deli Cafe Small.jpeg"
     },
     {
       "id": "ChIJQSVQrde2j4AREiEf9c2ce5o",
@@ -7593,7 +11515,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Fairchilds Public House",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Fairchilds Small.jpeg"
     },
     {
       "id": "ChIJbaA3enm3j4AR-zV5zEm9b2U",
@@ -7668,7 +11591,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Gochi Japanese Fusion Tapas",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Gochi Small.jpeg"
     },
     {
       "id": "ChIJhVI4gQ-6j4ARAeBWvkHGkbM",
@@ -7683,7 +11607,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hanabi Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hanabi Sushi Small.jpeg"
     },
     {
       "id": "ChIJJ9KvLjS3j4ARVZyJ6HSBT0A",
@@ -7743,7 +11668,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hyderabad Dum Biryani",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hyderabad dum Biryani Small.jpeg"
     },
     {
       "id": "ChIJwRZVJUi3j4ARRDXWLyu0pQ4",
@@ -7773,7 +11699,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Idly Express - Mountain View",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/mountain-view/Idly Express Small.jpeg"
     },
     {
       "id": "ChIJN2EgyMa7j4ARX0jGUEEfMoM",
@@ -7788,7 +11715,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Ike's Love & Sandwiches",
         "languageCode": "usa"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Ikes Small.jpeg"
     },
     {
       "id": "ChIJP_NCyBSxj4ARfaFtCqYUocU",
@@ -7803,7 +11731,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Il Fornaio | Mountain View",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/mountain-view/Il Fornaio Small.jpeg"
     },
     {
       "id": "ChIJZ51N9z23j4ARBFYUT_oKtCM",
@@ -7833,7 +11762,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Joya Super Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/mountain-view/Joya Tqqueria Small.jpeg"
     },
     {
       "id": "ChIJ2yPdP5y3j4AR3Xm38i9_-8M",
@@ -7908,7 +11838,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Kunjip Tofu",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/mountain-view/Kunjip Korean Restaurant Small.jpeg"
     },
     {
       "id": "ChIJ95RyX2Gxj4ARfNp2V6qcvPM",
@@ -7923,7 +11854,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Kusan Bazaar 龟兹集市",
         "languageCode": "en"
       },
-      "cuisine": "Halal"
+      "cuisine": "Halal",
+      "photoUrl": "images/restaurant-photos/mountain-view/Kusan Bazaar Small.jpeg"
     },
     {
       "id": "ChIJfa51MBC6j4ARdScWiQPQXWI",
@@ -7938,7 +11870,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "L&L Hawaiian Barbecue - Mountain View",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/mountain-view/L&L Hawaiian Barbecue Small.jpeg"
     },
     {
       "id": "ChIJ09rb9T23j4ARra_A_sXsfZc",
@@ -8058,7 +11991,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Los Altos Taqueria Mexican Inc",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/mountain-view/Los Altos Taqueria Small.jpeg"
     },
     {
       "id": "ChIJFdt9na23j4ARJAc5rPXRHkE",
@@ -8118,7 +12052,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Maldonado's Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/mountain-view/Maldonado Pizza Small.jpeg"
     },
     {
       "id": "ChIJ-0RVcTS3j4ARDEqD2bNEFrc",
@@ -8178,7 +12113,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mendocino Farms",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mendocino Farms Small.jpeg"
     },
     {
       "id": "ChIJu3a5ugK3j4AR6uq-nikkeUo",
@@ -8208,7 +12144,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mizu Sushi Bar & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mizu Small.jpeg"
     },
     {
       "id": "ChIJ6SYoDzS3j4ARUXlywN-MaHg",
@@ -8298,7 +12235,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Napoletana Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/mountain-view/Napoletana Pizzeria Small.jpeg"
     },
     {
       "id": "ChIJs6VVKiK3j4ARv41w-9SHJJs",
@@ -8433,7 +12371,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pacific Catch",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pacific Catch Small.jpeg"
     },
     {
       "id": "ChIJz_sWKQK7j4ARgmIaJnNrUqI",
@@ -8448,7 +12387,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Papas and Eggs",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/mountain-view/Papas & Eggs Small.jpeg"
     },
     {
       "id": "ChIJoeZn_jW7j4ARCGcxQXxyXJ0",
@@ -8523,7 +12463,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pho Avenue",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pho Avenue Small.jpeg"
     },
     {
       "id": "ChIJq6rqkw-6j4ARztwprDXfxDc",
@@ -8538,7 +12479,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Phở Trần Vũ",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pho Tran Vu Small.jpeg"
     },
     {
       "id": "ChIJe1NXQDS3j4ARPm9KvbvygJc",
@@ -8658,7 +12600,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Rincon Sabroso Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/mountain-view/Rincon Sabroso Small.jpeg"
     },
     {
       "id": "ChIJh1Y1MA23j4AREJz6Kxl75Uo",
@@ -8763,7 +12706,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "SAJJ Mediterranean",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sajj Small.jpeg"
     },
     {
       "id": "ChIJNT7PkDO3j4AR_agag90Kh-4",
@@ -8913,7 +12857,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Slice House Mountain View by Tony Gemignani",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/mountain-view/Slice House Small.jpeg"
     },
     {
       "id": "ChIJafzZnWqxj4ARttEF1Ku6s9c",
@@ -8928,7 +12873,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sourdough & Co.",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Soudough Co Small.jpeg"
     },
     {
       "id": "ChIJwcdjydmxj4AR-cFaTrYatS4",
@@ -9018,7 +12964,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Super Bao",
         "languageCode": "zh"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Super Bao Small.jpeg"
     },
     {
       "id": "ChIJD0Fxqb6wj4ARle_x0P0nxcM",
@@ -9078,7 +13025,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sushi Jin",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sushi Jin Small.jpeg"
     },
     {
       "id": "ChIJyQjQYTG3j4ARBO9RopzNHA8",
@@ -9198,7 +13146,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Breakfast Club at Midtown",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/mountain-view/The breakfast Club Small.jpeg"
     },
     {
       "id": "ChIJyS7o4Zuwj4ARon29W1GsXJo",
@@ -9213,7 +13162,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Counter",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/mountain-view/The counter Small.jpeg"
     },
     {
       "id": "ChIJYRHjWf67j4ARClGtTLToHZk",
@@ -9228,7 +13178,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Don’s Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/The Dons Deli Small.jpeg"
     },
     {
       "id": "ChIJQdgqhjy3j4ARpiK08gPTor4",
@@ -9378,7 +13329,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Veggie Garden",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Veggie Garden Small.jpeg"
     },
     {
       "id": "ChIJ47PYQLmwj4ARN49oMBKJyaY",
