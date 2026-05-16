@@ -3704,7 +3704,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Bay Area's only meatball truck featuring grass fed beef, natural pork, and organic turkey with fresh, simple ingredients.",
       "menuUrl": "http://www.redsaucemeatballs.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Red Sauce Meatballs Food Truck Small.jpeg"
     },
     {
       "id": "ChIJLRR-xlx5j4ARqXkTemCM0bI",
