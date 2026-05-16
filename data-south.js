@@ -11014,7 +11014,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Anatolia Fire Food Truck",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/mountain-view/Anatolia Fire Food Truck Small.jpeg"
     },
     {
       "id": "ChIJIwoDVCi3j4ARI5JLg7gyjCQ",
