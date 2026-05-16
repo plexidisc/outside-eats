@@ -985,7 +985,8 @@ var PREBAKED_DATA_CENTRAL = {
         "food truck"
       ],
       "priceRange": "$",
-      "description": "Food Truck"
+      "description": "Food Truck",
+      "photoUrl": "images/restaurant-photos/burlingame/Watani Spot Small.jpeg"
     },
     {
       "id": "ChIJwYo8l5Gdj4ARzYTiPg7X3JI",
@@ -2088,7 +2089,8 @@ var PREBAKED_DATA_CENTRAL = {
       "menuUrl": "https://www.ubereats.com/store/zanzoon-mediterranean-food/nxoiwUDZXLO-Je7RMF3CNA",
       "hours": "Mon–Sun 11am–8pm",
       "priceRange": "$$",
-      "description": "Food Truck"
+      "description": "Food Truck",
+      "photoUrl": "images/restaurant-photos/burlingame/Watani Spot Small.jpeg"
     }
   ],
   "San Mateo, CA": [
