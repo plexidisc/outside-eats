@@ -1797,7 +1797,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Family friendly taproom with craft beers from Bavaria trained brewer and locally sourced menu featuring wings, brats, and unique recipes.",
       "menuUrl": "http://47hillsbrewingcompany.com/wp-content/uploads/2023/06/Menu-fooddrink-623-no-chick-sando.pdf",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/47 Hills Brewing Company Small.jpeg"
     },
     {
       "id": "ChIJ5flhKq95j4AR0cvS1PQaU4I",
