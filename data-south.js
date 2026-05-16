@@ -1592,31 +1592,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/redwood-city/iDumpling Small.jpeg"
     },
     {
-      "id": "ChIJZ3zC1u6jj4ARwN7lwwFR9KY",
-      "displayName": {
-        "text": "Ike's Lair",
-        "languageCode": "en"
-      },
-      "formattedAddress": "2655 Broadway, Redwood City, CA 94063, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=12030329572636876480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ikeslairofredwoodcity.com/",
-      "location": {},
-      "cuisine": "American",
-      "phone": "(650) 365-2200",
-      "hours": {
-        "Monday": "11:00 AM - 3:00 PM",
-        "Tuesday": "11:00 AM - 3:00 PM",
-        "Wednesday": "11:00 AM - 3:00 PM",
-        "Thursday": "11:00 AM - 3:00 PM",
-        "Friday": "11:00 AM - 3:00 PM",
-        "Saturday": "11:00 AM - 3:00 PM",
-        "Sunday": "11:00 AM - 4:00 PM"
-      },
-      "description": "Gourmet sandwiches with creative flavor combos, halal options, and extensive vegan and vegetarian choices.",
-      "menuUrl": "https://www.ikeslairofredwoodcity.com/index.php/menu/",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJkReq0aGjj4ARvXwGkEvh6ec",
       "formattedAddress": "593 Woodside Rd Suite G, Redwood City, CA 94061, USA",
       "location": {
