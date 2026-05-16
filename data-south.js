@@ -1958,34 +1958,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/redwood-city/Little Madfish Small.jpeg"
     },
     {
-      "id": "ChIJkfHQ7i-Zj4AR8RanYyimZHQ",
-      "formattedAddress": "200 Redwood Shores Pkwy, Redwood City, CA 94065, USA",
-      "location": {
-        "latitude": 37.519359699999995,
-        "longitude": -122.25167859999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8387011098471503601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.toasttab.com/online/local-kitchens-redwood-shore-200-redwood-shores-parkway",
-      "displayName": {
-        "text": "Local Kitchens",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(415) 992-8206",
-      "hours": {
-        "Monday": "10:30 AM - 10:00 PM",
-        "Tuesday": "10:30 AM - 10:00 PM",
-        "Wednesday": "10:30 AM - 10:00 PM",
-        "Thursday": "10:30 AM - 10:00 PM",
-        "Friday": "10:30 AM - 10:00 PM",
-        "Saturday": "10:30 AM - 10:00 PM",
-        "Sunday": "10:30 AM - 10:00 PM"
-      },
-      "description": "Culinary collective featuring multiple chef driven menus from one kitchen, letting you mix cuisines on a single order.",
-      "menuUrl": "https://localkitchens.com/order/local-kitchens-redwood-shore-200-redwood-shores-parkway",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJ1_3qwUejj4ARR2LFfqhuGCo",
       "formattedAddress": "3726 Florence St, Redwood City, CA 94063, USA",
       "location": {
