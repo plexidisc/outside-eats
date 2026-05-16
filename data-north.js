@@ -2976,34 +2976,6 @@ var PREBAKED_DATA_NORTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJ7S05lK55j4ARZN4V8ezYBfE",
-      "formattedAddress": "112 Grand Ave, South San Francisco, CA 94080, USA",
-      "location": {
-        "latitude": 37.6549354,
-        "longitude": -122.4082784
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17367526050192809572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.facebook.com/kamusushissf",
-      "displayName": {
-        "text": "Kamu Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "phone": "(650) 952-2888",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Wednesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Thursday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Friday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Saturday": "5:00 PM - 9:30 PM",
-        "Sunday": "5:00 PM - 9:30 PM"
-      },
-      "description": "Family owned sushi spot known for fresh quality fish and creative omakase with customizable budgets.",
-      "menuUrl": "https://www.kamusushi.com/",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJUa4Q5Jt5j4ARomrWGnJ6g2s",
       "formattedAddress": "1129 El Camino Real, South San Francisco, CA 94080, USA",
       "location": {
