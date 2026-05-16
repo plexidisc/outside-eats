@@ -3086,7 +3086,8 @@ var PREBAKED_DATA_NORTH = {
         "Sunday": "8:00 AM - 10:00 PM"
       },
       "description": "Authentic Mexican restaurant serving homemade corn tortillas with every meal and daily specials like pozole and birria.",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/La Nueva Perla Small.jpeg"
     },
     {
       "id": "ChIJEdXRHKZ5j4ARn_B8DYAC4vU",
