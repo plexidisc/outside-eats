@@ -2621,7 +2621,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Pizzeria Cardamomo",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/redwood-city/Pizzeria Cardamomo Small.jpeg"
     },
     {
       "id": "ChIJXbGDcr-jj4AR-dFqQldz5Ao",
