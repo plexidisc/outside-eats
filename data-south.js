@@ -722,31 +722,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/redwood-city/CRU Small.jpeg"
     },
     {
-      "id": "ChIJ-esTlrKjj4ARHb6ps9Zsx5E",
-      "displayName": {
-        "text": "CRUST Sourdough Deli",
-        "languageCode": "en"
-      },
-      "formattedAddress": "701 Chesapeake Dr, Redwood City, CA 94063, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=10504484325258018333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.crustsourdough.com/",
-      "location": {},
-      "cuisine": "Cafe/Bakery",
-      "phone": "(650) 505-1044",
-      "hours": {
-        "Monday": "8:00 AM - 2:30 PM",
-        "Tuesday": "8:00 AM - 2:30 PM",
-        "Wednesday": "8:00 AM - 2:30 PM",
-        "Thursday": "8:00 AM - 2:30 PM",
-        "Friday": "8:00 AM - 2:30 PM",
-        "Saturday": "Closed",
-        "Sunday": "Closed"
-      },
-      "description": "Handcrafted sandwiches on hot, freshly baked sourdough with premium meats and fresh baked cookies.",
-      "menuUrl": "https://www.crustsourdough.com/menu",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJg-AAogKjj4AR79FomnvHMn4",
       "displayName": {
         "text": "Curry Pizza House",
