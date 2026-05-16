@@ -4510,7 +4510,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Turkish street food KEBAP",
         "languageCode": "tr"
       },
-      "cuisine": "Turkish"
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Turkish street food KEBAP Small.jpeg"
     },
     {
       "id": "ChIJiRIjF6Z5j4ARawB5zIoM2U4",
