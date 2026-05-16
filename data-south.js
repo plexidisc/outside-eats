@@ -9275,22 +9275,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"
     },
     {
-      "id": "ChIJOW6rzsq7j4ARwtuFAHGPH-o",
-      "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.444477899999995,
-        "longitude": -122.1719398
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16870360444656016322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.zaytinya.com/location/palo-alto/",
-      "displayName": {
-        "text": "Zaytinya",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"
-    },
-    {
       "id": "ChIJOzI3gjm7j4ARtGwnfAcuKaU",
       "formattedAddress": "585 Bryant St, Palo Alto, CA 94301, USA",
       "location": {
