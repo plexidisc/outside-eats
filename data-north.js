@@ -2837,7 +2837,8 @@ var PREBAKED_DATA_NORTH = {
         "Sunday": "10:00 AM - 10:00 PM"
       },
       "description": "Features 20 rotating taps emphasizing Northern California craft beers and one of the biggest whiskey collections.",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Hidden Tap and Barrel South San Francisco Small.jpeg"
     },
     {
       "id": "ChIJVVUVfix6j4ARaXQvwLTTn4Y",
