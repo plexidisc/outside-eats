@@ -2006,7 +2006,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 770-3999",
       "hours": "Mon–Closed, Tue–Sun 11am–8pm",
       "priceRange": "$$",
-      "description": "Food Truck"
+      "description": "Food Truck",
+      "photoUrl": "images/restaurant-photos/burlingame/Watani Spot Small.jpeg"
     },
     {
       "id": "ChIJQSxYoSV2j4ARlgCVyTXyfrc",
