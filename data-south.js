@@ -3504,7 +3504,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Fresh seafood food truck featuring fish tacos, fish and chips, and the popular mix platter with live music.",
       "menuUrl": "https://thebluefishkitchenca.com/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/redwood-city/The Blue Fish Kitchen Small.jpeg"
     },
     {
       "id": "ChIJEUWb_9-jj4AR60Fg_lVlxak",
