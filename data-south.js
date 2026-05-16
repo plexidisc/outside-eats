@@ -1074,7 +1074,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "NYC style halal food truck serving authentic, scratch made falafels and gyros with Mediterranean diet ingredients.",
       "menuUrl": "https://falafelandthings.com/menu-new/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/redwood-city/Falafel and things Small.jpeg"
     },
     {
       "id": "ChIJiSG4TKaYj4ARLeRoG2_zEd4",
