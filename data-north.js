@@ -3203,7 +3203,8 @@ var PREBAKED_DATA_NORTH = {
       },
       "description": "Famous for their fragrant pho with 20 hours of simmering and fresh, traditional Vietnamese dishes.",
       "menuUrl": "https://www.littlesaigonviet.com/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/south-san-francisco/Little Saigon Small.jpeg"
     },
     {
       "id": "ChIJsxqLOql5j4ARjd_V58IDIsE",
