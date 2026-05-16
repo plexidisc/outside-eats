@@ -2798,33 +2798,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJJfonCGWjj4ARleaZij2ZPjA",
-      "formattedAddress": "426 MacArthur Ave, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4777609,
-        "longitude": -122.2114472
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3476384451973998229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://redwoodcityeats.com/",
-      "displayName": {
-        "text": "Redwood City Eats",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "hours": {
-        "Monday": "11:00 AM - 8:00 PM",
-        "Tuesday": "11:00 AM - 8:00 PM",
-        "Wednesday": "11:00 AM - 8:00 PM",
-        "Thursday": "11:00 AM - 8:00 PM",
-        "Friday": "11:00 AM - 8:00 PM",
-        "Saturday": "11:00 AM - 8:00 PM",
-        "Sunday": "11:00 AM - 8:00 PM"
-      },
-      "description": "A digital food hall where you can order from 15+ local restaurants in a single pickup or delivery.",
-      "menuUrl": "http://redwoodcityeats.com/explore",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJQ4mZBIWjj4AR6_hlIpJxwbI",
       "formattedAddress": "356 Woodside Plz, Redwood City, CA 94061, USA",
       "location": {
