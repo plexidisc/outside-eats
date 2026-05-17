@@ -1507,31 +1507,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJxVY3wSV2j4ARhhR0g-Xi2iI",
-      "formattedAddress": "1190 California Dr, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5876087,
-        "longitude": -122.36306099999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2511569217593283718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.maverickjacks.com/?y_source=1_MTU3MDI1MjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
       "displayName": {
         "text": "Maverick Jack's",
         "languageCode": "en"
       },
+      "formattedAddress": "1190 California Dr, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2511569217593283718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.maverickjacks.com/?y_source=1_MTU3MDI1MjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/burlingame/Maverick Jacks Small.jpeg",
-      "phone": "(650) 347-3061",
-      "description": "Flame grilled burgers, hand spun shakes, and craft beers served.",
-      "hours": "Mon–Thu 11am–8pm, Fri–Sat 11am–9pm, Sun 11am–8pm",
-      "menuUrl": "https://order.toasttab.com/online/maverick-jacks-burlingame-1190-california-drive",
-      "priceRange": "$$",
       "keywords": [
         "american",
         "bar",
         "sports bar",
         "happy hour",
-        "burgers"
-      ]
+        "burgers",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://order.toasttab.com/online/maverick-jacks-burlingame-1190-california-drive",
+      "phone": "(650) 347-3061",
+      "hours": "Mon–Thu 11am–8pm, Fri–Sat 11am–9pm, Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "Flame grilled burgers, hand spun shakes, and craft beers served.",
+      "photoUrl": "images/restaurant-photos/burlingame/Maverick Jacks Small.jpeg"
     },
     {
       "id": "ChIJjfYPxC52j4ARLlCAR6jjt9c",
