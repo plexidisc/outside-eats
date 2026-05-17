@@ -1613,30 +1613,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJj93oSJl3j4ARunOR_4JIHyw",
-      "formattedAddress": "1199 Broadway, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.586327499999996,
-        "longitude": -122.36428509999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3179339589417530298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mediterraneanpizzagyros.com/",
       "displayName": {
         "text": "Mediterranean Pizza and Gyros",
         "languageCode": "en"
       },
+      "formattedAddress": "1199 Broadway, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3179339589417530298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mediterraneanpizzagyros.com/",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/burlingame/Mediterranean Pizza & Gyros Small.jpeg",
-      "phone": "(650) 458-3018",
-      "description": "Expertly crafted Lahmacun, Pide, and authentic Turkish Mediterranean specialties.",
-      "hours": "Mon–Sun 11:00am–8:30pm",
-      "menuUrl": "https://www.mediterraneanpizzagyros.com/gs12lav5/mediterranean-pizza-and-gyros-burlingame-94010/menu",
-      "priceRange": "$$",
       "keywords": [
         "pizza",
         "gyros",
         "mediterranean",
-        "fast casual"
-      ]
+        "fast casual",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.mediterraneanpizzagyros.com/gs12lav5/mediterranean-pizza-and-gyros-burlingame-94010/menu",
+      "phone": "(650) 458-3018",
+      "hours": "Mon–Sun 11:00am–8:30pm",
+      "priceRange": "$$",
+      "description": "Expertly crafted Lahmacun, Pide, and authentic Turkish Mediterranean specialties.",
+      "photoUrl": "images/restaurant-photos/burlingame/Mediterranean Pizza & Gyros Small.jpeg"
     },
     {
       "id": "ChIJiahRlPGdj4ARJjeUd2mmutU",
