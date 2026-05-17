@@ -764,30 +764,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ6_DtMu6dj4ARUOUIMrYrL4s",
-      "formattedAddress": "1107 Howard Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5782333,
-        "longitude": -122.34397059999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10029282956700869968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.coconutbaythai.com/",
       "displayName": {
         "text": "Coconut Bay Thai Restaurant & Bar - Burlingame",
         "languageCode": "en"
       },
+      "formattedAddress": "1107 Howard Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10029282956700869968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coconutbaythai.com/",
+      "location": {},
       "cuisine": "Thai",
-      "photoUrl": "images/restaurant-photos/burlingame/Coconut Bay Small.jpeg",
-      "phone": "(650) 558-8268",
-      "description": "Contemporary Asian cuisine meets San Francisco dining in cozy family atmosphere.",
-      "hours": "Mon–Thu 11:30am–3pm, 4pm–9pm, Fri 11:30am–3pm, 4pm–10pm, Sat 11:30am–10pm, Sun 11:30am–9pm",
-      "menuUrl": "https://www.coconutbaythai.com/menu",
-      "priceRange": "$$",
       "keywords": [
         "thai curry",
         "pad thai",
         "vegetarian options",
-        "full bar"
-      ]
+        "full bar",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.coconutbaythai.com/menu",
+      "phone": "(650) 558-8268",
+      "hours": "Mon–Thu 11:30am–3pm, 4pm–9pm, Fri 11:30am–3pm, 4pm–10pm, Sat 11:30am–10pm, Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "Contemporary Asian cuisine meets San Francisco dining in cozy family atmosphere.",
+      "photoUrl": "images/restaurant-photos/burlingame/Coconut Bay Small.jpeg"
     },
     {
       "id": "ChIJbaUbkfGdj4AR6fN-d_gjBOE",
