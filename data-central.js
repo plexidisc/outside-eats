@@ -1667,32 +1667,30 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ7W_sp6Odj4ARsnYGnU91N-U",
-      "formattedAddress": "1166 Howard Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5781419,
-        "longitude": -122.34473899999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16516799143201896114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.mintsandhoney.com/",
       "displayName": {
         "text": "Mints & Honey Burlingame",
         "languageCode": "en"
       },
+      "formattedAddress": "1166 Howard Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16516799143201896114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mintsandhoney.com/",
+      "location": {},
       "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/burlingame/Mints & Honey Small.jpeg",
-      "phone": "(650) 808-7028",
-      "description": "Neighborhood cafe making things from scratch using local bakers and vendors.",
-      "hours": "Mon–Fri 8am–4pm, Sat–Sun 8am–3pm",
-      "menuUrl": "https://www.yelp.com/menu/mints-and-honey-burlingame-2",
-      "priceRange": "$$",
       "keywords": [
         "breakfast",
         "brunch",
         "waffles",
         "matcha",
         "coffee",
-        "family friendly"
-      ]
+        "family friendly",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.yelp.com/menu/mints-and-honey-burlingame-2",
+      "phone": "(650) 808-7028",
+      "hours": "Mon–Fri 8am–4pm, Sat–Sun 8am–3pm",
+      "priceRange": "$$",
+      "description": "Neighborhood cafe making things from scratch using local bakers and vendors.",
+      "photoUrl": "images/restaurant-photos/burlingame/Mints & Honey Small.jpeg"
     },
     {
       "id": "ChIJP8ZRyCV2j4ARfqQbhMi2gHE",
