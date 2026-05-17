@@ -1370,30 +1370,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJU0mV-vGdj4ARTvs5m0l5JYc",
-      "formattedAddress": "1101 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.579544399999996,
-        "longitude": -122.34540310000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9738323126302407502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.limonrestaurants.com/?y_source=1_MTk4MDQ4MjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
       "displayName": {
         "text": "Limón",
         "languageCode": "en"
       },
+      "formattedAddress": "1101 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9738323126302407502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.limonrestaurants.com/?y_source=1_MTk4MDQ4MjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "location": {},
       "cuisine": "Peruvian",
-      "photoUrl": "images/restaurant-photos/burlingame/Limon Small.jpeg",
-      "phone": "(650) 727-0050",
-      "description": "Innovative Peruvian cuisine featuring ceviche and signature rotisserie chicken.",
-      "hours": "Sun–Thu 11:00am–9:30pm, Fri–Sat 11:00am–10:30pm",
-      "menuUrl": "https://www.limonrestaurants.com/menu/food-menu/",
-      "priceRange": "$$",
       "keywords": [
         "peruvian",
         "ceviche",
         "date night",
-        "cocktails"
-      ]
+        "cocktails",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.limonrestaurants.com/menu/food-menu/",
+      "phone": "(650) 727-0050",
+      "hours": "Sun–Thu 11:00am–9:30pm, Fri–Sat 11:00am–10:30pm",
+      "priceRange": "$$",
+      "description": "Innovative Peruvian cuisine featuring ceviche and signature rotisserie chicken.",
+      "photoUrl": "images/restaurant-photos/burlingame/Limon Small.jpeg"
     },
     {
       "id": "ChIJddVBgrR3j4ARVMlFoRC4Tq4",
