@@ -1694,32 +1694,30 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJP8ZRyCV2j4ARfqQbhMi2gHE",
-      "formattedAddress": "1155 California Dr, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5869891,
-        "longitude": -122.36311690000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8178737895630939262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mokutanya.shop/",
       "displayName": {
         "text": "Mokutanya",
         "languageCode": "en"
       },
+      "formattedAddress": "1155 California Dr, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8178737895630939262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mokutanya.shop/",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/burlingame/Mokutanya Small.jpeg",
-      "phone": "(650) 348-9388",
-      "description": "Fresh daily meats and vegetables grilled over charcoal yakitori style.",
-      "hours": "Mon–Thu 5pm–12am, Fri–Sat 5pm–1am, Sun 5pm–12am",
-      "menuUrl": "https://mokutanya.shop/menu",
-      "priceRange": "$$$",
       "keywords": [
         "japanese bbq",
         "yakiniku",
         "tabletop grill",
         "groups",
         "date night",
-        "sake"
-      ]
+        "sake",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://mokutanya.shop/menu",
+      "phone": "(650) 348-9388",
+      "hours": "Mon–Thu 5pm–12am, Fri–Sat 5pm–1am, Sun 5pm–12am",
+      "priceRange": "$$$",
+      "description": "Fresh daily meats and vegetables grilled over charcoal yakitori style.",
+      "photoUrl": "images/restaurant-photos/burlingame/Mokutanya Small.jpeg"
     },
     {
       "id": "ChIJO0YAtNJ3j4ARqmqR_BuLb4U",
