@@ -4904,30 +4904,26 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ19n6fQCfj4AR09dCkKsNpTg",
-      "formattedAddress": "7 N B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5680214,
-        "longitude": -122.32512170000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4081683667792091091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.johnnyshmb.com/",
       "displayName": {
         "text": "Johnny’s",
         "languageCode": "en"
       },
+      "formattedAddress": "7 N B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4081683667792091091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.johnnyshmb.com/",
+      "location": {},
       "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/san-mateo/Johnnys Small.jpeg",
-      "phone": "(650) 520-2323",
-      "description": "They bake every pie and give lifesavers to well behaved young diners.",
-      "hours": "Mon–Sun 8am–2pm",
-      "menuUrl": "https://www.toasttab.com/local/order/johnnys-san-mateo/r-a38d1c27-5035-4575-9b55-a50ca778a6b2",
-      "priceRange": "$$",
       "keywords": [
         "breakfast",
         "brunch",
-        "family friendly",
-        "outdoor seating"
-      ]
+        "family friendly"
+      ],
+      "menuUrl": "https://www.toasttab.com/local/order/johnnys-san-mateo/r-a38d1c27-5035-4575-9b55-a50ca778a6b2",
+      "phone": "(650) 520-2323",
+      "hours": "Mon–Sun 8am–2pm",
+      "priceRange": "$$",
+      "description": "They bake every pie and give lifesavers to well behaved young diners.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Johnnys Small.jpeg"
     },
     {
       "id": "ChIJsRSv03Cej4ARF2eZmKCM258",
