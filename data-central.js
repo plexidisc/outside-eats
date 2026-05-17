@@ -8159,31 +8159,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJV9Djnkmfj4ARSPTuy_3mZn0",
-      "formattedAddress": "254 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5656654,
-        "longitude": -122.32277669999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9036163680088028232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.urbanmomos.com/",
       "displayName": {
         "text": "Urban Momo",
         "languageCode": "en"
       },
+      "formattedAddress": "254 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9036163680088028232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.urbanmomos.com/",
+      "location": {},
       "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/san-mateo/Urban Momo Small.jpeg",
-      "phone": "(650) 458-3053",
-      "description": "Family run restaurant serving momo dumplings, chow mein, and curry.",
-      "hours": "Mon–Sun 11am–12:45am",
-      "menuUrl": "https://www.urbanmomos.com/menu-san-mateo",
-      "priceRange": "$$",
       "keywords": [
         "nepali",
         "momos",
         "himalayan",
         "vegetarian options",
-        "fast casual"
-      ]
+        "fast casual",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.urbanmomos.com/menu-san-mateo",
+      "phone": "(650) 458-3053",
+      "hours": "Mon–Sun 11am–12:45am",
+      "priceRange": "$$",
+      "description": "Family run restaurant serving momo dumplings, chow mein, and curry.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Urban Momo Small.jpeg"
     },
     {
       "id": "ChIJl3GG6Lyfj4ARm0BRMW1ZRas",
