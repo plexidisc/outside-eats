@@ -2496,31 +2496,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJk4HvGi-dj4AR0ojgJrnLKLQ",
-      "formattedAddress": "330 Lorton Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5798503,
-        "longitude": -122.3464763
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12981849921977092306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.twelvemonthburlingame.com/",
       "displayName": {
         "text": "Twelvemonth",
         "languageCode": "en"
       },
+      "formattedAddress": "330 Lorton Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12981849921977092306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.twelvemonthburlingame.com/",
+      "location": {},
       "cuisine": "Vegetarian/Vegan",
-      "photoUrl": "images/restaurant-photos/burlingame/Twelvemonth Small.jpeg",
-      "phone": "(650) 443-7111",
-      "description": "Everything made from scratch daily including bread, pastries, and desserts.",
-      "hours": "Mon Closed, Tue–Thu 11:30am–10pm, Fri–Sat 11:30am–11pm, Sun 11:30am–9pm",
-      "menuUrl": "https://www.twelvemonthburlingame.com/menus",
-      "priceRange": "$$",
       "keywords": [
         "vegan",
         "vegan options",
         "vegetarian options",
         "healthy options",
         "plant-based"
-      ]
+      ],
+      "menuUrl": "https://www.twelvemonthburlingame.com/menus",
+      "phone": "(650) 443-7111",
+      "hours": "Mon Closed, Tue–Thu 11:30am–10pm, Fri–Sat 11:30am–11pm, Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "Everything made from scratch daily including bread, pastries, and desserts.",
+      "photoUrl": "images/restaurant-photos/burlingame/Twelvemonth Small.jpeg"
     },
     {
       "id": "ChIJ18zKaACdj4AR5KjiU3agS2M",
