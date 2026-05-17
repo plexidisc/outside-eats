@@ -5164,31 +5164,27 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ39pZ9naej4ARh1YP9Q7b6yw",
-      "formattedAddress": "120 N B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.56916,
-        "longitude": -122.32587570000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3236921614483281543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://orderlapinata.com/",
       "displayName": {
         "text": "La Piñata",
         "languageCode": "en"
       },
+      "formattedAddress": "120 N B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3236921614483281543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orderlapinata.com/",
+      "location": {},
       "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/san-mateo/La Pinata Small.jpeg",
-      "phone": "(650) 344-5722",
-      "description": "Fresh Salvadorian and Latin American family recipes made with love.",
-      "hours": "Mon–Sun 10am–9pm",
-      "menuUrl": "http://orderlapinata.com/",
-      "priceRange": "$$",
       "keywords": [
         "mexican",
         "family friendly",
         "margaritas",
-        "tacos",
-        "outdoor seating"
-      ]
+        "tacos"
+      ],
+      "menuUrl": "http://orderlapinata.com/",
+      "phone": "(650) 344-5722",
+      "hours": "Mon–Sun 10am–9pm",
+      "priceRange": "$$",
+      "description": "Fresh Salvadorian and Latin American family recipes made with love.",
+      "photoUrl": "images/restaurant-photos/san-mateo/La Pinata Small.jpeg"
     },
     {
       "id": "ChIJ1Y7oOkCfj4AR84UxeQWgh0c",
