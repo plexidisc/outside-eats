@@ -4957,30 +4957,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJoRzWonufj4ARgwyltSJXaP4",
-      "formattedAddress": "112 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5666911,
-        "longitude": -122.3239936
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18331998089799601283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.kajikenusa.com/",
       "displayName": {
         "text": "Kajiken",
         "languageCode": "en"
       },
+      "formattedAddress": "112 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=18331998089799601283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.kajikenusa.com/",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Kajiken Small.jpeg",
-      "phone": "(650) 458-3061",
-      "description": "Fresh homemade noodles with secret sauces and customizable toppings.",
-      "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–10pm, Sun 11am–9:30pm",
-      "menuUrl": "https://www.kajikenusa.com/menu-1",
-      "priceRange": "$$",
       "keywords": [
         "mazemen",
         "ramen",
         "japanese noodles",
-        "vegan options"
-      ]
+        "vegan options",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.kajikenusa.com/menu-1",
+      "phone": "(650) 458-3061",
+      "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–10pm, Sun 11am–9:30pm",
+      "priceRange": "$$",
+      "description": "Fresh homemade noodles with secret sauces and customizable toppings.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kajiken Small.jpeg"
     },
     {
       "id": "manual_1778251321614",
