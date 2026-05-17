@@ -1589,31 +1589,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJH-bjmi-dj4AR17X2m877L20",
-      "formattedAddress": "270 Lorton Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5790343,
-        "longitude": -122.34581770000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7867783938838017495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.mkburlingame.com/",
       "displayName": {
         "text": "Mediterranean Kitchen Burlingame",
         "languageCode": "en"
       },
+      "formattedAddress": "270 Lorton Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7867783938838017495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mkburlingame.com/",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/burlingame/Mediterranean Kitchen Small.jpeg",
-      "phone": "(650) 347-7687",
-      "description": "Offers Turkish, Greek, and Middle-Eastern dishes with purest olive oils.",
-      "hours": "Mon–Thu 10:30am–9:30pm, Fri–Sat 10:30am–10pm, Sun 10:30am–9:30pm",
-      "menuUrl": "https://mkburlingame.com/food-menu",
-      "priceRange": "$$",
       "keywords": [
         "mediterranean",
         "hummus",
         "falafel",
         "vegetarian options",
-        "fast casual"
-      ]
+        "fast casual",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://mkburlingame.com/food-menu",
+      "phone": "(650) 347-7687",
+      "hours": "Mon–Thu 10:30am–9:30pm, Fri–Sat 10:30am–10pm, Sun 10:30am–9:30pm",
+      "priceRange": "$$",
+      "description": "Offers Turkish, Greek, and Middle-Eastern dishes with purest olive oils.",
+      "photoUrl": "images/restaurant-photos/burlingame/Mediterranean Kitchen Small.jpeg"
     },
     {
       "id": "ChIJj93oSJl3j4ARunOR_4JIHyw",
