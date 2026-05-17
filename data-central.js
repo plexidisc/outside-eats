@@ -1749,31 +1749,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJIdNAKRydj4ARtMj7FdThMcA",
-      "formattedAddress": "226 Lorton Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5785759,
-        "longitude": -122.34513439999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13849098630159124660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.mykonosmeze.com/",
       "displayName": {
         "text": "Mykonos",
         "languageCode": "en"
       },
+      "formattedAddress": "226 Lorton Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13849098630159124660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mykonosmeze.com/",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/burlingame/Mykonos Small.jpeg",
-      "phone": "(650) 274-0835",
-      "description": "Greek dishes cooked traditionally over a bed of charcoal.",
-      "hours": "Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–10pm",
-      "menuUrl": "https://www.opentable.com/r/mykonos-meze-burlingame",
-      "priceRange": "$$",
       "keywords": [
         "greek",
         "gyros",
         "falafel",
         "mediterranean",
-        "fast casual"
-      ]
+        "fast casual",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.opentable.com/r/mykonos-meze-burlingame",
+      "phone": "(650) 274-0835",
+      "hours": "Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–10pm",
+      "priceRange": "$$",
+      "description": "Greek dishes cooked traditionally over a bed of charcoal.",
+      "photoUrl": "images/restaurant-photos/burlingame/Mykonos Small.jpeg"
     },
     {
       "id": "ChIJ-dukk7N3j4ARkRsnP4vL6ng",
