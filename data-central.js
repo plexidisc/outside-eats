@@ -1317,31 +1317,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJW3ii8PGdj4AR1x1zsySJ93k",
-      "formattedAddress": "1123 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5792406,
-        "longitude": -122.3459085
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8788643988559306199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://lacorneta.com/lacornetaburlingame?utm_source=google",
       "displayName": {
         "text": "La Corneta Taqueria",
         "languageCode": "en"
       },
+      "formattedAddress": "1123 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8788643988559306199&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lacorneta.com/lacornetaburlingame?utm_source=google",
+      "location": {},
       "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/burlingame/La Corneta Small.jpeg",
-      "phone": "(650) 340-1300",
-      "description": "Classic Mexican dishes made to order with the freshest ingredients.",
-      "hours": "Mon 10am–9:50pm, Tue–Sat 10am–10pm, Sun 10am–9pm",
-      "menuUrl": "https://lacorneta.com/menu",
-      "priceRange": "$$",
       "keywords": [
         "mexican",
         "tacos",
         "burritos",
         "fast casual",
-        "counter service"
-      ]
+        "counter service",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://lacorneta.com/menu",
+      "phone": "(650) 340-1300",
+      "hours": "Mon 10am–9:50pm, Tue–Sat 10am–10pm, Sun 10am–9pm",
+      "priceRange": "$$",
+      "description": "Classic Mexican dishes made to order with the freshest ingredients.",
+      "photoUrl": "images/restaurant-photos/burlingame/La Corneta Small.jpeg"
     },
     {
       "id": "ChIJofb8riV2j4ARQdV52nlATS0",
