@@ -8315,6 +8315,26 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1778983642854",
+      "displayName": {
+        "text": "Cheesecake Factory",
+        "languageCode": "en"
+      },
+      "formattedAddress": "398 Hillsdale Shopping Ctr, San Mateo, CA 94403",
+      "googleMapsUri": "google.com/maps/place/The+Cheesecake+Factory/data=!4m2!3m1!1s0x0:0xa03a9c8abf7329f2?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.thecheesecakefactory.com/",
+      "location": {},
+      "cuisine": [
+        "American",
+        "Fusion"
+      ],
+      "menuUrl": "https://www.thecheesecakefactory.com/locations/san-mateo-ca/menu?utm_source=SEARCH&utm_medium=GOOGLE&utm_content=MENU&utm_campaign=GOOGLE_SEARCH_MENU",
+      "phone": "(650) 638-0310",
+      "hours": "Mon-Thu, 11am-10pm, Fri-Sat 11am-11pm, Sun 10am-10pm",
+      "priceRange": "$$",
+      "description": "Huge menu where they are have something for everyone plus legendary cheesecakes."
     }
   ],
   "Foster City, CA": [
