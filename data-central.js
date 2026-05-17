@@ -5059,28 +5059,25 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJi1zXD3qej4ARz_SZHSId8Zc",
-      "formattedAddress": "509 2nd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5677306,
-        "longitude": -122.32149439999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10948564201477108943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Kokko",
         "languageCode": "en"
       },
+      "formattedAddress": "509 2nd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10948564201477108943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Other",
-      "phone": "(650) 401-7008",
-      "photoUrl": "images/restaurant-photos/san-mateo/Kokko Small.jpeg",
-      "hours": "Mon–Tue Closed, Wed–Sun 5:30pm–10:30pm",
-      "menuUrl": "https://yakitori-kokko.res-menu.net/menu",
-      "priceRange": "$$",
       "keywords": [
         "korean",
         "fast casual",
         "counter service"
-      ]
+      ],
+      "menuUrl": "https://yakitori-kokko.res-menu.net/menu",
+      "phone": "(650) 401-7008",
+      "hours": "Mon–Tue Closed, Wed–Sun 5:30pm–10:30pm",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kokko Small.jpeg"
     },
     {
       "id": "ChIJu9fnfEGfj4AReN6R333JaPA",
