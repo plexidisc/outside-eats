@@ -8233,7 +8233,8 @@ var PREBAKED_DATA_CENTRAL = {
         "food truck"
       ],
       "priceRange": "$",
-      "description": "Mexican seafood food truck next to the Exxon station."
+      "description": "Mexican seafood food truck next to the Exxon station.",
+      "photoUrl": "images/restaurant-photos/san-mateo/El Sanignacense (food truck) Small.jpeg"
     }
   ],
   "Foster City, CA": [
