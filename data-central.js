@@ -7842,32 +7842,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJkbgjNQCfj4ARz-TbgafEZOI",
-      "formattedAddress": "1208 S El Camino Real, San Mateo, CA 94402, USA",
-      "location": {
-        "latitude": 37.5557236,
-        "longitude": -122.3182586
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16313379973960033487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.tasteandgloryca.com/",
       "displayName": {
         "text": "Taste and Glory",
         "languageCode": "en"
       },
+      "formattedAddress": "1208 S El Camino Real, San Mateo, CA 94402, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16313379973960033487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tasteandgloryca.com/",
+      "location": {},
       "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/san-mateo/Taste & Glory Small.jpeg",
-      "phone": "(650) 393-4951",
-      "description": "Asian fusion brunch blending classic Western dishes with Thai flavors.",
-      "hours": "Mon–Fri 9am–2pm, Sat–Sun 8:30am–2:30pm",
-      "menuUrl": "https://tasteandgloryca.smiledining.com/",
-      "priceRange": "$$",
       "keywords": [
         "breakfast",
         "brunch",
         "cafe",
         "coffee",
-        "family friendly",
-        "outdoor seating"
-      ]
+        "family friendly"
+      ],
+      "menuUrl": "https://tasteandgloryca.smiledining.com/",
+      "phone": "(650) 393-4951",
+      "hours": "Mon–Fri 9am–2pm, Sat–Sun 8:30am–2:30pm",
+      "priceRange": "$$",
+      "description": "Asian fusion brunch blending classic Western dishes with Thai flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taste & Glory Small.jpeg"
     },
     {
       "id": "ChIJ9WHlHACfj4ARfU8L1ZrFfvo",
