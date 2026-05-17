@@ -2326,32 +2326,30 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJD1hlWPGdj4ARnx5LiyOUYnc",
-      "formattedAddress": "1448 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.577245399999995,
-        "longitude": -122.34920359999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8602601118612790943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.stellaburlingame.com/",
       "displayName": {
         "text": "Stella",
         "languageCode": "en"
       },
+      "formattedAddress": "1448 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8602601118612790943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.stellaburlingame.com/",
+      "location": {},
       "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/burlingame/Stella Small.jpeg",
-      "phone": "(650) 347-5733",
-      "description": "Alpine recipes from Matteo's Nonna featuring braised meats and housemade gnocchi.",
-      "hours": "Mon 5:00pm–8:30pm, Tue–Wed 11:30am–1:30pm, 5:00pm–8:30pm, Thu–Fri 11:30am–1:30pm, 5:00pm–9:00pm, Sat 5:00pm–9:00pm, Sun 5:00pm–8:00pm",
-      "menuUrl": "https://stellaburlingame.com/menus/",
-      "priceRange": "$$$",
       "keywords": [
         "italian",
         "pasta",
         "date night",
         "romantic",
         "wine list",
-        "special occasion"
-      ]
+        "special occasion",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://stellaburlingame.com/menus/",
+      "phone": "(650) 347-5733",
+      "hours": "Mon 5:00pm–8:30pm, Tue–Wed 11:30am–1:30pm, 5:00pm–8:30pm, Thu–Fri 11:30am–1:30pm, 5:00pm–9:00pm, Sat 5:00pm–9:00pm, Sun 5:00pm–8:00pm",
+      "priceRange": "$$$",
+      "description": "Alpine recipes from Matteo's Nonna featuring braised meats and housemade gnocchi.",
+      "photoUrl": "images/restaurant-photos/burlingame/Stella Small.jpeg"
     },
     {
       "id": "ChIJ_SeP6e53j4AR3xo83UeLbog",
