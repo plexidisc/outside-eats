@@ -2521,31 +2521,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ18zKaACdj4AR5KjiU3agS2M",
-      "formattedAddress": "336 Lorton Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.579873899999996,
-        "longitude": -122.3466837
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7154988863082113252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.twelvemonthburlingame.com/",
       "displayName": {
         "text": "Twelvemonth Bar",
         "languageCode": "en"
       },
+      "formattedAddress": "336 Lorton Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7154988863082113252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.twelvemonthburlingame.com/",
+      "location": {},
       "cuisine": "Vegetarian/Vegan",
-      "photoUrl": "images/restaurant-photos/burlingame/Twelvemonth Bar Small.jpeg",
-      "phone": "(650) 443-7111",
-      "description": "Global cuisine through a California lens with fully plant-based offerings.",
-      "hours": "Mon Closed, Tue–Thu 11:30am–10pm, Fri–Sat 11:30am–11pm, Sun 11:30am–9pm",
-      "menuUrl": "https://www.twelvemonthburlingame.com/menus",
-      "priceRange": "$$$",
       "keywords": [
         "vegan",
         "vegan options",
         "vegetarian options",
         "cocktails",
-        "date night"
-      ]
+        "date night",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.twelvemonthburlingame.com/menus",
+      "phone": "(650) 443-7111",
+      "hours": "Mon Closed, Tue–Thu 11:30am–10pm, Fri–Sat 11:30am–11pm, Sun 11:30am–9pm",
+      "priceRange": "$$$",
+      "description": "Global cuisine through a California lens with fully plant-based offerings.",
+      "photoUrl": "images/restaurant-photos/burlingame/Twelvemonth Bar Small.jpeg"
     },
     {
       "id": "ChIJg5xCC1Gdj4ARoMzsrfs2AxE",
