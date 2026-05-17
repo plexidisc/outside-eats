@@ -577,31 +577,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ4yAec_Gdj4AR0xmQ_i0_EbA",
-      "formattedAddress": "1380 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5781323,
-        "longitude": -122.3481776
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12686991092056332755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.caffecentral.com/",
       "displayName": {
         "text": "Caffe Central",
         "languageCode": "en"
       },
+      "formattedAddress": "1380 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12686991092056332755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.caffecentral.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/burlingame/Cafe Central Small.jpeg",
-      "phone": "(650) 315-2511",
-      "description": "Daily cliff-side coffee roasting ensures fresh locally roasted organic beans.",
-      "hours": "Mon–Sun 7am–7pm",
-      "menuUrl": "https://www.caffecentral.com/burlingame-menu",
-      "priceRange": "$$",
       "keywords": [
         "cafe",
         "coffee",
         "breakfast",
         "pastries",
-        "counter service"
-      ]
+        "counter service",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.caffecentral.com/burlingame-menu",
+      "phone": "(650) 315-2511",
+      "hours": "Mon–Sun 7am–7pm",
+      "priceRange": "$$",
+      "description": "Daily cliff-side coffee roasting ensures fresh locally roasted organic beans.",
+      "photoUrl": "images/restaurant-photos/burlingame/Cafe Central Small.jpeg"
     },
     {
       "id": "ChIJoakpq36dj4ARWtt7W9Ing5E",
