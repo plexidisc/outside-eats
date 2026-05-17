@@ -817,30 +817,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJG_UZdvGdj4ARZ3xlQKgMTSM",
-      "formattedAddress": "1310 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5784598,
-        "longitude": -122.34756300000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2543703281308630119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.crepevine.com/?y_source=1_MTQ3MjMwNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
       "displayName": {
         "text": "Crepevine Restaurants",
         "languageCode": "en"
       },
+      "formattedAddress": "1310 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2543703281308630119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.crepevine.com/?y_source=1_MTQ3MjMwNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/burlingame/Crepevine Small.jpeg",
-      "phone": "(650) 344-1310",
-      "description": "Family-owned eatery serving organic fair-trade coffee and locally sourced ingredients.",
-      "hours": "Mon–Sun 8am–9pm",
-      "menuUrl": "https://www.crepevine.com/location/crepe-vine-burlingame/",
-      "priceRange": "$$",
       "keywords": [
         "breakfast",
         "brunch",
         "crepes",
-        "family friendly"
-      ]
+        "family friendly",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.crepevine.com/location/crepe-vine-burlingame/",
+      "phone": "(650) 344-1310",
+      "hours": "Mon–Sun 8am–9pm",
+      "priceRange": "$$",
+      "description": "Family-owned eatery serving organic fair-trade coffee and locally sourced ingredients.",
+      "photoUrl": "images/restaurant-photos/burlingame/Crepevine Small.jpeg"
     },
     {
       "id": "ChIJd14KIfV3j4ARlAEUohNRoQg",
