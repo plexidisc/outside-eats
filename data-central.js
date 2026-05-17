@@ -6650,31 +6650,27 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJhVAUTsyfj4ARDeeBUOsZ2JQ",
-      "formattedAddress": "33 W 25th Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5437503,
-        "longitude": -122.30656820000002
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10725351011041535757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.primebbqsm.com/",
       "displayName": {
         "text": "Prime BBQ",
         "languageCode": "en"
       },
+      "formattedAddress": "33 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10725351011041535757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.primebbqsm.com/",
+      "location": {},
       "cuisine": "Fusion",
-      "photoUrl": "images/restaurant-photos/san-mateo/Prime BBQ Small.jpeg",
-      "phone": "(650) 458-3838",
-      "description": "First Bay Area restaurant offering both Yakitori Izakaya and Chinese Skewer.",
-      "hours": "Mon–Fri 4:30pm–11:30pm, Sat–Sun 11:30am–11:30pm",
-      "menuUrl": "https://www.primebbqsm.com/menu/",
-      "priceRange": "$$",
       "keywords": [
         "korean bbq",
         "tabletop grill",
         "groups",
-        "soju",
-        "outdoor seating"
-      ]
+        "soju"
+      ],
+      "menuUrl": "https://www.primebbqsm.com/menu/",
+      "phone": "(650) 458-3838",
+      "hours": "Mon–Fri 4:30pm–11:30pm, Sat–Sun 11:30am–11:30pm",
+      "priceRange": "$$",
+      "description": "First Bay Area restaurant offering both Yakitori Izakaya and Chinese Skewer.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Prime BBQ Small.jpeg"
     },
     {
       "id": "ChIJ7-LfZrKfj4ARPrfz9A-zPoE",
