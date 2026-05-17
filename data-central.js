@@ -2510,7 +2510,8 @@ var PREBAKED_DATA_CENTRAL = {
         "vegan options",
         "vegetarian options",
         "healthy options",
-        "plant-based"
+        "plant-based",
+        "outdoor seating"
       ],
       "menuUrl": "https://www.twelvemonthburlingame.com/menus",
       "phone": "(650) 443-7111",
