@@ -2869,7 +2869,8 @@ var PREBAKED_DATA_CENTRAL = {
       "keywords": [
         "pasta",
         "sandwiches",
-        "kids menu"
+        "kids menu",
+        "outdoor seating"
       ],
       "menuUrl": "https://www.amicis.com/menu-san-mateo",
       "phone": "(650) 342-9392",
