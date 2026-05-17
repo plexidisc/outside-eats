@@ -5707,7 +5707,7 @@ var PREBAKED_DATA_CENTRAL = {
     {
       "id": "ChIJ4eTlvOifj4AR01DroTjRjGI",
       "displayName": {
-        "text": "MIXT Salads",
+        "text": "MIXT",
         "languageCode": "en"
       },
       "formattedAddress": "301 S B St, San Mateo, CA 94401, USA",
