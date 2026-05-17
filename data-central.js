@@ -1561,31 +1561,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJRXdXdfGdj4AR5Os-G3Wld1Y",
-      "formattedAddress": "1318 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5783158,
-        "longitude": -122.3476746
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6230630531877235684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://medkebab.com/",
       "displayName": {
         "text": "Mediterranean Kebab",
         "languageCode": "en"
       },
+      "formattedAddress": "1318 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6230630531877235684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://medkebab.com/",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/burlingame/Medeterraen Kabob Small.jpeg",
-      "phone": "(650) 340-1232",
-      "description": "Serving authentic Mediterranean cuisine for over a decade in Burlingame.",
-      "hours": "Mon–Sat 10:30am–9:30pm, Sun 10:30am–9pm",
-      "menuUrl": "https://medkebab.com/images/menus.pdf",
-      "priceRange": "$$",
       "keywords": [
         "mediterranean",
         "kebab",
         "halal",
         "fast casual",
-        "counter service"
-      ]
+        "counter service",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://medkebab.com/images/menus.pdf",
+      "phone": "(650) 340-1232",
+      "hours": "Mon–Sat 10:30am–9:30pm, Sun 10:30am–9pm",
+      "priceRange": "$$",
+      "description": "Serving authentic Mediterranean cuisine for over a decade in Burlingame.",
+      "photoUrl": "images/restaurant-photos/burlingame/Medeterraen Kabob Small.jpeg"
     },
     {
       "id": "ChIJH-bjmi-dj4AR17X2m877L20",
