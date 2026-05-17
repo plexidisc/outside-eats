@@ -791,31 +791,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJbaUbkfGdj4AR6fN-d_gjBOE",
-      "formattedAddress": "1216 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5790611,
-        "longitude": -122.34663329999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16214124108504298473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.copenhagenbakery.com/",
       "displayName": {
         "text": "Copenhagen Bakery & Cafe",
         "languageCode": "en"
       },
+      "formattedAddress": "1216 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16214124108504298473&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.copenhagenbakery.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/burlingame/Copenhagen Small.jpeg",
-      "phone": "(650) 342-1357",
-      "description": "Authentic Danish pastries made fresh daily with homemade European specialties.",
-      "hours": "Mon–Sat 6am–9pm, Sun 7am–9pm",
-      "menuUrl": "https://copenhagenbakery.com/cafe-menus/",
-      "priceRange": "$$",
       "keywords": [
         "danish bakery",
         "breakfast",
         "brunch",
         "pastries",
-        "coffee"
-      ]
+        "coffee",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://copenhagenbakery.com/cafe-menus/",
+      "phone": "(650) 342-1357",
+      "hours": "Mon–Sat 6am–9pm, Sun 7am–9pm",
+      "priceRange": "$$",
+      "description": "Authentic Danish pastries made fresh daily with homemade European specialties.",
+      "photoUrl": "images/restaurant-photos/burlingame/Copenhagen Small.jpeg"
     },
     {
       "id": "ChIJG_UZdvGdj4ARZ3xlQKgMTSM",
