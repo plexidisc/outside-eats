@@ -2510,31 +2510,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJg5xCC1Gdj4ARoMzsrfs2AxE",
-      "formattedAddress": "1152 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5794819,
-        "longitude": -122.34613809999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1225883978157575328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eataturbankitchen.com/",
       "displayName": {
         "text": "Urban Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "1152 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1225883978157575328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eataturbankitchen.com/",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/burlingame/Urban Kitchen Small.jpeg",
-      "phone": "(650) 393-4380",
-      "description": "Wholesome meals blend classic recipes with sustainable, locally sourced ingredients.",
-      "hours": "Mon–Fri 10:30am–9:30pm, Sat 10:00am–9:30pm, Sun 10:00am–9:00pm",
-      "menuUrl": "https://order.toasttab.com/online/urban-kitchen-ca",
-      "priceRange": "$$",
       "keywords": [
         "american",
         "cafe",
         "lunch",
         "breakfast",
-        "counter service"
-      ]
+        "counter service",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://order.toasttab.com/online/urban-kitchen-ca",
+      "phone": "(650) 393-4380",
+      "hours": "Mon–Fri 10:30am–9:30pm, Sat 10:00am–9:30pm, Sun 10:00am–9:00pm",
+      "priceRange": "$$",
+      "description": "Wholesome meals blend classic recipes with sustainable, locally sourced ingredients.",
+      "photoUrl": "images/restaurant-photos/burlingame/Urban Kitchen Small.jpeg"
     },
     {
       "id": "ChIJdSSDylidj4ARtIpGV--k9Uc",
