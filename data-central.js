@@ -2105,31 +2105,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJkxrB_yR2j4ARArTT1P_8Ou0",
-      "formattedAddress": "1205 Broadway, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5860164,
-        "longitude": -122.36468210000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17094253511355642882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.ristoranterocca.com/",
       "displayName": {
         "text": "Ristorante Rocca",
         "languageCode": "en"
       },
+      "formattedAddress": "1205 Broadway, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17094253511355642882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ristoranterocca.com/",
+      "location": {},
       "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/burlingame/Ristorante Rocca Small.jpeg",
-      "phone": "(650) 344-3900",
-      "description": "Seasonal Italian cuisine in an enchanting Tuscan setting with private dining.",
-      "hours": "Mon–Thu 11am–2:30pm, 4:30pm–9pm, Fri–Sat 11am–2:30pm, 4:30pm–9:30pm, Sun 4pm–9pm",
-      "menuUrl": "https://ristoranterocca.com/dinner-menu.html",
-      "priceRange": "$$$",
       "keywords": [
         "italian",
         "pasta",
         "date night",
         "romantic",
-        "wine list"
-      ]
+        "wine list",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://ristoranterocca.com/dinner-menu.html",
+      "phone": "(650) 344-3900",
+      "hours": "Mon–Thu 11am–2:30pm, 4:30pm–9pm, Fri–Sat 11am–2:30pm, 4:30pm–9:30pm, Sun 4pm–9pm",
+      "priceRange": "$$$",
+      "description": "Seasonal Italian cuisine in an enchanting Tuscan setting with private dining.",
+      "photoUrl": "images/restaurant-photos/burlingame/Ristorante Rocca Small.jpeg"
     },
     {
       "id": "ChIJW5G6riV2j4ARpecjQWBW1OU",
