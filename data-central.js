@@ -632,31 +632,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJpbQ1-bSdj4AR67PYXBSlVGM",
-      "formattedAddress": "231 Park Rd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5775317,
-        "longitude": -122.34621019999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7157527214674195435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.caprilasagneria.com/",
       "displayName": {
         "text": "Capri Lasagneria",
         "languageCode": "en"
       },
+      "formattedAddress": "231 Park Rd, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7157527214674195435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.caprilasagneria.com/",
+      "location": {},
       "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/burlingame/Capri Small.jpeg",
-      "phone": "(650) 931-4512",
-      "description": "Six signature lasagnas made with hand-rolled pasta and slow-cooked sauces.",
-      "hours": "Mon–Wed 11am–9pm, Thu–Sat 11am–10pm, Sun 11am–9pm",
-      "menuUrl": "https://order.toasttab.com/online/capri",
-      "priceRange": "$$",
       "keywords": [
         "italian",
         "lasagna",
         "pasta",
         "takeout",
-        "family friendly"
-      ]
+        "family friendly",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://order.toasttab.com/online/capri",
+      "phone": "(650) 931-4512",
+      "hours": "Mon–Wed 11am–9pm, Thu–Sat 11am–10pm, Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Six signature lasagnas made with hand-rolled pasta and slow-cooked sauces.",
+      "photoUrl": "images/restaurant-photos/burlingame/Capri Small.jpeg"
     },
     {
       "id": "ChIJCx-t2IF3j4AR9hpvNAjkTwY",
