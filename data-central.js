@@ -2353,30 +2353,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ_SeP6e53j4AR3xo83UeLbog",
-      "formattedAddress": "1699 Old Bayshore Hwy, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.601110299999995,
-        "longitude": -122.37013789999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9830948177367014111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.toasttab.com/local/order/69051-compass-king-street-properties-pid",
       "displayName": {
         "text": "The Apron",
         "languageCode": "en"
       },
+      "formattedAddress": "1699 Old Bayshore Hwy, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9830948177367014111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.toasttab.com/local/order/69051-compass-king-street-properties-pid",
+      "location": {},
       "cuisine": "Other",
-      "phone": "(650) 609-1926",
-      "description": "Cafe with waterfront seating at The Landing innovation campus.",
-      "hours": "Mon–Fri 8am–2pm, Sat–Sun Closed",
-      "menuUrl": "https://www.toasttab.com/local/order/69051-compass-king-street-properties-pid",
-      "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/burlingame/The Apron Small.jpeg",
       "keywords": [
         "cafe",
         "breakfast",
         "lunch",
-        "counter service"
-      ]
+        "counter service",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.toasttab.com/local/order/69051-compass-king-street-properties-pid",
+      "phone": "(650) 609-1926",
+      "hours": "Mon–Fri 8am–2pm, Sat–Sun Closed",
+      "priceRange": "$$",
+      "description": "Cafe with waterfront seating at The Landing innovation campus.",
+      "photoUrl": "images/restaurant-photos/burlingame/The Apron Small.jpeg"
     },
     {
       "id": "ChIJoYObMe6dj4ARiutMipkwFMo",
