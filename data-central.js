@@ -6621,32 +6621,30 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ9WyHNXCej4ARr47XTsNUA_Q",
-      "formattedAddress": "164 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5662922,
-        "longitude": -122.32359779999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17582990568002653871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.porterhousesanmateo.com/",
       "displayName": {
         "text": "Porterhouse",
         "languageCode": "en"
       },
+      "formattedAddress": "164 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17582990568002653871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.porterhousesanmateo.com/",
+      "location": {},
       "cuisine": "Steakhouse",
-      "photoUrl": "images/restaurant-photos/san-mateo/Porterhouse Small.jpeg",
-      "phone": "(650) 579-5911",
-      "description": "Only Peninsula steakhouse dry-aging beef in-house with visible meat locker.",
-      "hours": "Sun 5pm–9pm, Mon–Thu 5pm–9:30pm, Fri–Sat 5pm–10pm",
-      "menuUrl": "https://www.porterhousesanmateo.com/menu/",
-      "priceRange": "$$$",
       "keywords": [
         "steakhouse",
         "dry aged steak",
         "date night",
         "special occasion",
         "full bar",
-        "wine list"
-      ]
+        "wine list",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.porterhousesanmateo.com/menu/",
+      "phone": "(650) 579-5911",
+      "hours": "Sun 5pm–9pm, Mon–Thu 5pm–9:30pm, Fri–Sat 5pm–10pm",
+      "priceRange": "$$$",
+      "description": "Only Peninsula steakhouse dry-aging beef in-house with visible meat locker.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Porterhouse Small.jpeg"
     },
     {
       "id": "ChIJhVAUTsyfj4ARDeeBUOsZ2JQ",
