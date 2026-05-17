@@ -8216,6 +8216,24 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1778987417597",
+      "displayName": {
+        "text": "El Sanignacense (food truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "404 19th Ave",
+      "googleMapsUri": "",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "seafood",
+        "food truck"
+      ],
+      "priceRange": "$",
+      "description": "Mexican seafood food truck next to the Exxon station."
     }
   ],
   "Foster City, CA": [
