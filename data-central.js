@@ -1775,31 +1775,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ-dukk7N3j4ARkRsnP4vL6ng",
-      "formattedAddress": "1845 El Camino Real, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5949168,
-        "longitude": -122.3856263
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8713000228022066065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.nealscoffeeshop.net/",
       "displayName": {
         "text": "Neal's Coffee Shop",
         "languageCode": "en"
       },
+      "formattedAddress": "1845 El Camino Real, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8713000228022066065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.nealscoffeeshop.net/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/burlingame/Neals Coffee Shop Small.jpeg",
-      "phone": "(650) 692-4281",
-      "description": "Nothing is frozen; all pasta and chowder made from scratch.",
-      "hours": "Mon–Sun 7am–8pm",
-      "menuUrl": "https://nealscoffeeshop.net/burlingame-neal-s-coffee-shop-food-menu",
-      "priceRange": "$$",
       "keywords": [
         "breakfast",
         "brunch",
         "cafe",
         "family friendly",
-        "counter service"
-      ]
+        "counter service",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://nealscoffeeshop.net/burlingame-neal-s-coffee-shop-food-menu",
+      "phone": "(650) 692-4281",
+      "hours": "Mon–Sun 7am–8pm",
+      "priceRange": "$$",
+      "description": "Nothing is frozen; all pasta and chowder made from scratch.",
+      "photoUrl": "images/restaurant-photos/burlingame/Neals Coffee Shop Small.jpeg"
     },
     {
       "id": "ChIJsXRBVUt4j4ARVcqO4yjah7I",
