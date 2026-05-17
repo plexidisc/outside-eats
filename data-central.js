@@ -1029,31 +1029,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJiS6VHyV2j4ARbXqkhaFevnw",
-      "formattedAddress": "111 Anza Blvd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5907901,
-        "longitude": -122.3476969
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8988725954102983277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.gigiscafeburlingame.com/",
       "displayName": {
         "text": "Gigi's Cafe",
         "languageCode": "en"
       },
+      "formattedAddress": "111 Anza Blvd, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8988725954102983277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.gigiscafeburlingame.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
-      "phone": "(650) 344-3355",
-      "description": "Enjoy breakfast and lunch on beautiful patio overlooking the Lagoon.",
-      "hours": "Mon–Fri 8:30am–3pm, Sat 10:30am–3pm, Sun Closed",
-      "menuUrl": "https://www.gigiscafeburlingame.com/order-online",
-      "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/burlingame/Gigis Cafe Small.jpeg",
       "keywords": [
         "cafe",
         "breakfast",
         "brunch",
         "counter service",
-        "family friendly"
-      ]
+        "family friendly",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.gigiscafeburlingame.com/order-online",
+      "phone": "(650) 344-3355",
+      "hours": "Mon–Fri 8:30am–3pm, Sat 10:30am–3pm, Sun Closed",
+      "priceRange": "$$",
+      "description": "Enjoy breakfast and lunch on beautiful patio overlooking the Lagoon.",
+      "photoUrl": "images/restaurant-photos/burlingame/Gigis Cafe Small.jpeg"
     },
     {
       "id": "ChIJ6aPNyfSdj4AROZpGeQ99Cgs",
