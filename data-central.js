@@ -5744,24 +5744,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ4eTlvOifj4AR01DroTjRjGI",
-      "formattedAddress": "301 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5655352,
-        "longitude": -122.32208580000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7101280753621356755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mixt.com/",
       "displayName": {
         "text": "MIXT Salads",
         "languageCode": "en"
       },
+      "formattedAddress": "301 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7101280753621356755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mixt.com/",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/san-mateo/Mixt Small.jpeg",
-      "phone": "(415) 296-8009",
-      "description": "Fresh seasonal salads made from local organic ingredients prepared in-house.",
-      "hours": "Mon–Sun 10:30am–9pm",
-      "menuUrl": "https://www.mixt.com/menu/mixt/",
-      "priceRange": "$$",
       "keywords": [
         "salads",
         "healthy options",
@@ -5770,7 +5761,13 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "lunch",
         "gluten free options"
-      ]
+      ],
+      "menuUrl": "https://www.mixt.com/menu/mixt/",
+      "phone": "(415) 296-8009",
+      "hours": "Mon–Sun 10:30am–9pm",
+      "priceRange": "$$",
+      "description": "SF-born salad institution celebrating its 20th anniversary with its first Peninsula location. Fresh chef-crafted salads and grain bowls made with locally sourced seasonal ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mixt Small.jpeg"
     },
     {
       "id": "ChIJ0xuuKCOfj4ARsCiMailnXtU",
