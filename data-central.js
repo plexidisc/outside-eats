@@ -2576,32 +2576,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJdSSDylidj4ARtIpGV--k9Uc",
-      "formattedAddress": "310 Lorton Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5796488,
-        "longitude": -122.34624589999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5185231893855374004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://velvet48.com/",
       "displayName": {
         "text": "Velvet 48 Wine Bar",
         "languageCode": "en"
       },
+      "formattedAddress": "310 Lorton Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5185231893855374004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://velvet48.com/",
+      "location": {},
       "cuisine": "Wine Bar",
-      "photoUrl": "images/restaurant-photos/burlingame/Velvet Wine Bar Small.jpeg",
-      "phone": "(650) 436-7933",
-      "description": "Over 1100 wines by the bottle curated by 20-year industry veteran.",
-      "hours": "Mon–Thu 3pm–9pm, Fri–Sat 3pm–11pm, Sun 3pm–9pm",
-      "menuUrl": "https://velvet48.com/menus",
-      "priceRange": "$$$",
       "keywords": [
-        "outdoor seating",
         "wine bar",
         "date night",
         "romantic",
         "small plates",
         "happy hour"
-      ]
+      ],
+      "menuUrl": "https://velvet48.com/menus",
+      "phone": "(650) 436-7933",
+      "hours": "Mon–Thu 3pm–9pm, Fri–Sat 3pm–11pm, Sun 3pm–9pm",
+      "priceRange": "$$$",
+      "description": "Over 1100 wines by the bottle curated by 20-year industry veteran.",
+      "photoUrl": "images/restaurant-photos/burlingame/Velvet Wine Bar Small.jpeg"
     },
     {
       "id": "ChIJabgbACV2j4ARD2wh28Cgs6Y",
