@@ -2053,31 +2053,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ0S5UF_Gdj4ARrPuY3r7Z-yY",
-      "formattedAddress": "1425 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5772888,
-        "longitude": -122.3486586
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2809078206397217708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.rasoiburlingame.com/",
       "displayName": {
         "text": "Rasoi Restaurant & Lounge",
         "languageCode": "en"
       },
+      "formattedAddress": "1425 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2809078206397217708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rasoiburlingame.com/",
+      "location": {},
       "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/burlingame/Rasoi Small.jpeg",
-      "phone": "(650) 579-5661",
-      "description": "Aslam family's award-winning Northern Indian and Pakistani culinary heritage.",
-      "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 5:00pm–10:00pm, Sun 5:00pm–9:00pm",
-      "menuUrl": "https://rasoiburlingame.com/menu/",
-      "priceRange": "$$",
       "keywords": [
         "indian",
         "vegetarian options",
         "halal",
         "lunch buffet",
-        "date night"
-      ]
+        "date night",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://rasoiburlingame.com/menu/",
+      "phone": "(650) 579-5661",
+      "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 5:00pm–10:00pm, Sun 5:00pm–9:00pm",
+      "priceRange": "$$",
+      "description": "Aslam family's award-winning Northern Indian and Pakistani culinary heritage.",
+      "photoUrl": "images/restaurant-photos/burlingame/Rasoi Small.jpeg"
     },
     {
       "id": "ChIJV-z5IfGdj4ARWuykkidQUGk",
