@@ -8062,30 +8062,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ-wp0Z2eej4ARc_LvawPcMHg",
-      "formattedAddress": "1234 S El Camino Real, San Mateo, CA 94402, USA",
-      "location": {
-        "latitude": 37.5552602,
-        "longitude": -122.31776159999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8660663990687363699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://trufflepokebar.com/",
       "displayName": {
         "text": "Truffle Poké Bar",
         "languageCode": "en"
       },
+      "formattedAddress": "1234 S El Camino Real, San Mateo, CA 94402, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8660663990687363699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://trufflepokebar.com/",
+      "location": {},
       "cuisine": "Fusion",
-      "photoUrl": "images/restaurant-photos/san-mateo/Truffle Small.jpeg",
-      "phone": "(650) 573-6425",
-      "description": "Finest locally sourced ingredients with unique truffle fusion poke experience.",
-      "hours": "Mon–Fri 10am–9pm, Sat–Sun 11am–9pm, Sun 11am–8pm",
-      "menuUrl": "https://trufflepokebar.square.site/",
-      "priceRange": "$$",
       "keywords": [
         "poke bowls",
         "truffle",
         "fast casual",
-        "counter service"
-      ]
+        "counter service",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://trufflepokebar.square.site/",
+      "phone": "(650) 573-6425",
+      "hours": "Mon–Fri 10am–9pm, Sat–Sun 11am–9pm, Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "Finest locally sourced ingredients with unique truffle fusion poke experience.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Truffle Small.jpeg"
     },
     {
       "id": "ChIJT5eL6Xyfj4ARd__EqjMZhNo",
