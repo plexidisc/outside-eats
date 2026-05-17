@@ -305,31 +305,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJO2sKxnx3j4ARpniKb67Ix2Q",
-      "formattedAddress": "1219 Broadway, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.585844,
-        "longitude": -122.3647056
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7261993575679424678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.bistroarancini.com/",
       "displayName": {
         "text": "Bistro Arancini",
         "languageCode": "en"
       },
+      "formattedAddress": "1219 Broadway, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7261993575679424678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bistroarancini.com/",
+      "location": {},
       "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/burlingame/Bistro Arancini Small.jpeg",
-      "phone": "(650) 348-4147",
-      "description": "Handcrafted pizzas with locally-sourced ingredients and signature polenta cake.",
-      "hours": "Mon–Thu 11am–2:30pm, 4pm–9:30pm, Fri–Sat 11am–2:30pm, 4pm–10pm, Sun 4pm–9pm",
-      "menuUrl": "https://bistroarancini.com/our-menu/",
-      "priceRange": "$$",
       "keywords": [
         "italian",
         "pasta",
         "arancini",
         "date night",
-        "wine list"
-      ]
+        "wine list",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://bistroarancini.com/our-menu/",
+      "phone": "(650) 348-4147",
+      "hours": "Mon–Thu 11am–2:30pm, 4pm–9:30pm, Fri–Sat 11am–2:30pm, 4pm–10pm, Sun 4pm–9pm",
+      "priceRange": "$$",
+      "description": "Handcrafted pizzas with locally-sourced ingredients and signature polenta cake.",
+      "photoUrl": "images/restaurant-photos/burlingame/Bistro Arancini Small.jpeg"
     },
     {
       "id": "ChIJATQCqmd3j4ARCGX0SdHUZrQ",
