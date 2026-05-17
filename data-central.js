@@ -552,30 +552,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJQeCH7yR2j4ARUbr89ybs_w8",
-      "formattedAddress": "1318 Broadway, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.585412999999996,
-        "longitude": -122.36569
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1152899681743583825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.cafefigaro.me/",
       "displayName": {
         "text": "Cafe Figaro",
         "languageCode": "en"
       },
+      "formattedAddress": "1318 Broadway, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1152899681743583825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cafefigaro.me/",
+      "location": {},
       "cuisine": "Italian",
-      "phone": "(650) 344-8277",
-      "description": "Family-owned Italian restaurant featuring housemade pastas and curated wine pairings.",
-      "hours": "Mon–Closed, Tue–Fri 11am–2pm, 5pm–9pm, Sat 5pm–9pm, Sun 4pm–9pm",
-      "menuUrl": "https://cafefigaro.me/cafefigaromenu",
-      "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/burlingame/Cafe Figaro Small.jpeg",
       "keywords": [
         "italian",
         "pasta",
         "date night",
-        "wine list"
-      ]
+        "wine list",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://cafefigaro.me/cafefigaromenu",
+      "phone": "(650) 344-8277",
+      "hours": "Mon–Closed, Tue–Fri 11am–2pm, 5pm–9pm, Sat 5pm–9pm, Sun 4pm–9pm",
+      "priceRange": "$$",
+      "description": "Family-owned Italian restaurant featuring housemade pastas and curated wine pairings.",
+      "photoUrl": "images/restaurant-photos/burlingame/Cafe Figaro Small.jpeg"
     },
     {
       "id": "ChIJ4yAec_Gdj4AR0xmQ_i0_EbA",
