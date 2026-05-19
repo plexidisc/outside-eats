@@ -11797,29 +11797,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJS9wPPhC6j4AR-SeTDDlmO84",
-      "formattedAddress": "2424 Charleston Rd, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4220209,
-        "longitude": -122.0964012
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14860583790649223161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eriksdelicafe.com/",
       "displayName": {
         "text": "Erik's DeliCafé",
         "languageCode": "en"
       },
+      "formattedAddress": "2424 Charleston Rd, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14860583790649223161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eriksdelicafe.com/",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/mountain-view/Eriks Deli Cafe Small.jpeg",
-      "menuUrl": "https://www.eriksdelicafe.com/menu",
+      "menuUrl": "https://www.eriksdelicafe.com/food",
       "phone": "(650) 969-6535",
-      "hours": {
-        "Monday": "10:00 AM – 5:00 PM",
-        "Tuesday": "10:00 AM – 5:00 PM",
-        "Wednesday": "10:00 AM – 5:00 PM",
-        "Thursday": "10:00 AM – 5:00 PM",
-        "Friday": "10:00 AM – 5:00 PM"
-      },
-      "priceRange": "$"
+      "hours": "[object Object]",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eriks Deli Cafe Small.jpeg"
     },
     {
       "id": "ChIJQSVQrde2j4AREiEf9c2ce5o",
