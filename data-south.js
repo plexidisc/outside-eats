@@ -11243,29 +11243,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJIwoDVCi3j4ARI5JLg7gyjCQ",
-      "formattedAddress": "80 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3817024,
-        "longitude": -122.07500449999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2633535650163036707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.annachikadai.us/",
       "displayName": {
         "text": "Annachikadai - Indian Restaurant",
         "languageCode": "en"
       },
+      "formattedAddress": "80 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2633535650163036707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.annachikadai.us/",
+      "location": {},
       "cuisine": "Indian",
-      "menuUrl": "https://www.annachikadai.com/menu",
+      "menuUrl": "https://annachikadai.us/menu",
       "phone": "(650) 938-3070",
-      "hours": {
-        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
