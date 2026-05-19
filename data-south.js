@@ -11573,29 +11573,17 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ2x9bikWxj4ARKfInqJs4vw8",
-      "formattedAddress": "1414 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3892038,
-        "longitude": -122.09034000000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1134687872312930857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://chickengs.com/",
       "displayName": {
         "text": "Chicken G's",
         "languageCode": "en"
       },
+      "formattedAddress": "1414 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1134687872312930857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://chickengs.com/",
+      "location": {},
       "cuisine": "American",
-      "menuUrl": "https://www.chickengs.com/menu",
       "phone": "(650) 282-5020",
-      "hours": {
-        "Monday": "11:00 AM – 10:00 PM",
-        "Tuesday": "11:00 AM – 10:00 PM",
-        "Wednesday": "11:00 AM – 10:00 PM",
-        "Thursday": "11:00 AM – 10:00 PM",
-        "Friday": "11:00 AM – 10:00 PM",
-        "Saturday": "11:00 AM – 10:00 PM",
-        "Sunday": "11:00 AM – 10:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
