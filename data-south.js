@@ -11314,29 +11314,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJDSpH40u3j4ARUfRnCcCRK9E",
-      "formattedAddress": "570 N Shoreline Blvd, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4024597,
-        "longitude": -122.0795722
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15072300831903052881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://bigbiteseatery.com/?utm_source=google",
       "displayName": {
         "text": "Big Bites Vietnamese Eatery",
         "languageCode": "en"
       },
+      "formattedAddress": "570 N Shoreline Blvd, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15072300831903052881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bigbiteseatery.com/?utm_source=google",
+      "location": {},
       "cuisine": "Vietnamese",
-      "menuUrl": "https://www.bigbitesviet.com/menu",
+      "menuUrl": "https://bigbiteseatery.com/menu",
       "phone": "(650) 282-5137",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
