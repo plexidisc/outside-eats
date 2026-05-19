@@ -11425,33 +11425,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJkx3SPH63j4ARVep_ZCqLS_w",
-      "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3832604,
-        "longitude": -122.078283
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18179777335002131029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pos.chowbus.com/online-ordering/store/NAR-Restaurant/22992",
-      "displayName": {
-        "text": "CalSizzle American food",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "menuUrl": "https://www.calsizzle.com/menu",
-      "phone": "(650) 964-2222",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJsWRupjO3j4ARGrnHDZ0LpIo",
       "formattedAddress": "459 Castro St, Mountain View, CA 94041, USA",
       "location": {
