@@ -11545,31 +11545,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJPUL8UjS3j4ARdCh-Ys_Bgqs",
-      "formattedAddress": "938 Villa St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3946669,
-        "longitude": -122.0804378
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12358653423912888436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cheztj.com/",
-      "displayName": {
-        "text": "Chez TJ",
-        "languageCode": "en"
-      },
-      "cuisine": "French",
-      "menuUrl": "https://www.cheztj.com/menu",
-      "phone": "(650) 964-7466",
-      "hours": {
-        "Tuesday": "5:00 PM – 9:00 PM",
-        "Wednesday": "5:00 PM – 9:00 PM",
-        "Thursday": "5:00 PM – 9:00 PM",
-        "Friday": "5:00 PM – 9:00 PM",
-        "Saturday": "5:00 PM – 9:00 PM"
-      },
-      "priceRange": "$$$$"
-    },
-    {
       "id": "ChIJBSkY9Cu3j4ARNyh4HYmcLmA",
       "formattedAddress": "239 W El Camino Real, Mountain View, CA 94040, USA",
       "location": {
