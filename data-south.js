@@ -11846,29 +11846,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJjXKAThS3j4ARA2wf_yuYr5U",
-      "formattedAddress": "425 N Whisman Rd #100, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4008804,
-        "longitude": -122.0578043
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10786006947306892291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://neweverestcuisine.com/everestcuisinemountainview?utm_source=google",
       "displayName": {
         "text": "Everest Cuisine-Mountain View",
         "languageCode": "en"
       },
+      "formattedAddress": "425 N Whisman Rd #100, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10786006947306892291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://neweverestcuisine.com/everestcuisinemountainview?utm_source=google",
+      "location": {},
       "cuisine": "Indian",
-      "menuUrl": "https://www.everestcuisinemv.com/menu",
+      "menuUrl": "https://neweverestcuisine.com/menu/everestcuisinemountainview",
       "phone": "(650) 938-4190",
-      "hours": {
-        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
