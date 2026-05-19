@@ -11426,29 +11426,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJsWRupjO3j4ARGrnHDZ0LpIo",
-      "formattedAddress": "459 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.390662,
-        "longitude": -122.0807475
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9990122642583566618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://casalupemountainview.com/",
       "displayName": {
         "text": "Casa Lupe",
         "languageCode": "en"
       },
+      "formattedAddress": "459 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9990122642583566618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://casalupemountainview.com/",
+      "location": {},
       "cuisine": "Mexican",
-      "menuUrl": "https://www.casalupe.com/menu",
+      "menuUrl": "https://casalupemountainview.com/",
       "phone": "(650) 965-7911",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
