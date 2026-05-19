@@ -11486,31 +11486,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJDXeoxFCxj4ARWeIF4XCgk8Q",
-      "formattedAddress": "1910 W El Camino Real D, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3941947,
-        "longitude": -122.0969734
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14164841659682382425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.caspiancuisineca.com/",
       "displayName": {
         "text": "Caspian Cuisine",
         "languageCode": "en"
       },
+      "formattedAddress": "1910 W El Camino Real D, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14164841659682382425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.caspiancuisineca.com/",
+      "location": {},
       "cuisine": "Middle Eastern",
-      "photoUrl": "images/restaurant-photos/mountain-view/Caspian Small.jpeg",
-      "menuUrl": "https://www.caspiancuisine.com/menu",
+      "menuUrl": "https://online-ordering.innowi.com/branch/caspianboost",
       "phone": "(650) 965-7400",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Caspian Small.jpeg"
     },
     {
       "id": "ChIJvY7dlVq3j4AR27iAvJpn6bE",
