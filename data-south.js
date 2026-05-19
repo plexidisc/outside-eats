@@ -12029,29 +12029,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJDwVSiN-3j4ARzmdKWdvDSDs",
-      "formattedAddress": "185 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.393941999999996,
-        "longitude": -122.07861799999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4271879593424218062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eatathummus.com/",
       "displayName": {
         "text": "Hummus Mediterranean Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "185 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4271879593424218062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eatathummus.com/mountain-view",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
       "menuUrl": "https://www.hummuskitchen.com/menu",
       "phone": "(650) 964-9999",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
