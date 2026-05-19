@@ -11183,29 +11183,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ6ycgPTS3j4AR3oKYKGHPFjc",
-      "formattedAddress": "147 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3943863,
-        "longitude": -122.07829619999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3969588137773531870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.amarinthaicuisine.com/",
       "displayName": {
         "text": "Amarin Thai Cuisine",
         "languageCode": "en"
       },
+      "formattedAddress": "147 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3969588137773531870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amarinthaicuisine.com/",
+      "location": {},
       "cuisine": "Thai",
-      "menuUrl": "https://amarinthaicuisine.com/menu",
+      "menuUrl": "https://www.amarinthaicuisine.com/menus",
       "phone": "(650) 961-1536",
-      "hours": {
-        "Monday": "11:00 AM – 9:30 PM",
-        "Tuesday": "11:00 AM – 9:30 PM",
-        "Wednesday": "11:00 AM – 9:30 PM",
-        "Thursday": "11:00 AM – 9:30 PM",
-        "Friday": "11:00 AM – 9:30 PM",
-        "Saturday": "11:00 AM – 9:30 PM",
-        "Sunday": "11:00 AM – 9:30 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
