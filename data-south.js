@@ -11616,29 +11616,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJgT5ZKhGxj4ARdYMpDtwhEjk",
-      "formattedAddress": "2633 California St, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.406061699999995,
-        "longitude": -122.1116807
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4112386638756807541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://chinawokcatogo.com/",
       "displayName": {
         "text": "CHINA WOK RESTAURANT",
         "languageCode": "en"
       },
+      "formattedAddress": "2633 California St, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4112386638756807541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://chinawokcatogo.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "menuUrl": "https://www.chinawokmountainview.com/menu",
+      "menuUrl": "https://chinawokcatogo.com/order/",
       "phone": "(650) 965-7111",
-      "hours": {
-        "Monday": "11:00 AM – 9:30 PM",
-        "Tuesday": "11:00 AM – 9:30 PM",
-        "Wednesday": "11:00 AM – 9:30 PM",
-        "Thursday": "11:00 AM – 9:30 PM",
-        "Friday": "11:00 AM – 9:30 PM",
-        "Saturday": "11:00 AM – 9:30 PM",
-        "Sunday": "11:00 AM – 9:30 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$"
     },
     {
