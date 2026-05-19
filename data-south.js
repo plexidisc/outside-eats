@@ -12045,31 +12045,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJETHw0F-7j4AR85V_I6OobCI",
-      "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.414076099999996,
-        "longitude": -122.0932
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2480542913403000307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://hdbiryani.com/",
       "displayName": {
         "text": "Hyderabad Dum Biryani",
         "languageCode": "en"
       },
+      "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2480542913403000307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hdbiryani.com/",
+      "location": {},
       "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/mountain-view/Hyderabad dum Biryani Small.jpeg",
-      "menuUrl": "https://www.hyderabaddumbiryani.com/menu",
+      "menuUrl": "https://hdbiryani.com/menu.html",
       "phone": "(650) 938-4044",
-      "hours": {
-        "Monday": "11:30 AM – 10:00 PM",
-        "Tuesday": "11:30 AM – 10:00 PM",
-        "Wednesday": "11:30 AM – 10:00 PM",
-        "Thursday": "11:30 AM – 10:00 PM",
-        "Friday": "11:30 AM – 10:00 PM",
-        "Saturday": "11:30 AM – 10:00 PM",
-        "Sunday": "11:30 AM – 10:00 PM"
-      },
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hyderabad dum Biryani Small.jpeg"
     },
     {
       "id": "ChIJwRZVJUi3j4ARRDXWLyu0pQ4",
