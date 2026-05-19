@@ -11890,29 +11890,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJbaA3enm3j4AR-zV5zEm9b2U",
-      "formattedAddress": "156 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3944742,
-        "longitude": -122.07881730000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7309268844906362363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://6503861358.com/",
       "displayName": {
-        "text": "Fish With You鱼你在一起Mountain View",
+        "text": "Fish With You",
         "languageCode": "en"
       },
+      "formattedAddress": "156 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7309268844906362363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.39miles.com/p/14136205",
+      "location": {},
       "cuisine": "Chinese",
-      "menuUrl": "https://www.fishwithyouus.com/menu",
+      "menuUrl": "https://www.39miles.com/p/14136205",
       "phone": "(650) 282-5408",
-      "hours": {
-        "Monday": "11:00 AM – 9:30 PM",
-        "Tuesday": "11:00 AM – 9:30 PM",
-        "Wednesday": "11:00 AM – 9:30 PM",
-        "Thursday": "11:00 AM – 9:30 PM",
-        "Friday": "11:00 AM – 9:30 PM",
-        "Saturday": "11:00 AM – 9:30 PM",
-        "Sunday": "11:00 AM – 9:30 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
