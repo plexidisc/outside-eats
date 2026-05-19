@@ -11981,31 +11981,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJhVI4gQ-6j4ARAeBWvkHGkbM",
-      "formattedAddress": "1040 N Rengstorff Ave A1, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.419343399999995,
-        "longitude": -122.0951334
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12939341190080684033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sushihanabimv.com/",
       "displayName": {
         "text": "Hanabi Sushi",
         "languageCode": "en"
       },
+      "formattedAddress": "1040 N Rengstorff Ave A1, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12939341190080684033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sushihanabimv.com/",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/mountain-view/Hanabi Sushi Small.jpeg",
-      "menuUrl": "https://www.hanabisushi.us/menu",
+      "menuUrl": "https://sushihanabimv.com/wp-content/uploads/2023/03/8511Fsm1.pdf",
       "phone": "(650) 964-8885",
-      "hours": {
-        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
-      },
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hanabi Sushi Small.jpeg"
     },
     {
       "id": "ChIJJ9KvLjS3j4ARVZyJ6HSBT0A",
