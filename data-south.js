@@ -12077,31 +12077,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ1bwjGQCxj4ARk3g2XaSpZDY",
-      "formattedAddress": "565 San Antonio Rd Suite 27, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.4027283,
-        "longitude": -122.1121022
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3919444099122755731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.idlyexpress.com/",
       "displayName": {
         "text": "Idly Express - Mountain View",
         "languageCode": "en"
       },
+      "formattedAddress": "565 San Antonio Rd Suite 27, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3919444099122755731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.idlyexpress.com/#anchors-lb7nm99n",
+      "location": {},
       "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/mountain-view/Idly Express Small.jpeg",
       "menuUrl": "https://www.idlyexpress.com/menu",
       "phone": "(650) 938-4848",
-      "hours": {
-        "Monday": "8:00 AM – 9:00 PM",
-        "Tuesday": "8:00 AM – 9:00 PM",
-        "Wednesday": "8:00 AM – 9:00 PM",
-        "Thursday": "8:00 AM – 9:00 PM",
-        "Friday": "8:00 AM – 9:00 PM",
-        "Saturday": "8:00 AM – 9:00 PM",
-        "Sunday": "8:00 AM – 9:00 PM"
-      },
-      "priceRange": "$"
+      "hours": "[object Object]",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Idly Express Small.jpeg"
     },
     {
       "id": "ChIJN2EgyMa7j4ARX0jGUEEfMoM",
