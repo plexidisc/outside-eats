@@ -11145,6 +11145,7 @@ var PREBAKED_DATA_SOUTH = {
       "websiteUri": "http://agavemxbistro.com/",
       "location": {},
       "cuisine": "Mexican",
+      "menuUrl": "https://agavemxbistro.com/mountain-view-agave-mexican-bistro-food-menu",
       "phone": "(650) 965-2284",
       "hours": "[object Object]",
       "priceRange": "$$"
