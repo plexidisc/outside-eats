@@ -11906,29 +11906,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ57sfDTS3j4ARrjiqh6-gZLQ",
-      "formattedAddress": "153 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.394327,
-        "longitude": -122.07848120000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12998691100253894830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://fulammummountainview.com/",
       "displayName": {
         "text": "Fu Lam Mum",
         "languageCode": "en"
       },
+      "formattedAddress": "153 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12998691100253894830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://fulammummountainview.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "menuUrl": "https://www.fulammum.com/menu",
+      "menuUrl": "https://dinfo.me/onlineorder/#/home/menu/?restid=fulam",
       "phone": "(650) 965-6328",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
