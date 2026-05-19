@@ -12094,31 +12094,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJN2EgyMa7j4ARX0jGUEEfMoM",
-      "formattedAddress": "1020 N Rengstorff Ave Suite EMountain, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4199771,
-        "longitude": -122.09609909999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9453652933192599647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.ikessandwich.com/ca/mountainview/140/?utm_source=gmb&utm_medium=profile&utm_campaign=mountainview-location-page",
       "displayName": {
         "text": "Ike's Love & Sandwiches",
-        "languageCode": "usa"
+        "languageCode": "en"
       },
+      "formattedAddress": "1020 N Rengstorff Ave Suite EMountain, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9453652933192599647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.ikessandwich.com/ca/mountain-view/140/",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/mountain-view/Ikes Small.jpeg",
       "menuUrl": "https://www.ikessandwich.com/menu",
       "phone": "(650) 265-1111",
-      "hours": {
-        "Monday": "10:00 AM – 9:00 PM",
-        "Tuesday": "10:00 AM – 9:00 PM",
-        "Wednesday": "10:00 AM – 9:00 PM",
-        "Thursday": "10:00 AM – 9:00 PM",
-        "Friday": "10:00 AM – 9:00 PM",
-        "Saturday": "10:00 AM – 9:00 PM",
-        "Sunday": "10:00 AM – 9:00 PM"
-      },
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Ikes Small.jpeg"
     },
     {
       "id": "ChIJP_NCyBSxj4ARfaFtCqYUocU",
