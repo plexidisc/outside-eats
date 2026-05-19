@@ -11442,31 +11442,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJCza2IjC7j4ARf8iQuWMrTHw",
-      "formattedAddress": "2483 Old Middlefield Way, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4142988,
-        "longitude": -122.09917150000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8956581466248104063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.casamiarestaurantmtv.com/",
       "displayName": {
         "text": "Casa Mia Restaurant (Mountain View)",
         "languageCode": "en"
       },
+      "formattedAddress": "2483 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8956581466248104063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.casamiarestaurantmtv.com/",
+      "location": {},
       "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/mountain-view/Casa Mia Small.jpeg",
-      "menuUrl": "https://www.casamiaristorante.com/menu",
+      "menuUrl": "https://casamiarestaurantmtv.com/food-menu",
       "phone": "(650) 965-0440",
-      "hours": {
-        "Monday": "11:30 AM – 9:00 PM",
-        "Tuesday": "11:30 AM – 9:00 PM",
-        "Wednesday": "11:30 AM – 9:00 PM",
-        "Thursday": "11:30 AM – 9:00 PM",
-        "Friday": "11:30 AM – 9:00 PM",
-        "Saturday": "11:30 AM – 9:00 PM",
-        "Sunday": "11:30 AM – 9:00 PM"
-      },
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Casa Mia Small.jpeg"
     },
     {
       "id": "ChIJ03QfnzO3j4ARC0p7TSYoCpA",
