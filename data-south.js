@@ -11167,29 +11167,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJJzJDEDS3j4ARlN8K3bU-K-0",
-      "formattedAddress": "209 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3935872,
-        "longitude": -122.0789593
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17089822161805959060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.alexanderspatisserie.com/",
       "displayName": {
         "text": "Alexander's Patisserie",
         "languageCode": "en"
       },
+      "formattedAddress": "209 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17089822161805959060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.alexanderspatisserie.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
-      "menuUrl": "https://www.alexanderspatisserie.com",
+      "menuUrl": "https://www.alexanderspatisserie.com/brunch",
       "phone": "(650) 864-9999",
-      "hours": {
-        "Monday": "8:00 AM – 6:00 PM",
-        "Tuesday": "8:00 AM – 6:00 PM",
-        "Wednesday": "8:00 AM – 6:00 PM",
-        "Thursday": "8:00 AM – 6:00 PM",
-        "Friday": "8:00 AM – 6:00 PM",
-        "Saturday": "8:00 AM – 6:00 PM",
-        "Sunday": "8:00 AM – 6:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$$"
     },
     {
