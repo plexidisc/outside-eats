@@ -11998,29 +11998,17 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJJ9KvLjS3j4ARVZyJ6HSBT0A",
-      "formattedAddress": "102 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3950424,
-        "longitude": -122.07836150000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4634064880705051733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://happylambhotpot.com/",
       "displayName": {
         "text": "Happy Lamb Hot Pot | Mountain View",
         "languageCode": "en"
       },
+      "formattedAddress": "102 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4634064880705051733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://happylambhotpot.com/",
+      "location": {},
       "cuisine": "Vietnamese",
-      "menuUrl": "https://www.happylambhotpot.com/menu",
       "phone": "(650) 282-5388",
-      "hours": {
-        "Monday": "11:30 AM – 10:00 PM",
-        "Tuesday": "11:30 AM – 10:00 PM",
-        "Wednesday": "11:30 AM – 10:00 PM",
-        "Thursday": "11:30 AM – 10:00 PM",
-        "Friday": "11:30 AM – 10:00 PM",
-        "Saturday": "11:30 AM – 10:00 PM",
-        "Sunday": "11:30 AM – 10:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$$"
     },
     {
