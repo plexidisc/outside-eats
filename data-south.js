@@ -11152,29 +11152,17 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJJaZsfAC3j4ARm_xXrZy0PQc",
-      "formattedAddress": "Civic Center, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.389761,
-        "longitude": -122.08130349999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=521771716860968091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Ajadi bazar",
         "languageCode": "en"
       },
+      "formattedAddress": "Civic Center, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=521771716860968091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "American",
-      "menuUrl": "https://www.ajadibazar.com/menu",
       "phone": "(650) 282-5550",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
