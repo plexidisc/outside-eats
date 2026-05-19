@@ -5389,7 +5389,4260 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$$"
     }
   ],
-  "Palo Alto, CA": [{"id": "ChIJ-RTutuW6j4AR4VYL3DZDAvg", "formattedAddress": "340 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4270754, "longitude": -122.14440950000001}, "googleMapsUri": "https://maps.google.com/?cid=17870920174258575073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://anatoliankitchen.com/", "displayName": {"text": "Anatolian Kitchen", "languageCode": "en"}, "cuisine": "Turkish", "description": "California Avenue Turkish kitchen specializing in beef doner kebab, Adana kebab and house-made manti since 2010.", "phone": "(650) 853-9700", "menuUrl": "https://anatoliankitchen.com", "priceRange": "$$", "hours": {"Monday": "11:30 AM-9:00 PM", "Tuesday": "11:30 AM-9:00 PM", "Wednesday": "11:30 AM-9:00 PM", "Thursday": "11:30 AM-9:00 PM", "Friday": "11:30 AM-9:30 PM", "Saturday": "11:30 AM-9:30 PM", "Sunday": "11:30 AM-9:00 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Anatolian Kitchen Small.jpeg"}, {"id": "ChIJL6eIury7j4ARRvbC__WInac", "formattedAddress": "201 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444894399999995, "longitude": -122.1628303}, "googleMapsUri": "https://maps.google.com/?cid=12077960365816870470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sushiaraki.com/", "displayName": {"text": "Araki Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Araki Sushi Small.jpeg", "description": "Fresh sushi, sashimi and bento boxes at reasonable prices with standout lunch deals on University Avenue.", "phone": "(650) 324-3300", "menuUrl": "https://www.sushiaraki.com/", "priceRange": "$$", "hours": {"Monday": "10:00 AM-10:00 PM", "Tuesday": "10:00 AM-10:00 PM", "Wednesday": "10:00 AM-10:00 PM", "Thursday": "10:00 AM-10:00 PM", "Friday": "11:00 AM-11:00 PM", "Saturday": "11:00 AM-11:00 PM", "Sunday": "10:00 AM-10:00 PM"}}, {"id": "ChIJXzozIq2jj4ARpEwPAaO9InY", "formattedAddress": "140 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4439087, "longitude": -122.16336249999999}, "googleMapsUri": "https://maps.google.com/?cid=8512574753478757540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.aryasteakhouse.com/", "displayName": {"text": "Arya Steakhouse", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/palo-alto/Arya Steakhouse Small.jpeg", "description": "Persian and steakhouse hybrid with halal aged meats, barg kabob, saffron rice and private dining rooms.", "phone": "(650) 304-3119", "menuUrl": "https://www.aryasteakhouse.com/", "priceRange": "$$$", "hours": {"Monday": "11:30 AM-9:30 PM", "Tuesday": "11:30 AM-9:30 PM", "Wednesday": "11:30 AM-9:30 PM", "Thursday": "11:30 AM-9:30 PM", "Friday": "11:30 AM-9:30 PM", "Saturday": "11:30 AM-9:30 PM", "Sunday": "11:30 AM-9:30 PM"}}, {"id": "ChIJmUWp5SS7j4ARwkXUtEmqFdc", "formattedAddress": "855 El Camino Real, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4387251, "longitude": -122.1598525}, "googleMapsUri": "https://maps.google.com/?cid=15498480926208574914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://asianbox.com/", "displayName": {"text": "Asian Box", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Asian Box Small.jpeg", "description": "100% gluten-free Vietnamese scratch kitchen with bold six-spice chicken, coconut curry tofu and lemongrass pork bowls.", "phone": "(650) 543-3390", "menuUrl": "https://www.asianbox.com/menu", "priceRange": "$$", "hours": {"Monday": "11:00 AM-9:00 PM", "Tuesday": "11:00 AM-9:00 PM", "Wednesday": "11:00 AM-9:00 PM", "Thursday": "11:00 AM-9:00 PM", "Friday": "11:00 AM-9:00 PM", "Saturday": "11:00 AM-9:00 PM", "Sunday": "11:00 AM-9:00 PM"}}, {"id": "ChIJi9iYmjm7j4AR904-JYOQQN4", "formattedAddress": "335 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4464879, "longitude": -122.1613445}, "googleMapsUri": "https://maps.google.com/?cid=16014959167869439735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bevri.com/", "displayName": {"text": "Bevri - Palo Alto", "languageCode": "en"}, "cuisine": "Georgian", "photoUrl": "images/restaurant-photos/palo-alto/Bevri Small.jpeg", "description": "The Bay Area's only Georgian restaurant, famous for wood-fired khachapuri cheese boats and hand-rolled khinkali dumplings.", "phone": "(650) 332-7770", "menuUrl": "https://www.bevri.com/menu", "priceRange": "$$$", "hours": {"Monday": "11:30 AM-9:30 PM", "Tuesday": "11:30 AM-9:30 PM", "Wednesday": "11:30 AM-9:30 PM", "Thursday": "11:30 AM-9:30 PM", "Friday": "11:30 AM-9:30 PM", "Saturday": "11:30 AM-9:30 PM", "Sunday": "11:30 AM-9:30 PM"}}, {"id": "ChIJMzIVsOW6j4ARuVSOvM3YcfY", "formattedAddress": "2363 Birch St, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4277401, "longitude": -122.14430329999999}, "googleMapsUri": "https://maps.google.com/?cid=17758213183841916089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.bistroelan.com/", "displayName": {"text": "Bistro Elan", "languageCode": "en"}, "cuisine": "French", "description": "Intimate French bistro sourcing local farm ingredients with a seasonal menu and rotating desserts.", "phone": "(650) 327-0284", "menuUrl": "https://www.bistroelan.com/menu", "priceRange": "$$$", "hours": {"Tuesday": "5:00 PM-9:00 PM", "Wednesday": "5:00 PM-9:00 PM", "Thursday": "5:00 PM-9:00 PM", "Friday": "5:00 PM-9:00 PM", "Saturday": "5:00 PM-9:00 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Bistro Elan Small.jpeg"}, {"id": "ChIJYUh8Jzq7j4ARXcdvPyLUR68", "formattedAddress": "548 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4445889, "longitude": -122.1612389}, "googleMapsUri": "https://maps.google.com/?cid=12630296923542112093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bistromaxine.com/", "displayName": {"text": "Bistro Maxine", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Bistro Maxine Small.jpeg", "description": "Palo Alto's only authentic French crepe cafe since 2006, using batter and equipment imported directly from France.", "phone": "(650) 323-1815", "menuUrl": "https://www.bistromaxine.com/menu", "priceRange": "$$", "hours": {"Tuesday": "8:00 AM-2:00 PM", "Wednesday": "8:00 AM-2:00 PM", "Thursday": "8:00 AM-2:00 PM", "Friday": "8:00 AM-2:00 PM", "Saturday": "8:00 AM-2:00 PM", "Sunday": "8:00 AM-2:00 PM"}}, {"id": "ChIJEQbMSzq7j4ARCIzIQRU45og", "formattedAddress": "643 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4435214, "longitude": -122.1605738}, "googleMapsUri": "https://maps.google.com/?cid=9864633697750780936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://dineatbuca.com/locations/palo-alto/?utm_campaign=local&utm_source=gbp&utm_medium=organic&utm_content=palo-alto", "displayName": {"text": "Buca di Beppo Italian Restaurant", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/palo-alto/Buca Small.jpeg", "description": "Festive family-style Italian with generous portions of classic pasta, lasagna and chicken for groups and celebrations.", "phone": "(650) 213-1111", "menuUrl": "https://www.bucadibeppo.com/menu/", "priceRange": "$$", "hours": {"Monday": "11:00 AM-10:00 PM", "Tuesday": "11:00 AM-10:00 PM", "Wednesday": "11:00 AM-10:00 PM", "Thursday": "11:00 AM-10:00 PM", "Friday": "11:00 AM-10:00 PM", "Saturday": "11:00 AM-10:00 PM", "Sunday": "11:00 AM-10:00 PM"}}, {"id": "ChIJ8QesCuW6j4ARfJfR8qxpWzE", "formattedAddress": "2437 Birch St, Palo Alto, CA 94306, USA", "location": {"latitude": 37.427287, "longitude": -122.14339079999999}, "googleMapsUri": "https://maps.google.com/?cid=3556552522268252028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.cafeprobono.com/", "displayName": {"text": "Cafe Pro Bono", "languageCode": "en"}, "cuisine": "Italian", "description": "Three-time Palo Alto Weekly best Italian restaurant winner with housemade pasta and organic ingredients for 30-plus years.", "phone": "(650) 326-1626", "menuUrl": "https://www.cafeprobono.com/menu", "priceRange": "$$", "hours": {"Monday": "11:30 AM-9:00 PM", "Tuesday": "11:30 AM-9:00 PM", "Wednesday": "11:30 AM-9:00 PM", "Thursday": "11:30 AM-9:00 PM", "Friday": "11:30 AM-9:00 PM", "Saturday": "11:30 AM-9:00 PM", "Sunday": "11:30 AM-9:00 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Cafe Pro Bono Small.jpeg"}, {"id": "ChIJm8EK_e-6j4ARgml6h3Srj60", "formattedAddress": "200 Sheridan Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4267836, "longitude": -122.1405856}, "googleMapsUri": "https://maps.google.com/?cid=12506403207208659330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cafferiace.com/", "displayName": {"text": "Caffe Riace", "languageCode": "en"}, "cuisine": "Italian", "description": "Family-owned California Avenue Sicilian trattoria since 1997 with outdoor piazza dining and housemade Italian specialties.", "phone": "(650) 473-9746", "menuUrl": "https://www.cafferiace.com/menu", "priceRange": "$$", "hours": {"Monday": "11:30 AM-9:00 PM", "Tuesday": "11:30 AM-9:00 PM", "Wednesday": "11:30 AM-9:00 PM", "Thursday": "11:30 AM-9:00 PM", "Friday": "11:30 AM-9:00 PM", "Saturday": "11:30 AM-9:00 PM", "Sunday": "11:30 AM-9:00 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Caffe Riace Small.jpeg"}, {"id": "ChIJ7c_w_4q6j4ARF8QWNPNwbck", "formattedAddress": "3740 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4175915, "longitude": -122.13196810000001}, "googleMapsUri": "https://maps.google.com/?cid=14514381363938247703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.celiasrestaurants.com/", "displayName": {"text": "Celia’s Mexican Restaurant", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Celias Small.jpeg", "description": "Daily fresh salsa, lard-free tortillas and skinless chicken define this longtime El Camino Real neighborhood staple.", "phone": "(650) 494-5040", "menuUrl": "https://www.celiasrestaurants.com/menu", "priceRange": "$$", "hours": {"Monday": "11:00 AM-9:00 PM", "Tuesday": "11:00 AM-9:00 PM", "Wednesday": "11:00 AM-9:00 PM", "Thursday": "11:00 AM-9:00 PM", "Friday": "11:00 AM-9:00 PM", "Saturday": "11:00 AM-9:00 PM", "Sunday": "11:00 AM-9:00 PM"}}, {"id": "ChIJTamC_qi7j4ARMAC_ZB2hHMI", "formattedAddress": "2180 W Bayshore Rd #120, Palo Alto, CA 94303, USA", "location": {"latitude": 37.448276899999996, "longitude": -122.1261363}, "googleMapsUri": "https://maps.google.com/?cid=13987231690322280496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.chefzhaokitchen.com/", "displayName": {"text": "Chef Zhao Kitchen", "languageCode": "en"}, "cuisine": "Chinese", "description": "Regional Chinese cooking with bold wok-fired dishes and dumplings popular with the Stanford community.", "phone": "(650) 521-0766", "menuUrl": "https://www.chefzhaokitchen.com/menu", "priceRange": "$$", "hours": {"Monday": "11:00 AM-9:30 PM", "Tuesday": "11:00 AM-9:30 PM", "Wednesday": "11:00 AM-9:30 PM", "Thursday": "11:00 AM-9:30 PM", "Friday": "11:00 AM-9:30 PM", "Saturday": "11:00 AM-9:30 PM", "Sunday": "11:00 AM-9:30 PM"}, "photoUrl": "images/restaurant-photos/palo-alto/Chef Zhao Kitchen Small.jpeg"}, {"id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc", "formattedAddress": "642 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.443916, "longitude": -122.160191}, "googleMapsUri": "https://maps.google.com/?cid=7492068501438780553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.coconutspaloalto.com/", "displayName": {"text": "Coconuts Caribbean Restaurant & Bar", "languageCode": "en"}, "cuisine": "Caribbean", "photoUrl": "images/restaurant-photos/palo-alto/Coconuts Small.jpeg", "description": "Jerk chicken, curried goat and oxtail bring island flavors to Silicon Valley in a lively full-bar setting.", "phone": "(650) 324-1000", "menuUrl": "https://www.coconutscaribbean.com/menu", "priceRange": "$$", "hours": {"Tuesday": "11:30 AM-9:00 PM", "Wednesday": "11:30 AM-9:00 PM", "Thursday": "11:30 AM-9:00 PM", "Friday": "11:30 AM-9:00 PM", "Saturday": "11:30 AM-9:00 PM", "Sunday": "11:30 AM-9:00 PM"}}, {"id": "ChIJd0Absfi6j4ARJUQZcc5Tzu0", "formattedAddress": "2605 Middlefield Rd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4343952, "longitude": -122.1301177}, "googleMapsUri": "https://maps.google.com/?cid=17135725778317165605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://comoestataqueria.net/", "displayName": {"text": "Como Esta Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Como Esta Small.jpeg", "description": "No-frills Middlefield Road taqueria with fresh-made burritos and tacos at the most affordable prices in Palo Alto.", "phone": "(650) 327-2200", "menuUrl": "https://www.comoestataqueria.com/menu", "priceRange": "$", "hours": {"Monday": "10:00 AM-9:00 PM", "Tuesday": "10:00 AM-9:00 PM", "Wednesday": "10:00 AM-9:00 PM", "Thursday": "10:00 AM-9:00 PM", "Friday": "10:00 AM-9:00 PM", "Saturday": "10:00 AM-9:00 PM", "Sunday": "10:00 AM-9:00 PM"}}, {"id": "ChIJY5UIijm7j4ARPkLgY0DXJuI", "formattedAddress": "538 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444609199999995, "longitude": -122.16152839999998}, "googleMapsUri": "https://maps.google.com/?cid=16295948973240238654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.coupacafe.com/", "displayName": {"text": "Coupa Cafe - Ramona", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/palo-alto/Coupa Cafe_Ramona Small.jpeg", "description": "Venezuelan cafe and Silicon Valley landmark since 2004, known for locally roasted coffee and gluten-free arepas.", "phone": "(650) 322-6872", "menuUrl": "https://www.coupacafe.com/menu", "priceRange": "$$", "hours": {"Monday": "7:00 AM-6:00 PM", "Tuesday": "7:00 AM-6:00 PM", "Wednesday": "7:00 AM-6:00 PM", "Thursday": "7:00 AM-6:00 PM", "Friday": "7:00 AM-6:00 PM", "Saturday": "7:00 AM-6:00 PM", "Sunday": "7:00 AM-6:00 PM"}}, {"id": "ChIJgbClrTm7j4ARJhcj3TrrG9g", "formattedAddress": "367 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4469366, "longitude": -122.16094960000001}, "googleMapsUri": "https://maps.google.com/?cid=15572298774614316838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.crepevine.com/?y_source=1_MTQ3MjMwNjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D", "displayName": {"text": "Crepevine Restaurants", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Crepevine Small.jpeg", "description": "All-day neighborhood cafe serving generous crepes, omelets, salads and sandwiches from breakfast through dinner.", "phone": "(650) 323-3601", "menuUrl": "https://www.crepevine.com/menu", "priceRange": "$$", "hours": {"Monday": "8:00 AM-9:00 PM", "Tuesday": "8:00 AM-9:00 PM", "Wednesday": "8:00 AM-9:00 PM", "Thursday": "8:00 AM-9:00 PM", "Friday": "8:00 AM-9:00 PM", "Saturday": "8:00 AM-9:00 PM", "Sunday": "8:00 AM-9:00 PM"}}, {"id": "ChIJSwaMPEq7j4ARrdiph55BO04", "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.446115500000005, "longitude": -122.16106979999999}, "googleMapsUri": "https://maps.google.com/?cid=5637171507721001133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://paloalto.mycurrypizza.com/", "displayName": {"text": "Curry Pizza House Palo Alto", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Curry Pizza House Small.jpeg", "phone": "(650) 319-6400", "hours": {"Monday": "10:00 AM – 10:00 PM", "Tuesday": "10:00 AM – 10:00 PM", "Wednesday": "10:00 AM – 10:00 PM", "Thursday": "10:00 AM – 10:00 PM", "Friday": "10:00 AM – 10:00 PM", "Saturday": "10:00 AM – 10:00 PM", "Sunday": "10:00 AM – 10:00 PM"}, "menuUrl": "https://currypizzahouse.com/locations/palo-alto/", "priceRange": "$$", "description": "Indian fusion pizza on University Avenue with butter chicken, tandoori chicken, and chili paneer pies alongside craft beer and outdoor seating."}, {"id": "ChIJtUAJ_4q6j4ARjgupREDbjSo", "formattedAddress": "3781 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4179259, "longitude": -122.13161269999998}, "googleMapsUri": "https://maps.google.com/?cid=3066347990385494926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.dasichuanrestaurant.com/", "displayName": {"text": "Da Sichuan Bistro", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Da Sichuan Bistro Small.jpeg", "phone": "(650) 849-2000", "hours": {"Monday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM", "Tuesday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM", "Wednesday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM", "Thursday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM", "Friday": "11:00 AM – 2:00 PM, 4:30 PM – 10:00 PM", "Saturday": "11:00 AM – 2:00 PM, 4:30 PM – 10:00 PM", "Sunday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM"}, "menuUrl": "http://www.dasichuanrestaurant.com/", "priceRange": "$$", "description": "Longstanding El Camino Real Sichuan kitchen famous for spicy dan dan noodles, mapo tofu, and owner warmth after six-plus years in Palo Alto."}, {"id": "ChIJ7ZNa4dG7j4ARszvuKU9_usY", "formattedAddress": "2363 Birch St #B, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4278581, "longitude": -122.14422800000001}, "googleMapsUri": "https://maps.google.com/?cid=14319897943160535987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Daigo", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 384-6880", "hours": {"Monday": "5:00 PM – 8:05 PM", "Tuesday": "5:00 PM – 8:05 PM", "Wednesday": "5:00 PM – 8:05 PM", "Thursday": "5:00 PM – 8:05 PM", "Friday": "5:00 PM – 8:05 PM", "Saturday": "5:00 PM – 8:05 PM", "Sunday": "5:00 PM – 8:05 PM"}, "menuUrl": "https://order.online/store/daigo-palo-alto-723254", "priceRange": "$$$", "photoUrl": "images/restaurant-photos/palo-alto/Daigo Small.jpeg", "description": "Hidden gem on Birch Street serving exceptional omakase, hamachi shots, and yuzu cheesecake in an intimate Japan-reminiscent setting."}, {"id": "ChIJe4kIFje7j4ARqb6yVqdp0tU", "formattedAddress": "129 Lytton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444781899999995, "longitude": -122.16510269999999}, "googleMapsUri": "https://maps.google.com/?cid=15407493442622897833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.online/business/darbar-5", "displayName": {"text": "Darbar Indian Cuisine", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Darbar Small.jpeg", "phone": "(650) 321-6688", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "menuUrl": "https://www.grubhub.com/restaurant/darbar-indian-cuisine-129-lytton-ave-palo-alto/5549096", "priceRange": "$$", "description": "Award-winning Indian kitchen one block from Stanford combining north and south regional dishes with a beloved weekday lunch buffet since the 1980s."}, {"id": "ChIJBVNwaxK6j4ARUPhWmCDHXYk", "formattedAddress": "799 San Antonio Rd, Palo Alto, CA 94303, USA", "location": {"latitude": 37.420349699999996, "longitude": -122.10223459999997}, "googleMapsUri": "https://maps.google.com/?cid=9898286498838935632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.dohatsutenramen.com/", "displayName": {"text": "Dohatsuten Ramen & Tapas", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Dohatsuten Small.jpeg", "phone": "(650) 493-2878", "hours": {"Monday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Tuesday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Wednesday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Thursday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Friday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Saturday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM", "Sunday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM"}, "menuUrl": "https://dohatsutenramen.com/", "priceRange": "$$", "description": "Nagoya-style ramen with spicy minced pork and Japanese small plates in a vibrant family-friendly spot open since 2009."}, {"id": "ChIJHz4XFiW7j4ARn0Db50n4L2k", "formattedAddress": "855 El Camino Real #104, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4389992, "longitude": -122.1588592}, "googleMapsUri": "https://maps.google.com/?cid=7579549694194040991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://cafedoucefrance.com/", "displayName": {"text": "Douce France", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Douce France Small.jpeg", "phone": "(650) 322-3601", "hours": {"Monday": "9:00 AM – 5:00 PM", "Tuesday": "9:00 AM – 5:00 PM", "Wednesday": "9:00 AM – 5:00 PM", "Thursday": "9:00 AM – 5:00 PM", "Friday": "9:00 AM – 5:00 PM", "Saturday": "9:00 AM – 5:00 PM", "Sunday": "9:00 AM – 5:00 PM"}, "menuUrl": "https://www.cafedoucefrance.com/", "priceRange": "$$", "description": "Alsatian bakery cafe in Town and Country Village since 1981, beloved for handmade croissants, buckwheat crepes, and Lavazza espresso."}, {"id": "ChIJwVXiPQ-7j4ARm5uHGNqN66U", "formattedAddress": "530 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4454109, "longitude": -122.161097}, "googleMapsUri": "https://maps.google.com/?cid=11955805603639040923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.mealkeyway.com/customer/release/index?mid=4b4c333472657138707150773566592b3239424469673d3d#/main", "displayName": {"text": "Dumpling Hours-Palo Alto", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Dumpling Hours Small.jpeg", "phone": "(650) 323-1888", "hours": {"Monday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Tuesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Wednesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Thursday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Friday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Saturday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM", "Sunday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM"}, "menuUrl": "https://order.online/store/dumpling-hours-palo-alto-29675092", "priceRange": "$$", "description": "Palo Alto's go-to dumpling house with handmade xiao long bao, pan-fried dumplings, and noodle soups served twice daily."}, {"id": "ChIJ84zhlRG6j4ARRHn_8eTSKj4", "formattedAddress": "920 Commercial St, Palo Alto, CA 94303, USA", "location": {"latitude": 37.422913799999996, "longitude": -122.099947}, "googleMapsUri": "https://maps.google.com/?cid=4479624660127807812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "El Taco Ranchero", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 471-3868", "hours": {"Monday": "10:00 AM – 6:00 PM", "Tuesday": "10:00 AM – 6:00 PM", "Wednesday": "10:00 AM – 6:00 PM", "Thursday": "10:00 AM – 6:00 PM", "Friday": "10:00 AM – 6:00 PM", "Saturday": "10:00 AM – 6:00 PM"}, "menuUrl": "https://www.doordash.com/business/el-ranchero-49577/menu/", "priceRange": "$", "description": "No-frills Mexican street food counter with fresh-made tacos and burritos at some of the most affordable prices on the Peninsula.", "photoUrl": "images/restaurant-photos/palo-alto/El Taco Ranchero Small.jpeg"}, {"id": "ChIJRTRAoc67j4ARM-MLNMDboBo", "formattedAddress": "550 Waverley St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.44648120000001, "longitude": -122.1599474}, "googleMapsUri": "https://maps.google.com/?cid=1918775059813229363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ethelsfancypa.com/", "displayName": {"text": "Ethel's Fancy", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Naschmrkt Small.jpeg", "phone": "(650) 561-4860", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:30 PM", "Saturday": "5:00 PM – 9:30 PM"}, "menuUrl": "https://www.ethelsfancypa.com/", "priceRange": "$$$", "description": "A cozy upscale neighborhood restaurant in downtown Palo Alto focused on locally sourced seasonal ingredients and a thoughtfully curated wine list."}, {"id": "ChIJ4a0RmI67j4ARqr2S5nEYX2U", "formattedAddress": "518 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4453864, "longitude": -122.16135999999999}, "googleMapsUri": "https://maps.google.com/?cid=7304583998096981418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ettanrestaurant.com/", "displayName": {"text": "Ettan", "languageCode": "en"}, "cuisine": "Indian", "phone": "(650) 752-6281", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "https://www.ettanrestaurant.com/", "priceRange": "$$$", "photoUrl": "images/restaurant-photos/palo-alto/Ettan Small.jpeg", "description": "Critically acclaimed modern Indian restaurant from acclaimed chef Srijith Gopinathan offering a refined tasting menu and a la carte with a curated wine list."}, {"id": "ChIJByU8Zze7j4ARtKef7nHMEks", "formattedAddress": "420 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4451287, "longitude": -122.16379929999998}, "googleMapsUri": "https://maps.google.com/?cid=5409610892132198324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.evvia.net/", "displayName": {"text": "Evvia Estiatorio", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Evvia Small.jpeg", "phone": "(650) 326-0983", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"}, "menuUrl": "https://evvia.net/menu/", "priceRange": "$$$$", "description": "Celebrated Greek kitchen on Emerson Street with wood-fired lamb, whole fish, and mezze that have earned consistent acclaim for over 25 years."}, {"id": "ChIJJS3eBO-6j4AR55CwERBNE34", "formattedAddress": "2500 El Camino Real Suite 105, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4242609, "longitude": -122.1449674}, "googleMapsUri": "https://maps.google.com/?cid=9084689604748021991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.fambriniscafe.com/", "displayName": {"text": "Fambrini’s Cafe", "languageCode": "en"}, "cuisine": "Breakfast", "phone": "(650) 858-1268", "hours": {"Monday": "9:30 AM – 3:00 PM", "Tuesday": "9:30 AM – 3:00 PM", "Wednesday": "9:30 AM – 3:00 PM", "Thursday": "9:30 AM – 3:00 PM", "Friday": "9:30 AM – 3:00 PM", "Saturday": "10:00 AM – 3:00 PM", "Sunday": "10:00 AM – 3:00 PM"}, "menuUrl": "https://www.fambriniscafe.com/", "priceRange": "$$", "photoUrl": "images/restaurant-photos/palo-alto/Fambrinis Cafe Small.jpeg", "description": "Cheerful daytime cafe near Stanford serving generous housemade soups, paninis, and daily specials in a relaxed neighborhood setting."}, {"id": "ChIJ2VtDOzS7j4ARaKOgGvJXoJ4", "formattedAddress": "180 El Camino Real G-2, Palo Alto, CA 94304, USA", "location": {"latitude": 37.44457, "longitude": -122.17032979999999}, "googleMapsUri": "https://maps.google.com/?cid=11430232551606756200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.flemingssteakhouse.com/Locations/CA/Palo-Alto?y_source=1_MTU1MDMxNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D", "displayName": {"text": "Fleming’s Prime Steakhouse & Wine Bar", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/palo-alto/Flemings Small.jpeg", "phone": "(650) 328-8888", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "4:00 PM – 10:00 PM", "Sunday": "4:00 PM – 9:00 PM"}, "menuUrl": "https://www.flemingssteakhouse.com/locations/ca/palo-alto", "priceRange": "$$$$", "description": "Upscale steakhouse featuring prime dry-aged cuts and one of the most extensive wine-by-the-glass programs of any Peninsula restaurant."}, {"id": "ChIJ5Q2_GWO6j4AREsesK8JkKW4", "formattedAddress": "4119 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.413888899999996, "longitude": -122.1258333}, "googleMapsUri": "https://maps.google.com/?cid=7937986603336386322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://fukisushi.com/", "displayName": {"text": "Fuki Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Fuki-Sushi Small.jpeg", "phone": "(650) 494-9383", "hours": {"Monday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Tuesday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Wednesday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Thursday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Friday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM", "Saturday": "5:15 PM – 9:00 PM"}, "menuUrl": "https://fukisushi.com/menu/", "priceRange": "$$$", "description": "Elegant California Avenue sushi restaurant with a devoted following for its pristine nigiri, omakase options, and serene unhurried dining pace."}, {"id": "ChIJ90rubDS7j4AR7pLFdYlNGU4", "formattedAddress": "660 Stanford Shopping Center #244B, Palo Alto, CA 94304, USA", "location": {"latitude": 37.442727399999995, "longitude": -122.1705035}, "googleMapsUri": "https://maps.google.com/?cid=5627614462157886190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.gofishpokebar.com/", "displayName": {"text": "Go Fish Poke Bar- Stanford Shopping Center", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Go Fish Poke Bar Small.jpeg", "phone": "(650) 656-8291", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.ubereats.com/store/go-fish-poke-bar-palo-alto/SzN1KTv5Ss2cGdx-CoWJDw", "priceRange": "$$", "description": "Build-your-own poke bowls with fresh ahi tuna, salmon, and creative sauces at Stanford Shopping Center."}, {"id": "ChIJP_XllSS7j4ARhy2W_qw79aQ", "formattedAddress": "855 El Camino Real #65, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4379565, "longitude": -122.1598063}, "googleMapsUri": "https://maps.google.com/?cid=11886472405705960839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://gotts.com/", "displayName": {"text": "Gott's", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Gotts Roadside Small.jpeg", "phone": "(650) 326-1000", "hours": {"Monday": "10:30 AM – 9:00 PM", "Tuesday": "10:30 AM – 9:00 PM", "Wednesday": "10:30 AM – 9:00 PM", "Thursday": "10:30 AM – 9:00 PM", "Friday": "10:30 AM – 9:00 PM", "Saturday": "10:30 AM – 9:00 PM", "Sunday": "10:30 AM – 9:00 PM"}, "menuUrl": "https://www.gotts.com/menu/", "priceRange": "$$", "description": "Northern California roadside classic known for grass-fed burgers, crispy onion rings, and seasonal milkshakes in a bustling open-air setting."}, {"id": "ChIJ-Z6WDW26j4ARvRm_XzDSf3o", "formattedAddress": "3950 Middlefield Rd, Palo Alto, CA 94303, USA", "location": {"latitude": 37.418678299999996, "longitude": -122.10912849999998}, "googleMapsUri": "https://maps.google.com/?cid=8827004899876084157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.greenelephantgourmet.com/", "displayName": {"text": "Green Elephant Gourmet", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/palo-alto/Green Elephant Gourmet Small.jpeg", "phone": "(650) 494-7391", "hours": {"Tuesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Wednesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Thursday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Friday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Saturday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM", "Sunday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM"}, "menuUrl": "http://greenelephantgourmet.com/", "priceRange": "$$", "description": "Beloved neighborhood Thai kitchen with a devoted local following for its green curry, pad see ew, and generous lunch specials."}, {"id": "ChIJZ-fddRO7j4AR_0Gsc_U5HbQ", "formattedAddress": "855 El Camino Real #161, Palo Alto, CA 94301, USA", "location": {"latitude": 37.439176499999995, "longitude": -122.1581733}, "googleMapsUri": "https://maps.google.com/?cid=12978593427522077183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.hatchedbites.com/", "displayName": {"text": "Hatched", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/palo-alto/Hatched Small.jpeg", "description": "Egg-forward breakfast spot at Town and Country Village with Asian-inflected sandwiches, smashed avocado toasts, and ceremonial-grade matcha lattes.", "phone": "(650) 561-3386", "hours": {"Monday": "8:00 AM – 2:30 PM", "Tuesday": "8:00 AM – 2:30 PM", "Wednesday": "8:00 AM – 2:30 PM", "Thursday": "8:00 AM – 2:30 PM", "Friday": "8:00 AM – 2:30 PM", "Saturday": "8:00 AM – 2:30 PM", "Sunday": "8:00 AM – 2:30 PM"}, "menuUrl": "https://www.hatchedbites.com/menu", "priceRange": "$$"}, {"id": "ChIJB6tydHK7j4ARMYHQSAGD5ig", "formattedAddress": "544 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4439995, "longitude": -122.1620763}, "googleMapsUri": "https://maps.google.com/?cid=2947187047700398385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://linktr.ee/teapot_inc", "displayName": {"text": "HE&C Tea + Pot", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/He&C Tea + Pot Small.jpeg", "description": "Individual hot pot concept on Emerson Street serving Kagoshima wagyu beef and handcrafted fruit teas with organic milk and fresh fruit.", "phone": "(650) 600-0149", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://hecteapot.com/", "priceRange": "$$"}, {"id": "ChIJh6RQtJa7j4AR-KdyKoeGyQ4", "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4461225, "longitude": -122.16108659999999}, "googleMapsUri": "https://maps.google.com/?cid=1065530701940697080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://hiddentapandbarrel.com/", "displayName": {"text": "Hidden Tap And Barrel Palo Alto", "languageCode": "en"}, "cuisine": "Other", "description": "Craft beer and cocktail bar with a rotating tap list and a kitchen serving elevated pub food and weekend brunch.", "phone": "(650) 433-2540", "hours": {"Tuesday": "4:00 PM – 10:00 PM", "Wednesday": "4:00 PM – 10:00 PM", "Thursday": "4:00 PM – 10:00 PM", "Friday": "11:30 AM – 11:00 PM", "Saturday": "11:30 AM – 11:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://hiddentapandbarrel.com/palo-alto", "priceRange": "$$"}, {"id": "ChIJcymZ93y7j4ARGg6qXQT9Adc", "formattedAddress": "3441 Alma St Suite 100, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4191895, "longitude": -122.12491339999998}, "googleMapsUri": "https://maps.google.com/?cid=15492942388324339226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.holysushi.org/", "displayName": {"text": "Holy Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Holy Sushi Small.jpeg", "description": "Casual downtown sushi spot with an extensive menu of rolls, nigiri, and Japanese entrees at approachable everyday prices.", "phone": "(650) 328-3600", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$", "menuUrl": "https://holysushi.org/menu"}, {"id": "ChIJtRLy85ywj4AR38KYK7uJ0Yc", "formattedAddress": "3691 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4184801, "longitude": -122.13286660000001}, "googleMapsUri": "https://maps.google.com/?cid=9786754902236119775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://hongkongrestaurantpl.com/", "displayName": {"text": "Hong Kong Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Hong Kong Restaurant Small.jpeg", "description": "Longstanding Cantonese kitchen on El Camino Real serving traditional homestyle dishes like walnut prawns, beef clay pot, and shrimp chow fun.", "phone": "(650) 325-3788", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJkTR5DEy7j4ARg9mfRMQbDQc", "formattedAddress": "855 El Camino Real Ste 151, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4390997, "longitude": -122.15842599999999}, "googleMapsUri": "https://maps.google.com/?cid=508092862741600643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.horsefeather.com/", "displayName": {"text": "Horsefeather Palo Alto", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Horse Feather Small.jpeg", "description": "SF's beloved New American restaurant at Town and Country Village with Asian-Latin inspired dishes, inventive cocktails, and a bold low-proof program.", "phone": "(650) 231-2177", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 11:00 PM", "Saturday": "5:00 PM – 11:00 PM", "Sunday": "5:00 PM – 9:00 PM"}, "menuUrl": "https://horsefeather.com/pa/menu", "priceRange": "$$$"}, {"id": "ChIJHz4XFiW7j4AR4OCRJ5FPWnQ", "formattedAddress": "855 El Camino Real #60, Palo Alto, CA 94301, USA", "location": {"latitude": 37.438029, "longitude": -122.160035}, "googleMapsUri": "https://maps.google.com/?cid=8384101141156323552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.howiesartisanpizza.com/", "displayName": {"text": "Howie's Artisan Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Howies Artisan Pizza Small.jpeg", "description": "Multiple-time Palo Alto Weekly Best Pizza winner with California thin-crust pies, housemade sausage and ricotta, and fresh handmade pasta since 2009.", "phone": "(650) 326-1111", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.howiesartisanpizza.com/", "priceRange": "$$"}, {"id": "ChIJw9v7bFC7j4ARqHLv-7H0mZQ", "formattedAddress": "715 Stanford Shopping Center, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4427416, "longitude": -122.17288519999998}, "googleMapsUri": "https://maps.google.com/?cid=10707858634323227304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://eatathummus.com/", "displayName": {"text": "Hummus Mediterranean Kitchen", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Hummus Small.jpeg", "description": "Halal Turkish-Mediterranean kitchen at Stanford Shopping Center with fresh-baked pita, housemade hummus, slow-roasted gyro meats, and lahmacun.", "phone": "(650) 321-6602", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.eatathummus.com/palo-alto", "priceRange": "$$"}, {"id": "ChIJBxeyFAC7j4ARQqr2OhsHIfA", "formattedAddress": "460 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4455552, "longitude": -122.16287459999998}, "googleMapsUri": "https://maps.google.com/?cid=17303119056868911682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ikiomakasepaloalto.com/", "displayName": {"text": "Iki Omakase", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Iki Omakase Small.jpeg", "description": "Bay Area-style Edomae omakase at $195 per person from Chef Jiabo Li, trained at Sushi Hon and Sato Omakase in San Francisco.", "phone": "(650) 656-8180", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://www.ikiomakasepaloalto.com/", "priceRange": "$$$$"}, {"id": "ChIJq0UsRXS7j4ARiC9b0hTPMjg", "formattedAddress": "151 California Ave unit e, Palo Alto, CA 94306, USA", "location": {"latitude": 37.428383, "longitude": -122.14229350000001}, "googleMapsUri": "https://maps.google.com/?cid=4049526703294984072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.imperialtreasurepaloalto.com/", "displayName": {"text": "Imperial treasure", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Imperial Treasure Small.jpeg", "description": "Upscale Chinese restaurant on California Avenue with tableside-carved Peking duck, xiao long bao, and Szechuan specialties in an elegant setting.", "phone": "(650) 326-6888", "hours": {"Monday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "menuUrl": "https://www.imperialtreasurepaloalto.com/", "priceRange": "$$$"}, {"id": "ChIJC89ba1Vk3IAR76YZVUjy_gw", "formattedAddress": "3295 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4209587, "longitude": -122.1369645}, "googleMapsUri": "https://maps.google.com/?cid=936452165018953455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://indorestaurant.com/", "displayName": {"text": "INDO Restaurant & Lounge", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Indo Small.jpeg", "description": "Indonesian fusion kitchen on El Camino Real blending native Chef Diana Anwar's authentic recipes with California-French technique and craft cocktails.", "phone": "(650) 332-7777", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://www.indorestaurant.com/", "priceRange": "$$$"}, {"id": "ChIJmVLGgvi6j4ARTTuCWlOncSk", "formattedAddress": "2710 Middlefield Rd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.433177799999996, "longitude": -122.12942319999999}, "googleMapsUri": "https://maps.google.com/?cid=2986352004365957965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.indochineca.com/", "displayName": {"text": "Indochine", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Indochine Small.jpeg", "description": "Longstanding Middlefield Road Thai and Vietnamese kitchen with bold curries, fresh spring rolls, and catering for private events and corporate meetings.", "phone": "(650) 321-8880", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "menuUrl": "https://www.indochinethai.com/", "priceRange": "$$"}, {"id": "ChIJC3GmmeW6j4ARj7GQjerUWUY", "formattedAddress": "341 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.426967999999995, "longitude": -122.144055}, "googleMapsUri": "https://maps.google.com/?cid=5069316959444709775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.italicorestaurant.com/", "displayName": {"text": "iTalico", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/palo-alto/iTalico Small.jpeg", "description": "Michelin Bib Gourmand-recognized California Avenue Italian with Neapolitan-style pizza, housemade pasta, and a Wine Spectator-awarded wine list.", "phone": "(650) 318-6199", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://www.italicorestaurant.com/menu-italico", "priceRange": "$$$"}, {"id": "ChIJ06EYWO-6j4AR5x1zss9iick", "formattedAddress": "477 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.425408399999995, "longitude": -122.14532919999998}, "googleMapsUri": "https://maps.google.com/?cid=14522247117624516071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.izzysbrooklynbagels.com/%20%20%20%20%20https://izzysbb.square.site/#4", "displayName": {"text": "Izzy's Brooklyn Bagels", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/palo-alto/Izzys Brooklyn Bagels Small.jpeg", "description": "Colorful hand-rolled bagels, deli sandwiches, and coffee served daily from 6 AM at a beloved Palo Alto institution.", "phone": "(650) 328-5588", "hours": {"Monday": "6:00 AM – 3:00 PM", "Tuesday": "6:00 AM – 3:00 PM", "Wednesday": "6:00 AM – 3:00 PM", "Thursday": "6:00 AM – 3:00 PM", "Friday": "6:00 AM – 3:00 PM", "Saturday": "6:00 AM – 3:00 PM", "Sunday": "6:00 AM – 3:00 PM"}, "menuUrl": "https://www.izzysbrooklynbagels.com/menu", "priceRange": "$"}, {"id": "ChIJIdvn8OW6j4ARLuSJEAHBDoY", "formattedAddress": "454 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.425861999999995, "longitude": -122.14545299999999}, "googleMapsUri": "https://maps.google.com/?cid=9659870461072892974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.jinshorestaurant.com/", "displayName": {"text": "Jin Sho", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Jinsho Small.jpeg", "description": "Refined California Avenue Japanese restaurant with chefs trained at Nobu NY, praised for pristine miso black cod, blue fin tuna, and seasonal sashimi.", "phone": "(650) 617-3122", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "https://www.jinshorestaurant.com/", "priceRange": "$$$"}, {"id": "ChIJK3g59OW6j4AR5Q5CCNShy3o", "formattedAddress": "405 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4263889, "longitude": -122.14455830000001}, "googleMapsUri": "https://maps.google.com/?cid=8848343824943156965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://joaniescafepaloalto.com/", "displayName": {"text": "Joanie's Cafe", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/palo-alto/Joanies Cafe Small.jpeg", "description": "Four-time Palo Alto Weekly Best Breakfast winner known for generous American portions, smoked salmon omelets, Cobb salad, and hash browns.", "phone": "(650) 326-8485", "hours": {"Monday": "7:00 AM – 3:00 PM", "Tuesday": "7:00 AM – 3:00 PM", "Wednesday": "7:00 AM – 3:00 PM", "Thursday": "7:00 AM – 3:00 PM", "Friday": "7:00 AM – 3:00 PM", "Saturday": "7:00 AM – 3:00 PM", "Sunday": "7:00 AM – 3:00 PM"}, "menuUrl": "http://joaniescafepaloalto.com/menus.html", "priceRange": "$$"}, {"id": "ChIJqQzX9eW6j4ARRQTr9028s7k", "formattedAddress": "451 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.425717399999996, "longitude": -122.1451083}, "googleMapsUri": "https://maps.google.com/?cid=13381245960905753669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.kaligreekkitchen.com/", "displayName": {"text": "Kali Greek Kitchen", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Kali Small.jpeg", "description": "Fast-casual Greek kitchen at Stanford Shopping Center serving housemade gyros, falafel, and fresh-baked pita with a vibrant Mediterranean spread.", "phone": "(650) 485-3134", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://kaligreekkitchen.com/menu", "priceRange": "$$"}, {"id": "ChIJ0dOudwC7j4AREfbInswM9lA", "formattedAddress": "4131 El Camino Way, Palo Alto, CA 94306, USA", "location": {"latitude": 37.413880299999995, "longitude": -122.124792}, "googleMapsUri": "https://maps.google.com/?cid=5833864440281888273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://kanjisushiramen.menu11.com/", "displayName": {"text": "Kanji Sushi & Ramen", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Kanji Sushi Small.jpeg", "description": "Lively Japanese spot combining creative sushi rolls and rich tonkotsu and miso ramen bowls in a casual, welcoming setting.", "phone": "(650) 565-8868", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJMcUKNDi7j4AREnV3Wx48tZg", "formattedAddress": "330 Lytton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4470525, "longitude": -122.16237349999999}, "googleMapsUri": "https://maps.google.com/?cid=11003767365630915858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://kanpaipaloalto.com/", "displayName": {"text": "Kanpai", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Kanpai Small.jpeg", "description": "Intimate Lytton Avenue Japanese restaurant with a tranquil Japan-inspired interior, traditional donburi, sushi, and an extensive sake selection.", "phone": "(650) 321-7796", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:00 PM", "Saturday": "5:00 PM – 9:00 PM", "Sunday": "5:00 PM – 9:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJbxXHNb-7j4ARBRYRzHaw37A", "formattedAddress": "339 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4465508, "longitude": -122.1613223}, "googleMapsUri": "https://maps.google.com/?cid=12745099494758094341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.khazanapaloalto.com/", "displayName": {"text": "Khazana by Chef Sanjeev Kapoor", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Khazana Small.jpeg", "description": "Modern Indian concept on University Avenue from India's most celebrated TV chef with seasonal cocktails and a full bar.", "phone": "(650) 326-0000", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"}, "menuUrl": "https://www.khazanapaloalto.com/", "priceRange": "$$$"}, {"id": "ChIJc5w7vvy6j4ARAFnKDu5CVRI", "formattedAddress": "2680 Middlefield Rd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4334804, "longitude": -122.13011600000002}, "googleMapsUri": "https://maps.google.com/?cid=1321035655920900352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.kirks-steakburgers.com/?utm_source=gmb&utm_medium=organic&utm_campaign=palo+alto", "displayName": {"text": "Kirk's SteakBurgers - Palo Alto", "languageCode": "en"}, "cuisine": "Burgers", "photoUrl": "images/restaurant-photos/palo-alto/Kirks Small.jpeg", "description": "Bay Area burger institution grinding USDA choice steak in-house daily for thick patties and a devoted following for over 40 years.", "phone": "(650) 324-6151", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://kirksburgers.com/menu/", "priceRange": "$$"}, {"id": "ChIJRbsp9uW6j4ARyUJHxK7xFX8", "formattedAddress": "463 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4254329, "longitude": -122.1452003}, "googleMapsUri": "https://maps.google.com/?cid=9157491150247379657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.labodeguita.com/", "displayName": {"text": "La Bodeguita del Medio", "languageCode": "en"}, "cuisine": "Caribbean", "photoUrl": "images/restaurant-photos/palo-alto/La Bodeguita Del Medio Small.jpeg", "description": "Multiple Palo Alto Weekly Best Ambience and Best Latin American winner with Cuban ropa vieja, rum cocktails, and a heated California Avenue patio.", "phone": "(650) 326-7762", "hours": {"Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://labodeguita.com/", "priceRange": "$$"}, {"id": "ChIJp_VW7eW6j4ARpcOR4xWV7bo", "formattedAddress": "415 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4262194, "longitude": -122.1446667}, "googleMapsUri": "https://maps.google.com/?cid=13469585981779854245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.labohemepaloalto.com/", "displayName": {"text": "La Boheme", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/La Boheme Small.jpeg", "description": "Intimate French-Californian dinner spot with refined coq au vin, beef bourguignon, and a thoughtfully curated wine list for special evenings.", "phone": "(650) 328-8180", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://labohemepaloalto.com/menu", "priceRange": "$$$"}, {"id": "ChIJX2dDTkW7j4ARFo59XEuoaPk", "formattedAddress": "3906 Middlefield Rd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4192296, "longitude": -122.11039539999999}, "googleMapsUri": "https://maps.google.com/?cid=17971799354649710102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://lequyorg.wordpress.com/", "displayName": {"text": "LeQuy", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Le Quy Small.jpeg", "description": "Neighborhood Vietnamese restaurant with a loyal Palo Alto following for pho, banh mi, and classic stir-fries at everyday prices.", "phone": "(650) 326-5420", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJScdLwDm7j4ARCbo6bng01sU", "formattedAddress": "271 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.445838599999995, "longitude": -122.16219160000001}, "googleMapsUri": "https://maps.google.com/?cid=14255639362337946121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.localunion271.com/", "displayName": {"text": "Local Union 271", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Local Union 271 Small.jpeg", "description": "Family-owned farm-to-table American kitchen with scratch-made dishes, locally sourced ingredients, and handcrafted decor throughout.", "phone": "(650) 747-0555", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "menuUrl": "https://localunion271.com/menu", "priceRange": "$$$"}, {"id": "ChIJEWzP8uW6j4ARv-d5dhqlvk8", "formattedAddress": "425 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4260752, "longitude": -122.14474440000001}, "googleMapsUri": "https://maps.google.com/?cid=5746211707646764991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.lotusthaibistro.com/home", "displayName": {"text": "Lotus Thai Bistro", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/palo-alto/Lotus Thai Bistro Small.jpeg", "description": "Reliable California Avenue Thai bistro with a broad menu of curries, pad Thai, and noodle dishes for casual lunch and dinner.", "phone": "(650) 329-8424", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://www.lotusthaibistro.com/menu", "priceRange": "$$"}, {"id": "ChIJG7rdAmS7j4ARayztR1t8nNg", "formattedAddress": "488 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4480031, "longitude": -122.15927529999999}, "googleMapsUri": "https://maps.google.com/?cid=15608487140049890411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.louandherberts.com/?y_source=1_MTA2Njc4ODczNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D", "displayName": {"text": "Lou & Herbert's", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Lou & Herberts Cafe Small.jpeg", "description": "All-day neighborhood American cafe serving breakfast and dinner from early morning through evening with a relaxed, welcoming atmosphere.", "phone": "(650) 521-0651", "hours": {"Monday": "7:00 AM – 9:00 PM", "Tuesday": "7:00 AM – 9:00 PM", "Wednesday": "7:00 AM – 9:00 PM", "Thursday": "7:00 AM – 9:00 PM", "Friday": "7:00 AM – 9:00 PM", "Saturday": "7:00 AM – 9:00 PM", "Sunday": "7:00 AM – 9:00 PM"}, "menuUrl": "https://www.louandherberts.com/", "priceRange": "$$"}, {"id": "ChIJq2vyQB67j4ARBkHWA8vFNqU", "formattedAddress": "420 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4458957, "longitude": -122.1632956}, "googleMapsUri": "https://maps.google.com/?cid=11904920140733890822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.macarenarestaurant.com/", "displayName": {"text": "Macarena Restaurant in Palo Alto", "languageCode": "es"}, "cuisine": "Spanish", "photoUrl": "images/restaurant-photos/palo-alto/Macarena Small.jpeg", "phone": "(650) 321-8772", "hours": {"Monday": "11:30 AM – 9:30 PM", "Tuesday": "11:30 AM – 9:30 PM", "Wednesday": "11:30 AM – 9:30 PM", "Thursday": "11:30 AM – 9:30 PM", "Friday": "11:30 AM – 9:30 PM", "Saturday": "11:30 AM – 9:30 PM", "Sunday": "11:30 AM – 9:30 PM"}, "menuUrl": "https://www.macarena.restaurant/menu", "priceRange": "$$", "description": "Traditional Spanish kitchen on Ramona Street with Michelin backing, authentic paellas, croquetas de jamon, and house-made sangria."}, {"id": "ChIJQSEisjC7j4AR3juLmOBOEys", "formattedAddress": "27 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4430264, "longitude": -122.16552460000001}, "googleMapsUri": "https://maps.google.com/?cid=3103911294727306206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://macpark.com/?utm_source=google", "displayName": {"text": "MacArthur Park Restaurant and Bar", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/MacArthur Park Small.jpeg", "phone": "(650) 321-9990", "hours": {"Tuesday": "4:30 PM – 9:00 PM", "Wednesday": "4:30 PM – 9:00 PM", "Thursday": "4:30 PM – 9:00 PM", "Friday": "4:30 PM – 9:00 PM", "Saturday": "4:30 PM – 9:00 PM"}, "menuUrl": "https://macpark.com/menus/", "priceRange": "$$", "description": "Palo Alto landmark since 1972 in a 1918 Julia Morgan building, famous for award-winning mesquite BBQ baby back ribs and prime rib."}, {"id": "ChIJK7u-fDi7j4ARObxmEVWASuE", "formattedAddress": "499 Lytton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.449140899999996, "longitude": -122.1607321}, "googleMapsUri": "https://maps.google.com/?cid=16233928909662895161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.mademoisellecolette.com/", "displayName": {"text": "Mademoiselle Colette", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Mademoisel Colette Small.jpeg", "phone": "(650) 326-8485", "hours": {"Monday": "8:00 AM – 4:00 PM", "Tuesday": "8:00 AM – 4:00 PM", "Wednesday": "8:00 AM – 4:00 PM", "Thursday": "8:00 AM – 4:00 PM", "Friday": "8:00 AM – 4:00 PM", "Saturday": "8:00 AM – 4:00 PM", "Sunday": "8:00 AM – 4:00 PM"}, "menuUrl": "https://www.mademoisellecolette.com/palo-alto-menu/", "priceRange": "$$", "description": "French patisserie on Lytton Avenue known for buttery handmade croissants, elegant tarts, and silky espresso since 2015."}, {"id": "ChIJhdRF_Zq7j4ARNcQ9kDH1444", "formattedAddress": "383 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.447201799999995, "longitude": -122.16081659999999}, "googleMapsUri": "https://maps.google.com/?cid=10296342766321255477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.marugameudon.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ", "displayName": {"text": "Marugame Udon", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Marugame Udon Small.jpeg", "phone": "(650) 681-1280", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "menuUrl": "https://www.marugameudon.com/menu/", "priceRange": "$$", "description": "Japanese fast-casual chain on University Avenue with handcrafted Sanuki-style udon made to order in an open theater kitchen."}, {"id": "ChIJEWzP8uW6j4ARkmIR7vba8es", "formattedAddress": "433 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.426045599999995, "longitude": -122.1448464}, "googleMapsUri": "https://maps.google.com/?cid=17001610822391259794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mediterraneanwraps.com/?utm_source=google", "displayName": {"text": "Mediterranean Wraps", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Mediterranean Wraps Small.jpeg", "phone": "(650) 326-2900", "hours": {"Monday": "10:30 AM – 8:00 PM", "Tuesday": "10:30 AM – 8:00 PM", "Wednesday": "10:30 AM – 8:00 PM", "Thursday": "10:30 AM – 8:00 PM", "Friday": "10:30 AM – 8:00 PM", "Saturday": "11:00 AM – 7:00 PM"}, "priceRange": "$", "description": "Quick-service Mediterranean counter with fresh-made wraps, falafel, and gyros at some of the most affordable prices on California Avenue."}, {"id": "ChIJH_zZcy-7j4ARwPbn3XT47A4", "formattedAddress": "167 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.443697799999995, "longitude": -122.16209699999997}, "googleMapsUri": "https://maps.google.com/?cid=1075507591857567424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mendocinofarms.com/locations/palo-alto", "displayName": {"text": "Mendocino Farms", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Mendocino Farms Small.jpeg", "phone": "(650) 561-1540", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.mendocinofarms.com/menu/palo-alto/", "priceRange": "$$", "description": "California sandwich and salad chain known for fresh ingredients, bold flavor combinations, and extensive options for all dietary preferences."}, {"id": "ChIJgfDze5W7j4ARwXfuLNFJ6jM", "formattedAddress": "640 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4432991, "longitude": -122.16098969999999}, "googleMapsUri": "https://maps.google.com/?cid=3740883603235436481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.meyhouserestaurant.com/", "displayName": {"text": "Meyhouse & Meyhouse Jazz Club", "languageCode": "en"}, "cuisine": "Turkish", "photoUrl": "images/restaurant-photos/palo-alto/Meyhouse Small.jpeg", "phone": "(650) 521-9002", "hours": {"Tuesday": "5:00 PM – 11:00 PM", "Wednesday": "5:00 PM – 11:00 PM", "Thursday": "5:00 PM – 11:00 PM", "Friday": "5:00 PM – 11:00 PM", "Saturday": "5:00 PM – 11:00 PM", "Sunday": "5:00 PM – 11:00 PM"}, "menuUrl": "https://www.meyhouserestaurant.com/palo-alto", "priceRange": "$$$", "description": "Elevated Turkish-Mediterranean dining on Emerson Street with live jazz, tender lamb chops, vibrant mezes, and a curated wine list."}, {"id": "ChIJAQDASDq7j4ARmCZUEs0AJD4", "formattedAddress": "632 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4433231, "longitude": -122.161034}, "googleMapsUri": "https://maps.google.com/?cid=4477704810288916120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mezekebab.com/", "displayName": {"text": "Meze Kebab", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Meze Kebab Small.jpeg", "phone": "(650) 521-0282", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Downtown Palo Alto Turkish kitchen serving housemade hummus, grilled kebabs, and Mediterranean small plates next door to Meyhouse."}, {"id": "ChIJ1QZb_YW7j4ARtxp0qRa2n-o", "formattedAddress": "2305 El Camino Real suite a, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4257573, "longitude": -122.14644109999998}, "googleMapsUri": "https://maps.google.com/?cid=16906431734620625591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mjsushi.net/", "displayName": {"text": "MJ Sushi Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/MJ Sushi Small.jpeg", "phone": "(650) 617-4567", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$", "description": "Casual neighborhood sushi spot with generous portions of fresh nigiri, creative rolls, and beef udon at everyday prices.", "menuUrl": "https://mjsushi.net/menu"}, {"id": "ChIJE4gDeLG7j4AR_kI1Gek5x9E", "formattedAddress": "447 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.425763599999996, "longitude": -122.1449994}, "googleMapsUri": "https://maps.google.com/?cid=15116114347605443326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://namasteindiabistro.com/", "displayName": {"text": "Namaste Indian Cuisine", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Namaste Small.jpeg", "phone": "(650) 462-9696", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "priceRange": "$$", "description": "Neighborhood Indian kitchen with a devoted local following for butter chicken, garlic naan, and a weekday lunch buffet."}, {"id": "ChIJq6oGtOW6j4AROUSVKcfXF0k", "formattedAddress": "2323 Birch St, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4279112, "longitude": -122.14446710000001}, "googleMapsUri": "https://maps.google.com/?cid=5266915539629196345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://naschmarktpaloalto.com/", "displayName": {"text": "Naschmarkt - Palo Alto", "languageCode": "en"}, "cuisine": "German/Austrian", "photoUrl": "images/restaurant-photos/palo-alto/Naschmarkt - Palo Alto Small.jpeg", "phone": "(650) 328-2445", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://naschmarktpaloalto.com/", "priceRange": "$$$", "description": "Family-owned Austrian restaurant on Birch Street with crispy Wiener Schnitzel, double-cooked pork belly, and European beers since 2022."}, {"id": "ChIJiZtnUze7j4ARuAzIjrVxmsM", "formattedAddress": "125 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4439807, "longitude": -122.1637183}, "googleMapsUri": "https://maps.google.com/?cid=14094703008407882936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "New York New York Sandwiches", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/New York New York Sandwiches Small.jpeg", "phone": "(650) 328-8800", "hours": {"Monday": "10:00 AM – 6:00 PM", "Tuesday": "10:00 AM – 6:00 PM", "Wednesday": "10:00 AM – 6:00 PM", "Thursday": "10:00 AM – 6:00 PM", "Friday": "10:00 AM – 6:00 PM", "Saturday": "10:00 AM – 6:00 PM"}, "priceRange": "$", "description": "Longtime Palo Alto deli with thick-cut New York style deli sandwiches and classic cold-cut combinations at affordable prices."}, {"id": "ChIJ0y2QeTm7j4ARoys6DSP_0k4", "formattedAddress": "325 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4455148, "longitude": -122.16014190000001}, "googleMapsUri": "https://maps.google.com/?cid=5679882606078471075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.newyorkpizzapaloalto.com/", "displayName": {"text": "New York Pizza Palo Alto", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/New York Pizza Small.jpeg", "phone": "(650) 326-6973", "hours": {"Monday": "11:00 AM – 11:00 PM", "Tuesday": "11:00 AM – 11:00 PM", "Wednesday": "11:00 AM – 11:00 PM", "Thursday": "11:00 AM – 11:00 PM", "Friday": "11:00 AM – 11:00 PM", "Saturday": "11:00 AM – 11:00 PM", "Sunday": "11:00 AM – 11:00 PM"}, "priceRange": "$", "description": "Classic New York style pizza by the slice or whole pie with a devoted following for its foldable thin crust and late-night hours.", "menuUrl": "https://newyorkpizza.biz/menu"}, {"id": "ChIJofIvZUq7j4ARjUq2CGrWy74", "formattedAddress": "322 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4461163, "longitude": -122.16103849999998}, "googleMapsUri": "https://maps.google.com/?cid=13748318038379612813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.nickthegreek.com/", "displayName": {"text": "Nick The Greek", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Nick The Greek Small.jpeg", "phone": "(650) 382-4010", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "menuUrl": "https://www.nickthegreek.com/menu", "priceRange": "$$", "description": "Fast-casual Greek chain with hand-carved gyros, lamb and chicken souvlaki, and fresh tzatziki served quickly in a modern setting."}, {"id": "ChIJIxzPPjq7j4ARKDndKncRuwU", "formattedAddress": "180 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4437193, "longitude": -122.16147029999999}, "googleMapsUri": "https://maps.google.com/?cid=412942994352453928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.noburestaurants.com/paloalto/home/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp", "displayName": {"text": "Nobu Restaurant Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Nobu Small.jpeg", "phone": "(650) 531-8800", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://noburestaurants.com/paloalto/home", "priceRange": "$$$$", "description": "The Bay Area's only Nobu location at the Epiphany Hotel, co-founded by Chef Matsuhisa and Robert De Niro, with signature black cod miso."}, {"id": "ChIJdwmtjjm7j4ARuuLA95wq7wQ", "formattedAddress": "535 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4449386, "longitude": -122.1614268}, "googleMapsUri": "https://maps.google.com/?cid=355549749245436602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.nolas.com/", "displayName": {"text": "Nola", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Nola Small.jpeg", "phone": "(650) 328-2722", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$$", "description": "New Orleans-inspired kitchen on University Avenue with Cajun and Creole classics, craft cocktails, and a lively all-day dining atmosphere.", "menuUrl": "https://www.nolapaloalto.com/menu"}, {"id": "ChIJweDvIRm7j4AR8IWnMD_jNrI", "formattedAddress": "452 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4476055, "longitude": -122.1595835}, "googleMapsUri": "https://maps.google.com/?cid=12841701248032278000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.o2-valley.com/palo-alto/menu", "displayName": {"text": "O2 Valley", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/O2 Valley Small.jpeg", "phone": "(650) 565-8860", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Chinese hot pot and bubble tea spot with a broad selection of broths, fresh ingredients, and customizable dipping sauces."}, {"id": "ChIJYZChWOa6j4ARo-N9ldn_yos", "formattedAddress": "2111 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.427065, "longitude": -122.14805059999999}, "googleMapsUri": "https://maps.google.com/?cid=10073144826548577187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://odorisushistanford.com/", "displayName": {"text": "Odori Japanese Cuisine", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Odori Sushi Small.jpeg", "phone": "(650) 322-7939", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "priceRange": "$$", "description": "Quiet neighborhood Japanese restaurant with precise sashimi, teriyaki, and bento boxes in a relaxed unhurried setting."}, {"id": "ChIJ0wzVVCC7j4ARETETP1JS-5M", "formattedAddress": "205 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4449633, "longitude": -122.1628192}, "googleMapsUri": "https://maps.google.com/?cid=10663207055928799505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.oklavacafe.com/", "displayName": {"text": "Oklava Cafe", "languageCode": "en"}, "cuisine": "Turkish", "photoUrl": "images/restaurant-photos/palo-alto/Oklava Small.jpeg", "phone": "(650) 617-8888", "hours": {"Monday": "8:00 AM – 8:00 PM", "Tuesday": "8:00 AM – 8:00 PM", "Wednesday": "8:00 AM – 8:00 PM", "Thursday": "8:00 AM – 8:00 PM", "Friday": "8:00 AM – 8:00 PM", "Saturday": "8:00 AM – 8:00 PM", "Sunday": "8:00 AM – 8:00 PM"}, "priceRange": "$$", "description": "Turkish-inspired all-day cafe serving freshly prepared breakfast, housemade pastries, sandwiches, and specialty coffees from early morning."}, {"id": "ChIJz1CaiuS7j4ARJ0FvNTILUoo", "formattedAddress": "164 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4442218, "longitude": -122.163046}, "googleMapsUri": "https://maps.google.com/?cid=9967041235597082919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.onigilly.com/", "displayName": {"text": "Onigilly Japanese Kitchen - Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Onigilly Small.jpeg", "phone": "(650) 561-4868", "hours": {"Monday": "11:00 AM – 8:00 PM", "Tuesday": "11:00 AM – 8:00 PM", "Wednesday": "11:00 AM – 8:00 PM", "Thursday": "11:00 AM – 8:00 PM", "Friday": "11:00 AM – 8:00 PM", "Saturday": "11:00 AM – 8:00 PM", "Sunday": "11:00 AM – 8:00 PM"}, "priceRange": "$", "description": "Japanese rice ball chain with gourmet onigiri stuffed with premium fillings like salmon, tuna, and umeboshi for a quick nutritious meal.", "menuUrl": "https://www.onigilly.com/menu"}, {"id": "ChIJ361H6jm7j4ARk1vmz_dEqwE", "formattedAddress": "261 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4456966, "longitude": -122.16222820000002}, "googleMapsUri": "https://maps.google.com/?cid=120265646191041427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://orenshummus.com/", "displayName": {"text": "Oren's Hummus", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Small.jpeg", "phone": "(650) 752-6492", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://orenshummus.com/menu", "priceRange": "$$", "description": "Israeli-style hummus restaurant on University Avenue with velvety housemade hummus, fresh pita, and a devoted line of regulars."}, {"id": "ChIJe858WAS7j4AR3SYscE3OsZU", "formattedAddress": "855 El Camino Real #162, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4391487, "longitude": -122.15807369999999}, "googleMapsUri": "https://maps.google.com/?cid=10786629414518793949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.orenshummusexpress.com/", "displayName": {"text": "Orens Hummus Express", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Express Small.jpeg", "phone": "(650) 600-8181", "hours": {"Monday": "11:00 AM – 8:00 PM", "Tuesday": "11:00 AM – 8:00 PM", "Wednesday": "11:00 AM – 8:00 PM", "Thursday": "11:00 AM – 8:00 PM", "Friday": "11:00 AM – 8:00 PM", "Saturday": "11:00 AM – 8:00 PM", "Sunday": "11:00 AM – 8:00 PM"}, "priceRange": "$$", "description": "A faster-format companion to Oren's Hummus with the same fresh housemade hummus and falafel in a more casual counter setting."}, {"id": "ChIJPwEoJjq7j4AR4Ymjl9MBLUw", "formattedAddress": "247 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444444, "longitude": -122.16116709999999}, "googleMapsUri": "https://maps.google.com/?cid=5489045529128307169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.osteriatoscanapaloalto.com/", "displayName": {"text": "Osteria Toscana", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/palo-alto/Osteria Small.jpeg", "phone": "(650) 328-5700", "hours": {"Tuesday": "5:00 PM – 9:30 PM", "Wednesday": "5:00 PM – 9:30 PM", "Thursday": "5:00 PM – 9:30 PM", "Friday": "5:00 PM – 9:30 PM", "Saturday": "5:00 PM – 9:30 PM", "Sunday": "5:00 PM – 9:30 PM"}, "priceRange": "$$$", "description": "California Avenue Tuscan trattoria with housemade pasta, braised meats, and a curated Italian wine list in a warm intimate setting.", "menuUrl": "https://www.osteriapaloalto.com/menu"}, {"id": "ChIJJzcXtnO7j4ARGsdmlyvEgYI", "formattedAddress": "711 Stanford Shopping Center, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4427423, "longitude": -122.1729721}, "googleMapsUri": "https://maps.google.com/?cid=9404013188429039386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pacificcatch.com/", "displayName": {"text": "Pacific Catch", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/palo-alto/Pacific Catch Small.jpeg", "phone": "(650) 324-2722", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "West Coast fish house at Stanford Shopping Center serving sustainably sourced seafood with Pacific Rim flavors and Aloha-inspired hospitality."}, {"id": "ChIJyaiRIjq7j4ARpFp0WP-WoNA", "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4438785, "longitude": -122.16178900000001}, "googleMapsUri": "https://maps.google.com/?cid=15033181579607562916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.paloaltocreamery.com/", "displayName": {"text": "Palo Alto Creamery", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Creamery Small.jpeg", "phone": "(650) 327-3136", "hours": {"Monday": "7:00 AM – 9:00 PM", "Tuesday": "7:00 AM – 9:00 PM", "Wednesday": "7:00 AM – 9:00 PM", "Thursday": "7:00 AM – 9:00 PM", "Friday": "7:00 AM – 9:00 PM", "Saturday": "7:00 AM – 9:00 PM", "Sunday": "7:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "A Palo Alto institution since 1923 with made-from-scratch milkshakes, burgers, waffles, and all-American fountain treats served by authentic soda jerks."}, {"id": "ChIJ3dmr7OW6j4ARdga458ttjlg", "formattedAddress": "408 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4266169, "longitude": -122.14491950000001}, "googleMapsUri": "https://maps.google.com/?cid=6381158444563957366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.solrestaurantsca.com/", "displayName": {"text": "Palo Alto Sol", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Sol Small.jpeg", "phone": "(650) 328-8840", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Family-owned Mexican kitchen serving traditional regional dishes from Puebla using family recipes and sustainably sourced local ingredients."}, {"id": "ChIJdas5PTq7j4ARyZEoz7vVmg0", "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4438785, "longitude": -122.16178900000001}, "googleMapsUri": "https://maps.google.com/?cid=980330871517647305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.paloaltocreamery.com/", "displayName": {"text": "Peninsula Fountain Grill", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Peninsula Foutain & Grill Small.jpeg", "phone": "(650) 326-9276", "hours": {"Monday": "7:00 AM – 3:00 PM", "Tuesday": "7:00 AM – 3:00 PM", "Wednesday": "7:00 AM – 3:00 PM", "Thursday": "7:00 AM – 3:00 PM", "Friday": "7:00 AM – 3:00 PM", "Saturday": "7:00 AM – 3:00 PM", "Sunday": "7:00 AM – 3:00 PM"}, "priceRange": "$$", "description": "A beloved Palo Alto lunch counter institution known colloquially as The Creamery, serving burgers, omelets, waffles, and house-made pie since 1923."}, {"id": "ChIJT_HstGa7j4ARLGiY5dPGJDg", "formattedAddress": "185 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444708899999995, "longitude": -122.16304019999998}, "googleMapsUri": "https://maps.google.com/?cid=4045576978677917740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.phohanoiusa.com/", "displayName": {"text": "Phở Hà Nội", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Pho Ha Noi Small.jpeg", "phone": "(650) 561-4862", "hours": {"Monday": "10:00 AM – 9:00 PM", "Tuesday": "10:00 AM – 9:00 PM", "Wednesday": "10:00 AM – 9:00 PM", "Thursday": "10:00 AM – 9:00 PM", "Friday": "10:00 AM – 9:00 PM", "Saturday": "10:00 AM – 9:00 PM", "Sunday": "10:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Vietnamese pho kitchen using ancestral spice recipes, Harris Ranch Angus beef, free-range chicken, and spices harvested from Vietnam's Central Valley mountains."}, {"id": "ChIJCS4OBAC7j4AR3jawAgUTF3I", "formattedAddress": "3864 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4170934, "longitude": -122.1312946}, "googleMapsUri": "https://maps.google.com/?cid=8221060557028996830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://222.pizzaguys.com/", "displayName": {"text": "Pizza Guys", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Pizza Guys Small.jpeg", "phone": "(650) 462-9999", "hours": {"Monday": "10:00 AM – 11:00 PM", "Tuesday": "10:00 AM – 11:00 PM", "Wednesday": "10:00 AM – 11:00 PM", "Thursday": "10:00 AM – 11:00 PM", "Friday": "10:00 AM – 11:00 PM", "Saturday": "10:00 AM – 11:00 PM", "Sunday": "10:00 AM – 11:00 PM"}, "priceRange": "$", "description": "Made-to-order pizza chain with a broad menu of classic and specialty pies available for delivery and pickup until 11 PM daily."}, {"id": "ChIJN1Yf8Dm7j4ARg7totskx17E", "formattedAddress": "220 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4448417, "longitude": -122.16231940000002}, "googleMapsUri": "https://maps.google.com/?cid=12814766007124540291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.pizzamyheart.com/", "displayName": {"text": "Pizza My Heart", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Pizza My Heart Small.jpeg", "phone": "(650) 323-4100", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$", "description": "California surf-culture pizza chain with a devoted Peninsula following for its thin-crust pies, calzones, and affordable slices."}, {"id": "ChIJCS_HTDq7j4ARskXdL5usfsU", "formattedAddress": "651 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4434222, "longitude": -122.1604222}, "googleMapsUri": "https://maps.google.com/?cid=14231001655060284850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.pizzeriadelfina.com/location/palo-alto/", "displayName": {"text": "Pizzeria Delfina - Palo Alto", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Pizzeria Delfina Small.jpeg", "phone": "(650) 353-2208", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "priceRange": "$$", "description": "Peninsula outpost of the James Beard Award-winning SF original, serving Neapolitan-inspired thin-crust pizzas with a daily-changing seasonal menu since 2014."}, {"id": "ChIJHUVxbf67j4ARDeXKRT7FmeA", "formattedAddress": "855 El Camino Real #9, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4384958, "longitude": -122.16064029999998}, "googleMapsUri": "https://maps.google.com/?cid=16184183607182157069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.poke.house/locations/poke-el-camino-palo-alto", "displayName": {"text": "Poke House - Palo Alto", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Poke House Small.jpeg", "phone": "(650) 617-3333", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Build-your-own poke bowl concept inspired by Hawaiian flavors with fresh sustainable fish and a California spirit in every bowl."}, {"id": "ChIJ14CVruW6j4ARoh-i6iIAe5g", "formattedAddress": "250 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.427836, "longitude": -122.14382429999999}, "googleMapsUri": "https://maps.google.com/?cid=10987375865865838498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.protegepaloalto.com/", "displayName": {"text": "Protégé", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Protege Small.jpeg", "phone": "(650) 332-0474", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:00 PM", "Saturday": "5:00 PM – 9:00 PM"}, "priceRange": "$$$$", "description": "Michelin-starred New American restaurant on California Avenue from French Laundry alumni, earning the Bay Area's attention since opening in 2018."}, {"id": "ChIJq6Jj6y-7j4ARmkaTCtvuosg", "formattedAddress": "445 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4257831, "longitude": -122.1449662}, "googleMapsUri": "https://maps.google.com/?cid=14457380378355386010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ramenkowa.com/", "displayName": {"text": "Ramen Kowa", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Ramen Kowa Small.jpeg", "phone": "(650) 600-8288", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "priceRange": "$$", "description": "California Avenue ramen kitchen with rich broths, perfectly fried karaage, and Japanese curry in a neighborhood setting representing Japanese culture and craft."}, {"id": "ChIJR1988Qm7j4ARi_KmggVETuc", "formattedAddress": "541 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4454813, "longitude": -122.16072450000001}, "googleMapsUri": "https://maps.google.com/?cid=16667334061402288779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.ramennagiusa.com/", "displayName": {"text": "Ramen Nagi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Ramen Nagi Small.jpeg", "phone": "(650) 399-9285", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$$", "description": "Revered Tokyo-based ramen chain with its first US location in Palo Alto, famous for intensely rich broth and fully customizable bowls."}, {"id": "ChIJmWwu4jm7j4ARtbXJ6I2CZrg", "formattedAddress": "445 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.445076300000004, "longitude": -122.1631074}, "googleMapsUri": "https://maps.google.com/?cid=13287451296610760117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://rangoonrubypa.com/", "displayName": {"text": "Rangoon Ruby Burmese Cuisine", "languageCode": "en"}, "cuisine": "Burmese", "photoUrl": "images/restaurant-photos/palo-alto/Rangoon Ruby Small.jpeg", "phone": "(650) 323-6543", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Chef Max Lee's celebrated Burmese kitchen with garlic noodles, coconut rice, and nan gyi dok noodles drawing a devoted following for modern Burmese cuisine."}, {"id": "ChIJeYSESRq7j4AREj5yWWRdjrc", "formattedAddress": "201 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.428218, "longitude": -122.14306999999998}, "googleMapsUri": "https://maps.google.com/?cid=13226611841212497426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://rararestaurant.com/", "displayName": {"text": "Rara", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Rara Small.jpeg", "phone": "(650) 521-0768", "hours": {"Monday": "11:30 AM – 9:30 PM", "Tuesday": "11:30 AM – 9:30 PM", "Wednesday": "11:30 AM – 9:30 PM", "Thursday": "11:30 AM – 9:30 PM", "Friday": "11:30 AM – 9:30 PM", "Saturday": "11:30 AM – 9:30 PM", "Sunday": "11:30 AM – 9:30 PM"}, "priceRange": "$$", "description": "A vibrant neighborhood restaurant with a rotating menu of globally inspired small plates, natural wines, and a lively convivial atmosphere."}, {"id": "ChIJlSPd8w67j4ARZy6_cUeyGng", "formattedAddress": "501 Oxford Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4265576, "longitude": -122.1484342}, "googleMapsUri": "https://maps.google.com/?cid=8654425653866606183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://realmediterraneankitchen.com/", "displayName": {"text": "Real Mediterranean Kitchen", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "phone": "(650) 272-6955", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$", "description": "Fresh housemade Mediterranean dishes with halal options, generous portions, and a broad menu of wraps, plates, and sides in a casual setting."}, {"id": "ChIJt-5IyBa7j4ARD5iJZz4Ay0Y", "formattedAddress": "450 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4462476, "longitude": -122.1624397}, "googleMapsUri": "https://maps.google.com/?cid=5101171270952261647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.avenidas.org/programs/cafe/", "displayName": {"text": "Redwood Café by Chef Julien", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/palo-alto/Redwood Cafe Small.jpeg", "phone": "(650) 322-8505", "hours": {"Monday": "7:00 AM – 3:00 PM", "Tuesday": "7:00 AM – 3:00 PM", "Wednesday": "7:00 AM – 3:00 PM", "Thursday": "7:00 AM – 3:00 PM", "Friday": "7:00 AM – 3:00 PM"}, "priceRange": "$$", "description": "Daytime cafe from a French-trained chef with farm-to-table breakfast and lunch using locally procured ingredients near Stanford."}, {"id": "ChIJY0yKLzq7j4ARNNLYPbJMgN8", "formattedAddress": "236 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4441583, "longitude": -122.1609667}, "googleMapsUri": "https://maps.google.com/?cid=16104956595902403124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.reposadorestaurant.com/", "displayName": {"text": "Reposado", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Reposado Small.jpeg", "phone": "(650) 833-3151", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$$", "description": "Palo Alto's premier tequila and mezcal destination with an extensive agave spirits program alongside a full Mexican kitchen and lively bar."}, {"id": "ChIJxQENlQ67j4AReETtyacmZA4", "formattedAddress": "180 El Camino Real Building B, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4447784, "longitude": -122.17224119999999}, "googleMapsUri": "https://maps.google.com/?cid=1036996316291220600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.rh.com/paloalto/restaurant", "displayName": {"text": "RH Rooftop Restaurant at RH Palo Alto", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/RH Rooftop Restaurant Small.jpeg"}, {"id": "ChIJD_pTEsy7j4ARmC6OuQ2GZ0k", "formattedAddress": "473 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4481323, "longitude": -122.15981430000001}, "googleMapsUri": "https://maps.google.com/?cid=5289343680875736728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.roohrestaurants.com/", "displayName": {"text": "ROOH Palo Alto", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Rooh Small.jpeg", "phone": "(650) 304-3963", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "priceRange": "$$$", "description": "Modern Indian kitchen on University Avenue from Chef Sujan Sarkar exploring open-fire cooking and regional Indian flavors in a splashy communal setting."}, {"id": "ChIJrTBLD1K7j4ARMNQr2bMszJ0", "formattedAddress": "855 El Camino Real #157, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4392357, "longitude": -122.1583252}, "googleMapsUri": "https://maps.google.com/?cid=11370512310157956144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.roostandroast.com/", "displayName": {"text": "Roost & Roast", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/palo-alto/Roost & Roast Small.jpeg", "phone": "(650) 600-0012", "hours": {"Monday": "7:00 AM – 5:00 PM", "Tuesday": "7:00 AM – 5:00 PM", "Wednesday": "7:00 AM – 5:00 PM", "Thursday": "7:00 AM – 5:00 PM", "Friday": "7:00 AM – 5:00 PM", "Saturday": "7:00 AM – 5:00 PM", "Sunday": "7:00 AM – 5:00 PM"}, "priceRange": "$$", "description": "All-day breakfast and brunch spot in Town and Country Village from the team behind Hatched, with rotisserie chicken, sandwiches, and craft coffee."}, {"id": "ChIJxRoy-X27j4AR_bK2I_FqBVg", "formattedAddress": "115 Hamilton Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.443025299999995, "longitude": -122.16261410000001}, "googleMapsUri": "https://maps.google.com/?cid=6342593234140050173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sanagus.com/", "displayName": {"text": "San Agus Cocina Urbana & Cocktails", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/San Agus Small.jpeg", "phone": "(650) 521-0082", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 9:00 PM"}, "menuUrl": "https://www.sanagus.com/menu", "priceRange": "$$", "description": "Mexico City street kitchen with 40-plus tequilas and mezcals, pastor tacos, cochinita pibil, and margaritas in a cozy lively setting."}, {"id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU", "displayName": {"text": "Sancho's Taqueria _Lytton", "languageCode": "en"}, "formattedAddress": "491 Lytton Ave, Palo Alto, CA 94301, USA", "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google", "location": {}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _Lytton Small.jpeg", "phone": "(650) 324-8226", "hours": {"Monday": "10:30 AM – 9:00 PM", "Tuesday": "10:30 AM – 9:00 PM", "Wednesday": "10:30 AM – 9:00 PM", "Thursday": "10:30 AM – 9:00 PM", "Friday": "10:30 AM – 9:00 PM", "Saturday": "10:30 AM – 9:00 PM", "Sunday": "10:30 AM – 9:00 PM"}, "menuUrl": "http://sanchostaqueria.com/", "priceRange": "$", "description": "Fast-casual Palo Alto taqueria with a devoted following for fresh fish tacos, California burritos, and loaded nachos at affordable prices."}, {"id": "ChIJc1ATKFa6j4ARZQoyTzpy0-8", "displayName": {"text": "Sancho's Taqueria _middlefield", "languageCode": "en"}, "formattedAddress": "2723 Middlefield Rd, Palo Alto, CA 94306, USA", "googleMapsUri": "https://maps.google.com/?cid=17281281789913074277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google", "location": {}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _middlefield Small.jpeg", "phone": "(650) 324-8226", "hours": {"Monday": "10:30 AM – 9:00 PM", "Tuesday": "10:30 AM – 9:00 PM", "Wednesday": "10:30 AM – 9:00 PM", "Thursday": "10:30 AM – 9:00 PM", "Friday": "10:30 AM – 9:00 PM", "Saturday": "10:30 AM – 9:00 PM", "Sunday": "10:30 AM – 9:00 PM"}, "menuUrl": "http://sanchostaqueria.com/", "priceRange": "$", "description": "Fast-casual Palo Alto taqueria with a devoted following for fresh fish tacos, California burritos, and loaded nachos at affordable prices."}, {"id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg", "formattedAddress": "417 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.426165000000005, "longitude": -122.1446335}, "googleMapsUri": "https://maps.google.com/?cid=8702456324778615288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sekoyapaloalto.com/", "displayName": {"text": "Sekoya Lounge & Kitchen", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/Sekoya Small.jpeg", "phone": "(650) 321-2300", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 11:00 PM", "Saturday": "5:00 PM – 11:00 PM"}, "menuUrl": "https://www.sekoyapaloalto.com/", "priceRange": "$$$", "description": "California Avenue's most sceney restaurant with seasonal New American dishes, a Hibachi grill, house-made breads, and craft cocktails."}, {"id": "ChIJB3hVsb67j4ARXMaL06rl50c", "formattedAddress": "3398 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4194321, "longitude": -122.1356069}, "googleMapsUri": "https://maps.google.com/?cid=5181362418169398876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.showdecarnes.com/", "displayName": {"text": "Show de Carnes Brazilian Steakhouse", "languageCode": "en"}, "cuisine": "Brazilian", "photoUrl": "images/restaurant-photos/palo-alto/Show De Carnes Small.jpeg", "phone": "(650) 384-6720", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://showdecarnes.com/", "priceRange": "$$$$", "description": "Authentic Brazilian churrascaria experience with tableside carving of perfectly grilled meats and the vibrant flavors of Brazil."}, {"id": "ChIJF-8UBYq6j4AR5FBD89Ka32Y", "formattedAddress": "3924 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.41637, "longitude": -122.12979109999999}, "googleMapsUri": "https://maps.google.com/?cid=7412813742490210532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.siamfinethaicuisine.com/", "displayName": {"text": "Siam Fine Thai Cuisine", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/palo-alto/Siam Small.jpeg", "phone": "(650) 856-8998", "hours": {"Monday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "5:00 PM – 9:30 PM", "Sunday": "5:00 PM – 9:30 PM"}, "menuUrl": "https://www.siamfinethai.com/", "priceRange": "$$", "description": "Refined Thai kitchen with a dedicated following for elevated curries, pad Thai, and wok-fired dishes in a comfortable setting."}, {"id": "ChIJs-mASty7j4ARGnTRbfH7NBc", "formattedAddress": "444 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4475699, "longitude": -122.15975949999999}, "googleMapsUri": "https://maps.google.com/?cid=1672238376009430042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.simmer-steamer.com/", "displayName": {"text": "Simmer & Steamer", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Simmer & Steamer Small.jpeg", "phone": "(650) 660-6816", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://order.online/store/simmer-steamer-palo-alto-24754388", "priceRange": "$$", "description": "Taiwanese hot pot and steamer restaurant with individual broth selections, fresh ingredients, and a broad Asian comfort food menu."}, {"id": "ChIJtWFrFmO6j4ARbA4cFdc8mG0", "formattedAddress": "4127 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.413779999999996, "longitude": -122.125402}, "googleMapsUri": "https://maps.google.com/?cid=7897128841063960172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://paloaltotofuhouse.square.site/", "displayName": {"text": "So Gong Dong Tofu House", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/palo-alto/So Gong Dong Tofu House Small.jpeg", "phone": "(650) 424-8282", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.sgdtofu.com/", "priceRange": "$$", "description": "One of the Bay Area's only Korean restaurants specializing in sundubu-jjigae, serving authentic soft tofu soups and stews since 2003."}, {"id": "ChIJaeHk_jm7j4ARZfXh674aljg", "formattedAddress": "168 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.444269399999996, "longitude": -122.16286670000001}, "googleMapsUri": "https://maps.google.com/?cid=4077475919934125413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://cafesprout.com/", "displayName": {"text": "Sprout Cafe", "languageCode": "en"}, "cuisine": "Vegetarian/Vegan", "photoUrl": "images/restaurant-photos/palo-alto/Sprout Cafe Small.jpeg", "phone": "(650) 323-7678", "hours": {"Monday": "11:00 AM – 7:00 PM", "Tuesday": "11:00 AM – 7:00 PM", "Wednesday": "11:00 AM – 7:00 PM", "Thursday": "11:00 AM – 7:00 PM", "Friday": "11:00 AM – 7:00 PM", "Saturday": "11:00 AM – 4:00 PM"}, "menuUrl": "http://www.sproutcafepaloalto.com/", "priceRange": "$$", "description": "University Avenue healthy cafe with fresh salads, grain bowls, and seasonal ingredients popular with the Stanford community."}, {"id": "ChIJ_UjdV--7j4ARt2YRSWk7iZU", "formattedAddress": "369 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.426696899999996, "longitude": -122.14417370000001}, "googleMapsUri": "https://maps.google.com/?cid=10775208906844104375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://squarepieguys.com/", "displayName": {"text": "Square Pie Guys", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Square Pie Guys Small.jpeg", "phone": "(650) 204-8930", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://squarepieguys.com/", "priceRange": "$$", "description": "Detroit-style square pizza with a crispy caramelized cheese crust and creative toppings, a Bay Area cult favorite on University Avenue."}, {"id": "ChIJg5-D9Aq7j4ARGDDPZcQFjmg", "formattedAddress": "3850 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4171877, "longitude": -122.13138039999998}, "googleMapsUri": "https://maps.google.com/?cid=7533965567717224472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://stateofmindslicehouse.com/", "displayName": {"text": "State of Mind Slice House", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/State of Mind Small.jpeg", "phone": "(650) 561-3995", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.stateofmindpub.com/", "priceRange": "$$", "description": "New York-style pizza pub with generous slices, craft beer on tap, and a casual neighborhood atmosphere perfect for watching sports."}, {"id": "ChIJ-a6t5Tm7j4ARsEz4451NPDk", "formattedAddress": "209 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4450435, "longitude": -122.1628635}, "googleMapsUri": "https://maps.google.com/?cid=4124256699294436528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://steampaloalto.com/", "displayName": {"text": "Steam", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Steam Small.jpeg", "phone": "(650) 322-1888", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "http://www.steampaloalto.com/", "priceRange": "$$", "description": "Palo Alto's go-to dim sum restaurant with a broad menu of steamed and fried dumplings, rice noodles, and Taiwanese specialties."}, {"id": "ChIJ8RX-6uW6j4ARyxo26LXPQ0k", "formattedAddress": "406 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.42663900000001, "longitude": -122.14495509999998}, "googleMapsUri": "https://maps.google.com/?cid=5279291568400243403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sunofwolfpa.com/", "displayName": {"text": "SUN of WOLF", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/Sun of Wolf Small.jpeg", "phone": "(650) 561-3329", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:00 PM", "Saturday": "5:00 PM – 9:00 PM"}, "menuUrl": "https://www.sunofwolf.com/", "priceRange": "$$", "description": "Palo Alto Weekly Best Mexican winner with inventive Mexico City inspired tacos, carnitas, and craft cocktails in an intimate setting."}, {"id": "ChIJaWnuL-e6j4ARR6YIY348nZk", "formattedAddress": "1921 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.428562, "longitude": -122.14967199999998}, "googleMapsUri": "https://maps.google.com/?cid=11069069972671604295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://sundancethesteakhouse.com/", "displayName": {"text": "Sundance The Steakhouse", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/palo-alto/Sundance Small.jpeg", "phone": "(650) 321-6798", "hours": {"Monday": "5:00 PM – 9:30 PM", "Tuesday": "5:00 PM – 9:30 PM", "Wednesday": "5:00 PM – 9:30 PM", "Thursday": "5:00 PM – 9:30 PM", "Friday": "4:30 PM – 10:00 PM", "Saturday": "4:30 PM – 10:00 PM", "Sunday": "4:30 PM – 9:00 PM"}, "menuUrl": "https://sundancethesteakhouse.com/", "priceRange": "$$$$", "description": "A Palo Alto institution since 1974 with fireplaces, dark wood booths, slow-roasted prime rib, and hand-cut USDA Prime steaks."}, {"id": "ChIJHz4XFiW7j4AR5t10topddew", "formattedAddress": "855 El Camino Real Ste 158, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4392636, "longitude": -122.1582398}, "googleMapsUri": "https://maps.google.com/?cid=17038627615574121958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.sushihouse855.com/", "displayName": {"text": "Sushi House", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Suhi House Small.jpeg", "phone": "(650) 493-2700", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "http://www.sushihousepa.com/", "priceRange": "$$", "description": "Longtime Palo Alto neighborhood sushi restaurant with fresh traditional nigiri, rolls, and Japanese entrees in a welcoming setting."}, {"id": "ChIJ-cKKzxa7j4ARMboigp4Thvk", "formattedAddress": "180 El Camino Real #700a, Palo Alto, CA 94304, USA", "location": {"latitude": 37.443218, "longitude": -122.172501}, "googleMapsUri": "https://maps.google.com/?cid=17980080133832358449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sushiroku.com/", "displayName": {"text": "Sushi Roku Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Sushi Roku Small.jpeg", "phone": "(650) 543-1555", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 11:00 PM", "Friday": "5:00 PM – 11:00 PM", "Saturday": "5:00 PM – 11:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "menuUrl": "https://www.sushiroku.com/", "priceRange": "$$$", "description": "Upscale contemporary Japanese restaurant at Stanford Shopping Center with premium nigiri, signature rolls, and creative cocktails."}, {"id": "ChIJgSKtATq7j4AR1LVZ7VN8W3I", "formattedAddress": "150 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.443996999999996, "longitude": -122.162979}, "googleMapsUri": "https://maps.google.com/?cid=8240316643110663636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sweetmaplesf.com/", "displayName": {"text": "Sweet Maple", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/palo-alto/Sweet Maple Small.jpeg", "phone": "(650) 321-9338", "hours": {"Monday": "8:00 AM – 2:30 PM", "Tuesday": "8:00 AM – 2:30 PM", "Wednesday": "8:00 AM – 2:30 PM", "Thursday": "8:00 AM – 2:30 PM", "Friday": "8:00 AM – 2:30 PM", "Saturday": "8:00 AM – 2:30 PM", "Sunday": "8:00 AM – 2:30 PM"}, "menuUrl": "https://www.sweetmaplesf.com/", "priceRange": "$$", "description": "SF brunch import beloved for thick-cut millionaire bacon, fluffy pancakes, and creative egg dishes with lines forming before opening."}, {"id": "ChIJUYJ9Ejm7j4AR10nzVhZIoYo", "formattedAddress": "560 Waverley St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.446472199999995, "longitude": -122.1596583}, "googleMapsUri": "https://maps.google.com/?cid=9989344709269735895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://taipanpaloalto.com/", "displayName": {"text": "Tai Pan", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Tai Pan Small.jpeg", "phone": "(650) 329-9168", "hours": {"Monday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM", "Tuesday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM", "Wednesday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM", "Thursday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM", "Friday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM", "Saturday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM", "Sunday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM"}, "menuUrl": "http://taipanpaloalto.com/menu.html", "priceRange": "$$$", "description": "Upscale Hong Kong-style Cantonese restaurant on Waverly Street with honey-smoked sea bass, Shanghai crab, and an elegant East-meets-West dining room since 2005."}, {"id": "ChIJwWcdxzi7j4ARSPpV37nhr58", "formattedAddress": "546 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4488748, "longitude": -122.15841719999997}, "googleMapsUri": "https://maps.google.com/?cid=11506663761387059784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tamarinerestaurant.com/", "displayName": {"text": "Tamarine Restaurant & Gallery", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/palo-alto/Tamarine Small.jpeg", "phone": "(650) 325-8500", "hours": {"Monday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM", "Tuesday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM", "Wednesday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM", "Thursday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM", "Friday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM", "Saturday": "5:30 PM - 9:30 PM", "Sunday": "5:30 PM - 9:30 PM"}, "menuUrl": "https://www.tamarinerestaurant.com/", "priceRange": "$$$", "description": "Upscale Vietnamese restaurant and art gallery on University Avenue from Chef Tammy Huynh, celebrated for shaking beef, garlic tiger prawns, and rotating Vietnamese artwork."}, {"id": "ChIJsZYrFAC7j4ARgZiNdSEjGsQ", "formattedAddress": "461 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4450425, "longitude": -122.16305779999999}, "googleMapsUri": "https://maps.google.com/?cid=14130645407441459329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tanevegan.com/locations/palo-alto", "displayName": {"text": "Tane Vegan Izakaya", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Tane Vegan Izakaya Small.jpeg", "phone": "(650) 384-6300", "hours": {"Tuesday": "5:00 PM - 9:30 PM", "Wednesday": "5:00 PM - 9:30 PM", "Thursday": "5:00 PM - 9:30 PM", "Friday": "4:30 PM - 10:00 PM", "Saturday": "4:30 PM - 10:00 PM", "Sunday": "5:00 PM - 9:30 PM"}, "menuUrl": "https://www.tanevegan.com/", "priceRange": "$$$", "description": "Palo Alto's only 100% plant-based sushi bar with gluten-free rolls, location-exclusive Hawaiian poke bowls, and king oyster mushroom nigiri."}, {"id": "ChIJ7f7sE4u6j4ARzIuv160J9jU", "formattedAddress": "3636 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4182304, "longitude": -122.13318509999998}, "googleMapsUri": "https://maps.google.com/?cid=3888305970533600204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://taqueriaelgrullense.shop/", "displayName": {"text": "Taqueria El Grullense M&G", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/palo-alto/Taqueria El Grullense M&G Small.jpeg", "phone": "(650) 251-9317", "hours": {"Monday": "8:00 AM - 11:00 PM", "Tuesday": "8:00 AM - 11:00 PM", "Wednesday": "8:00 AM - 11:00 PM", "Thursday": "8:00 AM - 11:00 PM", "Friday": "8:00 AM - 11:00 PM", "Saturday": "8:00 AM - 11:00 PM", "Sunday": "8:00 AM - 11:00 PM"}, "menuUrl": "https://taqueriaelgrullense.shop/", "priceRange": "$", "description": "Authentic Mexican taqueria on El Camino Real open early until midnight with fresh tacos, burritos, tortas, and seafood dishes at street-food prices."}, {"id": "ChIJN1Zo_zi7j4ARIT2NbTuxNZQ", "formattedAddress": "423 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4475347, "longitude": -122.1603022}, "googleMapsUri": "https://maps.google.com/?cid=10679636960178158881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.taste-paloalto.com/", "displayName": {"text": "Taste", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Taste Small.jpeg", "phone": "(650) 323-6488", "hours": {"Monday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM", "Tuesday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM", "Wednesday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM", "Thursday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM", "Friday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM", "Saturday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM", "Sunday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM"}, "menuUrl": "https://www.tastepaloalto.com/", "priceRange": "$$", "description": "All-day American bistro on Emerson Street with rotating seasonal menus, craft cocktails, and a convivial downtown atmosphere popular for lunch and dinner."}, {"id": "ChIJg2K45--7j4ARb3QmTT7tfM4", "formattedAddress": "443 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.445152199999995, "longitude": -122.16302990000001}, "googleMapsUri": "https://maps.google.com/?cid=14879028120763397231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tastypotcalifornia.com/", "displayName": {"text": "Tasty Pot", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Tasty Pot Small.jpeg", "phone": "(650) 380-6975", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 9:30 PM"}, "menuUrl": "https://www.tastypotcalifornia.com/", "priceRange": "$$", "description": "Taiwanese individual hot pot restaurant with customizable broth options, fresh proteins, and a broad selection of Asian comfort food accompaniments."}, {"id": "ChIJVVUFazu7j4ARLXVs7f4wu-M", "formattedAddress": "800 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4422042, "longitude": -122.1590523}, "googleMapsUri": "https://maps.google.com/?cid=16409763538717668653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://tavernarestaurant.net/", "displayName": {"text": "TAVERNA", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/palo-alto/Taverna Small.jpeg", "phone": "(650) 304-3840", "hours": {"Monday": "11:30 AM - 9:00 PM", "Tuesday": "11:30 AM - 9:00 PM", "Wednesday": "11:30 AM - 9:00 PM", "Thursday": "11:30 AM - 9:00 PM", "Friday": "11:30 AM - 9:00 PM", "Saturday": "11:30 AM - 9:00 PM", "Sunday": "11:30 AM - 9:00 PM"}, "menuUrl": "https://www.tavernarestaurant.net/", "priceRange": "$$$", "description": "Farm-to-table upscale Greek kitchen on Emerson Street since 2018, with wood-fired lamb chops, grilled Spanish octopus, and a curated all-Greek wine list."}, {"id": "ChIJU-h6-Q27j4AReNRuzo2WlTM", "formattedAddress": "855 El Camino Real #130, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4383765, "longitude": -122.1583028}, "googleMapsUri": "https://maps.google.com/?cid=3717042603262137464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.telefericbarcelona.com/", "displayName": {"text": "Telefèric Barcelona Palo Alto", "languageCode": "en"}, "cuisine": "Spanish", "photoUrl": "images/restaurant-photos/palo-alto/Teleferic Small.jpeg", "phone": "(657) 297-5664", "hours": {"Monday": "11:30 AM - 9:15 PM", "Tuesday": "11:30 AM - 9:15 PM", "Wednesday": "11:30 AM - 9:15 PM", "Thursday": "11:30 AM - 9:15 PM", "Friday": "11:30 AM - 10:15 PM", "Saturday": "11:00 AM - 10:15 PM", "Sunday": "11:00 AM - 9:15 PM"}, "menuUrl": "https://www.telefericbarcelona.com/palo-alto", "priceRange": "$$$", "description": "Palo Alto's original Spanish restaurant at Town and Country Village, with seven paella varieties, 200-plus Spanish wines, hand-carved jamón ibérico, and private dining near Stanford."}, {"id": "ChIJtXQ38-W6j4AR44dFBS3v120", "formattedAddress": "448 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4259205, "longitude": -122.14547429999999}, "googleMapsUri": "https://maps.google.com/?cid=7915057846767945699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.terunpizza.com/", "displayName": {"text": "Terun Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/palo-alto/Terun Small.jpeg", "phone": "(650) 600-8310", "hours": {"Monday": "5:00 PM - 9:00 PM", "Tuesday": "5:00 PM - 9:00 PM", "Wednesday": "5:00 PM - 9:00 PM", "Thursday": "5:00 PM - 9:00 PM", "Friday": "5:00 PM - 9:30 PM", "Saturday": "5:00 PM - 9:30 PM", "Sunday": "5:00 PM - 9:00 PM"}, "menuUrl": "https://www.terunpizza.com/", "priceRange": "$$", "description": "Verace Pizza Napoletana-certified California Avenue pizzeria since 2013 with wood-fired Neapolitan pies, San Marzano tomato sauce, and a shaded outdoor veranda."}, {"id": "ChIJ-zxk19G7j4ARJqNjr1SADak", "formattedAddress": "2450 Park Blvd, Palo Alto, CA 94306, USA", "location": {"latitude": 37.428022899999995, "longitude": -122.14277039999999}, "googleMapsUri": "https://maps.google.com/?cid=12181533668315210534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://dinefarmfresh.com/", "displayName": {"text": "The Farm", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/The Farm Small.jpeg", "phone": "(650) 656-9831", "hours": {"Monday": "7:30 AM - 6:00 PM", "Tuesday": "7:30 AM - 6:00 PM", "Wednesday": "7:30 AM - 8:00 PM", "Thursday": "7:30 AM - 8:00 PM", "Friday": "7:30 AM - 8:00 PM", "Saturday": "8:00 AM - 8:00 PM", "Sunday": "8:00 AM - 6:00 PM"}, "menuUrl": "https://dinefarmfresh.com/", "priceRange": "$$", "description": "Farm-fresh all-day cafe at Stanford Shopping Center with house-made pastries, seasonal bowls, and locally sourced ingredients from morning through early evening."}, {"id": "ChIJe5AqVr3Lj4AROFFL6ZwfRH0", "formattedAddress": "4131 El Camino Real #100, Palo Alto, CA 94306, USA", "location": {"latitude": 37.413300299999996, "longitude": -122.1251502}, "googleMapsUri": "https://maps.google.com/?cid=9026374311946703160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.themalawahbar.com/", "displayName": {"text": "The Ma'lawah Bar", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/palo-alto/The Malawah Bar Small.jpeg", "phone": "(408) 489-7227", "hours": {"Monday": "9:00 AM - 7:00 PM", "Tuesday": "9:00 AM - 7:00 PM", "Wednesday": "9:00 AM - 7:00 PM", "Thursday": "9:00 AM - 7:00 PM", "Friday": "9:00 AM - 2:00 PM", "Sunday": "9:00 AM - 5:00 PM"}, "menuUrl": "https://www.themalawahbar.com/", "priceRange": "$$", "description": "Palo Alto's only Yemenite-Israeli cafe, kosher-certified, specializing in handmade malawach flatbread, slow-baked jachnun, tahini shakes, and sabich sandwiches."}, {"id": "ChIJD9VYOzS7j4ARus4pfa0zkJU", "formattedAddress": "180 El Camino Real, Palo Alto, CA 94304, USA", "location": {"latitude": 37.443094699999996, "longitude": -122.17259729999999}, "googleMapsUri": "https://maps.google.com/?cid=10777170728519847610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.themelt.com/", "displayName": {"text": "The Melt", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/The Melt Small.jpeg", "phone": "(650) 250-4828", "hours": {"Monday": "10:00 AM - 10:00 PM", "Tuesday": "10:00 AM - 10:00 PM", "Wednesday": "10:00 AM - 10:00 PM", "Thursday": "10:00 AM - 10:00 PM", "Friday": "10:00 AM - 10:00 PM", "Saturday": "10:00 AM - 10:00 PM", "Sunday": "10:00 AM - 10:00 PM"}, "menuUrl": "https://www.themelt.com/", "priceRange": "$", "description": "Tech-forward grilled cheese concept serving melty sandwiches with quality ingredients, soups, and shakes available for quick dine-in or delivery."}, {"id": "ChIJiXr_Zze7j4ARgRtbgk7Len4", "formattedAddress": "412 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4451556, "longitude": -122.16393889999999}, "googleMapsUri": "https://maps.google.com/?cid=9113820333992516481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.thepatiopa.com/", "displayName": {"text": "The Patio @ Rudy's", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/palo-alto/The Patio Small.jpeg", "phone": "(650) 322-6839", "hours": {"Monday": "11:00 AM - 12:00 AM", "Tuesday": "11:00 AM - 12:00 AM", "Wednesday": "11:00 AM - 12:00 AM", "Thursday": "11:00 AM - 12:00 AM", "Friday": "11:00 AM - 12:00 AM", "Saturday": "11:00 AM - 12:00 AM", "Sunday": "11:00 AM - 12:00 AM"}, "menuUrl": "https://thepatiopaloalto.com/", "priceRange": "$$", "description": "Palo Alto's go-to sports bar and neighborhood pub with cold draft beer, casual American food, multiple big screens, and a large outdoor patio open until midnight."}, {"id": "ChIJRzi6GDq7j4ARVC4ZzH-ZgJU", "formattedAddress": "547 Emerson St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4444157, "longitude": -122.16174609999999}, "googleMapsUri": "https://maps.google.com/?cid=10772779082834325076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://therosepa.com/", "displayName": {"text": "The Rose & Crown", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/palo-alto/The Rose & Crown Small.jpeg", "phone": "(650) 327-7673", "hours": {"Monday": "11:30 AM - 12:00 AM", "Tuesday": "11:30 AM - 12:00 AM", "Wednesday": "11:30 AM - 12:00 AM", "Thursday": "11:30 AM - 12:00 AM", "Friday": "11:30 AM - 12:00 AM", "Saturday": "11:30 AM - 12:00 AM", "Sunday": "11:30 AM - 12:00 AM"}, "menuUrl": "http://roseandcrownpa.com/", "priceRange": "$$", "description": "Palo Alto's oldest bar, the first in the area to serve craft beer, with award-winning fish and chips, darts, and a welcoming unpretentious pub atmosphere since 1982."}, {"id": "ChIJOT4Wp3m6j4ARL_3gCaC-HJ0", "formattedAddress": "4269 W El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4075646, "longitude": -122.1205417}, "googleMapsUri": "https://maps.google.com/?cid=11321133157872368943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.theseausa.com/", "displayName": {"text": "The Sea by Alexander's Steakhouse", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/palo-alto/The Sea Small.jpeg", "phone": "(650) 213-1111", "hours": {"Tuesday": "5:30 PM - 9:30 PM", "Wednesday": "5:30 PM - 9:30 PM", "Thursday": "5:30 PM - 9:30 PM", "Friday": "5:30 PM - 9:30 PM", "Saturday": "5:30 PM - 9:30 PM"}, "menuUrl": "https://theseausa.com/", "priceRange": "$$$$", "description": "An exceptional seafood-focused fine dining restaurant from the Alexander's Steakhouse group, showcasing pristine raw bar selections, Japanese-influenced preparations, and an extensive wine program."}, {"id": "ChIJGaMq8zm7j4ARYe6wItroPNY", "formattedAddress": "520 Ramona St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4448271, "longitude": -122.16193469999999}, "googleMapsUri": "https://maps.google.com/?cid=15437469646301752929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.thepawineroom.com/", "displayName": {"text": "The Wine Room", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/palo-alto/The Wine Room Small.jpeg", "phone": "(650) 322-1292", "hours": {"Monday": "4:00 PM - 12:00 AM", "Tuesday": "4:00 PM - 12:00 AM", "Wednesday": "4:00 PM - 12:00 AM", "Thursday": "4:00 PM - 12:00 AM", "Friday": "4:00 PM - 12:00 AM", "Saturday": "4:00 PM - 12:00 AM", "Sunday": "4:00 PM - 12:00 AM"}, "menuUrl": "https://thepawineroom.com/", "priceRange": "$$", "description": "Cozy downtown wine bar open until midnight with a curated global wine list, tapas-style bites, and a welcoming Mediterranean-inspired atmosphere ideal for after-dinner drinks."}, {"id": "ChIJrW5Qkga7j4ARq0q-MRGHCjw", "formattedAddress": "3345 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4202733, "longitude": -122.1360386}, "googleMapsUri": "https://maps.google.com/?cid=4326418899961531051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tiemuzhencuisine.fronteats.com/#/pos/order/index?channelOrderingId=3", "displayName": {"text": "Tie Mu Zhen Cuisine 铁木真内蒙菜", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Tie Mu Zhen  Small.jpeg", "phone": "(650) 565-8868", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:30 PM"}, "menuUrl": "https://www.tiemuzhencuisineca.com/", "priceRange": "$$", "description": "Inner Mongolian restaurant on El Camino Real with hand-pulled noodles, lamb-based dishes, and bold northern Chinese flavors rarely found on the Peninsula."}, {"id": "ChIJgVkH4BO7j4AR9Qj0HVCbuy8", "formattedAddress": "540 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.445247099999996, "longitude": -122.16098969999999}, "googleMapsUri": "https://maps.google.com/?cid=3439513508829726965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tongsui.us/", "displayName": {"text": "Tong Sui Desserts & Drinks (Palo Alto)", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/palo-alto/Tong Sui Small.jpeg", "phone": "(650) 485-2364", "hours": {"Monday": "12:00 PM - 11:00 PM", "Tuesday": "12:00 PM - 11:00 PM", "Wednesday": "12:00 PM - 11:00 PM", "Thursday": "12:00 PM - 11:00 PM", "Friday": "12:00 PM - 11:00 PM", "Saturday": "12:00 PM - 11:00 PM", "Sunday": "12:00 PM - 11:00 PM"}, "menuUrl": "https://tongsui.co/", "priceRange": "$", "description": "Hong Kong-style dessert cafe open late with silky tong sui sweet soups, mango sago, durian dishes, and bubble tea in a casual relaxed setting."}, {"id": "ChIJexdrvjK7j4AR--GDhkDzYds", "formattedAddress": "700 Welch Rd, Palo Alto, CA 94305, USA", "location": {"latitude": 37.437217, "longitude": -122.173251}, "googleMapsUri": "https://maps.google.com/?cid=15808183625507398139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tootsiesbarn.com/", "displayName": {"text": "Tootsie's At The Stanford Barn", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/palo-alto/Tootsies Small.jpeg", "phone": "(650) 300-2298", "hours": {"Monday": "7:00 AM - 3:00 PM", "Tuesday": "7:00 AM - 3:00 PM", "Wednesday": "7:00 AM - 3:00 PM", "Thursday": "7:00 AM - 3:00 PM", "Friday": "7:00 AM - 3:00 PM"}, "menuUrl": "https://www.tootsiesbarn.com/", "priceRange": "$$", "description": "Weekday-only all-day breakfast and lunch cafe inside the historic Stanford Barn with seasonal farm-to-table dishes, craft coffee, and a sun-filled industrial-chic interior."}, {"id": "ChIJt9KIrTW7j4ARjb1bTp5MW-E", "formattedAddress": "180 El Camino Real Ste 1140, Palo Alto, CA 94304, USA", "location": {"latitude": 37.443920999999996, "longitude": -122.17032299999998}, "googleMapsUri": "https://maps.google.com/?cid=16238657124217634189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.truefoodkitchen.com/locations/paloalto/", "displayName": {"text": "True Food Kitchen", "languageCode": "en"}, "cuisine": "Vegetarian/Vegan", "photoUrl": "images/restaurant-photos/palo-alto/True Food Small.jpeg", "phone": "(650) 384-6815", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "10:00 AM - 10:00 PM", "Sunday": "10:00 AM - 9:00 PM"}, "menuUrl": "https://www.truefoodkitchen.com/", "priceRange": "$$", "description": "Anti-inflammatory focused restaurant at Stanford Shopping Center with seasonal menus built around Dr. Andrew Weil's nutritional principles and bold plant-forward dishes."}, {"id": "ChIJGe-xIgC7j4ARqZPigyQDpDE", "formattedAddress": "448 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4475872, "longitude": -122.15963889999999}, "googleMapsUri": "https://maps.google.com/?cid=3576987459405386665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Urban Momo", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Urban Momo Small.jpeg", "phone": "(650) 322-2400", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:30 PM"}, "menuUrl": "https://www.urbanmomo.com/", "priceRange": "$$", "description": "Nepali restaurant in downtown Palo Alto serving handmade momos, gorkhali chicken, and Himalayan street food as part of the neighborhood's new wave of openings."}, {"id": "ChIJISfg6jK7j4AR1QjILutJPms", "formattedAddress": "700 Welch Rd #110, Palo Alto, CA 94304, USA", "location": {"latitude": 37.437207199999996, "longitude": -122.17326430000001}, "googleMapsUri": "https://maps.google.com/?cid=7727695285065353429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.vinaenoteca.com/", "displayName": {"text": "Vina Enoteca", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/palo-alto/Vina Enoteca Small.jpeg", "phone": "(650) 328-0400", "hours": {"Tuesday": "5:00 PM - 9:00 PM", "Wednesday": "5:00 PM - 9:00 PM", "Thursday": "5:00 PM - 9:00 PM", "Friday": "5:00 PM - 9:00 PM", "Saturday": "5:00 PM - 9:00 PM"}, "menuUrl": "https://www.vinaenoteca.com/", "priceRange": "$$$", "description": "Michelin-recognized Italian restaurant inside the historic 1888 Stanford Barn with wood-fired pizza, housemade pasta, and a curated Italian wine program."}, {"id": "ChIJ2S5OXzi7j4ARGnV-XOyU-4g", "formattedAddress": "431 Kipling St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.448325, "longitude": -122.1604148}, "googleMapsUri": "https://maps.google.com/?cid=9870646751197558042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://vinolocale.com/", "displayName": {"text": "Vino Locale", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/palo-alto/Vino Locale Small.jpeg", "phone": "(650) 328-0450", "hours": {"Tuesday": "4:00 PM - 9:00 PM", "Wednesday": "4:00 PM - 9:00 PM", "Thursday": "4:00 PM - 9:00 PM", "Friday": "4:00 PM - 9:00 PM", "Saturday": "12:00 PM - 9:00 PM"}, "menuUrl": "https://vinolocale.com/", "priceRange": "$$", "description": "Relaxed downtown wine bar with a hidden garden patio, global wine flights, craft beer, Mediterranean small plates, and a devoted happy hour crowd."}, {"id": "ChIJ82AEPzi7j4ARaPsjO4AFqR8", "formattedAddress": "South, 855 El Camino Real Building 4, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4382288, "longitude": -122.1587727}, "googleMapsUri": "https://maps.google.com/?cid=2281360734546033512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://wildseedsf.com/", "displayName": {"text": "Wildseed", "languageCode": "en"}, "cuisine": "Vegetarian/Vegan", "photoUrl": "images/restaurant-photos/palo-alto/Wildseed Small.jpeg", "phone": "(650) 433-9990", "hours": {"Monday": "11:30 AM - 9:00 PM", "Tuesday": "11:30 AM - 9:00 PM", "Wednesday": "11:30 AM - 9:00 PM", "Thursday": "11:30 AM - 9:00 PM", "Friday": "11:30 AM - 9:00 PM", "Saturday": "11:30 AM - 9:00 PM", "Sunday": "11:30 AM - 9:00 PM"}, "menuUrl": "https://www.wildseedsf.com/", "priceRange": "$$", "description": "Plant-based fine dining from the Union Square Hospitality Group with an elegant menu of globally inspired vegetable-forward dishes and zero compromise on technique or presentation."}, {"id": "ChIJk0N57Sm7j4ARq4jfPi88hKY", "formattedAddress": "180 Stanford Shopping Center Unit 240-C, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4425494, "longitude": -122.1705679}, "googleMapsUri": "https://maps.google.com/?cid=11998781480837810347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://worldwrapps.com/", "displayName": {"text": "World Wrapps", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/palo-alto/World Wrapps Small.jpeg", "phone": "(650) 328-9727", "hours": {"Monday": "10:30 AM - 8:00 PM", "Tuesday": "10:30 AM - 8:00 PM", "Wednesday": "10:30 AM - 8:00 PM", "Thursday": "10:30 AM - 8:00 PM", "Friday": "10:30 AM - 8:00 PM", "Saturday": "10:30 AM - 8:00 PM", "Sunday": "10:30 AM - 8:00 PM"}, "menuUrl": "https://www.worldwrapps.com/", "priceRange": "$", "description": "California-born wrap concept with globally inspired fillings including teriyaki chicken, Thai peanut, and Mediterranean veggie in fresh whole wheat and spinach tortillas."}, {"id": "ChIJpTk-VTi7j4ARpZhH_XR68_I", "formattedAddress": "403 University Ave, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4473827, "longitude": -122.1604918}, "googleMapsUri": "https://maps.google.com/?cid=17506470819403372709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.yayoi-us.com/", "displayName": {"text": "YAYOI Palo Alto", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/palo-alto/Yayoi Small.jpeg", "phone": "(650) 843-1563", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.yayoi-us.com/", "priceRange": "$$", "description": "Japanese teishoku restaurant chain serving set meal combos with grilled fish, rice, miso soup, and pickles in a clean efficient fast-casual format."}, {"id": "opening_yutori", "formattedAddress": "3375 El Camino Real, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4242, "longitude": -122.1139}, "googleMapsUri": "https://maps.google.com/?q=3375+El+Camino+Real,+Palo+Alto,+CA", "websiteUri": "https://yutori-pa.com", "displayName": {"text": "Yutori", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(408) 239-3484", "hours": {"Monday": "8:00 AM - 5:00 PM", "Tuesday": "8:00 AM - 5:00 PM", "Wednesday": "8:00 AM - 5:00 PM", "Thursday": "8:00 AM - 5:00 PM", "Friday": "8:00 AM - 5:00 PM", "Saturday": "8:00 AM - 5:00 PM", "Sunday": "8:00 AM - 5:00 PM"}, "description": "A California-inspired Japanese cafe and konbini serving matcha drinks, fresh onigiri, seasonal bentos, and sandwiches daily in a thoughtfully designed space.", "menuUrl": "https://www.yutori-pa.com/", "priceRange": "$$", "photoUrl": "images/restaurant-photos/palo-alto/Yutori Small.jpeg"}, {"id": "ChIJcx9Pl-W6j4ARcUXBVpDCqUE", "formattedAddress": "365 California Ave, Palo Alto, CA 94306, USA", "location": {"latitude": 37.4267457, "longitude": -122.14408219999999}, "googleMapsUri": "https://maps.google.com/?cid=4731526808716002673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://zareensrestaurant.com/", "displayName": {"text": "Zareen's Palo Alto", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/palo-alto/Zareens Small.jpeg", "phone": "(650) 600-8334", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.zareensrestaurant.com/", "priceRange": "$$", "description": "Pakistani-Indian kitchen from Zareen Khan beloved for slow-cooked karahi, aromatic biryanis, and homemade naan, with a devoted following since opening in 2014."}, {"id": "opening_zaytinya", "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA", "location": {"latitude": 37.4425, "longitude": -122.1604}, "googleMapsUri": "https://maps.google.com/?q=180+El+Camino+Real,+Stanford+Shopping+Center,+Palo+Alto,+CA", "websiteUri": "https://zaytinya.com", "displayName": {"text": "Zaytinya", "languageCode": "en"}, "cuisine": "Mediterranean", "phone": "(650) 670-3000", "hours": {"Monday": "11:30 AM - 10:00 PM", "Tuesday": "11:30 AM - 10:00 PM", "Wednesday": "11:30 AM - 10:00 PM", "Thursday": "11:30 AM - 10:00 PM", "Friday": "11:30 AM - 11:00 PM", "Saturday": "11:30 AM - 11:00 PM", "Sunday": "11:30 AM - 10:00 PM"}, "description": "Chef Jose Andres brings his celebrated mezze concept to Stanford Shopping Center with Turkish, Greek and Lebanese small plates and creative Mediterranean cocktails.", "menuUrl": "https://www.zaytinya.com/", "priceRange": "$$$", "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"}, {"id": "ChIJOzI3gjm7j4ARtGwnfAcuKaU", "formattedAddress": "585 Bryant St, Palo Alto, CA 94301, USA", "location": {"latitude": 37.4453069, "longitude": -122.16042180000001}, "googleMapsUri": "https://maps.google.com/?cid=11901094099985853620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.zolapaloalto.com/", "displayName": {"text": "Zola + BarZola", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/palo-alto/Zola Small.jpeg", "phone": "(650) 521-0651", "hours": {"Tuesday": "5:00 PM - 10:00 PM", "Wednesday": "5:00 PM - 10:00 PM", "Thursday": "5:00 PM - 10:00 PM", "Friday": "5:00 PM - 10:00 PM", "Saturday": "5:00 PM - 10:00 PM"}, "menuUrl": "https://www.zolapaloalto.com/", "priceRange": "$$$", "description": "Romantic French-California bistro on California Avenue with a changing seasonal menu, natural wine program, and intimate BarZola cocktail lounge next door."}],
+  "Palo Alto, CA": [
+    {
+      "id": "ChIJ-RTutuW6j4AR4VYL3DZDAvg",
+      "formattedAddress": "340 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4270754,
+        "longitude": -122.14440950000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17870920174258575073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://anatoliankitchen.com/",
+      "displayName": {
+        "text": "Anatolian Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish",
+      "description": "California Avenue Turkish kitchen specializing in beef doner kebab, Adana kebab and house-made manti since 2010.",
+      "phone": "(650) 853-9700",
+      "menuUrl": "https://anatoliankitchen.com",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:30 AM-9:00 PM",
+        "Tuesday": "11:30 AM-9:00 PM",
+        "Wednesday": "11:30 AM-9:00 PM",
+        "Thursday": "11:30 AM-9:00 PM",
+        "Friday": "11:30 AM-9:30 PM",
+        "Saturday": "11:30 AM-9:30 PM",
+        "Sunday": "11:30 AM-9:00 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Anatolian Kitchen Small.jpeg"
+    },
+    {
+      "id": "ChIJL6eIury7j4ARRvbC__WInac",
+      "formattedAddress": "201 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444894399999995,
+        "longitude": -122.1628303
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12077960365816870470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushiaraki.com/",
+      "displayName": {
+        "text": "Araki Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Araki Sushi Small.jpeg",
+      "description": "Fresh sushi, sashimi and bento boxes at reasonable prices with standout lunch deals on University Avenue.",
+      "phone": "(650) 324-3300",
+      "menuUrl": "https://www.sushiaraki.com/",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "10:00 AM-10:00 PM",
+        "Tuesday": "10:00 AM-10:00 PM",
+        "Wednesday": "10:00 AM-10:00 PM",
+        "Thursday": "10:00 AM-10:00 PM",
+        "Friday": "11:00 AM-11:00 PM",
+        "Saturday": "11:00 AM-11:00 PM",
+        "Sunday": "10:00 AM-10:00 PM"
+      }
+    },
+    {
+      "id": "ChIJXzozIq2jj4ARpEwPAaO9InY",
+      "formattedAddress": "140 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439087,
+        "longitude": -122.16336249999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8512574753478757540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.aryasteakhouse.com/",
+      "displayName": {
+        "text": "Arya Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/Arya Steakhouse Small.jpeg",
+      "description": "Persian and steakhouse hybrid with halal aged meats, barg kabob, saffron rice and private dining rooms.",
+      "phone": "(650) 304-3119",
+      "menuUrl": "https://www.aryasteakhouse.com/",
+      "priceRange": "$$$",
+      "hours": {
+        "Monday": "11:30 AM-9:30 PM",
+        "Tuesday": "11:30 AM-9:30 PM",
+        "Wednesday": "11:30 AM-9:30 PM",
+        "Thursday": "11:30 AM-9:30 PM",
+        "Friday": "11:30 AM-9:30 PM",
+        "Saturday": "11:30 AM-9:30 PM",
+        "Sunday": "11:30 AM-9:30 PM"
+      }
+    },
+    {
+      "id": "ChIJmUWp5SS7j4ARwkXUtEmqFdc",
+      "formattedAddress": "855 El Camino Real, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4387251,
+        "longitude": -122.1598525
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15498480926208574914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://asianbox.com/",
+      "displayName": {
+        "text": "Asian Box",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Asian Box Small.jpeg",
+      "description": "100% gluten-free Vietnamese scratch kitchen with bold six-spice chicken, coconut curry tofu and lemongrass pork bowls.",
+      "phone": "(650) 543-3390",
+      "menuUrl": "https://www.asianbox.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:00 AM-9:00 PM",
+        "Tuesday": "11:00 AM-9:00 PM",
+        "Wednesday": "11:00 AM-9:00 PM",
+        "Thursday": "11:00 AM-9:00 PM",
+        "Friday": "11:00 AM-9:00 PM",
+        "Saturday": "11:00 AM-9:00 PM",
+        "Sunday": "11:00 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJi9iYmjm7j4AR904-JYOQQN4",
+      "formattedAddress": "335 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4464879,
+        "longitude": -122.1613445
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16014959167869439735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bevri.com/",
+      "displayName": {
+        "text": "Bevri - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Georgian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Bevri Small.jpeg",
+      "description": "The Bay Area's only Georgian restaurant, famous for wood-fired khachapuri cheese boats and hand-rolled khinkali dumplings.",
+      "phone": "(650) 332-7770",
+      "menuUrl": "https://www.bevri.com/menu",
+      "priceRange": "$$$",
+      "hours": {
+        "Monday": "11:30 AM-9:30 PM",
+        "Tuesday": "11:30 AM-9:30 PM",
+        "Wednesday": "11:30 AM-9:30 PM",
+        "Thursday": "11:30 AM-9:30 PM",
+        "Friday": "11:30 AM-9:30 PM",
+        "Saturday": "11:30 AM-9:30 PM",
+        "Sunday": "11:30 AM-9:30 PM"
+      }
+    },
+    {
+      "id": "ChIJMzIVsOW6j4ARuVSOvM3YcfY",
+      "formattedAddress": "2363 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4277401,
+        "longitude": -122.14430329999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17758213183841916089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bistroelan.com/",
+      "displayName": {
+        "text": "Bistro Elan",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "description": "Intimate French bistro sourcing local farm ingredients with a seasonal menu and rotating desserts.",
+      "phone": "(650) 327-0284",
+      "menuUrl": "https://www.bistroelan.com/menu",
+      "priceRange": "$$$",
+      "hours": {
+        "Tuesday": "5:00 PM-9:00 PM",
+        "Wednesday": "5:00 PM-9:00 PM",
+        "Thursday": "5:00 PM-9:00 PM",
+        "Friday": "5:00 PM-9:00 PM",
+        "Saturday": "5:00 PM-9:00 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Bistro Elan Small.jpeg"
+    },
+    {
+      "id": "ChIJYUh8Jzq7j4ARXcdvPyLUR68",
+      "formattedAddress": "548 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4445889,
+        "longitude": -122.1612389
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12630296923542112093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bistromaxine.com/",
+      "displayName": {
+        "text": "Bistro Maxine",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Bistro Maxine Small.jpeg",
+      "description": "Palo Alto's only authentic French crepe cafe since 2006, using batter and equipment imported directly from France.",
+      "phone": "(650) 323-1815",
+      "menuUrl": "https://www.bistromaxine.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Tuesday": "8:00 AM-2:00 PM",
+        "Wednesday": "8:00 AM-2:00 PM",
+        "Thursday": "8:00 AM-2:00 PM",
+        "Friday": "8:00 AM-2:00 PM",
+        "Saturday": "8:00 AM-2:00 PM",
+        "Sunday": "8:00 AM-2:00 PM"
+      }
+    },
+    {
+      "id": "ChIJEQbMSzq7j4ARCIzIQRU45og",
+      "formattedAddress": "643 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4435214,
+        "longitude": -122.1605738
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9864633697750780936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://dineatbuca.com/locations/palo-alto/?utm_campaign=local&utm_source=gbp&utm_medium=organic&utm_content=palo-alto",
+      "displayName": {
+        "text": "Buca di Beppo Italian Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Buca Small.jpeg",
+      "description": "Festive family-style Italian with generous portions of classic pasta, lasagna and chicken for groups and celebrations.",
+      "phone": "(650) 213-1111",
+      "menuUrl": "https://www.bucadibeppo.com/menu/",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:00 AM-10:00 PM",
+        "Tuesday": "11:00 AM-10:00 PM",
+        "Wednesday": "11:00 AM-10:00 PM",
+        "Thursday": "11:00 AM-10:00 PM",
+        "Friday": "11:00 AM-10:00 PM",
+        "Saturday": "11:00 AM-10:00 PM",
+        "Sunday": "11:00 AM-10:00 PM"
+      }
+    },
+    {
+      "id": "ChIJ8QesCuW6j4ARfJfR8qxpWzE",
+      "formattedAddress": "2437 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427287,
+        "longitude": -122.14339079999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3556552522268252028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cafeprobono.com/",
+      "displayName": {
+        "text": "Cafe Pro Bono",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "description": "Three-time Palo Alto Weekly best Italian restaurant winner with housemade pasta and organic ingredients for 30-plus years.",
+      "phone": "(650) 326-1626",
+      "menuUrl": "https://www.cafeprobono.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:30 AM-9:00 PM",
+        "Tuesday": "11:30 AM-9:00 PM",
+        "Wednesday": "11:30 AM-9:00 PM",
+        "Thursday": "11:30 AM-9:00 PM",
+        "Friday": "11:30 AM-9:00 PM",
+        "Saturday": "11:30 AM-9:00 PM",
+        "Sunday": "11:30 AM-9:00 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Cafe Pro Bono Small.jpeg"
+    },
+    {
+      "id": "ChIJm8EK_e-6j4ARgml6h3Srj60",
+      "formattedAddress": "200 Sheridan Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4267836,
+        "longitude": -122.1405856
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12506403207208659330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cafferiace.com/",
+      "displayName": {
+        "text": "Caffe Riace",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "description": "Family-owned California Avenue Sicilian trattoria since 1997 with outdoor piazza dining and housemade Italian specialties.",
+      "phone": "(650) 473-9746",
+      "menuUrl": "https://www.cafferiace.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:30 AM-9:00 PM",
+        "Tuesday": "11:30 AM-9:00 PM",
+        "Wednesday": "11:30 AM-9:00 PM",
+        "Thursday": "11:30 AM-9:00 PM",
+        "Friday": "11:30 AM-9:00 PM",
+        "Saturday": "11:30 AM-9:00 PM",
+        "Sunday": "11:30 AM-9:00 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Caffe Riace Small.jpeg"
+    },
+    {
+      "id": "ChIJ7c_w_4q6j4ARF8QWNPNwbck",
+      "formattedAddress": "3740 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4175915,
+        "longitude": -122.13196810000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14514381363938247703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.celiasrestaurants.com/",
+      "displayName": {
+        "text": "Celia’s Mexican Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Celias Small.jpeg",
+      "description": "Daily fresh salsa, lard-free tortillas and skinless chicken define this longtime El Camino Real neighborhood staple.",
+      "phone": "(650) 494-5040",
+      "menuUrl": "https://www.celiasrestaurants.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:00 AM-9:00 PM",
+        "Tuesday": "11:00 AM-9:00 PM",
+        "Wednesday": "11:00 AM-9:00 PM",
+        "Thursday": "11:00 AM-9:00 PM",
+        "Friday": "11:00 AM-9:00 PM",
+        "Saturday": "11:00 AM-9:00 PM",
+        "Sunday": "11:00 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJTamC_qi7j4ARMAC_ZB2hHMI",
+      "formattedAddress": "2180 W Bayshore Rd #120, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.448276899999996,
+        "longitude": -122.1261363
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13987231690322280496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.chefzhaokitchen.com/",
+      "displayName": {
+        "text": "Chef Zhao Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "description": "Regional Chinese cooking with bold wok-fired dishes and dumplings popular with the Stanford community.",
+      "phone": "(650) 521-0766",
+      "menuUrl": "https://www.chefzhaokitchen.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "11:00 AM-9:30 PM",
+        "Tuesday": "11:00 AM-9:30 PM",
+        "Wednesday": "11:00 AM-9:30 PM",
+        "Thursday": "11:00 AM-9:30 PM",
+        "Friday": "11:00 AM-9:30 PM",
+        "Saturday": "11:00 AM-9:30 PM",
+        "Sunday": "11:00 AM-9:30 PM"
+      },
+      "photoUrl": "images/restaurant-photos/palo-alto/Chef Zhao Kitchen Small.jpeg"
+    },
+    {
+      "id": "ChIJQ7QsMzq7j4ARidQmfZss-Wc",
+      "formattedAddress": "642 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443916,
+        "longitude": -122.160191
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7492068501438780553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coconutspaloalto.com/",
+      "displayName": {
+        "text": "Coconuts Caribbean Restaurant & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Caribbean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Coconuts Small.jpeg",
+      "description": "Jerk chicken, curried goat and oxtail bring island flavors to Silicon Valley in a lively full-bar setting.",
+      "phone": "(650) 324-1000",
+      "menuUrl": "https://www.coconutscaribbean.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Tuesday": "11:30 AM-9:00 PM",
+        "Wednesday": "11:30 AM-9:00 PM",
+        "Thursday": "11:30 AM-9:00 PM",
+        "Friday": "11:30 AM-9:00 PM",
+        "Saturday": "11:30 AM-9:00 PM",
+        "Sunday": "11:30 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJd0Absfi6j4ARJUQZcc5Tzu0",
+      "formattedAddress": "2605 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4343952,
+        "longitude": -122.1301177
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17135725778317165605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://comoestataqueria.net/",
+      "displayName": {
+        "text": "Como Esta Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Como Esta Small.jpeg",
+      "description": "No-frills Middlefield Road taqueria with fresh-made burritos and tacos at the most affordable prices in Palo Alto.",
+      "phone": "(650) 327-2200",
+      "menuUrl": "https://www.comoestataqueria.com/menu",
+      "priceRange": "$",
+      "hours": {
+        "Monday": "10:00 AM-9:00 PM",
+        "Tuesday": "10:00 AM-9:00 PM",
+        "Wednesday": "10:00 AM-9:00 PM",
+        "Thursday": "10:00 AM-9:00 PM",
+        "Friday": "10:00 AM-9:00 PM",
+        "Saturday": "10:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJY5UIijm7j4ARPkLgY0DXJuI",
+      "formattedAddress": "538 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444609199999995,
+        "longitude": -122.16152839999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16295948973240238654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coupacafe.com/",
+      "displayName": {
+        "text": "Coupa Cafe - Ramona",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/palo-alto/Coupa Cafe_Ramona Small.jpeg",
+      "description": "Venezuelan cafe and Silicon Valley landmark since 2004, known for locally roasted coffee and gluten-free arepas.",
+      "phone": "(650) 322-6872",
+      "menuUrl": "https://www.coupacafe.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "7:00 AM-6:00 PM",
+        "Tuesday": "7:00 AM-6:00 PM",
+        "Wednesday": "7:00 AM-6:00 PM",
+        "Thursday": "7:00 AM-6:00 PM",
+        "Friday": "7:00 AM-6:00 PM",
+        "Saturday": "7:00 AM-6:00 PM",
+        "Sunday": "7:00 AM-6:00 PM"
+      }
+    },
+    {
+      "id": "ChIJgbClrTm7j4ARJhcj3TrrG9g",
+      "formattedAddress": "367 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4469366,
+        "longitude": -122.16094960000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15572298774614316838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.crepevine.com/?y_source=1_MTQ3MjMwNjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Crepevine Restaurants",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Crepevine Small.jpeg",
+      "description": "All-day neighborhood cafe serving generous crepes, omelets, salads and sandwiches from breakfast through dinner.",
+      "phone": "(650) 323-3601",
+      "menuUrl": "https://www.crepevine.com/menu",
+      "priceRange": "$$",
+      "hours": {
+        "Monday": "8:00 AM-9:00 PM",
+        "Tuesday": "8:00 AM-9:00 PM",
+        "Wednesday": "8:00 AM-9:00 PM",
+        "Thursday": "8:00 AM-9:00 PM",
+        "Friday": "8:00 AM-9:00 PM",
+        "Saturday": "8:00 AM-9:00 PM",
+        "Sunday": "8:00 AM-9:00 PM"
+      }
+    },
+    {
+      "id": "ChIJSwaMPEq7j4ARrdiph55BO04",
+      "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.446115500000005,
+        "longitude": -122.16106979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5637171507721001133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://paloalto.mycurrypizza.com/",
+      "displayName": {
+        "text": "Curry Pizza House Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Curry Pizza House Small.jpeg",
+      "phone": "(650) 319-6400",
+      "hours": {
+        "Monday": "10:00 AM – 10:00 PM",
+        "Tuesday": "10:00 AM – 10:00 PM",
+        "Wednesday": "10:00 AM – 10:00 PM",
+        "Thursday": "10:00 AM – 10:00 PM",
+        "Friday": "10:00 AM – 10:00 PM",
+        "Saturday": "10:00 AM – 10:00 PM",
+        "Sunday": "10:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://currypizzahouse.com/locations/palo-alto/",
+      "priceRange": "$$",
+      "description": "Indian fusion pizza on University Avenue with butter chicken, tandoori chicken, and chili paneer pies alongside craft beer and outdoor seating."
+    },
+    {
+      "id": "ChIJtUAJ_4q6j4ARjgupREDbjSo",
+      "formattedAddress": "3781 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4179259,
+        "longitude": -122.13161269999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3066347990385494926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.dasichuanrestaurant.com/",
+      "displayName": {
+        "text": "Da Sichuan Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Da Sichuan Bistro Small.jpeg",
+      "phone": "(650) 849-2000",
+      "hours": {
+        "Monday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM",
+        "Tuesday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM",
+        "Wednesday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM",
+        "Thursday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM",
+        "Friday": "11:00 AM – 2:00 PM, 4:30 PM – 10:00 PM",
+        "Saturday": "11:00 AM – 2:00 PM, 4:30 PM – 10:00 PM",
+        "Sunday": "11:00 AM – 2:00 PM, 4:30 PM – 9:30 PM"
+      },
+      "menuUrl": "http://www.dasichuanrestaurant.com/",
+      "priceRange": "$$",
+      "description": "Longstanding El Camino Real Sichuan kitchen famous for spicy dan dan noodles, mapo tofu, and owner warmth after six-plus years in Palo Alto."
+    },
+    {
+      "id": "ChIJ7ZNa4dG7j4ARszvuKU9_usY",
+      "formattedAddress": "2363 Birch St #B, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4278581,
+        "longitude": -122.14422800000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14319897943160535987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Daigo",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 384-6880",
+      "hours": {
+        "Monday": "5:00 PM – 8:05 PM",
+        "Tuesday": "5:00 PM – 8:05 PM",
+        "Wednesday": "5:00 PM – 8:05 PM",
+        "Thursday": "5:00 PM – 8:05 PM",
+        "Friday": "5:00 PM – 8:05 PM",
+        "Saturday": "5:00 PM – 8:05 PM",
+        "Sunday": "5:00 PM – 8:05 PM"
+      },
+      "menuUrl": "https://order.online/store/daigo-palo-alto-723254",
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Daigo Small.jpeg",
+      "description": "Hidden gem on Birch Street serving exceptional omakase, hamachi shots, and yuzu cheesecake in an intimate Japan-reminiscent setting."
+    },
+    {
+      "id": "ChIJe4kIFje7j4ARqb6yVqdp0tU",
+      "formattedAddress": "129 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444781899999995,
+        "longitude": -122.16510269999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15407493442622897833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.online/business/darbar-5",
+      "displayName": {
+        "text": "Darbar Indian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Darbar Small.jpeg",
+      "phone": "(650) 321-6688",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.grubhub.com/restaurant/darbar-indian-cuisine-129-lytton-ave-palo-alto/5549096",
+      "priceRange": "$$",
+      "description": "Award-winning Indian kitchen one block from Stanford combining north and south regional dishes with a beloved weekday lunch buffet since the 1980s."
+    },
+    {
+      "id": "ChIJBVNwaxK6j4ARUPhWmCDHXYk",
+      "formattedAddress": "799 San Antonio Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.420349699999996,
+        "longitude": -122.10223459999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9898286498838935632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dohatsutenramen.com/",
+      "displayName": {
+        "text": "Dohatsuten Ramen & Tapas",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Dohatsuten Small.jpeg",
+      "phone": "(650) 493-2878",
+      "hours": {
+        "Monday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Tuesday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Wednesday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Thursday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Friday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Saturday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM",
+        "Sunday": "11:00 AM – 1:35 PM, 5:00 PM – 7:35 PM"
+      },
+      "menuUrl": "https://dohatsutenramen.com/",
+      "priceRange": "$$",
+      "description": "Nagoya-style ramen with spicy minced pork and Japanese small plates in a vibrant family-friendly spot open since 2009."
+    },
+    {
+      "id": "ChIJHz4XFiW7j4ARn0Db50n4L2k",
+      "formattedAddress": "855 El Camino Real #104, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4389992,
+        "longitude": -122.1588592
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7579549694194040991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cafedoucefrance.com/",
+      "displayName": {
+        "text": "Douce France",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Douce France Small.jpeg",
+      "phone": "(650) 322-3601",
+      "hours": {
+        "Monday": "9:00 AM – 5:00 PM",
+        "Tuesday": "9:00 AM – 5:00 PM",
+        "Wednesday": "9:00 AM – 5:00 PM",
+        "Thursday": "9:00 AM – 5:00 PM",
+        "Friday": "9:00 AM – 5:00 PM",
+        "Saturday": "9:00 AM – 5:00 PM",
+        "Sunday": "9:00 AM – 5:00 PM"
+      },
+      "menuUrl": "https://www.cafedoucefrance.com/",
+      "priceRange": "$$",
+      "description": "Alsatian bakery cafe in Town and Country Village since 1981, beloved for handmade croissants, buckwheat crepes, and Lavazza espresso."
+    },
+    {
+      "id": "ChIJwVXiPQ-7j4ARm5uHGNqN66U",
+      "formattedAddress": "530 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4454109,
+        "longitude": -122.161097
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11955805603639040923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.mealkeyway.com/customer/release/index?mid=4b4c333472657138707150773566592b3239424469673d3d#/main",
+      "displayName": {
+        "text": "Dumpling Hours-Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Dumpling Hours Small.jpeg",
+      "phone": "(650) 323-1888",
+      "hours": {
+        "Monday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Tuesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Wednesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Thursday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Friday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Saturday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM",
+        "Sunday": "11:00 AM – 2:30 PM, 4:30 PM – 8:40 PM"
+      },
+      "menuUrl": "https://order.online/store/dumpling-hours-palo-alto-29675092",
+      "priceRange": "$$",
+      "description": "Palo Alto's go-to dumpling house with handmade xiao long bao, pan-fried dumplings, and noodle soups served twice daily."
+    },
+    {
+      "id": "ChIJ84zhlRG6j4ARRHn_8eTSKj4",
+      "formattedAddress": "920 Commercial St, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.422913799999996,
+        "longitude": -122.099947
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4479624660127807812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "El Taco Ranchero",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 471-3868",
+      "hours": {
+        "Monday": "10:00 AM – 6:00 PM",
+        "Tuesday": "10:00 AM – 6:00 PM",
+        "Wednesday": "10:00 AM – 6:00 PM",
+        "Thursday": "10:00 AM – 6:00 PM",
+        "Friday": "10:00 AM – 6:00 PM",
+        "Saturday": "10:00 AM – 6:00 PM"
+      },
+      "menuUrl": "https://www.doordash.com/business/el-ranchero-49577/menu/",
+      "priceRange": "$",
+      "description": "No-frills Mexican street food counter with fresh-made tacos and burritos at some of the most affordable prices on the Peninsula.",
+      "photoUrl": "images/restaurant-photos/palo-alto/El Taco Ranchero Small.jpeg"
+    },
+    {
+      "id": "ChIJRTRAoc67j4ARM-MLNMDboBo",
+      "formattedAddress": "550 Waverley St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.44648120000001,
+        "longitude": -122.1599474
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1918775059813229363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ethelsfancypa.com/",
+      "displayName": {
+        "text": "Ethel's Fancy",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Naschmrkt Small.jpeg",
+      "phone": "(650) 561-4860",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:30 PM",
+        "Saturday": "5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.ethelsfancypa.com/",
+      "priceRange": "$$$",
+      "description": "A cozy upscale neighborhood restaurant in downtown Palo Alto focused on locally sourced seasonal ingredients and a thoughtfully curated wine list."
+    },
+    {
+      "id": "ChIJ4a0RmI67j4ARqr2S5nEYX2U",
+      "formattedAddress": "518 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4453864,
+        "longitude": -122.16135999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7304583998096981418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ettanrestaurant.com/",
+      "displayName": {
+        "text": "Ettan",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "phone": "(650) 752-6281",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.ettanrestaurant.com/",
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ettan Small.jpeg",
+      "description": "Critically acclaimed modern Indian restaurant from acclaimed chef Srijith Gopinathan offering a refined tasting menu and a la carte with a curated wine list."
+    },
+    {
+      "id": "ChIJByU8Zze7j4ARtKef7nHMEks",
+      "formattedAddress": "420 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4451287,
+        "longitude": -122.16379929999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5409610892132198324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.evvia.net/",
+      "displayName": {
+        "text": "Evvia Estiatorio",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Evvia Small.jpeg",
+      "phone": "(650) 326-0983",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://evvia.net/menu/",
+      "priceRange": "$$$$",
+      "description": "Celebrated Greek kitchen on Emerson Street with wood-fired lamb, whole fish, and mezze that have earned consistent acclaim for over 25 years."
+    },
+    {
+      "id": "ChIJJS3eBO-6j4AR55CwERBNE34",
+      "formattedAddress": "2500 El Camino Real Suite 105, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4242609,
+        "longitude": -122.1449674
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9084689604748021991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.fambriniscafe.com/",
+      "displayName": {
+        "text": "Fambrini’s Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "phone": "(650) 858-1268",
+      "hours": {
+        "Monday": "9:30 AM – 3:00 PM",
+        "Tuesday": "9:30 AM – 3:00 PM",
+        "Wednesday": "9:30 AM – 3:00 PM",
+        "Thursday": "9:30 AM – 3:00 PM",
+        "Friday": "9:30 AM – 3:00 PM",
+        "Saturday": "10:00 AM – 3:00 PM",
+        "Sunday": "10:00 AM – 3:00 PM"
+      },
+      "menuUrl": "https://www.fambriniscafe.com/",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Fambrinis Cafe Small.jpeg",
+      "description": "Cheerful daytime cafe near Stanford serving generous housemade soups, paninis, and daily specials in a relaxed neighborhood setting."
+    },
+    {
+      "id": "ChIJ2VtDOzS7j4ARaKOgGvJXoJ4",
+      "formattedAddress": "180 El Camino Real G-2, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.44457,
+        "longitude": -122.17032979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11430232551606756200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.flemingssteakhouse.com/Locations/CA/Palo-Alto?y_source=1_MTU1MDMxNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Fleming’s Prime Steakhouse & Wine Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/Flemings Small.jpeg",
+      "phone": "(650) 328-8888",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "4:00 PM – 10:00 PM",
+        "Sunday": "4:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.flemingssteakhouse.com/locations/ca/palo-alto",
+      "priceRange": "$$$$",
+      "description": "Upscale steakhouse featuring prime dry-aged cuts and one of the most extensive wine-by-the-glass programs of any Peninsula restaurant."
+    },
+    {
+      "id": "ChIJ5Q2_GWO6j4AREsesK8JkKW4",
+      "formattedAddress": "4119 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413888899999996,
+        "longitude": -122.1258333
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7937986603336386322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://fukisushi.com/",
+      "displayName": {
+        "text": "Fuki Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Fuki-Sushi Small.jpeg",
+      "phone": "(650) 494-9383",
+      "hours": {
+        "Monday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Tuesday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Wednesday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Thursday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Friday": "11:30 AM – 1:30 PM, 5:15 PM – 8:30 PM",
+        "Saturday": "5:15 PM – 9:00 PM"
+      },
+      "menuUrl": "https://fukisushi.com/menu/",
+      "priceRange": "$$$",
+      "description": "Elegant California Avenue sushi restaurant with a devoted following for its pristine nigiri, omakase options, and serene unhurried dining pace."
+    },
+    {
+      "id": "ChIJ90rubDS7j4AR7pLFdYlNGU4",
+      "formattedAddress": "660 Stanford Shopping Center #244B, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.442727399999995,
+        "longitude": -122.1705035
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5627614462157886190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.gofishpokebar.com/",
+      "displayName": {
+        "text": "Go Fish Poke Bar- Stanford Shopping Center",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Go Fish Poke Bar Small.jpeg",
+      "phone": "(650) 656-8291",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.ubereats.com/store/go-fish-poke-bar-palo-alto/SzN1KTv5Ss2cGdx-CoWJDw",
+      "priceRange": "$$",
+      "description": "Build-your-own poke bowls with fresh ahi tuna, salmon, and creative sauces at Stanford Shopping Center."
+    },
+    {
+      "id": "ChIJP_XllSS7j4ARhy2W_qw79aQ",
+      "formattedAddress": "855 El Camino Real #65, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4379565,
+        "longitude": -122.1598063
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11886472405705960839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://gotts.com/",
+      "displayName": {
+        "text": "Gott's",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Gotts Roadside Small.jpeg",
+      "phone": "(650) 326-1000",
+      "hours": {
+        "Monday": "10:30 AM – 9:00 PM",
+        "Tuesday": "10:30 AM – 9:00 PM",
+        "Wednesday": "10:30 AM – 9:00 PM",
+        "Thursday": "10:30 AM – 9:00 PM",
+        "Friday": "10:30 AM – 9:00 PM",
+        "Saturday": "10:30 AM – 9:00 PM",
+        "Sunday": "10:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.gotts.com/menu/",
+      "priceRange": "$$",
+      "description": "Northern California roadside classic known for grass-fed burgers, crispy onion rings, and seasonal milkshakes in a bustling open-air setting."
+    },
+    {
+      "id": "ChIJ-Z6WDW26j4ARvRm_XzDSf3o",
+      "formattedAddress": "3950 Middlefield Rd, Palo Alto, CA 94303, USA",
+      "location": {
+        "latitude": 37.418678299999996,
+        "longitude": -122.10912849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8827004899876084157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.greenelephantgourmet.com/",
+      "displayName": {
+        "text": "Green Elephant Gourmet",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Green Elephant Gourmet Small.jpeg",
+      "phone": "(650) 494-7391",
+      "hours": {
+        "Tuesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Wednesday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Thursday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Friday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Saturday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM",
+        "Sunday": "11:00 AM – 2:30 PM, 4:30 PM – 8:30 PM"
+      },
+      "menuUrl": "http://greenelephantgourmet.com/",
+      "priceRange": "$$",
+      "description": "Beloved neighborhood Thai kitchen with a devoted local following for its green curry, pad see ew, and generous lunch specials."
+    },
+    {
+      "id": "ChIJZ-fddRO7j4AR_0Gsc_U5HbQ",
+      "formattedAddress": "855 El Camino Real #161, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.439176499999995,
+        "longitude": -122.1581733
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12978593427522077183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hatchedbites.com/",
+      "displayName": {
+        "text": "Hatched",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hatched Small.jpeg",
+      "description": "Egg-forward breakfast spot at Town and Country Village with Asian-inflected sandwiches, smashed avocado toasts, and ceremonial-grade matcha lattes.",
+      "phone": "(650) 561-3386",
+      "hours": {
+        "Monday": "8:00 AM – 2:30 PM",
+        "Tuesday": "8:00 AM – 2:30 PM",
+        "Wednesday": "8:00 AM – 2:30 PM",
+        "Thursday": "8:00 AM – 2:30 PM",
+        "Friday": "8:00 AM – 2:30 PM",
+        "Saturday": "8:00 AM – 2:30 PM",
+        "Sunday": "8:00 AM – 2:30 PM"
+      },
+      "menuUrl": "https://www.hatchedbites.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJB6tydHK7j4ARMYHQSAGD5ig",
+      "formattedAddress": "544 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439995,
+        "longitude": -122.1620763
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2947187047700398385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://linktr.ee/teapot_inc",
+      "displayName": {
+        "text": "HE&C Tea + Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/He&C Tea + Pot Small.jpeg",
+      "description": "Individual hot pot concept on Emerson Street serving Kagoshima wagyu beef and handcrafted fruit teas with organic milk and fresh fruit.",
+      "phone": "(650) 600-0149",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://hecteapot.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJh6RQtJa7j4AR-KdyKoeGyQ4",
+      "formattedAddress": "320 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4461225,
+        "longitude": -122.16108659999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1065530701940697080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hiddentapandbarrel.com/",
+      "displayName": {
+        "text": "Hidden Tap And Barrel Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "description": "Craft beer and cocktail bar with a rotating tap list and a kitchen serving elevated pub food and weekend brunch.",
+      "phone": "(650) 433-2540",
+      "hours": {
+        "Tuesday": "4:00 PM – 10:00 PM",
+        "Wednesday": "4:00 PM – 10:00 PM",
+        "Thursday": "4:00 PM – 10:00 PM",
+        "Friday": "11:30 AM – 11:00 PM",
+        "Saturday": "11:30 AM – 11:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://hiddentapandbarrel.com/palo-alto",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJcymZ93y7j4ARGg6qXQT9Adc",
+      "formattedAddress": "3441 Alma St Suite 100, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4191895,
+        "longitude": -122.12491339999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15492942388324339226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.holysushi.org/",
+      "displayName": {
+        "text": "Holy Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Holy Sushi Small.jpeg",
+      "description": "Casual downtown sushi spot with an extensive menu of rolls, nigiri, and Japanese entrees at approachable everyday prices.",
+      "phone": "(650) 328-3600",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$",
+      "menuUrl": "https://holysushi.org/menu"
+    },
+    {
+      "id": "ChIJtRLy85ywj4AR38KYK7uJ0Yc",
+      "formattedAddress": "3691 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4184801,
+        "longitude": -122.13286660000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9786754902236119775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hongkongrestaurantpl.com/",
+      "displayName": {
+        "text": "Hong Kong Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hong Kong Restaurant Small.jpeg",
+      "description": "Longstanding Cantonese kitchen on El Camino Real serving traditional homestyle dishes like walnut prawns, beef clay pot, and shrimp chow fun.",
+      "phone": "(650) 325-3788",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJkTR5DEy7j4ARg9mfRMQbDQc",
+      "formattedAddress": "855 El Camino Real Ste 151, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4390997,
+        "longitude": -122.15842599999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=508092862741600643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.horsefeather.com/",
+      "displayName": {
+        "text": "Horsefeather Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Horse Feather Small.jpeg",
+      "description": "SF's beloved New American restaurant at Town and Country Village with Asian-Latin inspired dishes, inventive cocktails, and a bold low-proof program.",
+      "phone": "(650) 231-2177",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 11:00 PM",
+        "Saturday": "5:00 PM – 11:00 PM",
+        "Sunday": "5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://horsefeather.com/pa/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJHz4XFiW7j4AR4OCRJ5FPWnQ",
+      "formattedAddress": "855 El Camino Real #60, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.438029,
+        "longitude": -122.160035
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8384101141156323552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.howiesartisanpizza.com/",
+      "displayName": {
+        "text": "Howie's Artisan Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Howies Artisan Pizza Small.jpeg",
+      "description": "Multiple-time Palo Alto Weekly Best Pizza winner with California thin-crust pies, housemade sausage and ricotta, and fresh handmade pasta since 2009.",
+      "phone": "(650) 326-1111",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.howiesartisanpizza.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJw9v7bFC7j4ARqHLv-7H0mZQ",
+      "formattedAddress": "715 Stanford Shopping Center, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4427416,
+        "longitude": -122.17288519999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10707858634323227304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://eatathummus.com/",
+      "displayName": {
+        "text": "Hummus Mediterranean Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hummus Small.jpeg",
+      "description": "Halal Turkish-Mediterranean kitchen at Stanford Shopping Center with fresh-baked pita, housemade hummus, slow-roasted gyro meats, and lahmacun.",
+      "phone": "(650) 321-6602",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.eatathummus.com/palo-alto",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJBxeyFAC7j4ARQqr2OhsHIfA",
+      "formattedAddress": "460 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4455552,
+        "longitude": -122.16287459999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17303119056868911682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ikiomakasepaloalto.com/",
+      "displayName": {
+        "text": "Iki Omakase",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Iki Omakase Small.jpeg",
+      "description": "Bay Area-style Edomae omakase at $195 per person from Chef Jiabo Li, trained at Sushi Hon and Sato Omakase in San Francisco.",
+      "phone": "(650) 656-8180",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.ikiomakasepaloalto.com/",
+      "priceRange": "$$$$"
+    },
+    {
+      "id": "ChIJq0UsRXS7j4ARiC9b0hTPMjg",
+      "formattedAddress": "151 California Ave unit e, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428383,
+        "longitude": -122.14229350000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4049526703294984072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.imperialtreasurepaloalto.com/",
+      "displayName": {
+        "text": "Imperial treasure",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Imperial Treasure Small.jpeg",
+      "description": "Upscale Chinese restaurant on California Avenue with tableside-carved Peking duck, xiao long bao, and Szechuan specialties in an elegant setting.",
+      "phone": "(650) 326-6888",
+      "hours": {
+        "Monday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.imperialtreasurepaloalto.com/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJC89ba1Vk3IAR76YZVUjy_gw",
+      "formattedAddress": "3295 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4209587,
+        "longitude": -122.1369645
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=936452165018953455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://indorestaurant.com/",
+      "displayName": {
+        "text": "INDO Restaurant & Lounge",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Indo Small.jpeg",
+      "description": "Indonesian fusion kitchen on El Camino Real blending native Chef Diana Anwar's authentic recipes with California-French technique and craft cocktails.",
+      "phone": "(650) 332-7777",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.indorestaurant.com/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJmVLGgvi6j4ARTTuCWlOncSk",
+      "formattedAddress": "2710 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.433177799999996,
+        "longitude": -122.12942319999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2986352004365957965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.indochineca.com/",
+      "displayName": {
+        "text": "Indochine",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Indochine Small.jpeg",
+      "description": "Longstanding Middlefield Road Thai and Vietnamese kitchen with bold curries, fresh spring rolls, and catering for private events and corporate meetings.",
+      "phone": "(650) 321-8880",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.indochinethai.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJC3GmmeW6j4ARj7GQjerUWUY",
+      "formattedAddress": "341 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426967999999995,
+        "longitude": -122.144055
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5069316959444709775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.italicorestaurant.com/",
+      "displayName": {
+        "text": "iTalico",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/iTalico Small.jpeg",
+      "description": "Michelin Bib Gourmand-recognized California Avenue Italian with Neapolitan-style pizza, housemade pasta, and a Wine Spectator-awarded wine list.",
+      "phone": "(650) 318-6199",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.italicorestaurant.com/menu-italico",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJ06EYWO-6j4AR5x1zss9iick",
+      "formattedAddress": "477 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425408399999995,
+        "longitude": -122.14532919999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14522247117624516071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.izzysbrooklynbagels.com/%20%20%20%20%20https://izzysbb.square.site/#4",
+      "displayName": {
+        "text": "Izzy's Brooklyn Bagels",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/palo-alto/Izzys Brooklyn Bagels Small.jpeg",
+      "description": "Colorful hand-rolled bagels, deli sandwiches, and coffee served daily from 6 AM at a beloved Palo Alto institution.",
+      "phone": "(650) 328-5588",
+      "hours": {
+        "Monday": "6:00 AM – 3:00 PM",
+        "Tuesday": "6:00 AM – 3:00 PM",
+        "Wednesday": "6:00 AM – 3:00 PM",
+        "Thursday": "6:00 AM – 3:00 PM",
+        "Friday": "6:00 AM – 3:00 PM",
+        "Saturday": "6:00 AM – 3:00 PM",
+        "Sunday": "6:00 AM – 3:00 PM"
+      },
+      "menuUrl": "https://www.izzysbrooklynbagels.com/menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJIdvn8OW6j4ARLuSJEAHBDoY",
+      "formattedAddress": "454 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425861999999995,
+        "longitude": -122.14545299999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9659870461072892974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.jinshorestaurant.com/",
+      "displayName": {
+        "text": "Jin Sho",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Jinsho Small.jpeg",
+      "description": "Refined California Avenue Japanese restaurant with chefs trained at Nobu NY, praised for pristine miso black cod, blue fin tuna, and seasonal sashimi.",
+      "phone": "(650) 617-3122",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.jinshorestaurant.com/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJK3g59OW6j4AR5Q5CCNShy3o",
+      "formattedAddress": "405 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4263889,
+        "longitude": -122.14455830000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8848343824943156965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://joaniescafepaloalto.com/",
+      "displayName": {
+        "text": "Joanie's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Joanies Cafe Small.jpeg",
+      "description": "Four-time Palo Alto Weekly Best Breakfast winner known for generous American portions, smoked salmon omelets, Cobb salad, and hash browns.",
+      "phone": "(650) 326-8485",
+      "hours": {
+        "Monday": "7:00 AM – 3:00 PM",
+        "Tuesday": "7:00 AM – 3:00 PM",
+        "Wednesday": "7:00 AM – 3:00 PM",
+        "Thursday": "7:00 AM – 3:00 PM",
+        "Friday": "7:00 AM – 3:00 PM",
+        "Saturday": "7:00 AM – 3:00 PM",
+        "Sunday": "7:00 AM – 3:00 PM"
+      },
+      "menuUrl": "http://joaniescafepaloalto.com/menus.html",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJqQzX9eW6j4ARRQTr9028s7k",
+      "formattedAddress": "451 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425717399999996,
+        "longitude": -122.1451083
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13381245960905753669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.kaligreekkitchen.com/",
+      "displayName": {
+        "text": "Kali Greek Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kali Small.jpeg",
+      "description": "Fast-casual Greek kitchen at Stanford Shopping Center serving housemade gyros, falafel, and fresh-baked pita with a vibrant Mediterranean spread.",
+      "phone": "(650) 485-3134",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://kaligreekkitchen.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ0dOudwC7j4AREfbInswM9lA",
+      "formattedAddress": "4131 El Camino Way, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413880299999995,
+        "longitude": -122.124792
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5833864440281888273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kanjisushiramen.menu11.com/",
+      "displayName": {
+        "text": "Kanji Sushi & Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kanji Sushi Small.jpeg",
+      "description": "Lively Japanese spot combining creative sushi rolls and rich tonkotsu and miso ramen bowls in a casual, welcoming setting.",
+      "phone": "(650) 565-8868",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJMcUKNDi7j4AREnV3Wx48tZg",
+      "formattedAddress": "330 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4470525,
+        "longitude": -122.16237349999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11003767365630915858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kanpaipaloalto.com/",
+      "displayName": {
+        "text": "Kanpai",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kanpai Small.jpeg",
+      "description": "Intimate Lytton Avenue Japanese restaurant with a tranquil Japan-inspired interior, traditional donburi, sushi, and an extensive sake selection.",
+      "phone": "(650) 321-7796",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:00 PM",
+        "Saturday": "5:00 PM – 9:00 PM",
+        "Sunday": "5:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJbxXHNb-7j4ARBRYRzHaw37A",
+      "formattedAddress": "339 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4465508,
+        "longitude": -122.1613223
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12745099494758094341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.khazanapaloalto.com/",
+      "displayName": {
+        "text": "Khazana by Chef Sanjeev Kapoor",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Khazana Small.jpeg",
+      "description": "Modern Indian concept on University Avenue from India's most celebrated TV chef with seasonal cocktails and a full bar.",
+      "phone": "(650) 326-0000",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.khazanapaloalto.com/",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJc5w7vvy6j4ARAFnKDu5CVRI",
+      "formattedAddress": "2680 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4334804,
+        "longitude": -122.13011600000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1321035655920900352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.kirks-steakburgers.com/?utm_source=gmb&utm_medium=organic&utm_campaign=palo+alto",
+      "displayName": {
+        "text": "Kirk's SteakBurgers - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/palo-alto/Kirks Small.jpeg",
+      "description": "Bay Area burger institution grinding USDA choice steak in-house daily for thick patties and a devoted following for over 40 years.",
+      "phone": "(650) 324-6151",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://kirksburgers.com/menu/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJRbsp9uW6j4ARyUJHxK7xFX8",
+      "formattedAddress": "463 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4254329,
+        "longitude": -122.1452003
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9157491150247379657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.labodeguita.com/",
+      "displayName": {
+        "text": "La Bodeguita del Medio",
+        "languageCode": "en"
+      },
+      "cuisine": "Caribbean",
+      "photoUrl": "images/restaurant-photos/palo-alto/La Bodeguita Del Medio Small.jpeg",
+      "description": "Multiple Palo Alto Weekly Best Ambience and Best Latin American winner with Cuban ropa vieja, rum cocktails, and a heated California Avenue patio.",
+      "phone": "(650) 326-7762",
+      "hours": {
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://labodeguita.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJp_VW7eW6j4ARpcOR4xWV7bo",
+      "formattedAddress": "415 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4262194,
+        "longitude": -122.1446667
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13469585981779854245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.labohemepaloalto.com/",
+      "displayName": {
+        "text": "La Boheme",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/La Boheme Small.jpeg",
+      "description": "Intimate French-Californian dinner spot with refined coq au vin, beef bourguignon, and a thoughtfully curated wine list for special evenings.",
+      "phone": "(650) 328-8180",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://labohemepaloalto.com/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJX2dDTkW7j4ARFo59XEuoaPk",
+      "formattedAddress": "3906 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4192296,
+        "longitude": -122.11039539999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17971799354649710102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lequyorg.wordpress.com/",
+      "displayName": {
+        "text": "LeQuy",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Le Quy Small.jpeg",
+      "description": "Neighborhood Vietnamese restaurant with a loyal Palo Alto following for pho, banh mi, and classic stir-fries at everyday prices.",
+      "phone": "(650) 326-5420",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJScdLwDm7j4ARCbo6bng01sU",
+      "formattedAddress": "271 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445838599999995,
+        "longitude": -122.16219160000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14255639362337946121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.localunion271.com/",
+      "displayName": {
+        "text": "Local Union 271",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Local Union 271 Small.jpeg",
+      "description": "Family-owned farm-to-table American kitchen with scratch-made dishes, locally sourced ingredients, and handcrafted decor throughout.",
+      "phone": "(650) 747-0555",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "menuUrl": "https://localunion271.com/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJEWzP8uW6j4ARv-d5dhqlvk8",
+      "formattedAddress": "425 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4260752,
+        "longitude": -122.14474440000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5746211707646764991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.lotusthaibistro.com/home",
+      "displayName": {
+        "text": "Lotus Thai Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Lotus Thai Bistro Small.jpeg",
+      "description": "Reliable California Avenue Thai bistro with a broad menu of curries, pad Thai, and noodle dishes for casual lunch and dinner.",
+      "phone": "(650) 329-8424",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.lotusthaibistro.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJG7rdAmS7j4ARayztR1t8nNg",
+      "formattedAddress": "488 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4480031,
+        "longitude": -122.15927529999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15608487140049890411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.louandherberts.com/?y_source=1_MTA2Njc4ODczNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "displayName": {
+        "text": "Lou & Herbert's",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Lou & Herberts Cafe Small.jpeg",
+      "description": "All-day neighborhood American cafe serving breakfast and dinner from early morning through evening with a relaxed, welcoming atmosphere.",
+      "phone": "(650) 521-0651",
+      "hours": {
+        "Monday": "7:00 AM – 9:00 PM",
+        "Tuesday": "7:00 AM – 9:00 PM",
+        "Wednesday": "7:00 AM – 9:00 PM",
+        "Thursday": "7:00 AM – 9:00 PM",
+        "Friday": "7:00 AM – 9:00 PM",
+        "Saturday": "7:00 AM – 9:00 PM",
+        "Sunday": "7:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.louandherberts.com/",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJq2vyQB67j4ARBkHWA8vFNqU",
+      "formattedAddress": "420 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4458957,
+        "longitude": -122.1632956
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11904920140733890822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.macarenarestaurant.com/",
+      "displayName": {
+        "text": "Macarena Restaurant in Palo Alto",
+        "languageCode": "es"
+      },
+      "cuisine": "Spanish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Macarena Small.jpeg",
+      "phone": "(650) 321-8772",
+      "hours": {
+        "Monday": "11:30 AM – 9:30 PM",
+        "Tuesday": "11:30 AM – 9:30 PM",
+        "Wednesday": "11:30 AM – 9:30 PM",
+        "Thursday": "11:30 AM – 9:30 PM",
+        "Friday": "11:30 AM – 9:30 PM",
+        "Saturday": "11:30 AM – 9:30 PM",
+        "Sunday": "11:30 AM – 9:30 PM"
+      },
+      "menuUrl": "https://www.macarena.restaurant/menu",
+      "priceRange": "$$",
+      "description": "Traditional Spanish kitchen on Ramona Street with Michelin backing, authentic paellas, croquetas de jamon, and house-made sangria."
+    },
+    {
+      "id": "ChIJQSEisjC7j4AR3juLmOBOEys",
+      "formattedAddress": "27 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4430264,
+        "longitude": -122.16552460000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3103911294727306206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://macpark.com/?utm_source=google",
+      "displayName": {
+        "text": "MacArthur Park Restaurant and Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/MacArthur Park Small.jpeg",
+      "phone": "(650) 321-9990",
+      "hours": {
+        "Tuesday": "4:30 PM – 9:00 PM",
+        "Wednesday": "4:30 PM – 9:00 PM",
+        "Thursday": "4:30 PM – 9:00 PM",
+        "Friday": "4:30 PM – 9:00 PM",
+        "Saturday": "4:30 PM – 9:00 PM"
+      },
+      "menuUrl": "https://macpark.com/menus/",
+      "priceRange": "$$",
+      "description": "Palo Alto landmark since 1972 in a 1918 Julia Morgan building, famous for award-winning mesquite BBQ baby back ribs and prime rib."
+    },
+    {
+      "id": "ChIJK7u-fDi7j4ARObxmEVWASuE",
+      "formattedAddress": "499 Lytton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.449140899999996,
+        "longitude": -122.1607321
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16233928909662895161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mademoisellecolette.com/",
+      "displayName": {
+        "text": "Mademoiselle Colette",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Mademoisel Colette Small.jpeg",
+      "phone": "(650) 326-8485",
+      "hours": {
+        "Monday": "8:00 AM – 4:00 PM",
+        "Tuesday": "8:00 AM – 4:00 PM",
+        "Wednesday": "8:00 AM – 4:00 PM",
+        "Thursday": "8:00 AM – 4:00 PM",
+        "Friday": "8:00 AM – 4:00 PM",
+        "Saturday": "8:00 AM – 4:00 PM",
+        "Sunday": "8:00 AM – 4:00 PM"
+      },
+      "menuUrl": "https://www.mademoisellecolette.com/palo-alto-menu/",
+      "priceRange": "$$",
+      "description": "French patisserie on Lytton Avenue known for buttery handmade croissants, elegant tarts, and silky espresso since 2015."
+    },
+    {
+      "id": "ChIJhdRF_Zq7j4ARNcQ9kDH1444",
+      "formattedAddress": "383 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.447201799999995,
+        "longitude": -122.16081659999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10296342766321255477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.marugameudon.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+      "displayName": {
+        "text": "Marugame Udon",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Marugame Udon Small.jpeg",
+      "phone": "(650) 681-1280",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.marugameudon.com/menu/",
+      "priceRange": "$$",
+      "description": "Japanese fast-casual chain on University Avenue with handcrafted Sanuki-style udon made to order in an open theater kitchen."
+    },
+    {
+      "id": "ChIJEWzP8uW6j4ARkmIR7vba8es",
+      "formattedAddress": "433 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426045599999995,
+        "longitude": -122.1448464
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17001610822391259794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mediterraneanwraps.com/?utm_source=google",
+      "displayName": {
+        "text": "Mediterranean Wraps",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Mediterranean Wraps Small.jpeg",
+      "phone": "(650) 326-2900",
+      "hours": {
+        "Monday": "10:30 AM – 8:00 PM",
+        "Tuesday": "10:30 AM – 8:00 PM",
+        "Wednesday": "10:30 AM – 8:00 PM",
+        "Thursday": "10:30 AM – 8:00 PM",
+        "Friday": "10:30 AM – 8:00 PM",
+        "Saturday": "11:00 AM – 7:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Quick-service Mediterranean counter with fresh-made wraps, falafel, and gyros at some of the most affordable prices on California Avenue."
+    },
+    {
+      "id": "ChIJH_zZcy-7j4ARwPbn3XT47A4",
+      "formattedAddress": "167 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443697799999995,
+        "longitude": -122.16209699999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1075507591857567424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mendocinofarms.com/locations/palo-alto",
+      "displayName": {
+        "text": "Mendocino Farms",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Mendocino Farms Small.jpeg",
+      "phone": "(650) 561-1540",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.mendocinofarms.com/menu/palo-alto/",
+      "priceRange": "$$",
+      "description": "California sandwich and salad chain known for fresh ingredients, bold flavor combinations, and extensive options for all dietary preferences."
+    },
+    {
+      "id": "ChIJgfDze5W7j4ARwXfuLNFJ6jM",
+      "formattedAddress": "640 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4432991,
+        "longitude": -122.16098969999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3740883603235436481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.meyhouserestaurant.com/",
+      "displayName": {
+        "text": "Meyhouse & Meyhouse Jazz Club",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Meyhouse Small.jpeg",
+      "phone": "(650) 521-9002",
+      "hours": {
+        "Tuesday": "5:00 PM – 11:00 PM",
+        "Wednesday": "5:00 PM – 11:00 PM",
+        "Thursday": "5:00 PM – 11:00 PM",
+        "Friday": "5:00 PM – 11:00 PM",
+        "Saturday": "5:00 PM – 11:00 PM",
+        "Sunday": "5:00 PM – 11:00 PM"
+      },
+      "menuUrl": "https://www.meyhouserestaurant.com/palo-alto",
+      "priceRange": "$$$",
+      "description": "Elevated Turkish-Mediterranean dining on Emerson Street with live jazz, tender lamb chops, vibrant mezes, and a curated wine list."
+    },
+    {
+      "id": "ChIJAQDASDq7j4ARmCZUEs0AJD4",
+      "formattedAddress": "632 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4433231,
+        "longitude": -122.161034
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4477704810288916120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mezekebab.com/",
+      "displayName": {
+        "text": "Meze Kebab",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Meze Kebab Small.jpeg",
+      "phone": "(650) 521-0282",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Downtown Palo Alto Turkish kitchen serving housemade hummus, grilled kebabs, and Mediterranean small plates next door to Meyhouse."
+    },
+    {
+      "id": "ChIJ1QZb_YW7j4ARtxp0qRa2n-o",
+      "formattedAddress": "2305 El Camino Real suite a, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4257573,
+        "longitude": -122.14644109999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16906431734620625591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mjsushi.net/",
+      "displayName": {
+        "text": "MJ Sushi Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/MJ Sushi Small.jpeg",
+      "phone": "(650) 617-4567",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Casual neighborhood sushi spot with generous portions of fresh nigiri, creative rolls, and beef udon at everyday prices.",
+      "menuUrl": "https://mjsushi.net/menu"
+    },
+    {
+      "id": "ChIJE4gDeLG7j4AR_kI1Gek5x9E",
+      "formattedAddress": "447 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.425763599999996,
+        "longitude": -122.1449994
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15116114347605443326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://namasteindiabistro.com/",
+      "displayName": {
+        "text": "Namaste Indian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Namaste Small.jpeg",
+      "phone": "(650) 462-9696",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Neighborhood Indian kitchen with a devoted local following for butter chicken, garlic naan, and a weekday lunch buffet."
+    },
+    {
+      "id": "ChIJq6oGtOW6j4AROUSVKcfXF0k",
+      "formattedAddress": "2323 Birch St, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4279112,
+        "longitude": -122.14446710000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5266915539629196345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://naschmarktpaloalto.com/",
+      "displayName": {
+        "text": "Naschmarkt - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Naschmarkt - Palo Alto Small.jpeg",
+      "phone": "(650) 328-2445",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://naschmarktpaloalto.com/",
+      "priceRange": "$$$",
+      "description": "Family-owned Austrian restaurant on Birch Street with crispy Wiener Schnitzel, double-cooked pork belly, and European beers since 2022."
+    },
+    {
+      "id": "ChIJiZtnUze7j4ARuAzIjrVxmsM",
+      "formattedAddress": "125 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4439807,
+        "longitude": -122.1637183
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14094703008407882936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "New York New York Sandwiches",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/New York New York Sandwiches Small.jpeg",
+      "phone": "(650) 328-8800",
+      "hours": {
+        "Monday": "10:00 AM – 6:00 PM",
+        "Tuesday": "10:00 AM – 6:00 PM",
+        "Wednesday": "10:00 AM – 6:00 PM",
+        "Thursday": "10:00 AM – 6:00 PM",
+        "Friday": "10:00 AM – 6:00 PM",
+        "Saturday": "10:00 AM – 6:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Longtime Palo Alto deli with thick-cut New York style deli sandwiches and classic cold-cut combinations at affordable prices."
+    },
+    {
+      "id": "ChIJ0y2QeTm7j4ARoys6DSP_0k4",
+      "formattedAddress": "325 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4455148,
+        "longitude": -122.16014190000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5679882606078471075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.newyorkpizzapaloalto.com/",
+      "displayName": {
+        "text": "New York Pizza Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/New York Pizza Small.jpeg",
+      "phone": "(650) 326-6973",
+      "hours": {
+        "Monday": "11:00 AM – 11:00 PM",
+        "Tuesday": "11:00 AM – 11:00 PM",
+        "Wednesday": "11:00 AM – 11:00 PM",
+        "Thursday": "11:00 AM – 11:00 PM",
+        "Friday": "11:00 AM – 11:00 PM",
+        "Saturday": "11:00 AM – 11:00 PM",
+        "Sunday": "11:00 AM – 11:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Classic New York style pizza by the slice or whole pie with a devoted following for its foldable thin crust and late-night hours.",
+      "menuUrl": "https://newyorkpizza.biz/menu"
+    },
+    {
+      "id": "ChIJofIvZUq7j4ARjUq2CGrWy74",
+      "formattedAddress": "322 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4461163,
+        "longitude": -122.16103849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13748318038379612813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.nickthegreek.com/",
+      "displayName": {
+        "text": "Nick The Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nick The Greek Small.jpeg",
+      "phone": "(650) 382-4010",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.nickthegreek.com/menu",
+      "priceRange": "$$",
+      "description": "Fast-casual Greek chain with hand-carved gyros, lamb and chicken souvlaki, and fresh tzatziki served quickly in a modern setting."
+    },
+    {
+      "id": "ChIJIxzPPjq7j4ARKDndKncRuwU",
+      "formattedAddress": "180 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4437193,
+        "longitude": -122.16147029999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=412942994352453928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.noburestaurants.com/paloalto/home/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
+      "displayName": {
+        "text": "Nobu Restaurant Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nobu Small.jpeg",
+      "phone": "(650) 531-8800",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://noburestaurants.com/paloalto/home",
+      "priceRange": "$$$$",
+      "description": "The Bay Area's only Nobu location at the Epiphany Hotel, co-founded by Chef Matsuhisa and Robert De Niro, with signature black cod miso."
+    },
+    {
+      "id": "ChIJdwmtjjm7j4ARuuLA95wq7wQ",
+      "formattedAddress": "535 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4449386,
+        "longitude": -122.1614268
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=355549749245436602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nolas.com/",
+      "displayName": {
+        "text": "Nola",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Nola Small.jpeg",
+      "phone": "(650) 328-2722",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$$",
+      "description": "New Orleans-inspired kitchen on University Avenue with Cajun and Creole classics, craft cocktails, and a lively all-day dining atmosphere.",
+      "menuUrl": "https://www.nolapaloalto.com/menu"
+    },
+    {
+      "id": "ChIJweDvIRm7j4AR8IWnMD_jNrI",
+      "formattedAddress": "452 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4476055,
+        "longitude": -122.1595835
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12841701248032278000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.o2-valley.com/palo-alto/menu",
+      "displayName": {
+        "text": "O2 Valley",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/O2 Valley Small.jpeg",
+      "phone": "(650) 565-8860",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Chinese hot pot and bubble tea spot with a broad selection of broths, fresh ingredients, and customizable dipping sauces."
+    },
+    {
+      "id": "ChIJYZChWOa6j4ARo-N9ldn_yos",
+      "formattedAddress": "2111 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427065,
+        "longitude": -122.14805059999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10073144826548577187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://odorisushistanford.com/",
+      "displayName": {
+        "text": "Odori Japanese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Odori Sushi Small.jpeg",
+      "phone": "(650) 322-7939",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Quiet neighborhood Japanese restaurant with precise sashimi, teriyaki, and bento boxes in a relaxed unhurried setting."
+    },
+    {
+      "id": "ChIJ0wzVVCC7j4ARETETP1JS-5M",
+      "formattedAddress": "205 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4449633,
+        "longitude": -122.1628192
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10663207055928799505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.oklavacafe.com/",
+      "displayName": {
+        "text": "Oklava Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Oklava Small.jpeg",
+      "phone": "(650) 617-8888",
+      "hours": {
+        "Monday": "8:00 AM – 8:00 PM",
+        "Tuesday": "8:00 AM – 8:00 PM",
+        "Wednesday": "8:00 AM – 8:00 PM",
+        "Thursday": "8:00 AM – 8:00 PM",
+        "Friday": "8:00 AM – 8:00 PM",
+        "Saturday": "8:00 AM – 8:00 PM",
+        "Sunday": "8:00 AM – 8:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Turkish-inspired all-day cafe serving freshly prepared breakfast, housemade pastries, sandwiches, and specialty coffees from early morning."
+    },
+    {
+      "id": "ChIJz1CaiuS7j4ARJ0FvNTILUoo",
+      "formattedAddress": "164 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4442218,
+        "longitude": -122.163046
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9967041235597082919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.onigilly.com/",
+      "displayName": {
+        "text": "Onigilly Japanese Kitchen - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Onigilly Small.jpeg",
+      "phone": "(650) 561-4868",
+      "hours": {
+        "Monday": "11:00 AM – 8:00 PM",
+        "Tuesday": "11:00 AM – 8:00 PM",
+        "Wednesday": "11:00 AM – 8:00 PM",
+        "Thursday": "11:00 AM – 8:00 PM",
+        "Friday": "11:00 AM – 8:00 PM",
+        "Saturday": "11:00 AM – 8:00 PM",
+        "Sunday": "11:00 AM – 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Japanese rice ball chain with gourmet onigiri stuffed with premium fillings like salmon, tuna, and umeboshi for a quick nutritious meal.",
+      "menuUrl": "https://www.onigilly.com/menu"
+    },
+    {
+      "id": "ChIJ361H6jm7j4ARk1vmz_dEqwE",
+      "formattedAddress": "261 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4456966,
+        "longitude": -122.16222820000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=120265646191041427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orenshummus.com/",
+      "displayName": {
+        "text": "Oren's Hummus",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Small.jpeg",
+      "phone": "(650) 752-6492",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://orenshummus.com/menu",
+      "priceRange": "$$",
+      "description": "Israeli-style hummus restaurant on University Avenue with velvety housemade hummus, fresh pita, and a devoted line of regulars."
+    },
+    {
+      "id": "ChIJe858WAS7j4AR3SYscE3OsZU",
+      "formattedAddress": "855 El Camino Real #162, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4391487,
+        "longitude": -122.15807369999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10786629414518793949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.orenshummusexpress.com/",
+      "displayName": {
+        "text": "Orens Hummus Express",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/Orens Hummus Express Small.jpeg",
+      "phone": "(650) 600-8181",
+      "hours": {
+        "Monday": "11:00 AM – 8:00 PM",
+        "Tuesday": "11:00 AM – 8:00 PM",
+        "Wednesday": "11:00 AM – 8:00 PM",
+        "Thursday": "11:00 AM – 8:00 PM",
+        "Friday": "11:00 AM – 8:00 PM",
+        "Saturday": "11:00 AM – 8:00 PM",
+        "Sunday": "11:00 AM – 8:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "A faster-format companion to Oren's Hummus with the same fresh housemade hummus and falafel in a more casual counter setting."
+    },
+    {
+      "id": "ChIJPwEoJjq7j4AR4Ymjl9MBLUw",
+      "formattedAddress": "247 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444444,
+        "longitude": -122.16116709999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5489045529128307169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.osteriatoscanapaloalto.com/",
+      "displayName": {
+        "text": "Osteria Toscana",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Osteria Small.jpeg",
+      "phone": "(650) 328-5700",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:30 PM",
+        "Wednesday": "5:00 PM – 9:30 PM",
+        "Thursday": "5:00 PM – 9:30 PM",
+        "Friday": "5:00 PM – 9:30 PM",
+        "Saturday": "5:00 PM – 9:30 PM",
+        "Sunday": "5:00 PM – 9:30 PM"
+      },
+      "priceRange": "$$$",
+      "description": "California Avenue Tuscan trattoria with housemade pasta, braised meats, and a curated Italian wine list in a warm intimate setting.",
+      "menuUrl": "https://www.osteriapaloalto.com/menu"
+    },
+    {
+      "id": "ChIJJzcXtnO7j4ARGsdmlyvEgYI",
+      "formattedAddress": "711 Stanford Shopping Center, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4427423,
+        "longitude": -122.1729721
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9404013188429039386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pacificcatch.com/",
+      "displayName": {
+        "text": "Pacific Catch",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pacific Catch Small.jpeg",
+      "phone": "(650) 324-2722",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "West Coast fish house at Stanford Shopping Center serving sustainably sourced seafood with Pacific Rim flavors and Aloha-inspired hospitality."
+    },
+    {
+      "id": "ChIJyaiRIjq7j4ARpFp0WP-WoNA",
+      "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4438785,
+        "longitude": -122.16178900000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15033181579607562916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.paloaltocreamery.com/",
+      "displayName": {
+        "text": "Palo Alto Creamery",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Creamery Small.jpeg",
+      "phone": "(650) 327-3136",
+      "hours": {
+        "Monday": "7:00 AM – 9:00 PM",
+        "Tuesday": "7:00 AM – 9:00 PM",
+        "Wednesday": "7:00 AM – 9:00 PM",
+        "Thursday": "7:00 AM – 9:00 PM",
+        "Friday": "7:00 AM – 9:00 PM",
+        "Saturday": "7:00 AM – 9:00 PM",
+        "Sunday": "7:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "A Palo Alto institution since 1923 with made-from-scratch milkshakes, burgers, waffles, and all-American fountain treats served by authentic soda jerks."
+    },
+    {
+      "id": "ChIJ3dmr7OW6j4ARdga458ttjlg",
+      "formattedAddress": "408 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4266169,
+        "longitude": -122.14491950000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6381158444563957366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.solrestaurantsca.com/",
+      "displayName": {
+        "text": "Palo Alto Sol",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Palo Alto Sol Small.jpeg",
+      "phone": "(650) 328-8840",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Family-owned Mexican kitchen serving traditional regional dishes from Puebla using family recipes and sustainably sourced local ingredients."
+    },
+    {
+      "id": "ChIJdas5PTq7j4ARyZEoz7vVmg0",
+      "formattedAddress": "566 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4438785,
+        "longitude": -122.16178900000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=980330871517647305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.paloaltocreamery.com/",
+      "displayName": {
+        "text": "Peninsula Fountain Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Peninsula Foutain & Grill Small.jpeg",
+      "phone": "(650) 326-9276",
+      "hours": {
+        "Monday": "7:00 AM – 3:00 PM",
+        "Tuesday": "7:00 AM – 3:00 PM",
+        "Wednesday": "7:00 AM – 3:00 PM",
+        "Thursday": "7:00 AM – 3:00 PM",
+        "Friday": "7:00 AM – 3:00 PM",
+        "Saturday": "7:00 AM – 3:00 PM",
+        "Sunday": "7:00 AM – 3:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "A beloved Palo Alto lunch counter institution known colloquially as The Creamery, serving burgers, omelets, waffles, and house-made pie since 1923."
+    },
+    {
+      "id": "ChIJT_HstGa7j4ARLGiY5dPGJDg",
+      "formattedAddress": "185 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444708899999995,
+        "longitude": -122.16304019999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4045576978677917740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.phohanoiusa.com/",
+      "displayName": {
+        "text": "Phở Hà Nội",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pho Ha Noi Small.jpeg",
+      "phone": "(650) 561-4862",
+      "hours": {
+        "Monday": "10:00 AM – 9:00 PM",
+        "Tuesday": "10:00 AM – 9:00 PM",
+        "Wednesday": "10:00 AM – 9:00 PM",
+        "Thursday": "10:00 AM – 9:00 PM",
+        "Friday": "10:00 AM – 9:00 PM",
+        "Saturday": "10:00 AM – 9:00 PM",
+        "Sunday": "10:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Vietnamese pho kitchen using ancestral spice recipes, Harris Ranch Angus beef, free-range chicken, and spices harvested from Vietnam's Central Valley mountains."
+    },
+    {
+      "id": "ChIJCS4OBAC7j4AR3jawAgUTF3I",
+      "formattedAddress": "3864 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4170934,
+        "longitude": -122.1312946
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8221060557028996830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://222.pizzaguys.com/",
+      "displayName": {
+        "text": "Pizza Guys",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizza Guys Small.jpeg",
+      "phone": "(650) 462-9999",
+      "hours": {
+        "Monday": "10:00 AM – 11:00 PM",
+        "Tuesday": "10:00 AM – 11:00 PM",
+        "Wednesday": "10:00 AM – 11:00 PM",
+        "Thursday": "10:00 AM – 11:00 PM",
+        "Friday": "10:00 AM – 11:00 PM",
+        "Saturday": "10:00 AM – 11:00 PM",
+        "Sunday": "10:00 AM – 11:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Made-to-order pizza chain with a broad menu of classic and specialty pies available for delivery and pickup until 11 PM daily."
+    },
+    {
+      "id": "ChIJN1Yf8Dm7j4ARg7totskx17E",
+      "formattedAddress": "220 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4448417,
+        "longitude": -122.16231940000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12814766007124540291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzamyheart.com/",
+      "displayName": {
+        "text": "Pizza My Heart",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizza My Heart Small.jpeg",
+      "phone": "(650) 323-4100",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$",
+      "description": "California surf-culture pizza chain with a devoted Peninsula following for its thin-crust pies, calzones, and affordable slices."
+    },
+    {
+      "id": "ChIJCS_HTDq7j4ARskXdL5usfsU",
+      "formattedAddress": "651 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4434222,
+        "longitude": -122.1604222
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14231001655060284850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzeriadelfina.com/location/palo-alto/",
+      "displayName": {
+        "text": "Pizzeria Delfina - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Pizzeria Delfina Small.jpeg",
+      "phone": "(650) 353-2208",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Peninsula outpost of the James Beard Award-winning SF original, serving Neapolitan-inspired thin-crust pizzas with a daily-changing seasonal menu since 2014."
+    },
+    {
+      "id": "ChIJHUVxbf67j4ARDeXKRT7FmeA",
+      "formattedAddress": "855 El Camino Real #9, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4384958,
+        "longitude": -122.16064029999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16184183607182157069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.poke.house/locations/poke-el-camino-palo-alto",
+      "displayName": {
+        "text": "Poke House - Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Poke House Small.jpeg",
+      "phone": "(650) 617-3333",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Build-your-own poke bowl concept inspired by Hawaiian flavors with fresh sustainable fish and a California spirit in every bowl."
+    },
+    {
+      "id": "ChIJ14CVruW6j4ARoh-i6iIAe5g",
+      "formattedAddress": "250 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.427836,
+        "longitude": -122.14382429999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10987375865865838498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.protegepaloalto.com/",
+      "displayName": {
+        "text": "Protégé",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Protege Small.jpeg",
+      "phone": "(650) 332-0474",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:00 PM",
+        "Saturday": "5:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$$$",
+      "description": "Michelin-starred New American restaurant on California Avenue from French Laundry alumni, earning the Bay Area's attention since opening in 2018."
+    },
+    {
+      "id": "ChIJq6Jj6y-7j4ARmkaTCtvuosg",
+      "formattedAddress": "445 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4257831,
+        "longitude": -122.1449662
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14457380378355386010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ramenkowa.com/",
+      "displayName": {
+        "text": "Ramen Kowa",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ramen Kowa Small.jpeg",
+      "phone": "(650) 600-8288",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "California Avenue ramen kitchen with rich broths, perfectly fried karaage, and Japanese curry in a neighborhood setting representing Japanese culture and craft."
+    },
+    {
+      "id": "ChIJR1988Qm7j4ARi_KmggVETuc",
+      "formattedAddress": "541 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4454813,
+        "longitude": -122.16072450000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16667334061402288779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ramennagiusa.com/",
+      "displayName": {
+        "text": "Ramen Nagi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Ramen Nagi Small.jpeg",
+      "phone": "(650) 399-9285",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Revered Tokyo-based ramen chain with its first US location in Palo Alto, famous for intensely rich broth and fully customizable bowls."
+    },
+    {
+      "id": "ChIJmWwu4jm7j4ARtbXJ6I2CZrg",
+      "formattedAddress": "445 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445076300000004,
+        "longitude": -122.1631074
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13287451296610760117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://rangoonrubypa.com/",
+      "displayName": {
+        "text": "Rangoon Ruby Burmese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Burmese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Rangoon Ruby Small.jpeg",
+      "phone": "(650) 323-6543",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Chef Max Lee's celebrated Burmese kitchen with garlic noodles, coconut rice, and nan gyi dok noodles drawing a devoted following for modern Burmese cuisine."
+    },
+    {
+      "id": "ChIJeYSESRq7j4AREj5yWWRdjrc",
+      "formattedAddress": "201 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428218,
+        "longitude": -122.14306999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13226611841212497426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rararestaurant.com/",
+      "displayName": {
+        "text": "Rara",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Rara Small.jpeg",
+      "phone": "(650) 521-0768",
+      "hours": {
+        "Monday": "11:30 AM – 9:30 PM",
+        "Tuesday": "11:30 AM – 9:30 PM",
+        "Wednesday": "11:30 AM – 9:30 PM",
+        "Thursday": "11:30 AM – 9:30 PM",
+        "Friday": "11:30 AM – 9:30 PM",
+        "Saturday": "11:30 AM – 9:30 PM",
+        "Sunday": "11:30 AM – 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "A vibrant neighborhood restaurant with a rotating menu of globally inspired small plates, natural wines, and a lively convivial atmosphere."
+    },
+    {
+      "id": "ChIJlSPd8w67j4ARZy6_cUeyGng",
+      "formattedAddress": "501 Oxford Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4265576,
+        "longitude": -122.1484342
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8654425653866606183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://realmediterraneankitchen.com/",
+      "displayName": {
+        "text": "Real Mediterranean Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "phone": "(650) 272-6955",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Fresh housemade Mediterranean dishes with halal options, generous portions, and a broad menu of wraps, plates, and sides in a casual setting."
+    },
+    {
+      "id": "ChIJt-5IyBa7j4ARD5iJZz4Ay0Y",
+      "formattedAddress": "450 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4462476,
+        "longitude": -122.1624397
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5101171270952261647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.avenidas.org/programs/cafe/",
+      "displayName": {
+        "text": "Redwood Café by Chef Julien",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/palo-alto/Redwood Cafe Small.jpeg",
+      "phone": "(650) 322-8505",
+      "hours": {
+        "Monday": "7:00 AM – 3:00 PM",
+        "Tuesday": "7:00 AM – 3:00 PM",
+        "Wednesday": "7:00 AM – 3:00 PM",
+        "Thursday": "7:00 AM – 3:00 PM",
+        "Friday": "7:00 AM – 3:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Daytime cafe from a French-trained chef with farm-to-table breakfast and lunch using locally procured ingredients near Stanford."
+    },
+    {
+      "id": "ChIJY0yKLzq7j4ARNNLYPbJMgN8",
+      "formattedAddress": "236 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4441583,
+        "longitude": -122.1609667
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16104956595902403124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.reposadorestaurant.com/",
+      "displayName": {
+        "text": "Reposado",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Reposado Small.jpeg",
+      "phone": "(650) 833-3151",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$$",
+      "description": "Palo Alto's premier tequila and mezcal destination with an extensive agave spirits program alongside a full Mexican kitchen and lively bar."
+    },
+    {
+      "id": "ChIJxQENlQ67j4AReETtyacmZA4",
+      "formattedAddress": "180 El Camino Real Building B, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4447784,
+        "longitude": -122.17224119999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1036996316291220600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rh.com/paloalto/restaurant",
+      "displayName": {
+        "text": "RH Rooftop Restaurant at RH Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/RH Rooftop Restaurant Small.jpeg"
+    },
+    {
+      "id": "ChIJD_pTEsy7j4ARmC6OuQ2GZ0k",
+      "formattedAddress": "473 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4481323,
+        "longitude": -122.15981430000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5289343680875736728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roohrestaurants.com/",
+      "displayName": {
+        "text": "ROOH Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Rooh Small.jpeg",
+      "phone": "(650) 304-3963",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "priceRange": "$$$",
+      "description": "Modern Indian kitchen on University Avenue from Chef Sujan Sarkar exploring open-fire cooking and regional Indian flavors in a splashy communal setting."
+    },
+    {
+      "id": "ChIJrTBLD1K7j4ARMNQr2bMszJ0",
+      "formattedAddress": "855 El Camino Real #157, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4392357,
+        "longitude": -122.1583252
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11370512310157956144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.roostandroast.com/",
+      "displayName": {
+        "text": "Roost & Roast",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Roost & Roast Small.jpeg",
+      "phone": "(650) 600-0012",
+      "hours": {
+        "Monday": "7:00 AM – 5:00 PM",
+        "Tuesday": "7:00 AM – 5:00 PM",
+        "Wednesday": "7:00 AM – 5:00 PM",
+        "Thursday": "7:00 AM – 5:00 PM",
+        "Friday": "7:00 AM – 5:00 PM",
+        "Saturday": "7:00 AM – 5:00 PM",
+        "Sunday": "7:00 AM – 5:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "All-day breakfast and brunch spot in Town and Country Village from the team behind Hatched, with rotisserie chicken, sandwiches, and craft coffee."
+    },
+    {
+      "id": "ChIJxRoy-X27j4AR_bK2I_FqBVg",
+      "formattedAddress": "115 Hamilton Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443025299999995,
+        "longitude": -122.16261410000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6342593234140050173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sanagus.com/",
+      "displayName": {
+        "text": "San Agus Cocina Urbana & Cocktails",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/San Agus Small.jpeg",
+      "phone": "(650) 521-0082",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.sanagus.com/menu",
+      "priceRange": "$$",
+      "description": "Mexico City street kitchen with 40-plus tequilas and mezcals, pastor tacos, cochinita pibil, and margaritas in a cozy lively setting."
+    },
+    {
+      "id": "ChIJhbe6ZDi7j4ARhSkIguAM5oU",
+      "displayName": {
+        "text": "Sancho's Taqueria _Lytton",
+        "languageCode": "en"
+      },
+      "formattedAddress": "491 Lytton Ave, Palo Alto, CA 94301, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9648413410081646981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-downtown?utm_source=google",
+      "location": {},
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _Lytton Small.jpeg",
+      "phone": "(650) 324-8226",
+      "hours": {
+        "Monday": "10:30 AM – 9:00 PM",
+        "Tuesday": "10:30 AM – 9:00 PM",
+        "Wednesday": "10:30 AM – 9:00 PM",
+        "Thursday": "10:30 AM – 9:00 PM",
+        "Friday": "10:30 AM – 9:00 PM",
+        "Saturday": "10:30 AM – 9:00 PM",
+        "Sunday": "10:30 AM – 9:00 PM"
+      },
+      "menuUrl": "http://sanchostaqueria.com/",
+      "priceRange": "$",
+      "description": "Fast-casual Palo Alto taqueria with a devoted following for fresh fish tacos, California burritos, and loaded nachos at affordable prices."
+    },
+    {
+      "id": "ChIJc1ATKFa6j4ARZQoyTzpy0-8",
+      "displayName": {
+        "text": "Sancho's Taqueria _middlefield",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2723 Middlefield Rd, Palo Alto, CA 94306, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17281281789913074277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanchostaqueria.com/sanchostaqueria-midtown?utm_source=google",
+      "location": {},
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sancho's Taqueria _middlefield Small.jpeg",
+      "phone": "(650) 324-8226",
+      "hours": {
+        "Monday": "10:30 AM – 9:00 PM",
+        "Tuesday": "10:30 AM – 9:00 PM",
+        "Wednesday": "10:30 AM – 9:00 PM",
+        "Thursday": "10:30 AM – 9:00 PM",
+        "Friday": "10:30 AM – 9:00 PM",
+        "Saturday": "10:30 AM – 9:00 PM",
+        "Sunday": "10:30 AM – 9:00 PM"
+      },
+      "menuUrl": "http://sanchostaqueria.com/",
+      "priceRange": "$",
+      "description": "Fast-casual Palo Alto taqueria with a devoted following for fresh fish tacos, California burritos, and loaded nachos at affordable prices."
+    },
+    {
+      "id": "ChIJ01vXyRe7j4AR-OHHd-tVxXg",
+      "formattedAddress": "417 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426165000000005,
+        "longitude": -122.1446335
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8702456324778615288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sekoyapaloalto.com/",
+      "displayName": {
+        "text": "Sekoya Lounge & Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sekoya Small.jpeg",
+      "phone": "(650) 321-2300",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 11:00 PM",
+        "Saturday": "5:00 PM – 11:00 PM"
+      },
+      "menuUrl": "https://www.sekoyapaloalto.com/",
+      "priceRange": "$$$",
+      "description": "California Avenue's most sceney restaurant with seasonal New American dishes, a Hibachi grill, house-made breads, and craft cocktails."
+    },
+    {
+      "id": "ChIJB3hVsb67j4ARXMaL06rl50c",
+      "formattedAddress": "3398 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4194321,
+        "longitude": -122.1356069
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5181362418169398876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.showdecarnes.com/",
+      "displayName": {
+        "text": "Show de Carnes Brazilian Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Brazilian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Show De Carnes Small.jpeg",
+      "phone": "(650) 384-6720",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://showdecarnes.com/",
+      "priceRange": "$$$$",
+      "description": "Authentic Brazilian churrascaria experience with tableside carving of perfectly grilled meats and the vibrant flavors of Brazil."
+    },
+    {
+      "id": "ChIJF-8UBYq6j4AR5FBD89Ka32Y",
+      "formattedAddress": "3924 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.41637,
+        "longitude": -122.12979109999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7412813742490210532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.siamfinethaicuisine.com/",
+      "displayName": {
+        "text": "Siam Fine Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/palo-alto/Siam Small.jpeg",
+      "phone": "(650) 856-8998",
+      "hours": {
+        "Monday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:00 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "5:00 PM – 9:30 PM",
+        "Sunday": "5:00 PM – 9:30 PM"
+      },
+      "menuUrl": "https://www.siamfinethai.com/",
+      "priceRange": "$$",
+      "description": "Refined Thai kitchen with a dedicated following for elevated curries, pad Thai, and wok-fired dishes in a comfortable setting."
+    },
+    {
+      "id": "ChIJs-mASty7j4ARGnTRbfH7NBc",
+      "formattedAddress": "444 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475699,
+        "longitude": -122.15975949999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1672238376009430042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.simmer-steamer.com/",
+      "displayName": {
+        "text": "Simmer & Steamer",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Simmer & Steamer Small.jpeg",
+      "phone": "(650) 660-6816",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://order.online/store/simmer-steamer-palo-alto-24754388",
+      "priceRange": "$$",
+      "description": "Taiwanese hot pot and steamer restaurant with individual broth selections, fresh ingredients, and a broad Asian comfort food menu."
+    },
+    {
+      "id": "ChIJtWFrFmO6j4ARbA4cFdc8mG0",
+      "formattedAddress": "4127 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413779999999996,
+        "longitude": -122.125402
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7897128841063960172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://paloaltotofuhouse.square.site/",
+      "displayName": {
+        "text": "So Gong Dong Tofu House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/palo-alto/So Gong Dong Tofu House Small.jpeg",
+      "phone": "(650) 424-8282",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.sgdtofu.com/",
+      "priceRange": "$$",
+      "description": "One of the Bay Area's only Korean restaurants specializing in sundubu-jjigae, serving authentic soft tofu soups and stews since 2003."
+    },
+    {
+      "id": "ChIJaeHk_jm7j4ARZfXh674aljg",
+      "formattedAddress": "168 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.444269399999996,
+        "longitude": -122.16286670000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4077475919934125413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cafesprout.com/",
+      "displayName": {
+        "text": "Sprout Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sprout Cafe Small.jpeg",
+      "phone": "(650) 323-7678",
+      "hours": {
+        "Monday": "11:00 AM – 7:00 PM",
+        "Tuesday": "11:00 AM – 7:00 PM",
+        "Wednesday": "11:00 AM – 7:00 PM",
+        "Thursday": "11:00 AM – 7:00 PM",
+        "Friday": "11:00 AM – 7:00 PM",
+        "Saturday": "11:00 AM – 4:00 PM"
+      },
+      "menuUrl": "http://www.sproutcafepaloalto.com/",
+      "priceRange": "$$",
+      "description": "University Avenue healthy cafe with fresh salads, grain bowls, and seasonal ingredients popular with the Stanford community."
+    },
+    {
+      "id": "ChIJ_UjdV--7j4ARt2YRSWk7iZU",
+      "formattedAddress": "369 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.426696899999996,
+        "longitude": -122.14417370000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10775208906844104375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://squarepieguys.com/",
+      "displayName": {
+        "text": "Square Pie Guys",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Square Pie Guys Small.jpeg",
+      "phone": "(650) 204-8930",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://squarepieguys.com/",
+      "priceRange": "$$",
+      "description": "Detroit-style square pizza with a crispy caramelized cheese crust and creative toppings, a Bay Area cult favorite on University Avenue."
+    },
+    {
+      "id": "ChIJg5-D9Aq7j4ARGDDPZcQFjmg",
+      "formattedAddress": "3850 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4171877,
+        "longitude": -122.13138039999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7533965567717224472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://stateofmindslicehouse.com/",
+      "displayName": {
+        "text": "State of Mind Slice House",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/State of Mind Small.jpeg",
+      "phone": "(650) 561-3995",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.stateofmindpub.com/",
+      "priceRange": "$$",
+      "description": "New York-style pizza pub with generous slices, craft beer on tap, and a casual neighborhood atmosphere perfect for watching sports."
+    },
+    {
+      "id": "ChIJ-a6t5Tm7j4ARsEz4451NPDk",
+      "formattedAddress": "209 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4450435,
+        "longitude": -122.1628635
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4124256699294436528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://steampaloalto.com/",
+      "displayName": {
+        "text": "Steam",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Steam Small.jpeg",
+      "phone": "(650) 322-1888",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "http://www.steampaloalto.com/",
+      "priceRange": "$$",
+      "description": "Palo Alto's go-to dim sum restaurant with a broad menu of steamed and fried dumplings, rice noodles, and Taiwanese specialties."
+    },
+    {
+      "id": "ChIJ8RX-6uW6j4ARyxo26LXPQ0k",
+      "formattedAddress": "406 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.42663900000001,
+        "longitude": -122.14495509999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5279291568400243403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sunofwolfpa.com/",
+      "displayName": {
+        "text": "SUN of WOLF",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sun of Wolf Small.jpeg",
+      "phone": "(650) 561-3329",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:00 PM",
+        "Saturday": "5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.sunofwolf.com/",
+      "priceRange": "$$",
+      "description": "Palo Alto Weekly Best Mexican winner with inventive Mexico City inspired tacos, carnitas, and craft cocktails in an intimate setting."
+    },
+    {
+      "id": "ChIJaWnuL-e6j4ARR6YIY348nZk",
+      "formattedAddress": "1921 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428562,
+        "longitude": -122.14967199999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11069069972671604295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sundancethesteakhouse.com/",
+      "displayName": {
+        "text": "Sundance The Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sundance Small.jpeg",
+      "phone": "(650) 321-6798",
+      "hours": {
+        "Monday": "5:00 PM – 9:30 PM",
+        "Tuesday": "5:00 PM – 9:30 PM",
+        "Wednesday": "5:00 PM – 9:30 PM",
+        "Thursday": "5:00 PM – 9:30 PM",
+        "Friday": "4:30 PM – 10:00 PM",
+        "Saturday": "4:30 PM – 10:00 PM",
+        "Sunday": "4:30 PM – 9:00 PM"
+      },
+      "menuUrl": "https://sundancethesteakhouse.com/",
+      "priceRange": "$$$$",
+      "description": "A Palo Alto institution since 1974 with fireplaces, dark wood booths, slow-roasted prime rib, and hand-cut USDA Prime steaks."
+    },
+    {
+      "id": "ChIJHz4XFiW7j4AR5t10topddew",
+      "formattedAddress": "855 El Camino Real Ste 158, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4392636,
+        "longitude": -122.1582398
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17038627615574121958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sushihouse855.com/",
+      "displayName": {
+        "text": "Sushi House",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Suhi House Small.jpeg",
+      "phone": "(650) 493-2700",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "http://www.sushihousepa.com/",
+      "priceRange": "$$",
+      "description": "Longtime Palo Alto neighborhood sushi restaurant with fresh traditional nigiri, rolls, and Japanese entrees in a welcoming setting."
+    },
+    {
+      "id": "ChIJ-cKKzxa7j4ARMboigp4Thvk",
+      "formattedAddress": "180 El Camino Real #700a, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443218,
+        "longitude": -122.172501
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17980080133832358449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushiroku.com/",
+      "displayName": {
+        "text": "Sushi Roku Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sushi Roku Small.jpeg",
+      "phone": "(650) 543-1555",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 11:00 PM",
+        "Friday": "5:00 PM – 11:00 PM",
+        "Saturday": "5:00 PM – 11:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.sushiroku.com/",
+      "priceRange": "$$$",
+      "description": "Upscale contemporary Japanese restaurant at Stanford Shopping Center with premium nigiri, signature rolls, and creative cocktails."
+    },
+    {
+      "id": "ChIJgSKtATq7j4AR1LVZ7VN8W3I",
+      "formattedAddress": "150 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.443996999999996,
+        "longitude": -122.162979
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8240316643110663636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetmaplesf.com/",
+      "displayName": {
+        "text": "Sweet Maple",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Sweet Maple Small.jpeg",
+      "phone": "(650) 321-9338",
+      "hours": {
+        "Monday": "8:00 AM – 2:30 PM",
+        "Tuesday": "8:00 AM – 2:30 PM",
+        "Wednesday": "8:00 AM – 2:30 PM",
+        "Thursday": "8:00 AM – 2:30 PM",
+        "Friday": "8:00 AM – 2:30 PM",
+        "Saturday": "8:00 AM – 2:30 PM",
+        "Sunday": "8:00 AM – 2:30 PM"
+      },
+      "menuUrl": "https://www.sweetmaplesf.com/",
+      "priceRange": "$$",
+      "description": "SF brunch import beloved for thick-cut millionaire bacon, fluffy pancakes, and creative egg dishes with lines forming before opening."
+    },
+    {
+      "id": "ChIJUYJ9Ejm7j4AR10nzVhZIoYo",
+      "formattedAddress": "560 Waverley St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.446472199999995,
+        "longitude": -122.1596583
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9989344709269735895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://taipanpaloalto.com/",
+      "displayName": {
+        "text": "Tai Pan",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tai Pan Small.jpeg",
+      "phone": "(650) 329-9168",
+      "hours": {
+        "Monday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM",
+        "Tuesday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM",
+        "Wednesday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM",
+        "Thursday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM",
+        "Friday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM",
+        "Saturday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM",
+        "Sunday": "11:00 AM - 2:30 PM, 5:00 PM - 8:30 PM"
+      },
+      "menuUrl": "http://taipanpaloalto.com/menu.html",
+      "priceRange": "$$$",
+      "description": "Upscale Hong Kong-style Cantonese restaurant on Waverly Street with honey-smoked sea bass, Shanghai crab, and an elegant East-meets-West dining room since 2005."
+    },
+    {
+      "id": "ChIJwWcdxzi7j4ARSPpV37nhr58",
+      "formattedAddress": "546 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4488748,
+        "longitude": -122.15841719999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11506663761387059784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tamarinerestaurant.com/",
+      "displayName": {
+        "text": "Tamarine Restaurant & Gallery",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tamarine Small.jpeg",
+      "phone": "(650) 325-8500",
+      "hours": {
+        "Monday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM",
+        "Tuesday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM",
+        "Wednesday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM",
+        "Thursday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM",
+        "Friday": "11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM",
+        "Saturday": "5:30 PM - 9:30 PM",
+        "Sunday": "5:30 PM - 9:30 PM"
+      },
+      "menuUrl": "https://www.tamarinerestaurant.com/",
+      "priceRange": "$$$",
+      "description": "Upscale Vietnamese restaurant and art gallery on University Avenue from Chef Tammy Huynh, celebrated for shaking beef, garlic tiger prawns, and rotating Vietnamese artwork."
+    },
+    {
+      "id": "ChIJsZYrFAC7j4ARgZiNdSEjGsQ",
+      "formattedAddress": "461 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4450425,
+        "longitude": -122.16305779999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14130645407441459329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tanevegan.com/locations/palo-alto",
+      "displayName": {
+        "text": "Tane Vegan Izakaya",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tane Vegan Izakaya Small.jpeg",
+      "phone": "(650) 384-6300",
+      "hours": {
+        "Tuesday": "5:00 PM - 9:30 PM",
+        "Wednesday": "5:00 PM - 9:30 PM",
+        "Thursday": "5:00 PM - 9:30 PM",
+        "Friday": "4:30 PM - 10:00 PM",
+        "Saturday": "4:30 PM - 10:00 PM",
+        "Sunday": "5:00 PM - 9:30 PM"
+      },
+      "menuUrl": "https://www.tanevegan.com/",
+      "priceRange": "$$$",
+      "description": "Palo Alto's only 100% plant-based sushi bar with gluten-free rolls, location-exclusive Hawaiian poke bowls, and king oyster mushroom nigiri."
+    },
+    {
+      "id": "ChIJ7f7sE4u6j4ARzIuv160J9jU",
+      "formattedAddress": "3636 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4182304,
+        "longitude": -122.13318509999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3888305970533600204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://taqueriaelgrullense.shop/",
+      "displayName": {
+        "text": "Taqueria El Grullense M&G",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taqueria El Grullense M&G Small.jpeg",
+      "phone": "(650) 251-9317",
+      "hours": {
+        "Monday": "8:00 AM - 11:00 PM",
+        "Tuesday": "8:00 AM - 11:00 PM",
+        "Wednesday": "8:00 AM - 11:00 PM",
+        "Thursday": "8:00 AM - 11:00 PM",
+        "Friday": "8:00 AM - 11:00 PM",
+        "Saturday": "8:00 AM - 11:00 PM",
+        "Sunday": "8:00 AM - 11:00 PM"
+      },
+      "menuUrl": "https://taqueriaelgrullense.shop/",
+      "priceRange": "$",
+      "description": "Authentic Mexican taqueria on El Camino Real open early until midnight with fresh tacos, burritos, tortas, and seafood dishes at street-food prices."
+    },
+    {
+      "id": "ChIJN1Zo_zi7j4ARIT2NbTuxNZQ",
+      "formattedAddress": "423 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475347,
+        "longitude": -122.1603022
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10679636960178158881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taste-paloalto.com/",
+      "displayName": {
+        "text": "Taste",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taste Small.jpeg",
+      "phone": "(650) 323-6488",
+      "hours": {
+        "Monday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+        "Tuesday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+        "Wednesday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+        "Thursday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+        "Friday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+        "Saturday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM",
+        "Sunday": "11:00 AM - 3:00 PM, 5:00 PM - 10:00 PM"
+      },
+      "menuUrl": "https://www.tastepaloalto.com/",
+      "priceRange": "$$",
+      "description": "All-day American bistro on Emerson Street with rotating seasonal menus, craft cocktails, and a convivial downtown atmosphere popular for lunch and dinner."
+    },
+    {
+      "id": "ChIJg2K45--7j4ARb3QmTT7tfM4",
+      "formattedAddress": "443 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445152199999995,
+        "longitude": -122.16302990000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14879028120763397231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tastypotcalifornia.com/",
+      "displayName": {
+        "text": "Tasty Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tasty Pot Small.jpeg",
+      "phone": "(650) 380-6975",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "menuUrl": "https://www.tastypotcalifornia.com/",
+      "priceRange": "$$",
+      "description": "Taiwanese individual hot pot restaurant with customizable broth options, fresh proteins, and a broad selection of Asian comfort food accompaniments."
+    },
+    {
+      "id": "ChIJVVUFazu7j4ARLXVs7f4wu-M",
+      "formattedAddress": "800 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4422042,
+        "longitude": -122.1590523
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16409763538717668653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://tavernarestaurant.net/",
+      "displayName": {
+        "text": "TAVERNA",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/palo-alto/Taverna Small.jpeg",
+      "phone": "(650) 304-3840",
+      "hours": {
+        "Monday": "11:30 AM - 9:00 PM",
+        "Tuesday": "11:30 AM - 9:00 PM",
+        "Wednesday": "11:30 AM - 9:00 PM",
+        "Thursday": "11:30 AM - 9:00 PM",
+        "Friday": "11:30 AM - 9:00 PM",
+        "Saturday": "11:30 AM - 9:00 PM",
+        "Sunday": "11:30 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.tavernarestaurant.net/",
+      "priceRange": "$$$",
+      "description": "Farm-to-table upscale Greek kitchen on Emerson Street since 2018, with wood-fired lamb chops, grilled Spanish octopus, and a curated all-Greek wine list."
+    },
+    {
+      "id": "ChIJU-h6-Q27j4AReNRuzo2WlTM",
+      "formattedAddress": "855 El Camino Real #130, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4383765,
+        "longitude": -122.1583028
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3717042603262137464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.telefericbarcelona.com/",
+      "displayName": {
+        "text": "Telefèric Barcelona Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Spanish",
+      "photoUrl": "images/restaurant-photos/palo-alto/Teleferic Small.jpeg",
+      "phone": "(657) 297-5664",
+      "hours": {
+        "Monday": "11:30 AM - 9:15 PM",
+        "Tuesday": "11:30 AM - 9:15 PM",
+        "Wednesday": "11:30 AM - 9:15 PM",
+        "Thursday": "11:30 AM - 9:15 PM",
+        "Friday": "11:30 AM - 10:15 PM",
+        "Saturday": "11:00 AM - 10:15 PM",
+        "Sunday": "11:00 AM - 9:15 PM"
+      },
+      "menuUrl": "https://www.telefericbarcelona.com/palo-alto",
+      "priceRange": "$$$",
+      "description": "Palo Alto's original Spanish restaurant at Town and Country Village, with seven paella varieties, 200-plus Spanish wines, hand-carved jamón ibérico, and private dining near Stanford."
+    },
+    {
+      "id": "ChIJtXQ38-W6j4AR44dFBS3v120",
+      "formattedAddress": "448 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4259205,
+        "longitude": -122.14547429999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7915057846767945699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.terunpizza.com/",
+      "displayName": {
+        "text": "Terun Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/palo-alto/Terun Small.jpeg",
+      "phone": "(650) 600-8310",
+      "hours": {
+        "Monday": "5:00 PM - 9:00 PM",
+        "Tuesday": "5:00 PM - 9:00 PM",
+        "Wednesday": "5:00 PM - 9:00 PM",
+        "Thursday": "5:00 PM - 9:00 PM",
+        "Friday": "5:00 PM - 9:30 PM",
+        "Saturday": "5:00 PM - 9:30 PM",
+        "Sunday": "5:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://www.terunpizza.com/",
+      "priceRange": "$$",
+      "description": "Verace Pizza Napoletana-certified California Avenue pizzeria since 2013 with wood-fired Neapolitan pies, San Marzano tomato sauce, and a shaded outdoor veranda."
+    },
+    {
+      "id": "ChIJ-zxk19G7j4ARJqNjr1SADak",
+      "formattedAddress": "2450 Park Blvd, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.428022899999995,
+        "longitude": -122.14277039999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12181533668315210534&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://dinefarmfresh.com/",
+      "displayName": {
+        "text": "The Farm",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Farm Small.jpeg",
+      "phone": "(650) 656-9831",
+      "hours": {
+        "Monday": "7:30 AM - 6:00 PM",
+        "Tuesday": "7:30 AM - 6:00 PM",
+        "Wednesday": "7:30 AM - 8:00 PM",
+        "Thursday": "7:30 AM - 8:00 PM",
+        "Friday": "7:30 AM - 8:00 PM",
+        "Saturday": "8:00 AM - 8:00 PM",
+        "Sunday": "8:00 AM - 6:00 PM"
+      },
+      "menuUrl": "https://dinefarmfresh.com/",
+      "priceRange": "$$",
+      "description": "Farm-fresh all-day cafe at Stanford Shopping Center with house-made pastries, seasonal bowls, and locally sourced ingredients from morning through early evening."
+    },
+    {
+      "id": "ChIJe5AqVr3Lj4AROFFL6ZwfRH0",
+      "formattedAddress": "4131 El Camino Real #100, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.413300299999996,
+        "longitude": -122.1251502
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9026374311946703160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.themalawahbar.com/",
+      "displayName": {
+        "text": "The Ma'lawah Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Malawah Bar Small.jpeg",
+      "phone": "(408) 489-7227",
+      "hours": {
+        "Monday": "9:00 AM - 7:00 PM",
+        "Tuesday": "9:00 AM - 7:00 PM",
+        "Wednesday": "9:00 AM - 7:00 PM",
+        "Thursday": "9:00 AM - 7:00 PM",
+        "Friday": "9:00 AM - 2:00 PM",
+        "Sunday": "9:00 AM - 5:00 PM"
+      },
+      "menuUrl": "https://www.themalawahbar.com/",
+      "priceRange": "$$",
+      "description": "Palo Alto's only Yemenite-Israeli cafe, kosher-certified, specializing in handmade malawach flatbread, slow-baked jachnun, tahini shakes, and sabich sandwiches."
+    },
+    {
+      "id": "ChIJD9VYOzS7j4ARus4pfa0zkJU",
+      "formattedAddress": "180 El Camino Real, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443094699999996,
+        "longitude": -122.17259729999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10777170728519847610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.themelt.com/",
+      "displayName": {
+        "text": "The Melt",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Melt Small.jpeg",
+      "phone": "(650) 250-4828",
+      "hours": {
+        "Monday": "10:00 AM - 10:00 PM",
+        "Tuesday": "10:00 AM - 10:00 PM",
+        "Wednesday": "10:00 AM - 10:00 PM",
+        "Thursday": "10:00 AM - 10:00 PM",
+        "Friday": "10:00 AM - 10:00 PM",
+        "Saturday": "10:00 AM - 10:00 PM",
+        "Sunday": "10:00 AM - 10:00 PM"
+      },
+      "menuUrl": "https://www.themelt.com/",
+      "priceRange": "$",
+      "description": "Tech-forward grilled cheese concept serving melty sandwiches with quality ingredients, soups, and shakes available for quick dine-in or delivery."
+    },
+    {
+      "id": "ChIJiXr_Zze7j4ARgRtbgk7Len4",
+      "formattedAddress": "412 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4451556,
+        "longitude": -122.16393889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9113820333992516481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thepatiopa.com/",
+      "displayName": {
+        "text": "The Patio @ Rudy's",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Patio Small.jpeg",
+      "phone": "(650) 322-6839",
+      "hours": {
+        "Monday": "11:00 AM - 12:00 AM",
+        "Tuesday": "11:00 AM - 12:00 AM",
+        "Wednesday": "11:00 AM - 12:00 AM",
+        "Thursday": "11:00 AM - 12:00 AM",
+        "Friday": "11:00 AM - 12:00 AM",
+        "Saturday": "11:00 AM - 12:00 AM",
+        "Sunday": "11:00 AM - 12:00 AM"
+      },
+      "menuUrl": "https://thepatiopaloalto.com/",
+      "priceRange": "$$",
+      "description": "Palo Alto's go-to sports bar and neighborhood pub with cold draft beer, casual American food, multiple big screens, and a large outdoor patio open until midnight."
+    },
+    {
+      "id": "ChIJRzi6GDq7j4ARVC4ZzH-ZgJU",
+      "formattedAddress": "547 Emerson St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4444157,
+        "longitude": -122.16174609999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10772779082834325076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://therosepa.com/",
+      "displayName": {
+        "text": "The Rose & Crown",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Rose & Crown Small.jpeg",
+      "phone": "(650) 327-7673",
+      "hours": {
+        "Monday": "11:30 AM - 12:00 AM",
+        "Tuesday": "11:30 AM - 12:00 AM",
+        "Wednesday": "11:30 AM - 12:00 AM",
+        "Thursday": "11:30 AM - 12:00 AM",
+        "Friday": "11:30 AM - 12:00 AM",
+        "Saturday": "11:30 AM - 12:00 AM",
+        "Sunday": "11:30 AM - 12:00 AM"
+      },
+      "menuUrl": "http://roseandcrownpa.com/",
+      "priceRange": "$$",
+      "description": "Palo Alto's oldest bar, the first in the area to serve craft beer, with award-winning fish and chips, darts, and a welcoming unpretentious pub atmosphere since 1982."
+    },
+    {
+      "id": "ChIJOT4Wp3m6j4ARL_3gCaC-HJ0",
+      "formattedAddress": "4269 W El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4075646,
+        "longitude": -122.1205417
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11321133157872368943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.theseausa.com/",
+      "displayName": {
+        "text": "The Sea by Alexander's Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Sea Small.jpeg",
+      "phone": "(650) 213-1111",
+      "hours": {
+        "Tuesday": "5:30 PM - 9:30 PM",
+        "Wednesday": "5:30 PM - 9:30 PM",
+        "Thursday": "5:30 PM - 9:30 PM",
+        "Friday": "5:30 PM - 9:30 PM",
+        "Saturday": "5:30 PM - 9:30 PM"
+      },
+      "menuUrl": "https://theseausa.com/",
+      "priceRange": "$$$$",
+      "description": "An exceptional seafood-focused fine dining restaurant from the Alexander's Steakhouse group, showcasing pristine raw bar selections, Japanese-influenced preparations, and an extensive wine program."
+    },
+    {
+      "id": "ChIJGaMq8zm7j4ARYe6wItroPNY",
+      "formattedAddress": "520 Ramona St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4448271,
+        "longitude": -122.16193469999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15437469646301752929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thepawineroom.com/",
+      "displayName": {
+        "text": "The Wine Room",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/palo-alto/The Wine Room Small.jpeg",
+      "phone": "(650) 322-1292",
+      "hours": {
+        "Monday": "4:00 PM - 12:00 AM",
+        "Tuesday": "4:00 PM - 12:00 AM",
+        "Wednesday": "4:00 PM - 12:00 AM",
+        "Thursday": "4:00 PM - 12:00 AM",
+        "Friday": "4:00 PM - 12:00 AM",
+        "Saturday": "4:00 PM - 12:00 AM",
+        "Sunday": "4:00 PM - 12:00 AM"
+      },
+      "menuUrl": "https://thepawineroom.com/",
+      "priceRange": "$$",
+      "description": "Cozy downtown wine bar open until midnight with a curated global wine list, tapas-style bites, and a welcoming Mediterranean-inspired atmosphere ideal for after-dinner drinks."
+    },
+    {
+      "id": "ChIJrW5Qkga7j4ARq0q-MRGHCjw",
+      "formattedAddress": "3345 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4202733,
+        "longitude": -122.1360386
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4326418899961531051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tiemuzhencuisine.fronteats.com/#/pos/order/index?channelOrderingId=3",
+      "displayName": {
+        "text": "Tie Mu Zhen Cuisine 铁木真内蒙菜",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tie Mu Zhen  Small.jpeg",
+      "phone": "(650) 565-8868",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "menuUrl": "https://www.tiemuzhencuisineca.com/",
+      "priceRange": "$$",
+      "description": "Inner Mongolian restaurant on El Camino Real with hand-pulled noodles, lamb-based dishes, and bold northern Chinese flavors rarely found on the Peninsula."
+    },
+    {
+      "id": "ChIJgVkH4BO7j4AR9Qj0HVCbuy8",
+      "formattedAddress": "540 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.445247099999996,
+        "longitude": -122.16098969999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3439513508829726965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tongsui.us/",
+      "displayName": {
+        "text": "Tong Sui Desserts & Drinks (Palo Alto)",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tong Sui Small.jpeg",
+      "phone": "(650) 485-2364",
+      "hours": {
+        "Monday": "12:00 PM - 11:00 PM",
+        "Tuesday": "12:00 PM - 11:00 PM",
+        "Wednesday": "12:00 PM - 11:00 PM",
+        "Thursday": "12:00 PM - 11:00 PM",
+        "Friday": "12:00 PM - 11:00 PM",
+        "Saturday": "12:00 PM - 11:00 PM",
+        "Sunday": "12:00 PM - 11:00 PM"
+      },
+      "menuUrl": "https://tongsui.co/",
+      "priceRange": "$",
+      "description": "Hong Kong-style dessert cafe open late with silky tong sui sweet soups, mango sago, durian dishes, and bubble tea in a casual relaxed setting."
+    },
+    {
+      "id": "ChIJexdrvjK7j4AR--GDhkDzYds",
+      "formattedAddress": "700 Welch Rd, Palo Alto, CA 94305, USA",
+      "location": {
+        "latitude": 37.437217,
+        "longitude": -122.173251
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15808183625507398139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tootsiesbarn.com/",
+      "displayName": {
+        "text": "Tootsie's At The Stanford Barn",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/palo-alto/Tootsies Small.jpeg",
+      "phone": "(650) 300-2298",
+      "hours": {
+        "Monday": "7:00 AM - 3:00 PM",
+        "Tuesday": "7:00 AM - 3:00 PM",
+        "Wednesday": "7:00 AM - 3:00 PM",
+        "Thursday": "7:00 AM - 3:00 PM",
+        "Friday": "7:00 AM - 3:00 PM"
+      },
+      "menuUrl": "https://www.tootsiesbarn.com/",
+      "priceRange": "$$",
+      "description": "Weekday-only all-day breakfast and lunch cafe inside the historic Stanford Barn with seasonal farm-to-table dishes, craft coffee, and a sun-filled industrial-chic interior."
+    },
+    {
+      "id": "ChIJt9KIrTW7j4ARjb1bTp5MW-E",
+      "formattedAddress": "180 El Camino Real Ste 1140, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.443920999999996,
+        "longitude": -122.17032299999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16238657124217634189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.truefoodkitchen.com/locations/paloalto/",
+      "displayName": {
+        "text": "True Food Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/True Food Small.jpeg",
+      "phone": "(650) 384-6815",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "10:00 AM - 10:00 PM",
+        "Sunday": "10:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.truefoodkitchen.com/",
+      "priceRange": "$$",
+      "description": "Anti-inflammatory focused restaurant at Stanford Shopping Center with seasonal menus built around Dr. Andrew Weil's nutritional principles and bold plant-forward dishes."
+    },
+    {
+      "id": "ChIJGe-xIgC7j4ARqZPigyQDpDE",
+      "formattedAddress": "448 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4475872,
+        "longitude": -122.15963889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3576987459405386665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Urban Momo",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Urban Momo Small.jpeg",
+      "phone": "(650) 322-2400",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "menuUrl": "https://www.urbanmomo.com/",
+      "priceRange": "$$",
+      "description": "Nepali restaurant in downtown Palo Alto serving handmade momos, gorkhali chicken, and Himalayan street food as part of the neighborhood's new wave of openings."
+    },
+    {
+      "id": "ChIJISfg6jK7j4AR1QjILutJPms",
+      "formattedAddress": "700 Welch Rd #110, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.437207199999996,
+        "longitude": -122.17326430000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7727695285065353429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.vinaenoteca.com/",
+      "displayName": {
+        "text": "Vina Enoteca",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Vina Enoteca Small.jpeg",
+      "phone": "(650) 328-0400",
+      "hours": {
+        "Tuesday": "5:00 PM - 9:00 PM",
+        "Wednesday": "5:00 PM - 9:00 PM",
+        "Thursday": "5:00 PM - 9:00 PM",
+        "Friday": "5:00 PM - 9:00 PM",
+        "Saturday": "5:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://www.vinaenoteca.com/",
+      "priceRange": "$$$",
+      "description": "Michelin-recognized Italian restaurant inside the historic 1888 Stanford Barn with wood-fired pizza, housemade pasta, and a curated Italian wine program."
+    },
+    {
+      "id": "ChIJ2S5OXzi7j4ARGnV-XOyU-4g",
+      "formattedAddress": "431 Kipling St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.448325,
+        "longitude": -122.1604148
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9870646751197558042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://vinolocale.com/",
+      "displayName": {
+        "text": "Vino Locale",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/palo-alto/Vino Locale Small.jpeg",
+      "phone": "(650) 328-0450",
+      "hours": {
+        "Tuesday": "4:00 PM - 9:00 PM",
+        "Wednesday": "4:00 PM - 9:00 PM",
+        "Thursday": "4:00 PM - 9:00 PM",
+        "Friday": "4:00 PM - 9:00 PM",
+        "Saturday": "12:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://vinolocale.com/",
+      "priceRange": "$$",
+      "description": "Relaxed downtown wine bar with a hidden garden patio, global wine flights, craft beer, Mediterranean small plates, and a devoted happy hour crowd."
+    },
+    {
+      "id": "ChIJ82AEPzi7j4ARaPsjO4AFqR8",
+      "formattedAddress": "South, 855 El Camino Real Building 4, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4382288,
+        "longitude": -122.1587727
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2281360734546033512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://wildseedsf.com/",
+      "displayName": {
+        "text": "Wildseed",
+        "languageCode": "en"
+      },
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/palo-alto/Wildseed Small.jpeg",
+      "phone": "(650) 433-9990",
+      "hours": {
+        "Monday": "11:30 AM - 9:00 PM",
+        "Tuesday": "11:30 AM - 9:00 PM",
+        "Wednesday": "11:30 AM - 9:00 PM",
+        "Thursday": "11:30 AM - 9:00 PM",
+        "Friday": "11:30 AM - 9:00 PM",
+        "Saturday": "11:30 AM - 9:00 PM",
+        "Sunday": "11:30 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.wildseedsf.com/",
+      "priceRange": "$$",
+      "description": "Plant-based fine dining from the Union Square Hospitality Group with an elegant menu of globally inspired vegetable-forward dishes and zero compromise on technique or presentation."
+    },
+    {
+      "id": "ChIJk0N57Sm7j4ARq4jfPi88hKY",
+      "formattedAddress": "180 Stanford Shopping Center Unit 240-C, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4425494,
+        "longitude": -122.1705679
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11998781480837810347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://worldwrapps.com/",
+      "displayName": {
+        "text": "World Wrapps",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/palo-alto/World Wrapps Small.jpeg",
+      "phone": "(650) 328-9727",
+      "hours": {
+        "Monday": "10:30 AM - 8:00 PM",
+        "Tuesday": "10:30 AM - 8:00 PM",
+        "Wednesday": "10:30 AM - 8:00 PM",
+        "Thursday": "10:30 AM - 8:00 PM",
+        "Friday": "10:30 AM - 8:00 PM",
+        "Saturday": "10:30 AM - 8:00 PM",
+        "Sunday": "10:30 AM - 8:00 PM"
+      },
+      "menuUrl": "https://www.worldwrapps.com/",
+      "priceRange": "$",
+      "description": "California-born wrap concept with globally inspired fillings including teriyaki chicken, Thai peanut, and Mediterranean veggie in fresh whole wheat and spinach tortillas."
+    },
+    {
+      "id": "ChIJpTk-VTi7j4ARpZhH_XR68_I",
+      "formattedAddress": "403 University Ave, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4473827,
+        "longitude": -122.1604918
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17506470819403372709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.yayoi-us.com/",
+      "displayName": {
+        "text": "YAYOI Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/palo-alto/Yayoi Small.jpeg",
+      "phone": "(650) 843-1563",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.yayoi-us.com/",
+      "priceRange": "$$",
+      "description": "Japanese teishoku restaurant chain serving set meal combos with grilled fish, rice, miso soup, and pickles in a clean efficient fast-casual format."
+    },
+    {
+      "id": "opening_yutori",
+      "formattedAddress": "3375 El Camino Real, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4242,
+        "longitude": -122.1139
+      },
+      "googleMapsUri": "https://maps.google.com/?q=3375+El+Camino+Real,+Palo+Alto,+CA",
+      "websiteUri": "https://yutori-pa.com",
+      "displayName": {
+        "text": "Yutori",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(408) 239-3484",
+      "hours": {
+        "Monday": "8:00 AM - 5:00 PM",
+        "Tuesday": "8:00 AM - 5:00 PM",
+        "Wednesday": "8:00 AM - 5:00 PM",
+        "Thursday": "8:00 AM - 5:00 PM",
+        "Friday": "8:00 AM - 5:00 PM",
+        "Saturday": "8:00 AM - 5:00 PM",
+        "Sunday": "8:00 AM - 5:00 PM"
+      },
+      "description": "A California-inspired Japanese cafe and konbini serving matcha drinks, fresh onigiri, seasonal bentos, and sandwiches daily in a thoughtfully designed space.",
+      "menuUrl": "https://www.yutori-pa.com/",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Yutori Small.jpeg"
+    },
+    {
+      "id": "ChIJcx9Pl-W6j4ARcUXBVpDCqUE",
+      "formattedAddress": "365 California Ave, Palo Alto, CA 94306, USA",
+      "location": {
+        "latitude": 37.4267457,
+        "longitude": -122.14408219999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4731526808716002673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://zareensrestaurant.com/",
+      "displayName": {
+        "text": "Zareen's Palo Alto",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zareens Small.jpeg",
+      "phone": "(650) 600-8334",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.zareensrestaurant.com/",
+      "priceRange": "$$",
+      "description": "Pakistani-Indian kitchen from Zareen Khan beloved for slow-cooked karahi, aromatic biryanis, and homemade naan, with a devoted following since opening in 2014."
+    },
+    {
+      "id": "opening_zaytinya",
+      "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA",
+      "location": {
+        "latitude": 37.4425,
+        "longitude": -122.1604
+      },
+      "googleMapsUri": "https://maps.google.com/?q=180+El+Camino+Real,+Stanford+Shopping+Center,+Palo+Alto,+CA",
+      "websiteUri": "https://zaytinya.com",
+      "displayName": {
+        "text": "Zaytinya",
+        "languageCode": "en"
+      },
+      "cuisine": "Mediterranean",
+      "phone": "(650) 670-3000",
+      "hours": {
+        "Monday": "11:30 AM - 10:00 PM",
+        "Tuesday": "11:30 AM - 10:00 PM",
+        "Wednesday": "11:30 AM - 10:00 PM",
+        "Thursday": "11:30 AM - 10:00 PM",
+        "Friday": "11:30 AM - 11:00 PM",
+        "Saturday": "11:30 AM - 11:00 PM",
+        "Sunday": "11:30 AM - 10:00 PM"
+      },
+      "description": "Chef Jose Andres brings his celebrated mezze concept to Stanford Shopping Center with Turkish, Greek and Lebanese small plates and creative Mediterranean cocktails.",
+      "menuUrl": "https://www.zaytinya.com/",
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"
+    },
+    {
+      "id": "ChIJOzI3gjm7j4ARtGwnfAcuKaU",
+      "formattedAddress": "585 Bryant St, Palo Alto, CA 94301, USA",
+      "location": {
+        "latitude": 37.4453069,
+        "longitude": -122.16042180000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11901094099985853620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.zolapaloalto.com/",
+      "displayName": {
+        "text": "Zola + BarZola",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/palo-alto/Zola Small.jpeg",
+      "phone": "(650) 521-0651",
+      "hours": {
+        "Tuesday": "5:00 PM - 10:00 PM",
+        "Wednesday": "5:00 PM - 10:00 PM",
+        "Thursday": "5:00 PM - 10:00 PM",
+        "Friday": "5:00 PM - 10:00 PM",
+        "Saturday": "5:00 PM - 10:00 PM"
+      },
+      "menuUrl": "https://www.zolapaloalto.com/",
+      "priceRange": "$$$",
+      "description": "Romantic French-California bistro on California Avenue with a changing seasonal menu, natural wine program, and intimate BarZola cocktail lounge next door."
+    }
+  ],
   "Los Altos, CA": [
     {
       "id": "ChIJc5kBeZuwj4ARbr1oPiyATE0",
@@ -6880,7 +11133,3504 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     }
   ],
-  "Mountain View, CA": [{"id": "ChIJRdc6FjS3j4AR2reOejLBfXQ", "formattedAddress": "194 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3941137, "longitude": -122.07919249999999}, "googleMapsUri": "https://maps.google.com/?cid=8394077703037171674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://agavemxbistro.com/", "displayName": {"text": "Agave Mexican Bistro", "languageCode": "en"}, "cuisine": "Mexican", "menuUrl": "https://www.agavemexbistro.com/menu", "phone": "(650) 965-2284", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJJaZsfAC3j4ARm_xXrZy0PQc", "formattedAddress": "Civic Center, Mountain View, CA 94041, USA", "location": {"latitude": 37.389761, "longitude": -122.08130349999999}, "googleMapsUri": "https://maps.google.com/?cid=521771716860968091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Ajadi bazar", "languageCode": "en"}, "cuisine": "American", "menuUrl": "https://www.ajadibazar.com/menu", "phone": "(650) 282-5550", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJJzJDEDS3j4ARlN8K3bU-K-0", "formattedAddress": "209 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3935872, "longitude": -122.0789593}, "googleMapsUri": "https://maps.google.com/?cid=17089822161805959060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.alexanderspatisserie.com/", "displayName": {"text": "Alexander's Patisserie", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "menuUrl": "https://www.alexanderspatisserie.com", "phone": "(650) 864-9999", "hours": {"Monday": "8:00 AM – 6:00 PM", "Tuesday": "8:00 AM – 6:00 PM", "Wednesday": "8:00 AM – 6:00 PM", "Thursday": "8:00 AM – 6:00 PM", "Friday": "8:00 AM – 6:00 PM", "Saturday": "8:00 AM – 6:00 PM", "Sunday": "8:00 AM – 6:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJ6ycgPTS3j4AR3oKYKGHPFjc", "formattedAddress": "147 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3943863, "longitude": -122.07829619999998}, "googleMapsUri": "https://maps.google.com/?cid=3969588137773531870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.amarinthaicuisine.com/", "displayName": {"text": "Amarin Thai Cuisine", "languageCode": "en"}, "cuisine": "Thai", "menuUrl": "https://amarinthaicuisine.com/menu", "phone": "(650) 961-1536", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJxdWoszK3j4AR0I1-Z78BhZo", "formattedAddress": "450 San Antonio Rd, Mountain View, CA 94040, USA", "location": {"latitude": 37.4045044, "longitude": -122.11191569999998}, "googleMapsUri": "https://maps.google.com/?cid=11134307575330147792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.amicis.com/mountain-view", "displayName": {"text": "Amici's East Coast Pizzeria", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/mountain-view/Amicis East Coast Small.jpeg", "menuUrl": "https://www.amicis.com/menu", "phone": "(650) 961-6666", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJHfE7_6Oxj4ARfJFUHF8hdbQ", "formattedAddress": "2339 California St, Mountain View, CA 94040, USA", "location": {"latitude": 37.402059799999996, "longitude": -122.10567499999999}, "googleMapsUri": "https://maps.google.com/?cid=13003336191483089276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://anatoliafire.com/", "displayName": {"text": "Anatolia Fire Food Truck", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/mountain-view/Anatolia Fire Food Truck Small.jpeg", "menuUrl": "https://www.anatoliafire.com/menu", "phone": "(650) 703-4532", "hours": {"Monday": "11:00 AM – 8:00 PM", "Tuesday": "11:00 AM – 8:00 PM", "Wednesday": "11:00 AM – 8:00 PM", "Thursday": "11:00 AM – 8:00 PM", "Friday": "11:00 AM – 8:00 PM", "Saturday": "11:00 AM – 8:00 PM", "Sunday": "11:00 AM – 8:00 PM"}, "priceRange": "$$"}, {"id": "ChIJIwoDVCi3j4ARI5JLg7gyjCQ", "formattedAddress": "80 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3817024, "longitude": -122.07500449999999}, "googleMapsUri": "https://maps.google.com/?cid=2633535650163036707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.annachikadai.us/", "displayName": {"text": "Annachikadai - Indian Restaurant", "languageCode": "en"}, "cuisine": "Indian", "menuUrl": "https://www.annachikadai.com/menu", "phone": "(650) 938-3070", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJ7wIcJTS3j4AROn_VlyvSoaw", "formattedAddress": "142 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3946098, "longitude": -122.0787019}, "googleMapsUri": "https://maps.google.com/?cid=12439454730446798650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://asianbox.com/", "displayName": {"text": "Asian Box", "languageCode": "en"}, "cuisine": "Chinese", "menuUrl": "https://www.asianbox.com/menu", "phone": "(650) 969-1112", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJu_26IQm6j4AR_Pl-EyDdOwU", "formattedAddress": "2423 Old Middlefield Way, Mountain View, CA 94043, USA", "location": {"latitude": 37.414494399999995, "longitude": -122.09803339999999}, "googleMapsUri": "https://maps.google.com/?cid=377138123651348988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://bajiscafe.com/", "displayName": {"text": "Bajis Cafe", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/mountain-view/Bajis Cafe Small.jpeg", "menuUrl": "https://www.bajiscafe.com/menu", "phone": "(650) 940-9355", "hours": {"Monday": "7:00 AM – 3:00 PM", "Tuesday": "7:00 AM – 3:00 PM", "Wednesday": "7:00 AM – 3:00 PM", "Thursday": "7:00 AM – 3:00 PM", "Friday": "7:00 AM – 3:00 PM", "Saturday": "7:00 AM – 3:00 PM", "Sunday": "7:00 AM – 3:00 PM"}, "priceRange": "$$"}, {"id": "ChIJDSpH40u3j4ARUfRnCcCRK9E", "formattedAddress": "570 N Shoreline Blvd, Mountain View, CA 94043, USA", "location": {"latitude": 37.4024597, "longitude": -122.0795722}, "googleMapsUri": "https://maps.google.com/?cid=15072300831903052881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://bigbiteseatery.com/?utm_source=google", "displayName": {"text": "Big Bites Vietnamese Eatery", "languageCode": "en"}, "cuisine": "Vietnamese", "menuUrl": "https://www.bigbitesviet.com/menu", "phone": "(650) 282-5137", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJG4CRJDS3j4ARpVclpxEi2O4", "formattedAddress": "146 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.394577, "longitude": -122.07876}, "googleMapsUri": "https://maps.google.com/?cid=17210543435210381221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://bluelinepizza.com/locations/", "displayName": {"text": "Blue Line Pizza", "languageCode": "en"}, "cuisine": "Pizza", "menuUrl": "https://www.bluelinepizza.com/menu", "phone": "(650) 988-7827", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJZ9C5aqK3j4AR7Llr-oHZJpw", "formattedAddress": "260 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3931463, "longitude": -122.07956319999998}, "googleMapsUri": "https://maps.google.com/?cid=11251919871307135468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://restaurants.bonchon.com/locations/ca/mountain-view/260-castro-street", "displayName": {"text": "Bonchon Mountain view", "languageCode": "en"}, "cuisine": "Korean", "menuUrl": "https://www.bonchon.com/menu", "phone": "(650) 963-0500", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJLRvDZtu3j4ARgoNrKZnNw8g", "formattedAddress": "1625 N Shoreline Blvd Suite 1, Mountain View, CA 94043, USA", "location": {"latitude": 37.4168531, "longitude": -122.07757749999999}, "googleMapsUri": "https://maps.google.com/?cid=14466632485752767362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://bromarestaurant.com/?utm_source=google", "displayName": {"text": "Broma Restaurant", "languageCode": "en"}, "cuisine": "Spanish", "menuUrl": "https://www.bromarestaurant.com/menu", "phone": "(650) 963-4663", "hours": {"Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJDQw_jjO3j4AREryI4CY4hEw", "formattedAddress": "341 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.391917899999996, "longitude": -122.07976089999998}, "googleMapsUri": "https://maps.google.com/?cid=5513593583435299858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cafebaklava.online/", "displayName": {"text": "Cafe Baklava", "languageCode": "en"}, "cuisine": "Middle Eastern", "menuUrl": "https://www.cafebaklava.com/menu", "phone": "(650) 564-9052", "hours": {"Monday": "8:00 AM – 9:00 PM", "Tuesday": "8:00 AM – 9:00 PM", "Wednesday": "8:00 AM – 9:00 PM", "Thursday": "8:00 AM – 9:00 PM", "Friday": "8:00 AM – 9:00 PM", "Saturday": "8:00 AM – 9:00 PM", "Sunday": "8:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJkx3SPH63j4ARVep_ZCqLS_w", "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA", "location": {"latitude": 37.3832604, "longitude": -122.078283}, "googleMapsUri": "https://maps.google.com/?cid=18179777335002131029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pos.chowbus.com/online-ordering/store/NAR-Restaurant/22992", "displayName": {"text": "CalSizzle American food", "languageCode": "en"}, "cuisine": "American", "menuUrl": "https://www.calsizzle.com/menu", "phone": "(650) 964-2222", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJsWRupjO3j4ARGrnHDZ0LpIo", "formattedAddress": "459 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.390662, "longitude": -122.0807475}, "googleMapsUri": "https://maps.google.com/?cid=9990122642583566618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://casalupemountainview.com/", "displayName": {"text": "Casa Lupe", "languageCode": "en"}, "cuisine": "Mexican", "menuUrl": "https://www.casalupe.com/menu", "phone": "(650) 965-7911", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJCza2IjC7j4ARf8iQuWMrTHw", "formattedAddress": "2483 Old Middlefield Way, Mountain View, CA 94043, USA", "location": {"latitude": 37.4142988, "longitude": -122.09917150000001}, "googleMapsUri": "https://maps.google.com/?cid=8956581466248104063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.casamiarestaurantmtv.com/", "displayName": {"text": "Casa Mia Restaurant (Mountain View)", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/mountain-view/Casa Mia Small.jpeg", "menuUrl": "https://www.casamiaristorante.com/menu", "phone": "(650) 965-0440", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJ03QfnzO3j4ARC0p7TSYoCpA", "formattedAddress": "400 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.391193699999995, "longitude": -122.0810107}, "googleMapsUri": "https://maps.google.com/?cid=10379152436202523147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.cascalmv.com/", "displayName": {"text": "Cascal", "languageCode": "en"}, "cuisine": "Spanish", "menuUrl": "https://www.cascalmv.com/menu", "phone": "(650) 940-9500", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJDXeoxFCxj4ARWeIF4XCgk8Q", "formattedAddress": "1910 W El Camino Real D, Mountain View, CA 94040, USA", "location": {"latitude": 37.3941947, "longitude": -122.0969734}, "googleMapsUri": "https://maps.google.com/?cid=14164841659682382425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.caspiancuisineca.com/", "displayName": {"text": "Caspian Cuisine", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/mountain-view/Caspian Small.jpeg", "menuUrl": "https://www.caspiancuisine.com/menu", "phone": "(650) 965-7400", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJvY7dlVq3j4AR27iAvJpn6bE", "formattedAddress": "165 E El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3785027, "longitude": -122.07103989999999}, "googleMapsUri": "https://maps.google.com/?cid=12819891728572004571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.chaatbhavan.com/", "displayName": {"text": "Chaat Bhavan Mountain View", "languageCode": "en"}, "cuisine": "Indian", "menuUrl": "https://www.chaatbhavan.com/menu", "phone": "(650) 965-1111", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJdQUQTjC3j4AR9dOfeAQJwus", "formattedAddress": "101 E El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3797345, "longitude": -122.07309369999999}, "googleMapsUri": "https://maps.google.com/?cid=16988150659203191797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.instagram.com/chefmuskebab?igsh=NTc4MTIwNjQ2YQ==", "displayName": {"text": "Chefmus Kebab Turkish Food", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "menuUrl": "https://www.chefmus.com/menu", "phone": "(650) 282-5900", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJPUL8UjS3j4ARdCh-Ys_Bgqs", "formattedAddress": "938 Villa St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3946669, "longitude": -122.0804378}, "googleMapsUri": "https://maps.google.com/?cid=12358653423912888436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cheztj.com/", "displayName": {"text": "Chez TJ", "languageCode": "en"}, "cuisine": "French", "menuUrl": "https://www.cheztj.com/menu", "phone": "(650) 964-7466", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:00 PM", "Saturday": "5:00 PM – 9:00 PM"}, "priceRange": "$$$$"}, {"id": "ChIJBSkY9Cu3j4ARNyh4HYmcLmA", "formattedAddress": "239 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.382604300000004, "longitude": -122.07842999999998}, "googleMapsUri": "https://maps.google.com/?cid=6930648989288638519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.cheztakos.com/", "displayName": {"text": "Cheztakos!!!", "languageCode": "en"}, "cuisine": "Mexican", "menuUrl": "https://www.cheztakos.com/menu", "phone": "(650) 938-4040", "hours": {"Monday": "10:00 AM – 9:00 PM", "Tuesday": "10:00 AM – 9:00 PM", "Wednesday": "10:00 AM – 9:00 PM", "Thursday": "10:00 AM – 9:00 PM", "Friday": "10:00 AM – 9:00 PM", "Saturday": "10:00 AM – 9:00 PM", "Sunday": "10:00 AM – 9:00 PM"}, "priceRange": "$"}, {"id": "ChIJ2x9bikWxj4ARKfInqJs4vw8", "formattedAddress": "1414 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3892038, "longitude": -122.09034000000001}, "googleMapsUri": "https://maps.google.com/?cid=1134687872312930857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://chickengs.com/", "displayName": {"text": "Chicken G's", "languageCode": "en"}, "cuisine": "American", "menuUrl": "https://www.chickengs.com/menu", "phone": "(650) 282-5020", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJ8ZTVZJmwj4ARQFv0RXspg3A", "formattedAddress": "2560 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.401047, "longitude": -122.11094600000001}, "googleMapsUri": "https://maps.google.com/?cid=8107369363628383040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.chilis.com/locations/us/california/mountain-view/mountain-view?utm_source=google&utm_medium=local&utm_campaign=Chilis", "displayName": {"text": "Chili's Grill & Bar", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/mountain-view/Chilis Small.jpeg", "menuUrl": "https://www.chilis.com/menu", "phone": "(650) 967-0272", "hours": {"Monday": "11:00 AM – 11:00 PM", "Tuesday": "11:00 AM – 11:00 PM", "Wednesday": "11:00 AM – 11:00 PM", "Thursday": "11:00 AM – 11:00 PM", "Friday": "11:00 AM – 11:00 PM", "Saturday": "11:00 AM – 11:00 PM", "Sunday": "11:00 AM – 11:00 PM"}, "priceRange": "$$"}, {"id": "ChIJgT5ZKhGxj4ARdYMpDtwhEjk", "formattedAddress": "2633 California St, Mountain View, CA 94040, USA", "location": {"latitude": 37.406061699999995, "longitude": -122.1116807}, "googleMapsUri": "https://maps.google.com/?cid=4112386638756807541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://chinawokcatogo.com/", "displayName": {"text": "CHINA WOK RESTAURANT", "languageCode": "en"}, "cuisine": "Chinese", "menuUrl": "https://www.chinawokmountainview.com/menu", "phone": "(650) 965-7111", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$"}, {"id": "ChIJ4TTDdzS3j4AR78EQgu5EADA", "formattedAddress": "300 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.39252210000001, "longitude": -122.08000809999999}, "googleMapsUri": "https://maps.google.com/?cid=3458840304995582447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://crepevine.com/?y_source=1_MTQxNzg0NTctNzE1LWxvY2F0aW9uLndlYnNpdGU=", "displayName": {"text": "Crepevine Restaurants", "languageCode": "en"}, "cuisine": "American", "menuUrl": "https://www.crepevine.com/menu", "phone": "(650) 969-1169", "hours": {"Monday": "8:00 AM – 9:00 PM", "Tuesday": "8:00 AM – 9:00 PM", "Wednesday": "8:00 AM – 9:00 PM", "Thursday": "8:00 AM – 9:00 PM", "Friday": "8:00 AM – 9:00 PM", "Saturday": "8:00 AM – 9:00 PM", "Sunday": "8:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJC_3cdla3j4ARMgf4Pw8Irek", "formattedAddress": "1390 Pear Ave Ste D, Mountain View, CA 94043, USA", "location": {"latitude": 37.4159532, "longitude": -122.07757729999999}, "googleMapsUri": "https://maps.google.com/?cid=16838123443398903602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cucinaventi.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website", "displayName": {"text": "Cucina Venti Restaurant", "languageCode": "en"}, "cuisine": "Italian", "menuUrl": "https://www.cucinaventi.com/menu", "phone": "(650) 397-7084", "hours": {"Monday": "11:30 AM – 9:30 PM", "Tuesday": "11:30 AM – 9:30 PM", "Wednesday": "11:30 AM – 9:30 PM", "Thursday": "11:30 AM – 9:30 PM", "Friday": "11:30 AM – 9:30 PM", "Saturday": "11:30 AM – 9:30 PM", "Sunday": "11:30 AM – 9:30 PM"}, "priceRange": "$$$"}, {"id": "ChIJW2ynIPu3j4ARXDXw5S94e0o", "displayName": {"text": "Das Bierhauz", "languageCode": "en"}, "formattedAddress": "135 Castro St, Mountain View, CA 94041, USA", "googleMapsUri": "https://maps.google.com/?cid=5367015528058598748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.dasbierhauz.com/", "location": {}, "cuisine": "German/Austrian", "keywords": ["burgers"], "menuUrl": "https://www.dasbierhauz.com/menu", "phone": "(650) 965-2337", "hours": {"Tuesday": "4:00 PM – 10:00 PM", "Wednesday": "4:00 PM – 10:00 PM", "Thursday": "4:00 PM – 10:00 PM", "Friday": "12:00 PM – 11:00 PM", "Saturday": "12:00 PM – 11:00 PM", "Sunday": "12:00 PM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJdwzB9Ji3j4ARCR4skGIBg0Q", "formattedAddress": "327 Moffett Blvd # K, Mountain View, CA 94043, USA", "location": {"latitude": 37.398076599999996, "longitude": -122.07517800000001}, "googleMapsUri": "https://maps.google.com/?cid=4936791139365428745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.desipizzahouse.com/", "displayName": {"text": "Desi Pizza house", "languageCode": "en"}, "cuisine": "Fusion", "menuUrl": "https://www.desipizzahouse.com/menu", "phone": "(650) 282-5555", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJ1ZLhDTS3j4ARx3Whbv-Js8s", "formattedAddress": "235 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3933697, "longitude": -122.0790841}, "googleMapsUri": "https://maps.google.com/?cid=14678227340696319431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://dongiovannis.com/", "displayName": {"text": "Don Giovanni", "languageCode": "en"}, "cuisine": "Italian", "menuUrl": "https://www.dongiovannimv.com/menu", "phone": "(650) 961-9749", "hours": {"Monday": "11:30 AM – 9:30 PM", "Tuesday": "11:30 AM – 9:30 PM", "Wednesday": "11:30 AM – 9:30 PM", "Thursday": "11:30 AM – 9:30 PM", "Friday": "11:30 AM – 9:30 PM", "Saturday": "11:30 AM – 9:30 PM", "Sunday": "11:30 AM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJ_ZkMOzS3j4ARrHx230WkSHo", "formattedAddress": "160 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3944829, "longitude": -122.0790619}, "googleMapsUri": "https://maps.google.com/?cid=8811473290959158444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://doppiozerogroup.com/doppiozeromountainview?utm_source=google", "displayName": {"text": "Doppio Zero Mountain View", "languageCode": "en"}, "cuisine": "Italian", "menuUrl": "https://www.doppiozero.com/menu", "phone": "(650) 938-4147", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJm7r-fwC3j4ARHBWUgHnO2Ec", "formattedAddress": "1040 Grant Rd STE 100, Mountain View, CA 94040, USA", "location": {"latitude": 37.378760199999995, "longitude": -122.07565050000001}, "googleMapsUri": "https://maps.google.com/?cid=5177114792905938204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.eapingfresh.com/", "displayName": {"text": "Eaping Fresh Chinese", "languageCode": "en"}, "cuisine": "Chinese", "menuUrl": "https://www.eapingrestaurant.com/menu", "phone": "(650) 964-8888", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJOTwEp5iwj4ARHHrOgn0mLto", "formattedAddress": "530 Showers Dr #4, Mountain View, CA 94040, USA", "location": {"latitude": 37.4020375, "longitude": -122.1076114}, "googleMapsUri": "https://maps.google.com/?cid=15721545669704317468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.eightyeightsushi.com/", "displayName": {"text": "Eighty-Eight Sushi & Ramen", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/mountain-view/Eighty Eight Small.jpeg", "menuUrl": "https://www.88sushiramen.com/menu", "phone": "(650) 564-9060", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJS9wPPhC6j4AR-SeTDDlmO84", "formattedAddress": "2424 Charleston Rd, Mountain View, CA 94043, USA", "location": {"latitude": 37.4220209, "longitude": -122.0964012}, "googleMapsUri": "https://maps.google.com/?cid=14860583790649223161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.eriksdelicafe.com/", "displayName": {"text": "Erik's DeliCafé", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/mountain-view/Eriks Deli Cafe Small.jpeg", "menuUrl": "https://www.eriksdelicafe.com/menu", "phone": "(650) 969-6535", "hours": {"Monday": "10:00 AM – 5:00 PM", "Tuesday": "10:00 AM – 5:00 PM", "Wednesday": "10:00 AM – 5:00 PM", "Thursday": "10:00 AM – 5:00 PM", "Friday": "10:00 AM – 5:00 PM"}, "priceRange": "$"}, {"id": "ChIJQSVQrde2j4AREiEf9c2ce5o", "formattedAddress": "1350 Grant Rd, Mountain View, CA 94040, USA", "location": {"latitude": 37.3767628, "longitude": -122.07633089999999}, "googleMapsUri": "https://maps.google.com/?cid=11131663312370999570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.eriksdelicafe.com/", "displayName": {"text": "Erik's DeliCafe of Mountain View - Grant Rd.", "languageCode": "en"}, "cuisine": "American", "menuUrl": "https://www.eriksdelicafe.com/menu", "phone": "(650) 965-9631", "hours": {"Monday": "10:00 AM – 5:00 PM", "Tuesday": "10:00 AM – 5:00 PM", "Wednesday": "10:00 AM – 5:00 PM", "Thursday": "10:00 AM – 5:00 PM", "Friday": "10:00 AM – 5:00 PM"}, "priceRange": "$"}, {"id": "ChIJ9aXjGTS3j4AR2Gpu1hs3qU4", "formattedAddress": "191 Castro St Level 2, Mountain View, CA 94041, USA", "location": {"latitude": 37.3938572, "longitude": -122.07867259999999}, "googleMapsUri": "https://maps.google.com/?cid=5668122198723685080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://eurekarestaurantgroup.com/blog/locations/mountain-view/", "displayName": {"text": "Eureka!", "languageCode": "en"}, "cuisine": "American", "menuUrl": "https://eurekarestaurantgroup.com/menu/mountain-view", "phone": "(650) 964-4812", "hours": {"Monday": "11:00 AM – 11:00 PM", "Tuesday": "11:00 AM – 11:00 PM", "Wednesday": "11:00 AM – 11:00 PM", "Thursday": "11:00 AM – 11:00 PM", "Friday": "11:00 AM – 11:00 PM", "Saturday": "11:00 AM – 11:00 PM", "Sunday": "11:00 AM – 11:00 PM"}, "priceRange": "$$"}, {"id": "ChIJjXKAThS3j4ARA2wf_yuYr5U", "formattedAddress": "425 N Whisman Rd #100, Mountain View, CA 94043, USA", "location": {"latitude": 37.4008804, "longitude": -122.0578043}, "googleMapsUri": "https://maps.google.com/?cid=10786006947306892291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://neweverestcuisine.com/everestcuisinemountainview?utm_source=google", "displayName": {"text": "Everest Cuisine-Mountain View", "languageCode": "en"}, "cuisine": "Indian", "menuUrl": "https://www.everestcuisinemv.com/menu", "phone": "(650) 938-4190", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJlTUD1AGxj4ARuBRu9Dj2OxE", "formattedAddress": "409 San Antonio Rd, Mountain View, CA 94040, USA", "location": {"latitude": 37.4037174, "longitude": -122.1103688}, "googleMapsUri": "https://maps.google.com/?cid=1241856846750160056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.fairchildspublichouse.com/", "displayName": {"text": "Fairchilds Public House", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/mountain-view/Fairchilds Small.jpeg", "menuUrl": "https://www.fairchildspublichouse.com/menu", "phone": "(650) 597-0356", "hours": {"Monday": "7:00 AM – 10:00 PM", "Tuesday": "7:00 AM – 10:00 PM", "Wednesday": "7:00 AM – 10:00 PM", "Thursday": "7:00 AM – 10:00 PM", "Friday": "7:00 AM – 10:00 PM", "Saturday": "7:00 AM – 10:00 PM", "Sunday": "7:00 AM – 10:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJbaA3enm3j4AR-zV5zEm9b2U", "formattedAddress": "156 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3944742, "longitude": -122.07881730000001}, "googleMapsUri": "https://maps.google.com/?cid=7309268844906362363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://6503861358.com/", "displayName": {"text": "Fish With You鱼你在一起Mountain View", "languageCode": "en"}, "cuisine": "Chinese", "menuUrl": "https://www.fishwithyouus.com/menu", "phone": "(650) 282-5408", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJ57sfDTS3j4ARrjiqh6-gZLQ", "formattedAddress": "153 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.394327, "longitude": -122.07848120000001}, "googleMapsUri": "https://maps.google.com/?cid=12998691100253894830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://fulammummountainview.com/", "displayName": {"text": "Fu Lam Mum", "languageCode": "en"}, "cuisine": "Chinese", "menuUrl": "https://www.fulammum.com/menu", "phone": "(650) 965-6328", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJi93uLsywj4ARH81XgnsYctU", "formattedAddress": "1245 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.387884799999995, "longitude": -122.089045}, "googleMapsUri": "https://maps.google.com/?cid=15380382596170501407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.gardenfreshca.com/", "displayName": {"text": "Garden Fresh", "languageCode": "en"}, "cuisine": "Chinese", "menuUrl": "https://www.gardenfreshca.com/menu", "phone": "(650) 965-8882", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJlQP9egCxj4ARQMFOjfPwC5s", "formattedAddress": "939 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3864405, "longitude": -122.08592449999999}, "googleMapsUri": "https://maps.google.com/?cid=11172288229461115200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.giorgiositalianfood.com/", "displayName": {"text": "Giorgio's Italian Grill and Pizzeria", "languageCode": "en"}, "cuisine": "Italian", "menuUrl": "https://www.giorgios.com/menu", "phone": "(650) 961-9749", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJdfqG9riwj4AR7gGgAWgXlgc", "formattedAddress": "1943 W El Camino Real, Mountain View, CA 94041, USA", "location": {"latitude": 37.393369400000005, "longitude": -122.09812219999999}, "googleMapsUri": "https://maps.google.com/?cid=546650140243395054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://gochifusiontapas.com/", "displayName": {"text": "Gochi Japanese Fusion Tapas", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/mountain-view/Gochi Small.jpeg", "menuUrl": "https://www.gochifusiontapas.com/menu", "phone": "(650) 960-1000", "hours": {"Monday": "5:00 PM – 10:00 PM", "Tuesday": "5:00 PM – 10:00 PM", "Wednesday": "5:00 PM – 10:00 PM", "Thursday": "5:00 PM – 10:00 PM", "Friday": "5:00 PM – 10:00 PM", "Saturday": "5:00 PM – 10:00 PM", "Sunday": "5:00 PM – 10:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJhVI4gQ-6j4ARAeBWvkHGkbM", "formattedAddress": "1040 N Rengstorff Ave A1, Mountain View, CA 94043, USA", "location": {"latitude": 37.419343399999995, "longitude": -122.0951334}, "googleMapsUri": "https://maps.google.com/?cid=12939341190080684033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sushihanabimv.com/", "displayName": {"text": "Hanabi Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/mountain-view/Hanabi Sushi Small.jpeg", "menuUrl": "https://www.hanabisushi.us/menu", "phone": "(650) 964-8885", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJJ9KvLjS3j4ARVZyJ6HSBT0A", "formattedAddress": "102 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3950424, "longitude": -122.07836150000001}, "googleMapsUri": "https://maps.google.com/?cid=4634064880705051733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://happylambhotpot.com/", "displayName": {"text": "Happy Lamb Hot Pot | Mountain View", "languageCode": "en"}, "cuisine": "Vietnamese", "menuUrl": "https://www.happylambhotpot.com/menu", "phone": "(650) 282-5388", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJAQaKvt22j4ARN-qH7yl2wH8", "formattedAddress": "820 E El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3772187, "longitude": -122.06269939999999}, "googleMapsUri": "https://maps.google.com/?cid=9205487560829692471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://himalayan-kitchen.com/?utm_source=gmb&utm_medium=websitebutton&utm_campaign=website", "displayName": {"text": "Himalayan Kitchen", "languageCode": "en"}, "cuisine": "Other", "menuUrl": "https://www.himalayankitchenmv.com/menu", "phone": "(650) 969-7250", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"}, "priceRange": "$$"}, {"id": "ChIJDwVSiN-3j4ARzmdKWdvDSDs", "formattedAddress": "185 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.393941999999996, "longitude": -122.07861799999999}, "googleMapsUri": "https://maps.google.com/?cid=4271879593424218062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.eatathummus.com/", "displayName": {"text": "Hummus Mediterranean Kitchen", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "menuUrl": "https://www.hummuskitchen.com/menu", "phone": "(650) 964-9999", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJETHw0F-7j4AR85V_I6OobCI", "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA", "location": {"latitude": 37.414076099999996, "longitude": -122.0932}, "googleMapsUri": "https://maps.google.com/?cid=2480542913403000307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://hdbiryani.com/", "displayName": {"text": "Hyderabad Dum Biryani", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/mountain-view/Hyderabad dum Biryani Small.jpeg", "menuUrl": "https://www.hyderabaddumbiryani.com/menu", "phone": "(650) 938-4044", "hours": {"Monday": "11:30 AM – 10:00 PM", "Tuesday": "11:30 AM – 10:00 PM", "Wednesday": "11:30 AM – 10:00 PM", "Thursday": "11:30 AM – 10:00 PM", "Friday": "11:30 AM – 10:00 PM", "Saturday": "11:30 AM – 10:00 PM", "Sunday": "11:30 AM – 10:00 PM"}, "priceRange": "$$"}, {"id": "ChIJwRZVJUi3j4ARRDXWLyu0pQ4", "formattedAddress": "430 Moffett Blvd, Mountain View, CA 94043, USA", "location": {"latitude": 37.399581399999995, "longitude": -122.0744431}, "googleMapsUri": "https://maps.google.com/?cid=1055447785267410244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "I’l Portale Italian Restaurant by Los Portales", "languageCode": "en"}, "cuisine": "Italian", "menuUrl": "https://www.ilportale.com/menu", "phone": "(650) 962-5870", "hours": {"Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJ1bwjGQCxj4ARk3g2XaSpZDY", "formattedAddress": "565 San Antonio Rd Suite 27, Mountain View, CA 94040, USA", "location": {"latitude": 37.4027283, "longitude": -122.1121022}, "googleMapsUri": "https://maps.google.com/?cid=3919444099122755731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.idlyexpress.com/", "displayName": {"text": "Idly Express - Mountain View", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/mountain-view/Idly Express Small.jpeg", "menuUrl": "https://www.idlyexpress.com/menu", "phone": "(650) 938-4848", "hours": {"Monday": "8:00 AM – 9:00 PM", "Tuesday": "8:00 AM – 9:00 PM", "Wednesday": "8:00 AM – 9:00 PM", "Thursday": "8:00 AM – 9:00 PM", "Friday": "8:00 AM – 9:00 PM", "Saturday": "8:00 AM – 9:00 PM", "Sunday": "8:00 AM – 9:00 PM"}, "priceRange": "$"}, {"id": "ChIJN2EgyMa7j4ARX0jGUEEfMoM", "formattedAddress": "1020 N Rengstorff Ave Suite EMountain, Mountain View, CA 94043, USA", "location": {"latitude": 37.4199771, "longitude": -122.09609909999998}, "googleMapsUri": "https://maps.google.com/?cid=9453652933192599647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://locations.ikessandwich.com/ca/mountainview/140/?utm_source=gmb&utm_medium=profile&utm_campaign=mountainview-location-page", "displayName": {"text": "Ike's Love & Sandwiches", "languageCode": "usa"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/mountain-view/Ikes Small.jpeg", "menuUrl": "https://www.ikessandwich.com/menu", "phone": "(650) 265-1111", "hours": {"Monday": "10:00 AM – 9:00 PM", "Tuesday": "10:00 AM – 9:00 PM", "Wednesday": "10:00 AM – 9:00 PM", "Thursday": "10:00 AM – 9:00 PM", "Friday": "10:00 AM – 9:00 PM", "Saturday": "10:00 AM – 9:00 PM", "Sunday": "10:00 AM – 9:00 PM"}, "priceRange": "$$"}, {"id": "ChIJP_NCyBSxj4ARfaFtCqYUocU", "formattedAddress": "545 San Antonio Rd Suite 31, Mountain View, CA 94040, USA", "location": {"latitude": 37.4033429, "longitude": -122.11201179999998}, "googleMapsUri": "https://maps.google.com/?cid=14240686200094302589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ilfornaio.com/", "displayName": {"text": "Il Fornaio | Mountain View", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/mountain-view/Il Fornaio Small.jpeg", "menuUrl": "https://www.ilfornaio.com/menu/mountain-view", "phone": "(650) 964-6283", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "priceRange": "$$$"}, {"id": "ChIJZ51N9z23j4ARBFYUT_oKtCM", "formattedAddress": "225 E Middlefield Rd, Mountain View, CA 94043, USA", "location": {"latitude": 37.396654, "longitude": -122.06143279999999}, "googleMapsUri": "https://maps.google.com/?cid=2572693357320230404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://joysushimountainview.com/", "displayName": {"text": "Joy Sushi", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 903-9403", "hours": {"Monday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "http://www.joysushimountainview.com", "priceRange": "$$"}, {"id": "ChIJNaa5cLSxj4ARn9KSY9gLH5U", "formattedAddress": "2512 California St, Mountain View, CA 94040, USA", "location": {"latitude": 37.404147699999996, "longitude": -122.10677719999998}, "googleMapsUri": "https://maps.google.com/?cid=10745320259940700831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://joyasupermarkets.com/", "displayName": {"text": "Joya Super Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/mountain-view/Joya Tqqueria Small.jpeg", "phone": "(650) 965-8210", "hours": {"Monday": "9:00 AM – 10:00 PM", "Tuesday": "9:00 AM – 10:00 PM", "Wednesday": "9:00 AM – 10:00 PM", "Thursday": "9:00 AM – 10:00 PM", "Friday": "9:00 AM – 10:00 PM", "Saturday": "9:00 AM – 10:00 PM", "Sunday": "9:00 AM – 10:00 PM"}, "menuUrl": "https://www.joyasupertaqueria.com/menu", "priceRange": "$"}, {"id": "ChIJ2yPdP5y3j4AR3Xm38i9_-8M", "formattedAddress": "124 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.394799, "longitude": -122.0786176}, "googleMapsUri": "https://maps.google.com/?cid=14122020900462623197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pos.chowbus.com/online-ordering/store/HuaXiWang-Mountain-View/14707", "displayName": {"text": "Joyous Cuisine 花溪王 山野美食", "languageCode": "en"}, "cuisine": "Chinese", "phone": "(650) 282-5292", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.joyouscuisine.com/menu", "priceRange": "$$"}, {"id": "ChIJL5hnM2u3j4ARQDJhTeN5LIw", "formattedAddress": "743 W Dana St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3922257, "longitude": -122.07921039999998}, "googleMapsUri": "https://maps.google.com/?cid=10100582081447932480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Kakaroto Japanese Restaurant", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 964-9600", "hours": {"Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "https://www.kakarotosushi.com/menu", "priceRange": "$$"}, {"id": "ChIJp6_gcIK3j4ARGYrA3vLG4OE", "formattedAddress": "859 Villa St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3939691, "longitude": -122.0797429}, "googleMapsUri": "https://maps.google.com/?cid=16276227799738518041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sushi-katsu-mv.com/", "displayName": {"text": "Katsu", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 282-5111", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.katsumv.com/menu", "priceRange": "$$"}, {"id": "ChIJuyy5k-i3j4ARXY_xqSqZRpg", "formattedAddress": "225 E Middlefield Rd, Mountain View, CA 94043, USA", "location": {"latitude": 37.3966424, "longitude": -122.0615802}, "googleMapsUri": "https://maps.google.com/?cid=10972625950653648733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.khaokang.com/", "displayName": {"text": "Khao Kang Thai Kitchen", "languageCode": "en"}, "cuisine": "Thai", "phone": "(650) 960-7100", "hours": {"Monday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Tuesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Wednesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Thursday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Friday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM", "Saturday": "12:00 PM – 3:00 PM, 5:00 PM – 9:00 PM", "Sunday": "12:00 PM – 3:00 PM, 5:00 PM – 9:00 PM"}, "menuUrl": "https://www.khaokangthaikitchen.com/menu", "priceRange": "$$"}, {"id": "ChIJl6WpAwCxj4ARGS8burVhH-Q", "formattedAddress": "1962 El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.394429699999996, "longitude": -122.0981737}, "googleMapsUri": "https://maps.google.com/?cid=16437964598064918297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://kunjiptofu.com/", "displayName": {"text": "Kunjip Tofu", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/mountain-view/Kunjip Korean Restaurant Small.jpeg", "phone": "(650) 988-4588", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "menuUrl": "https://www.kunjiprestaurant.com/menu", "priceRange": "$$"}, {"id": "ChIJ95RyX2Gxj4ARfNp2V6qcvPM", "formattedAddress": "634 N San Antonio Rd, Mountain View, CA 94043, USA", "location": {"latitude": 37.402704500000006, "longitude": -122.11402120000001}, "googleMapsUri": "https://maps.google.com/?cid=17563084902263872124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://kusanbazaar.com/kusanbazaar-txusjq?utm_source=google", "displayName": {"text": "Kusan Bazaar 龟兹集市", "languageCode": "en"}, "cuisine": "Halal", "photoUrl": "images/restaurant-photos/mountain-view/Kusan Bazaar Small.jpeg", "phone": "(650) 564-9055", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "menuUrl": "https://www.kusanbazaar.com/menu", "priceRange": "$$"}, {"id": "ChIJfa51MBC6j4ARdScWiQPQXWI", "formattedAddress": "2430 E Charleston Rd, Mountain View, CA 94043, USA", "location": {"latitude": 37.4220781, "longitude": -122.09643260000001}, "googleMapsUri": "https://maps.google.com/?cid=7088050102154438517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://hawaiianbarbecue.com/", "displayName": {"text": "L&L Hawaiian Barbecue - Mountain View", "languageCode": "en"}, "cuisine": "BBQ", "photoUrl": "images/restaurant-photos/mountain-view/L&L Hawaiian Barbecue Small.jpeg", "phone": "(650) 988-8885", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.hawaiianbarbecue.com/menu", "priceRange": "$$"}, {"id": "ChIJ09rb9T23j4ARra_A_sXsfZc", "formattedAddress": "235 E Middlefield Rd #1A, Mountain View, CA 94043, USA", "location": {"latitude": 37.3974265, "longitude": -122.0611825}, "googleMapsUri": "https://maps.google.com/?cid=10916141406942703533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://costena.com/", "displayName": {"text": "La Costeña", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 969-9990", "hours": {"Monday": "9:00 AM – 9:00 PM", "Tuesday": "9:00 AM – 9:00 PM", "Wednesday": "9:00 AM – 9:00 PM", "Thursday": "9:00 AM – 9:00 PM", "Friday": "9:00 AM – 9:00 PM", "Saturday": "9:00 AM – 9:00 PM", "Sunday": "9:00 AM – 9:00 PM"}, "menuUrl": "https://www.lacostenamexicanrestaurant.com/menu", "priceRange": "$"}, {"id": "ChIJ1aqkYgCxj4ARoH9RI07fXEQ", "formattedAddress": "586 Escuela Ave, Mountain View, CA 94040, USA", "location": {"latitude": 37.394793, "longitude": -122.0954982}, "googleMapsUri": "https://maps.google.com/?cid=4926057619129466784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.instagram.com/lacuevamexgrub?igsh=MzRlODBiNWFlZA==", "displayName": {"text": "La Cueva Mexican Grub", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 938-4141", "hours": {"Monday": "10:00 AM – 9:00 PM", "Tuesday": "10:00 AM – 9:00 PM", "Wednesday": "10:00 AM – 9:00 PM", "Thursday": "10:00 AM – 9:00 PM", "Friday": "10:00 AM – 9:00 PM", "Saturday": "10:00 AM – 9:00 PM", "Sunday": "10:00 AM – 9:00 PM"}, "menuUrl": "https://www.lacuevamexicangrub.com/menu", "priceRange": "$"}, {"id": "ChIJD-RI2SK3j4ARPlV6OjQBSW8", "formattedAddress": "1288 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3886659, "longitude": -122.0886237}, "googleMapsUri": "https://maps.google.com/?cid=8018941935340901694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "La Familia Taqueria", "languageCode": "es"}, "cuisine": "Mexican", "phone": "(650) 965-9100", "hours": {"Monday": "10:00 AM – 10:00 PM", "Tuesday": "10:00 AM – 10:00 PM", "Wednesday": "10:00 AM – 10:00 PM", "Thursday": "10:00 AM – 10:00 PM", "Friday": "10:00 AM – 10:00 PM", "Saturday": "10:00 AM – 10:00 PM", "Sunday": "10:00 AM – 10:00 PM"}, "menuUrl": "https://www.lafamiliataqueria.com/menu", "priceRange": "$"}, {"id": "ChIJlXOKcDC3j4ARzal-5j-p-FY", "formattedAddress": "240 Villa St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3916289, "longitude": -122.0728897}, "googleMapsUri": "https://maps.google.com/?cid=6266944973401139661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.lafiestamexicancuisine.com/", "displayName": {"text": "La Fiesta", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 967-6649", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.lafiestamv.com/menu", "priceRange": "$$"}, {"id": "ChIJZ54APTS3j4ARBYZD956MHq8", "formattedAddress": "186 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3941611, "longitude": -122.0790833}, "googleMapsUri": "https://maps.google.com/?cid=12618677820319827461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.lafontainerestaurant.com/", "displayName": {"text": "La Fontaine Mountain View", "languageCode": "en"}, "cuisine": "French/Italian", "phone": "(650) 967-9090", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://www.lafontainerestaurant.com/menu", "priceRange": "$$$"}, {"id": "ChIJayz3ts6wj4ARazzb1sL5yNU", "formattedAddress": "1405 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3888226, "longitude": -122.09077179999998}, "googleMapsUri": "https://maps.google.com/?cid=15404837140644445291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.lepetitbistromountainview.com/", "displayName": {"text": "Le Petit Bistro", "languageCode": "en"}, "cuisine": "French", "phone": "(650) 964-3321", "hours": {"Tuesday": "5:00 PM – 9:00 PM", "Wednesday": "5:00 PM – 9:00 PM", "Thursday": "5:00 PM – 9:00 PM", "Friday": "5:00 PM – 9:00 PM", "Saturday": "5:00 PM – 9:00 PM"}, "menuUrl": "https://www.lepetitbistro.com/menu", "priceRange": "$$$"}, {"id": "ChIJUQD2pjW3j4ARJbYJ0xp0ycM", "formattedAddress": "800 California St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3916112, "longitude": -122.08068189999999}, "googleMapsUri": "https://maps.google.com/?cid=14107934966273390117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.limonrestaurants.com/", "displayName": {"text": "Limón", "languageCode": "en"}, "cuisine": "Peruvian", "phone": "(650) 965-3030", "hours": {"Monday": "11:30 AM – 9:30 PM", "Tuesday": "11:30 AM – 9:30 PM", "Wednesday": "11:30 AM – 9:30 PM", "Thursday": "11:30 AM – 9:30 PM", "Friday": "11:30 AM – 9:30 PM", "Saturday": "11:30 AM – 9:30 PM", "Sunday": "11:30 AM – 9:30 PM"}, "menuUrl": "https://www.limonrotisserie.com/menu", "priceRange": "$$"}, {"id": "ChIJhzHBsAe6j4ARvq9oi8u-bqQ", "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA", "location": {"latitude": 37.4141544, "longitude": -122.093488}, "googleMapsUri": "https://maps.google.com/?cid=11848617451084885950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://losaltostaqueria.com/", "displayName": {"text": "Los Altos Taqueria Mexican Inc", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/mountain-view/Los Altos Taqueria Small.jpeg", "phone": "(650) 948-9999", "hours": {"Monday": "10:00 AM – 10:00 PM", "Tuesday": "10:00 AM – 10:00 PM", "Wednesday": "10:00 AM – 10:00 PM", "Thursday": "10:00 AM – 10:00 PM", "Friday": "10:00 AM – 10:00 PM", "Saturday": "10:00 AM – 10:00 PM", "Sunday": "10:00 AM – 10:00 PM"}, "menuUrl": "https://www.losaltostaqueria.com/menu", "priceRange": "$"}, {"id": "ChIJFdt9na23j4ARJAc5rPXRHkE", "formattedAddress": "1040 Grant Rd Suite #305, Mountain View, CA 94040, USA", "location": {"latitude": 37.3797193, "longitude": -122.074444}, "googleMapsUri": "https://maps.google.com/?cid=4692418714853246756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.toasttab.com/local/order/los-amigos-mountainview/r-b3547295-bcda-415e-a1fa-d056c533cea4", "displayName": {"text": "Los Amigos", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 965-0011", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.losamigosmv.com/menu", "priceRange": "$$"}, {"id": "ChIJr2AqoJm3j4ARFMnM43xElBQ", "formattedAddress": "383 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3913916, "longitude": -122.0802018}, "googleMapsUri": "https://maps.google.com/?cid=1482885480500218132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ludwigsmv.com/", "displayName": {"text": "Ludwigs Biergarten", "languageCode": "en"}, "cuisine": "German/Austrian", "phone": "(650) 695-1614", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "menuUrl": "https://www.ludwigsbiergarten.com/menu", "priceRange": "$$"}, {"id": "ChIJE4n0FDS3j4ARFOGPKzVKJHg", "formattedAddress": "212 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3937182, "longitude": -122.0793244}, "googleMapsUri": "https://maps.google.com/?cid=8657125975937507604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.maisonalyzee.com/", "displayName": {"text": "Maison Alyzée", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "phone": "(650) 282-5454", "hours": {"Monday": "8:00 AM – 5:00 PM", "Tuesday": "8:00 AM – 5:00 PM", "Wednesday": "8:00 AM – 5:00 PM", "Thursday": "8:00 AM – 5:00 PM", "Friday": "8:00 AM – 5:00 PM", "Saturday": "8:00 AM – 5:00 PM", "Sunday": "8:00 AM – 5:00 PM"}, "menuUrl": "https://www.maisonalyzee.com/menu", "priceRange": "$$"}, {"id": "ChIJSTu5CLywj4ARdXEmSuNMISk", "formattedAddress": "615 S Rengstorff Ave, Mountain View, CA 94040, USA", "location": {"latitude": 37.3963494, "longitude": -122.10094029999998}, "googleMapsUri": "https://maps.google.com/?cid=2963734568871817589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.maldonadospizza.com/", "displayName": {"text": "Maldonado's Pizzeria", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/mountain-view/Maldonado Pizza Small.jpeg", "phone": "(650) 961-0100", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.maldonadospizza.com/menu", "priceRange": "$$"}, {"id": "ChIJ-0RVcTS3j4ARDEqD2bNEFrc", "formattedAddress": "288 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3928448, "longitude": -122.0797636}, "googleMapsUri": "https://maps.google.com/?cid=13192807697667541516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mantraindiausa.com/", "displayName": {"text": "Mantra India Mountain View", "languageCode": "en"}, "cuisine": "Indian", "phone": "(650) 961-5550", "hours": {"Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"}, "menuUrl": "https://www.mantraindia.com/menu", "priceRange": "$$"}, {"id": "ChIJwdl4xzK3j4ARjl95YHMcOIk", "formattedAddress": "650 Castro St #180, Mountain View, CA 94041, USA", "location": {"latitude": 37.3882171, "longitude": -122.0826644}, "googleMapsUri": "https://maps.google.com/?cid=9887684263757307790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.toasttab.com/online/masa-sushi-japan", "displayName": {"text": "Masa Sushi Japan", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 969-9998", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://www.masasushijapan.com/menu", "priceRange": "$$"}, {"id": "ChIJaYhfxzK3j4AR2AZVkKx1vRE", "formattedAddress": "650 Castro St suit 110, Mountain View, CA 94041, USA", "location": {"latitude": 37.3877582, "longitude": -122.0830367}, "googleMapsUri": "https://maps.google.com/?cid=1278307253259405016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.mediterraneangrillhouse.com/", "displayName": {"text": "Mediterranean Grill House xCoffee", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "phone": "(650) 938-4048", "hours": {"Monday": "10:00 AM – 9:00 PM", "Tuesday": "10:00 AM – 9:00 PM", "Wednesday": "10:00 AM – 9:00 PM", "Thursday": "10:00 AM – 9:00 PM", "Friday": "10:00 AM – 9:00 PM", "Saturday": "10:00 AM – 9:00 PM", "Sunday": "10:00 AM – 9:00 PM"}, "menuUrl": "https://www.mediterraneangrillhouse.com/menu", "priceRange": "$$"}, {"id": "ChIJczRbohGxj4ARJefRmnm2_mg", "formattedAddress": "401 San Antonio Rd, Mountain View, CA 94040, USA", "location": {"latitude": 37.4037408, "longitude": -122.11095}, "googleMapsUri": "https://maps.google.com/?cid=7565685057433757477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mendocinofarms.com/locations/mountain-view", "displayName": {"text": "Mendocino Farms", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/mountain-view/Mendocino Farms Small.jpeg", "phone": "(650) 600-8280", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.mendocinofarms.com/menu", "priceRange": "$$"}, {"id": "ChIJu3a5ugK3j4AR6uq-nikkeUo", "formattedAddress": "841 Villa St, Mountain View, CA 94041, USA", "location": {"latitude": 37.393890400000004, "longitude": -122.079508}, "googleMapsUri": "https://maps.google.com/?cid=5366360192164227818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mifen101go.site/", "displayName": {"text": "Mifen101幺零幺（原花溪王）", "languageCode": "en"}, "cuisine": "Chinese", "phone": "(650) 282-5099", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "11:00 AM – 9:30 PM", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 9:30 PM", "Friday": "11:00 AM – 9:30 PM", "Saturday": "11:00 AM – 9:30 PM", "Sunday": "11:00 AM – 9:30 PM"}, "menuUrl": "https://www.mifen101.com/menu", "priceRange": "$$"}, {"id": "ChIJbdRr8Juwj4ARRFNrtLQtGjs", "formattedAddress": "2590 W El Camino Real #13, Mountain View, CA 94040, USA", "location": {"latitude": 37.4013189, "longitude": -122.1129728}, "googleMapsUri": "https://maps.google.com/?cid=4258766651776521028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://mizusbg.com/", "displayName": {"text": "Mizu Sushi Bar & Grill", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/mountain-view/Mizu Small.jpeg", "phone": "(650) 964-2227", "hours": {"Monday": "11:30 AM – 9:00 PM", "Tuesday": "11:30 AM – 9:00 PM", "Wednesday": "11:30 AM – 9:00 PM", "Thursday": "11:30 AM – 9:00 PM", "Friday": "11:30 AM – 9:00 PM", "Saturday": "11:30 AM – 9:00 PM", "Sunday": "11:30 AM – 9:00 PM"}, "menuUrl": "https://www.mizusushibar.com/menu", "priceRange": "$$"}, {"id": "ChIJ6SYoDzS3j4ARUXlywN-MaHg", "formattedAddress": "241 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3931945, "longitude": -122.07905419999999}, "googleMapsUri": "https://maps.google.com/?cid=8676339574763583825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mollysmountainview.com/", "displayName": {"text": "Molly Magees", "languageCode": "en"}, "cuisine": "Other", "phone": "(650) 965-7005", "hours": {"Monday": "11:00 AM – 2:00 AM", "Tuesday": "11:00 AM – 2:00 AM", "Wednesday": "11:00 AM – 2:00 AM", "Thursday": "11:00 AM – 2:00 AM", "Friday": "11:00 AM – 2:00 AM", "Saturday": "11:00 AM – 2:00 AM", "Sunday": "11:00 AM – 2:00 AM"}, "menuUrl": "https://www.mollymagees.com", "priceRange": "$$"}, {"id": "ChIJe1fseW-3j4ARb0chTXBXxkA", "formattedAddress": "425 N Whisman Rd, Mountain View, CA 94043, USA", "location": {"latitude": 37.4008804, "longitude": -122.0578043}, "googleMapsUri": "https://maps.google.com/?cid=4667514203658078063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.doordash.com/store/momo-king-mountain-view-911870/en-US", "displayName": {"text": "Momo King- Mountain View", "languageCode": "en"}, "cuisine": "Indian", "phone": "(650) 938-4949", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "11:00 AM – 9:00 PM", "Sunday": "11:00 AM – 9:00 PM"}, "menuUrl": "https://www.momokingus.com/menu", "priceRange": "$$"}, {"id": "ChIJnTWJhiuxj4ARN8YqFg7pbmE", "formattedAddress": "1724 Miramonte Ave, Mountain View, CA 94040, USA", "location": {"latitude": 37.3729243, "longitude": -122.08849439999997}, "googleMapsUri": "https://maps.google.com/?cid=7020805115827897911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mountainmikespizza.com/locations/mountain-view-miramonte/", "displayName": {"text": "Mountain Mike's Pizza", "languageCode": "en"}, "cuisine": "Pizza", "phone": "(650) 961-1111", "hours": {"Monday": "11:00 AM – 10:00 PM", "Tuesday": "11:00 AM – 10:00 PM", "Wednesday": "11:00 AM – 10:00 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 10:00 PM", "Saturday": "11:00 AM – 10:00 PM", "Sunday": "11:00 AM – 10:00 PM"}, "menuUrl": "https://www.mountainmikespizza.com/menu", "priceRange": "$$"}, {"id": "ChIJ0XCu-J63j4ARBue4YjjbOLM", "formattedAddress": "357 Castro St Unit 3A, Mountain View, CA 94041, USA", "location": {"latitude": 37.3917899, "longitude": -122.0800516}, "googleMapsUri": "https://maps.google.com/?cid=12914312966705833734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mrbaokitchen.com/", "displayName": {"text": "Mr. Bao Kitchen", "languageCode": "en"}, "cuisine": "Chinese", "phone": "(650) 282-5026", "hours": {"Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM", "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM", "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM", "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM", "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM", "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM"}, "menuUrl": "https://www.mrbaokitchen.com/menu", "priceRange": "$$"}, {"id": "ChIJm7TnPMywj4ARr7OAYDci9mU", "formattedAddress": "1288 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.388694, "longitude": -122.0882837}, "googleMapsUri": "https://maps.google.com/?cid=7347097463339135919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Namastee Nepal Food Truck", "languageCode": "en"}, "cuisine": "Indian"}, {"id": "ChIJg1ayR7iwj4ARBsM83DizgKA", "formattedAddress": "1910 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3941309, "longitude": -122.0968228}, "googleMapsUri": "https://maps.google.com/?cid=11565440899881943814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.napoletanapizzeria.com/", "displayName": {"text": "Napoletana Pizzeria", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/mountain-view/Napoletana Pizzeria Small.jpeg"}, {"id": "ChIJs6VVKiK3j4ARv41w-9SHJJs", "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA", "location": {"latitude": 37.3832604, "longitude": -122.078283}, "googleMapsUri": "https://maps.google.com/?cid=11179209523861687743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://narfood.com/", "displayName": {"text": "NAR Restaurant", "languageCode": "en"}, "cuisine": "Greek/Mediterranean"}, {"id": "ChIJyyoIiTO3j4ARtwaLR_CQKiY", "formattedAddress": "304 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3924452, "longitude": -122.08000129999999}, "googleMapsUri": "https://maps.google.com/?cid=2750169884129953463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "New Mongolian BBQ", "languageCode": "en"}, "cuisine": "BBQ"}, {"id": "ChIJ5Z7q1de2j4ARGQo7GtP9k3Q", "formattedAddress": "1040 Grant Rd # 310, Mountain View, CA 94040, USA", "location": {"latitude": 37.3796618, "longitude": -122.07432779999998}, "googleMapsUri": "https://maps.google.com/?cid=8400336813096110617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://nypizzamv.com/", "displayName": {"text": "New York Pizza", "languageCode": "en"}, "cuisine": "Pizza"}, {"id": "ChIJxfnvDne3j4ARn9NTtNXBXEM", "formattedAddress": "298 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3927269, "longitude": -122.07982150000001}, "googleMapsUri": "https://maps.google.com/?cid=4853967621996139423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp", "displayName": {"text": "Nick the Greek", "languageCode": "en"}, "cuisine": "Greek/Mediterranean"}, {"id": "ChIJtwxHxXS3j4ARf6S4Vj8p8lY", "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA", "location": {"latitude": 37.3832604, "longitude": -122.078283}, "googleMapsUri": "https://maps.google.com/?cid=6265115383640401023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pos.chowbus.com/online-ordering/store/NAR-Restaurant/22992", "displayName": {"text": "Olivia Bros", "languageCode": "en"}, "cuisine": "Other"}, {"id": "ChIJZSOjJjS3j4AR1laX4fkSz08", "formattedAddress": "135 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3944747, "longitude": -122.0782518}, "googleMapsUri": "https://maps.google.com/?cid=5750836113616361174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://cafeolympus.com/", "displayName": {"text": "Olympus Caffe & Bakery", "languageCode": "en"}, "cuisine": "Cafe/Bakery"}, {"id": "ChIJsRJ_JTS3j4AR9RJPR8J3GB8", "formattedAddress": "126 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.394741499999995, "longitude": -122.07860149999999}, "googleMapsUri": "https://maps.google.com/?cid=2240672490920547061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://orenshummus.com/", "displayName": {"text": "Oren's Hummus", "languageCode": "en"}, "cuisine": "Middle Eastern"}, {"id": "ChIJ4fH1ZAC3j4AR1plGZKh_FZk", "formattedAddress": "216 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3936944, "longitude": -122.07940590000001}, "googleMapsUri": "https://maps.google.com/?cid=11030863223527479766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://ox9noodles.com/", "displayName": {"text": "Ox 9 Lanzhou Handpulled Noodles", "languageCode": "en"}, "cuisine": "Chinese"}, {"id": "ChIJCYQfo56wj4AR3ow1p23mAqA", "formattedAddress": "545 San Antonio Rd Suite 34, Mountain View, CA 94040, USA", "location": {"latitude": 37.4031145, "longitude": -122.11156979999998}, "googleMapsUri": "https://maps.google.com/?cid=11530031354653019358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pacificcatch.com/", "displayName": {"text": "Pacific Catch", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/mountain-view/Pacific Catch Small.jpeg"}, {"id": "ChIJz_sWKQK7j4ARgmIaJnNrUqI", "formattedAddress": "2070 Old Middlefield Way, Mountain View, CA 94043, USA", "location": {"latitude": 37.4147112, "longitude": -122.09240129999998}, "googleMapsUri": "https://maps.google.com/?cid=11696529324539273858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://papasandeggs.com/papasandeggsmountainview-93nk15?utm_source=google", "displayName": {"text": "Papas and Eggs", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/mountain-view/Papas & Eggs Small.jpeg"}, {"id": "ChIJoeZn_jW7j4ARCGcxQXxyXJ0", "formattedAddress": "2135 Old Middlefield Way, Mountain View, CA 94043, USA", "location": {"latitude": 37.414216599999996, "longitude": -122.0936237}, "googleMapsUri": "https://maps.google.com/?cid=11339063839807334152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.paperplatez.com/", "displayName": {"text": "Paper Platez", "languageCode": "en"}, "cuisine": "Other"}, {"id": "ChIJoVSH-z-3j4ARQbbHtlHT4Ds", "formattedAddress": "315 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3921379, "longitude": -122.0796159}, "googleMapsUri": "https://maps.google.com/?cid=4314680790933288513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://parisbaguette.com/locations/ca/mountain-view/315-castro-street/", "displayName": {"text": "Paris Baguette", "languageCode": "en"}, "cuisine": "Cafe/Bakery"}, {"id": "ChIJRcT6OHKxj4AR9DB-cSpxe2k", "formattedAddress": "334 San Antonio Rd, Mountain View, CA 94040, USA", "location": {"latitude": 37.4059321, "longitude": -122.11199979999999}, "googleMapsUri": "https://maps.google.com/?cid=7600793223224504564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "PETRA'S KITCHEN", "languageCode": "en"}, "cuisine": "Mexican"}, {"id": "ChIJXREwzE23j4ARxfukeuZH_1E", "formattedAddress": "175 E El Camino Real Ste-C, Mountain View, CA 94040, USA", "location": {"latitude": 37.3787149, "longitude": -122.07086099999998}, "googleMapsUri": "https://maps.google.com/?cid=5908520291359062981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://phoanh.us/", "displayName": {"text": "Pho Anh", "languageCode": "en"}, "cuisine": "Vietnamese"}, {"id": "ChIJ6cEtu5mwj4ARXUcsNOIpx1w", "formattedAddress": "2500 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3998596, "longitude": -122.1101451}, "googleMapsUri": "https://maps.google.com/?cid=6685358223369455453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.phoavenue.com/", "displayName": {"text": "Pho Avenue", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/mountain-view/Pho Avenue Small.jpeg"}, {"id": "ChIJq6rqkw-6j4ARztwprDXfxDc", "formattedAddress": "1020 N Rengstorff Ave Ste C, Mountain View, CA 94043, USA", "location": {"latitude": 37.4198121, "longitude": -122.09610970000001}, "googleMapsUri": "https://maps.google.com/?cid=4018582189136010446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=ab282e2d-0799-4074-bcfb-57335f2c1fff", "displayName": {"text": "Phở Trần Vũ", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/mountain-view/Pho Tran Vu Small.jpeg"}, {"id": "ChIJe1NXQDS3j4ARPm9KvbvygJc", "formattedAddress": "853 Villa St, Mountain View, CA 94041, USA", "location": {"latitude": 37.393915, "longitude": -122.07971400000001}, "googleMapsUri": "https://maps.google.com/?cid=10916992384894660414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://beluga.kitchen/m/xQB543?utm_source=google_profile&utm_medium=organic", "displayName": {"text": "Phởtochau 999", "languageCode": "en"}, "cuisine": "Vietnamese"}, {"id": "ChIJa6U406-7j4ARZietsfdP6dE", "formattedAddress": "2680 Bayshore Pkwy, Mountain View, CA 94043, USA", "location": {"latitude": 37.4297762, "longitude": -122.1000322}, "googleMapsUri": "https://maps.google.com/?cid=15125708748756952934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://plazadelicafeca.com/", "displayName": {"text": "Plaza deli cafe", "languageCode": "en"}, "cuisine": "American"}, {"id": "ChIJpy_7hTO3j4ARie8lau6i5mE", "formattedAddress": "340 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3920611, "longitude": -122.0802694}, "googleMapsUri": "https://maps.google.com/?cid=7054505011189247881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.ilovepokebar.com/", "displayName": {"text": "Poke Bar", "languageCode": "en"}, "cuisine": "Fusion"}, {"id": "ChIJac8Jfre3j4ARp5fZrO0ttKo", "formattedAddress": "1040 Grant Rd Ste 360, Mountain View, CA 94040, USA", "location": {"latitude": 37.37955, "longitude": -122.0741937}, "googleMapsUri": "https://maps.google.com/?cid=12300506981086107559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.poke.house/locations/poke-grantrd-mountainview", "displayName": {"text": "Poke House - Mountain View", "languageCode": "en"}, "cuisine": "Fusion"}, {"id": "ChIJ08k3EDS3j4ARKBXLBf4Jyc0", "formattedAddress": "211 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.393528599999996, "longitude": -122.07891559999999}, "googleMapsUri": "https://maps.google.com/?cid=14828394234717607208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.pokeworks.com/", "displayName": {"text": "Pokeworks", "languageCode": "en"}, "cuisine": "Fusion"}, {"id": "ChIJh-RWCzS3j4ARyg7A_Go5qJI", "formattedAddress": "273 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.392922899999995, "longitude": -122.07922830000001}, "googleMapsUri": "https://maps.google.com/?cid=10567759657294630602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.queenhouserestaurant.com/", "displayName": {"text": "Queen House Chinese Restaurant", "languageCode": "en"}, "cuisine": "Chinese"}, {"id": "ChIJGW5peMa3j4AR913hk9QUkU4", "formattedAddress": "1711 W El Camino Real B, Mountain View, CA 94040, USA", "location": {"latitude": 37.390470199999996, "longitude": -122.09412279999998}, "googleMapsUri": "https://maps.google.com/?cid=5661329109828066807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://rathoreskitchen.com/?utm_source=google_business_profile&utm_medium=local_seo&utm_campaign=organic_search", "displayName": {"text": "Rathore's Kitchen", "languageCode": "en"}, "cuisine": "Indian"}, {"id": "ChIJ--MPCaWwj4ARyYAEuYhsf0E", "formattedAddress": "122 N Rengstorff Ave, Mountain View, CA 94043, USA", "location": {"latitude": 37.4043704, "longitude": -122.09754939999998}, "googleMapsUri": "https://maps.google.com/?cid=4719610268983001289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://rinconsabrosorestaurant.com/", "displayName": {"text": "Rincon Sabroso Restaurant", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/mountain-view/Rincon Sabroso Small.jpeg"}, {"id": "ChIJh1Y1MA23j4AREJz6Kxl75Uo", "formattedAddress": "800 Moffett Blvd, Mountain View, CA 94043, USA", "location": {"latitude": 37.407189599999995, "longitude": -122.0673655}, "googleMapsUri": "https://maps.google.com/?cid=5396855076515650576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.rogerbarandrestaurant.com/", "displayName": {"text": "Roger Bar and Restaurant", "languageCode": "en"}, "cuisine": "American"}, {"id": "ChIJQ4F3PBa3j4ARf7_QjN1Cklo", "formattedAddress": "295 E Middlefield Rd, Mountain View, CA 94043, USA", "location": {"latitude": 37.3970714, "longitude": -122.05999289999998}, "googleMapsUri": "https://maps.google.com/?cid=6526352329330966399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.qrmobileorder.com/", "displayName": {"text": "Roger's Deli & Donuts", "languageCode": "en"}, "cuisine": "Cafe/Bakery"}, {"id": "ChIJ9Y7sh2y3j4ARyqbQb6iXWhE", "formattedAddress": "331 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3919695, "longitude": -122.0796833}, "googleMapsUri": "https://maps.google.com/?cid=1250478596234979018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.rootstockwinebar.com/", "displayName": {"text": "Rootstock Wine Bar", "languageCode": "en"}, "cuisine": "Wine Bar"}, {"id": "ChIJa-HrtkO3j4ARrzmi28OOrIs", "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA", "location": {"latitude": 37.3832604, "longitude": -122.078283}, "googleMapsUri": "https://maps.google.com/?cid=10064576239120824751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pos.chowbus.com/online-ordering/store/NAR-Restaurant/22992", "displayName": {"text": "Rosso Pizza", "languageCode": "en"}, "cuisine": "Pizza"}, {"id": "ChIJ87IH0EOxj4ARAA1nPDcNNLM", "formattedAddress": "856 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.386543499999995, "longitude": -122.0851089}, "googleMapsUri": "https://maps.google.com/?cid=12912960562465803520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://rrrbiryanismv.withbites.com/", "displayName": {"text": "RRR Biryanis", "languageCode": "en"}, "cuisine": "Indian"}, {"id": "ChIJzUVtQ7y3j4ARH_RbxOb8nFA", "formattedAddress": "123 E El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.379148099999995, "longitude": -122.0724824}, "googleMapsUri": "https://maps.google.com/?cid=5808795687468135455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sgbreadfast.square.site/", "displayName": {"text": "SaiGon BreadFast", "languageCode": "en"}, "cuisine": "Vietnamese"}, {"id": "ChIJb4sB4Zuwj4ARfVoCSwzEgDc", "formattedAddress": "2580 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.4009435, "longitude": -122.11233689999999}, "googleMapsUri": "https://maps.google.com/?cid=3999412026182097533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sajjstreeteats.com/", "displayName": {"text": "SAJJ Mediterranean", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/mountain-view/Sajj Small.jpeg"}, {"id": "ChIJNT7PkDO3j4AR_agag90Kh-4", "formattedAddress": "357 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3916065, "longitude": -122.07970549999999}, "googleMapsUri": "https://maps.google.com/?cid=17187718449386399997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sakoonrestaurant.com/", "displayName": {"text": "Sakoon", "languageCode": "en"}, "cuisine": "Indian"}, {"id": "ChIJ5W_fPe-3j4ARXg5zC_0E5gA", "formattedAddress": "975 Bay St, Mountain View, CA 94040, USA", "location": {"latitude": 37.3805306, "longitude": -122.0748921}, "googleMapsUri": "https://maps.google.com/?cid=64744729508777566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://san-miguel-taqueria.square.site/?src=g-icon", "displayName": {"text": "San Miguel Taqueria", "languageCode": "en"}, "cuisine": "Mexican"}, {"id": "ChIJPVgdAt22j4ARkIlEhe3DedA", "formattedAddress": "705 E El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.375544399999995, "longitude": -122.0637694}, "googleMapsUri": "https://maps.google.com/?cid=15022253456981526928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.satsumasushi.com/", "displayName": {"text": "Satsuma Sushi", "languageCode": "en"}, "cuisine": "Japanese"}, {"id": "ChIJzQUXnTa3j4ARo0PyJ0CVXqA", "formattedAddress": "750 W Evelyn Ave, Mountain View, CA 94041, USA", "location": {"latitude": 37.3949898, "longitude": -122.07785489999998}, "googleMapsUri": "https://maps.google.com/?cid=11555837796659905443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.savvycellar.com/", "displayName": {"text": "Savvy Cellar Wine Bar", "languageCode": "en"}, "cuisine": "Wine Bar"}, {"id": "ChIJTzWDpDO3j4ARI08nSK_WLeU", "formattedAddress": "401 Castro St #100, Mountain View, CA 94041, USA", "location": {"latitude": 37.391093, "longitude": -122.080452}, "googleMapsUri": "https://maps.google.com/?cid=16514091456955633443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.scratchmtnview.com/", "displayName": {"text": "Scratch", "languageCode": "en"}, "cuisine": "American"}, {"id": "ChIJqR9iewC3j4ARFdkuydcsVXk", "formattedAddress": "702 Villa St, Mountain View, CA 94041, USA", "location": {"latitude": 37.393541299999995, "longitude": -122.0779394}, "googleMapsUri": "https://maps.google.com/?cid=8742943556914567445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.seasonsnoodlesdumplings.com/", "displayName": {"text": "Seasons Noodles & Dumplings Garden", "languageCode": "en"}, "cuisine": "Chinese"}, {"id": "ChIJddZpuNexj4ARtAkG_zNJ5zw", "formattedAddress": "401 San Antonio Rd Suite 66-B, Mountain View, CA 94040, USA", "location": {"latitude": 37.4038687, "longitude": -122.1113905}, "googleMapsUri": "https://maps.google.com/?cid=4388556849566583220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://shakeshack.com/location/Mountain-view-CA?utm_source=listing&utm_medium=web?utm_source=google&utm_medium=listing", "displayName": {"text": "Shake Shack Mountain View", "languageCode": "en"}, "cuisine": "Burgers"}, {"id": "ChIJteR5Oja3j4ARTvsIorMrGII", "formattedAddress": "311A Moffett Blvd, Mountain View, CA 94043, USA", "location": {"latitude": 37.3977605, "longitude": -122.076152}, "googleMapsUri": "https://maps.google.com/?cid=9374290674889325390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.shanathai.com/", "displayName": {"text": "Shana Thai", "languageCode": "en"}, "cuisine": "Thai"}, {"id": "ChIJDy_Fqemxj4ARsM3sqkPHGF4", "formattedAddress": "1760 Miramonte Ave, Mountain View, CA 94040, USA", "location": {"latitude": 37.372009000000006, "longitude": -122.0883739}, "googleMapsUri": "https://maps.google.com/?cid=6780388332450663856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sizzlinglunch.com/", "displayName": {"text": "Sizzling Lunch", "languageCode": "en"}, "cuisine": "Japanese"}, {"id": "ChIJ7XC5CwCxj4ARXg00Il4_MU4", "formattedAddress": "2565 California St Suite 81, Mountain View, CA 94040, USA", "location": {"latitude": 37.404296599999995, "longitude": -122.11023759999999}, "googleMapsUri": "https://maps.google.com/?cid=5634354282350513502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://locations.slicehouse.com/us/california/mountain-view/2565-california-street/", "displayName": {"text": "Slice House Mountain View by Tony Gemignani", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/mountain-view/Slice House Small.jpeg"}, {"id": "ChIJafzZnWqxj4ARttEF1Ku6s9c", "formattedAddress": "530 Showers Dr suite 1, Mountain View, CA 94040, USA", "location": {"latitude": 37.4017541, "longitude": -122.10787459999999}, "googleMapsUri": "https://maps.google.com/?cid=15542971986145038774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sourdoughandco.com/", "displayName": {"text": "Sourdough & Co.", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/mountain-view/Soudough Co Small.jpeg"}, {"id": "ChIJwcdjydmxj4AR-cFaTrYatS4", "formattedAddress": "809 Cuesta Dr Suite A, Mountain View, CA 94040, USA", "location": {"latitude": 37.3731296, "longitude": -122.0879609}, "googleMapsUri": "https://maps.google.com/?cid=3365625666830254585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sourdoughandco.com/mountain-view-cuesta", "displayName": {"text": "Sourdough & Co.", "languageCode": "en"}, "cuisine": "American"}, {"id": "ChIJ82GUaRK3j4ARDkf5zm1XdVY", "formattedAddress": "645 Ellis St, Mountain View, CA 94043, USA", "location": {"latitude": 37.4028743, "longitude": -122.05079260000001}, "googleMapsUri": "https://maps.google.com/?cid=6229981788672444174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://specialtys.com/", "displayName": {"text": "Specialty's Café & Bakery", "languageCode": "en"}, "cuisine": "Cafe/Bakery"}, {"id": "ChIJN5Nz71W3j4ARhx5bwpTQEGg", "formattedAddress": "1431 Plymouth St, Mountain View, CA 94043, USA", "location": {"latitude": 37.4161493, "longitude": -122.07863630000001}, "googleMapsUri": "https://maps.google.com/?cid=7498722716906364551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sportspage.bar/", "displayName": {"text": "Sports Page", "languageCode": "en"}, "cuisine": "Other"}, {"id": "ChIJsfMnDjS3j4ARoUdVDMJyqMU", "formattedAddress": "223 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3934292, "longitude": -122.0789755}, "googleMapsUri": "https://maps.google.com/?cid=14242759999315330977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.ststephensgreen.com/", "displayName": {"text": "St. Stephen's Green", "languageCode": "en"}, "cuisine": "Irish"}, {"id": "ChIJuzFtRDS3j4AR1gfuHqaeG7k", "formattedAddress": "895 Villa St, Mountain View, CA 94041, USA", "location": {"latitude": 37.394053299999996, "longitude": -122.07988499999999}, "googleMapsUri": "https://maps.google.com/?cid=13338429157708531670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.steinsbeergarden.com/", "displayName": {"text": "Steins Beer Garden & Restaurant", "languageCode": "en"}, "cuisine": "American"}, {"id": "ChIJIVDJCAyxj4ARF8por5EUnRg", "formattedAddress": "108A N Rengstorff Ave, Mountain View, CA 94043, USA", "location": {"latitude": 37.4040234, "longitude": -122.0980138}, "googleMapsUri": "https://maps.google.com/?cid=1773596444199537175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.superbaoca.com/", "displayName": {"text": "Super Bao", "languageCode": "zh"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/mountain-view/Super Bao Small.jpeg"}, {"id": "ChIJD0Fxqb6wj4ARle_x0P0nxcM", "formattedAddress": "2082 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3956471, "longitude": -122.1008153}, "googleMapsUri": "https://maps.google.com/?cid=14106725378893672341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Super Tacos El Conrro Food Truck", "languageCode": "en"}, "cuisine": "Mexican"}, {"id": "ChIJN_k8v0y3j4ARU5I-qHFv09U", "formattedAddress": "210 Hope St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3932825, "longitude": -122.0781162}, "googleMapsUri": "https://maps.google.com/?cid=15407781284109259347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://superhotrestaurant.weebly.com/", "displayName": {"text": "Superhot Hot Pot & Korean BBQ", "languageCode": "en"}, "cuisine": "Korean"}, {"id": "ChIJLalQbCu3j4ARhYSFis6AvSA", "formattedAddress": "240 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3933575, "longitude": -122.0794243}, "googleMapsUri": "https://maps.google.com/?cid=2359183404387632261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.sushiarashi.com/", "displayName": {"text": "Sushi Arashi", "languageCode": "en"}, "cuisine": "Japanese"}, {"id": "ChIJ-9pg_Qmxj4AR4deSLfZINW0", "formattedAddress": "580 N Rengstorff Ave J, Mountain View, CA 94043, USA", "location": {"latitude": 37.4107632, "longitude": -122.09374260000001}, "googleMapsUri": "https://maps.google.com/?cid=7869276146063562721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sushijinmtv.com/", "displayName": {"text": "Sushi Jin", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/mountain-view/Sushi Jin Small.jpeg"}, {"id": "ChIJyQjQYTG3j4ARBO9RopzNHA8", "formattedAddress": "607 W Dana St Unit H, Mountain View, CA 94041, USA", "location": {"latitude": 37.3917973, "longitude": -122.07804800000001}, "googleMapsUri": "https://maps.google.com/?cid=1088971282538688260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://sushitomi.us/", "displayName": {"text": "Sushi Tomi", "languageCode": "en"}, "cuisine": "Japanese"}, {"id": "ChIJw4RuczO3j4ARC7RByZ5K9nI", "formattedAddress": "440 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.390900699999996, "longitude": -122.08114520000001}, "googleMapsUri": "https://maps.google.com/?cid=8283890610436420619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sweetgreen.com/locations/mountain-view", "displayName": {"text": "sweetgreen - Healthy Salads, Bowls and Plates", "languageCode": "en"}, "cuisine": "American"}, {"id": "ChIJ6WHNXgCxj4ARwXxm3MYbwx0", "formattedAddress": "715 E El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.376199299999996, "longitude": -122.0635638}, "googleMapsUri": "https://maps.google.com/?cid=2144588388473666753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Tacos “The Auntentic Oaxacan”", "languageCode": "es"}, "cuisine": "Mexican"}, {"id": "ChIJQSE-cgC3j4ARPysXwuy0Vc0", "formattedAddress": "1220 Grant Rd, Mountain View, CA 94040, USA", "location": {"latitude": 37.3781678, "longitude": -122.0753161}, "googleMapsUri": "https://maps.google.com/?cid=14795931079757212479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tacosdonvalle.com/", "displayName": {"text": "Tacos Don Valle", "languageCode": "en"}, "cuisine": "Mexican"}, {"id": "ChIJ31mZ0f23j4ARvY9XI57lHxk", "formattedAddress": "807 N Shoreline Blvd, Mountain View, CA 94043, USA", "location": {"latitude": 37.406547599999996, "longitude": -122.0777333}, "googleMapsUri": "https://maps.google.com/?cid=1810418042586763197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Tacos Los Primos del Sur", "languageCode": "es"}, "cuisine": "Mexican"}, {"id": "ChIJy2E2x_y3j4ARZ4EQpvlWnTs", "formattedAddress": "698 W Dana St, Mountain View, CA 94041, USA", "location": {"latitude": 37.392261999999995, "longitude": -122.07840780000001}, "googleMapsUri": "https://maps.google.com/?cid=4295685249814266215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tandoorisjunction.com/", "displayName": {"text": "Tandoori junction", "languageCode": "en"}, "cuisine": "Indian"}, {"id": "ChIJUf3BejS3j4ARpm4CLRkFHeQ", "formattedAddress": "854 W Dana St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3929507, "longitude": -122.08033839999999}, "googleMapsUri": "https://maps.google.com/?cid=16437299820659633830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://rebrand.ly/espuela", "displayName": {"text": "Taqueria La Espuela", "languageCode": "en"}, "cuisine": "Mexican"}, {"id": "ChIJqSEux6ixj4ARmKImBb4LqfE", "formattedAddress": "545 San Antonio Rd Ste 32, Mountain View, CA 94040, USA", "location": {"latitude": 37.4032108, "longitude": -122.11174729999999}, "googleMapsUri": "https://maps.google.com/?cid=17413462344962843288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bcmidtown.com/", "displayName": {"text": "The Breakfast Club at Midtown", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/mountain-view/The breakfast Club Small.jpeg"}, {"id": "ChIJyS7o4Zuwj4ARon29W1GsXJo", "formattedAddress": "2580 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.400881, "longitude": -122.1121778}, "googleMapsUri": "https://maps.google.com/?cid=11122954645129756066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.thecounter.com/stores/mountain-view/32033?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb", "displayName": {"text": "The Counter", "languageCode": "en"}, "cuisine": "Burgers", "photoUrl": "images/restaurant-photos/mountain-view/The counter Small.jpeg"}, {"id": "ChIJYRHjWf67j4ARClGtTLToHZk", "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA", "location": {"latitude": 37.4141439, "longitude": -122.09337920000002}, "googleMapsUri": "https://maps.google.com/?cid=11033230523205767434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.thedonsdeli.com/", "displayName": {"text": "The Don’s Deli", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/mountain-view/The Dons Deli Small.jpeg"}, {"id": "ChIJQdgqhjy3j4ARpiK08gPTor4", "formattedAddress": "1625 N Shoreline Blvd, Mountain View, CA 94043, USA", "location": {"latitude": 37.4168531, "longitude": -122.07757749999999}, "googleMapsUri": "https://maps.google.com/?cid=13736773827343688358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.theemeraldhour.com/", "displayName": {"text": "The Emerald Hour", "languageCode": "en"}, "cuisine": "Other"}, {"id": "ChIJhTbf_963j4ARxOXAZ5KUCSw", "formattedAddress": "800 Moffett Blvd, Mountain View, CA 94043, USA", "location": {"latitude": 37.407189599999995, "longitude": -122.0673655}, "googleMapsUri": "https://maps.google.com/?cid=3173230768986056132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.rogerbarandrestaurant.com/the-flyby/", "displayName": {"text": "The Flyby", "languageCode": "en"}, "cuisine": "American"}, {"id": "ChIJy-kI0EC3j4ARwGKPY8qqp-8", "formattedAddress": "1040 Grant Rd, Mountain View, CA 94040, USA", "location": {"latitude": 37.3795006, "longitude": -122.07410050000001}, "googleMapsUri": "https://maps.google.com/?cid=17268959082405913280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.habitburger.com/locations/mountain-view/", "displayName": {"text": "The Habit Burger Grill", "languageCode": "en"}, "cuisine": "Burgers"}, {"id": "ChIJiU9rHAC3j4ARq-cnnScAykQ", "formattedAddress": "570 N Shoreline Blvd J, Mountain View, CA 94043, USA", "location": {"latitude": 37.402780299999996, "longitude": -122.0793791}, "googleMapsUri": "https://maps.google.com/?cid=4956774510015014827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tokisushimv.com/", "displayName": {"text": "Toki Sushi", "languageCode": "en"}, "cuisine": "Japanese"}, {"id": "ChIJR_KFNsmwj4ARvqLjNxrWAzE", "formattedAddress": "1482 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3895546, "longitude": -122.09093539999999}, "googleMapsUri": "https://maps.google.com/?cid=3531901940883759806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://tommy-thai.com/", "displayName": {"text": "Tommy Thai", "languageCode": "en"}, "cuisine": "Thai"}, {"id": "ChIJk96_Mja3j4ARhTLPsKxD--c", "formattedAddress": "327 Moffett Blvd # D, Mountain View, CA 94043, USA", "location": {"latitude": 37.398055899999996, "longitude": -122.075341}, "googleMapsUri": "https://maps.google.com/?cid=16716028850895532677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Tres hermanos taqueria & pupuseria", "languageCode": "en"}, "cuisine": "Other"}, {"id": "ChIJdSXU-ZK3j4ARQ7KWKvpGkFI", "formattedAddress": "180 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3942451, "longitude": -122.079073}, "googleMapsUri": "https://maps.google.com/?cid=5949333148026712643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://mugizo-us.com/", "displayName": {"text": "Udon Mugizo Mountain View", "languageCode": "en"}, "cuisine": "Japanese"}, {"id": "ChIJYzCEtRixj4ARpfbZuM4RU9A", "formattedAddress": "856 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.3867153, "longitude": -122.08505799999999}, "googleMapsUri": "https://maps.google.com/?cid=15011361562518222501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://urbancurryandbiryani.com/", "displayName": {"text": "Urban Curry And Biryani", "languageCode": "en"}, "cuisine": "Indian"}, {"id": "ChIJFfCOLjS3j4ARySqj-9dlmv4", "formattedAddress": "108 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3949637, "longitude": -122.0784346}, "googleMapsUri": "https://maps.google.com/?cid=18346088010361285321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://vasoazzurro.com/", "displayName": {"text": "Vaso Azzurro Restaurant", "languageCode": "en"}, "cuisine": "Italian"}, {"id": "ChIJQfA1N5iwj4ARVdM_WzoeQmk", "formattedAddress": "2464 W El Camino Real C, Mountain View, CA 94040, USA", "location": {"latitude": 37.399244599999996, "longitude": -122.108658}, "googleMapsUri": "https://maps.google.com/?cid=7584657958433182549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.veggiegardenchinese.com/", "displayName": {"text": "Veggie Garden", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/mountain-view/Veggie Garden Small.jpeg"}, {"id": "ChIJ47PYQLmwj4ARN49oMBKJyaY", "formattedAddress": "2020 W El Camino Real, Mountain View, CA 94040, USA", "location": {"latitude": 37.395322199999995, "longitude": -122.0996111}, "googleMapsUri": "https://maps.google.com/?cid=12018287791829454647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.solrestaurantsca.com/vive", "displayName": {"text": "ViVe Sol", "languageCode": "en"}, "cuisine": "Mexican"}, {"id": "ChIJtXbDmo63j4ARIXa0HZIzius", "formattedAddress": "861 Leong Dr, Mountain View, CA 94043, USA", "location": {"latitude": 37.4059281, "longitude": -122.06513259999998}, "googleMapsUri": "https://maps.google.com/?cid=16972434848355743265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://wwbbq.com/", "displayName": {"text": "Wagon Wheel Barbecue", "languageCode": "en"}, "cuisine": "BBQ"}, {"id": "ChIJvRgkOzS3j4AR6-MWU-pSdQk", "formattedAddress": "152 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3945114, "longitude": -122.0787491}, "googleMapsUri": "https://maps.google.com/?cid=681542084986332139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.yugen-us.com/", "displayName": {"text": "Yugen Ramen", "languageCode": "en"}, "cuisine": "Japanese"}, {"id": "ChIJQ8nPjFW3j4ARcAaUg5pF-Ts", "formattedAddress": "1477 Plymouth St suite c, Mountain View, CA 94043, USA", "location": {"latitude": 37.4162147, "longitude": -122.07953139999998}, "googleMapsUri": "https://maps.google.com/?cid=4321561847373497968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.zareensrestaurant.com/", "displayName": {"text": "Zareen's", "languageCode": "en"}, "cuisine": "Indian"}, {"id": "ChIJj7V2HaG3j4AR_dDZM_SSLPw", "formattedAddress": "246 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3933707, "longitude": -122.07963889999999}, "googleMapsUri": "https://maps.google.com/?cid=18171060174072697085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.zhangliangmtv.com/", "displayName": {"text": "Zhangliang Malatang", "languageCode": "en"}, "cuisine": "Chinese"}, {"id": "ChIJH3Br7Ey3j4ARqtmE95weKy0", "formattedAddress": "134 Castro St, Mountain View, CA 94041, USA", "location": {"latitude": 37.3947376, "longitude": -122.07883989999999}, "googleMapsUri": "https://maps.google.com/?cid=3254728815221725610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "四季茶馆火锅 Four Seasons Tea House Hot Pot", "languageCode": "en"}, "cuisine": "Chinese"}, {"id": "ChIJK8pvbKO3j4ARsm7k_GXRY8U", "formattedAddress": "1350 Grant Rd #8, Mountain View, CA 94040, USA", "location": {"latitude": 37.3770484, "longitude": -122.07666689999999}, "googleMapsUri": "https://maps.google.com/?cid=14223442284130889394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.hunanszechuan.com/", "displayName": {"text": "川湘小馆Hunan Szechuan Cuisine", "languageCode": "en"}, "cuisine": "Chinese"}],
+  "Mountain View, CA": [
+    {
+      "id": "ChIJRdc6FjS3j4AR2reOejLBfXQ",
+      "displayName": {
+        "text": "Agave Mexican Bistro",
+        "languageCode": "en"
+      },
+      "formattedAddress": "194 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8394077703037171674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://agavemxbistro.com/",
+      "location": {},
+      "cuisine": "Mexican",
+      "phone": "(650) 965-2284",
+      "hours": "[object Object]",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJJaZsfAC3j4ARm_xXrZy0PQc",
+      "formattedAddress": "Civic Center, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.389761,
+        "longitude": -122.08130349999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=521771716860968091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Ajadi bazar",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "menuUrl": "https://www.ajadibazar.com/menu",
+      "phone": "(650) 282-5550",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJJzJDEDS3j4ARlN8K3bU-K-0",
+      "formattedAddress": "209 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3935872,
+        "longitude": -122.0789593
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17089822161805959060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.alexanderspatisserie.com/",
+      "displayName": {
+        "text": "Alexander's Patisserie",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "menuUrl": "https://www.alexanderspatisserie.com",
+      "phone": "(650) 864-9999",
+      "hours": {
+        "Monday": "8:00 AM – 6:00 PM",
+        "Tuesday": "8:00 AM – 6:00 PM",
+        "Wednesday": "8:00 AM – 6:00 PM",
+        "Thursday": "8:00 AM – 6:00 PM",
+        "Friday": "8:00 AM – 6:00 PM",
+        "Saturday": "8:00 AM – 6:00 PM",
+        "Sunday": "8:00 AM – 6:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJ6ycgPTS3j4AR3oKYKGHPFjc",
+      "formattedAddress": "147 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3943863,
+        "longitude": -122.07829619999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3969588137773531870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amarinthaicuisine.com/",
+      "displayName": {
+        "text": "Amarin Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "menuUrl": "https://amarinthaicuisine.com/menu",
+      "phone": "(650) 961-1536",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJxdWoszK3j4AR0I1-Z78BhZo",
+      "formattedAddress": "450 San Antonio Rd, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4045044,
+        "longitude": -122.11191569999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11134307575330147792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amicis.com/mountain-view",
+      "displayName": {
+        "text": "Amici's East Coast Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/mountain-view/Amicis East Coast Small.jpeg",
+      "menuUrl": "https://www.amicis.com/menu",
+      "phone": "(650) 961-6666",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJHfE7_6Oxj4ARfJFUHF8hdbQ",
+      "formattedAddress": "2339 California St, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.402059799999996,
+        "longitude": -122.10567499999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13003336191483089276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://anatoliafire.com/",
+      "displayName": {
+        "text": "Anatolia Fire Food Truck",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/mountain-view/Anatolia Fire Food Truck Small.jpeg",
+      "menuUrl": "https://www.anatoliafire.com/menu",
+      "phone": "(650) 703-4532",
+      "hours": {
+        "Monday": "11:00 AM – 8:00 PM",
+        "Tuesday": "11:00 AM – 8:00 PM",
+        "Wednesday": "11:00 AM – 8:00 PM",
+        "Thursday": "11:00 AM – 8:00 PM",
+        "Friday": "11:00 AM – 8:00 PM",
+        "Saturday": "11:00 AM – 8:00 PM",
+        "Sunday": "11:00 AM – 8:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJIwoDVCi3j4ARI5JLg7gyjCQ",
+      "formattedAddress": "80 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3817024,
+        "longitude": -122.07500449999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2633535650163036707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.annachikadai.us/",
+      "displayName": {
+        "text": "Annachikadai - Indian Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "menuUrl": "https://www.annachikadai.com/menu",
+      "phone": "(650) 938-3070",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ7wIcJTS3j4AROn_VlyvSoaw",
+      "formattedAddress": "142 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3946098,
+        "longitude": -122.0787019
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12439454730446798650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://asianbox.com/",
+      "displayName": {
+        "text": "Asian Box",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "menuUrl": "https://www.asianbox.com/menu",
+      "phone": "(650) 969-1112",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJu_26IQm6j4AR_Pl-EyDdOwU",
+      "formattedAddress": "2423 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.414494399999995,
+        "longitude": -122.09803339999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=377138123651348988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bajiscafe.com/",
+      "displayName": {
+        "text": "Bajis Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Bajis Cafe Small.jpeg",
+      "menuUrl": "https://www.bajiscafe.com/menu",
+      "phone": "(650) 940-9355",
+      "hours": {
+        "Monday": "7:00 AM – 3:00 PM",
+        "Tuesday": "7:00 AM – 3:00 PM",
+        "Wednesday": "7:00 AM – 3:00 PM",
+        "Thursday": "7:00 AM – 3:00 PM",
+        "Friday": "7:00 AM – 3:00 PM",
+        "Saturday": "7:00 AM – 3:00 PM",
+        "Sunday": "7:00 AM – 3:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJDSpH40u3j4ARUfRnCcCRK9E",
+      "formattedAddress": "570 N Shoreline Blvd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4024597,
+        "longitude": -122.0795722
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15072300831903052881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bigbiteseatery.com/?utm_source=google",
+      "displayName": {
+        "text": "Big Bites Vietnamese Eatery",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "menuUrl": "https://www.bigbitesviet.com/menu",
+      "phone": "(650) 282-5137",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJG4CRJDS3j4ARpVclpxEi2O4",
+      "formattedAddress": "146 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.394577,
+        "longitude": -122.07876
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17210543435210381221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bluelinepizza.com/locations/",
+      "displayName": {
+        "text": "Blue Line Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "menuUrl": "https://www.bluelinepizza.com/menu",
+      "phone": "(650) 988-7827",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJZ9C5aqK3j4AR7Llr-oHZJpw",
+      "formattedAddress": "260 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3931463,
+        "longitude": -122.07956319999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11251919871307135468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restaurants.bonchon.com/locations/ca/mountain-view/260-castro-street",
+      "displayName": {
+        "text": "Bonchon Mountain view",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "menuUrl": "https://www.bonchon.com/menu",
+      "phone": "(650) 963-0500",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJLRvDZtu3j4ARgoNrKZnNw8g",
+      "formattedAddress": "1625 N Shoreline Blvd Suite 1, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4168531,
+        "longitude": -122.07757749999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14466632485752767362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bromarestaurant.com/?utm_source=google",
+      "displayName": {
+        "text": "Broma Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Spanish",
+      "menuUrl": "https://www.bromarestaurant.com/menu",
+      "phone": "(650) 963-4663",
+      "hours": {
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJDQw_jjO3j4AREryI4CY4hEw",
+      "formattedAddress": "341 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.391917899999996,
+        "longitude": -122.07976089999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5513593583435299858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cafebaklava.online/",
+      "displayName": {
+        "text": "Cafe Baklava",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "menuUrl": "https://www.cafebaklava.com/menu",
+      "phone": "(650) 564-9052",
+      "hours": {
+        "Monday": "8:00 AM – 9:00 PM",
+        "Tuesday": "8:00 AM – 9:00 PM",
+        "Wednesday": "8:00 AM – 9:00 PM",
+        "Thursday": "8:00 AM – 9:00 PM",
+        "Friday": "8:00 AM – 9:00 PM",
+        "Saturday": "8:00 AM – 9:00 PM",
+        "Sunday": "8:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJkx3SPH63j4ARVep_ZCqLS_w",
+      "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3832604,
+        "longitude": -122.078283
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18179777335002131029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/NAR-Restaurant/22992",
+      "displayName": {
+        "text": "CalSizzle American food",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "menuUrl": "https://www.calsizzle.com/menu",
+      "phone": "(650) 964-2222",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJsWRupjO3j4ARGrnHDZ0LpIo",
+      "formattedAddress": "459 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.390662,
+        "longitude": -122.0807475
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9990122642583566618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://casalupemountainview.com/",
+      "displayName": {
+        "text": "Casa Lupe",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "menuUrl": "https://www.casalupe.com/menu",
+      "phone": "(650) 965-7911",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJCza2IjC7j4ARf8iQuWMrTHw",
+      "formattedAddress": "2483 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4142988,
+        "longitude": -122.09917150000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8956581466248104063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.casamiarestaurantmtv.com/",
+      "displayName": {
+        "text": "Casa Mia Restaurant (Mountain View)",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/mountain-view/Casa Mia Small.jpeg",
+      "menuUrl": "https://www.casamiaristorante.com/menu",
+      "phone": "(650) 965-0440",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ03QfnzO3j4ARC0p7TSYoCpA",
+      "formattedAddress": "400 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.391193699999995,
+        "longitude": -122.0810107
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10379152436202523147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cascalmv.com/",
+      "displayName": {
+        "text": "Cascal",
+        "languageCode": "en"
+      },
+      "cuisine": "Spanish",
+      "menuUrl": "https://www.cascalmv.com/menu",
+      "phone": "(650) 940-9500",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJDXeoxFCxj4ARWeIF4XCgk8Q",
+      "formattedAddress": "1910 W El Camino Real D, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3941947,
+        "longitude": -122.0969734
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14164841659682382425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.caspiancuisineca.com/",
+      "displayName": {
+        "text": "Caspian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/mountain-view/Caspian Small.jpeg",
+      "menuUrl": "https://www.caspiancuisine.com/menu",
+      "phone": "(650) 965-7400",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJvY7dlVq3j4AR27iAvJpn6bE",
+      "formattedAddress": "165 E El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3785027,
+        "longitude": -122.07103989999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12819891728572004571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.chaatbhavan.com/",
+      "displayName": {
+        "text": "Chaat Bhavan Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "menuUrl": "https://www.chaatbhavan.com/menu",
+      "phone": "(650) 965-1111",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJdQUQTjC3j4AR9dOfeAQJwus",
+      "formattedAddress": "101 E El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3797345,
+        "longitude": -122.07309369999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16988150659203191797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/chefmuskebab?igsh=NTc4MTIwNjQ2YQ==",
+      "displayName": {
+        "text": "Chefmus Kebab Turkish Food",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "menuUrl": "https://www.chefmus.com/menu",
+      "phone": "(650) 282-5900",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJPUL8UjS3j4ARdCh-Ys_Bgqs",
+      "formattedAddress": "938 Villa St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3946669,
+        "longitude": -122.0804378
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12358653423912888436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cheztj.com/",
+      "displayName": {
+        "text": "Chez TJ",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "menuUrl": "https://www.cheztj.com/menu",
+      "phone": "(650) 964-7466",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:00 PM",
+        "Saturday": "5:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$$$"
+    },
+    {
+      "id": "ChIJBSkY9Cu3j4ARNyh4HYmcLmA",
+      "formattedAddress": "239 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.382604300000004,
+        "longitude": -122.07842999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6930648989288638519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cheztakos.com/",
+      "displayName": {
+        "text": "Cheztakos!!!",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "menuUrl": "https://www.cheztakos.com/menu",
+      "phone": "(650) 938-4040",
+      "hours": {
+        "Monday": "10:00 AM – 9:00 PM",
+        "Tuesday": "10:00 AM – 9:00 PM",
+        "Wednesday": "10:00 AM – 9:00 PM",
+        "Thursday": "10:00 AM – 9:00 PM",
+        "Friday": "10:00 AM – 9:00 PM",
+        "Saturday": "10:00 AM – 9:00 PM",
+        "Sunday": "10:00 AM – 9:00 PM"
+      },
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ2x9bikWxj4ARKfInqJs4vw8",
+      "formattedAddress": "1414 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3892038,
+        "longitude": -122.09034000000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1134687872312930857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://chickengs.com/",
+      "displayName": {
+        "text": "Chicken G's",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "menuUrl": "https://www.chickengs.com/menu",
+      "phone": "(650) 282-5020",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ8ZTVZJmwj4ARQFv0RXspg3A",
+      "formattedAddress": "2560 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.401047,
+        "longitude": -122.11094600000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8107369363628383040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.chilis.com/locations/us/california/mountain-view/mountain-view?utm_source=google&utm_medium=local&utm_campaign=Chilis",
+      "displayName": {
+        "text": "Chili's Grill & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Chilis Small.jpeg",
+      "menuUrl": "https://www.chilis.com/menu",
+      "phone": "(650) 967-0272",
+      "hours": {
+        "Monday": "11:00 AM – 11:00 PM",
+        "Tuesday": "11:00 AM – 11:00 PM",
+        "Wednesday": "11:00 AM – 11:00 PM",
+        "Thursday": "11:00 AM – 11:00 PM",
+        "Friday": "11:00 AM – 11:00 PM",
+        "Saturday": "11:00 AM – 11:00 PM",
+        "Sunday": "11:00 AM – 11:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJgT5ZKhGxj4ARdYMpDtwhEjk",
+      "formattedAddress": "2633 California St, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.406061699999995,
+        "longitude": -122.1116807
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4112386638756807541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://chinawokcatogo.com/",
+      "displayName": {
+        "text": "CHINA WOK RESTAURANT",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "menuUrl": "https://www.chinawokmountainview.com/menu",
+      "phone": "(650) 965-7111",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ4TTDdzS3j4AR78EQgu5EADA",
+      "formattedAddress": "300 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.39252210000001,
+        "longitude": -122.08000809999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3458840304995582447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://crepevine.com/?y_source=1_MTQxNzg0NTctNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+      "displayName": {
+        "text": "Crepevine Restaurants",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "menuUrl": "https://www.crepevine.com/menu",
+      "phone": "(650) 969-1169",
+      "hours": {
+        "Monday": "8:00 AM – 9:00 PM",
+        "Tuesday": "8:00 AM – 9:00 PM",
+        "Wednesday": "8:00 AM – 9:00 PM",
+        "Thursday": "8:00 AM – 9:00 PM",
+        "Friday": "8:00 AM – 9:00 PM",
+        "Saturday": "8:00 AM – 9:00 PM",
+        "Sunday": "8:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJC_3cdla3j4ARMgf4Pw8Irek",
+      "formattedAddress": "1390 Pear Ave Ste D, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4159532,
+        "longitude": -122.07757729999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16838123443398903602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cucinaventi.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website",
+      "displayName": {
+        "text": "Cucina Venti Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "menuUrl": "https://www.cucinaventi.com/menu",
+      "phone": "(650) 397-7084",
+      "hours": {
+        "Monday": "11:30 AM – 9:30 PM",
+        "Tuesday": "11:30 AM – 9:30 PM",
+        "Wednesday": "11:30 AM – 9:30 PM",
+        "Thursday": "11:30 AM – 9:30 PM",
+        "Friday": "11:30 AM – 9:30 PM",
+        "Saturday": "11:30 AM – 9:30 PM",
+        "Sunday": "11:30 AM – 9:30 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJW2ynIPu3j4ARXDXw5S94e0o",
+      "displayName": {
+        "text": "Das Bierhauz",
+        "languageCode": "en"
+      },
+      "formattedAddress": "135 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5367015528058598748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.dasbierhauz.com/",
+      "location": {},
+      "cuisine": "German/Austrian",
+      "keywords": [
+        "burgers"
+      ],
+      "menuUrl": "https://www.dasbierhauz.com/menu",
+      "phone": "(650) 965-2337",
+      "hours": {
+        "Tuesday": "4:00 PM – 10:00 PM",
+        "Wednesday": "4:00 PM – 10:00 PM",
+        "Thursday": "4:00 PM – 10:00 PM",
+        "Friday": "12:00 PM – 11:00 PM",
+        "Saturday": "12:00 PM – 11:00 PM",
+        "Sunday": "12:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJdwzB9Ji3j4ARCR4skGIBg0Q",
+      "formattedAddress": "327 Moffett Blvd # K, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.398076599999996,
+        "longitude": -122.07517800000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4936791139365428745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.desipizzahouse.com/",
+      "displayName": {
+        "text": "Desi Pizza house",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "menuUrl": "https://www.desipizzahouse.com/menu",
+      "phone": "(650) 282-5555",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ1ZLhDTS3j4ARx3Whbv-Js8s",
+      "formattedAddress": "235 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3933697,
+        "longitude": -122.0790841
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14678227340696319431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://dongiovannis.com/",
+      "displayName": {
+        "text": "Don Giovanni",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "menuUrl": "https://www.dongiovannimv.com/menu",
+      "phone": "(650) 961-9749",
+      "hours": {
+        "Monday": "11:30 AM – 9:30 PM",
+        "Tuesday": "11:30 AM – 9:30 PM",
+        "Wednesday": "11:30 AM – 9:30 PM",
+        "Thursday": "11:30 AM – 9:30 PM",
+        "Friday": "11:30 AM – 9:30 PM",
+        "Saturday": "11:30 AM – 9:30 PM",
+        "Sunday": "11:30 AM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ_ZkMOzS3j4ARrHx230WkSHo",
+      "formattedAddress": "160 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3944829,
+        "longitude": -122.0790619
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8811473290959158444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://doppiozerogroup.com/doppiozeromountainview?utm_source=google",
+      "displayName": {
+        "text": "Doppio Zero Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "menuUrl": "https://www.doppiozero.com/menu",
+      "phone": "(650) 938-4147",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJm7r-fwC3j4ARHBWUgHnO2Ec",
+      "formattedAddress": "1040 Grant Rd STE 100, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.378760199999995,
+        "longitude": -122.07565050000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5177114792905938204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eapingfresh.com/",
+      "displayName": {
+        "text": "Eaping Fresh Chinese",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "menuUrl": "https://www.eapingrestaurant.com/menu",
+      "phone": "(650) 964-8888",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJOTwEp5iwj4ARHHrOgn0mLto",
+      "formattedAddress": "530 Showers Dr #4, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4020375,
+        "longitude": -122.1076114
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15721545669704317468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eightyeightsushi.com/",
+      "displayName": {
+        "text": "Eighty-Eight Sushi & Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eighty Eight Small.jpeg",
+      "menuUrl": "https://www.88sushiramen.com/menu",
+      "phone": "(650) 564-9060",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJS9wPPhC6j4AR-SeTDDlmO84",
+      "formattedAddress": "2424 Charleston Rd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4220209,
+        "longitude": -122.0964012
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14860583790649223161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eriksdelicafe.com/",
+      "displayName": {
+        "text": "Erik's DeliCafé",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eriks Deli Cafe Small.jpeg",
+      "menuUrl": "https://www.eriksdelicafe.com/menu",
+      "phone": "(650) 969-6535",
+      "hours": {
+        "Monday": "10:00 AM – 5:00 PM",
+        "Tuesday": "10:00 AM – 5:00 PM",
+        "Wednesday": "10:00 AM – 5:00 PM",
+        "Thursday": "10:00 AM – 5:00 PM",
+        "Friday": "10:00 AM – 5:00 PM"
+      },
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJQSVQrde2j4AREiEf9c2ce5o",
+      "formattedAddress": "1350 Grant Rd, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3767628,
+        "longitude": -122.07633089999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11131663312370999570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eriksdelicafe.com/",
+      "displayName": {
+        "text": "Erik's DeliCafe of Mountain View - Grant Rd.",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "menuUrl": "https://www.eriksdelicafe.com/menu",
+      "phone": "(650) 965-9631",
+      "hours": {
+        "Monday": "10:00 AM – 5:00 PM",
+        "Tuesday": "10:00 AM – 5:00 PM",
+        "Wednesday": "10:00 AM – 5:00 PM",
+        "Thursday": "10:00 AM – 5:00 PM",
+        "Friday": "10:00 AM – 5:00 PM"
+      },
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ9aXjGTS3j4AR2Gpu1hs3qU4",
+      "formattedAddress": "191 Castro St Level 2, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3938572,
+        "longitude": -122.07867259999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5668122198723685080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://eurekarestaurantgroup.com/blog/locations/mountain-view/",
+      "displayName": {
+        "text": "Eureka!",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "menuUrl": "https://eurekarestaurantgroup.com/menu/mountain-view",
+      "phone": "(650) 964-4812",
+      "hours": {
+        "Monday": "11:00 AM – 11:00 PM",
+        "Tuesday": "11:00 AM – 11:00 PM",
+        "Wednesday": "11:00 AM – 11:00 PM",
+        "Thursday": "11:00 AM – 11:00 PM",
+        "Friday": "11:00 AM – 11:00 PM",
+        "Saturday": "11:00 AM – 11:00 PM",
+        "Sunday": "11:00 AM – 11:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJjXKAThS3j4ARA2wf_yuYr5U",
+      "formattedAddress": "425 N Whisman Rd #100, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4008804,
+        "longitude": -122.0578043
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10786006947306892291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://neweverestcuisine.com/everestcuisinemountainview?utm_source=google",
+      "displayName": {
+        "text": "Everest Cuisine-Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "menuUrl": "https://www.everestcuisinemv.com/menu",
+      "phone": "(650) 938-4190",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJlTUD1AGxj4ARuBRu9Dj2OxE",
+      "formattedAddress": "409 San Antonio Rd, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4037174,
+        "longitude": -122.1103688
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1241856846750160056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.fairchildspublichouse.com/",
+      "displayName": {
+        "text": "Fairchilds Public House",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Fairchilds Small.jpeg",
+      "menuUrl": "https://www.fairchildspublichouse.com/menu",
+      "phone": "(650) 597-0356",
+      "hours": {
+        "Monday": "7:00 AM – 10:00 PM",
+        "Tuesday": "7:00 AM – 10:00 PM",
+        "Wednesday": "7:00 AM – 10:00 PM",
+        "Thursday": "7:00 AM – 10:00 PM",
+        "Friday": "7:00 AM – 10:00 PM",
+        "Saturday": "7:00 AM – 10:00 PM",
+        "Sunday": "7:00 AM – 10:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJbaA3enm3j4AR-zV5zEm9b2U",
+      "formattedAddress": "156 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3944742,
+        "longitude": -122.07881730000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7309268844906362363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://6503861358.com/",
+      "displayName": {
+        "text": "Fish With You鱼你在一起Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "menuUrl": "https://www.fishwithyouus.com/menu",
+      "phone": "(650) 282-5408",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ57sfDTS3j4ARrjiqh6-gZLQ",
+      "formattedAddress": "153 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.394327,
+        "longitude": -122.07848120000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12998691100253894830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://fulammummountainview.com/",
+      "displayName": {
+        "text": "Fu Lam Mum",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "menuUrl": "https://www.fulammum.com/menu",
+      "phone": "(650) 965-6328",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJi93uLsywj4ARH81XgnsYctU",
+      "formattedAddress": "1245 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.387884799999995,
+        "longitude": -122.089045
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15380382596170501407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.gardenfreshca.com/",
+      "displayName": {
+        "text": "Garden Fresh",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "menuUrl": "https://www.gardenfreshca.com/menu",
+      "phone": "(650) 965-8882",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJlQP9egCxj4ARQMFOjfPwC5s",
+      "formattedAddress": "939 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3864405,
+        "longitude": -122.08592449999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11172288229461115200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.giorgiositalianfood.com/",
+      "displayName": {
+        "text": "Giorgio's Italian Grill and Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "menuUrl": "https://www.giorgios.com/menu",
+      "phone": "(650) 961-9749",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJdfqG9riwj4AR7gGgAWgXlgc",
+      "formattedAddress": "1943 W El Camino Real, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.393369400000005,
+        "longitude": -122.09812219999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=546650140243395054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://gochifusiontapas.com/",
+      "displayName": {
+        "text": "Gochi Japanese Fusion Tapas",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Gochi Small.jpeg",
+      "menuUrl": "https://www.gochifusiontapas.com/menu",
+      "phone": "(650) 960-1000",
+      "hours": {
+        "Monday": "5:00 PM – 10:00 PM",
+        "Tuesday": "5:00 PM – 10:00 PM",
+        "Wednesday": "5:00 PM – 10:00 PM",
+        "Thursday": "5:00 PM – 10:00 PM",
+        "Friday": "5:00 PM – 10:00 PM",
+        "Saturday": "5:00 PM – 10:00 PM",
+        "Sunday": "5:00 PM – 10:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJhVI4gQ-6j4ARAeBWvkHGkbM",
+      "formattedAddress": "1040 N Rengstorff Ave A1, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.419343399999995,
+        "longitude": -122.0951334
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12939341190080684033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sushihanabimv.com/",
+      "displayName": {
+        "text": "Hanabi Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hanabi Sushi Small.jpeg",
+      "menuUrl": "https://www.hanabisushi.us/menu",
+      "phone": "(650) 964-8885",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJJ9KvLjS3j4ARVZyJ6HSBT0A",
+      "formattedAddress": "102 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3950424,
+        "longitude": -122.07836150000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4634064880705051733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://happylambhotpot.com/",
+      "displayName": {
+        "text": "Happy Lamb Hot Pot | Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "menuUrl": "https://www.happylambhotpot.com/menu",
+      "phone": "(650) 282-5388",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJAQaKvt22j4ARN-qH7yl2wH8",
+      "formattedAddress": "820 E El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3772187,
+        "longitude": -122.06269939999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9205487560829692471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://himalayan-kitchen.com/?utm_source=gmb&utm_medium=websitebutton&utm_campaign=website",
+      "displayName": {
+        "text": "Himalayan Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "menuUrl": "https://www.himalayankitchenmv.com/menu",
+      "phone": "(650) 969-7250",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJDwVSiN-3j4ARzmdKWdvDSDs",
+      "formattedAddress": "185 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.393941999999996,
+        "longitude": -122.07861799999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4271879593424218062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eatathummus.com/",
+      "displayName": {
+        "text": "Hummus Mediterranean Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "menuUrl": "https://www.hummuskitchen.com/menu",
+      "phone": "(650) 964-9999",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJETHw0F-7j4AR85V_I6OobCI",
+      "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.414076099999996,
+        "longitude": -122.0932
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2480542913403000307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hdbiryani.com/",
+      "displayName": {
+        "text": "Hyderabad Dum Biryani",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hyderabad dum Biryani Small.jpeg",
+      "menuUrl": "https://www.hyderabaddumbiryani.com/menu",
+      "phone": "(650) 938-4044",
+      "hours": {
+        "Monday": "11:30 AM – 10:00 PM",
+        "Tuesday": "11:30 AM – 10:00 PM",
+        "Wednesday": "11:30 AM – 10:00 PM",
+        "Thursday": "11:30 AM – 10:00 PM",
+        "Friday": "11:30 AM – 10:00 PM",
+        "Saturday": "11:30 AM – 10:00 PM",
+        "Sunday": "11:30 AM – 10:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJwRZVJUi3j4ARRDXWLyu0pQ4",
+      "formattedAddress": "430 Moffett Blvd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.399581399999995,
+        "longitude": -122.0744431
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1055447785267410244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "I’l Portale Italian Restaurant by Los Portales",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "menuUrl": "https://www.ilportale.com/menu",
+      "phone": "(650) 962-5870",
+      "hours": {
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ1bwjGQCxj4ARk3g2XaSpZDY",
+      "formattedAddress": "565 San Antonio Rd Suite 27, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4027283,
+        "longitude": -122.1121022
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3919444099122755731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.idlyexpress.com/",
+      "displayName": {
+        "text": "Idly Express - Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/mountain-view/Idly Express Small.jpeg",
+      "menuUrl": "https://www.idlyexpress.com/menu",
+      "phone": "(650) 938-4848",
+      "hours": {
+        "Monday": "8:00 AM – 9:00 PM",
+        "Tuesday": "8:00 AM – 9:00 PM",
+        "Wednesday": "8:00 AM – 9:00 PM",
+        "Thursday": "8:00 AM – 9:00 PM",
+        "Friday": "8:00 AM – 9:00 PM",
+        "Saturday": "8:00 AM – 9:00 PM",
+        "Sunday": "8:00 AM – 9:00 PM"
+      },
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJN2EgyMa7j4ARX0jGUEEfMoM",
+      "formattedAddress": "1020 N Rengstorff Ave Suite EMountain, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4199771,
+        "longitude": -122.09609909999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9453652933192599647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.ikessandwich.com/ca/mountainview/140/?utm_source=gmb&utm_medium=profile&utm_campaign=mountainview-location-page",
+      "displayName": {
+        "text": "Ike's Love & Sandwiches",
+        "languageCode": "usa"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Ikes Small.jpeg",
+      "menuUrl": "https://www.ikessandwich.com/menu",
+      "phone": "(650) 265-1111",
+      "hours": {
+        "Monday": "10:00 AM – 9:00 PM",
+        "Tuesday": "10:00 AM – 9:00 PM",
+        "Wednesday": "10:00 AM – 9:00 PM",
+        "Thursday": "10:00 AM – 9:00 PM",
+        "Friday": "10:00 AM – 9:00 PM",
+        "Saturday": "10:00 AM – 9:00 PM",
+        "Sunday": "10:00 AM – 9:00 PM"
+      },
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJP_NCyBSxj4ARfaFtCqYUocU",
+      "formattedAddress": "545 San Antonio Rd Suite 31, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4033429,
+        "longitude": -122.11201179999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14240686200094302589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ilfornaio.com/",
+      "displayName": {
+        "text": "Il Fornaio | Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/mountain-view/Il Fornaio Small.jpeg",
+      "menuUrl": "https://www.ilfornaio.com/menu/mountain-view",
+      "phone": "(650) 964-6283",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJZ51N9z23j4ARBFYUT_oKtCM",
+      "formattedAddress": "225 E Middlefield Rd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.396654,
+        "longitude": -122.06143279999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2572693357320230404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://joysushimountainview.com/",
+      "displayName": {
+        "text": "Joy Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 903-9403",
+      "hours": {
+        "Monday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "http://www.joysushimountainview.com",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJNaa5cLSxj4ARn9KSY9gLH5U",
+      "formattedAddress": "2512 California St, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.404147699999996,
+        "longitude": -122.10677719999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10745320259940700831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://joyasupermarkets.com/",
+      "displayName": {
+        "text": "Joya Super Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/mountain-view/Joya Tqqueria Small.jpeg",
+      "phone": "(650) 965-8210",
+      "hours": {
+        "Monday": "9:00 AM – 10:00 PM",
+        "Tuesday": "9:00 AM – 10:00 PM",
+        "Wednesday": "9:00 AM – 10:00 PM",
+        "Thursday": "9:00 AM – 10:00 PM",
+        "Friday": "9:00 AM – 10:00 PM",
+        "Saturday": "9:00 AM – 10:00 PM",
+        "Sunday": "9:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.joyasupertaqueria.com/menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ2yPdP5y3j4AR3Xm38i9_-8M",
+      "formattedAddress": "124 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.394799,
+        "longitude": -122.0786176
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14122020900462623197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/HuaXiWang-Mountain-View/14707",
+      "displayName": {
+        "text": "Joyous Cuisine 花溪王 山野美食",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "phone": "(650) 282-5292",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.joyouscuisine.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJL5hnM2u3j4ARQDJhTeN5LIw",
+      "formattedAddress": "743 W Dana St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3922257,
+        "longitude": -122.07921039999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10100582081447932480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Kakaroto Japanese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 964-9600",
+      "hours": {
+        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.kakarotosushi.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJp6_gcIK3j4ARGYrA3vLG4OE",
+      "formattedAddress": "859 Villa St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3939691,
+        "longitude": -122.0797429
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16276227799738518041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushi-katsu-mv.com/",
+      "displayName": {
+        "text": "Katsu",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 282-5111",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.katsumv.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJuyy5k-i3j4ARXY_xqSqZRpg",
+      "formattedAddress": "225 E Middlefield Rd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.3966424,
+        "longitude": -122.0615802
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10972625950653648733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.khaokang.com/",
+      "displayName": {
+        "text": "Khao Kang Thai Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "phone": "(650) 960-7100",
+      "hours": {
+        "Monday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Tuesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Wednesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Thursday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Friday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
+        "Saturday": "12:00 PM – 3:00 PM, 5:00 PM – 9:00 PM",
+        "Sunday": "12:00 PM – 3:00 PM, 5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.khaokangthaikitchen.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJl6WpAwCxj4ARGS8burVhH-Q",
+      "formattedAddress": "1962 El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.394429699999996,
+        "longitude": -122.0981737
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16437964598064918297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kunjiptofu.com/",
+      "displayName": {
+        "text": "Kunjip Tofu",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/mountain-view/Kunjip Korean Restaurant Small.jpeg",
+      "phone": "(650) 988-4588",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "menuUrl": "https://www.kunjiprestaurant.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ95RyX2Gxj4ARfNp2V6qcvPM",
+      "formattedAddress": "634 N San Antonio Rd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.402704500000006,
+        "longitude": -122.11402120000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17563084902263872124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kusanbazaar.com/kusanbazaar-txusjq?utm_source=google",
+      "displayName": {
+        "text": "Kusan Bazaar 龟兹集市",
+        "languageCode": "en"
+      },
+      "cuisine": "Halal",
+      "photoUrl": "images/restaurant-photos/mountain-view/Kusan Bazaar Small.jpeg",
+      "phone": "(650) 564-9055",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "menuUrl": "https://www.kusanbazaar.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJfa51MBC6j4ARdScWiQPQXWI",
+      "formattedAddress": "2430 E Charleston Rd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4220781,
+        "longitude": -122.09643260000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7088050102154438517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hawaiianbarbecue.com/",
+      "displayName": {
+        "text": "L&L Hawaiian Barbecue - Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/mountain-view/L&L Hawaiian Barbecue Small.jpeg",
+      "phone": "(650) 988-8885",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.hawaiianbarbecue.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ09rb9T23j4ARra_A_sXsfZc",
+      "formattedAddress": "235 E Middlefield Rd #1A, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.3974265,
+        "longitude": -122.0611825
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10916141406942703533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://costena.com/",
+      "displayName": {
+        "text": "La Costeña",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 969-9990",
+      "hours": {
+        "Monday": "9:00 AM – 9:00 PM",
+        "Tuesday": "9:00 AM – 9:00 PM",
+        "Wednesday": "9:00 AM – 9:00 PM",
+        "Thursday": "9:00 AM – 9:00 PM",
+        "Friday": "9:00 AM – 9:00 PM",
+        "Saturday": "9:00 AM – 9:00 PM",
+        "Sunday": "9:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.lacostenamexicanrestaurant.com/menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJ1aqkYgCxj4ARoH9RI07fXEQ",
+      "formattedAddress": "586 Escuela Ave, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.394793,
+        "longitude": -122.0954982
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4926057619129466784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/lacuevamexgrub?igsh=MzRlODBiNWFlZA==",
+      "displayName": {
+        "text": "La Cueva Mexican Grub",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 938-4141",
+      "hours": {
+        "Monday": "10:00 AM – 9:00 PM",
+        "Tuesday": "10:00 AM – 9:00 PM",
+        "Wednesday": "10:00 AM – 9:00 PM",
+        "Thursday": "10:00 AM – 9:00 PM",
+        "Friday": "10:00 AM – 9:00 PM",
+        "Saturday": "10:00 AM – 9:00 PM",
+        "Sunday": "10:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.lacuevamexicangrub.com/menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJD-RI2SK3j4ARPlV6OjQBSW8",
+      "formattedAddress": "1288 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3886659,
+        "longitude": -122.0886237
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8018941935340901694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "La Familia Taqueria",
+        "languageCode": "es"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 965-9100",
+      "hours": {
+        "Monday": "10:00 AM – 10:00 PM",
+        "Tuesday": "10:00 AM – 10:00 PM",
+        "Wednesday": "10:00 AM – 10:00 PM",
+        "Thursday": "10:00 AM – 10:00 PM",
+        "Friday": "10:00 AM – 10:00 PM",
+        "Saturday": "10:00 AM – 10:00 PM",
+        "Sunday": "10:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.lafamiliataqueria.com/menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJlXOKcDC3j4ARzal-5j-p-FY",
+      "formattedAddress": "240 Villa St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3916289,
+        "longitude": -122.0728897
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6266944973401139661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lafiestamexicancuisine.com/",
+      "displayName": {
+        "text": "La Fiesta",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 967-6649",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.lafiestamv.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJZ54APTS3j4ARBYZD956MHq8",
+      "formattedAddress": "186 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3941611,
+        "longitude": -122.0790833
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12618677820319827461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lafontainerestaurant.com/",
+      "displayName": {
+        "text": "La Fontaine Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "French/Italian",
+      "phone": "(650) 967-9090",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.lafontainerestaurant.com/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJayz3ts6wj4ARazzb1sL5yNU",
+      "formattedAddress": "1405 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3888226,
+        "longitude": -122.09077179999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15404837140644445291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lepetitbistromountainview.com/",
+      "displayName": {
+        "text": "Le Petit Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "phone": "(650) 964-3321",
+      "hours": {
+        "Tuesday": "5:00 PM – 9:00 PM",
+        "Wednesday": "5:00 PM – 9:00 PM",
+        "Thursday": "5:00 PM – 9:00 PM",
+        "Friday": "5:00 PM – 9:00 PM",
+        "Saturday": "5:00 PM – 9:00 PM"
+      },
+      "menuUrl": "https://www.lepetitbistro.com/menu",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJUQD2pjW3j4ARJbYJ0xp0ycM",
+      "formattedAddress": "800 California St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3916112,
+        "longitude": -122.08068189999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14107934966273390117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.limonrestaurants.com/",
+      "displayName": {
+        "text": "Limón",
+        "languageCode": "en"
+      },
+      "cuisine": "Peruvian",
+      "phone": "(650) 965-3030",
+      "hours": {
+        "Monday": "11:30 AM – 9:30 PM",
+        "Tuesday": "11:30 AM – 9:30 PM",
+        "Wednesday": "11:30 AM – 9:30 PM",
+        "Thursday": "11:30 AM – 9:30 PM",
+        "Friday": "11:30 AM – 9:30 PM",
+        "Saturday": "11:30 AM – 9:30 PM",
+        "Sunday": "11:30 AM – 9:30 PM"
+      },
+      "menuUrl": "https://www.limonrotisserie.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJhzHBsAe6j4ARvq9oi8u-bqQ",
+      "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4141544,
+        "longitude": -122.093488
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11848617451084885950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://losaltostaqueria.com/",
+      "displayName": {
+        "text": "Los Altos Taqueria Mexican Inc",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/mountain-view/Los Altos Taqueria Small.jpeg",
+      "phone": "(650) 948-9999",
+      "hours": {
+        "Monday": "10:00 AM – 10:00 PM",
+        "Tuesday": "10:00 AM – 10:00 PM",
+        "Wednesday": "10:00 AM – 10:00 PM",
+        "Thursday": "10:00 AM – 10:00 PM",
+        "Friday": "10:00 AM – 10:00 PM",
+        "Saturday": "10:00 AM – 10:00 PM",
+        "Sunday": "10:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.losaltostaqueria.com/menu",
+      "priceRange": "$"
+    },
+    {
+      "id": "ChIJFdt9na23j4ARJAc5rPXRHkE",
+      "formattedAddress": "1040 Grant Rd Suite #305, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3797193,
+        "longitude": -122.074444
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4692418714853246756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.toasttab.com/local/order/los-amigos-mountainview/r-b3547295-bcda-415e-a1fa-d056c533cea4",
+      "displayName": {
+        "text": "Los Amigos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 965-0011",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.losamigosmv.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJr2AqoJm3j4ARFMnM43xElBQ",
+      "formattedAddress": "383 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3913916,
+        "longitude": -122.0802018
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1482885480500218132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ludwigsmv.com/",
+      "displayName": {
+        "text": "Ludwigs Biergarten",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian",
+      "phone": "(650) 695-1614",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.ludwigsbiergarten.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJE4n0FDS3j4ARFOGPKzVKJHg",
+      "formattedAddress": "212 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3937182,
+        "longitude": -122.0793244
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8657125975937507604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.maisonalyzee.com/",
+      "displayName": {
+        "text": "Maison Alyzée",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "phone": "(650) 282-5454",
+      "hours": {
+        "Monday": "8:00 AM – 5:00 PM",
+        "Tuesday": "8:00 AM – 5:00 PM",
+        "Wednesday": "8:00 AM – 5:00 PM",
+        "Thursday": "8:00 AM – 5:00 PM",
+        "Friday": "8:00 AM – 5:00 PM",
+        "Saturday": "8:00 AM – 5:00 PM",
+        "Sunday": "8:00 AM – 5:00 PM"
+      },
+      "menuUrl": "https://www.maisonalyzee.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJSTu5CLywj4ARdXEmSuNMISk",
+      "formattedAddress": "615 S Rengstorff Ave, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3963494,
+        "longitude": -122.10094029999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2963734568871817589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.maldonadospizza.com/",
+      "displayName": {
+        "text": "Maldonado's Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/mountain-view/Maldonado Pizza Small.jpeg",
+      "phone": "(650) 961-0100",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.maldonadospizza.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ-0RVcTS3j4ARDEqD2bNEFrc",
+      "formattedAddress": "288 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3928448,
+        "longitude": -122.0797636
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13192807697667541516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mantraindiausa.com/",
+      "displayName": {
+        "text": "Mantra India Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "phone": "(650) 961-5550",
+      "hours": {
+        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"
+      },
+      "menuUrl": "https://www.mantraindia.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJwdl4xzK3j4ARjl95YHMcOIk",
+      "formattedAddress": "650 Castro St #180, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3882171,
+        "longitude": -122.0826644
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9887684263757307790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.toasttab.com/online/masa-sushi-japan",
+      "displayName": {
+        "text": "Masa Sushi Japan",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 969-9998",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.masasushijapan.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJaYhfxzK3j4AR2AZVkKx1vRE",
+      "formattedAddress": "650 Castro St suit 110, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3877582,
+        "longitude": -122.0830367
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1278307253259405016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mediterraneangrillhouse.com/",
+      "displayName": {
+        "text": "Mediterranean Grill House xCoffee",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "phone": "(650) 938-4048",
+      "hours": {
+        "Monday": "10:00 AM – 9:00 PM",
+        "Tuesday": "10:00 AM – 9:00 PM",
+        "Wednesday": "10:00 AM – 9:00 PM",
+        "Thursday": "10:00 AM – 9:00 PM",
+        "Friday": "10:00 AM – 9:00 PM",
+        "Saturday": "10:00 AM – 9:00 PM",
+        "Sunday": "10:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.mediterraneangrillhouse.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJczRbohGxj4ARJefRmnm2_mg",
+      "formattedAddress": "401 San Antonio Rd, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4037408,
+        "longitude": -122.11095
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7565685057433757477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mendocinofarms.com/locations/mountain-view",
+      "displayName": {
+        "text": "Mendocino Farms",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mendocino Farms Small.jpeg",
+      "phone": "(650) 600-8280",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.mendocinofarms.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJu3a5ugK3j4AR6uq-nikkeUo",
+      "formattedAddress": "841 Villa St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.393890400000004,
+        "longitude": -122.079508
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5366360192164227818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mifen101go.site/",
+      "displayName": {
+        "text": "Mifen101幺零幺（原花溪王）",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "phone": "(650) 282-5099",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "11:00 AM – 9:30 PM",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 9:30 PM",
+        "Friday": "11:00 AM – 9:30 PM",
+        "Saturday": "11:00 AM – 9:30 PM",
+        "Sunday": "11:00 AM – 9:30 PM"
+      },
+      "menuUrl": "https://www.mifen101.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJbdRr8Juwj4ARRFNrtLQtGjs",
+      "formattedAddress": "2590 W El Camino Real #13, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4013189,
+        "longitude": -122.1129728
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4258766651776521028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mizusbg.com/",
+      "displayName": {
+        "text": "Mizu Sushi Bar & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mizu Small.jpeg",
+      "phone": "(650) 964-2227",
+      "hours": {
+        "Monday": "11:30 AM – 9:00 PM",
+        "Tuesday": "11:30 AM – 9:00 PM",
+        "Wednesday": "11:30 AM – 9:00 PM",
+        "Thursday": "11:30 AM – 9:00 PM",
+        "Friday": "11:30 AM – 9:00 PM",
+        "Saturday": "11:30 AM – 9:00 PM",
+        "Sunday": "11:30 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.mizusushibar.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ6SYoDzS3j4ARUXlywN-MaHg",
+      "formattedAddress": "241 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3931945,
+        "longitude": -122.07905419999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8676339574763583825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mollysmountainview.com/",
+      "displayName": {
+        "text": "Molly Magees",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "phone": "(650) 965-7005",
+      "hours": {
+        "Monday": "11:00 AM – 2:00 AM",
+        "Tuesday": "11:00 AM – 2:00 AM",
+        "Wednesday": "11:00 AM – 2:00 AM",
+        "Thursday": "11:00 AM – 2:00 AM",
+        "Friday": "11:00 AM – 2:00 AM",
+        "Saturday": "11:00 AM – 2:00 AM",
+        "Sunday": "11:00 AM – 2:00 AM"
+      },
+      "menuUrl": "https://www.mollymagees.com",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJe1fseW-3j4ARb0chTXBXxkA",
+      "formattedAddress": "425 N Whisman Rd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4008804,
+        "longitude": -122.0578043
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4667514203658078063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.doordash.com/store/momo-king-mountain-view-911870/en-US",
+      "displayName": {
+        "text": "Momo King- Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "phone": "(650) 938-4949",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "11:00 AM – 9:00 PM",
+        "Sunday": "11:00 AM – 9:00 PM"
+      },
+      "menuUrl": "https://www.momokingus.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJnTWJhiuxj4ARN8YqFg7pbmE",
+      "formattedAddress": "1724 Miramonte Ave, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3729243,
+        "longitude": -122.08849439999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7020805115827897911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mountainmikespizza.com/locations/mountain-view-miramonte/",
+      "displayName": {
+        "text": "Mountain Mike's Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "phone": "(650) 961-1111",
+      "hours": {
+        "Monday": "11:00 AM – 10:00 PM",
+        "Tuesday": "11:00 AM – 10:00 PM",
+        "Wednesday": "11:00 AM – 10:00 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 10:00 PM",
+        "Saturday": "11:00 AM – 10:00 PM",
+        "Sunday": "11:00 AM – 10:00 PM"
+      },
+      "menuUrl": "https://www.mountainmikespizza.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJ0XCu-J63j4ARBue4YjjbOLM",
+      "formattedAddress": "357 Castro St Unit 3A, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3917899,
+        "longitude": -122.0800516
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12914312966705833734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mrbaokitchen.com/",
+      "displayName": {
+        "text": "Mr. Bao Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "phone": "(650) 282-5026",
+      "hours": {
+        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
+        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
+        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
+        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
+        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
+        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM"
+      },
+      "menuUrl": "https://www.mrbaokitchen.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "ChIJm7TnPMywj4ARr7OAYDci9mU",
+      "formattedAddress": "1288 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.388694,
+        "longitude": -122.0882837
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7347097463339135919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Namastee Nepal Food Truck",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJg1ayR7iwj4ARBsM83DizgKA",
+      "formattedAddress": "1910 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3941309,
+        "longitude": -122.0968228
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11565440899881943814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.napoletanapizzeria.com/",
+      "displayName": {
+        "text": "Napoletana Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/mountain-view/Napoletana Pizzeria Small.jpeg"
+    },
+    {
+      "id": "ChIJs6VVKiK3j4ARv41w-9SHJJs",
+      "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3832604,
+        "longitude": -122.078283
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11179209523861687743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://narfood.com/",
+      "displayName": {
+        "text": "NAR Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJyyoIiTO3j4ARtwaLR_CQKiY",
+      "formattedAddress": "304 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3924452,
+        "longitude": -122.08000129999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2750169884129953463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "New Mongolian BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ"
+    },
+    {
+      "id": "ChIJ5Z7q1de2j4ARGQo7GtP9k3Q",
+      "formattedAddress": "1040 Grant Rd # 310, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3796618,
+        "longitude": -122.07432779999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8400336813096110617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nypizzamv.com/",
+      "displayName": {
+        "text": "New York Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJxfnvDne3j4ARn9NTtNXBXEM",
+      "formattedAddress": "298 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3927269,
+        "longitude": -122.07982150000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4853967621996139423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
+      "displayName": {
+        "text": "Nick the Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJtwxHxXS3j4ARf6S4Vj8p8lY",
+      "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3832604,
+        "longitude": -122.078283
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6265115383640401023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/NAR-Restaurant/22992",
+      "displayName": {
+        "text": "Olivia Bros",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJZSOjJjS3j4AR1laX4fkSz08",
+      "formattedAddress": "135 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3944747,
+        "longitude": -122.0782518
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5750836113616361174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cafeolympus.com/",
+      "displayName": {
+        "text": "Olympus Caffe & Bakery",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJsRJ_JTS3j4AR9RJPR8J3GB8",
+      "formattedAddress": "126 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.394741499999995,
+        "longitude": -122.07860149999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2240672490920547061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orenshummus.com/",
+      "displayName": {
+        "text": "Oren's Hummus",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern"
+    },
+    {
+      "id": "ChIJ4fH1ZAC3j4AR1plGZKh_FZk",
+      "formattedAddress": "216 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3936944,
+        "longitude": -122.07940590000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11030863223527479766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://ox9noodles.com/",
+      "displayName": {
+        "text": "Ox 9 Lanzhou Handpulled Noodles",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJCYQfo56wj4AR3ow1p23mAqA",
+      "formattedAddress": "545 San Antonio Rd Suite 34, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4031145,
+        "longitude": -122.11156979999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11530031354653019358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pacificcatch.com/",
+      "displayName": {
+        "text": "Pacific Catch",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pacific Catch Small.jpeg"
+    },
+    {
+      "id": "ChIJz_sWKQK7j4ARgmIaJnNrUqI",
+      "formattedAddress": "2070 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4147112,
+        "longitude": -122.09240129999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11696529324539273858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://papasandeggs.com/papasandeggsmountainview-93nk15?utm_source=google",
+      "displayName": {
+        "text": "Papas and Eggs",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/mountain-view/Papas & Eggs Small.jpeg"
+    },
+    {
+      "id": "ChIJoeZn_jW7j4ARCGcxQXxyXJ0",
+      "formattedAddress": "2135 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.414216599999996,
+        "longitude": -122.0936237
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11339063839807334152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.paperplatez.com/",
+      "displayName": {
+        "text": "Paper Platez",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJoVSH-z-3j4ARQbbHtlHT4Ds",
+      "formattedAddress": "315 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3921379,
+        "longitude": -122.0796159
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4314680790933288513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://parisbaguette.com/locations/ca/mountain-view/315-castro-street/",
+      "displayName": {
+        "text": "Paris Baguette",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJRcT6OHKxj4AR9DB-cSpxe2k",
+      "formattedAddress": "334 San Antonio Rd, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4059321,
+        "longitude": -122.11199979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7600793223224504564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "PETRA'S KITCHEN",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJXREwzE23j4ARxfukeuZH_1E",
+      "formattedAddress": "175 E El Camino Real Ste-C, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3787149,
+        "longitude": -122.07086099999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5908520291359062981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://phoanh.us/",
+      "displayName": {
+        "text": "Pho Anh",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJ6cEtu5mwj4ARXUcsNOIpx1w",
+      "formattedAddress": "2500 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3998596,
+        "longitude": -122.1101451
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6685358223369455453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.phoavenue.com/",
+      "displayName": {
+        "text": "Pho Avenue",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pho Avenue Small.jpeg"
+    },
+    {
+      "id": "ChIJq6rqkw-6j4ARztwprDXfxDc",
+      "formattedAddress": "1020 N Rengstorff Ave Ste C, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4198121,
+        "longitude": -122.09610970000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4018582189136010446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=ab282e2d-0799-4074-bcfb-57335f2c1fff",
+      "displayName": {
+        "text": "Phở Trần Vũ",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pho Tran Vu Small.jpeg"
+    },
+    {
+      "id": "ChIJe1NXQDS3j4ARPm9KvbvygJc",
+      "formattedAddress": "853 Villa St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.393915,
+        "longitude": -122.07971400000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10916992384894660414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://beluga.kitchen/m/xQB543?utm_source=google_profile&utm_medium=organic",
+      "displayName": {
+        "text": "Phởtochau 999",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJa6U406-7j4ARZietsfdP6dE",
+      "formattedAddress": "2680 Bayshore Pkwy, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4297762,
+        "longitude": -122.1000322
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15125708748756952934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://plazadelicafeca.com/",
+      "displayName": {
+        "text": "Plaza deli cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJpy_7hTO3j4ARie8lau6i5mE",
+      "formattedAddress": "340 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3920611,
+        "longitude": -122.0802694
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7054505011189247881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ilovepokebar.com/",
+      "displayName": {
+        "text": "Poke Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJac8Jfre3j4ARp5fZrO0ttKo",
+      "formattedAddress": "1040 Grant Rd Ste 360, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.37955,
+        "longitude": -122.0741937
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12300506981086107559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.poke.house/locations/poke-grantrd-mountainview",
+      "displayName": {
+        "text": "Poke House - Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJ08k3EDS3j4ARKBXLBf4Jyc0",
+      "formattedAddress": "211 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.393528599999996,
+        "longitude": -122.07891559999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14828394234717607208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pokeworks.com/",
+      "displayName": {
+        "text": "Pokeworks",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJh-RWCzS3j4ARyg7A_Go5qJI",
+      "formattedAddress": "273 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.392922899999995,
+        "longitude": -122.07922830000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10567759657294630602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.queenhouserestaurant.com/",
+      "displayName": {
+        "text": "Queen House Chinese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJGW5peMa3j4AR913hk9QUkU4",
+      "formattedAddress": "1711 W El Camino Real B, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.390470199999996,
+        "longitude": -122.09412279999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5661329109828066807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://rathoreskitchen.com/?utm_source=google_business_profile&utm_medium=local_seo&utm_campaign=organic_search",
+      "displayName": {
+        "text": "Rathore's Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJ--MPCaWwj4ARyYAEuYhsf0E",
+      "formattedAddress": "122 N Rengstorff Ave, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4043704,
+        "longitude": -122.09754939999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4719610268983001289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rinconsabrosorestaurant.com/",
+      "displayName": {
+        "text": "Rincon Sabroso Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/mountain-view/Rincon Sabroso Small.jpeg"
+    },
+    {
+      "id": "ChIJh1Y1MA23j4AREJz6Kxl75Uo",
+      "formattedAddress": "800 Moffett Blvd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.407189599999995,
+        "longitude": -122.0673655
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5396855076515650576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rogerbarandrestaurant.com/",
+      "displayName": {
+        "text": "Roger Bar and Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJQ4F3PBa3j4ARf7_QjN1Cklo",
+      "formattedAddress": "295 E Middlefield Rd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.3970714,
+        "longitude": -122.05999289999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6526352329330966399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.qrmobileorder.com/",
+      "displayName": {
+        "text": "Roger's Deli & Donuts",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJ9Y7sh2y3j4ARyqbQb6iXWhE",
+      "formattedAddress": "331 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3919695,
+        "longitude": -122.0796833
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1250478596234979018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rootstockwinebar.com/",
+      "displayName": {
+        "text": "Rootstock Wine Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar"
+    },
+    {
+      "id": "ChIJa-HrtkO3j4ARrzmi28OOrIs",
+      "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3832604,
+        "longitude": -122.078283
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10064576239120824751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/NAR-Restaurant/22992",
+      "displayName": {
+        "text": "Rosso Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJ87IH0EOxj4ARAA1nPDcNNLM",
+      "formattedAddress": "856 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.386543499999995,
+        "longitude": -122.0851089
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12912960562465803520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rrrbiryanismv.withbites.com/",
+      "displayName": {
+        "text": "RRR Biryanis",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJzUVtQ7y3j4ARH_RbxOb8nFA",
+      "formattedAddress": "123 E El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.379148099999995,
+        "longitude": -122.0724824
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5808795687468135455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sgbreadfast.square.site/",
+      "displayName": {
+        "text": "SaiGon BreadFast",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJb4sB4Zuwj4ARfVoCSwzEgDc",
+      "formattedAddress": "2580 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4009435,
+        "longitude": -122.11233689999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3999412026182097533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sajjstreeteats.com/",
+      "displayName": {
+        "text": "SAJJ Mediterranean",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sajj Small.jpeg"
+    },
+    {
+      "id": "ChIJNT7PkDO3j4AR_agag90Kh-4",
+      "formattedAddress": "357 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3916065,
+        "longitude": -122.07970549999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17187718449386399997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sakoonrestaurant.com/",
+      "displayName": {
+        "text": "Sakoon",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJ5W_fPe-3j4ARXg5zC_0E5gA",
+      "formattedAddress": "975 Bay St, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3805306,
+        "longitude": -122.0748921
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=64744729508777566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://san-miguel-taqueria.square.site/?src=g-icon",
+      "displayName": {
+        "text": "San Miguel Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJPVgdAt22j4ARkIlEhe3DedA",
+      "formattedAddress": "705 E El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.375544399999995,
+        "longitude": -122.0637694
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15022253456981526928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.satsumasushi.com/",
+      "displayName": {
+        "text": "Satsuma Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJzQUXnTa3j4ARo0PyJ0CVXqA",
+      "formattedAddress": "750 W Evelyn Ave, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3949898,
+        "longitude": -122.07785489999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11555837796659905443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.savvycellar.com/",
+      "displayName": {
+        "text": "Savvy Cellar Wine Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar"
+    },
+    {
+      "id": "ChIJTzWDpDO3j4ARI08nSK_WLeU",
+      "formattedAddress": "401 Castro St #100, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.391093,
+        "longitude": -122.080452
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16514091456955633443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.scratchmtnview.com/",
+      "displayName": {
+        "text": "Scratch",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJqR9iewC3j4ARFdkuydcsVXk",
+      "formattedAddress": "702 Villa St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.393541299999995,
+        "longitude": -122.0779394
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8742943556914567445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.seasonsnoodlesdumplings.com/",
+      "displayName": {
+        "text": "Seasons Noodles & Dumplings Garden",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJddZpuNexj4ARtAkG_zNJ5zw",
+      "formattedAddress": "401 San Antonio Rd Suite 66-B, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4038687,
+        "longitude": -122.1113905
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4388556849566583220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://shakeshack.com/location/Mountain-view-CA?utm_source=listing&utm_medium=web?utm_source=google&utm_medium=listing",
+      "displayName": {
+        "text": "Shake Shack Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJteR5Oja3j4ARTvsIorMrGII",
+      "formattedAddress": "311A Moffett Blvd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.3977605,
+        "longitude": -122.076152
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9374290674889325390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.shanathai.com/",
+      "displayName": {
+        "text": "Shana Thai",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJDy_Fqemxj4ARsM3sqkPHGF4",
+      "formattedAddress": "1760 Miramonte Ave, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.372009000000006,
+        "longitude": -122.0883739
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6780388332450663856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sizzlinglunch.com/",
+      "displayName": {
+        "text": "Sizzling Lunch",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ7XC5CwCxj4ARXg00Il4_MU4",
+      "formattedAddress": "2565 California St Suite 81, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.404296599999995,
+        "longitude": -122.11023759999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5634354282350513502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.slicehouse.com/us/california/mountain-view/2565-california-street/",
+      "displayName": {
+        "text": "Slice House Mountain View by Tony Gemignani",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/mountain-view/Slice House Small.jpeg"
+    },
+    {
+      "id": "ChIJafzZnWqxj4ARttEF1Ku6s9c",
+      "formattedAddress": "530 Showers Dr suite 1, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4017541,
+        "longitude": -122.10787459999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15542971986145038774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sourdoughandco.com/",
+      "displayName": {
+        "text": "Sourdough & Co.",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/Soudough Co Small.jpeg"
+    },
+    {
+      "id": "ChIJwcdjydmxj4AR-cFaTrYatS4",
+      "formattedAddress": "809 Cuesta Dr Suite A, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3731296,
+        "longitude": -122.0879609
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3365625666830254585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sourdoughandco.com/mountain-view-cuesta",
+      "displayName": {
+        "text": "Sourdough & Co.",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ82GUaRK3j4ARDkf5zm1XdVY",
+      "formattedAddress": "645 Ellis St, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4028743,
+        "longitude": -122.05079260000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6229981788672444174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://specialtys.com/",
+      "displayName": {
+        "text": "Specialty's Café & Bakery",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJN5Nz71W3j4ARhx5bwpTQEGg",
+      "formattedAddress": "1431 Plymouth St, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4161493,
+        "longitude": -122.07863630000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7498722716906364551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sportspage.bar/",
+      "displayName": {
+        "text": "Sports Page",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJsfMnDjS3j4ARoUdVDMJyqMU",
+      "formattedAddress": "223 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3934292,
+        "longitude": -122.0789755
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14242759999315330977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ststephensgreen.com/",
+      "displayName": {
+        "text": "St. Stephen's Green",
+        "languageCode": "en"
+      },
+      "cuisine": "Irish"
+    },
+    {
+      "id": "ChIJuzFtRDS3j4AR1gfuHqaeG7k",
+      "formattedAddress": "895 Villa St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.394053299999996,
+        "longitude": -122.07988499999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13338429157708531670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.steinsbeergarden.com/",
+      "displayName": {
+        "text": "Steins Beer Garden & Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJIVDJCAyxj4ARF8por5EUnRg",
+      "formattedAddress": "108A N Rengstorff Ave, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4040234,
+        "longitude": -122.0980138
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1773596444199537175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.superbaoca.com/",
+      "displayName": {
+        "text": "Super Bao",
+        "languageCode": "zh"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Super Bao Small.jpeg"
+    },
+    {
+      "id": "ChIJD0Fxqb6wj4ARle_x0P0nxcM",
+      "formattedAddress": "2082 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3956471,
+        "longitude": -122.1008153
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14106725378893672341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Super Tacos El Conrro Food Truck",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJN_k8v0y3j4ARU5I-qHFv09U",
+      "formattedAddress": "210 Hope St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3932825,
+        "longitude": -122.0781162
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15407781284109259347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://superhotrestaurant.weebly.com/",
+      "displayName": {
+        "text": "Superhot Hot Pot & Korean BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJLalQbCu3j4ARhYSFis6AvSA",
+      "formattedAddress": "240 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3933575,
+        "longitude": -122.0794243
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2359183404387632261&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sushiarashi.com/",
+      "displayName": {
+        "text": "Sushi Arashi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ-9pg_Qmxj4AR4deSLfZINW0",
+      "formattedAddress": "580 N Rengstorff Ave J, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4107632,
+        "longitude": -122.09374260000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7869276146063562721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushijinmtv.com/",
+      "displayName": {
+        "text": "Sushi Jin",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sushi Jin Small.jpeg"
+    },
+    {
+      "id": "ChIJyQjQYTG3j4ARBO9RopzNHA8",
+      "formattedAddress": "607 W Dana St Unit H, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3917973,
+        "longitude": -122.07804800000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1088971282538688260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sushitomi.us/",
+      "displayName": {
+        "text": "Sushi Tomi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJw4RuczO3j4ARC7RByZ5K9nI",
+      "formattedAddress": "440 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.390900699999996,
+        "longitude": -122.08114520000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8283890610436420619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetgreen.com/locations/mountain-view",
+      "displayName": {
+        "text": "sweetgreen - Healthy Salads, Bowls and Plates",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ6WHNXgCxj4ARwXxm3MYbwx0",
+      "formattedAddress": "715 E El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.376199299999996,
+        "longitude": -122.0635638
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2144588388473666753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tacos “The Auntentic Oaxacan”",
+        "languageCode": "es"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJQSE-cgC3j4ARPysXwuy0Vc0",
+      "formattedAddress": "1220 Grant Rd, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3781678,
+        "longitude": -122.0753161
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14795931079757212479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tacosdonvalle.com/",
+      "displayName": {
+        "text": "Tacos Don Valle",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJ31mZ0f23j4ARvY9XI57lHxk",
+      "formattedAddress": "807 N Shoreline Blvd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.406547599999996,
+        "longitude": -122.0777333
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1810418042586763197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tacos Los Primos del Sur",
+        "languageCode": "es"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJy2E2x_y3j4ARZ4EQpvlWnTs",
+      "formattedAddress": "698 W Dana St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.392261999999995,
+        "longitude": -122.07840780000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4295685249814266215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tandoorisjunction.com/",
+      "displayName": {
+        "text": "Tandoori junction",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJUf3BejS3j4ARpm4CLRkFHeQ",
+      "formattedAddress": "854 W Dana St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3929507,
+        "longitude": -122.08033839999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16437299820659633830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rebrand.ly/espuela",
+      "displayName": {
+        "text": "Taqueria La Espuela",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJqSEux6ixj4ARmKImBb4LqfE",
+      "formattedAddress": "545 San Antonio Rd Ste 32, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.4032108,
+        "longitude": -122.11174729999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17413462344962843288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bcmidtown.com/",
+      "displayName": {
+        "text": "The Breakfast Club at Midtown",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/mountain-view/The breakfast Club Small.jpeg"
+    },
+    {
+      "id": "ChIJyS7o4Zuwj4ARon29W1GsXJo",
+      "formattedAddress": "2580 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.400881,
+        "longitude": -122.1121778
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11122954645129756066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thecounter.com/stores/mountain-view/32033?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
+      "displayName": {
+        "text": "The Counter",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/mountain-view/The counter Small.jpeg"
+    },
+    {
+      "id": "ChIJYRHjWf67j4ARClGtTLToHZk",
+      "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4141439,
+        "longitude": -122.09337920000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11033230523205767434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thedonsdeli.com/",
+      "displayName": {
+        "text": "The Don’s Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/mountain-view/The Dons Deli Small.jpeg"
+    },
+    {
+      "id": "ChIJQdgqhjy3j4ARpiK08gPTor4",
+      "formattedAddress": "1625 N Shoreline Blvd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4168531,
+        "longitude": -122.07757749999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13736773827343688358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.theemeraldhour.com/",
+      "displayName": {
+        "text": "The Emerald Hour",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJhTbf_963j4ARxOXAZ5KUCSw",
+      "formattedAddress": "800 Moffett Blvd, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.407189599999995,
+        "longitude": -122.0673655
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3173230768986056132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.rogerbarandrestaurant.com/the-flyby/",
+      "displayName": {
+        "text": "The Flyby",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJy-kI0EC3j4ARwGKPY8qqp-8",
+      "formattedAddress": "1040 Grant Rd, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3795006,
+        "longitude": -122.07410050000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17268959082405913280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.habitburger.com/locations/mountain-view/",
+      "displayName": {
+        "text": "The Habit Burger Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJiU9rHAC3j4ARq-cnnScAykQ",
+      "formattedAddress": "570 N Shoreline Blvd J, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.402780299999996,
+        "longitude": -122.0793791
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4956774510015014827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tokisushimv.com/",
+      "displayName": {
+        "text": "Toki Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJR_KFNsmwj4ARvqLjNxrWAzE",
+      "formattedAddress": "1482 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3895546,
+        "longitude": -122.09093539999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3531901940883759806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://tommy-thai.com/",
+      "displayName": {
+        "text": "Tommy Thai",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJk96_Mja3j4ARhTLPsKxD--c",
+      "formattedAddress": "327 Moffett Blvd # D, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.398055899999996,
+        "longitude": -122.075341
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16716028850895532677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tres hermanos taqueria & pupuseria",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJdSXU-ZK3j4ARQ7KWKvpGkFI",
+      "formattedAddress": "180 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3942451,
+        "longitude": -122.079073
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5949333148026712643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mugizo-us.com/",
+      "displayName": {
+        "text": "Udon Mugizo Mountain View",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJYzCEtRixj4ARpfbZuM4RU9A",
+      "formattedAddress": "856 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3867153,
+        "longitude": -122.08505799999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15011361562518222501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://urbancurryandbiryani.com/",
+      "displayName": {
+        "text": "Urban Curry And Biryani",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJFfCOLjS3j4ARySqj-9dlmv4",
+      "formattedAddress": "108 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3949637,
+        "longitude": -122.0784346
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18346088010361285321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://vasoazzurro.com/",
+      "displayName": {
+        "text": "Vaso Azzurro Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJQfA1N5iwj4ARVdM_WzoeQmk",
+      "formattedAddress": "2464 W El Camino Real C, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.399244599999996,
+        "longitude": -122.108658
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7584657958433182549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.veggiegardenchinese.com/",
+      "displayName": {
+        "text": "Veggie Garden",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/mountain-view/Veggie Garden Small.jpeg"
+    },
+    {
+      "id": "ChIJ47PYQLmwj4ARN49oMBKJyaY",
+      "formattedAddress": "2020 W El Camino Real, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.395322199999995,
+        "longitude": -122.0996111
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12018287791829454647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.solrestaurantsca.com/vive",
+      "displayName": {
+        "text": "ViVe Sol",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJtXbDmo63j4ARIXa0HZIzius",
+      "formattedAddress": "861 Leong Dr, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4059281,
+        "longitude": -122.06513259999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16972434848355743265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://wwbbq.com/",
+      "displayName": {
+        "text": "Wagon Wheel Barbecue",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ"
+    },
+    {
+      "id": "ChIJvRgkOzS3j4AR6-MWU-pSdQk",
+      "formattedAddress": "152 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3945114,
+        "longitude": -122.0787491
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=681542084986332139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.yugen-us.com/",
+      "displayName": {
+        "text": "Yugen Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJQ8nPjFW3j4ARcAaUg5pF-Ts",
+      "formattedAddress": "1477 Plymouth St suite c, Mountain View, CA 94043, USA",
+      "location": {
+        "latitude": 37.4162147,
+        "longitude": -122.07953139999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4321561847373497968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.zareensrestaurant.com/",
+      "displayName": {
+        "text": "Zareen's",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJj7V2HaG3j4AR_dDZM_SSLPw",
+      "formattedAddress": "246 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3933707,
+        "longitude": -122.07963889999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18171060174072697085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.zhangliangmtv.com/",
+      "displayName": {
+        "text": "Zhangliang Malatang",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJH3Br7Ey3j4ARqtmE95weKy0",
+      "formattedAddress": "134 Castro St, Mountain View, CA 94041, USA",
+      "location": {
+        "latitude": 37.3947376,
+        "longitude": -122.07883989999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3254728815221725610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "四季茶馆火锅 Four Seasons Tea House Hot Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJK8pvbKO3j4ARsm7k_GXRY8U",
+      "formattedAddress": "1350 Grant Rd #8, Mountain View, CA 94040, USA",
+      "location": {
+        "latitude": 37.3770484,
+        "longitude": -122.07666689999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14223442284130889394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hunanszechuan.com/",
+      "displayName": {
+        "text": "川湘小馆Hunan Szechuan Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    }
+  ],
   "Portola Valley, CA": [
     {
       "id": "opening_hibari",
