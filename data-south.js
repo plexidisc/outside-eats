@@ -11530,29 +11530,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJdQUQTjC3j4AR9dOfeAQJwus",
-      "formattedAddress": "101 E El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3797345,
-        "longitude": -122.07309369999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16988150659203191797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/chefmuskebab?igsh=NTc4MTIwNjQ2YQ==",
       "displayName": {
         "text": "Chefmus Kebab Turkish Food",
         "languageCode": "en"
       },
+      "formattedAddress": "101 E El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16988150659203191797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/chefmuskebab?igsh=NTc4MTIwNjQ2YQ==",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
-      "menuUrl": "https://www.chefmus.com/menu",
+      "menuUrl": "https://www.instagram.com/stories/highlights/18234517624306645/",
       "phone": "(650) 282-5900",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
