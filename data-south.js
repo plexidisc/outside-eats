@@ -11698,16 +11698,9 @@ var PREBAKED_DATA_SOUTH = {
       "keywords": [
         "burgers"
       ],
-      "menuUrl": "https://www.dasbierhauz.com/menu",
+      "menuUrl": "https://dasbierhauz.com/lunch-%26-dinner",
       "phone": "(650) 965-2337",
-      "hours": {
-        "Tuesday": "4:00 PM – 10:00 PM",
-        "Wednesday": "4:00 PM – 10:00 PM",
-        "Thursday": "4:00 PM – 10:00 PM",
-        "Friday": "12:00 PM – 11:00 PM",
-        "Saturday": "12:00 PM – 11:00 PM",
-        "Sunday": "12:00 PM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
