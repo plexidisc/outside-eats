@@ -11410,29 +11410,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJDQw_jjO3j4AREryI4CY4hEw",
-      "formattedAddress": "341 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.391917899999996,
-        "longitude": -122.07976089999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5513593583435299858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cafebaklava.online/",
       "displayName": {
         "text": "Cafe Baklava",
         "languageCode": "en"
       },
+      "formattedAddress": "341 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5513593583435299858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cafebaklava.online/",
+      "location": {},
       "cuisine": "Middle Eastern",
-      "menuUrl": "https://www.cafebaklava.com/menu",
+      "menuUrl": "https://www.cafebaklava.online/menu",
       "phone": "(650) 564-9052",
-      "hours": {
-        "Monday": "8:00 AM – 9:00 PM",
-        "Tuesday": "8:00 AM – 9:00 PM",
-        "Wednesday": "8:00 AM – 9:00 PM",
-        "Thursday": "8:00 AM – 9:00 PM",
-        "Friday": "8:00 AM – 9:00 PM",
-        "Saturday": "8:00 AM – 9:00 PM",
-        "Sunday": "8:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
