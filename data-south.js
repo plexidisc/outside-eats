@@ -11764,29 +11764,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJm7r-fwC3j4ARHBWUgHnO2Ec",
-      "formattedAddress": "1040 Grant Rd STE 100, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.378760199999995,
-        "longitude": -122.07565050000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5177114792905938204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eapingfresh.com/",
       "displayName": {
         "text": "Eaping Fresh Chinese",
         "languageCode": "en"
       },
+      "formattedAddress": "1040 Grant Rd STE 100, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5177114792905938204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eapingfresh.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "menuUrl": "https://www.eapingrestaurant.com/menu",
+      "menuUrl": "https://www.eapingfresh.com/9gar0j4y/eaping-fresh-chinese-mountain-view-94040/order-online?menu=All+Day+Menu&category=Mix+%26+Match+Box#menu-section",
       "phone": "(650) 964-8888",
-      "hours": {
-        "Monday": "11:00 AM – 9:30 PM",
-        "Tuesday": "11:00 AM – 9:30 PM",
-        "Wednesday": "11:00 AM – 9:30 PM",
-        "Thursday": "11:00 AM – 9:30 PM",
-        "Friday": "11:00 AM – 9:30 PM",
-        "Saturday": "11:00 AM – 9:30 PM",
-        "Sunday": "11:00 AM – 9:30 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
