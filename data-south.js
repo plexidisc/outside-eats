@@ -12154,31 +12154,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJNaa5cLSxj4ARn9KSY9gLH5U",
-      "formattedAddress": "2512 California St, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.404147699999996,
-        "longitude": -122.10677719999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10745320259940700831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://joyasupermarkets.com/",
       "displayName": {
         "text": "Joya Super Taqueria",
         "languageCode": "en"
       },
+      "formattedAddress": "2512 California St, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10745320259940700831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/mountain-view/Joya Tqqueria Small.jpeg",
+      "menuUrl": "https://www.restaurantlogin.com/ordering/restaurant/menu?restaurant_uid=ae59edd4-96d5-4b63-b70f-5df596a46bb5",
       "phone": "(650) 965-8210",
-      "hours": {
-        "Monday": "9:00 AM – 10:00 PM",
-        "Tuesday": "9:00 AM – 10:00 PM",
-        "Wednesday": "9:00 AM – 10:00 PM",
-        "Thursday": "9:00 AM – 10:00 PM",
-        "Friday": "9:00 AM – 10:00 PM",
-        "Saturday": "9:00 AM – 10:00 PM",
-        "Sunday": "9:00 AM – 10:00 PM"
-      },
-      "menuUrl": "https://www.joyasupertaqueria.com/menu",
-      "priceRange": "$"
+      "hours": "[object Object]",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Joya Tqqueria Small.jpeg"
     },
     {
       "id": "ChIJ2yPdP5y3j4AR3Xm38i9_-8M",
