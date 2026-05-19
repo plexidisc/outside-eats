@@ -11780,31 +11780,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJOTwEp5iwj4ARHHrOgn0mLto",
-      "formattedAddress": "530 Showers Dr #4, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.4020375,
-        "longitude": -122.1076114
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15721545669704317468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eightyeightsushi.com/",
       "displayName": {
         "text": "Eighty-Eight Sushi & Ramen",
         "languageCode": "en"
       },
+      "formattedAddress": "530 Showers Dr #4, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15721545669704317468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eightyeightsushi.com/",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/mountain-view/Eighty Eight Small.jpeg",
-      "menuUrl": "https://www.88sushiramen.com/menu",
+      "menuUrl": "https://www.eightyeightsushi.com/menu/",
       "phone": "(650) 564-9060",
-      "hours": {
-        "Monday": "11:00 AM – 9:30 PM",
-        "Tuesday": "11:00 AM – 9:30 PM",
-        "Wednesday": "11:00 AM – 9:30 PM",
-        "Thursday": "11:00 AM – 9:30 PM",
-        "Friday": "11:00 AM – 9:30 PM",
-        "Saturday": "11:00 AM – 9:30 PM",
-        "Sunday": "11:00 AM – 9:30 PM"
-      },
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eighty Eight Small.jpeg"
     },
     {
       "id": "ChIJS9wPPhC6j4AR-SeTDDlmO84",
