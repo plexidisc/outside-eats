@@ -11922,29 +11922,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJi93uLsywj4ARH81XgnsYctU",
-      "formattedAddress": "1245 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.387884799999995,
-        "longitude": -122.089045
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15380382596170501407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.gardenfreshca.com/",
       "displayName": {
         "text": "Garden Fresh",
         "languageCode": "en"
       },
+      "formattedAddress": "1245 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15380382596170501407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.gardenfreshca.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "menuUrl": "https://www.gardenfreshca.com/menu",
+      "menuUrl": "https://order.online/store/772?pickup=true&redirected=true",
       "phone": "(650) 965-8882",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
