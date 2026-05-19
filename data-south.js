@@ -11965,31 +11965,19 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJdfqG9riwj4AR7gGgAWgXlgc",
-      "formattedAddress": "1943 W El Camino Real, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.393369400000005,
-        "longitude": -122.09812219999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=546650140243395054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://gochifusiontapas.com/",
       "displayName": {
         "text": "Gochi Japanese Fusion Tapas",
         "languageCode": "en"
       },
+      "formattedAddress": "1943 W El Camino Real, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=546650140243395054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://gochifusiontapas.com/",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/mountain-view/Gochi Small.jpeg",
-      "menuUrl": "https://www.gochifusiontapas.com/menu",
       "phone": "(650) 960-1000",
-      "hours": {
-        "Monday": "5:00 PM – 10:00 PM",
-        "Tuesday": "5:00 PM – 10:00 PM",
-        "Wednesday": "5:00 PM – 10:00 PM",
-        "Thursday": "5:00 PM – 10:00 PM",
-        "Friday": "5:00 PM – 10:00 PM",
-        "Saturday": "5:00 PM – 10:00 PM",
-        "Sunday": "5:00 PM – 10:00 PM"
-      },
-      "priceRange": "$$$"
+      "hours": "[object Object]",
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Gochi Small.jpeg"
     },
     {
       "id": "ChIJhVI4gQ-6j4ARAeBWvkHGkbM",
