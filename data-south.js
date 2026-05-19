@@ -11830,29 +11830,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ9aXjGTS3j4AR2Gpu1hs3qU4",
-      "formattedAddress": "191 Castro St Level 2, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3938572,
-        "longitude": -122.07867259999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5668122198723685080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://eurekarestaurantgroup.com/blog/locations/mountain-view/",
       "displayName": {
         "text": "Eureka!",
         "languageCode": "en"
       },
+      "formattedAddress": "191 Castro St Level 2, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5668122198723685080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://eurekarestaurantgroup.com/blog/locations/mountain-view/",
+      "location": {},
       "cuisine": "American",
-      "menuUrl": "https://eurekarestaurantgroup.com/menu/mountain-view",
+      "menuUrl": "https://eurekarestaurantgroup.com/menu",
       "phone": "(650) 964-4812",
-      "hours": {
-        "Monday": "11:00 AM – 11:00 PM",
-        "Tuesday": "11:00 AM – 11:00 PM",
-        "Wednesday": "11:00 AM – 11:00 PM",
-        "Thursday": "11:00 AM – 11:00 PM",
-        "Friday": "11:00 AM – 11:00 PM",
-        "Saturday": "11:00 AM – 11:00 PM",
-        "Sunday": "11:00 AM – 11:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
