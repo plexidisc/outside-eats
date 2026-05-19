@@ -12062,28 +12062,17 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJwRZVJUi3j4ARRDXWLyu0pQ4",
-      "formattedAddress": "430 Moffett Blvd, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.399581399999995,
-        "longitude": -122.0744431
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1055447785267410244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "I’l Portale Italian Restaurant by Los Portales",
         "languageCode": "en"
       },
+      "formattedAddress": "430 Moffett Blvd, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1055447785267410244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Italian",
-      "menuUrl": "https://www.ilportale.com/menu",
       "phone": "(650) 962-5870",
-      "hours": {
-        "Tuesday": "11:30 AM – 9:00 PM",
-        "Wednesday": "11:30 AM – 9:00 PM",
-        "Thursday": "11:30 AM – 9:00 PM",
-        "Friday": "11:30 AM – 9:00 PM",
-        "Saturday": "11:30 AM – 9:00 PM",
-        "Sunday": "11:30 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
