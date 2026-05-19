@@ -11732,29 +11732,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ1ZLhDTS3j4ARx3Whbv-Js8s",
-      "formattedAddress": "235 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3933697,
-        "longitude": -122.0790841
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14678227340696319431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://dongiovannis.com/",
       "displayName": {
         "text": "Don Giovanni",
         "languageCode": "en"
       },
+      "formattedAddress": "235 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14678227340696319431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://dongiovannis.com/",
+      "location": {},
       "cuisine": "Italian",
-      "menuUrl": "https://www.dongiovannimv.com/menu",
+      "menuUrl": "https://dongiovannis.com/mountain-view-don-giovanni-food-menu-173505",
       "phone": "(650) 961-9749",
-      "hours": {
-        "Monday": "11:30 AM – 9:30 PM",
-        "Tuesday": "11:30 AM – 9:30 PM",
-        "Wednesday": "11:30 AM – 9:30 PM",
-        "Thursday": "11:30 AM – 9:30 PM",
-        "Friday": "11:30 AM – 9:30 PM",
-        "Saturday": "11:30 AM – 9:30 PM",
-        "Sunday": "11:30 AM – 9:30 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
