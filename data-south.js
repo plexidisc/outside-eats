@@ -12013,29 +12013,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJAQaKvt22j4ARN-qH7yl2wH8",
-      "formattedAddress": "820 E El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3772187,
-        "longitude": -122.06269939999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9205487560829692471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://himalayan-kitchen.com/?utm_source=gmb&utm_medium=websitebutton&utm_campaign=website",
       "displayName": {
         "text": "Himalayan Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "820 E El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9205487560829692471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://himalayan-kitchen.com/?utm_source=gmb&utm_medium=websitebutton&utm_campaign=website",
+      "location": {},
       "cuisine": "Other",
-      "menuUrl": "https://www.himalayankitchenmv.com/menu",
+      "menuUrl": "https://himalayan-kitchen.com/menu?utm_campaign=website&utm_medium=websitebutton&utm_source=gmb",
       "phone": "(650) 969-7250",
-      "hours": {
-        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
