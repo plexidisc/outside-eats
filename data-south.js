@@ -11227,31 +11227,19 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJHfE7_6Oxj4ARfJFUHF8hdbQ",
-      "formattedAddress": "2339 California St, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.402059799999996,
-        "longitude": -122.10567499999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13003336191483089276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://anatoliafire.com/",
       "displayName": {
         "text": "Anatolia Fire Food Truck",
         "languageCode": "en"
       },
+      "formattedAddress": "2339 California St, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13003336191483089276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/mountain-view/Anatolia Fire Food Truck Small.jpeg",
-      "menuUrl": "https://www.anatoliafire.com/menu",
       "phone": "(650) 703-4532",
-      "hours": {
-        "Monday": "11:00 AM – 8:00 PM",
-        "Tuesday": "11:00 AM – 8:00 PM",
-        "Wednesday": "11:00 AM – 8:00 PM",
-        "Thursday": "11:00 AM – 8:00 PM",
-        "Friday": "11:00 AM – 8:00 PM",
-        "Saturday": "11:00 AM – 8:00 PM",
-        "Sunday": "11:00 AM – 8:00 PM"
-      },
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Anatolia Fire Food Truck Small.jpeg"
     },
     {
       "id": "ChIJIwoDVCi3j4ARI5JLg7gyjCQ",
