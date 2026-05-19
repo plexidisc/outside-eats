@@ -11814,27 +11814,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJQSVQrde2j4AREiEf9c2ce5o",
-      "formattedAddress": "1350 Grant Rd, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3767628,
-        "longitude": -122.07633089999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11131663312370999570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eriksdelicafe.com/",
       "displayName": {
         "text": "Erik's DeliCafe of Mountain View - Grant Rd.",
         "languageCode": "en"
       },
+      "formattedAddress": "1350 Grant Rd, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11131663312370999570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eriksdelicafe.com/",
+      "location": {},
       "cuisine": "American",
-      "menuUrl": "https://www.eriksdelicafe.com/menu",
+      "menuUrl": "https://www.eriksdelicafe.com/food",
       "phone": "(650) 965-9631",
-      "hours": {
-        "Monday": "10:00 AM – 5:00 PM",
-        "Tuesday": "10:00 AM – 5:00 PM",
-        "Wednesday": "10:00 AM – 5:00 PM",
-        "Thursday": "10:00 AM – 5:00 PM",
-        "Friday": "10:00 AM – 5:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$"
     },
     {
