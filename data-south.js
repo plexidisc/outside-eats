@@ -12038,7 +12038,7 @@ var PREBAKED_DATA_SOUTH = {
       "websiteUri": "https://www.eatathummus.com/mountain-view",
       "location": {},
       "cuisine": "Greek/Mediterranean",
-      "menuUrl": "https://www.hummuskitchen.com/menu",
+      "menuUrl": "https://static1.squarespace.com/static/60d22470924e3f7d5c34d24a/t/694ec7ca899c0114fc49d207/1766770634445/TRIFOLD+MENU_MOUNTAIN+VIEW+%283%29.pdf",
       "phone": "(650) 964-9999",
       "hours": "[object Object]",
       "priceRange": "$$"
