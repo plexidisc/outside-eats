@@ -12738,18 +12738,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ5Z7q1de2j4ARGQo7GtP9k3Q",
-      "formattedAddress": "1040 Grant Rd # 310, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3796618,
-        "longitude": -122.07432779999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8400336813096110617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://nypizzamv.com/",
       "displayName": {
         "text": "New York Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "formattedAddress": "1040 Grant Rd # 310, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8400336813096110617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nypizzamv.com/",
+      "location": {},
+      "cuisine": "Pizza",
+      "menuUrl": "https://order.nypizzamv.com/#/"
     },
     {
       "id": "ChIJxfnvDne3j4ARn9NTtNXBXEM",
