@@ -12622,29 +12622,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJe1fseW-3j4ARb0chTXBXxkA",
-      "formattedAddress": "425 N Whisman Rd, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4008804,
-        "longitude": -122.0578043
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4667514203658078063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.doordash.com/store/momo-king-mountain-view-911870/en-US",
       "displayName": {
         "text": "Momo King- Mountain View",
         "languageCode": "en"
       },
+      "formattedAddress": "425 N Whisman Rd, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4667514203658078063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.doordash.com/store/momo-king-mountain-view-911870/en-US",
+      "location": {},
       "cuisine": "Indian",
+      "menuUrl": "https://www.doordash.com/store/%5Bdnu%5D%5B%5Bcoo%5D%5D-mountain-view-911870/1329055/",
       "phone": "(650) 938-4949",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.momokingus.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
