@@ -12689,7 +12689,10 @@ var PREBAKED_DATA_SOUTH = {
       "googleMapsUri": "https://maps.google.com/?cid=7347097463339135919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "location": {},
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "keywords": [
+        "food truck"
+      ]
     },
     {
       "id": "ChIJg1ayR7iwj4ARBsM83DizgKA",
