@@ -12203,29 +12203,17 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJp6_gcIK3j4ARGYrA3vLG4OE",
-      "formattedAddress": "859 Villa St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3939691,
-        "longitude": -122.0797429
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16276227799738518041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sushi-katsu-mv.com/",
       "displayName": {
         "text": "Katsu",
         "languageCode": "en"
       },
+      "formattedAddress": "859 Villa St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16276227799738518041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sushi-katsu-mv.com/",
+      "location": {},
       "cuisine": "Japanese",
       "phone": "(650) 282-5111",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.katsumv.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
