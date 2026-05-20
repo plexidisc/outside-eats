@@ -12323,29 +12323,17 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ1aqkYgCxj4ARoH9RI07fXEQ",
-      "formattedAddress": "586 Escuela Ave, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.394793,
-        "longitude": -122.0954982
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4926057619129466784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/lacuevamexgrub?igsh=MzRlODBiNWFlZA==",
       "displayName": {
         "text": "La Cueva Mexican Grub",
         "languageCode": "en"
       },
+      "formattedAddress": "586 Escuela Ave, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4926057619129466784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/lacuevamexgrub?igsh=MzRlODBiNWFlZA==",
+      "location": {},
       "cuisine": "Mexican",
       "phone": "(650) 938-4141",
-      "hours": {
-        "Monday": "10:00 AM – 9:00 PM",
-        "Tuesday": "10:00 AM – 9:00 PM",
-        "Wednesday": "10:00 AM – 9:00 PM",
-        "Thursday": "10:00 AM – 9:00 PM",
-        "Friday": "10:00 AM – 9:00 PM",
-        "Saturday": "10:00 AM – 9:00 PM",
-        "Sunday": "10:00 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.lacuevamexicangrub.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$"
     },
     {
