@@ -13629,21 +13629,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "American"
     },
     {
-      "id": "ChIJy-kI0EC3j4ARwGKPY8qqp-8",
-      "formattedAddress": "1040 Grant Rd, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3795006,
-        "longitude": -122.07410050000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17268959082405913280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.habitburger.com/locations/mountain-view/",
-      "displayName": {
-        "text": "The Habit Burger Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJiU9rHAC3j4ARq-cnnScAykQ",
       "formattedAddress": "570 N Shoreline Blvd J, Mountain View, CA 94043, USA",
       "location": {
