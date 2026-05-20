@@ -12513,29 +12513,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ-0RVcTS3j4ARDEqD2bNEFrc",
-      "formattedAddress": "288 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3928448,
-        "longitude": -122.0797636
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13192807697667541516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mantraindiausa.com/",
       "displayName": {
         "text": "Mantra India Mountain View",
         "languageCode": "en"
       },
+      "formattedAddress": "288 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13192807697667541516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mantraindiausa.com/",
+      "location": {},
       "cuisine": "Indian",
+      "menuUrl": "https://www.mantraindiausa.com/mountain-view-menus/",
       "phone": "(650) 961-5550",
-      "hours": {
-        "Monday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
-        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM"
-      },
-      "menuUrl": "https://www.mantraindia.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
