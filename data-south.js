@@ -12792,18 +12792,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJsRJ_JTS3j4AR9RJPR8J3GB8",
-      "formattedAddress": "126 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.394741499999995,
-        "longitude": -122.07860149999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2240672490920547061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://orenshummus.com/",
       "displayName": {
         "text": "Oren's Hummus",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "formattedAddress": "126 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2240672490920547061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orenshummus.com/",
+      "location": {},
+      "cuisine": "Middle Eastern",
+      "menuUrl": "https://orenshummus.com/lunch-dinner-menu/"
     },
     {
       "id": "ChIJ4fH1ZAC3j4AR1plGZKh_FZk",
