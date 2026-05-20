@@ -12681,17 +12681,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJm7TnPMywj4ARr7OAYDci9mU",
-      "formattedAddress": "1288 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.388694,
-        "longitude": -122.0882837
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7347097463339135919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
-        "text": "Namastee Nepal Food Truck",
+        "text": "Namastee Nepal (food truck)",
         "languageCode": "en"
       },
+      "formattedAddress": "1288 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7347097463339135919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Indian"
     },
     {
