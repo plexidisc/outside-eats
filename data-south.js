@@ -12529,29 +12529,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJwdl4xzK3j4ARjl95YHMcOIk",
-      "formattedAddress": "650 Castro St #180, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3882171,
-        "longitude": -122.0826644
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9887684263757307790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.toasttab.com/online/masa-sushi-japan",
       "displayName": {
         "text": "Masa Sushi Japan",
         "languageCode": "en"
       },
+      "formattedAddress": "650 Castro St #180, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9887684263757307790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.toasttab.com/online/masa-sushi-japan",
+      "location": {},
       "cuisine": "Japanese",
+      "menuUrl": "https://order.toasttab.com/online/masa-sushi-japan",
       "phone": "(650) 969-9998",
-      "hours": {
-        "Monday": "11:30 AM – 9:00 PM",
-        "Tuesday": "11:30 AM – 9:00 PM",
-        "Wednesday": "11:30 AM – 9:00 PM",
-        "Thursday": "11:30 AM – 9:00 PM",
-        "Friday": "11:30 AM – 9:00 PM",
-        "Saturday": "11:30 AM – 9:00 PM",
-        "Sunday": "11:30 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.masasushijapan.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
