@@ -11905,6 +11905,21 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
+      "id": "ChIJH3Br7Ey3j4ARqtmE95weKy0",
+      "displayName": {
+        "text": "Four Seasons Tea House Hot Pot",
+        "languageCode": "en"
+      },
+      "formattedAddress": "134 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3254728815221725610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Chinese",
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "description": "Chinese hot pot restaurant with individual and shared pot options, tea house atmosphere, and a broad selection of broths, meats, and vegetables."
+    },
+    {
       "id": "ChIJ57sfDTS3j4ARrjiqh6-gZLQ",
       "displayName": {
         "text": "Fu Lam Mum",
@@ -14662,43 +14677,17 @@ var PREBAKED_DATA_SOUTH = {
       "description": "Sichuan mala hot pot chain where you build your own bowl of spicy broth, proteins, and vegetables, weighed and priced by the gram in fast-casual format."
     },
     {
-      "id": "ChIJH3Br7Ey3j4ARqtmE95weKy0",
+      "id": "ChIJK8pvbKO3j4ARsm7k_GXRY8U",
       "displayName": {
-        "text": "Four Seasons Tea House Hot Pot",
+        "text": "Hunan Szechuan Cuisine",
         "languageCode": "en"
       },
-      "formattedAddress": "134 Castro St, Mountain View, CA 94041, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=3254728815221725610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
+      "formattedAddress": "1350 Grant Rd #8, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14223442284130889394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hunanszechuan.com/",
       "location": {},
       "cuisine": "Chinese",
       "hours": "[object Object]",
-      "priceRange": "$$",
-      "description": "Chinese hot pot restaurant with individual and shared pot options, tea house atmosphere, and a broad selection of broths, meats, and vegetables."
-    },
-    {
-      "id": "ChIJK8pvbKO3j4ARsm7k_GXRY8U",
-      "formattedAddress": "1350 Grant Rd #8, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3770484,
-        "longitude": -122.07666689999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14223442284130889394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.hunanszechuan.com/",
-      "displayName": {
-        "text": "川湘小馆Hunan Szechuan Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "hours": {
-        "Monday": "11:00 AM - 9:30 PM",
-        "Tuesday": "11:00 AM - 9:30 PM",
-        "Wednesday": "11:00 AM - 9:30 PM",
-        "Thursday": "11:00 AM - 9:30 PM",
-        "Friday": "11:00 AM - 9:30 PM",
-        "Saturday": "11:00 AM - 9:30 PM",
-        "Sunday": "11:00 AM - 9:30 PM"
-      },
       "priceRange": "$",
       "description": "Hunan-Sichuan restaurant with authentic bold and spicy preparations including mala dishes, dry-braised fish, and regional Chinese classics."
     }
