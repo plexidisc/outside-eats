@@ -12605,31 +12605,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJbdRr8Juwj4ARRFNrtLQtGjs",
-      "formattedAddress": "2590 W El Camino Real #13, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.4013189,
-        "longitude": -122.1129728
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4258766651776521028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://mizusbg.com/",
       "displayName": {
         "text": "Mizu Sushi Bar & Grill",
         "languageCode": "en"
       },
+      "formattedAddress": "2590 W El Camino Real #13, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4258766651776521028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mizusbg.com/mtnview/",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/mountain-view/Mizu Small.jpeg",
+      "menuUrl": "https://mizusbg.com/mtnview/mtn-dinner-menu/",
       "phone": "(650) 964-2227",
-      "hours": {
-        "Monday": "11:30 AM – 9:00 PM",
-        "Tuesday": "11:30 AM – 9:00 PM",
-        "Wednesday": "11:30 AM – 9:00 PM",
-        "Thursday": "11:30 AM – 9:00 PM",
-        "Friday": "11:30 AM – 9:00 PM",
-        "Saturday": "11:30 AM – 9:00 PM",
-        "Sunday": "11:30 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.mizusushibar.com/menu",
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mizu Small.jpeg"
     },
     {
       "id": "ChIJ6SYoDzS3j4ARUXlywN-MaHg",
