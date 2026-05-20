@@ -12710,18 +12710,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJs6VVKiK3j4ARv41w-9SHJJs",
-      "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3832604,
-        "longitude": -122.078283
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11179209523861687743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://narfood.com/",
       "displayName": {
         "text": "NAR Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "formattedAddress": "286 W El Camino Real, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11179209523861687743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://narfood.com/",
+      "location": {},
+      "cuisine": "Greek/Mediterranean",
+      "menuUrl": "https://narfood.com/menu"
     },
     {
       "id": "ChIJyyoIiTO3j4ARtwaLR_CQKiY",
