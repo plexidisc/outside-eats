@@ -12469,29 +12469,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJE4n0FDS3j4ARFOGPKzVKJHg",
-      "formattedAddress": "212 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3937182,
-        "longitude": -122.0793244
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8657125975937507604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.maisonalyzee.com/",
       "displayName": {
         "text": "Maison Alyzée",
         "languageCode": "en"
       },
+      "formattedAddress": "212 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8657125975937507604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.maisonalyzee.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
+      "menuUrl": "https://fba3da50-13d9-410c-a543-35148fd6709e.filesusr.com/ugd/15a3a8_31de621341574a4c9d89d75a81e4fbfe.pdf",
       "phone": "(650) 282-5454",
-      "hours": {
-        "Monday": "8:00 AM – 5:00 PM",
-        "Tuesday": "8:00 AM – 5:00 PM",
-        "Wednesday": "8:00 AM – 5:00 PM",
-        "Thursday": "8:00 AM – 5:00 PM",
-        "Friday": "8:00 AM – 5:00 PM",
-        "Saturday": "8:00 AM – 5:00 PM",
-        "Sunday": "8:00 AM – 5:00 PM"
-      },
-      "menuUrl": "https://www.maisonalyzee.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
