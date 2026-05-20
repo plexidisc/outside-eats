@@ -12453,29 +12453,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJr2AqoJm3j4ARFMnM43xElBQ",
-      "formattedAddress": "383 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3913916,
-        "longitude": -122.0802018
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1482885480500218132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ludwigsmv.com/",
       "displayName": {
         "text": "Ludwigs Biergarten",
         "languageCode": "en"
       },
+      "formattedAddress": "383 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1482885480500218132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ludwigsmv.com/",
+      "location": {},
       "cuisine": "German/Austrian",
+      "menuUrl": "https://order.spoton.com/so-ludwigs-biergarten-22752/mountain-view-ca/67bf78f0c7572fec4778307d/dinein",
       "phone": "(650) 695-1614",
-      "hours": {
-        "Monday": "11:00 AM – 10:00 PM",
-        "Tuesday": "11:00 AM – 10:00 PM",
-        "Wednesday": "11:00 AM – 10:00 PM",
-        "Thursday": "11:00 AM – 10:00 PM",
-        "Friday": "11:00 AM – 10:00 PM",
-        "Saturday": "11:00 AM – 10:00 PM",
-        "Sunday": "11:00 AM – 10:00 PM"
-      },
-      "menuUrl": "https://www.ludwigsbiergarten.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
