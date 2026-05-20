@@ -12171,29 +12171,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ2yPdP5y3j4AR3Xm38i9_-8M",
-      "formattedAddress": "124 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.394799,
-        "longitude": -122.0786176
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14122020900462623197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pos.chowbus.com/online-ordering/store/HuaXiWang-Mountain-View/14707",
       "displayName": {
         "text": "Joyous Cuisine 花溪王 山野美食",
         "languageCode": "en"
       },
+      "formattedAddress": "124 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14122020900462623197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/HuaXiWang-Mountain-View/14707",
+      "location": {},
       "cuisine": "Chinese",
+      "menuUrl": "https://www.joyouscuisine.com/9i3910j4/joyous-cuisine--mountain-view-94041/order-online?menu=All+Day+Menu&category=Vegetarian+Menu+%28with+Eggs+%26+Tofu%29#menu-section",
       "phone": "(650) 282-5292",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 10:00 PM",
-        "Saturday": "11:00 AM – 10:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.joyouscuisine.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
