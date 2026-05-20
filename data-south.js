@@ -12420,31 +12420,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJhzHBsAe6j4ARvq9oi8u-bqQ",
-      "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4141544,
-        "longitude": -122.093488
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11848617451084885950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://losaltostaqueria.com/",
       "displayName": {
         "text": "Los Altos Taqueria Mexican Inc",
         "languageCode": "en"
       },
+      "formattedAddress": "2105 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11848617451084885950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://losaltostaqueria.com/",
+      "location": {},
       "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/mountain-view/Los Altos Taqueria Small.jpeg",
+      "menuUrl": "https://online-ordering.innowi.com/branch/losaltos",
       "phone": "(650) 948-9999",
-      "hours": {
-        "Monday": "10:00 AM – 10:00 PM",
-        "Tuesday": "10:00 AM – 10:00 PM",
-        "Wednesday": "10:00 AM – 10:00 PM",
-        "Thursday": "10:00 AM – 10:00 PM",
-        "Friday": "10:00 AM – 10:00 PM",
-        "Saturday": "10:00 AM – 10:00 PM",
-        "Sunday": "10:00 AM – 10:00 PM"
-      },
-      "menuUrl": "https://www.losaltostaqueria.com/menu",
-      "priceRange": "$"
+      "hours": "[object Object]",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Los Altos Taqueria Small.jpeg"
     },
     {
       "id": "ChIJFdt9na23j4ARJAc5rPXRHkE",
