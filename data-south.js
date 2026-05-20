@@ -12751,18 +12751,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJxfnvDne3j4ARn9NTtNXBXEM",
-      "formattedAddress": "298 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3927269,
-        "longitude": -122.07982150000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4853967621996139423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
       "displayName": {
         "text": "Nick the Greek",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "formattedAddress": "298 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4853967621996139423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
+      "location": {},
+      "cuisine": "Greek/Mediterranean",
+      "menuUrl": "https://www.nickthegreek.com/wp-content/uploads/2025/09/NTG-To-Go-Menu-2026-V2.pdf"
     },
     {
       "id": "ChIJtwxHxXS3j4ARf6S4Vj8p8lY",
