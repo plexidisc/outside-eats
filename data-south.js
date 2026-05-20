@@ -12218,29 +12218,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJuyy5k-i3j4ARXY_xqSqZRpg",
-      "formattedAddress": "225 E Middlefield Rd, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.3966424,
-        "longitude": -122.0615802
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10972625950653648733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.khaokang.com/",
       "displayName": {
         "text": "Khao Kang Thai Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "225 E Middlefield Rd, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10972625950653648733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.khaokang.com/",
+      "location": {},
       "cuisine": "Thai",
+      "menuUrl": "https://www.khaokang.com/s/order#P6WPSAUGY3YIRPFB554OC7N3",
       "phone": "(650) 960-7100",
-      "hours": {
-        "Monday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Tuesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Wednesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Thursday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Friday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Saturday": "12:00 PM – 3:00 PM, 5:00 PM – 9:00 PM",
-        "Sunday": "12:00 PM – 3:00 PM, 5:00 PM – 9:00 PM"
-      },
-      "menuUrl": "https://www.khaokangthaikitchen.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
