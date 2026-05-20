@@ -12589,29 +12589,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJu3a5ugK3j4AR6uq-nikkeUo",
-      "formattedAddress": "841 Villa St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.393890400000004,
-        "longitude": -122.079508
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5366360192164227818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mifen101go.site/",
       "displayName": {
         "text": "Mifen101幺零幺（原花溪王）",
         "languageCode": "en"
       },
+      "formattedAddress": "841 Villa St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5366360192164227818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mifen101go.site/",
+      "location": {},
       "cuisine": "Chinese",
+      "menuUrl": "https://mifen101go.twupro.com/",
       "phone": "(650) 282-5099",
-      "hours": {
-        "Monday": "11:00 AM – 9:30 PM",
-        "Tuesday": "11:00 AM – 9:30 PM",
-        "Wednesday": "11:00 AM – 9:30 PM",
-        "Thursday": "11:00 AM – 9:30 PM",
-        "Friday": "11:00 AM – 9:30 PM",
-        "Saturday": "11:00 AM – 9:30 PM",
-        "Sunday": "11:00 AM – 9:30 PM"
-      },
-      "menuUrl": "https://www.mifen101.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
