@@ -12234,31 +12234,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJl6WpAwCxj4ARGS8burVhH-Q",
-      "formattedAddress": "1962 El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.394429699999996,
-        "longitude": -122.0981737
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16437964598064918297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://kunjiptofu.com/",
       "displayName": {
         "text": "Kunjip Tofu",
         "languageCode": "en"
       },
+      "formattedAddress": "1962 El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16437964598064918297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kunjiptofu.com/",
+      "location": {},
       "cuisine": "Korean",
-      "photoUrl": "images/restaurant-photos/mountain-view/Kunjip Korean Restaurant Small.jpeg",
+      "menuUrl": "https://kunjiptofu.com/menu/",
       "phone": "(650) 988-4588",
-      "hours": {
-        "Monday": "11:00 AM – 9:30 PM",
-        "Tuesday": "11:00 AM – 9:30 PM",
-        "Wednesday": "11:00 AM – 9:30 PM",
-        "Thursday": "11:00 AM – 9:30 PM",
-        "Friday": "11:00 AM – 9:30 PM",
-        "Saturday": "11:00 AM – 9:30 PM",
-        "Sunday": "11:00 AM – 9:30 PM"
-      },
-      "menuUrl": "https://www.kunjiprestaurant.com/menu",
-      "priceRange": "$$"
+      "hours": "[object Object]",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Kunjip Korean Restaurant Small.jpeg"
     },
     {
       "id": "ChIJ95RyX2Gxj4ARfNp2V6qcvPM",
