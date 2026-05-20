@@ -12621,33 +12621,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/mountain-view/Mizu Small.jpeg"
     },
     {
-      "id": "ChIJ6SYoDzS3j4ARUXlywN-MaHg",
-      "formattedAddress": "241 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3931945,
-        "longitude": -122.07905419999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8676339574763583825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mollysmountainview.com/",
-      "displayName": {
-        "text": "Molly Magees",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(650) 965-7005",
-      "hours": {
-        "Monday": "11:00 AM – 2:00 AM",
-        "Tuesday": "11:00 AM – 2:00 AM",
-        "Wednesday": "11:00 AM – 2:00 AM",
-        "Thursday": "11:00 AM – 2:00 AM",
-        "Friday": "11:00 AM – 2:00 AM",
-        "Saturday": "11:00 AM – 2:00 AM",
-        "Sunday": "11:00 AM – 2:00 AM"
-      },
-      "menuUrl": "https://www.mollymagees.com",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJe1fseW-3j4ARb0chTXBXxkA",
       "formattedAddress": "425 N Whisman Rd, Mountain View, CA 94043, USA",
       "location": {
