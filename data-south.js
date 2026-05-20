@@ -12187,29 +12187,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJL5hnM2u3j4ARQDJhTeN5LIw",
-      "formattedAddress": "743 W Dana St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3922257,
-        "longitude": -122.07921039999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10100582081447932480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Kakaroto Japanese Restaurant",
         "languageCode": "en"
       },
+      "formattedAddress": "743 W Dana St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10100582081447932480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kakarototogo.com/",
+      "location": {},
       "cuisine": "Japanese",
+      "menuUrl": "https://kakarototogo.com/order/",
       "phone": "(650) 964-9600",
-      "hours": {
-        "Monday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Tuesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Wednesday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Thursday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Friday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Saturday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Sunday": "11:30 AM – 2:00 PM, 5:00 PM – 9:00 PM"
-      },
-      "menuUrl": "https://www.kakarotosushi.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
