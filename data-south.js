@@ -13394,7 +13394,10 @@ var PREBAKED_DATA_SOUTH = {
       "googleMapsUri": "https://maps.google.com/?cid=14106725378893672341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "location": {},
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ]
     },
     {
       "id": "ChIJN_k8v0y3j4ARU5I-qHFv09U",
