@@ -12665,28 +12665,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ0XCu-J63j4ARBue4YjjbOLM",
-      "formattedAddress": "357 Castro St Unit 3A, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3917899,
-        "longitude": -122.0800516
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12914312966705833734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mrbaokitchen.com/",
       "displayName": {
         "text": "Mr. Bao Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "357 Castro St Unit 3A, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12914312966705833734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mrbaokitchen.com/",
+      "location": {},
       "cuisine": "Chinese",
+      "menuUrl": "https://order.mealkeyway.com/customer/release/index?mid=7a6b37444f4a42376e6877367357636d626e6a6234673d3d#/main",
       "phone": "(650) 282-5026",
-      "hours": {
-        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
-        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
-        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
-        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
-        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
-        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM"
-      },
-      "menuUrl": "https://www.mrbaokitchen.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
