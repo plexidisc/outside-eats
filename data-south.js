@@ -12848,18 +12848,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJoeZn_jW7j4ARCGcxQXxyXJ0",
-      "formattedAddress": "2135 Old Middlefield Way, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.414216599999996,
-        "longitude": -122.0936237
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11339063839807334152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.paperplatez.com/",
       "displayName": {
-        "text": "Paper Platez",
+        "text": "Paper Platez (food truck)",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "formattedAddress": "2135 Old Middlefield Way, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11339063839807334152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.paperplatez.com/",
+      "location": {},
+      "cuisine": "Other",
+      "keywords": [
+        "food truck"
+      ]
     },
     {
       "id": "ChIJoVSH-z-3j4ARQbbHtlHT4Ds",
