@@ -12437,29 +12437,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJFdt9na23j4ARJAc5rPXRHkE",
-      "formattedAddress": "1040 Grant Rd Suite #305, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3797193,
-        "longitude": -122.074444
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4692418714853246756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.toasttab.com/local/order/los-amigos-mountainview/r-b3547295-bcda-415e-a1fa-d056c533cea4",
       "displayName": {
         "text": "Los Amigos",
         "languageCode": "en"
       },
+      "formattedAddress": "1040 Grant Rd Suite #305, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4692418714853246756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.toasttab.com/local/order/los-amigos-mountainview/r-b3547295-bcda-415e-a1fa-d056c533cea4",
+      "location": {},
       "cuisine": "Mexican",
+      "menuUrl": "https://www.toasttab.com/local/order/los-amigos-mountainview/r-b3547295-bcda-415e-a1fa-d056c533cea4",
       "phone": "(650) 965-0011",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.losamigosmv.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
