@@ -12805,18 +12805,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ4fH1ZAC3j4AR1plGZKh_FZk",
-      "formattedAddress": "216 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3936944,
-        "longitude": -122.07940590000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11030863223527479766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://ox9noodles.com/",
       "displayName": {
         "text": "Ox 9 Lanzhou Handpulled Noodles",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "formattedAddress": "216 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11030863223527479766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://ox9noodles.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "menuUrl": "https://www.39miles.com/p/02625285/e1BaOjA5Njg4NzU5fQ"
     },
     {
       "id": "ChIJCYQfo56wj4AR3ow1p23mAqA",
