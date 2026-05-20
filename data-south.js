@@ -12356,29 +12356,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJlXOKcDC3j4ARzal-5j-p-FY",
-      "formattedAddress": "240 Villa St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3916289,
-        "longitude": -122.0728897
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6266944973401139661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.lafiestamexicancuisine.com/",
       "displayName": {
         "text": "La Fiesta",
         "languageCode": "en"
       },
+      "formattedAddress": "240 Villa St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6266944973401139661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lafiestamexicancuisine.com/",
+      "location": {},
       "cuisine": "Mexican",
+      "menuUrl": "https://www.lafiestamexicancuisine.com/menu-copy",
       "phone": "(650) 967-6649",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.lafiestamv.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
