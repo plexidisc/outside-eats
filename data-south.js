@@ -12779,18 +12779,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJZSOjJjS3j4AR1laX4fkSz08",
-      "formattedAddress": "135 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3944747,
-        "longitude": -122.0782518
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5750836113616361174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://cafeolympus.com/",
       "displayName": {
         "text": "Olympus Caffe & Bakery",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "formattedAddress": "135 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5750836113616361174&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cafeolympus.com/",
+      "location": {},
+      "cuisine": "Cafe/Bakery",
+      "menuUrl": "https://cafeolympus.com/lunch-%26-dinner"
     },
     {
       "id": "ChIJsRJ_JTS3j4AR9RJPR8J3GB8",
