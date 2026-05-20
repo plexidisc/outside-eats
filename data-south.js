@@ -12372,29 +12372,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJZ54APTS3j4ARBYZD956MHq8",
-      "formattedAddress": "186 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3941611,
-        "longitude": -122.0790833
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12618677820319827461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.lafontainerestaurant.com/",
       "displayName": {
         "text": "La Fontaine Mountain View",
         "languageCode": "en"
       },
+      "formattedAddress": "186 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12618677820319827461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.lafontainerestaurant.com/mountain-view-home",
+      "location": {},
       "cuisine": "French/Italian",
+      "menuUrl": "https://www.lafontainerestaurant.com/mountain-view-menu",
       "phone": "(650) 967-9090",
-      "hours": {
-        "Monday": "11:30 AM – 9:00 PM",
-        "Tuesday": "11:30 AM – 9:00 PM",
-        "Wednesday": "11:30 AM – 9:00 PM",
-        "Thursday": "11:30 AM – 9:00 PM",
-        "Friday": "11:30 AM – 9:00 PM",
-        "Saturday": "11:30 AM – 9:00 PM",
-        "Sunday": "11:30 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.lafontainerestaurant.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$$"
     },
     {
