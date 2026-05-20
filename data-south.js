@@ -13386,17 +13386,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJD0Fxqb6wj4ARle_x0P0nxcM",
-      "formattedAddress": "2082 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3956471,
-        "longitude": -122.1008153
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14106725378893672341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
-        "text": "Super Tacos El Conrro Food Truck",
+        "text": "Super Tacos El Conrro (food truck)",
         "languageCode": "en"
       },
+      "formattedAddress": "2082 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14106725378893672341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Mexican"
     },
     {
