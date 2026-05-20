@@ -13027,18 +13027,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ--MPCaWwj4ARyYAEuYhsf0E",
-      "formattedAddress": "122 N Rengstorff Ave, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4043704,
-        "longitude": -122.09754939999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4719610268983001289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://rinconsabrosorestaurant.com/",
       "displayName": {
         "text": "Rincon Sabroso Restaurant",
         "languageCode": "en"
       },
+      "formattedAddress": "122 N Rengstorff Ave, Mountain View, CA 94043, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4719610268983001289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rinconsabroso.net/",
+      "location": {},
       "cuisine": "Other",
+      "menuUrl": "https://rinconsabroso.net/our-menu",
       "photoUrl": "images/restaurant-photos/mountain-view/Rincon Sabroso Small.jpeg"
     },
     {
