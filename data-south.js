@@ -12818,18 +12818,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJCYQfo56wj4AR3ow1p23mAqA",
-      "formattedAddress": "545 San Antonio Rd Suite 34, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.4031145,
-        "longitude": -122.11156979999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11530031354653019358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pacificcatch.com/",
       "displayName": {
         "text": "Pacific Catch",
         "languageCode": "en"
       },
+      "formattedAddress": "545 San Antonio Rd Suite 34, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11530031354653019358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pacificcatch.com/location/mountain-view/",
+      "location": {},
       "cuisine": "Seafood",
+      "menuUrl": "https://www.pacificcatch.com/menu/",
       "photoUrl": "images/restaurant-photos/mountain-view/Pacific Catch Small.jpeg"
     },
     {
