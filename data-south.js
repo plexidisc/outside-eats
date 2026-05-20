@@ -12338,29 +12338,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJD-RI2SK3j4ARPlV6OjQBSW8",
-      "formattedAddress": "1288 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3886659,
-        "longitude": -122.0886237
+      "displayName": {
+        "text": "La Familia Taqueria (food truck)",
+        "languageCode": "en"
       },
+      "formattedAddress": "1288 W El Camino Real, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=8018941935340901694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
-      "displayName": {
-        "text": "La Familia Taqueria",
-        "languageCode": "es"
-      },
+      "location": {},
       "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ],
       "phone": "(650) 965-9100",
-      "hours": {
-        "Monday": "10:00 AM – 10:00 PM",
-        "Tuesday": "10:00 AM – 10:00 PM",
-        "Wednesday": "10:00 AM – 10:00 PM",
-        "Thursday": "10:00 AM – 10:00 PM",
-        "Friday": "10:00 AM – 10:00 PM",
-        "Saturday": "10:00 AM – 10:00 PM",
-        "Sunday": "10:00 AM – 10:00 PM"
-      },
-      "menuUrl": "https://www.lafamiliataqueria.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$"
     },
     {
