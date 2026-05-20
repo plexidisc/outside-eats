@@ -12878,17 +12878,14 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJRcT6OHKxj4AR9DB-cSpxe2k",
-      "formattedAddress": "334 San Antonio Rd, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.4059321,
-        "longitude": -122.11199979999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7600793223224504564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
-        "text": "PETRA'S KITCHEN",
+        "text": "PETRA'S KITCHEN (food truck)",
         "languageCode": "en"
       },
+      "formattedAddress": "334 San Antonio Rd, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7600793223224504564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Mexican"
     },
     {
