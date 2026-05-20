@@ -11148,7 +11148,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://agavemxbistro.com/mountain-view-agave-mexican-bistro-food-menu",
       "phone": "(650) 965-2284",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Agave Mexican Bistro Small.jpeg"
     },
     {
       "id": "ChIJJaZsfAC3j4ARm_xXrZy0PQc",
@@ -11179,7 +11180,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.alexanderspatisserie.com/brunch",
       "phone": "(650) 864-9999",
       "hours": "[object Object]",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Alexanders Patisserie Small.jpeg"
     },
     {
       "id": "ChIJ6ycgPTS3j4AR3oKYKGHPFjc",
@@ -11195,7 +11197,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.amarinthaicuisine.com/menus",
       "phone": "(650) 961-1536",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Amarin Thai Cuisine Small.jpeg"
     },
     {
       "id": "ChIJxdWoszK3j4AR0I1-Z78BhZo",
@@ -11255,7 +11258,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://annachikadai.us/menu",
       "phone": "(650) 938-3070",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Annachikadai Small.jpeg"
     },
     {
       "id": "ChIJ7wIcJTS3j4AROn_VlyvSoaw",
@@ -11282,7 +11286,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:00 AM – 9:00 PM",
         "Sunday": "11:00 AM – 9:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Asian Box Small.jpeg"
     },
     {
       "id": "ChIJu_26IQm6j4AR_Pl-EyDdOwU",
@@ -11326,7 +11331,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://bigbiteseatery.com/menu",
       "phone": "(650) 282-5137",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Big Bites Vietnamese Eatery Small.jpeg"
     },
     {
       "id": "ChIJG4CRJDS3j4ARpVclpxEi2O4",
@@ -11353,7 +11359,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:00 AM – 9:00 PM",
         "Sunday": "11:00 AM – 9:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Blue Line Pizza Small.jpeg"
     },
     {
       "id": "ChIJZ9C5aqK3j4AR7Llr-oHZJpw",
@@ -11380,7 +11387,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:00 AM – 10:00 PM",
         "Sunday": "11:00 AM – 10:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Bonchon Small.jpeg"
     },
     {
       "id": "ChIJLRvDZtu3j4ARgoNrKZnNw8g",
@@ -11422,7 +11430,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.cafebaklava.online/menu",
       "phone": "(650) 564-9052",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Cafe Baklava Small.jpeg"
     },
     {
       "id": "ChIJsWRupjO3j4ARGrnHDZ0LpIo",
@@ -11438,7 +11447,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://casalupemountainview.com/",
       "phone": "(650) 965-7911",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Casa Lupe Small.jpeg"
     },
     {
       "id": "ChIJCza2IjC7j4ARf8iQuWMrTHw",
@@ -11482,7 +11492,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:30 AM – 10:00 PM",
         "Sunday": "11:30 AM – 10:00 PM"
       },
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Cascal Small.jpeg"
     },
     {
       "id": "ChIJDXeoxFCxj4ARWeIF4XCgk8Q",
@@ -11526,7 +11537,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:30 AM – 10:00 PM",
         "Sunday": "11:30 AM – 10:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Chaat Bhavan Small.jpeg"
     },
     {
       "id": "ChIJdQUQTjC3j4AR9dOfeAQJwus",
@@ -11569,7 +11581,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "10:00 AM – 9:00 PM",
         "Sunday": "10:00 AM – 9:00 PM"
       },
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Cheztakos (FT) Small.jpeg"
     },
     {
       "id": "ChIJ2x9bikWxj4ARKfInqJs4vw8",
@@ -11584,7 +11597,8 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "American",
       "phone": "(650) 282-5020",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Chicken Gs Small.jpeg"
     },
     {
       "id": "ChIJ8ZTVZJmwj4ARQFv0RXspg3A",
@@ -11655,7 +11669,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "8:00 AM – 9:00 PM",
         "Sunday": "8:00 AM – 9:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Crepevine Small.jpeg"
     },
     {
       "id": "ChIJC_3cdla3j4ARMgf4Pw8Irek",
@@ -11682,7 +11697,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:30 AM – 9:30 PM",
         "Sunday": "11:30 AM – 9:30 PM"
       },
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Cucina Venti Small.jpeg"
     },
     {
       "id": "ChIJW2ynIPu3j4ARXDXw5S94e0o",
@@ -11701,7 +11717,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://dasbierhauz.com/lunch-%26-dinner",
       "phone": "(650) 965-2337",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Das Bierhauz Small.jpeg"
     },
     {
       "id": "ChIJdwzB9Ji3j4ARCR4skGIBg0Q",
@@ -11728,7 +11745,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:00 AM – 10:00 PM",
         "Sunday": "11:00 AM – 10:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Desi Pizza house Small.jpeg"
     },
     {
       "id": "ChIJ1ZLhDTS3j4ARx3Whbv-Js8s",
@@ -11744,7 +11762,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://dongiovannis.com/mountain-view-don-giovanni-food-menu-173505",
       "phone": "(650) 961-9749",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Don Giovanni Small.jpeg"
     },
     {
       "id": "ChIJ_ZkMOzS3j4ARrHx230WkSHo",
@@ -11760,7 +11779,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://doppiozerogroup.com/page/mountainview-menu-dailyspecials",
       "phone": "(650) 938-4147",
       "hours": "[object Object]",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Doppio Zero Small.jpeg"
     },
     {
       "id": "ChIJm7r-fwC3j4ARHBWUgHnO2Ec",
@@ -11776,7 +11796,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.eapingfresh.com/9gar0j4y/eaping-fresh-chinese-mountain-view-94040/order-online?menu=All+Day+Menu&category=Mix+%26+Match+Box#menu-section",
       "phone": "(650) 964-8888",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eaping Small.jpeg"
     },
     {
       "id": "ChIJOTwEp5iwj4ARHHrOgn0mLto",
@@ -11826,7 +11847,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.eriksdelicafe.com/food",
       "phone": "(650) 965-9631",
       "hours": "[object Object]",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eriks Cafe_Grant Rd Small.jpeg"
     },
     {
       "id": "ChIJ9aXjGTS3j4AR2Gpu1hs3qU4",
@@ -11842,7 +11864,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://eurekarestaurantgroup.com/menu",
       "phone": "(650) 964-4812",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Eureka Small.jpeg"
     },
     {
       "id": "ChIJjXKAThS3j4ARA2wf_yuYr5U",
@@ -11902,7 +11925,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.39miles.com/p/14136205",
       "phone": "(650) 282-5408",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Fish With you Small.jpeg"
     },
     {
       "id": "ChIJH3Br7Ey3j4ARqtmE95weKy0",
@@ -11917,7 +11941,8 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Chinese",
       "hours": "[object Object]",
       "priceRange": "$$",
-      "description": "Chinese hot pot restaurant with individual and shared pot options, tea house atmosphere, and a broad selection of broths, meats, and vegetables."
+      "description": "Chinese hot pot restaurant with individual and shared pot options, tea house atmosphere, and a broad selection of broths, meats, and vegetables.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Four Season Tea House Small.jpeg"
     },
     {
       "id": "ChIJ57sfDTS3j4ARrjiqh6-gZLQ",
@@ -11933,7 +11958,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://dinfo.me/onlineorder/#/home/menu/?restid=fulam",
       "phone": "(650) 965-6328",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Fu Lam Mum Small.jpeg"
     },
     {
       "id": "ChIJi93uLsywj4ARH81XgnsYctU",
@@ -11949,7 +11975,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://order.online/store/772?pickup=true&redirected=true",
       "phone": "(650) 965-8882",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Garden Fresh Small.jpeg"
     },
     {
       "id": "ChIJlQP9egCxj4ARQMFOjfPwC5s",
@@ -11976,7 +12003,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:00 AM – 10:00 PM",
         "Sunday": "11:00 AM – 10:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Giorgios italian grill Small.jpeg"
     },
     {
       "id": "ChIJdfqG9riwj4AR7gGgAWgXlgc",
@@ -12024,7 +12052,8 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Vietnamese",
       "phone": "(650) 282-5388",
       "hours": "[object Object]",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Happy Lamb Hot pot Small.jpeg"
     },
     {
       "id": "ChIJAQaKvt22j4ARN-qH7yl2wH8",
@@ -12056,7 +12085,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://static1.squarespace.com/static/60d22470924e3f7d5c34d24a/t/694ec7ca899c0114fc49d207/1766770634445/TRIFOLD+MENU_MOUNTAIN+VIEW+%283%29.pdf",
       "phone": "(650) 964-9999",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hummus Small.jpeg"
     },
     {
       "id": "ChIJETHw0F-7j4AR85V_I6OobCI",
@@ -12165,7 +12195,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:00 PM"
       },
       "menuUrl": "http://www.joysushimountainview.com",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Joy Sushi Small.jpeg"
     },
     {
       "id": "ChIJNaa5cLSxj4ARn9KSY9gLH5U",
@@ -12198,7 +12229,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.joyouscuisine.com/9i3910j4/joyous-cuisine--mountain-view-94041/order-online?menu=All+Day+Menu&category=Vegetarian+Menu+%28with+Eggs+%26+Tofu%29#menu-section",
       "phone": "(650) 282-5292",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Joyous Cuisine Small.jpeg"
     },
     {
       "id": "ChIJL5hnM2u3j4ARQDJhTeN5LIw",
@@ -12214,7 +12246,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://kakarototogo.com/order/",
       "phone": "(650) 964-9600",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Kakaroto Small.jpeg"
     },
     {
       "id": "ChIJp6_gcIK3j4ARGYrA3vLG4OE",
@@ -12399,7 +12432,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.lafontainerestaurant.com/mountain-view-menu",
       "phone": "(650) 967-9090",
       "hours": "[object Object]",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/La Fontaine Small.jpeg"
     },
     {
       "id": "ChIJayz3ts6wj4ARazzb1sL5yNU",
@@ -12415,7 +12449,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.lepetitbistromountainview.com/mountain-view-mountain-view-le-petit-bistro-food-menu",
       "phone": "(650) 964-3321",
       "hours": "[object Object]",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Le Petit Bistro Small.jpeg"
     },
     {
       "id": "ChIJUQD2pjW3j4ARJbYJ0xp0ycM",
@@ -12431,7 +12466,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.limonrestaurants.com/menus/",
       "phone": "(650) 965-3030",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Limon Small.jpeg"
     },
     {
       "id": "ChIJhzHBsAe6j4ARvq9oi8u-bqQ",
@@ -12464,7 +12500,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.toasttab.com/local/order/los-amigos-mountainview/r-b3547295-bcda-415e-a1fa-d056c533cea4",
       "phone": "(650) 965-0011",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Los Amigos Small.jpeg"
     },
     {
       "id": "ChIJr2AqoJm3j4ARFMnM43xElBQ",
@@ -12480,7 +12517,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://order.spoton.com/so-ludwigs-biergarten-22752/mountain-view-ca/67bf78f0c7572fec4778307d/dinein",
       "phone": "(650) 695-1614",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Ludwigs Small.jpeg"
     },
     {
       "id": "ChIJE4n0FDS3j4ARFOGPKzVKJHg",
@@ -12496,7 +12534,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://fba3da50-13d9-410c-a543-35148fd6709e.filesusr.com/ugd/15a3a8_31de621341574a4c9d89d75a81e4fbfe.pdf",
       "phone": "(650) 282-5454",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Maison Alyzee Small.jpeg"
     },
     {
       "id": "ChIJSTu5CLywj4ARdXEmSuNMISk",
@@ -12540,7 +12579,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.mantraindiausa.com/mountain-view-menus/",
       "phone": "(650) 961-5550",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mantra India Small.jpeg"
     },
     {
       "id": "ChIJwdl4xzK3j4ARjl95YHMcOIk",
@@ -12556,7 +12596,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://order.toasttab.com/online/masa-sushi-japan",
       "phone": "(650) 969-9998",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Masa Sushi Small.jpeg"
     },
     {
       "id": "ChIJaYhfxzK3j4AR2AZVkKx1vRE",
@@ -12616,7 +12657,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://mifen101go.twupro.com/",
       "phone": "(650) 282-5099",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mifen101 Small.jpeg"
     },
     {
       "id": "ChIJbdRr8Juwj4ARRFNrtLQtGjs",
@@ -12676,7 +12718,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM – 10:00 PM"
       },
       "menuUrl": "https://www.mountainmikespizza.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mountain Mikes Small.jpeg"
     },
     {
       "id": "ChIJ0XCu-J63j4ARBue4YjjbOLM",
@@ -12692,7 +12735,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://order.mealkeyway.com/customer/release/index?mid=7a6b37444f4a42376e6877367357636d626e6a6234673d3d#/main",
       "phone": "(650) 282-5026",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mr Bao Kitchen Small.jpeg"
     },
     {
       "id": "ChIJm7TnPMywj4ARr7OAYDci9mU",
@@ -12769,7 +12813,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "9:00 AM - 3:00 PM, 5:00 PM - 10:00 PM"
       },
       "priceRange": "$$$",
-      "description": "Silicon Valley's first South Caucasus restaurant, named for the pomegranate, with signature plov, grilled meats, and Azerbaijani specialties steps from Castro Street."
+      "description": "Silicon Valley's first South Caucasus restaurant, named for the pomegranate, with signature plov, grilled meats, and Azerbaijani specialties steps from Castro Street.",
+      "photoUrl": "images/restaurant-photos/mountain-view/NAR (Rosso) Small.jpeg"
     },
     {
       "id": "ChIJyyoIiTO3j4ARtwaLR_CQKiY",
@@ -12795,7 +12840,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:30 AM - 2:30 PM, 5:30 PM - 9:00 PM"
       },
       "priceRange": "$$",
-      "description": "All-you-can-eat Mongolian BBQ on Castro Street where you build your own stir-fry bowl from meats, vegetables, and house sauces, finished off with soft-serve ice cream."
+      "description": "All-you-can-eat Mongolian BBQ on Castro Street where you build your own stir-fry bowl from meats, vegetables, and house sauces, finished off with soft-serve ice cream.",
+      "photoUrl": "images/restaurant-photos/mountain-view/New Mongolian BBQ Small.jpeg"
     },
     {
       "id": "ChIJ5Z7q1de2j4ARGQo7GtP9k3Q",
@@ -12820,7 +12866,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 10:00 PM"
       },
       "priceRange": "$",
-      "description": "No-frills pizza spot on Grant Road serving large New York-style slices and whole pies by the slice or whole — a quick and reliable lunch or late-night option."
+      "description": "No-frills pizza spot on Grant Road serving large New York-style slices and whole pies by the slice or whole — a quick and reliable lunch or late-night option.",
+      "photoUrl": "images/restaurant-photos/mountain-view/new York Pizza Small.jpeg"
     },
     {
       "id": "ChIJxfnvDne3j4ARn9NTtNXBXEM",
@@ -12845,7 +12892,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 10:00 PM"
       },
       "priceRange": "$",
-      "description": "Fast-casual Greek chain on Castro Street with gyros, souvlaki, and pita wraps made fresh to order at approachable prices."
+      "description": "Fast-casual Greek chain on Castro Street with gyros, souvlaki, and pita wraps made fresh to order at approachable prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Nick The Greek Small.jpeg"
     },
     {
       "id": "ChIJtwxHxXS3j4ARf6S4Vj8p8lY",
@@ -12948,7 +12996,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 9:00 PM"
       },
       "priceRange": "$$",
-      "description": "Northern California's first restaurant to serve authentic Lanzhou hand-pulled beef noodles, with four Bay Area locations and a devoted following for its clear broth and chewy noodles."
+      "description": "Northern California's first restaurant to serve authentic Lanzhou hand-pulled beef noodles, with four Bay Area locations and a devoted following for its clear broth and chewy noodles.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Ox9 Small.jpeg"
     },
     {
       "id": "ChIJCYQfo56wj4AR3ow1p23mAqA",
@@ -13059,7 +13108,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://parisbaguette.com/locations/ca/mountain-view/315-castro-street",
       "priceRange": "$",
-      "description": "Korean bakery-cafe chain on Castro Street with fresh-baked pastries, custom cakes, sandwiches, and coffee drinks from early morning until late evening."
+      "description": "Korean bakery-cafe chain on Castro Street with fresh-baked pastries, custom cakes, sandwiches, and coffee drinks from early morning until late evening.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Paris Baguette Small.jpeg"
     },
     {
       "id": "ChIJRcT6OHKxj4AR9DB-cSpxe2k",
@@ -13111,7 +13161,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://phoanh.us/",
       "priceRange": "$",
-      "description": "Family-owned Vietnamese restaurant on E El Camino Real with flavorful pho, vermicelli bowls, and rice plates at generous portions and neighborhood prices."
+      "description": "Family-owned Vietnamese restaurant on E El Camino Real with flavorful pho, vermicelli bowls, and rice plates at generous portions and neighborhood prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pho Anh Small.jpeg"
     },
     {
       "id": "ChIJ6cEtu5mwj4ARXUcsNOIpx1w",
@@ -13194,7 +13245,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.photochau999.com/",
       "priceRange": "$",
-      "description": "Long-standing Vietnamese pho institution on Villa Street with nearly 1,000 reviews, beloved for its bold broth and generous portions at everyday prices."
+      "description": "Long-standing Vietnamese pho institution on Villa Street with nearly 1,000 reviews, beloved for its bold broth and generous portions at everyday prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pho To Chau Small.jpeg"
     },
     {
       "id": "ChIJpy_7hTO3j4ARie8lau6i5mE",
@@ -13249,7 +13301,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.poke.house/locations/poke-grantrd-mountainview",
       "priceRange": "$$",
-      "description": "Sustainably sourced poke bowl restaurant near the Google campus with house-made bowls, sushi handrolls, and seasonal California-inspired ingredients."
+      "description": "Sustainably sourced poke bowl restaurant near the Google campus with house-made bowls, sushi handrolls, and seasonal California-inspired ingredients.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Poke House Small.jpeg"
     },
     {
       "id": "ChIJ08k3EDS3j4ARKBXLBf4Jyc0",
@@ -13277,7 +13330,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.pokeworks.com/mountain-view",
       "priceRange": "$",
-      "description": "Fast-casual poke concept on Castro Street with build-your-own bowls, burritos, and salads using sushi-grade proteins, handcrafted sauces, and fresh toppings."
+      "description": "Fast-casual poke concept on Castro Street with build-your-own bowls, burritos, and salads using sushi-grade proteins, handcrafted sauces, and fresh toppings.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pokeworks Small.jpeg"
     },
     {
       "id": "ChIJh-RWCzS3j4ARyg7A_Go5qJI",
@@ -13305,7 +13359,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://queenhouserestaurantca.com/",
       "priceRange": "$$",
-      "description": "Beloved Castro Street institution since 1998 serving Taiwanese and Chinese cuisine with weekend dim sum, specialty noodle soups, and late-night hours on weekends."
+      "description": "Beloved Castro Street institution since 1998 serving Taiwanese and Chinese cuisine with weekend dim sum, specialty noodle soups, and late-night hours on weekends.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Queen House Small.jpeg"
     },
     {
       "id": "ChIJGW5peMa3j4AR913hk9QUkU4",
@@ -13333,7 +13388,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.rathoreskitchen.com/",
       "priceRange": "$$",
-      "description": "Family-owned Punjabi restaurant on W El Camino Real with no food coloring or ready-made ingredients, known for butter chicken, cholle bhature, and dal makhani made from scratch."
+      "description": "Family-owned Punjabi restaurant on W El Camino Real with no food coloring or ready-made ingredients, known for butter chicken, cholle bhature, and dal makhani made from scratch.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Rathores Kitchen Small.jpeg"
     },
     {
       "id": "ChIJ--MPCaWwj4ARyYAEuYhsf0E",
@@ -13413,7 +13469,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://rogersdelidonuts.com/",
       "priceRange": "$",
-      "description": "Early-opening Mountain View institution since 1967 with fresh donuts, deli sandwiches, breakfast plates, and coffee from 5 AM — a morning staple for the neighborhood."
+      "description": "Early-opening Mountain View institution since 1967 with fresh donuts, deli sandwiches, breakfast plates, and coffee from 5 AM — a morning staple for the neighborhood.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Rogers Deli & Donuts Small.jpeg"
     },
     {
       "id": "ChIJ9Y7sh2y3j4ARyqbQb6iXWhE",
@@ -13441,7 +13498,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.rootstockwinebar.com/mountain-view/",
       "priceRange": "$$",
-      "description": "Castro Street wine bar celebrating wines of the world with wine flights, local organic cuisine, indoor French-style seating, and a cozy outdoor area in the heart of downtown."
+      "description": "Castro Street wine bar celebrating wines of the world with wine flights, local organic cuisine, indoor French-style seating, and a cozy outdoor area in the heart of downtown.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Rootstock Winebar Small.jpeg"
     },
     {
       "id": "ChIJa-HrtkO3j4ARrzmi28OOrIs",
@@ -13520,7 +13578,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "9:00 AM - 7:00 PM"
       },
       "priceRange": "$",
-      "description": "Vietnamese banh mi cafe on E El Camino Real widely praised as one of the best banh mi spots in the Bay Area, with egg coffee, matcha drinks, and a signature Saigon sandwich."
+      "description": "Vietnamese banh mi cafe on E El Camino Real widely praised as one of the best banh mi spots in the Bay Area, with egg coffee, matcha drinks, and a signature Saigon sandwich.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Steins Beer Garden Small.jpeg"
     },
     {
       "id": "ChIJb4sB4Zuwj4ARfVoCSwzEgDc",
@@ -13570,7 +13629,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "12:00 PM - 3:00 PM, 5:00 PM - 10:30 PM"
       },
       "priceRange": "$$$",
-      "description": "Upscale Indian restaurant on Castro Street named for the Sanskrit word for peace, with fiber-optic chandeliers, a lotus-petal waterfall, weekday lunch buffet, and a full bar."
+      "description": "Upscale Indian restaurant on Castro Street named for the Sanskrit word for peace, with fiber-optic chandeliers, a lotus-petal waterfall, weekday lunch buffet, and a full bar.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sakoon Small.jpeg"
     },
     {
       "id": "ChIJ5W_fPe-3j4ARXg5zC_0E5gA",
@@ -13596,7 +13656,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "9:00 AM - 9:00 PM"
       },
       "priceRange": "$",
-      "description": "Neighborhood Mexican taqueria with breakfast through dinner, serving tacos, burritos, and tortas at everyday prices."
+      "description": "Neighborhood Mexican taqueria with breakfast through dinner, serving tacos, burritos, and tortas at everyday prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/San Miguel Taqueria (FT) Small.jpeg"
     },
     {
       "id": "ChIJPVgdAt22j4ARkIlEhe3DedA",
@@ -13624,7 +13685,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.satsumasushi.com/",
       "priceRange": "$$",
-      "description": "Well-loved neighborhood sushi restaurant on E El Camino Real recently remodeled, known for wagyu nigiri, generous combo platters, and friendly family ownership since 1982."
+      "description": "Well-loved neighborhood sushi restaurant on E El Camino Real recently remodeled, known for wagyu nigiri, generous combo platters, and friendly family ownership since 1982.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Satsuma Sushi Small.jpeg"
     },
     {
       "id": "ChIJzQUXnTa3j4ARo0PyJ0CVXqA",
@@ -13652,7 +13714,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.savvycellar.com/",
       "priceRange": "$$",
-      "description": "Women-owned wine bar next to the Mountain View Caltrain station with 50-plus global wines by the glass, craft beer, flatbreads, charcuterie, and Friday live performances."
+      "description": "Women-owned wine bar next to the Mountain View Caltrain station with 50-plus global wines by the glass, craft beer, flatbreads, charcuterie, and Friday live performances.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Savvy Cellar Small.jpeg"
     },
     {
       "id": "ChIJTzWDpDO3j4ARI08nSK_WLeU",
@@ -13680,7 +13743,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "http://www.scratchmtnview.com/",
       "priceRange": "$$$",
-      "description": "American comfort food done with fine-dining technique on Castro Street, with deep wooden booths, a generous cocktail bar, and a weekend brunch that draws a loyal downtown crowd."
+      "description": "American comfort food done with fine-dining technique on Castro Street, with deep wooden booths, a generous cocktail bar, and a weekend brunch that draws a loyal downtown crowd.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Scratch Small.jpeg"
     },
     {
       "id": "ChIJqR9iewC3j4ARFdkuydcsVXk",
@@ -13733,7 +13797,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "12:00 PM - 3:00 PM, 5:00 PM - 9:30 PM"
       },
       "priceRange": "$$",
-      "description": "Thai restaurant on Moffett Boulevard with a broad menu of curries, noodles, and rice dishes in a reliable neighborhood setting popular for lunch and dinner."
+      "description": "Thai restaurant on Moffett Boulevard with a broad menu of curries, noodles, and rice dishes in a reliable neighborhood setting popular for lunch and dinner.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Shana Small.jpeg"
     },
     {
       "id": "ChIJDy_Fqemxj4ARsM3sqkPHGF4",
@@ -13757,7 +13822,8 @@ var PREBAKED_DATA_SOUTH = {
         "Friday": "11:00 AM - 3:00 PM"
       },
       "priceRange": "$",
-      "description": "Weekday-only lunch spot serving quick Chinese-American plates and sizzling dishes for the local office crowd."
+      "description": "Weekday-only lunch spot serving quick Chinese-American plates and sizzling dishes for the local office crowd.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sizzling Lunch Small.jpeg"
     },
     {
       "id": "ChIJ7XC5CwCxj4ARXg00Il4_MU4",
@@ -13829,7 +13895,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://sourdoughandco.com/mountain-view-cuesta",
       "priceRange": "$",
-      "description": "Sourdough sandwich chain at Cuesta Drive with fresh-baked sourdough bread, quality deli meats, house-spread sandwiches, and rotating daily soups."
+      "description": "Sourdough sandwich chain at Cuesta Drive with fresh-baked sourdough bread, quality deli meats, house-spread sandwiches, and rotating daily soups.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sourdough & Co Small.jpeg"
     },
     {
       "id": "ChIJ82GUaRK3j4ARDkf5zm1XdVY",
@@ -13844,7 +13911,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Specialty's Café & Bakery",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/mountain-view/Specialtys Small.jpeg"
     },
     {
       "id": "ChIJN5Nz71W3j4ARhx5bwpTQEGg",
@@ -13870,7 +13938,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 2:00 AM"
       },
       "priceRange": "$",
-      "description": "Classic sports bar and pub in Mountain View with big screens, cold beer, and simple bar food open through last call seven nights a week."
+      "description": "Classic sports bar and pub in Mountain View with big screens, cold beer, and simple bar food open through last call seven nights a week.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sports Page Small.jpeg"
     },
     {
       "id": "ChIJsfMnDjS3j4ARoUdVDMJyqMU",
@@ -13898,7 +13967,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://ststephensgreen.com/",
       "priceRange": "$$",
-      "description": "Authentic Irish pub on Castro Street with Guinness on tap, build-your-own Kobe beef and lamb burgers, weekend brunch, and DJ nights on Fridays until 2 AM."
+      "description": "Authentic Irish pub on Castro Street with Guinness on tap, build-your-own Kobe beef and lamb burgers, weekend brunch, and DJ nights on Fridays until 2 AM.",
+      "photoUrl": "images/restaurant-photos/mountain-view/St Stephens Green Small.jpeg"
     },
     {
       "id": "ChIJuzFtRDS3j4AR1gfuHqaeG7k",
@@ -14007,7 +14077,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:30 AM - 2:30 PM, 5:00 PM - 10:00 PM"
       },
       "priceRange": "$$",
-      "description": "All-you-can-eat hot pot and Korean barbecue restaurant on Hope Street with a conveyor-belt-efficient kitchen, wagyu meat options, and a sauce station with unlimited banchan."
+      "description": "All-you-can-eat hot pot and Korean barbecue restaurant on Hope Street with a conveyor-belt-efficient kitchen, wagyu meat options, and a sauce station with unlimited banchan.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Superhot hot pot Small.jpeg"
     },
     {
       "id": "ChIJLalQbCu3j4ARhYSFis6AvSA",
@@ -14033,7 +14104,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 10:00 PM"
       },
       "priceRange": "$$",
-      "description": "Sushi bar on Castro Street with a broad menu of rolls, nigiri, and Japanese plates open all day seven days a week."
+      "description": "Sushi bar on Castro Street with a broad menu of rolls, nigiri, and Japanese plates open all day seven days a week.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sushi Arashi Small.jpeg"
     },
     {
       "id": "ChIJ-9pg_Qmxj4AR4deSLfZINW0",
@@ -14088,7 +14160,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://sushitomi.us/",
       "priceRange": "$$",
-      "description": "Beloved Mountain View sushi institution on W Dana Street since 1982, with daily specials, generous combo platters, fresh chirashi, and a loyal neighborhood following."
+      "description": "Beloved Mountain View sushi institution on W Dana Street since 1982, with daily specials, generous combo platters, fresh chirashi, and a loyal neighborhood following.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Suchi tomi Small.jpeg"
     },
     {
       "id": "ChIJw4RuczO3j4ARC7RByZ5K9nI",
@@ -14115,7 +14188,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.sweetgreen.com/",
       "priceRange": "$",
-      "description": "Farm-to-table salad and grain bowl chain at San Antonio Center with seasonal menus, locally sourced ingredients, and customizable healthy options."
+      "description": "Farm-to-table salad and grain bowl chain at San Antonio Center with seasonal menus, locally sourced ingredients, and customizable healthy options.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Sweetgreen Small.jpeg"
     },
     {
       "id": "ChIJ6WHNXgCxj4ARwXxm3MYbwx0",
@@ -14220,7 +14294,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 9:30 PM"
       },
       "priceRange": "$",
-      "description": "Indian restaurant on W Dana Street with tandoori specialties, curry plates, and vegetarian options at accessible prices."
+      "description": "Indian restaurant on W Dana Street with tandoori specialties, curry plates, and vegetarian options at accessible prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Tandoori Junction Small.jpeg"
     },
     {
       "id": "ChIJUf3BejS3j4ARpm4CLRkFHeQ",
@@ -14334,7 +14409,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Emerald Hour",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/mountain-view/The Emerald Hour Small.jpeg"
     },
     {
       "id": "ChIJhTbf_963j4ARxOXAZ5KUCSw",
@@ -14361,7 +14437,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.rogerbarandrestaurant.com/",
       "priceRange": "$$",
-      "description": "Roger's casual all-day cafe sibling at the Ameswell Hotel with coffee, pastries, and quick bites in a light aviation-themed setting open from early morning."
+      "description": "Roger's casual all-day cafe sibling at the Ameswell Hotel with coffee, pastries, and quick bites in a light aviation-themed setting open from early morning.",
+      "photoUrl": "images/restaurant-photos/mountain-view/The Flyby Small.jpeg"
     },
     {
       "id": "ChIJiU9rHAC3j4ARq-cnnScAykQ",
@@ -14387,7 +14464,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:30 AM - 9:15 PM"
       },
       "priceRange": "$",
-      "description": "Neighborhood sushi restaurant on N Shoreline Boulevard with fresh rolls, nigiri, baked appetizers, and a reliable all-day menu on weekends."
+      "description": "Neighborhood sushi restaurant on N Shoreline Boulevard with fresh rolls, nigiri, baked appetizers, and a reliable all-day menu on weekends.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Toki Sushi Small.jpeg"
     },
     {
       "id": "ChIJR_KFNsmwj4ARvqLjNxrWAzE",
@@ -14413,7 +14491,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "10:15 AM - 9:30 PM"
       },
       "priceRange": "$$",
-      "description": "Neighborhood Thai restaurant with a comprehensive menu of curries, noodles, and stir-fries available for dine-in and delivery seven days a week."
+      "description": "Neighborhood Thai restaurant with a comprehensive menu of curries, noodles, and stir-fries available for dine-in and delivery seven days a week.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Tommy Thai Small.jpeg"
     },
     {
       "id": "ChIJk96_Mja3j4ARhTLPsKxD--c",
@@ -14465,7 +14544,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 9:30 PM"
       },
       "priceRange": "$$",
-      "description": "Japanese udon specialist on Castro Street with thick handmade noodles in rich broths, tempura toppings, and set meal options — consistently rated one of Mountain View's best Japanese spots."
+      "description": "Japanese udon specialist on Castro Street with thick handmade noodles in rich broths, tempura toppings, and set meal options — consistently rated one of Mountain View's best Japanese spots.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Udon Mugizo Small.jpeg"
     },
     {
       "id": "ChIJYzCEtRixj4ARpfbZuM4RU9A",
@@ -14491,7 +14571,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "9:30 AM - 9:30 PM"
       },
       "priceRange": "$",
-      "description": "Indian restaurant with aromatic biryanis, curry plates, and South Asian street food staples open nearly all day."
+      "description": "Indian restaurant with aromatic biryanis, curry plates, and South Asian street food staples open nearly all day.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Urban Small.jpeg"
     },
     {
       "id": "ChIJFfCOLjS3j4ARySqj-9dlmv4",
@@ -14516,7 +14597,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM"
       },
       "priceRange": "$$$",
-      "description": "Traditional Italian restaurant with fresh pasta, seafood preparations, and a classic Italian dining room atmosphere popular for family dinners."
+      "description": "Traditional Italian restaurant with fresh pasta, seafood preparations, and a classic Italian dining room atmosphere popular for family dinners.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Vaso Azzurro Small.jpeg"
     },
     {
       "id": "ChIJQfA1N5iwj4ARVdM_WzoeQmk",
@@ -14593,7 +14675,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 8:00 PM"
       },
       "priceRange": "$$",
-      "description": "Santa Maria-style barbecue restaurant with slow-smoked tri-tip, brisket, ribs, and classic sides like coleslaw and garlic bread in a casual roadhouse setting."
+      "description": "Santa Maria-style barbecue restaurant with slow-smoked tri-tip, brisket, ribs, and classic sides like coleslaw and garlic bread in a casual roadhouse setting.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Wagon Wheel BBQ Small.jpeg"
     },
     {
       "id": "ChIJvRgkOzS3j4AR6-MWU-pSdQk",
@@ -14620,7 +14703,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.ramenizakayayugen.com/",
       "priceRange": "$",
-      "description": "Popular ramen izakaya near Google campus with rich tonkotsu and shoyu broths, izakaya small plates, and sake — one of Mountain View's most consistently praised ramen spots."
+      "description": "Popular ramen izakaya near Google campus with rich tonkotsu and shoyu broths, izakaya small plates, and sake — one of Mountain View's most consistently praised ramen spots.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Yugen Ramen Small.jpeg"
     },
     {
       "id": "ChIJQ8nPjFW3j4ARcAaUg5pF-Ts",
@@ -14648,7 +14732,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.zareensrestaurant.com/",
       "priceRange": "$",
-      "description": "Pakistani-Indian kitchen from Zareen Khan with slow-cooked karahi, aromatic biryanis, and homemade naan — a beloved Mountain View outpost of the Palo Alto original."
+      "description": "Pakistani-Indian kitchen from Zareen Khan with slow-cooked karahi, aromatic biryanis, and homemade naan — a beloved Mountain View outpost of the Palo Alto original.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Zareens Small.jpeg"
     },
     {
       "id": "ChIJj7V2HaG3j4AR_dDZM_SSLPw",
@@ -14674,7 +14759,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 10:00 PM"
       },
       "priceRange": "$$",
-      "description": "Sichuan mala hot pot chain where you build your own bowl of spicy broth, proteins, and vegetables, weighed and priced by the gram in fast-casual format."
+      "description": "Sichuan mala hot pot chain where you build your own bowl of spicy broth, proteins, and vegetables, weighed and priced by the gram in fast-casual format.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Zhangliang Malatang Small.jpeg"
     },
     {
       "id": "ChIJK8pvbKO3j4ARsm7k_GXRY8U",
@@ -14689,7 +14775,8 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Chinese",
       "hours": "[object Object]",
       "priceRange": "$",
-      "description": "Hunan-Sichuan restaurant with authentic bold and spicy preparations including mala dishes, dry-braised fish, and regional Chinese classics."
+      "description": "Hunan-Sichuan restaurant with authentic bold and spicy preparations including mala dishes, dry-braised fish, and regional Chinese classics.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hunan Szechuan Cuisine Small.jpeg"
     }
   ],
   "Portola Valley, CA": [
