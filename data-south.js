@@ -12388,27 +12388,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJayz3ts6wj4ARazzb1sL5yNU",
-      "formattedAddress": "1405 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3888226,
-        "longitude": -122.09077179999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15404837140644445291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.lepetitbistromountainview.com/",
       "displayName": {
         "text": "Le Petit Bistro",
         "languageCode": "en"
       },
+      "formattedAddress": "1405 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15404837140644445291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lepetitbistromountainview.com/",
+      "location": {},
       "cuisine": "French",
+      "menuUrl": "https://www.lepetitbistromountainview.com/mountain-view-mountain-view-le-petit-bistro-food-menu",
       "phone": "(650) 964-3321",
-      "hours": {
-        "Tuesday": "5:00 PM – 9:00 PM",
-        "Wednesday": "5:00 PM – 9:00 PM",
-        "Thursday": "5:00 PM – 9:00 PM",
-        "Friday": "5:00 PM – 9:00 PM",
-        "Saturday": "5:00 PM – 9:00 PM"
-      },
-      "menuUrl": "https://www.lepetitbistro.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$$"
     },
     {
