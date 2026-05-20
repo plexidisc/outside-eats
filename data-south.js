@@ -12951,21 +12951,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Vietnamese"
     },
     {
-      "id": "ChIJa6U406-7j4ARZietsfdP6dE",
-      "formattedAddress": "2680 Bayshore Pkwy, Mountain View, CA 94043, USA",
-      "location": {
-        "latitude": 37.4297762,
-        "longitude": -122.1000322
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15125708748756952934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://plazadelicafeca.com/",
-      "displayName": {
-        "text": "Plaza deli cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJpy_7hTO3j4ARie8lau6i5mE",
       "formattedAddress": "340 Castro St, Mountain View, CA 94041, USA",
       "location": {
