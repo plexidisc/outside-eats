@@ -14663,27 +14663,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJH3Br7Ey3j4ARqtmE95weKy0",
-      "formattedAddress": "134 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3947376,
-        "longitude": -122.07883989999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3254728815221725610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
-        "text": "四季茶馆火锅 Four Seasons Tea House Hot Pot",
+        "text": "Four Seasons Tea House Hot Pot",
         "languageCode": "en"
       },
+      "formattedAddress": "134 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3254728815221725610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Chinese",
-      "hours": {
-        "Monday": "11:00 AM - 10:00 PM",
-        "Tuesday": "11:00 AM - 10:00 PM",
-        "Wednesday": "11:00 AM - 10:00 PM",
-        "Thursday": "11:00 AM - 10:00 PM",
-        "Friday": "11:00 AM - 10:00 PM",
-        "Saturday": "11:00 AM - 10:00 PM",
-        "Sunday": "11:00 AM - 10:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$$",
       "description": "Chinese hot pot restaurant with individual and shared pot options, tea house atmosphere, and a broad selection of broths, meats, and vegetables."
     },
