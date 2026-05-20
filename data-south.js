@@ -12545,29 +12545,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJaYhfxzK3j4AR2AZVkKx1vRE",
-      "formattedAddress": "650 Castro St suit 110, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3877582,
-        "longitude": -122.0830367
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1278307253259405016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.mediterraneangrillhouse.com/",
       "displayName": {
         "text": "Mediterranean Grill House xCoffee",
         "languageCode": "en"
       },
+      "formattedAddress": "650 Castro St suit 110, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1278307253259405016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mediterraneangrillhouse.com/",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
+      "menuUrl": "https://online-ordering.innowi.com/branch/medgrill",
       "phone": "(650) 938-4048",
-      "hours": {
-        "Monday": "10:00 AM – 9:00 PM",
-        "Tuesday": "10:00 AM – 9:00 PM",
-        "Wednesday": "10:00 AM – 9:00 PM",
-        "Thursday": "10:00 AM – 9:00 PM",
-        "Friday": "10:00 AM – 9:00 PM",
-        "Saturday": "10:00 AM – 9:00 PM",
-        "Sunday": "10:00 AM – 9:00 PM"
-      },
-      "menuUrl": "https://www.mediterraneangrillhouse.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
