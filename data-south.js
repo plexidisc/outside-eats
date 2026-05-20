@@ -12696,18 +12696,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJg1ayR7iwj4ARBsM83DizgKA",
-      "formattedAddress": "1910 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.3941309,
-        "longitude": -122.0968228
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11565440899881943814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.napoletanapizzeria.com/",
       "displayName": {
         "text": "Napoletana Pizzeria",
         "languageCode": "en"
       },
+      "formattedAddress": "1910 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11565440899881943814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.napoletanapizzeria.com/",
+      "location": {},
       "cuisine": "Pizza",
+      "menuUrl": "https://www.napoletanapizzeria.com/menu_pizze.html",
       "photoUrl": "images/restaurant-photos/mountain-view/Napoletana Pizzeria Small.jpeg"
     },
     {
