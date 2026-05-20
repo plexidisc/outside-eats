@@ -13145,18 +13145,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJNT7PkDO3j4AR_agag90Kh-4",
-      "formattedAddress": "357 Castro St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3916065,
-        "longitude": -122.07970549999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17187718449386399997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sakoonrestaurant.com/",
       "displayName": {
         "text": "Sakoon",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "formattedAddress": "357 Castro St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17187718449386399997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sakoonrestaurant.com/mountainview/",
+      "location": {},
+      "cuisine": "Indian",
+      "menuUrl": "https://sakoonrestaurant.com/wp-content/uploads/2025/06/sakoonmountainview.pdf"
     },
     {
       "id": "ChIJ5W_fPe-3j4ARXg5zC_0E5gA",
