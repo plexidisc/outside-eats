@@ -12404,29 +12404,18 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJUQD2pjW3j4ARJbYJ0xp0ycM",
-      "formattedAddress": "800 California St, Mountain View, CA 94041, USA",
-      "location": {
-        "latitude": 37.3916112,
-        "longitude": -122.08068189999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14107934966273390117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.limonrestaurants.com/",
       "displayName": {
         "text": "Limón",
         "languageCode": "en"
       },
+      "formattedAddress": "800 California St, Mountain View, CA 94041, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14107934966273390117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.limonrestaurants.com/",
+      "location": {},
       "cuisine": "Peruvian",
+      "menuUrl": "https://www.limonrestaurants.com/menus/",
       "phone": "(650) 965-3030",
-      "hours": {
-        "Monday": "11:30 AM – 9:30 PM",
-        "Tuesday": "11:30 AM – 9:30 PM",
-        "Wednesday": "11:30 AM – 9:30 PM",
-        "Thursday": "11:30 AM – 9:30 PM",
-        "Friday": "11:30 AM – 9:30 PM",
-        "Saturday": "11:30 AM – 9:30 PM",
-        "Sunday": "11:30 AM – 9:30 PM"
-      },
-      "menuUrl": "https://www.limonrotisserie.com/menu",
+      "hours": "[object Object]",
       "priceRange": "$$"
     },
     {
