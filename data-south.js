@@ -13131,18 +13131,16 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJb4sB4Zuwj4ARfVoCSwzEgDc",
-      "formattedAddress": "2580 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.4009435,
-        "longitude": -122.11233689999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3999412026182097533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sajjstreeteats.com/",
       "displayName": {
         "text": "SAJJ Mediterranean",
         "languageCode": "en"
       },
+      "formattedAddress": "2580 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3999412026182097533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sajjstreeteats.com/location/mountain-view-at-the-village/",
+      "location": {},
       "cuisine": "Greek/Mediterranean",
+      "menuUrl": "https://www.sajjstreeteats.com/menus/",
       "photoUrl": "images/restaurant-photos/mountain-view/Sajj Small.jpeg"
     },
     {
