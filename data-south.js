@@ -13232,21 +13232,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJddZpuNexj4ARtAkG_zNJ5zw",
-      "formattedAddress": "401 San Antonio Rd Suite 66-B, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.4038687,
-        "longitude": -122.1113905
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4388556849566583220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://shakeshack.com/location/Mountain-view-CA?utm_source=listing&utm_medium=web?utm_source=google&utm_medium=listing",
-      "displayName": {
-        "text": "Shake Shack Mountain View",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJteR5Oja3j4ARTvsIorMrGII",
       "formattedAddress": "311A Moffett Blvd, Mountain View, CA 94043, USA",
       "location": {
