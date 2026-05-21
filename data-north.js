@@ -302,18 +302,18 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJy_xFFf19j4ARvpTqAIUSIOI",
-      "formattedAddress": "7499 El Camino Real, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6883327,
-        "longitude": -122.4655844
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16294043814281778366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/hibachi_truck",
       "displayName": {
-        "text": "Hibachi Truck",
+        "text": "Hibachi Truck (food truck)",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "formattedAddress": "7499 El Camino Real, Daly City, CA 94014, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16294043814281778366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/hibachi_truck",
+      "location": {},
+      "cuisine": "Japanese",
+      "keywords": [
+        "food truck"
+      ]
     },
     {
       "id": "ChIJ2awfkWx8j4AR-upR2GceuZc",
