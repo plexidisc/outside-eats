@@ -1277,17 +1277,14 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJWwMKn_t9j4ARwtkPUWCQq5M",
-      "formattedAddress": "6811 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.699204099999996,
-        "longitude": -122.46374869999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10640757287944182210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.spicyhousetogo.com/",
       "displayName": {
-        "text": "Spicy House 川香小館",
+        "text": "Spicy House",
         "languageCode": "en"
       },
+      "formattedAddress": "6811 Mission St, Daly City, CA 94014, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10640757287944182210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.spicyhousetogo.com/",
+      "location": {},
       "cuisine": "Chinese"
     },
     {
