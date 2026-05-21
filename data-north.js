@@ -256,21 +256,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Chinese"
     },
     {
-      "id": "ChIJd3mU1-x7j4ARBD7eOWXwt78",
-      "formattedAddress": "305 Gellert Blvd STE A, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.668865,
-        "longitude": -122.4685086
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13814774699535515140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.habitburger.com/store/103/category",
-      "displayName": {
-        "text": "Habit Burger & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJvV9sSPt9j4ARX5BAXqzFjHA",
       "formattedAddress": "7622 El Camino Real, Daly City, CA 94014, USA",
       "location": {
