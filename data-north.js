@@ -1036,21 +1036,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Vietnamese"
     },
     {
-      "id": "ChIJoaeKfAB9j4ARBoIS9OZbKYY",
-      "formattedAddress": "102 Palisades Dr, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6889403,
-        "longitude": -122.49515939999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9667359122622939654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Picnic table",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJR7gzxBV8j4AR2G_XEVdA5Pw",
       "formattedAddress": "301 Miriam St Suite B, Daly City, CA 94014, USA",
       "location": {
