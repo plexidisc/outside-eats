@@ -13988,7 +13988,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.steinsbeergarden.com/",
       "priceRange": "$$",
-      "description": "Modern American take on the German biergarten on Villa Street with 31 craft beers on tap, a dog-friendly patio, all-scratch kitchen, and weekend brunch."
+      "description": "Modern American take on the German biergarten on Villa Street with 31 craft beers on tap, a dog-friendly patio, all-scratch kitchen, and weekend brunch.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Steins Beer Garden Restaurant Small.jpeg"
     },
     {
       "id": "ChIJIVDJCAyxj4ARF8por5EUnRg",
