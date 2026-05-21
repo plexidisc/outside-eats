@@ -11152,21 +11152,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/mountain-view/Agave Mexican Bistro Small.jpeg"
     },
     {
-      "id": "ChIJJaZsfAC3j4ARm_xXrZy0PQc",
-      "displayName": {
-        "text": "Ajadi bazar",
-        "languageCode": "en"
-      },
-      "formattedAddress": "Civic Center, Mountain View, CA 94041, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=521771716860968091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "location": {},
-      "cuisine": "American",
-      "phone": "(650) 282-5550",
-      "hours": "[object Object]",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJJzJDEDS3j4ARlN8K3bU-K-0",
       "displayName": {
         "text": "Alexander's Patisserie",
@@ -12087,6 +12072,22 @@ var PREBAKED_DATA_SOUTH = {
       "hours": "[object Object]",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/mountain-view/Hummus Small.jpeg"
+    },
+    {
+      "id": "ChIJK8pvbKO3j4ARsm7k_GXRY8U",
+      "displayName": {
+        "text": "Hunan Szechuan Cuisine",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1350 Grant Rd #8, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14223442284130889394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hunanszechuan.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "hours": "[object Object]",
+      "priceRange": "$",
+      "description": "Hunan-Sichuan restaurant with authentic bold and spicy preparations including mala dishes, dry-braised fish, and regional Chinese classics.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Hunan Szechuan Cuisine Small.jpeg"
     },
     {
       "id": "ChIJETHw0F-7j4AR85V_I6OobCI",
@@ -14761,22 +14762,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$",
       "description": "Sichuan mala hot pot chain where you build your own bowl of spicy broth, proteins, and vegetables, weighed and priced by the gram in fast-casual format.",
       "photoUrl": "images/restaurant-photos/mountain-view/Zhangliang Malatang Small.jpeg"
-    },
-    {
-      "id": "ChIJK8pvbKO3j4ARsm7k_GXRY8U",
-      "displayName": {
-        "text": "Hunan Szechuan Cuisine",
-        "languageCode": "en"
-      },
-      "formattedAddress": "1350 Grant Rd #8, Mountain View, CA 94040, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=14223442284130889394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.hunanszechuan.com/",
-      "location": {},
-      "cuisine": "Chinese",
-      "hours": "[object Object]",
-      "priceRange": "$",
-      "description": "Hunan-Sichuan restaurant with authentic bold and spicy preparations including mala dishes, dry-braised fish, and regional Chinese classics.",
-      "photoUrl": "images/restaurant-photos/mountain-view/Hunan Szechuan Cuisine Small.jpeg"
     }
   ],
   "Portola Valley, CA": [
