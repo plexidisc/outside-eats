@@ -13513,7 +13513,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 9:00 PM"
       },
       "priceRange": "$",
-      "description": "Quick-service pizza spot at 286 W El Camino Real with classic pies and Italian-American staples at counter-service prices."
+      "description": "Quick-service pizza spot at 286 W El Camino Real with classic pies and Italian-American staples at counter-service prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Rosso Pizza Small.jpeg"
     },
     {
       "id": "ChIJ87IH0EOxj4ARAA1nPDcNNLM",
