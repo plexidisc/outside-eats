@@ -12931,7 +12931,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "9:00 AM - 10:00 PM"
       },
       "priceRange": "$$",
-      "description": "Turkish-Mediterranean cafe and beer garden on Castro Street with baklava, kebabs, craft German beers, and a charming outdoor patio perfect for lingering."
+      "description": "Turkish-Mediterranean cafe and beer garden on Castro Street with baklava, kebabs, craft German beers, and a charming outdoor patio perfect for lingering.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Olympus Caffe Bakery Small.jpeg"
     },
     {
       "id": "ChIJsRJ_JTS3j4AR9RJPR8J3GB8",
