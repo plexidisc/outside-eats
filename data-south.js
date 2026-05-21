@@ -12241,7 +12241,8 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Japanese",
       "phone": "(650) 282-5111",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Katsu Small.jpeg"
     },
     {
       "id": "ChIJuyy5k-i3j4ARXY_xqSqZRpg",
