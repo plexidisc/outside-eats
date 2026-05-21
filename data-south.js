@@ -13428,7 +13428,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.rogerbarandrestaurant.com/menus/",
       "priceRange": "$$$",
-      "description": "New American restaurant inside the Ameswell Hotel with aviation-themed decor, brunch on weekends, brisket burgers, craft cocktails, and a spacious outdoor patio."
+      "description": "New American restaurant inside the Ameswell Hotel with aviation-themed decor, brunch on weekends, brisket burgers, craft cocktails, and a spacious outdoor patio.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Roger Bar and Restaurant Small.jpeg"
     },
     {
       "id": "ChIJQ4F3PBa3j4ARf7_QjN1Cklo",
