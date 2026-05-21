@@ -14319,7 +14319,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "8:00 AM - 10:00 PM"
       },
       "priceRange": "$",
-      "description": "Downtown Mountain View taqueria celebrated as a hidden breakfast gem, with all-day Mexican and American breakfasts, super burritos, al pastor tacos, and a heated outdoor patio."
+      "description": "Downtown Mountain View taqueria celebrated as a hidden breakfast gem, with all-day Mexican and American breakfasts, super burritos, al pastor tacos, and a heated outdoor patio.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Taqueria La Espuela Small.jpeg"
     },
     {
       "id": "ChIJqSEux6ixj4ARmKImBb4LqfE",
