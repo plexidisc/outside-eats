@@ -511,21 +511,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican"
     },
     {
-      "id": "ChIJ-6oJJot9j4ARKBGFjfjt6jY",
-      "formattedAddress": "1165 Hillside Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6870365,
-        "longitude": -122.46007970000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3957236874380382504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Las pencas food truck #2",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
       "id": "ChIJoWobYC19j4ARP7ufFK4zFBQ",
       "formattedAddress": "6192 Mission St, Daly City, CA 94014, USA",
       "location": {
