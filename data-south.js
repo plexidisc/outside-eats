@@ -12595,7 +12595,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://online-ordering.innowi.com/branch/medgrill",
       "phone": "(650) 938-4048",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mediterranean Grill House xCoffee Small.jpeg"
     },
     {
       "id": "ChIJczRbohGxj4ARJefRmnm2_mg",
