@@ -12905,7 +12905,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://olivia-bros.square.site/",
       "priceRange": "$$",
-      "description": "Halal Mediterranean kitchen at 286 W El Camino Real with grilled chicken wraps, lavash sandwiches, and fresh greens — a casual fast-casual option near NAR Restaurant."
+      "description": "Halal Mediterranean kitchen at 286 W El Camino Real with grilled chicken wraps, lavash sandwiches, and fresh greens — a casual fast-casual option near NAR Restaurant.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Olivia Bros Small.jpeg"
     },
     {
       "id": "ChIJZSOjJjS3j4AR1laX4fkSz08",
