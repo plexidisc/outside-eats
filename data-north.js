@@ -331,21 +331,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJ3VjyinJ8j4ARm6mZIXs9_xQ",
-      "formattedAddress": "260 Washington St, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6882276,
-        "longitude": -122.47200409999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1512995598873766299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/159",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJ36u3pLN7j4ARvgjIhEJ9eSw",
       "formattedAddress": "94 Serramonte Center, Daly City, CA 94015, USA",
       "location": {
