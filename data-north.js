@@ -1,531 +1,6 @@
 var PREBAKED_DATA_NORTH = {
   "Daly City, CA": [
     {
-      "id": "ChIJGY_jLFp8j4ARXLcIfxMpJw8",
-      "formattedAddress": "11 Glenwood Ave, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.701585,
-        "longitude": -122.485509
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1091886598373029724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://originaljoes.com/westlake/",
-      "displayName": {
-        "text": "Original Joe’s Westlake",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJxXtTPo17j4ARGadfvfXF3Xo",
-      "formattedAddress": "94 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6718901,
-        "longitude": -122.4717574
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8853450101715085081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.villaitaliankitchen.com/en-us/ca/daly-city/94-serramonte-center/",
-      "displayName": {
-        "text": "Villa Fresh Italian Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJK1Z6kz59j4ARS6REZ8ZAo9Y",
-      "formattedAddress": "6540 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7037146,
-        "longitude": -122.4631109
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15466276766200669259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://kingswestcoastpizzeria.com/",
-      "displayName": {
-        "text": "Kings West Coast Pizzeria",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJ2UB_iQh9j4ARUpVx_aP6dIE",
-      "formattedAddress": "361 E Market St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6902444,
-        "longitude": -122.4617581
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9328356310429832530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://unipizzeria.com/",
-      "displayName": {
-        "text": "UNI Pizzeria & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJR7gzxBV8j4AR2G_XEVdA5Pw",
-      "formattedAddress": "301 Miriam St Suite B, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6993815,
-        "longitude": -122.46464619999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18222760734953533400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.pizzaandpastahousewestlake.com/",
-      "displayName": {
-        "text": "PIZZA & PASTA HOUSE",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJcdULtdF7j4ARHnpAwPFQkA8",
-      "formattedAddress": "36 Serramonte Center Unit 232, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6720799,
-        "longitude": -122.47153569999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1121485306458044958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marufukuramen.com/",
-      "displayName": {
-        "text": "Marufuku Ramen Serramonte",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ6-RoBwB7j4ARQnB_-6CI2SY",
-      "formattedAddress": "2085 Gellert Blvd #6, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6501887,
-        "longitude": -122.4534486
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2799418868383051842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.kingkatsuland.com/",
-      "displayName": {
-        "text": "King Katsu Land",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJYYreIM59j4ARtC_tUCX5asU",
-      "formattedAddress": "1901E Junipero Serra Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7021881,
-        "longitude": -122.4705689
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14225456311669960628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://yokohamaiekei.net/",
-      "displayName": {
-        "text": "Yokohama Iekei Ramen Daly City",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJbzxsjEB8j4ARKzKIS39vhbQ",
-      "formattedAddress": "1901 Junipero Serra Blvd # G, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7020857,
-        "longitude": -122.47056850000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13007925691248292395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://tomosushiteriyaki.shop/",
-      "displayName": {
-        "text": "Tomo Sushi & Teriyaki",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ_UVCRI17j4ARCZmiYMuClqk",
-      "formattedAddress": "127-H Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6714193,
-        "longitude": -122.4703335
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12220098448927660297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.yoshi-ramen.com/",
-      "displayName": {
-        "text": "Yoshi Ramen & Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ24VUchN9j4ARgGNP7UAWO9Y",
-      "formattedAddress": "32 Park Plaza Dr, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.7012836,
-        "longitude": -122.4819828
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15436956615857628032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://ohbabysushi.com/",
-      "displayName": {
-        "text": "Tiny Sushi - Oh Baby",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJMwLZ7nx8j4AR7XOr7cCSg3c",
-      "formattedAddress": "240 Skyline Plaza, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6817861,
-        "longitude": -122.4881194
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8611888269781332973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://majikkuramen.net/",
-      "displayName": {
-        "text": "Majikku Ramen",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJBz5SOJl9j4ARTvT_ZDUpch4",
-      "formattedAddress": "177 Southgate Ave, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6971734,
-        "longitude": -122.4837633
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2193861277787354190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tomsanramendalycity.com/?utm_source=gmb&utm_medium=website",
-      "displayName": {
-        "text": "Tom San Ramen",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ36u3pLN7j4ARvgjIhEJ9eSw",
-      "formattedAddress": "94 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6718304,
-        "longitude": -122.4716337
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3204730334499834046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.izumikaitensushi.com/",
-      "displayName": {
-        "text": "Izumi Revolving Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJDQYsWeJ9j4ARQERHM0Ylj5k",
-      "formattedAddress": "201 Southgate Ave, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.697143499999996,
-        "longitude": -122.48435239999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11065103792910844992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.kankiineatery.com/",
-      "displayName": {
-        "text": "KAN KIIN BRUNCH & THAI EATERY",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJh8-odnR7j4ARz7d7QnXg-sA",
-      "formattedAddress": "148 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6703804,
-        "longitude": -122.4735931
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13905673593691027407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.simmerhuangmiaogrill.com/",
-      "displayName": {
-        "text": "Simmer Huang / Miao Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJYwwRs6p9j4ARspsBuYeRfP8",
-      "formattedAddress": "2 Chester St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.686267099999995,
-        "longitude": -122.4594337
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18409749388894247858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.laspencasdemaguey-restaurant.com/",
-      "displayName": {
-        "text": "Las Pencas de Maguey Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJwbETVIB9j4ARGi09j8fT24c",
-      "formattedAddress": "2408 B Junipero Serra Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6931489,
-        "longitude": -122.4713056
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9789651069075008794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Taqueria Los Agaves",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJVTIF3KR9j4ARVyWQUogpUi0",
-      "formattedAddress": "6286 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7060423,
-        "longitude": -122.46175099999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3265718345274500439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Los Cuernos",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJrWowAut7j4ARzXSNL7aP0eg",
-      "formattedAddress": "379 Gellert Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6647148,
-        "longitude": -122.46691129999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16776348099576427725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.celiasrestaurants.com/",
-      "displayName": {
-        "text": "Celia's",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJaTdo59t9j4ARb4xrUoGo8gI",
-      "formattedAddress": "1618 Sullivan Ave, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6873748,
-        "longitude": -122.4724632
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=212417405826862191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://taqueriadoscharros.online/",
-      "displayName": {
-        "text": "Taqueria Dos Charros",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJsyKAMnN8j4ARio8CJwn11pw",
-      "formattedAddress": "260 San Pedro Rd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6869389,
-        "longitude": -122.4695
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11301489734590828426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://losmetatesca.com/",
-      "displayName": {
-        "text": "Los Metates",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJxftR9Q58j4AR3i3-r4zJP9Q",
-      "formattedAddress": "311 E Market St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6903206,
-        "longitude": -122.46222849999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15294164465658768862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://m.facebook.com/profile.php?id=170041643131634",
-      "displayName": {
-        "text": "Los Cuates Taqueria",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJ1cAOdRZ8j4AR-UYperx90fg",
-      "formattedAddress": "6771 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7000129,
-        "longitude": -122.46357829999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17929249839995504377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Mi Guadalajara",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJmRJZP_p9j4AR0KEXYJuChFE",
-      "formattedAddress": "7428 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6876228,
-        "longitude": -122.46604089999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5873963417841672656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Tacos El Charrito Food Truck",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJSayidut7j4AR1iWKufPh-d0",
-      "formattedAddress": "365 Gellert Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6660867,
-        "longitude": -122.46662909999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15995063988489168342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://koipalace.com/menu",
-      "displayName": {
-        "text": "Koi Palace",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJWwMKn_t9j4ARwtkPUWCQq5M",
-      "formattedAddress": "6811 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.699204099999996,
-        "longitude": -122.46374869999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10640757287944182210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.spicyhousetogo.com/",
-      "displayName": {
-        "text": "Spicy House 川香小館",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJ7Wy_Gm18j4ARHpvGwhsJTGA",
-      "formattedAddress": "250 90th St, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.691258499999996,
-        "longitude": -122.4714665
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6938931140707654430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Canton Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJi4q0Bg18j4ARaT1yCYzOgps",
-      "formattedAddress": "1 San Pedro Rd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6888406,
-        "longitude": -122.46677890000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11205745923700440425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Suily's Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ_T2i1Ah8j4ARircqKd3tblI",
-      "formattedAddress": "1111 Hillside Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.688161,
-        "longitude": -122.4604785
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5939946492682483594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Wong's Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJaQTCajx8j4ARWQAUNj16xPo",
-      "formattedAddress": "6356 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7054222,
-        "longitude": -122.46225720000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18069702008236146777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pacificrestaurantgo.site/",
-      "displayName": {
-        "text": "Pacific Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJjRkV7xN8j4ARjlroR1FeTto",
-      "formattedAddress": "7007 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6954758,
-        "longitude": -122.46450259999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15730614251643493006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Fung Wah Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJqet_xsV-j4ARa0n_qu06DzE",
-      "formattedAddress": "2511 Geneva Ave, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.707918299999996,
-        "longitude": -122.41714599999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3535109024959646059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.goldenmooncalifornia.com/",
-      "displayName": {
-        "text": "Golden Moon Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJnSrjqJp7j4ARYKC6Tq84twc",
-      "formattedAddress": "66 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6718258,
-        "longitude": -122.47214460000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=555975404594831456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.ygfdalycity.com/",
-      "displayName": {
-        "text": "YGF Malatang",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJV1sBRiN8j4ARX-P2zTC5MFQ",
-      "formattedAddress": "6127 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7070869,
-        "longitude": -122.4572835
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6066552317333136223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://docs.google.com/spreadsheets/d/1a7tGmqmb1pOtXuEU0WrX7c4cFV8K1q9qQhNlHtEuL6s/edit?usp=sharing",
-      "displayName": {
-        "text": "Little Hunan Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
       "id": "ChIJu4vJY1x8j4ARLq2Z8D8560Y",
       "formattedAddress": "273 Lake Merced Blvd, Daly City, CA 94015, USA",
       "location": {
@@ -541,19 +16,19 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Singaporean"
     },
     {
-      "id": "ChIJwynKLCV7j4ARyYeXr2SKLuc",
-      "formattedAddress": "94015, United States, California, Daly City, Gellert Blvd, #2",
+      "id": "ChIJ7ebRlFx8j4ARKuxfgkVUB7I",
+      "formattedAddress": "511 Westlake Center, Daly City, CA 94015, USA",
       "location": {
-        "latitude": 37.6501972,
-        "longitude": -122.45397799999999
+        "latitude": 37.6994444,
+        "longitude": -122.4822222
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16658404236737349577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.shinethaicuisine.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=12828314721104948266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bluelinepizza.com/",
       "displayName": {
-        "text": "Shine Thai Cuisine",
+        "text": "Blue Line Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Pizza"
     },
     {
       "id": "ChIJP7V2IER8j4ARmwqj9PK5tcw",
@@ -569,111 +44,6 @@ var PREBAKED_DATA_NORTH = {
         "languageCode": "en"
       },
       "cuisine": "Other"
-    },
-    {
-      "id": "ChIJ0akYrzh7j4ARtcaArzlup-c",
-      "formattedAddress": "127 K Serramonte Center Space 662, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.671239199999995,
-        "longitude": -122.47033870000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16692431737908676277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://superduperburgers.com/",
-      "displayName": {
-        "text": "Super Duper Burgers",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJ-1sHh-N9j4ARMY2FY1r11wc",
-      "formattedAddress": "344 Westlake Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.700550299999996,
-        "longitude": -122.48309849999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=565190046823845169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://onohawaiianbbq.com/",
-      "displayName": {
-        "text": "Ohana Hawaiian BBQ",
-        "languageCode": "en"
-      },
-      "cuisine": "BBQ"
-    },
-    {
-      "id": "ChIJLz3OK118j4ARce109CngBks",
-      "formattedAddress": "25 Southgate Ave, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.698005699999996,
-        "longitude": -122.4809455
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5406254873504443761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Shaking Crab",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
-    },
-    {
-      "id": "ChIJl9t3MnN8j4ARJA5bUhhoAuU",
-      "formattedAddress": "270 San Pedro Rd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6869596,
-        "longitude": -122.46962099999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16501866438309121572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://keithschickennwaffles.com/?utm_source=google",
-      "displayName": {
-        "text": "Keith’s Chicken N Waffles",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJLwUinFt8j4ARlavAOyaDfk0",
-      "formattedAddress": "201 Westlake Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.701546199999996,
-        "longitude": -122.48212910000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5584044788220472213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://nationsrestaurants.com/",
-      "displayName": {
-        "text": "Nation's Giant Hamburgers & Great Pies",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJ_f97C-t7j4ARJnTW3EXqaeY",
-      "formattedAddress": "371 Gellert Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6656014,
-        "longitude": -122.46661859999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16603059087056729126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.outback.com/california/daly-city/371-gellert-blvd.?utm_source=gmb&utm_medium=local_search&utm_campaign=website_cta&y_source=1_MTU1MDI2MDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "displayName": {
-        "text": "Outback Steakhouse",
-        "languageCode": "en"
-      },
-      "cuisine": "Steakhouse"
-    },
-    {
-      "id": "ChIJx_D6mg18j4AR0lAywGlSQ28",
-      "formattedAddress": "7370 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6903508,
-        "longitude": -122.46607069999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8017342375799181522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://chick-n-coop.paqe.io/",
-      "displayName": {
-        "text": "Chick N Coop",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
     },
     {
       "id": "ChIJ5ZcPfa99j4ARKLAOqFrsrdA",
@@ -706,124 +76,79 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Seafood"
     },
     {
-      "id": "ChIJzZLbbo17j4ARQTSlD2kGmpM",
-      "formattedAddress": "130 Serramonte Center, Daly City, CA 94015, USA",
+      "id": "ChIJ7Wy_Gm18j4ARHpvGwhsJTGA",
+      "formattedAddress": "250 90th St, Daly City, CA 94015, USA",
       "location": {
-        "latitude": 37.671210699999996,
-        "longitude": -122.471632
+        "latitude": 37.691258499999996,
+        "longitude": -122.4714665
       },
-      "googleMapsUri": "https://maps.google.com/?cid=10635820518292665409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.daveandbusters.com/us/en/about/locations/daly-city",
+      "googleMapsUri": "https://maps.google.com/?cid=6938931140707654430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "Dave & Buster's Daly City",
+        "text": "Canton Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJrWowAut7j4ARzXSNL7aP0eg",
+      "formattedAddress": "379 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6647148,
+        "longitude": -122.46691129999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16776348099576427725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.celiasrestaurants.com/",
+      "displayName": {
+        "text": "Celia's",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJgQyAvdN7j4ARcLmzTu7rk5s",
+      "formattedAddress": "2055 Gellert Blvd #5, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.650205199999995,
+        "longitude": -122.4537896
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11210563306210441584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.chibogrestaurant.com/",
+      "displayName": {
+        "text": "Chibog",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJT_uDmt19j4ARNIld6z0W5Xg",
+      "formattedAddress": "243 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.7010959,
+        "longitude": -122.4822811
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8711393509415684404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://chicknjajang.com/",
+      "displayName": {
+        "text": "Chick & Jajang",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJx_D6mg18j4AR0lAywGlSQ28",
+      "formattedAddress": "7370 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6903508,
+        "longitude": -122.46607069999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8017342375799181522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://chick-n-coop.paqe.io/",
+      "displayName": {
+        "text": "Chick N Coop",
         "languageCode": "en"
       },
       "cuisine": "American"
-    },
-    {
-      "id": "ChIJzw2KUgB9j4ARGWqeU0Vl8eI",
-      "formattedAddress": "2985 Junipero Serra Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.687049,
-        "longitude": -122.46988499999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16352963070389021209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://northbeachpizza.com/northbeachpizzadc?utm_source=google",
-      "displayName": {
-        "text": "North Beach Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJPaM07xN8j4ARXc2O2mr6-ag",
-      "formattedAddress": "7027 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6953798,
-        "longitude": -122.4643665
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12176038404413115741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.primopizzasf.com/",
-      "displayName": {
-        "text": "Primo Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJ7ebRlFx8j4ARKuxfgkVUB7I",
-      "formattedAddress": "511 Westlake Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6994444,
-        "longitude": -122.4822222
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12828314721104948266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.bluelinepizza.com/",
-      "displayName": {
-        "text": "Blue Line Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJh3Miqm58j4ARXY4O0hskbbw",
-      "formattedAddress": "321 87th St, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.69291,
-        "longitude": -122.475123
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13577548153498799709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mrpizzamandc.com/?utm_source=google",
-      "displayName": {
-        "text": "Mr. Pizza Man",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJZR0NioN9j4ARO3lIbz2ZCvI",
-      "formattedAddress": "35 Skyline Plaza, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6826503,
-        "longitude": -122.48778129999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17440920996084742459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mountainmikespizza.com/locations/daly-city-skyline/",
-      "displayName": {
-        "text": "Mountain Mike's Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJTZcikTx8j4ARMMRL6ZQ4XxU",
-      "formattedAddress": "6222 Mission St, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.7066418,
-        "longitude": -122.460015
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1540011809804370992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
-      "displayName": {
-        "text": "Round Table Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJd9SdW417j4ARtnxzFfeP1F0",
-      "formattedAddress": "127 Serramonte Center Suite 660, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6710182,
-        "longitude": -122.4703879
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6761187231969541302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.modpizza.com/usa/ca/daly-city/127-serramonte-center?utm_source=google&utm_medium=yext",
-      "displayName": {
-        "text": "MOD Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
     },
     {
       "id": "ChIJ_cv4kmx8j4ARfXRjkWVDavo",
@@ -841,49 +166,439 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Greek/Mediterranean"
     },
     {
-      "id": "ChIJ_d8BExN9j4ARn_pIUtn36Lg",
-      "formattedAddress": "25 Washington St, Daly City, CA 94014, USA",
+      "id": "ChIJvaFDS1x8j4ARFAAjdyHOwRA",
+      "formattedAddress": "235 Southgate Ave, Daly City, CA 94015, USA",
       "location": {
-        "latitude": 37.6878144,
-        "longitude": -122.4693472
+        "latitude": 37.697061999999995,
+        "longitude": -122.48489789999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=13324172010336090783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://mesoresto.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1207472818240028692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "Mesoresto",
+        "text": "Dae Jang Geum Tofu House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJyfK9ilR9j4AR8iWXX-zWa_g",
+      "formattedAddress": "7384 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6901662,
+        "longitude": -122.46612929999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17900637454618535410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Fiesta Chapina",
+        "languageCode": "es"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJMRjOTBJ8j4AR4-n4c_yOwVY",
+      "formattedAddress": "66 School St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.693505,
+        "longitude": -122.4656225
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6251434972695554531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.filamcuisine.com/#!location/c14xr",
+      "displayName": {
+        "text": "Fil-Am Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJjRkV7xN8j4ARjlroR1FeTto",
+      "formattedAddress": "7007 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6954758,
+        "longitude": -122.46450259999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15730614251643493006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Fung Wah Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ2wFOSyN8j4AR0Tn2cw-DodM",
+      "formattedAddress": "6165 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7068667,
+        "longitude": -122.4580139
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15249613915646474705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Gateway Kitchen",
         "languageCode": "en"
       },
       "cuisine": "Other"
     },
     {
-      "id": "ChIJoRiFBMh9j4ARTjmyQJOqzFo",
-      "formattedAddress": "507 Westlake Center, Daly City, CA 94015, USA",
+      "id": "ChIJqet_xsV-j4ARa0n_qu06DzE",
+      "formattedAddress": "2511 Geneva Ave, Daly City, CA 94014, USA",
       "location": {
-        "latitude": 37.699577,
-        "longitude": -122.482389
+        "latitude": 37.707918299999996,
+        "longitude": -122.41714599999997
       },
-      "googleMapsUri": "https://maps.google.com/?cid=6542791908084824398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.nickthegreek.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=3535109024959646059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.goldenmooncalifornia.com/",
       "displayName": {
-        "text": "Nick the Greek | Daly City",
+        "text": "Golden Moon Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Chinese"
     },
     {
-      "id": "ChIJ3csTatV7j4AR4aqlq3io6A4",
-      "formattedAddress": "309 Gellert Blvd B, Daly City, CA 94015, USA",
+      "id": "ChIJd3mU1-x7j4ARBD7eOWXwt78",
+      "formattedAddress": "305 Gellert Blvd STE A, Daly City, CA 94015, USA",
       "location": {
-        "latitude": 37.668104899999996,
-        "longitude": -122.4684211
+        "latitude": 37.668865,
+        "longitude": -122.4685086
       },
-      "googleMapsUri": "https://maps.google.com/?cid=1074293747357166305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://nickthegreek.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13814774699535515140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.habitburger.com/store/103/category",
       "displayName": {
-        "text": "Nick the Greek",
+        "text": "Habit Burger & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJvV9sSPt9j4ARX5BAXqzFjHA",
+      "formattedAddress": "7622 El Camino Real, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6855104,
+        "longitude": -122.46471260000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8110074373093757023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Halal Good Subs Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJpc5LzT18j4ARvGITwlFM754",
+      "formattedAddress": "6524 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7038724,
+        "longitude": -122.4629415
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11452456291458572988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Halal International market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJzeeTCA18j4ARad0Jj5RQnhE",
+      "formattedAddress": "50 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6896051,
+        "longitude": -122.46749599999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1269540743950228841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Hawaiian Drive Inn",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ"
+    },
+    {
+      "id": "ChIJy_xFFf19j4ARvpTqAIUSIOI",
+      "formattedAddress": "7499 El Camino Real, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6883327,
+        "longitude": -122.4655844
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16294043814281778366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/hibachi_truck",
+      "displayName": {
+        "text": "Hibachi Truck",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ2awfkWx8j4AR-upR2GceuZc",
+      "formattedAddress": "2398 Junipero Serra Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6934115,
+        "longitude": -122.4717126
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10932803001778301690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restaurants.ihop.com/en-us/ca/daly-city/breakfast-2398-junipero-serra-blvd-1709?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=1709&utm_content=website",
+      "displayName": {
+        "text": "IHOP",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJsf1zRo17j4ARVDjzcUy3I3M",
+      "formattedAddress": "128 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6715613,
+        "longitude": -122.4703136
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8296676477503748180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.ikessandwich.com/ca/dalycity/117/?utm_source=gmb&utm_medium=profile&utm_campaign=dalycity-location-page",
+      "displayName": {
+        "text": "Ike's Love & Sandwiches",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJr1hqVOt7j4AR-EXIDMectxU",
+      "formattedAddress": "372 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.665829099999996,
+        "longitude": -122.4693245
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1564891774261413368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.in-n-out.com/326",
+      "displayName": {
+        "text": "In-N-Out Burger",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJ3VjyinJ8j4ARm6mZIXs9_xQ",
+      "formattedAddress": "260 Washington St, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6882276,
+        "longitude": -122.47200409999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1512995598873766299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.in-n-out.com/159",
+      "displayName": {
+        "text": "In-N-Out Burger",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJ36u3pLN7j4ARvgjIhEJ9eSw",
+      "formattedAddress": "94 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6718304,
+        "longitude": -122.4716337
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3204730334499834046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.izumikaitensushi.com/",
+      "displayName": {
+        "text": "Izumi Revolving Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJHey2OAB7j4ARTM5ARcRgu1w",
+      "formattedAddress": "63 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.671979799999995,
+        "longitude": -122.46926699999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6682040868225994316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://jagalchi.com/",
+      "displayName": {
+        "text": "Jagalchi",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJe_u2yK57j4ARsaQBnoZ27l0",
+      "formattedAddress": "84 Serramonte Center Suite J700, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.671481,
+        "longitude": -122.47124600000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6768477610533037233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.jollibeefoods.com/usa/ca/daly-city/84-serramonte-center?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=3061",
+      "displayName": {
+        "text": "Jollibee",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJW8nwI0l9j4ARd7K5Wh5RKcQ",
+      "formattedAddress": "125 Station Ave, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.692905499999995,
+        "longitude": -122.4687577
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14134918096292000375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Junior’s Empanadas",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJDQYsWeJ9j4ARQERHM0Ylj5k",
+      "formattedAddress": "201 Southgate Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.697143499999996,
+        "longitude": -122.48435239999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11065103792910844992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.kankiineatery.com/",
+      "displayName": {
+        "text": "KAN KIIN BRUNCH & THAI EATERY",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJl9t3MnN8j4ARJA5bUhhoAuU",
+      "formattedAddress": "270 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6869596,
+        "longitude": -122.46962099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16501866438309121572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://keithschickennwaffles.com/?utm_source=google",
+      "displayName": {
+        "text": "Keith’s Chicken N Waffles",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ6-RoBwB7j4ARQnB_-6CI2SY",
+      "formattedAddress": "2085 Gellert Blvd #6, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6501887,
+        "longitude": -122.4534486
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2799418868383051842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.kingkatsuland.com/",
+      "displayName": {
+        "text": "King Katsu Land",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJK1Z6kz59j4ARS6REZ8ZAo9Y",
+      "formattedAddress": "6540 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7037146,
+        "longitude": -122.4631109
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15466276766200669259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kingswestcoastpizzeria.com/",
+      "displayName": {
+        "text": "Kings West Coast Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJSayidut7j4AR1iWKufPh-d0",
+      "formattedAddress": "365 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6660867,
+        "longitude": -122.46662909999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15995063988489168342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://koipalace.com/menu",
+      "displayName": {
+        "text": "Koi Palace",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJG5BaFFp9j4ARJU7v5j-rFbI",
+      "formattedAddress": "2350 Junipero Serra Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6946151,
+        "longitude": -122.4715377
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12832351004207828517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Kukje Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJ08mnohZ8j4ARtkoKozMOCEc",
+      "formattedAddress": "6893 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6970315,
+        "longitude": -122.462942
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5118356591448050358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hawaiianbarbecue.com/",
+      "displayName": {
+        "text": "L&L Hawaiian Barbecue - Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ"
+    },
+    {
+      "id": "ChIJz_PeLrd9j4ARLa3eQTDHvOY",
+      "formattedAddress": "5997 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7079711,
+        "longitude": -122.45471010000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16626382934422498605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "La perla de Oriente Restaurant",
+        "languageCode": "es"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJYwwRs6p9j4ARspsBuYeRfP8",
+      "formattedAddress": "2 Chester St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.686267099999995,
+        "longitude": -122.4594337
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18409749388894247858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.laspencasdemaguey-restaurant.com/",
+      "displayName": {
+        "text": "Las Pencas de Maguey Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJ-6oJJot9j4ARKBGFjfjt6jY",
+      "formattedAddress": "1165 Hillside Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6870365,
+        "longitude": -122.46007970000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3957236874380382504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Las pencas food truck #2",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
     },
     {
       "id": "ChIJoWobYC19j4ARP7ufFK4zFBQ",
@@ -901,19 +616,469 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Middle Eastern"
     },
     {
-      "id": "ChIJVShMDuh_j4ARK1UzAzhSSI8",
-      "formattedAddress": "6192 Mission St, Daly City, CA 94014, USA",
+      "id": "ChIJVZgncdN7j4AR7aN-JLaYBUE",
+      "formattedAddress": "980 King Dr Suite #1 & #3, Daly City, CA 94015, USA",
       "location": {
-        "latitude": 37.7069212,
-        "longitude": -122.45886510000001
+        "latitude": 37.6507456,
+        "longitude": -122.46844010000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=10324592546272204075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.shish-kebaba.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4685318895412618221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://lingnamrestaurant.com/",
       "displayName": {
-        "text": "Shish Ke Baba",
+        "text": "Ling Nam Restaurant and Bakeshop",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJV1sBRiN8j4ARX-P2zTC5MFQ",
+      "formattedAddress": "6127 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7070869,
+        "longitude": -122.4572835
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6066552317333136223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://docs.google.com/spreadsheets/d/1a7tGmqmb1pOtXuEU0WrX7c4cFV8K1q9qQhNlHtEuL6s/edit?usp=sharing",
+      "displayName": {
+        "text": "Little Hunan Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJTQN21Nh7j4ARf5VTijwRwvQ",
+      "formattedAddress": "Serramonte Blvd & Hwy 1, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6691522,
+        "longitude": -122.4776747
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17636678042452727167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orderlomalindatacotruck.com/",
+      "displayName": {
+        "text": "Loma Linda Taco Truck",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJxftR9Q58j4AR3i3-r4zJP9Q",
+      "formattedAddress": "311 E Market St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6903206,
+        "longitude": -122.46222849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15294164465658768862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://m.facebook.com/profile.php?id=170041643131634",
+      "displayName": {
+        "text": "Los Cuates Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJVTIF3KR9j4ARVyWQUogpUi0",
+      "formattedAddress": "6286 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7060423,
+        "longitude": -122.46175099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3265718345274500439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Los Cuernos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJsyKAMnN8j4ARio8CJwn11pw",
+      "formattedAddress": "260 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6869389,
+        "longitude": -122.4695
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11301489734590828426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://losmetatesca.com/",
+      "displayName": {
+        "text": "Los Metates",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJCb8fhcV-j4AR6xh11YAagnE",
+      "formattedAddress": "2666 Geneva Ave, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7070224,
+        "longitude": -122.4161302
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8179129013897599211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://luckys-bakery-cafe.edan.io/",
+      "displayName": {
+        "text": "Lucky's Bakery & Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJMwLZ7nx8j4AR7XOr7cCSg3c",
+      "formattedAddress": "240 Skyline Plaza, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6817861,
+        "longitude": -122.4881194
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8611888269781332973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://majikkuramen.net/",
+      "displayName": {
+        "text": "Majikku Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJcdULtdF7j4ARHnpAwPFQkA8",
+      "formattedAddress": "36 Serramonte Center Unit 232, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6720799,
+        "longitude": -122.47153569999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1121485306458044958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.marufukuramen.com/",
+      "displayName": {
+        "text": "Marufuku Ramen Serramonte",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJR0jVQjx8j4AR3YiaBWEd4GQ",
+      "formattedAddress": "6339 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7053935,
+        "longitude": -122.4616408
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7268842101119027421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mekeni Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJ_d8BExN9j4ARn_pIUtn36Lg",
+      "formattedAddress": "25 Washington St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6878144,
+        "longitude": -122.4693472
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13324172010336090783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mesoresto.com/",
+      "displayName": {
+        "text": "Mesoresto",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJ1cAOdRZ8j4AR-UYperx90fg",
+      "formattedAddress": "6771 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7000129,
+        "longitude": -122.46357829999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17929249839995504377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mi Guadalajara",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJj0ixiWx8j4AR2v5O5ceLP1g",
+      "formattedAddress": "199 87th St, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6931607,
+        "longitude": -122.4720459
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6358954889532341978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://misstomatos.com/",
+      "displayName": {
+        "text": "Miss Tomato Sandwiches and liquor",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJd9SdW417j4ARtnxzFfeP1F0",
+      "formattedAddress": "127 Serramonte Center Suite 660, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6710182,
+        "longitude": -122.4703879
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6761187231969541302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.modpizza.com/usa/ca/daly-city/127-serramonte-center?utm_source=google&utm_medium=yext",
+      "displayName": {
+        "text": "MOD Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJwcPyVAB7j4ARnH8wG3DU1pM",
+      "formattedAddress": "90 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6717544,
+        "longitude": -122.47174989999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10652935546549075868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mong Q Mongolian BBQ Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJZR0NioN9j4ARO3lIbz2ZCvI",
+      "formattedAddress": "35 Skyline Plaza, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6826503,
+        "longitude": -122.48778129999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17440920996084742459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mountainmikespizza.com/locations/daly-city-skyline/",
+      "displayName": {
+        "text": "Mountain Mike's Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJT0hxCG18j4ARA9TQ3Mhf6jc",
+      "formattedAddress": "1301 Sullivan Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.690953199999996,
+        "longitude": -122.47206349999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4029138132939101187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dcmrpickles.com/",
+      "displayName": {
+        "text": "Mr. Pickles",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJh3Miqm58j4ARXY4O0hskbbw",
+      "formattedAddress": "321 87th St, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.69291,
+        "longitude": -122.475123
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13577548153498799709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mrpizzamandc.com/?utm_source=google",
+      "displayName": {
+        "text": "Mr. Pizza Man",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJLwUinFt8j4ARlavAOyaDfk0",
+      "formattedAddress": "201 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.701546199999996,
+        "longitude": -122.48212910000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5584044788220472213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nationsrestaurants.com/",
+      "displayName": {
+        "text": "Nation's Giant Hamburgers & Great Pies",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJYR_UbBh9j4ARDAJMuTbLGnw",
+      "formattedAddress": "398 Templeton Ave, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7059041,
+        "longitude": -122.45284989999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8942683445994979852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://newdalycitymarketgo.site/",
+      "displayName": {
+        "text": "New Daly City Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJmU0qrIx9j4ARivdFCbtG6HM",
+      "formattedAddress": "6282 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7060745,
+        "longitude": -122.46170670000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8352003278086993802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://thenickandnorabar.com/",
+      "displayName": {
+        "text": "Nick & Nora",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJ3csTatV7j4AR4aqlq3io6A4",
+      "formattedAddress": "309 Gellert Blvd B, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.668104899999996,
+        "longitude": -122.4684211
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1074293747357166305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://nickthegreek.com/",
+      "displayName": {
+        "text": "Nick the Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJoRiFBMh9j4ARTjmyQJOqzFo",
+      "formattedAddress": "507 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.699577,
+        "longitude": -122.482389
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6542791908084824398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nickthegreek.com/",
+      "displayName": {
+        "text": "Nick the Greek | Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean"
+    },
+    {
+      "id": "ChIJzw2KUgB9j4ARGWqeU0Vl8eI",
+      "formattedAddress": "2985 Junipero Serra Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.687049,
+        "longitude": -122.46988499999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16352963070389021209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://northbeachpizza.com/northbeachpizzadc?utm_source=google",
+      "displayName": {
+        "text": "North Beach Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJ-1sHh-N9j4ARMY2FY1r11wc",
+      "formattedAddress": "344 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.700550299999996,
+        "longitude": -122.48309849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=565190046823845169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://onohawaiianbbq.com/",
+      "displayName": {
+        "text": "Ohana Hawaiian BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ"
+    },
+    {
+      "id": "ChIJGY_jLFp8j4ARXLcIfxMpJw8",
+      "formattedAddress": "11 Glenwood Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.701585,
+        "longitude": -122.485509
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1091886598373029724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://originaljoes.com/westlake/",
+      "displayName": {
+        "text": "Original Joe’s Westlake",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJ_f97C-t7j4ARJnTW3EXqaeY",
+      "formattedAddress": "371 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6656014,
+        "longitude": -122.46661859999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16603059087056729126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.outback.com/california/daly-city/371-gellert-blvd.?utm_source=gmb&utm_medium=local_search&utm_campaign=website_cta&y_source=1_MTU1MDI2MDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Outback Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse"
+    },
+    {
+      "id": "ChIJaQTCajx8j4ARWQAUNj16xPo",
+      "formattedAddress": "6356 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7054222,
+        "longitude": -122.46225720000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18069702008236146777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pacificrestaurantgo.site/",
+      "displayName": {
+        "text": "Pacific Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJwwMk6ex7j4ARwP9JUrUO1LY",
+      "formattedAddress": "307 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6685808,
+        "longitude": -122.46856530000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13174170981897994176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.panerabread.com/en-us/cafe/locations/ca/daly-city/307-gellert-blvd?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=204484&utm_content=main",
+      "displayName": {
+        "text": "Panera Bread",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJSVbh0T18j4AREYIWplV8gVw",
+      "formattedAddress": "6564 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7035036,
+        "longitude": -122.46307479999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6665745630785602065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Paradise Brazilian Imports",
+        "languageCode": "en"
+      },
+      "cuisine": "Brazilian"
+    },
+    {
+      "id": "ChIJGWNus8p9j4ARb-o9kZkyW5s",
+      "formattedAddress": "7 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6886934,
+        "longitude": -122.46686559999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11194596933907638895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Pares sa Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino"
     },
     {
       "id": "ChIJM9MQD8h7j4ARG5BqGciez8Y",
@@ -961,96 +1126,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Vietnamese"
     },
     {
-      "id": "ChIJvaFDS1x8j4ARFAAjdyHOwRA",
-      "formattedAddress": "235 Southgate Ave, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.697061999999995,
-        "longitude": -122.48489789999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1207472818240028692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Dae Jang Geum Tofu House",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJG5BaFFp9j4ARJU7v5j-rFbI",
-      "formattedAddress": "2350 Junipero Serra Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6946151,
-        "longitude": -122.4715377
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12832351004207828517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Kukje Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJT_uDmt19j4ARNIld6z0W5Xg",
-      "formattedAddress": "243 Westlake Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.7010959,
-        "longitude": -122.4822811
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8711393509415684404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://chicknjajang.com/",
-      "displayName": {
-        "text": "Chick & Jajang",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJHey2OAB7j4ARTM5ARcRgu1w",
-      "formattedAddress": "63 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.671979799999995,
-        "longitude": -122.46926699999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6682040868225994316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://jagalchi.com/",
-      "displayName": {
-        "text": "Jagalchi",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJb3D4b2t8j4ARkBUG8Axqpbo",
-      "formattedAddress": "2350 Junipero Serra Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.694714499999996,
-        "longitude": -122.47144929999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13449272466010936720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Tofu and BBQ House",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
-      "id": "ChIJQ4BnIyF7j4ARASVC3xDPZHQ",
-      "formattedAddress": "383 Gellert Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6647052,
-        "longitude": -122.46764759999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8387056077442786561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.seapotusa.com/daly-city-ca",
-      "displayName": {
-        "text": "Seapot Daly City",
-        "languageCode": "en"
-      },
-      "cuisine": "Korean"
-    },
-    {
       "id": "ChIJoaeKfAB9j4ARBoIS9OZbKYY",
       "formattedAddress": "102 Palisades Dr, Daly City, CA 94015, USA",
       "location": {
@@ -1066,604 +1141,19 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Other"
     },
     {
-      "id": "ChIJMw0UBA18j4ARmcSetSq8Fvw",
-      "formattedAddress": "6860 Mission St, Daly City, CA 94014, USA",
+      "id": "ChIJR7gzxBV8j4AR2G_XEVdA5Pw",
+      "formattedAddress": "301 Miriam St Suite B, Daly City, CA 94014, USA",
       "location": {
-        "latitude": 37.6982462,
-        "longitude": -122.4644478
+        "latitude": 37.6993815,
+        "longitude": -122.46464619999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=18164913038667203737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tselogs.com/home.html",
+      "googleMapsUri": "https://maps.google.com/?cid=18222760734953533400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzaandpastahousewestlake.com/",
       "displayName": {
-        "text": "Tselogs",
+        "text": "PIZZA & PASTA HOUSE",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJrdNCMoh9j4ARqcvGFbegBws",
-      "formattedAddress": "301 Miriam St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6993631,
-        "longitude": -122.4647596
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=794780567458991017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Rosi's Alfajores",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJSVbh0T18j4AREYIWplV8gVw",
-      "formattedAddress": "6564 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7035036,
-        "longitude": -122.46307479999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6665745630785602065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Paradise Brazilian Imports",
-        "languageCode": "en"
-      },
-      "cuisine": "Brazilian"
-    },
-    {
-      "id": "ChIJH2tnZut7j4ARFH8YxRR9Cvc",
-      "formattedAddress": "980 King Dr Suite #1 & #3, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6507456,
-        "longitude": -122.46844010000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17801178005294841620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Señorita Bread",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJyfK9ilR9j4AR8iWXX-zWa_g",
-      "formattedAddress": "7384 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6901662,
-        "longitude": -122.46612929999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17900637454618535410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Fiesta Chapina",
-        "languageCode": "es"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJLaW5fFt8j4ARndOjq-gizmI",
-      "formattedAddress": "1901 Junipero Serra Blvd st, D St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.702244199999996,
-        "longitude": -122.4705773
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7119666443626730397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://westlakecoffee.com/",
-      "displayName": {
-        "text": "Westlake Coffee Shop",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJgQyAvdN7j4ARcLmzTu7rk5s",
-      "formattedAddress": "2055 Gellert Blvd #5, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.650205199999995,
-        "longitude": -122.4537896
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11210563306210441584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.chibogrestaurant.com/",
-      "displayName": {
-        "text": "Chibog",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJCb8fhcV-j4AR6xh11YAagnE",
-      "formattedAddress": "2666 Geneva Ave, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7070224,
-        "longitude": -122.4161302
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8179129013897599211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://luckys-bakery-cafe.edan.io/",
-      "displayName": {
-        "text": "Lucky's Bakery & Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJsf1zRo17j4ARVDjzcUy3I3M",
-      "formattedAddress": "128 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6715613,
-        "longitude": -122.4703136
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8296676477503748180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.ikessandwich.com/ca/dalycity/117/?utm_source=gmb&utm_medium=profile&utm_campaign=dalycity-location-page",
-      "displayName": {
-        "text": "Ike's Love & Sandwiches",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJmU0qrIx9j4ARivdFCbtG6HM",
-      "formattedAddress": "6282 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7060745,
-        "longitude": -122.46170670000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8352003278086993802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://thenickandnorabar.com/",
-      "displayName": {
-        "text": "Nick & Nora",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJr04AbDx8j4ARIrEeQmmOoGE",
-      "formattedAddress": "6300 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7057016,
-        "longitude": -122.461946
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7034779200684732706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://lokosite.com/biz/topofthehillcafe",
-      "displayName": {
-        "text": "Top of the Hill",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ2awfkWx8j4AR-upR2GceuZc",
-      "formattedAddress": "2398 Junipero Serra Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6934115,
-        "longitude": -122.4717126
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10932803001778301690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.ihop.com/en-us/ca/daly-city/breakfast-2398-junipero-serra-blvd-1709?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=1709&utm_content=website",
-      "displayName": {
-        "text": "IHOP",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJVZgncdN7j4AR7aN-JLaYBUE",
-      "formattedAddress": "980 King Dr Suite #1 & #3, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6507456,
-        "longitude": -122.46844010000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4685318895412618221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://lingnamrestaurant.com/",
-      "displayName": {
-        "text": "Ling Nam Restaurant and Bakeshop",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJR0jVQjx8j4AR3YiaBWEd4GQ",
-      "formattedAddress": "6339 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7053935,
-        "longitude": -122.4616408
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7268842101119027421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Mekeni Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJpc5LzT18j4ARvGITwlFM754",
-      "formattedAddress": "6524 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7038724,
-        "longitude": -122.4629415
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11452456291458572988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Halal International market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJvV9sSPt9j4ARX5BAXqzFjHA",
-      "formattedAddress": "7622 El Camino Real, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6855104,
-        "longitude": -122.46471260000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8110074373093757023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Halal Good Subs Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJzeeTCA18j4ARad0Jj5RQnhE",
-      "formattedAddress": "50 San Pedro Rd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6896051,
-        "longitude": -122.46749599999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1269540743950228841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Hawaiian Drive Inn",
-        "languageCode": "en"
-      },
-      "cuisine": "BBQ"
-    },
-    {
-      "id": "ChIJ08mnohZ8j4ARtkoKozMOCEc",
-      "formattedAddress": "6893 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6970315,
-        "longitude": -122.462942
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5118356591448050358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://hawaiianbarbecue.com/",
-      "displayName": {
-        "text": "L&L Hawaiian Barbecue - Daly City",
-        "languageCode": "en"
-      },
-      "cuisine": "BBQ"
-    },
-    {
-      "id": "ChIJo5BmrBZ8j4ARw7UqLkFaRdk",
-      "formattedAddress": "6917 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.696968999999996,
-        "longitude": -122.4630496
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15656018915617322435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://redbowlnoodle.com/",
-      "displayName": {
-        "text": "Red Bowl Noodles",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJGWNus8p9j4ARb-o9kZkyW5s",
-      "formattedAddress": "7 San Pedro Rd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6886934,
-        "longitude": -122.46686559999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11194596933907638895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Pares sa Daly City",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJMRjOTBJ8j4AR4-n4c_yOwVY",
-      "formattedAddress": "66 School St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.693505,
-        "longitude": -122.4656225
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6251434972695554531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.filamcuisine.com/#!location/c14xr",
-      "displayName": {
-        "text": "Fil-Am Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJc6bRdAB9j4ARLRVSTlDFwf4",
-      "formattedAddress": "1216 Hillside Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6858497,
-        "longitude": -122.45973850000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18357170504840910125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/russfamkitchen_?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr",
-      "displayName": {
-        "text": "Russ Fam Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJ2wFOSyN8j4AR0Tn2cw-DodM",
-      "formattedAddress": "6165 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7068667,
-        "longitude": -122.4580139
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15249613915646474705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Gateway Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJW8nwI0l9j4ARd7K5Wh5RKcQ",
-      "formattedAddress": "125 Station Ave, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.692905499999995,
-        "longitude": -122.4687577
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14134918096292000375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Junior’s Empanadas",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJz_PeLrd9j4ARLa3eQTDHvOY",
-      "formattedAddress": "5997 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7079711,
-        "longitude": -122.45471010000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16626382934422498605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "La perla de Oriente Restaurant",
-        "languageCode": "es"
-      },
-      "cuisine": "Filipino"
-    },
-    {
-      "id": "ChIJTZbKm7d7j4AR_4aEkXg3Zcw",
-      "formattedAddress": "3 St Francis Square, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6748201,
-        "longitude": -122.4786111
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14728239147362060031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Supreme Pot",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJd3mU1-x7j4ARBD7eOWXwt78",
-      "formattedAddress": "305 Gellert Blvd STE A, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.668865,
-        "longitude": -122.4685086
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13814774699535515140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.habitburger.com/store/103/category",
-      "displayName": {
-        "text": "Habit Burger & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJr1hqVOt7j4AR-EXIDMectxU",
-      "formattedAddress": "372 Gellert Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.665829099999996,
-        "longitude": -122.4693245
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1564891774261413368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/326",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJ3VjyinJ8j4ARm6mZIXs9_xQ",
-      "formattedAddress": "260 Washington St, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6882276,
-        "longitude": -122.47200409999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1512995598873766299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/159",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
-      "id": "ChIJc9FY8Jd9j4ARU1p4983WJp4",
-      "formattedAddress": "514 Westlake Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.699172,
-        "longitude": -122.4825453
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11396032087216118355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sourdoughandco.com/daly-city",
-      "displayName": {
-        "text": "Sourdough & Co.",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJj0ixiWx8j4AR2v5O5ceLP1g",
-      "formattedAddress": "199 87th St, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6931607,
-        "longitude": -122.4720459
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6358954889532341978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://misstomatos.com/",
-      "displayName": {
-        "text": "Miss Tomato Sandwiches and liquor",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJYR_UbBh9j4ARDAJMuTbLGnw",
-      "formattedAddress": "398 Templeton Ave, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7059041,
-        "longitude": -122.45284989999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8942683445994979852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://newdalycitymarketgo.site/",
-      "displayName": {
-        "text": "New Daly City Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJT0hxCG18j4ARA9TQ3Mhf6jc",
-      "formattedAddress": "1301 Sullivan Ave, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.690953199999996,
-        "longitude": -122.47206349999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4029138132939101187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.dcmrpickles.com/",
-      "displayName": {
-        "text": "Mr. Pickles",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ3_i1fwB9j4ARVcMR8CExgBQ",
-      "formattedAddress": "101 Lake Merced Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.7050391,
-        "longitude": -122.48444730000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1477234699608900437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Westlake Park Garden Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJyXbPcf5_j4AR-UmSGe2ZN4c",
-      "formattedAddress": "6178 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7069356,
-        "longitude": -122.45875249999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9743425562454673913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.thesubstopdeli.com/",
-      "displayName": {
-        "text": "The Sub Stop Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJwwMk6ex7j4ARwP9JUrUO1LY",
-      "formattedAddress": "307 Gellert Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6685808,
-        "longitude": -122.46856530000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13174170981897994176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.panerabread.com/en-us/cafe/locations/ca/daly-city/307-gellert-blvd?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=204484&utm_content=main",
-      "displayName": {
-        "text": "Panera Bread",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJ2Rca7Ox_j4ARg-kQN9kC2nc",
-      "formattedAddress": "2700 Bayshore Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.705098299999996,
-        "longitude": -122.40723829999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8636218367391361411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://food.orders.co/tacomiendo",
-      "displayName": {
-        "text": "TacoMiendo",
-        "languageCode": "es"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJ-6oJJot9j4ARKBGFjfjt6jY",
-      "formattedAddress": "1165 Hillside Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6870365,
-        "longitude": -122.46007970000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3957236874380382504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Las pencas food truck #2",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJTQN21Nh7j4ARf5VTijwRwvQ",
-      "formattedAddress": "Serramonte Blvd & Hwy 1, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6691522,
-        "longitude": -122.4776747
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17636678042452727167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://orderlomalindatacotruck.com/",
-      "displayName": {
-        "text": "Loma Linda Taco Truck",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJy_xFFf19j4ARvpTqAIUSIOI",
-      "formattedAddress": "7499 El Camino Real, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6883327,
-        "longitude": -122.4655844
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16294043814281778366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/hibachi_truck",
-      "displayName": {
-        "text": "Hibachi Truck",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
+      "cuisine": "Italian"
     },
     {
       "id": "ChIJPYsB1RB7j4AR7NJGjlqhpV0",
@@ -1681,16 +1171,181 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Fusion"
     },
     {
-      "id": "ChIJwcPyVAB7j4ARnH8wG3DU1pM",
-      "formattedAddress": "90 Serramonte Center, Daly City, CA 94015, USA",
+      "id": "ChIJPaM07xN8j4ARXc2O2mr6-ag",
+      "formattedAddress": "7027 Mission St, Daly City, CA 94014, USA",
       "location": {
-        "latitude": 37.6717544,
-        "longitude": -122.47174989999999
+        "latitude": 37.6953798,
+        "longitude": -122.4643665
       },
-      "googleMapsUri": "https://maps.google.com/?cid=10652935546549075868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=12176038404413115741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.primopizzasf.com/",
+      "displayName": {
+        "text": "Primo Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJo5BmrBZ8j4ARw7UqLkFaRdk",
+      "formattedAddress": "6917 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.696968999999996,
+        "longitude": -122.4630496
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15656018915617322435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://redbowlnoodle.com/",
+      "displayName": {
+        "text": "Red Bowl Noodles",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJrdNCMoh9j4ARqcvGFbegBws",
+      "formattedAddress": "301 Miriam St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6993631,
+        "longitude": -122.4647596
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=794780567458991017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Mong Q Mongolian BBQ Kitchen",
+        "text": "Rosi's Alfajores",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJTZcikTx8j4ARMMRL6ZQ4XxU",
+      "formattedAddress": "6222 Mission St, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.7066418,
+        "longitude": -122.460015
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1540011809804370992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+      "displayName": {
+        "text": "Round Table Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJc6bRdAB9j4ARLRVSTlDFwf4",
+      "formattedAddress": "1216 Hillside Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6858497,
+        "longitude": -122.45973850000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18357170504840910125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/russfamkitchen_?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr",
+      "displayName": {
+        "text": "Russ Fam Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJQ4BnIyF7j4ARASVC3xDPZHQ",
+      "formattedAddress": "383 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6647052,
+        "longitude": -122.46764759999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8387056077442786561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.seapotusa.com/daly-city-ca",
+      "displayName": {
+        "text": "Seapot Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJH2tnZut7j4ARFH8YxRR9Cvc",
+      "formattedAddress": "980 King Dr Suite #1 & #3, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6507456,
+        "longitude": -122.46844010000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17801178005294841620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Señorita Bread",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJc8nsjEZ7j4ARX-3lOwUyo24",
+      "formattedAddress": "3 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.672119099999996,
+        "longitude": -122.4708116
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7972270763437059423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.serramontecenter.com/",
+      "displayName": {
+        "text": "Serramonte Center",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJLz3OK118j4ARce109CngBks",
+      "formattedAddress": "25 Southgate Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.698005699999996,
+        "longitude": -122.4809455
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5406254873504443761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Shaking Crab",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood"
+    },
+    {
+      "id": "ChIJwynKLCV7j4ARyYeXr2SKLuc",
+      "formattedAddress": "94015, United States, California, Daly City, Gellert Blvd, #2",
+      "location": {
+        "latitude": 37.6501972,
+        "longitude": -122.45397799999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16658404236737349577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.shinethaicuisine.com/",
+      "displayName": {
+        "text": "Shine Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
+    },
+    {
+      "id": "ChIJVShMDuh_j4ARK1UzAzhSSI8",
+      "formattedAddress": "6192 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7069212,
+        "longitude": -122.45886510000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10324592546272204075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.shish-kebaba.com/",
+      "displayName": {
+        "text": "Shish Ke Baba",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern"
+    },
+    {
+      "id": "ChIJh8-odnR7j4ARz7d7QnXg-sA",
+      "formattedAddress": "148 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6703804,
+        "longitude": -122.4735931
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13905673593691027407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.simmerhuangmiaogrill.com/",
+      "displayName": {
+        "text": "Simmer Huang / Miao Grill",
         "languageCode": "en"
       },
       "cuisine": "Chinese"
@@ -1711,34 +1366,364 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Other"
     },
     {
-      "id": "ChIJc8nsjEZ7j4ARX-3lOwUyo24",
-      "formattedAddress": "3 Serramonte Center, Daly City, CA 94015, USA",
+      "id": "ChIJc9FY8Jd9j4ARU1p4983WJp4",
+      "formattedAddress": "514 Westlake Center, Daly City, CA 94015, USA",
       "location": {
-        "latitude": 37.672119099999996,
-        "longitude": -122.4708116
+        "latitude": 37.699172,
+        "longitude": -122.4825453
       },
-      "googleMapsUri": "https://maps.google.com/?cid=7972270763437059423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.serramontecenter.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11396032087216118355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sourdoughandco.com/daly-city",
       "displayName": {
-        "text": "Serramonte Center",
+        "text": "Sourdough & Co.",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJe_u2yK57j4ARsaQBnoZ27l0",
-      "formattedAddress": "84 Serramonte Center Suite J700, Daly City, CA 94015, USA",
+      "id": "ChIJWwMKn_t9j4ARwtkPUWCQq5M",
+      "formattedAddress": "6811 Mission St, Daly City, CA 94014, USA",
       "location": {
-        "latitude": 37.671481,
-        "longitude": -122.47124600000001
+        "latitude": 37.699204099999996,
+        "longitude": -122.46374869999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=6768477610533037233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.jollibeefoods.com/usa/ca/daly-city/84-serramonte-center?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=3061",
+      "googleMapsUri": "https://maps.google.com/?cid=10640757287944182210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.spicyhousetogo.com/",
       "displayName": {
-        "text": "Jollibee",
+        "text": "Spicy House 川香小館",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJi4q0Bg18j4ARaT1yCYzOgps",
+      "formattedAddress": "1 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6888406,
+        "longitude": -122.46677890000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11205745923700440425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Suily's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJ0akYrzh7j4ARtcaArzlup-c",
+      "formattedAddress": "127 K Serramonte Center Space 662, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.671239199999995,
+        "longitude": -122.47033870000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16692431737908676277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://superduperburgers.com/",
+      "displayName": {
+        "text": "Super Duper Burgers",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers"
+    },
+    {
+      "id": "ChIJTZbKm7d7j4AR_4aEkXg3Zcw",
+      "formattedAddress": "3 St Francis Square, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6748201,
+        "longitude": -122.4786111
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14728239147362060031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Supreme Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ2Rca7Ox_j4ARg-kQN9kC2nc",
+      "formattedAddress": "2700 Bayshore Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.705098299999996,
+        "longitude": -122.40723829999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8636218367391361411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://food.orders.co/tacomiendo",
+      "displayName": {
+        "text": "TacoMiendo",
+        "languageCode": "es"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJmRJZP_p9j4AR0KEXYJuChFE",
+      "formattedAddress": "7428 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6876228,
+        "longitude": -122.46604089999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5873963417841672656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tacos El Charrito Food Truck",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJaTdo59t9j4ARb4xrUoGo8gI",
+      "formattedAddress": "1618 Sullivan Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6873748,
+        "longitude": -122.4724632
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=212417405826862191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://taqueriadoscharros.online/",
+      "displayName": {
+        "text": "Taqueria Dos Charros",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJwbETVIB9j4ARGi09j8fT24c",
+      "formattedAddress": "2408 B Junipero Serra Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6931489,
+        "longitude": -122.4713056
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9789651069075008794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Taqueria Los Agaves",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJyXbPcf5_j4AR-UmSGe2ZN4c",
+      "formattedAddress": "6178 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7069356,
+        "longitude": -122.45875249999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9743425562454673913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thesubstopdeli.com/",
+      "displayName": {
+        "text": "The Sub Stop Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJ24VUchN9j4ARgGNP7UAWO9Y",
+      "formattedAddress": "32 Park Plaza Dr, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.7012836,
+        "longitude": -122.4819828
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15436956615857628032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://ohbabysushi.com/",
+      "displayName": {
+        "text": "Tiny Sushi - Oh Baby",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJb3D4b2t8j4ARkBUG8Axqpbo",
+      "formattedAddress": "2350 Junipero Serra Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.694714499999996,
+        "longitude": -122.47144929999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13449272466010936720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tofu and BBQ House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean"
+    },
+    {
+      "id": "ChIJBz5SOJl9j4ARTvT_ZDUpch4",
+      "formattedAddress": "177 Southgate Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6971734,
+        "longitude": -122.4837633
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2193861277787354190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tomsanramendalycity.com/?utm_source=gmb&utm_medium=website",
+      "displayName": {
+        "text": "Tom San Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJbzxsjEB8j4ARKzKIS39vhbQ",
+      "formattedAddress": "1901 Junipero Serra Blvd # G, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7020857,
+        "longitude": -122.47056850000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13007925691248292395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tomosushiteriyaki.shop/",
+      "displayName": {
+        "text": "Tomo Sushi & Teriyaki",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJr04AbDx8j4ARIrEeQmmOoGE",
+      "formattedAddress": "6300 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7057016,
+        "longitude": -122.461946
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7034779200684732706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lokosite.com/biz/topofthehillcafe",
+      "displayName": {
+        "text": "Top of the Hill",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJMw0UBA18j4ARmcSetSq8Fvw",
+      "formattedAddress": "6860 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6982462,
+        "longitude": -122.4644478
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18164913038667203737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tselogs.com/home.html",
+      "displayName": {
+        "text": "Tselogs",
         "languageCode": "en"
       },
       "cuisine": "Filipino"
+    },
+    {
+      "id": "ChIJ2UB_iQh9j4ARUpVx_aP6dIE",
+      "formattedAddress": "361 E Market St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6902444,
+        "longitude": -122.4617581
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9328356310429832530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://unipizzeria.com/",
+      "displayName": {
+        "text": "UNI Pizzeria & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJxXtTPo17j4ARGadfvfXF3Xo",
+      "formattedAddress": "94 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6718901,
+        "longitude": -122.4717574
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8853450101715085081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.villaitaliankitchen.com/en-us/ca/daly-city/94-serramonte-center/",
+      "displayName": {
+        "text": "Villa Fresh Italian Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJLaW5fFt8j4ARndOjq-gizmI",
+      "formattedAddress": "1901 Junipero Serra Blvd st, D St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.702244199999996,
+        "longitude": -122.4705773
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7119666443626730397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://westlakecoffee.com/",
+      "displayName": {
+        "text": "Westlake Coffee Shop",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJ3_i1fwB9j4ARVcMR8CExgBQ",
+      "formattedAddress": "101 Lake Merced Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.7050391,
+        "longitude": -122.48444730000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1477234699608900437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Westlake Park Garden Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJ_T2i1Ah8j4ARircqKd3tblI",
+      "formattedAddress": "1111 Hillside Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.688161,
+        "longitude": -122.4604785
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5939946492682483594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Wong's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJnSrjqJp7j4ARYKC6Tq84twc",
+      "formattedAddress": "66 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6718258,
+        "longitude": -122.47214460000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=555975404594831456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ygfdalycity.com/",
+      "displayName": {
+        "text": "YGF Malatang",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJYYreIM59j4ARtC_tUCX5asU",
+      "formattedAddress": "1901E Junipero Serra Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7021881,
+        "longitude": -122.4705689
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14225456311669960628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://yokohamaiekei.net/",
+      "displayName": {
+        "text": "Yokohama Iekei Ramen Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ_UVCRI17j4ARCZmiYMuClqk",
+      "formattedAddress": "127-H Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6714193,
+        "longitude": -122.4703335
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12220098448927660297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.yoshi-ramen.com/",
+      "displayName": {
+        "text": "Yoshi Ramen & Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
     }
   ],
   "South San Francisco, CA": [
