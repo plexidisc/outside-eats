@@ -316,21 +316,6 @@ var PREBAKED_DATA_NORTH = {
       ]
     },
     {
-      "id": "ChIJ2awfkWx8j4AR-upR2GceuZc",
-      "formattedAddress": "2398 Junipero Serra Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6934115,
-        "longitude": -122.4717126
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10932803001778301690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://restaurants.ihop.com/en-us/ca/daly-city/breakfast-2398-junipero-serra-blvd-1709?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=1709&utm_content=website",
-      "displayName": {
-        "text": "IHOP",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
       "id": "ChIJsf1zRo17j4ARVDjzcUy3I3M",
       "formattedAddress": "128 Serramonte Center, Daly City, CA 94015, USA",
       "location": {
