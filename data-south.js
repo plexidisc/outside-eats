@@ -12362,7 +12362,8 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Mexican",
       "phone": "(650) 938-4141",
       "hours": "[object Object]",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/La Cueva Mexican Grub Small.jpeg"
     },
     {
       "id": "ChIJD-RI2SK3j4ARPlV6OjQBSW8",
