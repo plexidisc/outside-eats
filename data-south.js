@@ -13120,7 +13120,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "10:00 AM - 8:00 PM"
       },
       "priceRange": "$",
-      "description": "French-Mexican fusion food truck at 334 San Antonio Road carrying on the 30-year legacy of La Bamba restaurant, with burritos, beignets, and house specials made fresh daily."
+      "description": "French-Mexican fusion food truck at 334 San Antonio Road carrying on the 30-year legacy of La Bamba restaurant, with burritos, beignets, and house specials made fresh daily.",
+      "photoUrl": "images/restaurant-photos/mountain-view/PETRA'S KITCHEN (food truck) Small.jpeg"
     },
     {
       "id": "ChIJXREwzE23j4ARxfukeuZH_1E",
