@@ -11540,7 +11540,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.instagram.com/stories/highlights/18234517624306645/",
       "phone": "(650) 282-5900",
       "hours": "[object Object]",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Chefmus Kebab Turkish Food Small.jpeg"
     },
     {
       "id": "ChIJBSkY9Cu3j4ARNyh4HYmcLmA",
