@@ -14233,7 +14233,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "8:00 AM - 9:00 PM"
       },
       "priceRange": "$",
-      "description": "Mexican taqueria serving tacos, burritos, and breakfast plates from early morning through the evening."
+      "description": "Mexican taqueria serving tacos, burritos, and breakfast plates from early morning through the evening.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Tacos Don Valle Small.jpeg"
     },
     {
       "id": "ChIJ31mZ0f23j4ARvY9XI57lHxk",
