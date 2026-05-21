@@ -12381,7 +12381,8 @@ var PREBAKED_DATA_SOUTH = {
       ],
       "phone": "(650) 965-9100",
       "hours": "[object Object]",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/La Cueva Mexican Grub Small.jpeg"
     },
     {
       "id": "ChIJlXOKcDC3j4ARzal-5j-p-FY",
@@ -12743,7 +12744,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 8:00 PM"
       },
       "priceRange": "$",
-      "description": "Nepali food truck in Mountain View serving momos, thukpa noodle soup, and Himalayan street food at street-food prices."
+      "description": "Nepali food truck in Mountain View serving momos, thukpa noodle soup, and Himalayan street food at street-food prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/La Cueva Mexican Grub Small.jpeg"
     },
     {
       "id": "ChIJg1ayR7iwj4ARBsM83DizgKA",
