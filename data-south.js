@@ -13542,7 +13542,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 10:00 PM"
       },
       "priceRange": "$",
-      "description": "Hyderabad-style biryani specialist on W El Camino Real with dum-cooked biryanis, dosas, and South Indian plates that stay open late seven days a week."
+      "description": "Hyderabad-style biryani specialist on W El Camino Real with dum-cooked biryanis, dosas, and South Indian plates that stay open late seven days a week.",
+      "photoUrl": "images/restaurant-photos/mountain-view/RRR Biryanis Small.jpeg"
     },
     {
       "id": "ChIJzUVtQ7y3j4ARH_RbxOb8nFA",
