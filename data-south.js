@@ -11399,7 +11399,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "5:00 PM – 10:00 PM",
         "Sunday": "5:00 PM – 10:00 PM"
       },
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Broma Restaurant Small.jpeg"
     },
     {
       "id": "ChIJDQw_jjO3j4AREryI4CY4hEw",
