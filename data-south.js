@@ -14209,7 +14209,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 8:00 PM"
       },
       "priceRange": "$",
-      "description": "Oaxacan-style taco spot with traditional tlayudas, memelas, and authentic street food preparations rarely found on the Peninsula."
+      "description": "Oaxacan-style taco spot with traditional tlayudas, memelas, and authentic street food preparations rarely found on the Peninsula.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Super Tacos El Conrro (food truck) Small.jpeg"
     },
     {
       "id": "ChIJQSE-cgC3j4ARPysXwuy0Vc0",
@@ -14263,7 +14264,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "10:00 AM - 9:00 PM"
       },
       "priceRange": "$",
-      "description": "Authentic Mexican taqueria with al pastor, carne asada, and house specialties open seven days a week."
+      "description": "Authentic Mexican taqueria with al pastor, carne asada, and house specialties open seven days a week.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Super Tacos El Conrro (food truck) Small.jpeg"
     },
     {
       "id": "ChIJy2E2x_y3j4ARZ4EQpvlWnTs",
