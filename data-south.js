@@ -11616,22 +11616,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
-      "id": "ChIJgT5ZKhGxj4ARdYMpDtwhEjk",
-      "displayName": {
-        "text": "CHINA WOK RESTAURANT",
-        "languageCode": "en"
-      },
-      "formattedAddress": "2633 California St, Mountain View, CA 94040, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=4112386638756807541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://chinawokcatogo.com/",
-      "location": {},
-      "cuisine": "Chinese",
-      "menuUrl": "https://chinawokcatogo.com/order/",
-      "phone": "(650) 965-7111",
-      "hours": "[object Object]",
-      "priceRange": "$"
-    },
-    {
       "id": "ChIJ4TTDdzS3j4AR78EQgu5EADA",
       "formattedAddress": "300 Castro St, Mountain View, CA 94041, USA",
       "location": {
