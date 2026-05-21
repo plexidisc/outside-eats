@@ -13066,7 +13066,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://paperplatez.com/",
       "priceRange": "$",
-      "description": "Mexican-Salvadoran food truck at O'Malley's Sports Pub on Old Middlefield Way carrying on the flavors of Mountain View's beloved La Bamba restaurant with generous tacos and burritos."
+      "description": "Mexican-Salvadoran food truck at O'Malley's Sports Pub on Old Middlefield Way carrying on the flavors of Mountain View's beloved La Bamba restaurant with generous tacos and burritos.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Paper Platez (food truck) Small.jpeg"
     },
     {
       "id": "ChIJoVSH-z-3j4ARQbbHtlHT4Ds",
