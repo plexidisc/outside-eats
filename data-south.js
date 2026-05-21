@@ -14043,7 +14043,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 9:00 PM"
       },
       "priceRange": "$",
-      "description": "Mexican food truck serving al pastor, carne asada, and birria tacos with fresh handmade tortillas and house salsas at street-food prices."
+      "description": "Mexican food truck serving al pastor, carne asada, and birria tacos with fresh handmade tortillas and house salsas at street-food prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Super Tacos El Conrro (food truck) Small.jpeg"
     },
     {
       "id": "ChIJN_k8v0y3j4ARU5I-qHFv09U",
