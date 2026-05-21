@@ -376,21 +376,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Filipino"
     },
     {
-      "id": "ChIJW8nwI0l9j4ARd7K5Wh5RKcQ",
-      "formattedAddress": "125 Station Ave, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.692905499999995,
-        "longitude": -122.4687577
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14134918096292000375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Junior’s Empanadas",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJDQYsWeJ9j4ARQERHM0Ylj5k",
       "formattedAddress": "201 Southgate Ave, Daly City, CA 94015, USA",
       "location": {
