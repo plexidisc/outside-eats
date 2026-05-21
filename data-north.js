@@ -557,18 +557,18 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJTQN21Nh7j4ARf5VTijwRwvQ",
-      "formattedAddress": "Serramonte Blvd & Hwy 1, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6691522,
-        "longitude": -122.4776747
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17636678042452727167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://orderlomalindatacotruck.com/",
       "displayName": {
-        "text": "Loma Linda Taco Truck",
+        "text": "Loma Linda Taco Truck (food truck)",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "formattedAddress": "Serramonte Blvd & Hwy 1, Daly City, CA 94015, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17636678042452727167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orderlomalindatacotruck.com/",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ]
     },
     {
       "id": "ChIJxftR9Q58j4AR3i3-r4zJP9Q",
