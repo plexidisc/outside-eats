@@ -11545,29 +11545,21 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJBSkY9Cu3j4ARNyh4HYmcLmA",
-      "formattedAddress": "239 W El Camino Real, Mountain View, CA 94040, USA",
-      "location": {
-        "latitude": 37.382604300000004,
-        "longitude": -122.07842999999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6930648989288638519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.cheztakos.com/",
       "displayName": {
-        "text": "Cheztakos!!!",
+        "text": "Cheztakos (food truck)",
         "languageCode": "en"
       },
+      "formattedAddress": "239 W El Camino Real, Mountain View, CA 94040, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6930648989288638519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cheztakos.com/",
+      "location": {},
       "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ],
       "menuUrl": "https://www.cheztakos.com/menu",
       "phone": "(650) 938-4040",
-      "hours": {
-        "Monday": "10:00 AM – 9:00 PM",
-        "Tuesday": "10:00 AM – 9:00 PM",
-        "Wednesday": "10:00 AM – 9:00 PM",
-        "Thursday": "10:00 AM – 9:00 PM",
-        "Friday": "10:00 AM – 9:00 PM",
-        "Saturday": "10:00 AM – 9:00 PM",
-        "Sunday": "10:00 AM – 9:00 PM"
-      },
+      "hours": "[object Object]",
       "priceRange": "$",
       "photoUrl": "images/restaurant-photos/mountain-view/Cheztakos (FT) Small.jpeg"
     },
