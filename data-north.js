@@ -1334,18 +1334,18 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJmRJZP_p9j4AR0KEXYJuChFE",
-      "formattedAddress": "7428 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6876228,
-        "longitude": -122.46604089999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5873963417841672656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
-        "text": "Tacos El Charrito Food Truck",
+        "text": "Tacos El Charrito (food truck)",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "formattedAddress": "7428 Mission St, Daly City, CA 94014, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5873963417841672656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ]
     },
     {
       "id": "ChIJaTdo59t9j4ARb4xrUoGo8gI",
