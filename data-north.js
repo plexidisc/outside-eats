@@ -331,21 +331,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJr1hqVOt7j4AR-EXIDMectxU",
-      "formattedAddress": "372 Gellert Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.665829099999996,
-        "longitude": -122.4693245
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1564891774261413368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.in-n-out.com/326",
-      "displayName": {
-        "text": "In-N-Out Burger",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJ3VjyinJ8j4ARm6mZIXs9_xQ",
       "formattedAddress": "260 Washington St, Daly City, CA 94015, USA",
       "location": {
