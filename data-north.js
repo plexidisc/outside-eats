@@ -1303,21 +1303,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJ0akYrzh7j4ARtcaArzlup-c",
-      "formattedAddress": "127 K Serramonte Center Space 662, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.671239199999995,
-        "longitude": -122.47033870000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16692431737908676277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://superduperburgers.com/",
-      "displayName": {
-        "text": "Super Duper Burgers",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers"
-    },
-    {
       "id": "ChIJTZbKm7d7j4AR_4aEkXg3Zcw",
       "formattedAddress": "3 St Francis Square, Daly City, CA 94015, USA",
       "location": {
