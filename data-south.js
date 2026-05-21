@@ -13761,7 +13761,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "10:30 AM - 9:00 PM"
       },
       "priceRange": "$$",
-      "description": "Chinese noodle and dumpling restaurant on Villa Street with hand-made dumplings, noodle soups, and family-style dishes in a relaxed neighborhood setting."
+      "description": "Chinese noodle and dumpling restaurant on Villa Street with hand-made dumplings, noodle soups, and family-style dishes in a relaxed neighborhood setting.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Seasons Noodles Dumplings Garden Small.jpeg"
     },
     {
       "id": "ChIJteR5Oja3j4ARTvsIorMrGII",
