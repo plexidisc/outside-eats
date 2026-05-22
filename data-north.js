@@ -352,21 +352,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Ikes Small.jpeg"
     },
     {
-      "id": "ChIJ36u3pLN7j4ARvgjIhEJ9eSw",
-      "formattedAddress": "94 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6718304,
-        "longitude": -122.4716337
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3204730334499834046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.izumikaitensushi.com/",
-      "displayName": {
-        "text": "Izumi Revolving Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
       "id": "ChIJHey2OAB7j4ARTM5ARcRgu1w",
       "formattedAddress": "63 Serramonte Center, Daly City, CA 94015, USA",
       "location": {
