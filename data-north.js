@@ -655,21 +655,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Majikku Ramen Small.jpeg"
     },
     {
-      "id": "ChIJcdULtdF7j4ARHnpAwPFQkA8",
-      "formattedAddress": "36 Serramonte Center Unit 232, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6720799,
-        "longitude": -122.47153569999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1121485306458044958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.marufukuramen.com/",
-      "displayName": {
-        "text": "Marufuku Ramen Serramonte",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
       "id": "ChIJR0jVQjx8j4AR3YiaBWEd4GQ",
       "formattedAddress": "6339 Mission St, Daly City, CA 94014, USA",
       "location": {
