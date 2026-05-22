@@ -1193,21 +1193,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Seapot Small.jpeg"
     },
     {
-      "id": "ChIJH2tnZut7j4ARFH8YxRR9Cvc",
-      "formattedAddress": "980 King Dr Suite #1 & #3, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6507456,
-        "longitude": -122.46844010000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17801178005294841620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Señorita Bread",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJLz3OK118j4ARce109CngBks",
       "formattedAddress": "25 Southgate Ave, Daly City, CA 94015, USA",
       "location": {
