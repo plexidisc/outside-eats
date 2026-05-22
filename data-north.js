@@ -1523,21 +1523,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Westlake Coffee Shop Small.jpeg"
     },
     {
-      "id": "ChIJ3_i1fwB9j4ARVcMR8CExgBQ",
-      "formattedAddress": "101 Lake Merced Blvd, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.7050391,
-        "longitude": -122.48444730000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1477234699608900437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Westlake Park Garden Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
       "id": "ChIJ_T2i1Ah8j4ARircqKd3tblI",
       "formattedAddress": "1111 Hillside Blvd, Daly City, CA 94014, USA",
       "location": {
