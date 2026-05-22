@@ -13,7 +13,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Banana Island",
         "languageCode": "en"
       },
-      "cuisine": "Singaporean"
+      "cuisine": "Singaporean",
+      "photoUrl": "images/restaurant-photos/daly-city/Banana Island Small.jpeg"
     },
     {
       "id": "ChIJ7ebRlFx8j4ARKuxfgkVUB7I",
@@ -28,7 +29,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Blue Line Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Blue Line Pizza Small.jpeg"
     },
     {
       "id": "ChIJP7V2IER8j4ARmwqj9PK5tcw",
@@ -43,7 +45,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Boulevard Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Boulevard Cafe Small.jpeg"
     },
     {
       "id": "ChIJ5ZcPfa99j4ARKLAOqFrsrdA",
@@ -58,7 +61,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Burma Silver Star Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Burma Silver Star Small.jpeg"
     },
     {
       "id": "ChIJHxAMZ-17j4ARA0-QFNqYCa8",
@@ -73,7 +77,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "California Fish Grill",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/daly-city/Californai Fish Grill Small.jpeg"
     },
     {
       "id": "ChIJ7Wy_Gm18j4ARHpvGwhsJTGA",
@@ -88,7 +93,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Canton Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Canton Restaurant Small.jpeg"
     },
     {
       "id": "ChIJrWowAut7j4ARzXSNL7aP0eg",
@@ -103,7 +109,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Celia's",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Celias Small.jpeg"
     },
     {
       "id": "ChIJgQyAvdN7j4ARcLmzTu7rk5s",
@@ -118,7 +125,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Chibog",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/Chibog Small.jpeg"
     },
     {
       "id": "ChIJT_uDmt19j4ARNIld6z0W5Xg",
@@ -133,7 +141,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Chick & Jajang",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Chick & Jajang Small.jpeg"
     },
     {
       "id": "ChIJx_D6mg18j4AR0lAywGlSQ28",
@@ -148,7 +157,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Chick N Coop",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/daly-city/Chick N Coop Small.jpeg"
     },
     {
       "id": "ChIJ_cv4kmx8j4ARfXRjkWVDavo",
@@ -163,7 +173,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "City Kebabs & Gyros",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/daly-city/City Kebab & Gyros Small.jpeg"
     },
     {
       "id": "ChIJvaFDS1x8j4ARFAAjdyHOwRA",
@@ -178,7 +189,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Dae Jang Geum Tofu House",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Dae Jang Geum Tofu House Small.jpeg"
     },
     {
       "id": "ChIJyfK9ilR9j4AR8iWXX-zWa_g",
@@ -193,7 +205,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Fiesta Chapina",
         "languageCode": "es"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Fiesta Chapina Small.jpeg"
     },
     {
       "id": "ChIJMRjOTBJ8j4AR4-n4c_yOwVY",
@@ -208,7 +221,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Fil-Am Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/Fil-Am Small.jpeg"
     },
     {
       "id": "ChIJjRkV7xN8j4ARjlroR1FeTto",
@@ -223,7 +237,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Fung Wah Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Fung Wah Small.jpeg"
     },
     {
       "id": "ChIJ2wFOSyN8j4AR0Tn2cw-DodM",
@@ -238,7 +253,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Gateway Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Gateway Kitchen Small.jpeg"
     },
     {
       "id": "ChIJqet_xsV-j4ARa0n_qu06DzE",
@@ -283,7 +299,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Halal International market",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Halal International Market Small.jpeg"
     },
     {
       "id": "ChIJzeeTCA18j4ARad0Jj5RQnhE",
@@ -298,7 +315,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Hawaiian Drive Inn",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/daly-city/Hawaiian Drive Inn Small.jpeg"
     },
     {
       "id": "ChIJy_xFFf19j4ARvpTqAIUSIOI",
@@ -328,7 +346,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Ike's Love & Sandwiches",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Ikes Small.jpeg"
     },
     {
       "id": "ChIJ36u3pLN7j4ARvgjIhEJ9eSw",
@@ -358,7 +377,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Jagalchi",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Jagalchi Small.jpeg"
     },
     {
       "id": "ChIJe_u2yK57j4ARsaQBnoZ27l0",
@@ -388,7 +408,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "KAN KIIN BRUNCH & THAI EATERY",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/daly-city/Kan Kiin Small.jpeg"
     },
     {
       "id": "ChIJl9t3MnN8j4ARJA5bUhhoAuU",
@@ -418,7 +439,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "King Katsu Land",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/King Katsu Land Small.jpeg"
     },
     {
       "id": "ChIJK1Z6kz59j4ARS6REZ8ZAo9Y",
@@ -433,7 +455,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Kings West Coast Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Kings West Coast Pizzeria Small.jpeg"
     },
     {
       "id": "ChIJSayidut7j4AR1iWKufPh-d0",
@@ -448,7 +471,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Koi Palace",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Koi Palace Small.jpeg"
     },
     {
       "id": "ChIJG5BaFFp9j4ARJU7v5j-rFbI",
@@ -463,7 +487,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Kukje Grill",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Kukje Grill Small.jpeg"
     },
     {
       "id": "ChIJ08mnohZ8j4ARtkoKozMOCEc",
@@ -478,7 +503,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "L&L Hawaiian Barbecue - Daly City",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/daly-city/L&L Hawaiian Barbecue Small.jpeg"
     },
     {
       "id": "ChIJz_PeLrd9j4ARLa3eQTDHvOY",
@@ -493,7 +519,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "La perla de Oriente Restaurant",
         "languageCode": "es"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/La perla De oriente Small.jpeg"
     },
     {
       "id": "ChIJYwwRs6p9j4ARspsBuYeRfP8",
@@ -508,7 +535,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Las Pencas de Maguey Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Las Pencas De Maguey Small.jpeg"
     },
     {
       "id": "ChIJoWobYC19j4ARP7ufFK4zFBQ",
@@ -523,7 +551,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Lava Hookah Lounge & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/daly-city/Lava Hookah Lounge Small.jpeg"
     },
     {
       "id": "ChIJVZgncdN7j4AR7aN-JLaYBUE",
@@ -538,7 +567,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Ling Nam Restaurant and Bakeshop",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Ling Nam Small.jpeg"
     },
     {
       "id": "ChIJV1sBRiN8j4ARX-P2zTC5MFQ",
@@ -553,7 +583,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Little Hunan Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Little Hunan Restauran Small.jpeg"
     },
     {
       "id": "ChIJTQN21Nh7j4ARf5VTijwRwvQ",
@@ -583,7 +614,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Los Cuates Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Los Cuates Small.jpeg"
     },
     {
       "id": "ChIJVTIF3KR9j4ARVyWQUogpUi0",
@@ -598,7 +630,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Los Cuernos",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Los Cuernos Small.jpeg"
     },
     {
       "id": "ChIJsyKAMnN8j4ARio8CJwn11pw",
@@ -613,7 +646,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Los Metates",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Los Metates Small.jpeg"
     },
     {
       "id": "ChIJCb8fhcV-j4AR6xh11YAagnE",
@@ -643,7 +677,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Majikku Ramen",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Majikku Ramen Small.jpeg"
     },
     {
       "id": "ChIJcdULtdF7j4ARHnpAwPFQkA8",
@@ -673,7 +708,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mekeni Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/Mekeni Small.jpeg"
     },
     {
       "id": "ChIJ_d8BExN9j4ARn_pIUtn36Lg",
@@ -703,7 +739,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mi Guadalajara",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Mi Guadalajara Small.jpeg"
     },
     {
       "id": "ChIJj0ixiWx8j4AR2v5O5ceLP1g",
@@ -718,7 +755,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Miss Tomato Sandwiches and liquor",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Miss Tomato Small.jpeg"
     },
     {
       "id": "ChIJd9SdW417j4ARtnxzFfeP1F0",
@@ -733,7 +771,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "MOD Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Mod Pizza Small.jpeg"
     },
     {
       "id": "ChIJwcPyVAB7j4ARnH8wG3DU1pM",
@@ -763,7 +802,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mountain Mike's Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Mountain Mikes Small.jpeg"
     },
     {
       "id": "ChIJT0hxCG18j4ARA9TQ3Mhf6jc",
@@ -778,7 +818,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mr. Pickles",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Mr Pickles Sandwich Shop Small.jpeg"
     },
     {
       "id": "ChIJh3Miqm58j4ARXY4O0hskbbw",
@@ -793,7 +834,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Mr. Pizza Man",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Mr Pizza Man Small.jpeg"
     },
     {
       "id": "ChIJLwUinFt8j4ARlavAOyaDfk0",
@@ -808,7 +850,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Nation's Giant Hamburgers & Great Pies",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/daly-city/Nations Small.jpeg"
     },
     {
       "id": "ChIJYR_UbBh9j4ARDAJMuTbLGnw",
@@ -823,7 +866,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "New Daly City Market",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/New Daly city Market Small.jpeg"
     },
     {
       "id": "ChIJmU0qrIx9j4ARivdFCbtG6HM",
@@ -838,7 +882,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Nick & Nora",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Nick and Nora Small.jpeg"
     },
     {
       "id": "ChIJ3csTatV7j4AR4aqlq3io6A4",
@@ -853,7 +898,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Nick the Greek",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/daly-city/Nick The Greek Small.jpeg"
     },
     {
       "id": "ChIJoRiFBMh9j4ARTjmyQJOqzFo",
@@ -868,7 +914,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Nick the Greek | Daly City",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/daly-city/Nick the Greek | Daly City _westlake Small.jpeg"
     },
     {
       "id": "ChIJzw2KUgB9j4ARGWqeU0Vl8eI",
@@ -883,7 +930,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "North Beach Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/North Beach Pizza Small.jpeg"
     },
     {
       "id": "ChIJ-1sHh-N9j4ARMY2FY1r11wc",
@@ -898,7 +946,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Ohana Hawaiian BBQ",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/daly-city/Ohana Hawaiian BBQ Small.jpeg"
     },
     {
       "id": "ChIJGY_jLFp8j4ARXLcIfxMpJw8",
@@ -913,7 +962,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Original Joe’s Westlake",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/daly-city/Original Joes Westlake Small.jpeg"
     },
     {
       "id": "ChIJ_f97C-t7j4ARJnTW3EXqaeY",
@@ -928,7 +978,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Outback Steakhouse",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/daly-city/Outback Steakhouse Small.jpeg"
     },
     {
       "id": "ChIJaQTCajx8j4ARWQAUNj16xPo",
@@ -943,7 +994,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Pacific Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/daly-city/Pacific Restaurant Small.jpeg"
     },
     {
       "id": "ChIJwwMk6ex7j4ARwP9JUrUO1LY",
@@ -958,7 +1010,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Panera Bread",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Panera Bread Small.jpeg"
     },
     {
       "id": "ChIJSVbh0T18j4AREYIWplV8gVw",
@@ -973,7 +1026,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Paradise Brazilian Imports",
         "languageCode": "en"
       },
-      "cuisine": "Brazilian"
+      "cuisine": "Brazilian",
+      "photoUrl": "images/restaurant-photos/daly-city/Paradise Brazilian Imports Small.jpeg"
     },
     {
       "id": "ChIJGWNus8p9j4ARb-o9kZkyW5s",
@@ -1003,7 +1057,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Pho Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/daly-city/Pho Cafe Small.jpeg"
     },
     {
       "id": "ChIJCYVPJl18j4ARcWA5LpIpKTM",
@@ -1018,7 +1073,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Pho Huynh Hiep 3 - Kevin's Noodle House",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/daly-city/Pho Huynh Hiep 3 Small.jpeg"
     },
     {
       "id": "ChIJ0yUWXHx8j4ARd8tB1P_Xbis",
@@ -1033,7 +1089,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Pho Huynh Hiep 4 - Kevin's Noodle House",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/daly-city/Pho Huynh Hiep 4 Small.jpeg"
     },
     {
       "id": "ChIJR7gzxBV8j4AR2G_XEVdA5Pw",
@@ -1048,7 +1105,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "PIZZA & PASTA HOUSE",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/daly-city/Pizza & Pasta House Small.jpeg"
     },
     {
       "id": "ChIJPYsB1RB7j4AR7NJGjlqhpV0",
@@ -1063,7 +1121,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Poke House",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/daly-city/Poke House Small.jpeg"
     },
     {
       "id": "ChIJPaM07xN8j4ARXc2O2mr6-ag",
@@ -1078,7 +1137,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Primo Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Primo Pizza Small.jpeg"
     },
     {
       "id": "ChIJo5BmrBZ8j4ARw7UqLkFaRdk",
@@ -1093,7 +1153,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Red Bowl Noodles",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Red Bowl Small.jpeg"
     },
     {
       "id": "ChIJrdNCMoh9j4ARqcvGFbegBws",
@@ -1108,7 +1169,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Rosi's Alfajores",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Rosis Alfajores Small.jpeg"
     },
     {
       "id": "ChIJTZcikTx8j4ARMMRL6ZQ4XxU",
@@ -1123,7 +1185,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Round Table Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Round Table _mission Small.jpeg"
     },
     {
       "id": "ChIJc6bRdAB9j4ARLRVSTlDFwf4",
@@ -1153,7 +1216,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Seapot Daly City",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Seapot Small.jpeg"
     },
     {
       "id": "ChIJH2tnZut7j4ARFH8YxRR9Cvc",
@@ -1198,7 +1262,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Shaking Crab",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/daly-city/Shaking Crab Small.jpeg"
     },
     {
       "id": "ChIJwynKLCV7j4ARyYeXr2SKLuc",
@@ -1213,7 +1278,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Shine Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/daly-city/Shine Thai Small.jpeg"
     },
     {
       "id": "ChIJVShMDuh_j4ARK1UzAzhSSI8",
@@ -1243,7 +1309,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Simmer Huang / Miao Grill",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Simmer Huang Small.jpeg"
     },
     {
       "id": "ChIJF0kueAB7j4ARYtPrRk4YCu0",
@@ -1273,7 +1340,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Sourdough & Co.",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Sourdough & Co Small.jpeg"
     },
     {
       "id": "ChIJWwMKn_t9j4ARwtkPUWCQq5M",
@@ -1285,7 +1353,8 @@ var PREBAKED_DATA_NORTH = {
       "googleMapsUri": "https://maps.google.com/?cid=10640757287944182210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.spicyhousetogo.com/",
       "location": {},
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Spicy House Small.jpeg"
     },
     {
       "id": "ChIJi4q0Bg18j4ARaT1yCYzOgps",
@@ -1300,7 +1369,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Suily's Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Suilys Cafe Small.jpeg"
     },
     {
       "id": "ChIJTZbKm7d7j4AR_4aEkXg3Zcw",
@@ -1360,7 +1430,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria Dos Charros",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Taqueria Dos Charros Small.jpeg"
     },
     {
       "id": "ChIJwbETVIB9j4ARGi09j8fT24c",
@@ -1390,7 +1461,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "The Sub Stop Deli",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/The substop deli Small.jpeg"
     },
     {
       "id": "ChIJ24VUchN9j4ARgGNP7UAWO9Y",
@@ -1405,7 +1477,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Tiny Sushi - Oh Baby",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Oh Baby Sushi Small.jpeg"
     },
     {
       "id": "ChIJb3D4b2t8j4ARkBUG8Axqpbo",
@@ -1435,7 +1508,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Tom San Ramen",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Tom San Ramen Small.jpeg"
     },
     {
       "id": "ChIJbzxsjEB8j4ARKzKIS39vhbQ",
@@ -1450,7 +1524,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Tomo Sushi & Teriyaki",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Tomo Sushi Small.jpeg"
     },
     {
       "id": "ChIJr04AbDx8j4ARIrEeQmmOoGE",
@@ -1465,7 +1540,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Top of the Hill",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Top of the Hill Small.jpeg"
     },
     {
       "id": "ChIJMw0UBA18j4ARmcSetSq8Fvw",
@@ -1480,7 +1556,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Tselogs",
         "languageCode": "en"
       },
-      "cuisine": "Filipino"
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/Tselogs Small.jpeg"
     },
     {
       "id": "ChIJ2UB_iQh9j4ARUpVx_aP6dIE",
@@ -1495,7 +1572,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "UNI Pizzeria & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Uni Small.jpeg"
     },
     {
       "id": "ChIJxXtTPo17j4ARGadfvfXF3Xo",
@@ -1525,7 +1603,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Westlake Coffee Shop",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Westlake Coffee Shop Small.jpeg"
     },
     {
       "id": "ChIJ3_i1fwB9j4ARVcMR8CExgBQ",
@@ -1555,7 +1634,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Wong's Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Wongs Cafe Small.jpeg"
     },
     {
       "id": "ChIJnSrjqJp7j4ARYKC6Tq84twc",
@@ -1585,7 +1665,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Yokohama Iekei Ramen Daly City",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Yokohama Iekei Ramen Small.jpeg"
     },
     {
       "id": "ChIJ_UVCRI17j4ARCZmiYMuClqk",
@@ -1600,7 +1681,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Yoshi Ramen & Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Yoshi Small.jpeg"
     }
   ],
   "South San Francisco, CA": [
