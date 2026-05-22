@@ -332,7 +332,8 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Japanese",
       "keywords": [
         "food truck"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/daly-city/Hibachi Truck (food truck) Small.jpeg"
     },
     {
       "id": "ChIJsf1zRo17j4ARVDjzcUy3I3M",
