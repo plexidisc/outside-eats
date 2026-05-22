@@ -671,21 +671,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Mekeni Small.jpeg"
     },
     {
-      "id": "ChIJ_d8BExN9j4ARn_pIUtn36Lg",
-      "formattedAddress": "25 Washington St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6878144,
-        "longitude": -122.4693472
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13324172010336090783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://mesoresto.com/",
-      "displayName": {
-        "text": "Mesoresto",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJ1cAOdRZ8j4AR-UYperx90fg",
       "formattedAddress": "6771 Mission St, Daly City, CA 94014, USA",
       "location": {
