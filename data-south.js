@@ -4042,62 +4042,6 @@ var PREBAKED_DATA_SOUTH = {
   ],
   "Menlo Park, CA": [
     {
-      "id": "opening_shiok_singapore_kitchen",
-      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.4532,
-        "longitude": -122.183
-      },
-      "googleMapsUri": "https://maps.google.com/?q=625+Oak+Grove+Ave,+Menlo+Park,+CA",
-      "websiteUri": "https://shiokkitchen.com",
-      "displayName": {
-        "text": "Shiok Singapore Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Singaporean",
-      "phone": "(650) 838-9448",
-      "hours": {
-        "Monday": "11:00 AM - 8:30 PM",
-        "Tuesday": "11:00 AM - 8:30 PM",
-        "Wednesday": "11:00 AM - 8:30 PM",
-        "Thursday": "11:00 AM - 8:30 PM",
-        "Friday": "11:00 AM - 8:30 PM",
-        "Saturday": "11:00 AM - 8:30 PM",
-        "Sunday": "11:00 AM - 8:30 PM"
-      },
-      "description": "Family-owned Singaporean kitchen serving authentic chili crab, laksa, and satay from recipes brought over from Singapore in 1999.",
-      "menuUrl": "https://shiokkitchen.com/menu",
-      "priceRange": "$$"
-    },
-    {
-      "id": "opening_cafe_vivant",
-      "formattedAddress": "720 Santa Cruz Ave, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.4531,
-        "longitude": -122.182
-      },
-      "googleMapsUri": "https://maps.google.com/?q=720+Santa+Cruz+Ave,+Menlo+Park,+CA",
-      "websiteUri": "https://cafevivantca.com",
-      "displayName": {
-        "text": "Café Vivant",
-        "languageCode": "en"
-      },
-      "cuisine": "American,Wine Bar",
-      "phone": "(650) 557-2244",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "4:30 PM - 8:30 PM",
-        "Wednesday": "4:30 PM - 8:30 PM",
-        "Thursday": "4:30 PM - 8:30 PM",
-        "Friday": "4:30 PM - 9:00 PM",
-        "Saturday": "4:30 PM - 9:00 PM",
-        "Sunday": "Closed"
-      },
-      "description": "Heritage-breed chicken and an exceptional 3,000-bottle wine cellar from two sommeliers. One of the most distinctive new restaurants on the Peninsula.",
-      "menuUrl": "https://cafevivantca.com",
-      "priceRange": "$$$$"
-    },
-    {
       "id": "ChIJXTqVn7qkj4ARa3-Bikh4S9c",
       "formattedAddress": "880 Santa Cruz Ave, Menlo Park, CA 94025, USA",
       "location": {
@@ -4171,21 +4115,6 @@ var PREBAKED_DATA_SOUTH = {
         "languageCode": "en"
       },
       "cuisine": "Other"
-    },
-    {
-      "id": "ChIJPTqW8Dqjj4ARFpn5dGuAw3M",
-      "formattedAddress": "3551 Haven Ave N, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.486846,
-        "longitude": -122.18821700000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8341652133832661270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Bay Area Seafood",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
     },
     {
       "id": "ChIJxZ4l4q6lj4ARNNpkCOK92E8",
@@ -4291,6 +4220,34 @@ var PREBAKED_DATA_SOUTH = {
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "opening_cafe_vivant",
+      "formattedAddress": "720 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4531,
+        "longitude": -122.182
+      },
+      "googleMapsUri": "https://maps.google.com/?q=720+Santa+Cruz+Ave,+Menlo+Park,+CA",
+      "websiteUri": "https://cafevivantca.com",
+      "displayName": {
+        "text": "Café Vivant",
+        "languageCode": "en"
+      },
+      "cuisine": "American,Wine Bar",
+      "phone": "(650) 557-2244",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "4:30 PM - 8:30 PM",
+        "Wednesday": "4:30 PM - 8:30 PM",
+        "Thursday": "4:30 PM - 8:30 PM",
+        "Friday": "4:30 PM - 9:00 PM",
+        "Saturday": "4:30 PM - 9:00 PM",
+        "Sunday": "Closed"
+      },
+      "description": "Heritage-breed chicken and an exceptional 3,000-bottle wine cellar from two sommeliers. One of the most distinctive new restaurants on the Peninsula.",
+      "menuUrl": "https://cafevivantca.com",
+      "priceRange": "$$$$"
     },
     {
       "id": "ChIJCXiv-Qelj4AR9V8pN11zgNE",
@@ -5193,6 +5150,50 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "American"
     },
     {
+      "id": "opening_shiok_singapore_kitchen",
+      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4532,
+        "longitude": -122.183
+      },
+      "googleMapsUri": "https://maps.google.com/?q=625+Oak+Grove+Ave,+Menlo+Park,+CA",
+      "websiteUri": "https://shiokkitchen.com",
+      "displayName": {
+        "text": "Shiok Singapore Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Singaporean",
+      "phone": "(650) 838-9448",
+      "hours": {
+        "Monday": "11:00 AM - 8:30 PM",
+        "Tuesday": "11:00 AM - 8:30 PM",
+        "Wednesday": "11:00 AM - 8:30 PM",
+        "Thursday": "11:00 AM - 8:30 PM",
+        "Friday": "11:00 AM - 8:30 PM",
+        "Saturday": "11:00 AM - 8:30 PM",
+        "Sunday": "11:00 AM - 8:30 PM"
+      },
+      "description": "Family-owned Singaporean kitchen serving authentic chili crab, laksa, and satay from recipes brought over from Singapore in 1999.",
+      "menuUrl": "https://shiokkitchen.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "manual_1778345644722",
+      "displayName": {
+        "text": "Shiok Singapore Kitchen",
+        "languageCode": "en"
+      },
+      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025",
+      "googleMapsUri": "https://www.google.com/maps/place/Shiok+Singapore+Kitchen/data=!4m2!3m1!1s0x0:0x88cb94b01013ba35?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://shiokkitchen.com/",
+      "location": {},
+      "cuisine": "Singaporean",
+      "menuUrl": "https://shiokkitchen.com/menu",
+      "phone": "+16506182327",
+      "hours": "Sat-Sun 5pm-8pm, Tue-Fri 11am-2:30pm, Tue-Fri 5pm-8pm",
+      "priceRange": "$$$"
+    },
+    {
       "id": "ChIJLylwScmlj4ARj_Cu5p52tuc",
       "formattedAddress": "1195 Merrill St, Menlo Park, CA 94025, USA",
       "location": {
@@ -5371,22 +5372,6 @@ var PREBAKED_DATA_SOUTH = {
         "languageCode": "en"
       },
       "cuisine": "Japanese"
-    },
-    {
-      "id": "manual_1778345644722",
-      "displayName": {
-        "text": "Shiok Singapore Kitchen",
-        "languageCode": "en"
-      },
-      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025",
-      "googleMapsUri": "https://www.google.com/maps/place/Shiok+Singapore+Kitchen/data=!4m2!3m1!1s0x0:0x88cb94b01013ba35?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://shiokkitchen.com/",
-      "location": {},
-      "cuisine": "Singaporean",
-      "menuUrl": "https://shiokkitchen.com/menu",
-      "phone": "+16506182327",
-      "hours": "Sat-Sun 5pm-8pm, Tue-Fri 11am-2:30pm, Tue-Fri 5pm-8pm",
-      "priceRange": "$$$"
     }
   ],
   "Palo Alto, CA": [
