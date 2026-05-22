@@ -1254,7 +1254,8 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican",
       "keywords": [
         "food truck"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/daly-city/TacoMiendo Small.jpeg"
     },
     {
       "id": "ChIJmRJZP_p9j4AR0KEXYJuChFE",
