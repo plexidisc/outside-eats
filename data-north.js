@@ -284,7 +284,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Halal Good Subs Market",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Halal Good Subs Market Small.jpeg"
     },
     {
       "id": "ChIJpc5LzT18j4ARvGITwlFM754",
