@@ -1375,7 +1375,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Taqueria Los Agaves",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Taqueria Los Agaves Small.jpeg"
     },
     {
       "id": "ChIJyXbPcf5_j4AR-UmSGe2ZN4c",
