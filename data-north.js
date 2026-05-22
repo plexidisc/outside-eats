@@ -1243,18 +1243,18 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJ2Rca7Ox_j4ARg-kQN9kC2nc",
-      "formattedAddress": "2700 Bayshore Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.705098299999996,
-        "longitude": -122.40723829999999
+      "displayName": {
+        "text": "TacoMiendo (food truck)",
+        "languageCode": "en"
       },
+      "formattedAddress": "2700 Bayshore Blvd, Daly City, CA 94014, USA",
       "googleMapsUri": "https://maps.google.com/?cid=8636218367391361411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://food.orders.co/tacomiendo",
-      "displayName": {
-        "text": "TacoMiendo",
-        "languageCode": "es"
-      },
-      "cuisine": "Mexican"
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ]
     },
     {
       "id": "ChIJmRJZP_p9j4AR0KEXYJuChFE",
