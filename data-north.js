@@ -778,21 +778,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Mod Pizza Small.jpeg"
     },
     {
-      "id": "ChIJwcPyVAB7j4ARnH8wG3DU1pM",
-      "formattedAddress": "90 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6717544,
-        "longitude": -122.47174989999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10652935546549075868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Mong Q Mongolian BBQ Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
       "id": "ChIJZR0NioN9j4ARO3lIbz2ZCvI",
       "formattedAddress": "35 Skyline Plaza, Daly City, CA 94015, USA",
       "location": {
