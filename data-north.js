@@ -396,7 +396,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Keith’s Chicken N Waffles",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/daly-city/Keith’s Chicken N Waffles Small.jpeg"
     },
     {
       "id": "ChIJ6-RoBwB7j4ARQnB_-6CI2SY",
