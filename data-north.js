@@ -1507,21 +1507,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Uni Small.jpeg"
     },
     {
-      "id": "ChIJxXtTPo17j4ARGadfvfXF3Xo",
-      "formattedAddress": "94 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6718901,
-        "longitude": -122.4717574
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8853450101715085081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.villaitaliankitchen.com/en-us/ca/daly-city/94-serramonte-center/",
-      "displayName": {
-        "text": "Villa Fresh Italian Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
       "id": "ChIJLaW5fFt8j4ARndOjq-gizmI",
       "formattedAddress": "1901 Junipero Serra Blvd st, D St, Daly City, CA 94014, USA",
       "location": {
