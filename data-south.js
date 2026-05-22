@@ -5030,21 +5030,6 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "Japanese"
     },
     {
-      "id": "ChIJrc7ei_ukj4ARduwmL1C5WS8",
-      "formattedAddress": "2825 Sand Hill Rd, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.4197068,
-        "longitude": -122.2125743
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3411961946749463670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Pool Garden Terrace at Rosewood Sand Hill",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJ0cHjuEqjj4ARXVD3djzV2fI",
       "formattedAddress": "Lobby Level, 200 Independence Dr, Menlo Park, CA 94025, USA",
       "location": {
