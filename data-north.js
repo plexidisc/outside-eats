@@ -1539,21 +1539,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Wongs Cafe Small.jpeg"
     },
     {
-      "id": "ChIJnSrjqJp7j4ARYKC6Tq84twc",
-      "formattedAddress": "66 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6718258,
-        "longitude": -122.47214460000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=555975404594831456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.ygfdalycity.com/",
-      "displayName": {
-        "text": "YGF Malatang",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
       "id": "ChIJYYreIM59j4ARtC_tUCX5asU",
       "formattedAddress": "1901E Junipero Serra Blvd, Daly City, CA 94014, USA",
       "location": {
