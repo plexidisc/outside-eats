@@ -1423,7 +1423,8 @@ var PREBAKED_DATA_NORTH = {
         "text": "Tofu and BBQ House",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Tofu and BBQ House Small.jpeg"
     },
     {
       "id": "ChIJBz5SOJl9j4ARTvT_ZDUpch4",
