@@ -368,21 +368,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Jagalchi Small.jpeg"
     },
     {
-      "id": "ChIJe_u2yK57j4ARsaQBnoZ27l0",
-      "formattedAddress": "84 Serramonte Center Suite J700, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.671481,
-        "longitude": -122.47124600000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6768477610533037233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.jollibeefoods.com/usa/ca/daly-city/84-serramonte-center?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=3061",
-      "displayName": {
-        "text": "Jollibee",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
       "id": "ChIJDQYsWeJ9j4ARQERHM0Ylj5k",
       "formattedAddress": "201 Southgate Ave, Daly City, CA 94015, USA",
       "location": {
