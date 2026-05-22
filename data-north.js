@@ -1182,21 +1182,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Simmer Huang Small.jpeg"
     },
     {
-      "id": "ChIJF0kueAB7j4ARYtPrRk4YCu0",
-      "formattedAddress": "27 St Francis Square, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.6749262,
-        "longitude": -122.4786251
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17080491261232403298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Sizzle",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJc9FY8Jd9j4ARU1p4983WJp4",
       "formattedAddress": "514 Westlake Center, Daly City, CA 94015, USA",
       "location": {
