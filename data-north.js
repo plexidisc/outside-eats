@@ -1225,21 +1225,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Shine Thai Small.jpeg"
     },
     {
-      "id": "ChIJVShMDuh_j4ARK1UzAzhSSI8",
-      "formattedAddress": "6192 Mission St, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.7069212,
-        "longitude": -122.45886510000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10324592546272204075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.shish-kebaba.com/",
-      "displayName": {
-        "text": "Shish Ke Baba",
-        "languageCode": "en"
-      },
-      "cuisine": "Middle Eastern"
-    },
-    {
       "id": "ChIJh8-odnR7j4ARz7d7QnXg-sA",
       "formattedAddress": "148 Serramonte Center, Daly City, CA 94015, USA",
       "location": {
