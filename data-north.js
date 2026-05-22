@@ -1237,21 +1237,6 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJc8nsjEZ7j4ARX-3lOwUyo24",
-      "formattedAddress": "3 Serramonte Center, Daly City, CA 94015, USA",
-      "location": {
-        "latitude": 37.672119099999996,
-        "longitude": -122.4708116
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7972270763437059423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.serramontecenter.com/",
-      "displayName": {
-        "text": "Serramonte Center",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJLz3OK118j4ARce109CngBks",
       "formattedAddress": "25 Southgate Ave, Daly City, CA 94015, USA",
       "location": {
