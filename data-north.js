@@ -601,7 +601,8 @@ var PREBAKED_DATA_NORTH = {
       "cuisine": "Mexican",
       "keywords": [
         "food truck"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/daly-city/Loma Linda Taco Truck (food truck) Small.jpeg"
     },
     {
       "id": "ChIJxftR9Q58j4AR3i3-r4zJP9Q",
