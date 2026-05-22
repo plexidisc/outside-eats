@@ -1018,21 +1018,6 @@ var PREBAKED_DATA_NORTH = {
       "photoUrl": "images/restaurant-photos/daly-city/Paradise Brazilian Imports Small.jpeg"
     },
     {
-      "id": "ChIJGWNus8p9j4ARb-o9kZkyW5s",
-      "formattedAddress": "7 San Pedro Rd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6886934,
-        "longitude": -122.46686559999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11194596933907638895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Pares sa Daly City",
-        "languageCode": "en"
-      },
-      "cuisine": "Filipino"
-    },
-    {
       "id": "ChIJM9MQD8h7j4ARG5BqGciez8Y",
       "formattedAddress": "950 King Dr, Daly City, CA 94015, USA",
       "location": {
