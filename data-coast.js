@@ -1615,21 +1615,6 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/half-moon-bay/Johnnys Small.jpeg"
     },
     {
-      "id": "ChIJ22VUSwBzj4ARQ6XmNxg7-bU",
-      "formattedAddress": "17 Johnson Pier, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.503561499999996,
-        "longitude": -122.48236600000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13112576765269026115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ketchhmb.com/",
-      "displayName": {
-        "text": "Ketch Half Moon Bay",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
-    },
-    {
       "id": "ChIJVVXF2bdzj4AR7UEbnEZ2-bg",
       "formattedAddress": "260 Capistrano Rd, Half Moon Bay, CA 94019, USA",
       "location": {
