@@ -671,21 +671,6 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/Puerto 27 Small.jpeg"
     },
     {
-      "id": "ChIJ6eEW2LV7j4ARSiwQk0GvPJk",
-      "formattedAddress": "2480 Skyline Dr, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6462137,
-        "longitude": -122.4714106
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11041893082580659274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Quick Mart",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJJ51Mqqp7j4AR449XaWMiWEw",
       "formattedAddress": "1709 Palmetto Ave, Pacifica, CA 94044, USA",
       "location": {
