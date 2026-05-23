@@ -2322,7 +2322,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Moss Beach Distillery",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/moss-beach/Moss Beach Distillery Small.jpeg"
     },
     {
       "id": "ChIJjdgNC5dxj4ARjl9G7pIQkwE",
@@ -2337,7 +2338,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Coastal Vine",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/moss-beach/The Coastal Vine Small.jpeg"
     },
     {
       "id": "ChIJnx1sPZNxj4AR4SliHfqH9Wo",
@@ -2352,7 +2354,8 @@ var PREBAKED_DATA_COAST = {
         "text": "El Gran Amigo Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/moss-beach/El Gran Amigo Small.jpeg"
     }
   ],
   "Montara, CA": [
