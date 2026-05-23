@@ -2706,7 +2706,5723 @@ var PREBAKED_DATA_CENTRAL = {
       "photoUrl": "images/restaurant-photos/burlingame/Watani Spot Small.jpeg"
     }
   ],
-  "San Mateo, CA": [{"id": "ChIJXTASXQCfj4ARin-W8xOJ608", "displayName": {"text": "A2", "languageCode": "en"}, "formattedAddress": "117 S B St Suite A, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=5758847267307421578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.instagram.com/a2_wine_/", "location": {}, "cuisine": "Wine Bar", "keywords": ["charcuterie", "cheese plates", "live music", "jazz", "date night", "romantic atmosphere"], "phone": "650-387-0888", "hours": "Mon–Tue Closed, Wed–Sun 5pm–10pm", "priceRange": "$$", "description": "Local wine bar, art gallery with live music.", "photoUrl": "images/restaurant-photos/san-mateo/A2 Small.jpeg"}, {"id": "ChIJSQJ_CHuej4ARezc8vH_W3Mc", "displayName": {"text": "Al Carbon Pollos a la Brasa", "languageCode": "en"}, "formattedAddress": "602 E 4th Ave C, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=14401621552531257211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.alcarbon.us/", "location": {}, "cuisine": "Peruvian", "keywords": ["whole chicken", "rotisserie chicken"], "menuUrl": "https://alcarbon.us/menu/", "phone": "(650) 544-4687", "hours": "Sun-Mon 9am–7pm, Tue–Thu 9am–8pm, Fri–Sat 9am–9pm", "priceRange": "$$", "description": "Free-range Peruvian chicken slowly roasted over mesquite charcoal open flame.", "photoUrl": "images/restaurant-photos/san-mateo/Al Carbon Small.jpeg"}, {"id": "ChIJ96g6P4eej4ARKIor0cbehBU", "displayName": {"text": "Aldo's Pizza", "languageCode": "en"}, "formattedAddress": "600 S Norfolk St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=1550609117216475688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://aldospizzamenu.com/?utm_source=gbp", "location": {}, "cuisine": "Pizza", "keywords": ["thin crust pizza"], "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/aldo-s-pizza/menu", "phone": "(650) 344-5051", "hours": "Sun–Thu 11:00am–8:30pm, Fri–Sat 11:00am–9:00pm", "priceRange": "$$", "description": "Famous crispy, flaky thin crust made from Aldo's original recipe.", "photoUrl": "images/restaurant-photos/san-mateo/Aldos Pizza Small.jpeg"}, {"id": "ChIJc3R6j16ej4ARSX5Uq0eROqI", "displayName": {"text": "All Spice", "languageCode": "en"}, "formattedAddress": "1602 S El Camino Real, San Mateo, CA 94402, USA", "googleMapsUri": "https://maps.google.com/?cid=11689815519796690505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.allspicerestaurant.com/", "location": {}, "cuisine": ["American", "Fusion"], "keywords": ["fine dining"], "phone": "(650) 627-4303", "hours": "Mon Closed, Tue–Fri 5:30pm–8pm, Sat 5pm–8pm, Sun Closed", "priceRange": "$$$$", "description": "Chef's worldly cuisine served in a charming 1906 Victorian cottage. Fusion of Asian and modern Californian dishes.", "photoUrl": "images/restaurant-photos/san-mateo/All Spice Small.jpeg"}, {"id": "ChIJwbQzTXCej4AR6AiUPmWLsAY", "displayName": {"text": "Amici's East Coast Pizzeria", "languageCode": "en"}, "formattedAddress": "69 E 3rd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=482038427086489832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.amicis.com/san-mateo", "location": {}, "cuisine": ["Pizza", "Italian"], "keywords": ["pasta", "sandwiches", "kids menu", "outdoor seating"], "menuUrl": "https://www.amicis.com/menu-san-mateo", "phone": "(650) 342-9392", "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 11:30am–9pm", "priceRange": "$$", "description": "New York-style thin-crust pizza made with freshest ingredients, baked perfectly.", "photoUrl": "images/restaurant-photos/san-mateo/Amicis Small.jpeg"}, {"id": "ChIJhcaPCFCfj4ARowgmpAwbgpc", "displayName": {"text": "Amma’s Kitchen", "languageCode": "en"}, "formattedAddress": "66 21st Ave k15, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=10917318187807017123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ammaskitchen.online/", "location": {}, "cuisine": "Indian", "keywords": ["dosa", "biriyani"], "phone": "(650) 597-3533", "hours": "Mon 10am–11pm, Tue 10:20am–11pm, Wed–Thu 10am–11:59pm, Fri 9:30am–11:59pm, Sat 10am–11:59pm, Sun 10:15am–11pm", "priceRange": "$$", "description": "Amma's special Boneless Biriyani and crispy dosas delight every palate.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"}, {"id": "ChIJ6cW6kHqej4ARiiSPnlGL5eo", "displayName": {"text": "Amour Amour", "languageCode": "en"}, "formattedAddress": "305 E 4th Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=16926087957210670218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "location": {}, "cuisine": ["Wine Bar", "Spanish"], "menuUrl": "https://www.opentable.com/r/amour-amour-wine-bar-and-tapas-san-mateo", "phone": "(650) 513-1759", "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 5:00pm–9:30pm, Sun Closed", "priceRange": "$$", "photoUrl": "images/restaurant-photos/san-mateo/Amour Amour Small.jpeg", "keywords": ["outdoor seating", "happy hour", "tapas", "paella", "date night", "romantic", "wine list", "small plates"]}, {"id": "ChIJe9hUWKKfj4ARd4cxNTD2Mo8", "displayName": {"text": "Anatolian Cafe & Market", "languageCode": "en"}, "formattedAddress": "637 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=10318580383170529143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://anatolianmart.com/", "location": {}, "cuisine": ["Mediterranean", "Turkish"], "menuUrl": "https://www.doordash.com/store/anatolian-san-mateo-34039627/", "phone": "(650) 445-7273", "hours": "Mon–Sun 8am–7pm", "priceRange": "$$", "description": "Family owned Authentic Mediterranean desserts, traditional breakfast, and handcrafted cafe drinks.", "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg", "keywords": ["breakfast", "lunch", "baklava", "mediterranean market", "turkish coffee", "grocery"]}, {"id": "ChIJtyXnf-iej4ARgH5vz-MDChE", "displayName": {"text": "Apple Fritter", "languageCode": "en"}, "formattedAddress": "1901 S Norfolk St, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=1227798125384531584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.applefrittereatery.com/", "location": {}, "cuisine": "Breakfast", "keywords": ["burgers"], "menuUrl": "https://www.yelp.com/biz/apple-fritter-san-mateo", "phone": "(650) 525-9125", "hours": "Mon–Fri 6:30am–2:45pm, Sat–Sun 7:30am–2:45pm", "priceRange": "$$", "description": "They serve donut burgers, fruity pebble shakes, and churro french toasts.", "photoUrl": "images/restaurant-photos/san-mateo/Apple Fritter Small.jpeg"}, {"id": "ChIJC3dM58Oej4ARtSZewKk4DV8", "displayName": {"text": "Armadillo Willy's BBQ", "languageCode": "en"}, "formattedAddress": "2260 Bridgepointe Pkwy, San Mateo, CA 94404, USA", "googleMapsUri": "https://maps.google.com/?cid=6849192910028416693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.armadillowillys.com/mobile-site/locations.asp", "location": {}, "cuisine": "BBQ", "keywords": ["texas bbq"], "hours": "Mon–Sun 11am–8pm", "priceRange": "$$", "description": "Texas style wood-fired barbecue. 40 years in business. Locally Owned.", "photoUrl": "images/restaurant-photos/san-mateo/Armadillo Willy's BBQ Small.jpeg"}, {"id": "ChIJ62bRY3Cej4AR3l5NXHnw5fc", "displayName": {"text": "Avenida Restaurant", "languageCode": "en"}, "formattedAddress": "201 E 3rd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=17862947901065223902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://avenidarestaurant.net/", "location": {}, "cuisine": "Filipino", "keywords": ["outdoor seating"], "menuUrl": "https://avenidarestaurant.net/", "phone": "(650) 781-3637", "hours": "Mon–Thu 4pm–9pm, Fri-Sat 12pm–10pm, Sun 11:30am–8:30pm", "priceRange": "$$", "description": "Traditional Filipino recipes elevated with contemporary techniques and local ingredients.", "photoUrl": "images/restaurant-photos/san-mateo/Avenida Small.jpeg"}, {"id": "ChIJb-BteXCej4ARhYpP7JyS9cA", "displayName": {"text": "Avocado Toast", "languageCode": "en"}, "formattedAddress": "226 E 3rd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=13904180627253463685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://myavocadotoast.com/?utm_source=google", "location": {}, "cuisine": "Breakfast", "keywords": ["healthy breakfast", "breakfast burrito"], "menuUrl": "https://myavocadotoast.com/menu", "phone": "(650) 343-3844", "hours": "Mon–Fri 7am–2:30pm, Sat–Sun 8am–3:30pm", "priceRange": "$$", "description": "Family-owned deli serving fresh meals with homemade aiolis and spreads.", "photoUrl": "images/restaurant-photos/san-mateo/Avocado Toast Small.jpeg"}, {"id": "ChIJv8E7TYeej4ARi-YP0JM5La8", "formattedAddress": "478 S Norfolk St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5713523, "longitude": -122.3104597}, "googleMapsUri": "https://maps.google.com/?cid=12622808637603047051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://aycaraytaqueriaca.com/", "displayName": {"text": "Ay Caray Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/Ay Caray Small.jpeg", "phone": "(650) 340-8131", "description": "Family-owned Mexican restaurant serving breakfast through dinner daily.", "hours": "Mon–Tue 9:30am–8pm, Wed 9:30am–7pm, Thu–Sat 9:30am–8pm, Sun 9:30am–8pm", "menuUrl": "https://aycaraytaqueriaca.com/ay-caray-taqueria/", "priceRange": "$$", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJSS6QeHCej4ARAssTIDcQIiU", "formattedAddress": "320 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.565168, "longitude": -122.32233300000001}, "googleMapsUri": "https://maps.google.com/?cid=2675718957558909698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.bstreetandvine.com/", "displayName": {"text": "B Street & Vine", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/san-mateo/B Street & Vine Small.jpeg", "phone": "(650) 347-8463", "description": "Famous for signature bruschettas with unique sweet and savory combinations.", "hours": "Mon 5pm–9pm, Tue–Thu 11:30am–9pm, Fri–Sat 11:30am–12am, Sun 11:30am–5pm", "menuUrl": "http://www.bstreetandvine.com/files/BStreetandVineHTML/menu.html", "priceRange": "$$", "keywords": ["outdoor seating", "wine bar", "date night", "small plates", "happy hour", "romantic"]}, {"id": "ChIJ_yqFjbqfj4ARUmXo2-T8CSg", "formattedAddress": "3081 S Delaware St Ste. C, San Mateo, CA 94403, USA", "location": {"latitude": 37.5407517, "longitude": -122.29772949999999}, "googleMapsUri": "https://maps.google.com/?cid=2885115096179696978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bahchesf.com/", "displayName": {"text": "Bahche", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/san-mateo/Bahche Small.jpeg", "phone": "(650) 315-2197", "description": "Modern Greek cuisine with curated wine list and inviting ambiance.", "hours": "Mon–Thu 11am–2pm, 4:30pm–9pm, Fri 11am–2pm, 4:30pm–9:30pm, Sat 11am–9:30pm, Sun 11am–9pm", "menuUrl": "https://www.bahchesf.com/menu", "priceRange": "$$", "keywords": ["outdoor seating", "greek mezze", "lamb chops", "date night", "full bar", "souvlaki", "wine list"]}, {"id": "ChIJdYnq7nCej4ARB-6vA0482oU", "displayName": {"text": "Bay Watch", "languageCode": "en"}, "formattedAddress": "201 2nd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=9645087857734315527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.baywatchsanmateo.com/", "location": {}, "cuisine": "Breakfast", "phone": "(650) 342-2356", "hours": "Mon–Sun 7am–2pm", "priceRange": "$$", "description": "Fresh ingredients prepared from scratch daily with bottomless coffee service.", "photoUrl": "images/restaurant-photos/san-mateo/Bay Watch Small.jpeg", "keywords": ["breakfast", "brunch", "family friendly", "counter service"]}, {"id": "ChIJuSQHOxKfj4ARSGeDzMgBmgg", "displayName": {"text": "Benihana", "languageCode": "en"}, "formattedAddress": "2204 Bridgepointe Pkwy, San Mateo, CA 94404, USA", "googleMapsUri": "https://maps.google.com/?cid=619809860653115208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.benihana.com/locations/san-mateo/?utm_source=google&utm_medium=organic&utm_campaign=gbp", "location": {}, "cuisine": "Japanese", "phone": "(650) 781-0523", "hours": "Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–10pm", "priceRange": "$$$", "description": "Chefs perform the ancient art of Teppanyaki right at your table.", "photoUrl": "images/restaurant-photos/san-mateo/Benihana Small.jpeg", "keywords": ["teppanyaki", "groups", "family friendly", "special occasion", "hibachi", "sushi"]}, {"id": "ChIJ91G1hYGfj4ARq9cpilAzffw", "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=18193754490655070123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bibimmate.com/", "displayName": {"text": "Bibimmate", "languageCode": "en"}, "cuisine": "Korean", "phone": "(650) 435-4693", "description": "Handcrafted kimbap rolls made fresh with beet-pickled radish and umami-rich flavors.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "hours": "Mon 10:30am–2:30pm, 4:30pm–7:30pm, Tue 10:30am–1pm, Wed–Fri 10:30am–2:30pm, 4:30pm–7:30pm, Sat–Sun Closed", "menuUrl": "https://www.bibimmate.com/s/order", "priceRange": "$$", "keywords": ["korean rice bowls", "bibimbap", "fast casual", "counter service", "vegetarian options"]}, {"id": "ChIJM4bVPCCfj4ARuWhne1x88Ok", "displayName": {"text": "Big Daddy's Hawaiian BBQ", "languageCode": "en"}, "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=16857110141896976569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bigdaddyshawaiianbbq.com/", "location": {}, "cuisine": ["BBQ", "Hawaiian"], "phone": "(323) 238-3320", "hours": "Mon–Sun 10:00am–10:00pm", "priceRange": "$$", "description": "Fresh Hawaiian-inspired cuisine that's clean, craveable, and feels great.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "keywords": ["hawaiian bbq", "plate lunch", "fast casual", "counter service", "family friendly"]}, {"id": "ChIJmUsD8Puej4ARjrL6z1BUv0I", "displayName": {"text": "Bizza", "languageCode": "en"}, "formattedAddress": "116 E 25th Ave, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=4809655633118409358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://eatbizza.com/", "location": {}, "cuisine": "Pizza", "phone": "(650) 389-2160", "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11:30am–8:30pm", "priceRange": "$$", "description": "Mediterranean-inspired pizzas fusing bold flavors with classic Italian favorites.", "photoUrl": "images/restaurant-photos/san-mateo/Bizza Small.jpeg", "keywords": ["pizza", "fast casual", "takeout"]}, {"id": "ChIJv_7wm8Oej4ARzflirOTE7qc", "formattedAddress": "2206 Bridgepointe Pkwy, San Mateo, CA 94404, USA", "location": {"latitude": 37.5608612, "longitude": -122.28287200000001}, "googleMapsUri": "https://maps.google.com/?cid=12100825735214856653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bjsrestaurants.com/locations/ca/san-mateo?utm_source=google&utm_medium=organic&utm_campaign=google_my_business", "displayName": {"text": "BJ's Restaurant & Brewhouse", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/BJ Brewhouse Small.jpeg", "phone": "(650) 931-2990", "description": "Famous Signature Deep Dish Pizza and Handcrafted Beers await you.", "hours": "Mon–Thu 11am–12am, Fri 11am–1am, Sat 10am–1am, Sun 10am–12am", "menuUrl": "https://www.bjsrestaurants.com/menu", "priceRange": "$$", "keywords": ["craft beer", "brewery", "happy hour", "family friendly", "brunch", "outdoor seating", "late night", "groups"]}, {"id": "ChIJ6zDxjXCej4AROgj36_xUWgM", "formattedAddress": "220 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.565979999999996, "longitude": -122.32309120000001}, "googleMapsUri": "https://maps.google.com/?cid=241598975285069882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://restaurants.bonchon.com/locations/ca/san-mateo/220-south-b-street", "displayName": {"text": "Bonchon San Mateo", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/san-mateo/Bonchon Small.jpeg", "phone": "(650) 458-3110", "description": "Known for crunchy double-fried chicken with signature Korean sauces.", "hours": "Mon–Thu 11:00am–9:00pm, Fri–Sat 11:00am–10:00pm, Sun 11:00am–9:00pm", "menuUrl": "https://www.bonchon.com/menu", "priceRange": "$$", "keywords": ["korean fried chicken", "fast casual", "wings", "soju"]}, {"id": "ChIJrQxCoJKdj4AR1Tmf4lRpJdU", "formattedAddress": "1007 Howard Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.585951099999996, "longitude": -122.33355870000001}, "googleMapsUri": "https://maps.google.com/?cid=15358797917517199829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://bonjourbakehouse.com/", "displayName": {"text": "Bonjour Bakehouse", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "phone": "(650) 476-4095", "description": "Award-winning French bakery featuring seasonal treats from local farmers' market ingredients.", "photoUrl": "images/restaurant-photos/san-mateo/Bonjour Bakehouse Small.jpeg", "hours": "Mon–Fri 7am–1pm, Sat–Sun 8am–1pm", "menuUrl": "https://www.doordash.com/store/bonjour-bakehouse-san-mateo-24720396/", "priceRange": "$$", "keywords": ["bakery", "breakfast", "brunch", "pastries", "coffee", "lunch"]}, {"id": "ChIJEZSWcoqfj4ARRh1KStl4i3s", "formattedAddress": "1338 W Hillsdale Blvd, San Mateo, CA 94403, USA", "location": {"latitude": 37.5340474, "longitude": -122.3275585}, "googleMapsUri": "https://maps.google.com/?cid=8902341963077524806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://brotherscafes.com/", "displayName": {"text": "Brothers Cafe", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/san-mateo/Brothers Cafe Small.jpeg", "phone": "(650) 389-7263", "description": "Scratch-made buttermilk pancakes and brioche French toast with all-day service.", "hours": "Mon–Sun 8am–8pm", "menuUrl": "https://brotherscafes.com/menu", "priceRange": "$$", "keywords": ["breakfast", "brunch", "cafe", "family friendly", "counter service"]}, {"id": "ChIJdZO-BOafj4ARIn7armdjG4E", "displayName": {"text": "Brundavan Indian restaurant", "languageCode": "en"}, "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=9303138752230227490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.brundavanindianresturant.online/", "location": {"latitude": 37.5477, "longitude": -122.3083}, "cuisine": "Indian", "description": "Traditional Indian cuisine. Appetizers are a specialty. Reasonably priced.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "keywords": ["indian curry", "vegetarian options", "vegan options", "halal", "lunch buffet"]}, {"id": "ChIJQbLqm0yfj4ARAp96SCrcv14", "formattedAddress": "168 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5637672, "longitude": -122.3223772}, "googleMapsUri": "https://maps.google.com/?cid=6827417634279694082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cajunbowlcalifornia.com/", "displayName": {"text": "Cajun Bowl San Mateo", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/san-mateo/Cajun Bowl Small.jpeg", "phone": "(650) 445-7248", "description": "They serve only caught-in-the-wild seafood with offerings changing daily.", "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 11am–9pm", "menuUrl": "https://www.cajunbowlcalifornia.com/menus/", "priceRange": "$$", "keywords": ["cajun seafood", "boil", "shrimp", "lobster", "crab", "counter service"]}, {"id": "ChIJq02_m9qfj4ARwdkXtIZk1n0", "formattedAddress": "2214 Bridgepointe Pkwy, San Mateo, CA 94404, USA", "location": {"latitude": 37.5597387, "longitude": -122.28417560000001}, "googleMapsUri": "https://maps.google.com/?cid=9067545429466929601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cafishgrill.com/", "displayName": {"text": "California Fish Grill", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/san-mateo/CA Fish Grill Small.jpeg", "phone": "(650) 753-2521", "description": "Serving 100% sustainable seafood certified by Monterey Bay Aquarium standards.", "hours": "Mon–Wed 11am–9pm, Thu–Sat 11am–9:30pm, Sun 11am–9pm", "menuUrl": "https://order.cafishgrill.com/menu/san-mateo", "priceRange": "$$", "keywords": ["grilled fish", "healthy options", "fast casual", "counter service", "gluten free options"]}, {"id": "ChIJi3DsR-idj4ARYhSvmuHVNmQ", "formattedAddress": "504 Peninsula Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5798006, "longitude": -122.3350557}, "googleMapsUri": "https://maps.google.com/?cid=7221194217474692194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.celiasrestaurants.com/san-mateo-peninsula-ave/", "displayName": {"text": "Celia's", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 343-5886", "description": "Fresh daily salsa, guacamole, and handmade tamales with skinless chicken.", "photoUrl": "images/restaurant-photos/san-mateo/Celia's Small.jpeg", "hours": "Sun–Thu 11am–9pm, Fri–Sat 11am–10pm", "menuUrl": "https://www.celiasrestaurants.com/location/san-mateo-peninsula-ave/dinner-menu/", "priceRange": "$$", "keywords": ["mexican", "family friendly", "margaritas", "tacos", "burritos"]}, {"id": "ChIJV_JyhqD1UocRck6StTwWwfA", "formattedAddress": "181 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.564229499999996, "longitude": -122.3228201}, "googleMapsUri": "https://maps.google.com/?cid=17348171689607974514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.centralparkbistro.com/", "displayName": {"text": "Central Park Bistro", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/Central Park Bistro Small.jpeg", "phone": "(650) 558-8401", "description": "Well-executed menu ranges from wood-fired pizzas to sophisticated American entrees.", "hours": "Mon–Fri 11:00am–2:00pm, 4:30pm–9:00pm, Sat 5:00pm–9:00pm, Sun 4:30pm–9:00pm", "menuUrl": "https://centralparkbistro.com/menus/", "priceRange": "$$$", "keywords": ["american", "date night", "outdoor seating", "brunch", "cocktails"]}, {"id": "ChIJfZwk1GCfj4ARGTJ1yrjaMq8", "formattedAddress": "2116 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5472306, "longitude": -122.3090022}, "googleMapsUri": "https://maps.google.com/?cid=12624393192678437401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.chaiyothaicuisine.com/", "displayName": {"text": "Chai Yo Thai Cuisine", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/san-mateo/Chaiyo Small.jpeg", "phone": "(650) 315-2545", "description": "Family-run Thai restaurant serving lunch and dinner in warm space.", "hours": "Mon–Closed, Tue–Sat 11am–3pm, 5pm–9pm, Sun–Closed", "menuUrl": "http://www.chaiyothaicuisine.com/menu.html", "priceRange": "$$", "keywords": ["thai curry", "pad thai", "vegetarian options", "takeout"]}, {"id": "ChIJzxQm-2Sej4ARd4DGD1s_-YI", "formattedAddress": "725 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5624087, "longitude": -122.3187689}, "googleMapsUri": "https://maps.google.com/?cid=9437644154470826103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://charliestaqueria.shop/", "displayName": {"text": "Charlie's Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/Charlies Taqueria Small.jpeg", "phone": "(650) 343-6496", "description": "Perfectly cooked tortillas with flavorful meats and self-serve chips station.", "hours": "Mon–Sun 10am–9pm", "menuUrl": "https://charliestaqueria.has.restaurant/menu/", "priceRange": "$", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJgWEBd16ej4ARwB83tMxbRYQ", "formattedAddress": "1428 S El Camino Real, San Mateo, CA 94402, USA", "location": {"latitude": 37.553869399999996, "longitude": -122.31616939999998}, "googleMapsUri": "https://maps.google.com/?cid=9531125121154490304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://charmthaica.smiledining.com/?2025102401", "displayName": {"text": "Charm Thai Eatery", "languageCode": "th"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/san-mateo/Charm Thai Eatery Small.jpeg", "phone": "(650) 212-3444", "description": "Family-run restaurant serving authentic Thai specialties with fresh ingredients and spices.", "hours": "Mon–Sun 11am–3pm, 5pm–9pm", "menuUrl": "https://www.yelp.com/biz/charm-thai-eatery-san-mateo-2", "priceRange": "$$", "keywords": ["thai curry", "pad thai", "vegetarian options", "takeout", "family friendly"]}, {"id": "manual_1778251763637", "displayName": {"text": "Cheesecake Factory", "languageCode": "en"}, "formattedAddress": "398 Hillsdale Shopping Ctr", "googleMapsUri": "https://www.google.com/maps/place/The+Cheesecake+Factory/data=!4m2!3m1!1s0x0:0xa03a9c8abf7329f2?sa=X&ved=1t:2428&ictx=111", "websiteUri": "https://www.thecheesecakefactory.com/?_ga=2.59035566.262883361.1778251379-1419924837.1778251379", "location": {}, "cuisine": "American", "keywords": ["cheesecake"], "phone": "(650) 638-0310", "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 10am-10pm", "priceRange": "$$", "description": "Popular American chain offering a wide variety of dishes, known for large portions, timely service and comfortable atmosphere. Good if you have a mixed group who like different cuisines.", "photoUrl": "images/restaurant-photos/san-mateo/Cheesecake Factory Small.jpeg"}, {"id": "ChIJ-f64XwCfj4ARy9MhdAdp8kY", "displayName": {"text": "Chingu", "languageCode": "en"}, "formattedAddress": "211 S San Mateo Dr, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=5112264007752995787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://waitwhile.com/locations/chingusanmateo/welcome", "location": {"latitude": 37.5658, "longitude": -122.3256}, "cuisine": "Korean", "phone": "(650) 781-3075", "description": "Casual late night Korean food plus fusion dishes. Fun atmosphere.", "photoUrl": "images/restaurant-photos/san-mateo/Chingu Small.jpeg", "hours": "Mon–Closed, Tue–Thu 6pm–12am, Fri–Sat 6pm–1am, Sun 5pm–10pm", "menuUrl": "https://www.chingusanmateo.com/menu", "priceRange": "$$", "keywords": ["korean bbq", "tabletop grill", "groups", "soju"]}, {"id": "ChIJ_apdxcGfj4ARXsR6YZjHLQw", "formattedAddress": "142 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5644375, "longitude": -122.32367380000001}, "googleMapsUri": "https://maps.google.com/?cid=877576959691506782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.snackpass.co/chopsticktaiwanesebentos", "displayName": {"text": "Chopstix & Taiwanese Bentos", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Chopstix& Small.jpeg", "phone": "(650) 558-1988", "description": "Authentic Taiwanese bentos with famous crispy popcorn chicken and sides.", "hours": "Mon–Thu 11:30am–2:30pm, 4:30pm–8pm, Fri 11:30am–2:30pm, 4:30pm–8:30pm, Sat 11:30am–3pm, 4pm–8:30pm, Sun 11:30am–3pm, 4pm–8pm", "menuUrl": "https://www.chopstixtaiwanesebentos.com/p8fhpzrd/restaurant/menu", "priceRange": "$$", "keywords": ["taiwanese", "bento box", "fast casual", "counter service"]}, {"id": "ChIJ1abXTPmej4ARcbHKZmE-yaI", "formattedAddress": "8 W 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.544292299999995, "longitude": -122.306095}, "googleMapsUri": "https://maps.google.com/?cid=11729975292520477041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cobanigyro.com/", "displayName": {"text": "Cobani Gyro & Kebab", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/san-mateo/Cobani Small.jpeg", "phone": "(650) 389-6861", "description": "Michelin-recommended fresh halal Mediterranean with highest-quality ingredients and gourmet dishes.", "hours": "Mon–Sun 11am–9pm", "menuUrl": "https://www.yelp.com/menu/cobani-gyro-and-kebab-san-mateo", "priceRange": "$$", "keywords": ["gyros", "falafel", "fast casual", "counter service", "halal", "mediterranean"]}, {"id": "ChIJRTWR2O6fj4ARAqPsTcQX5Hk", "formattedAddress": "50 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5635731, "longitude": -122.3250106}, "googleMapsUri": "https://maps.google.com/?cid=8783171305167692546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://colanderkitchens.com/", "displayName": {"text": "Colander Kitchens", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/san-mateo/Colander Kitchens Small.jpeg", "phone": "(415) 997-0024", "description": "Multiple dining concepts from Southern brunch to sushi burritos together.", "hours": "Mon–Fri 9am–2:30pm, Sat–Sun Closed", "menuUrl": "https://colanderkitchens.com/menus/", "priceRange": "$", "keywords": ["fast casual", "counter service", "healthy options"]}, {"id": "ChIJ7VEHR9Ofj4AR6AEUKzk2Y38", "displayName": {"text": "Cooking Papa", "languageCode": "en"}, "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=9179240084674970088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cookingpapa.us/", "location": {}, "cuisine": "Chinese", "phone": "(415) 690-2233", "hours": "Mon–Sat 10:00am–7:00pm, Sun 10:00am–12:00pm", "priceRange": "$", "description": "Michelin recommended authentic Hong Kong cuisine delivered by meal boxes.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "keywords": ["dim sum", "cantonese", "family friendly", "groups"]}, {"id": "ChIJObonFH-fj4ARLrUSRoNnYI8", "formattedAddress": "742 Polhemus Rd, San Mateo, CA 94402, USA", "location": {"latitude": 37.5202524, "longitude": -122.33893870000001}, "googleMapsUri": "https://maps.google.com/?cid=10331371358701925678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://crystalspringstavern.com/", "displayName": {"text": "Crystal Springs Tavern", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/Crystal Springs Tavern Small.jpeg", "phone": "(650) 865-3660", "description": "Gourmet comfort fare features dry-aged burger and house-made pastas.", "hours": "Mon–Closed, Tue–Thu 4pm–9pm, Fri 4pm–10pm, Sat 4pm–9pm, Sun–Closed", "menuUrl": "https://www.opentable.com/r/crystal-springs-tavern-san-mateo", "priceRange": "$$", "keywords": ["american", "bar", "happy hour", "outdoor seating", "sports bar"]}, {"id": "ChIJwdQE_hmfj4ARhnRXauveN9M", "formattedAddress": "3799 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.533799099999996, "longitude": -122.2934504}, "googleMapsUri": "https://maps.google.com/?cid=15219878568404677766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.cubankitchen.org/", "displayName": {"text": "Cuban Kitchen", "languageCode": "en"}, "cuisine": "Caribbean", "phone": "(650) 627-4636", "description": "Female and family owned business serving authentically flavored Cuban cuisine.", "photoUrl": "images/restaurant-photos/san-mateo/Cuban Kitchen Small.jpeg", "hours": "Mon Closed, Tue–Sat 11am–9:30pm, Sun 11am–8pm", "menuUrl": "https://order.toasttab.com/online/qbacubankitchen", "priceRange": "$", "keywords": ["cuban sandwich", "fast casual", "counter service"]}, {"id": "ChIJTV5S5-Ofj4ARcKTVvNe9Z7E", "displayName": {"text": "Curry & Kabab", "languageCode": "en"}, "formattedAddress": "1923 S El Camino Real, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=12783394801598178416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.currykababca.com/", "location": {}, "cuisine": "Indian", "phone": "(650) 315-2136", "hours": "Mon–Fri 9am–10pm, Sat–Sun 10am–10pm", "priceRange": "$$", "description": "Chef Mandy specializes in North Indian Curries and tandoori items.", "photoUrl": "images/restaurant-photos/san-mateo/Curry & Kabob Small.jpeg", "keywords": ["indian curry", "halal", "vegetarian options", "takeout"]}, {"id": "ChIJ2_xn6N-fj4ARhiafxUTWz5Y", "displayName": {"text": "Curry Pizza House", "languageCode": "en"}, "formattedAddress": "135 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=10867140016729958022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://currypizzahouse.com/locations/san-mateo/", "location": {}, "cuisine": "Fusion", "phone": "(650) 242-0520", "hours": "Sun–Thu 10am–9pm, Fri–Sat 10am–10pm", "priceRange": "$$", "description": "Craft pizza blending delicious curry flavors with wholesome fresh ingredients.", "photoUrl": "images/restaurant-photos/san-mateo/Curry Pizza House Small.jpeg", "keywords": ["indian fusion pizza", "craft beer", "vegetarian options", "delivery"]}, {"id": "ChIJFbeGuHCej4ARWLQmzwIx9Xc", "displayName": {"text": "Curry Up Now", "languageCode": "en"}, "formattedAddress": "129 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=8643868947942650968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.curryupnow.com/", "location": {}, "cuisine": "Indian", "keywords": ["vegan"], "phone": "(650) 881-3951", "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10:30pm, Sun 11:30am–9pm", "priceRange": "$$", "description": "Indian street food born in India and raised in California. Vegetarian and Vegan options.", "photoUrl": "images/restaurant-photos/san-mateo/Curry UpNow Small.jpeg"}, {"id": "ChIJJ359_7Sfj4ARJZnEW4YwpzM", "formattedAddress": "213 2nd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5660399, "longitude": -122.32382530000001}, "googleMapsUri": "https://maps.google.com/?cid=3721996970668366117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.daeho-kalbijjim.com/", "displayName": {"text": "Daeho kalbijjim & beef soup", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/san-mateo/Daeho Small.jpeg", "phone": "(650) 389-6689", "description": "Traditional Korean royal recipes with modern twists for tender Kalbijjim.", "hours": "Mon–Fri 11am–2:30pm, 4:30pm–9pm, Sat–Sun 10:30am–9pm", "menuUrl": "https://www.yelp.com/biz/daeho-kalbijjim-and-beef-soup-san-mateo-3", "priceRange": "$$$", "keywords": ["korean braised short rib", "galbi", "beef soup", "groups", "special occasion"]}, {"id": "ChIJp6yImXCej4ARwQ0kgVjz25w", "formattedAddress": "204A 2nd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.56588380000001, "longitude": -122.32362709999998}, "googleMapsUri": "https://maps.google.com/?cid=11302895251265686977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.dashjapanese.com/", "displayName": {"text": "Dash Japanese Tapas and Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Dash Small.jpeg", "phone": "(650) 340-1508", "description": "Daily fish specials flown fresh from Tokyo's Toyosu Fish Market.", "hours": "Mon–Thu 5:00pm–9:30pm, Fri–Sat 5:00pm–10:00pm, Sun 5:00pm–9:00pm", "menuUrl": "https://www.dashjapanese.com/menu", "priceRange": "$$", "keywords": ["sushi", "izakaya", "happy hour", "small plates", "sake", "date night"]}, {"id": "ChIJx5v3UiCfj4AR5nLeVzTzZXI", "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=8243262099109606118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Dosa Box", "languageCode": "en"}, "cuisine": "Indian", "phone": "(650) 315-1073", "description": "Features innovative dosas like Nutella dessert and five cheese varieties.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "hours": "Mon 10:00am–11:00pm, Tue 10:20am–11:00pm, Wed 10:00am–11:59pm, Thu 10:00am–11:59pm, Fri–Sat 10:00am–11:59pm, Sun 10:15am–11:00pm", "menuUrl": "https://postmates.com/store/dosa-box-66-21st-ave/jUl5Zx__WJy7bxZjBO5Q6w", "priceRange": "$$", "keywords": ["south indian", "dosa", "vegetarian options", "vegan options", "fast casual"]}, {"id": "ChIJXfy5KtSdj4ARGeV59JOwm-k", "formattedAddress": "514 Peninsula Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5799581, "longitude": -122.3347764}, "googleMapsUri": "https://maps.google.com/?cid=16833242181735671065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://dosaexpresssanmateo.com/", "displayName": {"text": "Dosa Express", "languageCode": "en"}, "cuisine": "Indian", "phone": "(650) 389-7690", "description": "Chef curates every meal with emotional perception, food made with love.", "photoUrl": "images/restaurant-photos/san-mateo/Dosa Express Small.jpeg", "hours": "Mon 9am–9pm, Tue–Thu 9am–9pm, Fri–Sat 9am–10pm, Sun 9am–9pm", "menuUrl": "https://www.yelp.com/biz/dosa-express-san-mateo", "priceRange": "$$", "keywords": ["south indian", "dosa", "vegetarian options", "vegan options", "fast casual"]}, {"id": "ChIJGyBz3xmfj4ARnkSXuVr4I2s", "displayName": {"text": "Dough Zone Dumpling House", "languageCode": "en"}, "formattedAddress": "111 E 4th Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=7720287254787605662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.doughzonedumplinghouse.com/locations", "location": {}, "cuisine": "Chinese", "phone": "(650) 336-1888", "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm", "priceRange": "$$", "description": "Known for exquisite Soup Dumplings, Pork Buns, and Dan Dan Noodles.", "photoUrl": "images/restaurant-photos/san-mateo/Dough Zone Small.jpeg", "keywords": ["dumplings", "xiao long bao", "dim sum", "family friendly"]}, {"id": "ChIJe1hpqKGfj4ARWBFCgo71nII", "displayName": {"text": "Dynasty BBQ", "languageCode": "en"}, "formattedAddress": "105 W 25th Ave, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=9411667313717023064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pos.chowbus.com/online-ordering/store/restaurant/14843", "location": {}, "cuisine": "Chinese", "phone": "(650) 393-4819", "hours": "Mon–Thu 4:30pm–11pm, Fri 12pm–2pm, 5pm–11pm, Sat 12pm–11pm, Sun 12pm–10:30pm", "priceRange": "$$", "photoUrl": "images/restaurant-photos/san-mateo/Dynasty BBQ Small.jpeg", "keywords": ["chinese bbq", "peking duck", "groups", "family style"]}, {"id": "manual_edis_quesabirrias_san_mateo", "displayName": {"text": "Edi's Quesabirrias and Tacos (Food Truck)", "languageCode": "en"}, "formattedAddress": "500 E Third Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?q=Edi%27s+Quesabirrias+San+Mateo", "websiteUri": "", "location": {}, "cuisine": "Mexican", "keywords": ["food truck", "birria", "quesabirria", "tacos", "birria ramen", "counter service", "cash only"], "phone": "", "hours": {"Monday": "11:00 AM – 9:30 PM", "Tuesday": "Closed", "Wednesday": "11:00 AM – 9:30 PM", "Thursday": "11:00 AM – 10:00 PM", "Friday": "11:00 AM – 11:00 PM", "Saturday": "11:00 AM – 11:00 PM", "Sunday": "11:00 AM – 11:00 PM"}, "priceRange": "$", "description": "Standout birria truck on Third Avenue with handmade corn tortillas, perfectly seasoned quesabirria, shrimp and cheese tacos, and birria ramen. Cash only and made to order.", "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"}, {"id": "ChIJQbNcA9adj4ARmcSDBfrEoOU", "formattedAddress": "15 N Kingston St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5746444, "longitude": -122.31699440000001}, "googleMapsUri": "https://maps.google.com/?cid=16546441609072592025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://elpalenquetaqueria.shop/", "displayName": {"text": "El Palenque Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 342-4040", "description": "Authentic tacos with flaky tortillas and traditional recipes at unbeatable prices.", "photoUrl": "images/restaurant-photos/san-mateo/El Palenque Taqueria Small.jpeg", "hours": "Mon–Sun 10am–8:30pm", "menuUrl": "https://www.allmenus.com/ca/san-mateo/799624-el-palenque-taqueria/menu/", "priceRange": "$", "keywords": ["tacos", "burritos", "fast casual", "counter service", "family friendly"]}, {"id": "manual_el_sabor_de_mi_pueblo_san_mateo", "displayName": {"text": "El Sabor de Mi Pueblo (Food Truck)", "languageCode": "en"}, "formattedAddress": "448 N Humboldt St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?q=El+Sabor+de+Mi+Pueblo+San+Mateo", "websiteUri": "https://orderelsabordemipueblo.com/", "location": {}, "cuisine": "Mexican", "keywords": ["food truck", "tacos", "burritos", "carne asada", "California burrito", "counter service"], "phone": "(650) 293-1837", "hours": {"Monday": "11:00 AM – 9:00 PM", "Tuesday": "11:00 AM – 9:00 PM", "Wednesday": "11:00 AM – 9:00 PM", "Thursday": "11:00 AM – 9:00 PM", "Friday": "11:00 AM – 9:00 PM", "Saturday": "Closed", "Sunday": "Closed"}, "priceRange": "$", "description": "Weekday taco truck near the San Mateo DMV with generously loaded tacos, California burritos, and milanesa plates at some of the best value prices on the Peninsula.", "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"}, {"id": "manual_1778987417597", "displayName": {"text": "El Sanignacense (food truck)", "languageCode": "en"}, "formattedAddress": "404 19th Ave", "googleMapsUri": "", "websiteUri": "", "location": {}, "cuisine": "Mexican", "keywords": ["seafood", "food truck"], "priceRange": "$", "description": "Mexican seafood food truck next to the Exxon station.", "photoUrl": "images/restaurant-photos/san-mateo/El Sanignacense (food truck) Small.jpeg"}, {"id": "ChIJHwExAV-ej4ARTtO8nKuvAy8", "formattedAddress": "1622 Palm Ave, San Mateo, CA 94402, USA", "location": {"latitude": 37.553730699999996, "longitude": -122.3133779}, "googleMapsUri": "https://maps.google.com/?cid=3387744496316633934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.el-sinaloense.com/", "displayName": {"text": "El Sinaloense Mexican Restaurant", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 345-1180", "description": "Casual dining with personalized customer service from trained staff.", "photoUrl": "images/restaurant-photos/san-mateo/Sinaloense Small.jpeg", "hours": "Sun–Thu 11am–9pm, Fri–Sat 11am–10pm", "menuUrl": "https://elsinaloensemexicanrestaurantsmca.com/", "priceRange": "$$", "keywords": ["mexican seafood", "tacos", "mariscos", "family friendly"]}, {"id": "ChIJHQ-1AmWej4AR1QryXVCTOi8", "displayName": {"text": "Espetus Churrascaria Brazilian BBQ", "languageCode": "en"}, "formattedAddress": "710 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=3403194441814641365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.espetus.com/", "location": {}, "cuisine": ["Brazilian", "BBQ"], "phone": "(650) 342-8700", "hours": "Mon–Thu 11:30am–2:30pm, 5pm–10pm, Fri 11:30am–2:30pm, 5pm–11pm, Sat 12pm–3pm, 5pm–11pm, Sun 12pm–9pm", "priceRange": "$$$", "description": "Bay Area's first Brazilian Steakhouse with fourteen flame-grilled cuts tableside.", "photoUrl": "images/restaurant-photos/san-mateo/EspetusJPG Small.jpeg", "keywords": ["brazilian steakhouse", "churrascaria", "all you can eat meat", "groups", "special occasion", "full bar"]}, {"id": "ChIJkTQUbxqfj4ARnwE0LebF5Gg", "formattedAddress": "63 37th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5336503, "longitude": -122.2956476}, "googleMapsUri": "https://maps.google.com/?cid=7558383667026067871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Fernando's Méxican Restaurant", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 345-9042", "description": "Family-owned since 1985, known as home of the famous margarita.", "photoUrl": "images/restaurant-photos/san-mateo/Fernandos Small.jpeg", "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm", "menuUrl": "https://www.doordash.com/store/fernandos-mexican-restaurant-san-mateo-994875/", "priceRange": "$$", "keywords": ["mexican", "tacos", "burritos", "family friendly"]}, {"id": "ChIJXYm1UR2fj4ARep4zzoa7lZc", "displayName": {"text": "Fieldwork", "languageCode": "en"}, "formattedAddress": "3030 S Delaware St, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=10922842658916507258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://drinkfieldwork.com/san-mateo/", "location": {}, "cuisine": ["American", "Brewery"], "phone": "(650) 242-1280", "hours": "Mon–Thu 12pm–9pm, Fri 12pm–10pm, Sat 11am–10pm, Sun 11am–9pm", "priceRange": "$$", "description": "Rotating selection of over 20 fresh beers on tap.", "photoUrl": "images/restaurant-photos/san-mateo/Fieldwork San Mateo Small.jpeg", "keywords": ["craft beer", "brewery", "outdoor seating", "happy hour", "groups", "bar food"]}, {"id": "ChIJo7QtiEOfj4ARPFSTaTIW0rY", "displayName": {"text": "Fire Wings", "languageCode": "en"}, "formattedAddress": "206 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=13173616265787561020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.firewings.com/san-mateo-ca-94401", "location": {}, "cuisine": "American", "phone": "(650) 372-5263", "hours": "Sun–Thu 11am–9:45pm, Fri–Sat 11am–10:45pm", "priceRange": "$$", "description": "Over 20 wing flavors plus popular garlic noodles and beer", "photoUrl": "images/restaurant-photos/san-mateo/Fire Wings Small.jpeg", "keywords": ["wings", "fast casual", "counter service", "delivery"]}, {"id": "ChIJlZciNwCfj4ARoQRaOS3XOQ4", "displayName": {"text": "Fish With You", "languageCode": "en"}, "formattedAddress": "150 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=1025086979439199393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "location": {}, "cuisine": "Chinese", "phone": "(650) 226-8106", "hours": "Mon 11am–9pm, Tue Closed, Wed–Thu 11am–9pm, Fri–Sun 11am–9:30pm", "priceRange": "$$", "photoUrl": "images/restaurant-photos/san-mateo/Fish With You Small.jpeg", "keywords": ["chinese seafood", "hot pot", "family style"]}, {"id": "ChIJG2nvYCifj4ARS2YfRVbPyYs", "formattedAddress": "385 2nd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5668625, "longitude": -122.3226665}, "googleMapsUri": "https://maps.google.com/?cid=10072810011024647755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Fletch's Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/Fletchs Taqueria Small.jpeg", "phone": "(650) 398-7543", "hours": "Mon 10am–9pm, Tue 10am–9pm, Wed 10am–9pm, Thu 10am–9pm, Fri 10am–9pm, Sat 10am–9pm, Sun Closed", "menuUrl": "https://www.ubereats.com/store/fletchs-taqueria/8hCnWZTwVN2hP96Ihqp4RA", "priceRange": "$", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJNXD9Wmefj4ARw5k3-lRu9I8", "formattedAddress": "4 Hillsdale Mall, San Mateo, CA 94403, USA", "location": {"latitude": 37.539237899999996, "longitude": -122.30074210000001}, "googleMapsUri": "https://maps.google.com/?cid=10373037152995350979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://floressf.com/", "displayName": {"text": "Flores San Mateo", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/Flores Small.jpeg", "phone": "(650) 418-9742", "description": "Family recipes from Gulf to Pacific honoring Mexican tradition.", "hours": "Mon–Thu 11:30am–9pm, Fri 11:30am–10pm, Sat 11am–10pm, Sun 11am–9pm", "menuUrl": "https://floressf.com/location/san-mateo-hours-location/", "priceRange": "$$", "keywords": ["mexican", "outdoor seating", "margaritas", "tacos", "date night"]}, {"id": "ChIJ_YgYJYufj4ARKw1ULsKCDiE", "formattedAddress": "144 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.566493200000004, "longitude": -122.32369459999998}, "googleMapsUri": "https://maps.google.com/?cid=2381985023438097707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.fogbird.co/", "displayName": {"text": "Fogbird", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/san-mateo/Fogbird Small.jpeg", "phone": "(650) 458-0049", "description": "Named Best Bar two years running with creative cocktails.", "hours": "Mon 4pm–9pm, Tue–Thu 4pm–10pm, Fri–Sat 4pm–12am, Sun Closed", "menuUrl": "https://www.fogbird.co/visit-us", "priceRange": "$$", "keywords": ["outdoor seating", "craft beer", "bar food", "happy hour"]}, {"id": "ChIJBUJUEvufj4AR3Ms-AQad6AU", "formattedAddress": "60 E 3rd Ave Ste 108, San Mateo, CA 94401, USA", "location": {"latitude": 37.5637466, "longitude": -122.32472349999999}, "googleMapsUri": "https://maps.google.com/?cid=425762813902769116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.foreignercafe.com/", "displayName": {"text": "Foreigner Cafe", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/san-mateo/Foreingner Small.jpeg", "phone": "(650) 620-1888", "description": "Stories are shared over craft coffee where culture meets community.", "hours": "Mon–Sun 8:00am–4:00pm", "menuUrl": "https://www.foreignercafe.com/wp-content/uploads/2023/03/Brunch-Menu-8-AM-2.30-PM.pdf", "priceRange": "$$", "keywords": ["outdoor seating", "cafe", "brunch", "coffee", "pastries", "lunch"]}, {"id": "ChIJ3SH8Znqej4ARUMkudLM5pJE", "formattedAddress": "428 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.566401, "longitude": -122.320825}, "googleMapsUri": "https://maps.google.com/?cid=10494576474591250768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Fuji Sukiyaki", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Fuji Sukiyaki Small.jpeg", "phone": "(650) 348-7810", "hours": "Mon 11am–2:30pm, 4:30pm–9pm, Tue Closed, Wed–Sat 11am–2:30pm, 4:30pm–9pm, Sun 11am–2:30pm, 4:30pm–9pm", "menuUrl": "https://www.yelp.com/biz/fuji-sukiyaki-san-mateo", "priceRange": "$$", "keywords": ["shabu shabu", "sukiyaki", "japanese hot pot", "date night", "groups"]}, {"id": "ChIJKZz8LPmej4ARBbVMIQuCtnk", "formattedAddress": "116 W 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5438824, "longitude": -122.307341}, "googleMapsUri": "https://maps.google.com/?cid=8770340308665545989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://order.online/store/furagu-929", "displayName": {"text": "Furagu Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Furagu Sushi Small.jpeg", "phone": "(650) 931-4038", "description": "No delivery fee on your first order with live tracking.", "hours": "Mon 11am–2:30pm, 4pm–8:30pm, Tue Closed, Wed 11am–2:30pm, 4pm–8:30pm, Thu 11am–2:30pm, 4pm–8:30pm, Fri 11am–2:30pm, 4pm–9pm, Sat 11am–2:30pm, 4pm–9pm, Sun 11am–2:30pm, 4pm–8:30pm", "menuUrl": "https://www.yelp.com/biz/furagu-sushi-san-mateo", "priceRange": "$$", "keywords": ["sushi", "omakase", "date night", "sake"]}, {"id": "ChIJpxRGD8efj4AR6j3jq50wM4k", "formattedAddress": "313 S San Mateo Dr, San Mateo, CA 94401, USA", "location": {"latitude": 37.5641216, "longitude": -122.32366150000001}, "googleMapsUri": "https://maps.google.com/?cid=9886299060760165866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://gaokitchen.com/", "displayName": {"text": "Gao Viet Kitchen", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/san-mateo/Gao Viet Kitchen Small.jpeg", "phone": "(650) 477-2524", "description": "Home of the Phozilla with 24-hour simmered marrow broth.", "hours": "Mon 4:30pm–9pm, Tue Closed, Wed 4:30pm–9pm, Thu 4:30pm–9pm, Fri 11:30am–3pm & 5pm–9pm, Sat 11:30am–3:30pm & 5pm–9pm, Sun 11:30am–3:30pm & 5pm–9pm", "menuUrl": "https://gaokitchen.com/san-mateo-menu-1", "priceRange": "$$", "keywords": ["vietnamese", "pho", "banh mi", "fast casual"]}, {"id": "ChIJP7SzgWOej4ARm8ksqOCHTCw", "formattedAddress": "500 9th Ave, San Mateo, CA 94402, USA", "location": {"latitude": 37.5626473, "longitude": -122.31627349999998}, "googleMapsUri": "https://maps.google.com/?cid=3192075634862770587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Golden 9th Deli & Market", "languageCode": "en"}, "cuisine": "Other", "phone": "(650) 344-3308", "description": "Family run neighborhood deli and market since 1991.", "photoUrl": "images/restaurant-photos/san-mateo/Golden Ninth Deli Small.jpeg", "hours": "Mon–Fri 7am–4pm, Sat–Sun Closed", "menuUrl": "https://www.doordash.com/store/golden-9th-deli-and-market-san-mateo-386031/", "priceRange": "$$", "keywords": ["deli", "sandwiches", "lunch", "counter service"]}, {"id": "ChIJh1Pinbedj4ARfPkf5TbAlbI", "formattedAddress": "1119 N Amphlett Blvd, San Mateo, CA 94401, USA", "location": {"latitude": 37.5862903, "longitude": -122.33338920000001}, "googleMapsUri": "https://maps.google.com/?cid=12868402852285905276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.goldenboypizza.com/", "displayName": {"text": "Golden Boy Pizza", "languageCode": "en"}, "cuisine": "Pizza", "phone": "(650) 315-2988", "description": "Serving Sanfrancilian style focaccia-dough pizza by slice or sheet since 1978.", "photoUrl": "images/restaurant-photos/san-mateo/Golden Boy Pizza Small.jpeg", "hours": "Mon–Tue Closed, Wed–Thu 12pm–8pm, Fri–Sat 12pm–9pm, Sun 12pm–8pm", "menuUrl": "https://www.goldenboypizza.com/menu", "priceRange": "$", "keywords": ["pizza", "fast casual", "counter service", "late night"]}, {"id": "ChIJj_rGBD6fj4AR2yxHbCg-99Y", "formattedAddress": "19 Laurie Meadows Dr, San Mateo, CA 94403, USA", "location": {"latitude": 37.531068499999996, "longitude": -122.287394}, "googleMapsUri": "https://maps.google.com/?cid=15489917786700328155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://themenustar2.com/webspace/menus.php?code=orderguadalajaragrill.com", "displayName": {"text": "Guadalajara Grill", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 573-6933", "description": "Tasty food delivered to your office with corporate accounts available.", "photoUrl": "images/restaurant-photos/san-mateo/Guadalajara Grill Small.jpeg", "hours": "Mon–Sat 8am–10pm, Sun 8am–9pm", "menuUrl": "https://themenustar2.com/webspace/menus.php?code=orderguadalajaragrill.com", "priceRange": "$", "keywords": ["mexican", "tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJrTqCc3Cej4ARB1BoBxdHsFw", "formattedAddress": "329 S Ellsworth Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.56455, "longitude": -122.322491}, "googleMapsUri": "https://maps.google.com/?cid=6678916411624542215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.gyu-kaku.com/san-mateo", "displayName": {"text": "Gyu-Kaku Japanese BBQ", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Gyu-Kaku Japanese BBQ Small.jpeg", "phone": "(650) 343-3255", "description": "Grill premium meats over flaming charcoal at your own table.", "hours": "Mon–Thu 5:00pm–9:15pm, Fri–Sat 11:30am–9:45pm, Sun 11:30am–9:15pm", "menuUrl": "https://www.yelp.com/menu/gyu-kaku-japanese-bbq-san-mateo", "priceRange": "$$", "keywords": ["japanese bbq", "tabletop grill", "happy hour", "groups", "soju", "sake"]}, {"id": "ChIJ01Fn83Cej4ARB9X33o7q96k", "displayName": {"text": "Happy Lamb Hot Pot", "languageCode": "en"}, "formattedAddress": "215 S Ellsworth Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=12247515611004392711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://happylambhotpot.com/", "location": {}, "cuisine": "Chinese", "phone": "(650) 343-2566", "hours": "Mon–Sun 11:30am–10:00pm", "priceRange": "$$", "description": "Renowned for six hour bone broth and no dipping sauce approach.", "photoUrl": "images/restaurant-photos/san-mateo/Happy Lamb Small.jpeg", "keywords": ["hot pot", "chinese", "groups", "family style", "vegetarian options"]}, {"id": "ChIJ14OHaoeej4ARQa1Xvrjqfoo", "formattedAddress": "1446 Cary Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5706827, "longitude": -122.30954809999999}, "googleMapsUri": "https://maps.google.com/?cid=9979671903487896897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Harry's Shoreview Deli", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/Harrys Deli Small.jpeg", "phone": "(650) 348-4009", "hours": "Mon–Sat 10am–5pm, Sun 11am–4pm", "menuUrl": "https://www.allmenus.com/ca/san-mateo/781615-harrys-shoreview-deli/menu/", "priceRange": "$", "keywords": ["deli", "sandwiches", "breakfast", "lunch", "counter service", "family friendly"]}, {"id": "ChIJC9ir5_eej4ARSXbY44ty6Po", "formattedAddress": "1941 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.548991699999995, "longitude": -122.31025529999998}, "googleMapsUri": "https://maps.google.com/?cid=18079826649227490889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://heidipies.com/", "displayName": {"text": "Heidi's Pies Restaurant", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/Heidis Pies Small.jpeg", "phone": "(650) 574-0505", "description": "Bay Area's best pies made from scratch using fresh fruit.", "hours": "Open 24 hours", "menuUrl": "https://www.heidipies.com/menu", "priceRange": "$$", "keywords": ["american", "breakfast", "brunch", "family friendly", "pie", "counter service"]}, {"id": "ChIJ3xfY7XCej4ARxv7jAZpvKII", "formattedAddress": "202 2nd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.565819399999995, "longitude": -122.32376020000001}, "googleMapsUri": "https://maps.google.com/?cid=9378868931246423750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://himawari-ramen.com/", "displayName": {"text": "Himawari", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Wakuriya Small.jpeg", "phone": "(650) 375-1005", "description": "Offers gluten-free noodles and multiple ramen broth options including shoyu.", "hours": "Mon–Sun 11:30am–2pm, 5pm–9pm; Fri–Sat 11:30am–2pm, 5pm–9:30pm", "menuUrl": "https://www.himawari-ramen.com/menu", "priceRange": "$$", "keywords": ["japanese", "sushi", "ramen", "family friendly"]}, {"id": "ChIJj9XMWTmfj4ARiNEt81wYJcU", "displayName": {"text": "HiroNori Craft Ramen", "languageCode": "en"}, "formattedAddress": "211 E 3rd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=14205787387106021768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://hironori.com/san-mateo", "location": {}, "cuisine": "Japanese", "phone": "(650) 242-1223", "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–10pm", "priceRange": "$$", "description": "Original ramen noodles fresh-cut every morning with 24-hour simmered broth.", "photoUrl": "images/restaurant-photos/san-mateo/Hiro Nori Small.jpeg", "keywords": ["ramen", "tonkotsu", "craft ramen", "vegan options"]}, {"id": "ChIJcSNm1sGdj4ARp19r8dgKWYY", "formattedAddress": "1012 Howard Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.585788, "longitude": -122.333264}, "googleMapsUri": "https://maps.google.com/?cid=9680780800889151399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.hotwokbistrosm.com/", "displayName": {"text": "Hot Wok Bistro", "languageCode": "en"}, "cuisine": "Chinese", "phone": "(650) 548-1758", "photoUrl": "images/restaurant-photos/san-mateo/Hot wok Bistro Small.jpeg", "hours": "Mon–Sat 11:30am–9pm, Sun 4pm–9pm", "menuUrl": "https://hotwokbistrosanmateoca.com/hot-wok-bistro/menu/1012-Howard-Ave/", "priceRange": "$", "keywords": ["chinese", "wok", "fast casual", "counter service", "delivery"]}, {"id": "ChIJeYxGt3Gej4ARWlGEOdBa0LE", "formattedAddress": "33 E 3rd Ave #4010, San Mateo, CA 94401, USA", "location": {"latitude": 37.5635154, "longitude": -122.32548969999998}, "googleMapsUri": "https://maps.google.com/?cid=12812840790233731418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.hotaru-restaurant.com/", "displayName": {"text": "Hotaru Restaurant", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Hotaru Small.jpeg", "phone": "(650) 343-1152", "description": "Authentic Japanese sushi and home-style Japanese food in San Mateo.", "hours": "Mon–Sat 11:30am–2pm, 5:30pm–9pm; Sun 11:30am–2pm, 5:30pm–8pm", "menuUrl": "https://www.hotaru-restaurant.com/menu", "priceRange": "$$", "keywords": ["japanese", "sushi", "izakaya", "sake", "date night"]}, {"id": "ChIJ5VNLDnCej4ARf6DmmGYOkxg", "formattedAddress": "150 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5638475, "longitude": -122.322638}, "googleMapsUri": "https://maps.google.com/?cid=1770774912301441151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.eatathummus.com/", "displayName": {"text": "Hummus Mediterranean Kitchen", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/san-mateo/Hummus Small.jpeg", "phone": "(650) 401-6903", "description": "Fresh food made in-house with naturally-raised meats slow-roasted rotisserie style.", "hours": "Mon–Thu 10:30am–9:30pm, Fri–Sat 10:30am–9:30pm, Sun 10:30am–9pm", "priceRange": "$$", "keywords": ["mediterranean wraps", "falafel", "hummus", "halal", "vegetarian options", "fast casual"]}, {"id": "ChIJmzr6Snqej4ARKnXwd1B3-lM", "formattedAddress": "680 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5674555, "longitude": -122.3193179}, "googleMapsUri": "https://maps.google.com/?cid=6051280236819019050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ikesplacesanmateo.com/", "displayName": {"text": "Ike's Place", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "phone": "(650) 375-8900", "description": "Hot sandwiches on Dutch Crunch bread with famous Dirty Sauce.", "photoUrl": "images/restaurant-photos/san-mateo/Ikes Place Small.jpeg", "hours": "Mon–Sun 10am–7pm", "menuUrl": "https://www.ikesplacesanmateo.com/menu", "priceRange": "$", "keywords": ["sandwiches", "fast casual", "counter service", "vegan options", "delivery"]}, {"id": "ChIJ7yCNNyufj4AR4t1ACpzILO4", "formattedAddress": "35 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5635769, "longitude": -122.32546839999998}, "googleMapsUri": "https://maps.google.com/?cid=17162312852514594274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://qrcode.chowbus.com/?code=UZNzey", "displayName": {"text": "Izakaya Fusion Grill Keitan", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Izakaya Fusion Grill Keitan Small.jpeg", "phone": "(650) 242-1432", "description": "Binchotan-grilled yakitori with daily happy hour and karaoke room experience.", "hours": "Mon–Thu 5pm–11:30pm, Fri–Sat 5pm–1am, Sun 5pm–11:30pm", "menuUrl": "https://pos.chowbus.com/online-ordering/store/14869", "priceRange": "$$", "keywords": ["izakaya", "sake", "sushi", "happy hour", "small plates", "date night"]}, {"id": "ChIJY2V3mXqej4AR-nm6ZMkV3XM", "formattedAddress": "301 E 4th Ave E, San Mateo, CA 94401, USA", "location": {"latitude": 37.5649389, "longitude": -122.32156669999999}, "googleMapsUri": "https://maps.google.com/?cid=8348853238937319930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://izakayaginji.com/", "displayName": {"text": "Izakaya Ginji", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Ginji Small.jpeg", "phone": "(650) 348-1110", "description": "Modern and globally inspired dishes with comfort in homestyle cooking.", "hours": "Mon–Thu 4pm–9pm, Fri–Sat 4pm–9:30pm, Sun Closed", "menuUrl": "https://izakayaginji.com/menu", "priceRange": "$$", "keywords": ["izakaya", "sake", "small plates", "date night", "happy hour"]}, {"id": "ChIJcUAq7XCej4ARXAQVeV53NVI", "formattedAddress": "212 2nd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5659546, "longitude": -122.32348990000001}, "googleMapsUri": "https://maps.google.com/?cid=5923772132517807196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.online/business/izakaya-mai-104768", "displayName": {"text": "Izakaya Mai", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Izakaya Mai Small.jpeg", "phone": "(650) 347-2511", "hours": "Mon–Sun 6pm–12am", "menuUrl": "https://www.yelp.com/menu/izakaya-mai-san-mateo", "priceRange": "$$", "keywords": ["izakaya", "sake", "small plates", "happy hour", "date night"]}, {"id": "ChIJCzbe2Viej4ARxdm0aQzctUo", "displayName": {"text": "Jack's Restaurant & Bar", "languageCode": "en"}, "formattedAddress": "1750 S El Camino Real, San Mateo, CA 94402, USA", "googleMapsUri": "https://maps.google.com/?cid=5383450875462474181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ilovejacks.com/", "location": {}, "cuisine": "American", "keywords": ["american", "bar", "happy hour", "brunch", "groups"], "menuUrl": "https://www.ilovejacks.com/san-mateo-menus", "phone": "(650) 350-1077", "hours": "Mon–Thu 8am–9pm, Fri–Sat 8am–10pm, Sun 8am–9pm", "priceRange": "$$", "description": "Extensive menu reflecting Greek-American heritage with genuine old-school hospitality.", "photoUrl": "images/restaurant-photos/san-mateo/Jacks Small.jpeg"}, {"id": "ChIJJ5RD_Eh2j4ARJXCwvPBwjQY", "formattedAddress": "42 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.567076, "longitude": -122.32429250000001}, "googleMapsUri": "https://maps.google.com/?cid=472157715203911717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://jeffreyshamburgers.com/", "displayName": {"text": "Jeffrey's Hamburgers", "languageCode": "en"}, "cuisine": "Burgers", "photoUrl": "images/restaurant-photos/san-mateo/Jeffreys Small.jpeg", "phone": "(650) 348-8698", "description": "Handmade burgers ground fresh daily from Certified Angus Beef.", "hours": "Mon–Sun 11:00am–8:00pm", "menuUrl": "https://www.jeffreyshamburgers.com/menu", "priceRange": "$$", "keywords": ["burgers", "family friendly", "counter service"]}, {"id": "ChIJ__3YvAKfj4ARV1pq8xK3ggQ", "formattedAddress": "2925 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5403211, "longitude": -122.30079280000001}, "googleMapsUri": "https://maps.google.com/?cid=325023415145224791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.jerseymikes.com/20155/san-mateo-ca?utm_source=google&utm_medium=organic&utm_campaign=listings", "displayName": {"text": "Jersey Mike's Subs", "languageCode": "en"}, "cuisine": "American", "phone": "(650) 345-4400", "description": "High quality meats and cheese sliced fresh with store baked bread.", "photoUrl": "images/restaurant-photos/san-mateo/Jersey Mike's Subs Small.jpeg", "hours": "Mon–Sun 10am–8:30pm", "menuUrl": "https://www.jerseymikes.com/menu", "priceRange": "$", "keywords": ["sandwiches", "fast casual", "counter service", "delivery"]}, {"id": "ChIJ19n6fQCfj4AR09dCkKsNpTg", "displayName": {"text": "Johnny’s", "languageCode": "en"}, "formattedAddress": "7 N B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=4081683667792091091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.johnnyshmb.com/", "location": {}, "cuisine": "Breakfast", "keywords": ["breakfast", "brunch", "family friendly"], "menuUrl": "https://www.toasttab.com/local/order/johnnys-san-mateo/r-a38d1c27-5035-4575-9b55-a50ca778a6b2", "phone": "(650) 520-2323", "hours": "Mon–Sun 8am–2pm", "priceRange": "$$", "description": "They bake every pie and give lifesavers to well behaved young diners.", "photoUrl": "images/restaurant-photos/san-mateo/Johnnys Small.jpeg"}, {"id": "ChIJsRSv03Cej4ARF2eZmKCM258", "formattedAddress": "30 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5672346, "longitude": -122.32449709999999}, "googleMapsUri": "https://maps.google.com/?cid=11518955093313021719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://joy-sushi.com/", "displayName": {"text": "Joy Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Joy Sushi Small.jpeg", "phone": "(650) 340-8974", "description": "Celebrating 20 years serving good food and treating everyone like family.", "hours": "Mon 4:30pm–9pm, Tue–Sat 11am–2pm, 4:30pm–9pm (Tue–Thu 9pm, Fri–Sat 11pm), Sun 4:30pm–9pm", "menuUrl": "https://joysushi.menu11.com/mateo/order", "priceRange": "$$", "keywords": ["sushi", "sashimi", "family friendly", "sake"]}, {"id": "ChIJoRzWonufj4ARgwyltSJXaP4", "displayName": {"text": "Kajiken", "languageCode": "en"}, "formattedAddress": "112 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=18331998089799601283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.kajikenusa.com/", "location": {}, "cuisine": "Japanese", "keywords": ["mazemen", "ramen", "japanese noodles", "vegan options", "outdoor seating"], "menuUrl": "https://www.kajikenusa.com/menu-1", "phone": "(650) 458-3061", "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–10pm, Sun 11am–9:30pm", "priceRange": "$$", "description": "Fresh homemade noodles with secret sauces and customizable toppings.", "photoUrl": "images/restaurant-photos/san-mateo/Kajiken Small.jpeg"}, {"id": "manual_1778251321614", "displayName": {"text": "Kaz Teriyaki Grill", "languageCode": "en"}, "formattedAddress": "71 E 4th Ave", "googleMapsUri": "https://www.google.com/maps/place/kaz,+san+mateo/data=!4m2!3m1!1s0x808f9e703c57c823:0x693add8b1a724499?sa=X&ved=1t:242&ictx=111", "websiteUri": "https://order.toasttab.com/online/kaz-teriyaki-grill-new", "location": {}, "cuisine": "Japanese", "keywords": ["curry", "bento", "bowls"], "menuUrl": "https://order.toasttab.com/online/kaz-teriyaki-grill-new", "phone": "(650) 347-5777", "hours": "Mon-Sat 11am-8pm, Sun 11am-7pm", "priceRange": "$", "description": "Very affordable, window service Japanese cuisine. Grab and go: Bento Box, Curry, Bowls, Noodles. Known for great service and friendly staff.", "photoUrl": "images/restaurant-photos/san-mateo/Kaz Teriyaki Grill Small.jpeg"}, {"id": "ChIJe0yiisOfj4ARtrCmoqvdKeA", "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=16152685267778973878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://sanmateofoodmall.com/", "displayName": {"text": "Kazu Sushi and Sando", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 519-2283", "description": "Family-owned business serving omakase boxes and milk bread sandos.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "hours": "Mon 11am–7:30pm, Tue Closed, Wed–Fri 11am–7:30pm, Sat–Sun 12pm–8pm", "priceRange": "$$", "keywords": ["sushi", "sando", "sandwiches", "fast casual", "date night"]}, {"id": "ChIJc8JISACfj4ARpxD6dtUFFf8", "formattedAddress": "32 42nd Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5301715, "longitude": -122.2902986}, "googleMapsUri": "https://maps.google.com/?cid=18380603868564820135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://kodawarisushi.com/", "displayName": {"text": "Kodawari Japanese Cuisine", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 315-2023", "description": "Sushi bar and yakitori with private tatami room dining.", "photoUrl": "images/restaurant-photos/san-mateo/Kodawari Japanese Cuisine Small.jpeg", "hours": "Mon–Thu 4:30pm–9pm, Fri–Sat 4:30pm–9:30pm, Sun 4:30pm–9pm", "priceRange": "$$", "keywords": ["japanese", "omakase", "sushi", "date night", "sake"]}, {"id": "ChIJi1zXD3qej4ARz_SZHSId8Zc", "displayName": {"text": "Kokko", "languageCode": "en"}, "formattedAddress": "509 2nd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=10948564201477108943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "location": {}, "cuisine": "Other", "keywords": ["korean", "fast casual", "counter service"], "menuUrl": "https://yakitori-kokko.res-menu.net/menu", "phone": "(650) 401-7008", "hours": "Mon–Tue Closed, Wed–Sun 5:30pm–10:30pm", "priceRange": "$$", "photoUrl": "images/restaurant-photos/san-mateo/Kokko Small.jpeg"}, {"id": "ChIJu9fnfEGfj4AReN6R333JaPA", "formattedAddress": "1214 S El Camino Real, San Mateo, CA 94402, USA", "location": {"latitude": 37.555591, "longitude": -122.31808140000001}, "googleMapsUri": "https://maps.google.com/?cid=17323317509139586680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.lacasadeloshuevos.com/", "displayName": {"text": "La Casa de Los Huevos", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/La Casa De Los Huevos Small.jpeg", "phone": "(650) 271-6678", "description": "Authentic Sinaloa breakfast and dinner with café de olla daily.", "hours": "Mon–Sun 8am–9pm", "menuUrl": "https://www.lacasadeloshuevos.com/menus", "priceRange": "$$", "keywords": ["mexican breakfast", "brunch", "family friendly", "eggs"]}, {"id": "ChIJ7e-JFfmej4AROyDsovvnp_U", "formattedAddress": "2310 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.545231, "longitude": -122.30684199999997}, "googleMapsUri": "https://maps.google.com/?cid=17701371928359215163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.lafondasanmateo.com/", "displayName": {"text": "La Fonda de San Mateo", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/La Fonda Small.jpeg", "phone": "(650) 574-9699", "description": "Experience happiness through their signature warm tortillas and authentic Mexican cuisine.", "hours": "Mon Closed, Tue–Thu 11:30am–2pm, 5pm–9pm, Fri 11:30am–2pm, 5pm–10pm, Sat 5pm–10pm, Sun 5pm–9pm", "menuUrl": "https://www.lafondasanmateo.com/menu", "priceRange": "$$", "keywords": ["mexican", "family friendly", "margaritas", "tacos"]}, {"id": "ChIJVWjBMv-ej4ARSMCgAcSHQ0E", "formattedAddress": "180 W 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.543492199999996, "longitude": -122.3087981}, "googleMapsUri": "https://maps.google.com/?cid=4702751711815581768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://lalanternasanmateo.com/", "displayName": {"text": "La Lanterna Ristorante", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/san-mateo/La Lanterna Small.jpeg", "phone": "(650) 341-8877", "description": "Family-run restaurant serving traditional Italian dishes with nightly specials.", "hours": "Mon Closed, Tue–Fri 11:30am–2pm & 5pm–9pm, Sat–Sun 5pm–9pm", "menuUrl": "https://lalanternasanmateo.com/dinner", "priceRange": "$$", "keywords": ["italian", "pasta", "date night", "wine list"]}, {"id": "ChIJ39pZ9naej4ARh1YP9Q7b6yw", "displayName": {"text": "La Piñata", "languageCode": "en"}, "formattedAddress": "120 N B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=3236921614483281543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://orderlapinata.com/", "location": {}, "cuisine": "Mexican", "keywords": ["mexican", "family friendly", "margaritas", "tacos"], "menuUrl": "http://orderlapinata.com/", "phone": "(650) 344-5722", "hours": "Mon–Sun 10am–9pm", "priceRange": "$$", "description": "Fresh Salvadorian and Latin American family recipes made with love.", "photoUrl": "images/restaurant-photos/san-mateo/La Pinata Small.jpeg"}, {"id": "ChIJ1Y7oOkCfj4AR84UxeQWgh0c", "formattedAddress": "224 E Hillsdale Blvd E, San Mateo, CA 94403, USA", "location": {"latitude": 37.5410602, "longitude": -122.2910781}, "googleMapsUri": "https://maps.google.com/?cid=5154264243917391347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.larondamarina.com/", "displayName": {"text": "La Ronda Restaurant Peruvian Cuisine", "languageCode": "en"}, "cuisine": "Peruvian", "phone": "(650) 389-7495", "description": "They serve fresh vegetables, seafood, and meats at reasonable prices.", "photoUrl": "images/restaurant-photos/san-mateo/La Ronda Restaurant Small.jpeg", "hours": "Mon–Thu 11am–9pm, Fri–Sat 9am–10pm, Sun 9am–9pm", "priceRange": "$$", "keywords": ["peruvian", "ceviche", "family friendly"]}, {"id": "ChIJ45zmZ3qej4ARcQEvOh9jrlQ", "formattedAddress": "92 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5640274, "longitude": -122.32430099999998}, "googleMapsUri": "https://maps.google.com/?cid=6101923530904895857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Las Palomas Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/Los Palomas Taqueria Small.jpeg", "phone": "(650) 343-9925", "hours": "Mon–Sun 10am–9pm", "menuUrl": "https://las-palomas-taqueria.res-menu.com/menu", "priceRange": "$", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJUSuYArmfj4ARrq1hjNw2KwQ", "formattedAddress": "2208 Bridgepointe Pkwy, San Mateo, CA 94404, USA", "location": {"latitude": 37.5605113, "longitude": -122.2830974}, "googleMapsUri": "https://maps.google.com/?cid=300394121026186670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://lazydogrestaurants.com/pages/san-mateo-ca", "displayName": {"text": "Lazy Dog Restaurant & Bar", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/Lazy Dog Small.jpeg", "phone": "(650) 514-6772", "description": "Handcrafted American food with happy hour drinks starting at three dollars.", "hours": "Mon–Fri 11am–12am, Sat–Sun 10am–12am", "menuUrl": "https://orders.lazydogrestaurants.com/menu", "priceRange": "$$", "keywords": ["american", "outdoor seating", "family friendly", "happy hour", "brunch", "craft beer", "groups", "kids menu"]}, {"id": "manual_leos_tacos_truck_san_mateo", "displayName": {"text": "Leo's Tacos Truck (Food Truck)", "languageCode": "en"}, "formattedAddress": "1990 S El Camino Real, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?q=Leo%27s+Tacos+Truck+San+Mateo", "websiteUri": "", "location": {}, "cuisine": "Mexican", "keywords": ["food truck", "tacos", "al pastor", "burritos", "late night", "counter service"], "phone": "", "hours": {"Monday": "12:00 PM – 11:00 PM", "Tuesday": "12:00 PM – 11:00 PM", "Wednesday": "12:00 PM – 11:00 PM", "Thursday": "12:00 PM – 11:00 PM", "Friday": "12:00 PM – 12:00 AM", "Saturday": "12:00 PM – 12:00 AM", "Sunday": "12:00 PM – 11:00 PM"}, "priceRange": "$", "description": "LA-born al pastor taco truck with a permanent San Mateo spot on El Camino Real. Known for tender spit-roasted pork, housemade salsas, and some of the best tacos on the Peninsula.", "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"}, {"id": "ChIJT1h6HgCfj4ARgnzghvthQ78", "displayName": {"text": "Li's Knife Cut Noodle", "languageCode": "en"}, "formattedAddress": "121 W 25th Ave, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=13781967017611394178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://lisnoodle.com/", "location": {}, "cuisine": "Chinese", "phone": "(650) 458-3020", "hours": "Mon–Thu 11am–3pm, 5pm–8:30pm, Fri–Sat 11am–3pm, 5pm–9pm, Sun 11am–3pm, 5pm–8:30pm", "priceRange": "$", "description": "Handmade noodles cut with rhythmic precision bring comforting home flavors.", "photoUrl": "images/restaurant-photos/san-mateo/Lis Knife :cut Noodle Small.jpeg", "keywords": ["hand-pulled noodles", "chinese noodles", "fast casual", "counter service"]}, {"id": "ChIJUbQYn8Sfj4AR4Ewh5cOk788", "formattedAddress": "777 Mariners Island Blvd STE 170, San Mateo, CA 94404, USA", "location": {"latitude": 37.5621565, "longitude": -122.28612189999998}, "googleMapsUri": "https://maps.google.com/?cid=14983375646554672352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://littlelatebird.com/", "displayName": {"text": "Little Late Bird", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/san-mateo/Little Late Bird Small.jpeg", "phone": "(650) 520-5650", "description": "Fresh sandwiches, boba, coffee and Korean-inspired brunch dishes.", "hours": "Mon–Fri 7:30am–4pm, Sat–Sun 9am–4pm", "menuUrl": "https://littlelatebird.square.site/s/order", "priceRange": "$$", "keywords": ["cafe", "brunch", "coffee", "pastries", "lunch"]}, {"id": "ChIJv2lTRnCej4ARxfGlAqjhuoo", "displayName": {"text": "Liuyishou Hotpot", "languageCode": "en"}, "formattedAddress": "98 E 3rd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=9996550434617422277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://liuyishouna.com/", "location": {}, "cuisine": "Chinese", "phone": "(650) 242-1245", "hours": "Mon–Fri 11:30am–2:30pm, 5pm–10pm, Sat 11:30am–11pm, Sun 11:30am–10pm", "priceRange": "$$", "description": "Authentic hot pot with 1,200+ global locations and fashionable quality.", "photoUrl": "images/restaurant-photos/san-mateo/LiuYishou Hot Pot Small.jpeg", "keywords": ["hot pot", "sichuan", "groups", "family style"]}, {"id": "ChIJoShLt8Sfj4ARs7XSoeedP98", "formattedAddress": "2948 S Norfolk St, San Mateo, CA 94403, USA", "location": {"latitude": 37.5450625, "longitude": -122.28505890000001}, "googleMapsUri": "https://maps.google.com/?cid=16086750012168648115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://lobsterchefca.com/", "displayName": {"text": "Lobster Chef", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Lobster Chef Small.jpeg", "phone": "(650) 315-2218", "description": "Louisiana Cajun seafood boil with refreshing real fruit smoothies.", "hours": "Mon Closed, Tue–Sat 4pm–8:30pm, Sun 4pm–8:30pm", "menuUrl": "https://www.lobsterchefus.com/menu", "priceRange": "$$", "keywords": ["chinese seafood", "lobster", "groups", "special occasion", "family style"]}, {"id": "manual_los_carnalitos_san_mateo", "displayName": {"text": "Los Carnalitos (Food Truck)", "languageCode": "en"}, "formattedAddress": "2901 S Norfolk St, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?q=Los+Carnalitos+San+Mateo", "websiteUri": "", "location": {}, "cuisine": "Mexican", "keywords": ["food truck", "tacos", "burritos", "quesabirria", "al pastor", "counter service"], "phone": "(650) 483-2185", "hours": {"Monday": "10:00 AM – 9:00 PM", "Tuesday": "10:00 AM – 9:00 PM", "Wednesday": "10:00 AM – 9:00 PM", "Thursday": "10:00 AM – 9:00 PM", "Friday": "10:00 AM – 9:00 PM", "Saturday": "10:00 AM – 9:00 PM", "Sunday": "Closed"}, "priceRange": "$", "description": "Beloved South San Mateo taco truck serving authentic Mexican street food six days a week. A neighborhood staple for tacos, burritos, and quesabirria at everyday prices.", "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"}, {"id": "ChIJwxA8VHafj4ARKLBAwmlzO_o", "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=18031132431175692328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://lotusandlime.com/", "displayName": {"text": "Lotus and Lime", "languageCode": "en"}, "cuisine": "Fusion", "phone": "(650) 667-8877", "description": "Thai and Vietnamese-inspired purple rice bowls with Wagyu beef.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "hours": "Mon–Fri 9am–11:30pm, Sat–Sun 10:30am–11:30pm", "menuUrl": "https://lotusandlime.com/menu", "priceRange": "$$", "keywords": ["fusion", "healthy options", "lunch", "fast casual"]}, {"id": "ChIJLZhr0v6ej4ARAP-hT1EdtdY", "formattedAddress": "109 W 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5436294, "longitude": -122.30723809999999}, "googleMapsUri": "https://maps.google.com/?cid=15471304329966780160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.lucetison25thave.com/", "displayName": {"text": "LUCETI'S on 25th", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/san-mateo/Lucetis Small.jpeg", "phone": "(650) 574-1256", "description": "Italian cuisine created by world-class chef and awarded San Franciscan Roger Bertola.", "hours": "Mon–Closed, Tue–Thu 11:30am–2:30pm & 4:30pm–9pm, Thu 11:30am–3pm & 4:30pm–9:30pm, Fri 11:30am–3pm & 4:30pm–9:30pm, Sat 4:30pm–9:30pm, Sun 4:30pm–9pm", "menuUrl": "http://www.lucetison25thave.com/menu", "priceRange": "$$", "keywords": ["italian", "pasta", "date night", "wine list", "romantic"]}, {"id": "ChIJOTbfdHCej4ARIab_uDLZJr0", "displayName": {"text": "M sandwiches Cafe", "languageCode": "en"}, "formattedAddress": "205 E 4th Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=13629820134158738977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://m-sandwiches.com/", "location": {}, "cuisine": "Vietnamese", "phone": "(650) 931-4181", "hours": "Mon–Sun 9:30am–4:00pm", "priceRange": "$$", "description": "Authentic French-Vietnamese bánh mì with house-made pâté and grilled meats.", "photoUrl": "images/restaurant-photos/san-mateo/Banh Mi M- Sandwiches Small.jpeg", "keywords": ["vietnamese sandwiches", "banh mi", "fast casual", "counter service"]}, {"id": "ChIJDc_SPM2fj4AR3I0cYL0JLcc", "displayName": {"text": "MalaTown Express", "languageCode": "en"}, "formattedAddress": "77 E 3rd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=14352138296465591772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "location": {}, "cuisine": "Chinese", "phone": "(650) 541-6666", "hours": "Mon–Sun 11:30am–9:30pm", "priceRange": "$$", "description": "Authentic malatang with customizable bowls at only $9.99 per pound.", "photoUrl": "images/restaurant-photos/san-mateo/Mala Town Express Small.jpeg", "keywords": ["mala", "sichuan", "spicy noodles", "fast casual"]}, {"id": "ChIJwRwXQIeej4ARW7apZkKr0vg", "formattedAddress": "1452 Cary Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5707498, "longitude": -122.30948339999998}, "googleMapsUri": "https://maps.google.com/?cid=17929581368193955419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Maria's Restaurant", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/san-mateo/Marias Small.jpeg", "phone": "(650) 343-8930", "hours": "Mon–Sun 9:30am–8pm", "menuUrl": "https://www.allmenus.com/ca/san-mateo/798818-marias-restaurant/menu/", "priceRange": "$$", "keywords": ["family friendly", "counter service"]}, {"id": "ChIJxyjrMZadj4AR6-EYjcTmpBs", "formattedAddress": "19 N Kingston St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5747117, "longitude": -122.31698859999999}, "googleMapsUri": "https://maps.google.com/?cid=1991970667059798507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://mariscoselajoyano.com/", "displayName": {"text": "Mariscos El Ajoyano", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 513-9604", "description": "They serve authentic ceviche and fresh Sinaloa style seafood dishes.", "photoUrl": "images/restaurant-photos/san-mateo/Mariscos El Ajoyano Small.jpeg", "hours": "Mon 10:30am–9pm, Tue Closed, Wed–Sun 10:30am–9pm", "menuUrl": "https://www.mariscoselajoyano.com/menu", "priceRange": "$$", "keywords": ["mexican seafood", "mariscos", "tacos", "ceviche", "shrimp"]}, {"id": "ChIJERZ2ZWWdj4ARCAAjBDaa2_Q", "formattedAddress": "851 N San Mateo Dr, San Mateo, CA 94401, USA", "location": {"latitude": 37.5764971, "longitude": -122.33832649999998}, "googleMapsUri": "https://maps.google.com/?cid=17643865521942364168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mateopizza.com/", "displayName": {"text": "Mateo Pizza Restaurant", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/Meteo Pizza Small.jpeg", "phone": "(650) 210-7616", "description": "New York-style halal pizzas with Turkish influence and fresh ingredients.", "hours": "Mon–Sun 11:00am–1:30am", "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/mateo-pizza/menu", "priceRange": "$$", "keywords": ["pizza", "family friendly", "delivery"]}, {"id": "ChIJ7TKz_xmfj4ARtQgGqsBFIBQ", "displayName": {"text": "Maverick Jack's", "languageCode": "en"}, "formattedAddress": "4000 S El Camino Real, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=1450235773801859253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.maverickjacks.com/", "location": {}, "cuisine": "American", "phone": "(650) 458-0020", "hours": "Mon–Fri 11am–8pm, Sat 11am–9pm, Sun 11am–8pm", "priceRange": "$$", "description": "They use the best ingredients in a lively atmosphere.", "photoUrl": "images/restaurant-photos/san-mateo/Maverick Jack's Small.jpeg", "keywords": ["american", "bar", "sports bar", "happy hour", "burgers"]}, {"id": "ChIJh8qOgm2fj4ARSJdJF-9ehwo", "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=758679443216111432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://mbsplace.com/", "displayName": {"text": "MB's Place", "languageCode": "en"}, "cuisine": "Other", "phone": "(415) 748-4222", "description": "Mobile food trailer serving award-winning BBQ and soul food.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "hours": "Wed 12pm–7pm, Fri–Sat 12pm–7pm, Mon–Tue closed, Thu closed, Sun closed", "menuUrl": "https://www.mbsplace.com/shop", "priceRange": "$", "keywords": ["fast casual", "counter service"]}, {"id": "ChIJN0qhdXCej4ARGQmAoMQCf9c", "formattedAddress": "215 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5645241, "longitude": -122.3220992}, "googleMapsUri": "https://maps.google.com/?cid=15528133083726350617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.mcgovernssanmateo.com/", "displayName": {"text": "McGovern's Bar", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/san-mateo/McGoverns Small.jpeg", "phone": "(650) 372-5335", "description": "Irish pub atmosphere with influences from all over the world.", "hours": "Mon Closed, Tue 7pm–2am, Wed–Sat 5pm–2am, Sun 7pm–2am", "priceRange": "$$", "keywords": ["bar", "sports bar", "happy hour", "late night", "pub food"]}, {"id": "ChIJGQ9jzuGej4AR3OtzvOFkgzA", "formattedAddress": "1060 Park Pl, San Mateo, CA 94403, USA", "location": {"latitude": 37.5447299, "longitude": -122.29143140000001}, "googleMapsUri": "https://maps.google.com/?cid=3495748656461769692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mendocinofarms.com/locations/san-mateo", "displayName": {"text": "Mendocino Farms", "languageCode": "en"}, "cuisine": "American", "phone": "(650) 332-8300", "description": "Fresh ingredients and fearless flavor combinations create unexpected culinary adventures.", "photoUrl": "images/restaurant-photos/san-mateo/Mendocino Farms Small.jpeg", "hours": "Mon–Sun 10am–9pm", "menuUrl": "https://order.mendocinofarms.com/menu/san-mateo", "priceRange": "$$", "keywords": ["sandwiches", "salads", "healthy options", "lunch", "vegetarian options", "fast casual"]}, {"id": "ChIJx8042Qafj4ARPEMbdQDvnMM", "displayName": {"text": "Mikiya Wagyu Shabu House", "languageCode": "en"}, "formattedAddress": "68 Hillsdale Mall, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=14095403719006569276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mikiyashabu.com/project/san-mateo-ca/", "location": {}, "cuisine": "Japanese", "phone": "(650) 865-5665", "hours": "Mon–Thu 11:30am–10pm, Fri 11:30am–11pm, Sat 11am–11pm, Sun 11am–10pm", "priceRange": "$$$$", "description": "Premium Wagyu sourced from their own Masami Ranch with umami-rich broth.", "photoUrl": "images/restaurant-photos/san-mateo/Mikiya Small.jpeg", "keywords": ["wagyu beef", "shabu shabu", "japanese hot pot", "special occasion", "date night", "groups"]}, {"id": "ChIJ3VUJ3tKfj4ARIKA9t6cIdzE", "formattedAddress": "123 W 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5434577, "longitude": -122.3076048}, "googleMapsUri": "https://maps.google.com/?cid=3564327146513866784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.ordertogo.com/restaurants/missshangsm/mesh", "displayName": {"text": "Miss Shang-San Mateo", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Miss Shang Small.jpeg", "phone": "(650) 727-3881", "description": "Authentic Guizhou-style dishes and signature sour soup rice noodles shine.", "hours": "Mon 11:30am–2pm, 5:30pm–9:30pm, Tue Closed, Wed–Sat 11:30am–2pm, 5:30pm–9:45pm, Sun 11:30am–2pm, 5:30pm–9:45pm", "menuUrl": "https://www.yelp.com/biz/miss-shang-san-mateo-4", "priceRange": "$$", "keywords": ["chinese", "dim sum", "family style", "groups"]}, {"id": "ChIJ4eTlvOifj4AR01DroTjRjGI", "displayName": {"text": "MIXT", "languageCode": "en"}, "formattedAddress": "301 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=7101280753621356755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mixt.com/", "location": {}, "cuisine": "American", "keywords": ["salads", "healthy options", "vegan options", "vegetarian options", "fast casual", "lunch", "gluten free options"], "menuUrl": "https://www.mixt.com/menu/mixt/", "phone": "(415) 296-8009", "hours": "Mon–Sun 10:30am–9pm", "priceRange": "$$", "description": "SF-born salad institution celebrating its 20th anniversary with its first Peninsula location. Fresh chef-crafted salads and grain bowls made with locally sourced seasonal ingredients.", "photoUrl": "images/restaurant-photos/san-mateo/Mixt Small.jpeg"}, {"id": "ChIJ0xuuKCOfj4ARsCiMailnXtU", "displayName": {"text": "Moonbowls (Healthy Korean Bowls)", "languageCode": "en"}, "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=15374839605468342448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.moonbowls.com/", "location": {}, "cuisine": "Korean", "phone": "(866) 692-9615", "hours": "Mon–Sun 10am–10pm", "priceRange": "$$", "description": "High quality, gluten-free ingredients with numerous plant-based options available.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "keywords": ["korean rice bowls", "healthy options", "fast casual", "counter service", "vegetarian options"]}, {"id": "ChIJYWbtt3Cej4ARfYjowhMuzB0", "formattedAddress": "130 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.566994099999995, "longitude": -122.3234192}, "googleMapsUri": "https://maps.google.com/?cid=2147141784758159485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.curryupnow.com/mortarandpestlebar", "displayName": {"text": "Mortar & Pestle Bar", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/san-mateo/Mortar & Pestle Small.jpeg", "phone": "(650) 899-6669", "description": "Handcrafted cocktails with Indian spices like garam masala and in-house syrups.", "hours": "Mon–Thu 4pm–11pm, Fri–Sat 4pm–12am, Sun 4pm–10pm", "menuUrl": "https://order.curryupnow.com/menu/curry-up-now-san-mateo", "priceRange": "$$", "keywords": ["indian", "cocktails", "date night", "happy hour", "craft cocktails"]}, {"id": "ChIJt2p0sJWfj4ARAnNW1EHwWbo", "formattedAddress": "154 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5664, "longitude": -122.32357270000001}, "googleMapsUri": "https://maps.google.com/?cid=13428027929507820290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mountainmikespizza.com/locations/san-mateo-ca/", "displayName": {"text": "Mountain Mike's Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/Mountain Mikes Pizza Small.jpeg", "phone": "(650) 393-4799", "description": "Home of legendary crispy curly pepperoni with fresh daily dough.", "hours": "Mon–Thu 9am–12am, Fri–Sat 9am–1am, Sun 9am–12am", "menuUrl": "https://www.mountainmikespizza.com/menu/", "priceRange": "$$", "keywords": ["pizza", "family friendly", "delivery", "kids menu"]}, {"id": "ChIJYf_SdHCej4ARmizgPvuXVx0", "formattedAddress": "201 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.56445, "longitude": -122.32231299999998}, "googleMapsUri": "https://maps.google.com/?cid=2114325655421201562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mrpizzamansanmateo.com/", "displayName": {"text": "Mr Pizza Man San Mateo", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/Mr Pizza Man Small.jpeg", "phone": "(650) 342-7088", "description": "Uses domestic whole milk for sauce and hand-kneaded dough daily.", "hours": "Mon–Wed 4pm–10pm, Thu 11am–10pm, Fri–Sat 11am–12am, Sun 11am–11pm", "menuUrl": "https://www.mrpizzamansanmateo.com/menu/", "priceRange": "$$", "keywords": ["pizza", "delivery", "fast casual"]}, {"id": "ChIJyXgDJgCfj4ARuDWUSCzHkNw", "formattedAddress": "100 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.566820899999996, "longitude": -122.3241557}, "googleMapsUri": "https://maps.google.com/?cid=15893422078000641464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.mydumplingca.com/", "displayName": {"text": "MY Dumpling", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/My Dumpling Small.jpeg", "phone": "(650) 667-8887", "description": "Hand-crafted dumplings and traditional favorites like Kung Pao Chicken.", "hours": "Mon–Fri 11am–3pm, 5pm–9pm, Sat–Sun 11am–9pm", "menuUrl": "https://www.mydumplingca.com/menu", "priceRange": "$$", "keywords": ["dumplings", "chinese", "fast casual", "family friendly"]}, {"id": "ChIJJ2VXiyCfj4ARjRXqc3nCVhI", "formattedAddress": "2968 S Norfolk St, San Mateo, CA 94403, USA", "location": {"latitude": 37.544759299999996, "longitude": -122.28492019999999}, "googleMapsUri": "https://maps.google.com/?cid=1321457367571371405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tofucabin.com/", "displayName": {"text": "Myung Dong Tofu Cabin", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/san-mateo/Myung Dong Tofu cabin Small.jpeg", "phone": "(650) 525-1484", "description": "Serving home-style Korean food since December 2007 with authentic dishes.", "hours": "Mon–Sun 11:30am–8:00pm", "menuUrl": "http://www.tofucabin.com/menumdtc.html", "priceRange": "$$", "keywords": ["korean tofu soup", "soondubu", "fast casual", "vegetarian options"]}, {"id": "ChIJz1gRjsifj4AR9Fq5_CAqEmw", "formattedAddress": "114 De Anza Blvd, San Mateo, CA 94402, USA", "location": {"latitude": 37.5213907, "longitude": -122.33683200000002}, "googleMapsUri": "https://maps.google.com/?cid=7787333026844334836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://nealscoffeeshop.net/", "displayName": {"text": "Neal's Coffee Shop", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/san-mateo/Neals Coffee Shop Small.jpeg", "phone": "(650) 581-1754", "description": "Nothing frozen, all pasta and chowder made from scratch.", "hours": "Mon–Sun 7am–8pm", "menuUrl": "http://places.singleplatform.com/neals-coffee-shop-0/menu", "priceRange": "$$", "keywords": ["breakfast", "brunch", "cafe", "coffee", "counter service", "family friendly"]}, {"id": "ChIJb2cMDUyfj4ARMMNpFMGBlv8", "formattedAddress": "200 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.566127699999996, "longitude": -122.3232482}, "googleMapsUri": "https://maps.google.com/?cid=18417050392449368880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.newthaielephant.com/", "displayName": {"text": "New Thai Elephant", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/san-mateo/New Thai Elephant Small.jpeg", "phone": "(650) 431-0888", "description": "Experienced chefs prepare authentic Thai dishes cooked to perfection.", "hours": "Mon–Sun 11am–3pm, 4:30pm–9:30pm", "menuUrl": "https://www.newthaielephant.com/menu-1", "priceRange": "$$", "keywords": ["thai curry", "pad thai", "vegetarian options", "takeout", "delivery"]}, {"id": "ChIJ9wyeTXqej4ARYxWWs4z7o3s", "formattedAddress": "640 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5671134, "longitude": -122.31940719999999}, "googleMapsUri": "https://maps.google.com/?cid=8909241069595923811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "New Wing Fat Chinese Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "phone": "(650) 458-3248", "photoUrl": "images/restaurant-photos/san-mateo/New Wing Fat Small.jpeg", "hours": "Mon–Tue 11am–9pm, Wed Closed, Thu–Sat 11am–9pm, Sun 11am–9pm", "menuUrl": "https://www.zmenu.com/new-wing-fat-san-mateo-online-menu/", "priceRange": "$$", "keywords": ["cantonese", "chinese", "family style", "delivery"]}, {"id": "ChIJxd8KkXCej4ARzj6lIWQL8sg", "formattedAddress": "219 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5661232, "longitude": -122.3228954}, "googleMapsUri": "https://maps.google.com/?cid=14479648276638678734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.newyorkpizza.biz/", "displayName": {"text": "New York Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/New York Pizza Small.jpeg", "phone": "(650) 344-3444", "description": "Fresh ingredients and New York-style pizza for over 31 years.", "hours": "Mon–Thu 10am–11pm, Fri–Sat 10am–12am, Sun 10am–11pm", "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/new-york-pizza-san-mateo/menu", "priceRange": "$$", "keywords": ["pizza", "delivery", "late night", "counter service"]}, {"id": "ChIJsegTsX-fj4ARBGUV3a1Mntw", "formattedAddress": "1324 W Hillsdale Blvd, San Mateo, CA 94403, USA", "location": {"latitude": 37.5335357, "longitude": -122.3274522}, "googleMapsUri": "https://maps.google.com/?cid=15897228044286649604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://nickthegreek.com/", "displayName": {"text": "Nick The Greek", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/san-mateo/Nick The Greek SM Hills Small.jpeg", "phone": "(650) 345-4976", "description": "Fresh Greek street food with classic gyros and flavorful meals.", "hours": "Mon–Sun 11am–10pm", "menuUrl": "https://order.nickthegreek.com/san-mateo/menu", "priceRange": "$", "keywords": ["gyros", "falafel", "fast casual", "counter service", "mediterranean"]}, {"id": "ChIJ30KkXSOfj4AR-BP4ArnxwN0", "formattedAddress": "5 S Ellsworth Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.567075599999995, "longitude": -122.3248422}, "googleMapsUri": "https://maps.google.com/?cid=15979037254831576056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.no5house.com/", "displayName": {"text": "No.5 House", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/No. 5 House Small.jpeg", "phone": "(650) 727-3142", "description": "Authentic Chinese flavors with a modern twist for memorable dining.", "hours": "Mon 10:30am–2:30pm, 5pm–9pm, Tue Closed, Wed–Fri 10:30am–2:30pm, 5pm–9pm, Sat–Sun 10:30am–9pm", "menuUrl": "https://www.no5house.com/menu/", "priceRange": "$", "keywords": ["chinese", "noodles", "fast casual", "counter service"]}, {"id": "ChIJkdufYMqfj4ARRzWEPAMY5T8", "formattedAddress": "152 South Blvd, San Mateo, CA 94402, USA", "location": {"latitude": 37.5546691, "longitude": -122.31095099999999}, "googleMapsUri": "https://maps.google.com/?cid=4604112596235466055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://nomasushi.kwickmenu.com/", "displayName": {"text": "Noma Sushi", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 393-4651", "description": "Features creative sushi chefs who craft amazing custom dishes.", "photoUrl": "images/restaurant-photos/san-mateo/Noma Small.jpeg", "hours": "Sun 11am–2:30pm, 4:30pm–8:30pm, Mon 11am–2:30pm, 4:30pm–8:30pm, Tue Closed, Wed 11am–2:30pm, 4:30pm–8:30pm, Thu 11am–2:30pm, 4:30pm–8:30pm, Fri 11am–2:30pm, 4:30pm–9pm, Sat 11am–2:30pm, 4:30pm–9pm", "menuUrl": "https://www.yelp.com/menu/noma-sushi-san-mateo", "priceRange": "$$", "keywords": ["sushi", "omakase", "date night", "sake"]}, {"id": "ChIJczpPDO2fj4ARYLg1dsNXlIs", "formattedAddress": "240 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.565296499999995, "longitude": -122.32238739999998}, "googleMapsUri": "https://maps.google.com/?cid=10057760364838631520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://northbeachpizza.com/northbeachpizzasanmateo?utm_source=google", "displayName": {"text": "North Beach Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/Noth Beach Pizza Small.jpeg", "phone": "(650) 344-5000", "description": "Hand-tossed thin crust and deep dish Chicago-style pizzas with house-made sauces.", "hours": "Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–10pm", "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/north-beach-pizza/menu", "priceRange": "$$", "keywords": ["pizza", "delivery", "family friendly"]}, {"id": "ChIJLaNBqrufj4ARUKZ5rvrIs9w", "formattedAddress": "41 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5631896, "longitude": -122.3242257}, "googleMapsUri": "https://maps.google.com/?cid=15903275688169940560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.o2-valley.com/san-mateo/menu", "displayName": {"text": "O2 Valley", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/san-mateo/Os Valley Small.jpeg", "phone": "(650) 653-1333", "description": "Taiwanese fusion cuisine featuring bentos, grilled appetizers, and boba drinks.", "hours": "Mon–Sun 11am–9pm", "menuUrl": "https://order.o2-valley.com/san-mateo/menu", "priceRange": "$$", "keywords": ["bubble tea", "chinese", "dessert", "fast casual"]}, {"id": "ChIJJzUYqv6ej4ARdP1wPGk7IUA", "formattedAddress": "2507 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.54432930000001, "longitude": -122.30518309999998}, "googleMapsUri": "https://maps.google.com/?cid=4621040015830482292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.oceanicrestaurantsanmateoca.com/", "displayName": {"text": "Oceanic Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Oceanic Small.jpeg", "phone": "(650) 570-4234", "hours": "Mon–Tue Closed, Wed–Sat 11am–9pm, Sun 12pm–9pm", "menuUrl": "https://www.yelp.com/biz/oceanic-restaurant-san-mateo", "priceRange": "$$", "keywords": ["chinese seafood", "dim sum", "family style", "groups"]}, {"id": "ChIJ8aIuCACfj4ARSHJYREySoio", "formattedAddress": "236 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.565766499999995, "longitude": -122.3231079}, "googleMapsUri": "https://maps.google.com/?cid=3072178752081916488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.olhsohouse.com/", "displayName": {"text": "OLHSO Korean BBQ House", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/san-mateo/Ohlso Small.jpeg", "phone": "(650) 781-3190", "description": "Dine immersed in ambient projection mapping inspired by Korea's spirit.", "hours": "Mon–Thu 11am–2pm, 5pm–9:30pm, Fri–Sat 11am–2pm, 5pm–10pm, Sun 11am–2pm, 5pm–10pm", "menuUrl": "https://www.olhsohouse.com/menu", "priceRange": "$$$$", "keywords": ["korean bbq", "tabletop grill", "groups", "soju", "special occasion"]}, {"id": "ChIJKfn1kpKfj4ARJ-KC-Uwze98", "formattedAddress": "11 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.567647799999996, "longitude": -122.3244765}, "googleMapsUri": "https://maps.google.com/?cid=16103521298289975847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://ox9noodles.com/", "displayName": {"text": "Ox 9 Lanzhou Handpulled Noodles", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Ox9 Small.jpeg", "phone": "(650) 242-1790", "hours": "Mon–Sun 11am–3pm, 5pm–9pm", "menuUrl": "https://www.yelp.com/biz/ox-9-lanzhou-handpulled-noodles-san-mateo", "priceRange": "$$", "keywords": ["hand-pulled noodles", "lanzhou beef noodles", "fast casual", "counter service"]}, {"id": "ChIJY5OlhXCej4ARTewMKKVfI2Q", "formattedAddress": "243 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5659244, "longitude": -122.32266010000001}, "googleMapsUri": "https://maps.google.com/?cid=7215716190923844685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pacificcatch.com/", "displayName": {"text": "Pacific Catch", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/san-mateo/Pacific Catch Small.jpeg", "phone": "(650) 389-2482", "description": "Sustainable seafood with Pacific Rim flavors and Aloha-inspired hospitality.", "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm", "menuUrl": "https://www.pacificcatch.com/menu/", "priceRange": "$$", "keywords": ["sustainable seafood", "fish tacos", "healthy options", "outdoor seating", "happy hour", "gluten free options"]}, {"id": "ChIJaftroqafj4ARP2AjcD1UhoQ", "displayName": {"text": "Palette Tea Garden & Dim Sum", "languageCode": "en"}, "formattedAddress": "48 Hillsdale Mall, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=9549412682736820287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://paletteteagarden.com/", "location": {}, "cuisine": "Chinese", "phone": "(650) 769-8888", "hours": "Mon–Thu 11:30am–8:30pm, Fri 11am–9pm, Sat 10:30am–9pm, Sun 10:30am–8:30pm", "priceRange": "$$", "description": "Modern dim sum featuring unique Iberico Cha Siu and Peking Duck.", "photoUrl": "images/restaurant-photos/san-mateo/Palette_TeaG Small.jpeg", "keywords": ["dim sum", "cantonese", "tea", "family friendly", "groups", "brunch"]}, {"id": "ChIJiZQybSCfj4ARUQYiq9JS-yE", "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=2448641887173740113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://eatpalmita.com/sanmateo", "displayName": {"text": "Palmita", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 200-4859", "description": "Entire menu is gluten and dairy free with made-from-scratch sauces.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "hours": "Mon–Fri 8am–11:30pm, Sat–Sun 10am–11:30pm", "menuUrl": "https://www.yelp.com/menu/palmita-san-mateo", "priceRange": "$$", "keywords": ["mexican", "tacos", "burritos", "fast casual"]}, {"id": "ChIJ68Vvr0ydj4ARDrbmnB5DlC0", "formattedAddress": "300 N San Mateo Dr, San Mateo, CA 94401, USA", "location": {"latitude": 37.571253, "longitude": -122.33105909999999}, "googleMapsUri": "https://maps.google.com/?cid=3284323827020379662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Panther Brazilian Açai", "languageCode": "pt"}, "cuisine": "Brazilian", "description": "Customizable açai bowls made with 100% organic ingredients and vegan options.", "photoUrl": "images/restaurant-photos/san-mateo/Panther Brazilian Small.jpeg", "hours": "Mon–Sat 9am–6pm, Sun 2pm–6pm", "menuUrl": "https://www.yelp.com/biz/panther-brazilian-acai-san-mateo", "priceRange": "$", "keywords": ["acai bowls", "brazilian", "healthy options", "vegan options", "fast casual"]}, {"id": "ChIJUUoh_hmfj4ARhQw2XfMXZQk", "formattedAddress": "1855 S Delaware St, San Mateo, CA 94402, USA", "location": {"latitude": 37.5532264, "longitude": -122.3050689}, "googleMapsUri": "https://maps.google.com/?cid=676973652997442693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Pantry Family Restaurant", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/the Pantry Small.jpeg", "phone": "(650) 345-4544", "hours": "Mon–Sun 7am–3pm", "menuUrl": "https://order.online/store/the-pantry-917", "priceRange": "$", "keywords": ["american", "breakfast", "brunch", "family friendly", "counter service"]}, {"id": "ChIJjcw0nnqej4ARvrndVxyQY60", "formattedAddress": "223 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5647072, "longitude": -122.32199899999999}, "googleMapsUri": "https://maps.google.com/?cid=12493988242663520702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.pausasanmateo.com/", "displayName": {"text": "Pausa Bar & Cookery", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/san-mateo/Pausa Small.jpeg", "phone": "(650) 375-0818", "description": "Chef Andrea Giuliani creates authentic Italian cuisine from Northern California bounty.", "hours": "Mon–Thu 4:30pm–9pm, Fri–Sat 4pm–9:30pm, Sun 4pm–8:30pm", "priceRange": "$$", "keywords": ["italian", "outdoor seating", "craft cocktails", "date night", "happy hour", "brunch", "wine list", "pasta"]}, {"id": "ChIJJRmUeRafj4ARQs7iBA7Y80Y", "formattedAddress": "4300 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5293993, "longitude": -122.2879767}, "googleMapsUri": "https://maps.google.com/?cid=5112667556718759490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.pekingalley.com/", "displayName": {"text": "Peking Alley", "languageCode": "en"}, "cuisine": "Chinese", "phone": "(650) 349-0298", "description": "Fresh handmade noodles and dumplings served daily with authentic Beijing cuisine.", "photoUrl": "images/restaurant-photos/san-mateo/Peking Alley Small.jpeg", "hours": "Mon–Sun 11am–3pm, 5pm–9pm", "menuUrl": "https://www.yelp.com/menu/peking-alley-san-mateo-3", "priceRange": "$$", "keywords": ["chinese", "peking duck", "dim sum", "groups"]}, {"id": "ChIJje0i-naej4ARp6AWebONsrs", "formattedAddress": "100 N B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5689475, "longitude": -122.3257731}, "googleMapsUri": "https://maps.google.com/?cid=13525028432917209255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.peninsulaitalianclub.org/", "displayName": {"text": "Peninsula Italian American Social Club", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/san-mateo/Peninsula Italian American Club Small.jpeg", "phone": "(650) 343-7981", "description": "Features authentic Italian restaurant and beautiful bocce court on-site.", "hours": "Mon Closed, Tue–Fri 11:30am–2:30pm, Sat Closed, Sun Closed", "priceRange": "$$", "keywords": ["italian", "pasta", "groups", "family style", "private dining"]}, {"id": "ChIJ3yb8APmej4ARLbgxXT1Iis8", "formattedAddress": "2216 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5460099, "longitude": -122.30773089999998}, "googleMapsUri": "https://maps.google.com/?cid=14954844941030897709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.phoelement.com/", "displayName": {"text": "Pho Element", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/san-mateo/Pho Element Small.jpeg", "phone": "(650) 212-1166", "description": "Broth cooked overnight brings out intense flavor you'll taste.", "hours": "Mon 11am–8:30pm, Tue Closed, Wed–Sat 11am–8:30pm, Sun 11am–8:30pm", "menuUrl": "https://www.beyondmenu.com/28713/san-mateo/pho-element-san-mateo-94403.aspx", "priceRange": "$$", "keywords": ["vietnamese", "pho", "banh mi", "fast casual"]}, {"id": "ChIJbUWR7Zafj4ARMYECIC0Iey0", "formattedAddress": "36 Hillsdale Mall, San Mateo, CA 94403, USA", "location": {"latitude": 37.5391123, "longitude": -122.3014859}, "googleMapsUri": "https://maps.google.com/?cid=3277222143745753393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pinstripes.com/?utm_source=local&utm_medium=organic&utm_content=gmb", "displayName": {"text": "Pinstripes", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/Pinstripes Small.jpeg", "phone": "(650) 781-4720", "description": "From-scratch Italian-American cuisine served with bowling and bocce entertainment.", "hours": "Mon 11:00am–8:00pm, Tue–Thu 11:00am–9:00pm, Fri 11:00am–10:00pm, Sat 10:30am–10:00pm, Sun 10:30am–8:00pm", "menuUrl": "https://pinstripes.com/san-mateo/menus/", "priceRange": "$$", "keywords": ["american", "outdoor seating", "bowling", "groups", "happy hour", "brunch", "family friendly", "private dining"]}, {"id": "ChIJCeDDEXCej4ARCMv4Lie2nj8", "formattedAddress": "140 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5637701, "longitude": -122.32270030000001}, "googleMapsUri": "https://maps.google.com/?cid=4584301750117780232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.pizzamyheart.com/", "displayName": {"text": "Pizza My Heart", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/Pizza My Heart Small.jpeg", "phone": "(650) 344-9800", "description": "Award-winning pizzas loaded with locally grown California farm ingredients.", "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm", "menuUrl": "https://www.pizzamyheart.com/menu/", "priceRange": "$", "keywords": ["pizza", "fast casual", "counter service"]}, {"id": "ChIJtVBa0viej4ARVQZlZFwYlQI", "formattedAddress": "168 W 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5435826, "longitude": -122.30844939999999}, "googleMapsUri": "https://maps.google.com/?cid=186081744706143829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pjspizza.co/?utm_source=google", "displayName": {"text": "PJ's Pizza Co.", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/PJs Pizza Co Small.jpeg", "phone": "(650) 268-8100", "description": "They never use seed oils and only use extra virgin oil", "hours": "Mon–Thu 11am–8pm, Fri–Sat 11am–8:30pm, Sun Closed", "menuUrl": "https://www.pjspizza.co/menu", "priceRange": "$$", "keywords": ["pizza", "delivery", "family friendly"]}, {"id": "ChIJ60m6ibCfj4ARyFBJPGQPGU0", "formattedAddress": "1030 Park Pl, San Mateo, CA 94403, USA", "location": {"latitude": 37.5446603, "longitude": -122.29169630000001}, "googleMapsUri": "https://maps.google.com/?cid=5555488538520801480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.poke.house/locations/poke-parkplace-sanmateo", "displayName": {"text": "Poke House - San Mateo", "languageCode": "en"}, "cuisine": "Fusion", "phone": "(650) 508-1222", "description": "House-made bowls blend modern creativity with classic Hawaiian flavors daily.", "photoUrl": "images/restaurant-photos/san-mateo/Poke House Small.jpeg", "hours": "Mon–Sun 11am–9pm", "menuUrl": "https://www.poke.house/menu", "priceRange": "$$", "keywords": ["poke bowls", "hawaiian", "fast casual", "counter service", "gluten free options"]}, {"id": "ChIJ9WyHNXCej4ARr47XTsNUA_Q", "displayName": {"text": "Porterhouse", "languageCode": "en"}, "formattedAddress": "164 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=17582990568002653871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.porterhousesanmateo.com/", "location": {}, "cuisine": "Steakhouse", "keywords": ["steakhouse", "dry aged steak", "date night", "special occasion", "full bar", "wine list", "outdoor seating"], "menuUrl": "https://www.porterhousesanmateo.com/menu/", "phone": "(650) 579-5911", "hours": "Sun 5pm–9pm, Mon–Thu 5pm–9:30pm, Fri–Sat 5pm–10pm", "priceRange": "$$$", "description": "Only Peninsula steakhouse dry-aging beef in-house with visible meat locker.", "photoUrl": "images/restaurant-photos/san-mateo/Porterhouse Small.jpeg"}, {"id": "ChIJhVAUTsyfj4ARDeeBUOsZ2JQ", "displayName": {"text": "Prime BBQ", "languageCode": "en"}, "formattedAddress": "33 W 25th Ave, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?cid=10725351011041535757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.primebbqsm.com/", "location": {}, "cuisine": "Fusion", "keywords": ["korean bbq", "tabletop grill", "groups", "soju"], "menuUrl": "https://www.primebbqsm.com/menu/", "phone": "(650) 458-3838", "hours": "Mon–Fri 4:30pm–11:30pm, Sat–Sun 11:30am–11:30pm", "priceRange": "$$", "description": "First Bay Area restaurant offering both Yakitori Izakaya and Chinese Skewer.", "photoUrl": "images/restaurant-photos/san-mateo/Prime BBQ Small.jpeg"}, {"id": "ChIJ7-LfZrKfj4ARPrfz9A-zPoE", "formattedAddress": "85 N B St #2, San Mateo, CA 94401, USA", "location": {"latitude": 37.569072999999996, "longitude": -122.32630049999999}, "googleMapsUri": "https://maps.google.com/?cid=9313077960564258622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://orderpupuseriaelsalvador.com/", "displayName": {"text": "Pupuseria El Salvador ( el rinconcito catracho)", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/san-mateo/Pupuseria El Salvador Small.jpeg", "phone": "(650) 347-1393", "description": "We offer fresh food including pupusas, ceviches, and authentic dishes.", "hours": "Mon–Fri 9:00am–9:00pm, Sat–Sun 9:00am–10:00pm", "menuUrl": "https://www.yelp.com/biz/pupuseria-el-salvador-san-mateo", "priceRange": "$$", "keywords": ["pupusas", "salvadoran", "fast casual", "counter service"]}, {"id": "ChIJA6M4a22fj4ARtjCESKxU3rU", "formattedAddress": "85 N B St #2, San Mateo, CA 94401, USA", "location": {"latitude": 37.569072999999996, "longitude": -122.32630049999999}, "googleMapsUri": "https://maps.google.com/?cid=13105005064622452918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Pupuseria Valle de Jiboa", "languageCode": "es"}, "cuisine": "Other", "phone": "(650) 430-4312", "hours": "Mon–Fri 9am–9pm, Sat–Sun 9am–10pm", "menuUrl": "https://www.zmenu.com/pupuseria-valle-de-jiboa-san-mateo-online-menu/", "priceRange": "$", "photoUrl": "images/restaurant-photos/san-mateo/Pupuseria Valle de Jiboa Small.jpeg", "keywords": ["pupusas", "salvadoran", "fast casual", "counter service"]}, {"id": "ChIJ0zXSo5afj4ARa-oYUC8sSgI", "formattedAddress": "2996 S Norfolk St, San Mateo, CA 94403, USA", "location": {"latitude": 37.5448926, "longitude": -122.2841724}, "googleMapsUri": "https://maps.google.com/?cid=164992918071339627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pupuserialacasita.com/", "displayName": {"text": "Pupusería La Casita", "languageCode": "en"}, "cuisine": "Other", "phone": "(650) 533-3634", "description": "Authentic Salvadoran restaurant specializing in handcrafted pupusas and traditional cuisine", "hours": "Mon–Fri 11:45am–6pm, Sat–Sun Closed", "menuUrl": "https://pupuserialacasita.com/", "priceRange": "$", "photoUrl": "images/restaurant-photos/san-mateo/Pupusería La Casita Small.jpeg", "keywords": ["pupusas", "salvadoran", "fast casual", "counter service"]}, {"id": "ChIJe_K0-WSej4ARodOC4dXyLbI", "formattedAddress": "805 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5621775, "longitude": -122.318578}, "googleMapsUri": "https://maps.google.com/?cid=12839185113128555425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Ramen Dojo", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Ramen Dojo Small.jpeg", "phone": "(650) 401-6568", "description": "Weekly rotation of slow-cooked dishes reflecting best seasonal ingredients.", "hours": "Mon 11:00am–2:00pm, 5:00pm–8:00pm, Tue Closed, Wed Closed, Thu 11:00am–2:00pm, 5:00pm–8:00pm, Fri 11:00am–2:00pm, 5:00pm–8:00pm, Sat 11:00am–2:00pm, 5:00pm–8:00pm, Sun 11:00am–2:00pm, 5:00pm–8:00pm", "menuUrl": "https://www.yelp.com/menu/ramen-dojo-san-mateo", "priceRange": "$$", "keywords": ["ramen", "tonkotsu", "spicy ramen", "late night"]}, {"id": "ChIJ-wRqZmSej4ARSNYRjsH5aEc", "formattedAddress": "901 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.561770200000005, "longitude": -122.31761619999999}, "googleMapsUri": "https://maps.google.com/?cid=5145637183978329672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Ramen Parlor", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Ramen Parlor Small.jpeg", "phone": "(650) 344-9728", "description": "Features distinctive lobster garlic pork and crab specialty ramen bowls.", "hours": "Mon–Closed, Tue–Sun 11am–2pm, 5pm–8pm", "menuUrl": "https://ramenparlor-sanmateo.com/", "priceRange": "$$", "keywords": ["ramen", "tonkotsu", "groups"]}, {"id": "ChIJp5jfy3qej4ARVlOWBNuy_eg", "formattedAddress": "505 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.56410880000001, "longitude": -122.3204674}, "googleMapsUri": "https://maps.google.com/?cid=16788771639651619670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Ravioli House", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/san-mateo/Ravioli House Small.jpeg", "phone": "(650) 344-7433", "description": "Ravioli made with a restored vintage machine from the 1930s.", "hours": "Mon–Sat 10am–3pm, Sun Closed", "menuUrl": "https://www.yelp.com/menu/the-ravioli-house-san-mateo", "priceRange": "$", "keywords": ["italian", "pasta", "ravioli", "family friendly"]}, {"id": "manual_1778003935551", "displayName": {"text": "Reposado", "languageCode": "en"}, "formattedAddress": "311 Baldwin Ave.", "googleMapsUri": "google.com/maps/place/Reposado+Restaurant+-+San+Mateo/data=!4m2!3m1!1s0x0:0x7651efce11cb4391?sa=X&ved=1t:2428&ictx=111", "websiteUri": "https://www.reposadorestaurant.com", "location": {}, "cuisine": "Mexican", "keywords": ["fine dining"], "phone": "(650) 292-1321", "hours": "Mon-Fri 11:30am-3:00pm, Mon-Thur 4:00pm-10:00pm, Fri-Sat 4:00pm -10:30pm, Sun 4:00pm-9:00pm, Sat-Sun 11:00 am-3:00pm", "priceRange": "$$$", "description": "Higher end, extremely well presented Mexican inspired cuisine. Excellent tequila selection.", "photoUrl": "images/restaurant-photos/san-mateo/Reposado Small.jpeg"}, {"id": "ChIJEdn_l--fj4ARsZH4930Vj_I", "formattedAddress": "104 S El Camino Real, San Mateo, CA 94401, USA", "location": {"latitude": 37.564016599999995, "longitude": -122.32742560000001}, "googleMapsUri": "https://maps.google.com/?cid=17478212309623542193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://rin-tei.com/", "displayName": {"text": "Rin-Tei", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 558-8239", "description": "Thai and Japanese fusion with authentic flavors by Chef Tam.", "photoUrl": "images/restaurant-photos/san-mateo/Rin-Tei Small.jpeg", "hours": "Mon 11am–2:30pm, 5:30pm–11pm, Tue Closed, Wed–Thu 11am–2:30pm, 5:30pm–11pm, Fri–Sat 11am–3pm, 5:30pm–11pm, Sun 11am–3pm, 5:30pm–10pm", "menuUrl": "https://rin-tei.com/wp-content/uploads/Menu_11152023.pdf", "priceRange": "$$", "keywords": ["japanese", "ramen", "soba", "family friendly"]}, {"id": "manual_rincon_del_cielo_san_mateo", "displayName": {"text": "Rincon Del Cielo Taqueria (Food Truck)", "languageCode": "en"}, "formattedAddress": "1950 S Delaware St, San Mateo, CA 94403, USA", "googleMapsUri": "https://maps.google.com/?q=Rincon+Del+Cielo+Taqueria+San+Mateo", "websiteUri": "", "location": {}, "cuisine": "Mexican", "keywords": ["food truck", "tacos", "burritos", "quesadillas", "counter service", "lunch"], "phone": "", "hours": {"Monday": "Closed", "Tuesday": "10:00 AM – 3:00 PM", "Wednesday": "10:00 AM – 3:00 PM", "Thursday": "10:00 AM – 3:00 PM", "Friday": "10:00 AM – 3:00 PM", "Saturday": "Closed", "Sunday": "Closed"}, "priceRange": "$", "description": "Weekday lunch taco truck on Delaware Street with quick fresh-made tacos and burritos. A reliable neighborhood spot for a fast affordable lunch Tuesday through Friday.", "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"}, {"id": "ChIJswaXkbifj4ARBk__2-6HPTU", "formattedAddress": "2 N B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5680359, "longitude": -122.32410649999998}, "googleMapsUri": "https://maps.google.com/?cid=3836371917552439046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.risewoodfire.com/", "displayName": {"text": "Rise Woodfire Pizza & Rotisserie", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/Rise Woodfire Small.jpeg", "phone": "(650) 484-4337", "description": "Rotisserie chicken and prime rib slow roasted over wood-burning spitfire.", "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm", "menuUrl": "https://www.risewoodfire.com/menus/", "priceRange": "$$", "keywords": ["wood-fired pizza", "rotisserie chicken", "outdoor seating", "craft beer", "family friendly"]}, {"id": "ChIJJbGJdumfj4ARHqzFGHMnOfs", "formattedAddress": "2317 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5452959, "longitude": -122.3062684}, "googleMapsUri": "https://maps.google.com/?cid=18102543552482749470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://orderselcaminotaqueria.com/", "displayName": {"text": "S El Camino Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/El Camino Taqueria Small.jpeg", "phone": "(650) 315-2500", "description": "They offer fresh ingredients in super tacos, burritos, and enchiladas.", "hours": "Mon–Sun 10:00am–8:00pm", "menuUrl": "http://orderselcaminotaqueria.com/", "priceRange": "$", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJY2e9Znqej4ARyqMxMoKLZvI", "formattedAddress": "418 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.566384, "longitude": -122.320984}, "googleMapsUri": "https://maps.google.com/?cid=17466801596107170762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Saigon City Restaurant", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/san-mateo/Saigon City Small.jpeg", "phone": "(650) 340-8878", "hours": "Mon–Closed, Tue–Sun 11am–8:30pm", "menuUrl": "https://saigon-city.res-menu.com/menu", "priceRange": "$$", "keywords": ["vietnamese", "pho", "banh mi", "family friendly"]}, {"id": "ChIJDeCMOJyfj4ARgW3aYsVHnME", "formattedAddress": "251 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.565443099999996, "longitude": -122.3227751}, "googleMapsUri": "https://maps.google.com/?cid=13951104658779565441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://sajjstreeteats.com/", "displayName": {"text": "SAJJ Mediterranean", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/san-mateo/Sajj Small.jpeg", "phone": "(650) 274-0150", "description": "Fresh, locally-sourced Mediterranean food with bold flavors and unlimited customization.", "hours": "Mon–Sun 11am–8pm", "menuUrl": "https://www.sajjstreeteats.com/menus/", "priceRange": "$$", "keywords": ["mediterranean wraps", "falafel", "fast casual", "counter service", "halal", "vegetarian options"]}, {"id": "ChIJ51llI8Sfj4AR3U6RBSjFVeg", "formattedAddress": "3158 Campus Dr, San Mateo, CA 94403, USA", "location": {"latitude": 37.5339434, "longitude": -122.3285659}, "googleMapsUri": "https://maps.google.com/?cid=16741503965502459613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://sfhalal.com/", "displayName": {"text": "Sal's Burgers", "languageCode": "en"}, "cuisine": "Burgers", "photoUrl": "images/restaurant-photos/san-mateo/Sals Burgers Small.jpeg", "phone": "(650) 437-2140", "description": "Voted best burgers, offering thoughtfully crafted halal burgers with quality.", "hours": "Mon–Sat 11am–8pm, Sun 11am–8pm", "menuUrl": "https://www.yelp.com/biz/sals-burgers-san-mateo-2", "priceRange": "$$", "keywords": ["burgers", "fast casual", "counter service", "family friendly"]}, {"id": "ChIJD3cjhPOfj4ARp9sj08g3cjw", "formattedAddress": "800 S B St #500, San Mateo, CA 94401, USA", "location": {"latitude": 37.5616249, "longitude": -122.3184551}, "googleMapsUri": "https://maps.google.com/?cid=4355605125296020391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.coffeeshopsanmateo.com/", "displayName": {"text": "Sama Coffee Shop", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/san-mateo/Sama Coffee Small.jpeg", "phone": "(650) 393-5553", "hours": "Mon–Thu 7am–8pm, Fri–Sat 7am–9pm, Sun 8am–9pm", "menuUrl": "https://www.yelp.com/menu/sama-coffee-shop-san-mateo-3", "priceRange": "$$", "keywords": ["cafe", "coffee", "breakfast", "pastries", "counter service"]}, {"id": "ChIJlTAjdP2fj4ARRqh4_bN1Y3k", "formattedAddress": "146 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5644263, "longitude": -122.3235588}, "googleMapsUri": "https://maps.google.com/?cid=8746964317195774022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.samikchamomo.com/", "displayName": {"text": "SAMIKCHA MOMO Indian-Nepali Cuisine", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/san-mateo/Samikcha Momo Small.jpeg", "phone": "(650) 513-6475", "description": "Chef blends authentic Szechuan with Himalayan spices and Nepalese momos.", "hours": "Mon–Sun 11am–12am", "menuUrl": "https://www.samikchamomo.com/menu", "priceRange": "$$", "keywords": ["nepali", "momos", "indian", "vegetarian options", "fast casual"]}, {"id": "ChIJbQOaZ3Cej4ARpMxBFKP_K3A", "formattedAddress": "174 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5646972, "longitude": -122.32334890000001}, "googleMapsUri": "https://maps.google.com/?cid=8082835032131095716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.sanmateoprime.com/", "displayName": {"text": "San Mateo Prime", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/san-mateo/San Mateo Prime Small.jpeg", "phone": "(650) 558-8918", "description": "Dry aged prime rib slowly roasted to perfection since 2007.", "hours": "Mon–Tue Closed, Wed–Sun 5pm–9pm", "menuUrl": "https://www.yelp.com/menu/san-mateo-prime-san-mateo", "priceRange": "$$$", "keywords": ["steakhouse", "prime beef", "date night", "special occasion", "full bar", "wine list", "private dining"]}, {"id": "ChIJ2VGpcliej4ARL6SrI46lA4I", "formattedAddress": "1944 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5487118, "longitude": -122.3114518}, "googleMapsUri": "https://maps.google.com/?cid=9368513679763153967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Santa Ramen", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Santa Ramen Small.jpeg", "phone": "(650) 344-5918", "description": "Serving authentic Yokohama-style ramen with rich broth since 1994.", "hours": "Mon 11am–2pm, 5pm–8pm, Tue Closed, Wed 11am–2pm, 5pm–8pm, Thu 11am–2pm, 5pm–8pm, Fri 11am–2pm, 5pm–8:30pm, Sat 11am–2pm, 5pm–8:30pm, Sun 11am–2pm, 5pm–8pm", "menuUrl": "https://www.yelp.com/biz/santa-ramen-san-mateo-2", "priceRange": "$$", "keywords": ["ramen", "tonkotsu", "family friendly"]}, {"id": "ChIJZUMrBe-fj4ARNxc1PWf1LHw", "formattedAddress": "125 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.563965599999996, "longitude": -122.3229825}, "googleMapsUri": "https://maps.google.com/?cid=8947796383435659063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.saporeexpress.com/", "displayName": {"text": "Sapore Express", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/san-mateo/Sapore Express Small.jpeg", "phone": "(650) 315-2341", "description": "Hand-made pasta made fresh daily with highly-rated sauces downtown.", "hours": "Mon Closed, Tue–Thu 11:30am–3pm & 4:30pm–9pm, Fri 11:30am–3pm & 4:30pm–9:30pm, Sat 11:30am–3pm & 4:30pm–9:30pm, Sun 11:30am–3pm & 4:30pm–9pm", "menuUrl": "https://www.saporeexpress.com/menu", "priceRange": "$$", "keywords": ["italian", "outdoor seating", "pasta", "pizza", "lunch", "fast casual"]}, {"id": "ChIJT-x_Pbyfj4ARWOx5qh3aANw", "formattedAddress": "2456 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5444223, "longitude": -122.3060196}, "googleMapsUri": "https://maps.google.com/?cid=15852910509293169752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.eatsapporosushi.com/", "displayName": {"text": "Sapporo Rock & Roll Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Sapporo Small.jpeg", "phone": "(650) 699-1999", "description": "VIP dining area and ocean fresh sushi served daily.", "hours": "Mon 5pm–9:30pm, Tue Closed, Wed 5pm–9:30pm, Thu–Sat 11:30am–2pm, 5pm–9:30pm, Sun 5pm–9:30pm", "menuUrl": "https://www.eatsapporosushi.com/menu", "priceRange": "$$", "keywords": ["sushi", "japanese", "happy hour", "sake", "late night"]}, {"id": "ChIJg1CHCViej4ARakPttIGBCi8", "formattedAddress": "1952 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.54853190000001, "longitude": -122.31088290000001}, "googleMapsUri": "https://maps.google.com/?cid=3389664063635932010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.seapotusa.com/", "displayName": {"text": "Seapot Hot Pot & Korean BBQ", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/san-mateo/Seapot Small.jpeg", "phone": "(650) 315-2827", "description": "Fresh ingredients delivered by unique conveyor belt for interactive dining.", "hours": "Mon–Thu 11am–3pm, 5pm–10pm, Fri 11am–3pm, 5pm–10:30pm, Sat 11am–10:30pm, Sun 11am–10:30pm", "menuUrl": "https://www.seapotusa.com/qr-menu-san-mateo", "priceRange": "$$", "keywords": ["korean bbq", "hot pot", "tabletop grill", "groups", "soju"]}, {"id": "ChIJJZ-QAPmej4ARs-KLOLdk_-M", "formattedAddress": "2210 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5460941, "longitude": -122.307817}, "googleMapsUri": "https://maps.google.com/?cid=16428960703761343155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.seniorespizzasanmateo.com/?utm_source=gbp", "displayName": {"text": "Seniore's Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/san-mateo/Seniores Pizza Small.jpeg", "phone": "(650) 573-5400", "description": "Community mainstay for 13 years serving pizza, pasta, and sandwiches.", "hours": "Mon–Thu 11am–11pm, Fri–Sat 11am–12am, Sun 11am–11pm", "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94403/seniore-s-pizza-san-mateo/menu", "priceRange": "$$", "keywords": ["pizza", "delivery", "family friendly"]}, {"id": "ChIJj7kJBwifj4ARvKPlYeOtKyQ", "formattedAddress": "2299 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5455653, "longitude": -122.30653290000001}, "googleMapsUri": "https://maps.google.com/?cid=2606368001475584956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://shahrestaurantsanmateo.com/", "displayName": {"text": "Shah Restaurant", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/san-mateo/Shah Small.jpeg", "phone": "(650) 514-2400", "description": "Authentic halal Pakistani cuisine with fresh tandoor-baked naan and biryani.", "hours": "Sun–Sat 11am–12am", "menuUrl": "https://www.yelp.com/biz/shah-restaurant-san-mateo", "priceRange": "$$", "keywords": ["indian", "halal", "vegetarian options", "lunch buffet"]}, {"id": "ChIJubF8OQCfj4ARPSxqC7M4DU8", "formattedAddress": "213 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5652723, "longitude": -122.32299630000001}, "googleMapsUri": "https://maps.google.com/?cid=5696271445335354429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://shangdumpling.com/", "displayName": {"text": "Shang Dumpling", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Shang Dumpling Small.jpeg", "phone": "(650) 733-9333", "description": "Freshly made dumplings with authentic classic Shanghai flavors.", "hours": "Mon Closed, Tue–Thu 11am–3pm, 5pm–9pm, Fri 11am–3pm, 5pm–9:30pm, Sat 11am–9:30pm, Sun 11am–9pm", "menuUrl": "https://www.yelp.com/biz/shang-dumpling-san-mateo-4", "priceRange": "$$", "keywords": ["dumplings", "xiao long bao", "fast casual", "family friendly"]}, {"id": "ChIJ14-fBvmej4ARrGESAkmSw-I", "formattedAddress": "2224 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5459175, "longitude": -122.30760959999999}, "googleMapsUri": "https://maps.google.com/?cid=16340064715295318444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.silverhouserestaurant.com/", "displayName": {"text": "Silver House", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Silver House Small.jpeg", "phone": "(650) 571-1298", "hours": "Mon–Fri 11am–9:30pm, Sat 11am–9pm, Sun 11am–9:30pm", "priceRange": "$", "keywords": ["chinese", "fast casual", "counter service"]}, {"id": "ChIJveGSE_mej4ARI3Np6OdTKcg", "formattedAddress": "2291 S El Camino Real, San Mateo, CA 94403, USA", "location": {"latitude": 37.5456995, "longitude": -122.3066989}, "googleMapsUri": "https://maps.google.com/?cid=14423151537132499747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Silver Lake Seafood Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Silver Lake Small.jpeg", "phone": "(650) 578-1678", "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Thu 11am–3pm, 5pm–9pm, Fri–Sat 11am–3pm, 5pm–9pm, Sun 11am–3pm, 5pm–9pm", "menuUrl": "https://www.yelp.com/menu/silver-lake-seafood-restaurant-san-mateo-2", "priceRange": "$$", "keywords": ["chinese seafood", "dim sum", "family style", "groups"]}, {"id": "ChIJma5mbxqfj4ARgg-PlO8L6Cw", "formattedAddress": "69 37th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.533670799999996, "longitude": -122.295804}, "googleMapsUri": "https://maps.google.com/?cid=3235849455883194242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.soleristorante.com/?_escaped_fragment_=catering/c1w8b", "displayName": {"text": "Sole Ristorante Italiano", "languageCode": "en"}, "cuisine": "Italian", "phone": "(650) 341-5555", "description": "They treat diners like family with homemade pastas and desserts.", "photoUrl": "images/restaurant-photos/san-mateo/Sole Small.jpeg", "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–2pm, 5pm–9:30pm, Sun Closed", "menuUrl": "https://soleristorante.com/menu", "priceRange": "$$", "keywords": ["italian", "pasta", "date night", "wine list", "romantic"]}, {"id": "ChIJUeMTJoifj4ARPCq6MwzU2lw", "formattedAddress": "119 De Anza Blvd, San Mateo, CA 94402, USA", "location": {"latitude": 37.521249399999995, "longitude": -122.33649089999999}, "googleMapsUri": "https://maps.google.com/?cid=6690893345284827708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sourdoughandco.com/san-mateo", "displayName": {"text": "Sourdough & Co", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/san-mateo/Sourdough & Co. Small.jpeg", "phone": "(650) 376-3528", "description": "Freshly baked warm sourdough bread served with quality deli sandwiches.", "hours": "Mon–Sun 9:00am–8:00pm", "menuUrl": "https://sourdoughandco.com/menu", "priceRange": "$$", "keywords": ["sandwiches", "fast casual", "counter service", "delivery"]}, {"id": "ChIJkUR07V2fj4AR7gvfwL9kCVs", "formattedAddress": "1100 S Amphlett Blvd, San Mateo, CA 94402, USA", "location": {"latitude": 37.5640882, "longitude": -122.30735159999999}, "googleMapsUri": "https://maps.google.com/?cid=6559885106979212270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.suavecitosm.com/", "displayName": {"text": "Suavecito Birria & Tacos", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 581-1284", "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas.", "photoUrl": "images/restaurant-photos/san-mateo/Suavecito Birria Small.jpeg", "hours": "Mon–Closed, Tue–Thu 10:30am–8pm, Fri–Sat 10:30am–9pm, Sun 10:30am–8pm", "menuUrl": "http://www.suavecitosm.com/menu", "priceRange": "$$", "keywords": ["birria tacos", "mexican", "fast casual", "counter service"]}, {"id": "ChIJPwJWe3Cej4AR2tUwdkF4nL8", "formattedAddress": "38 E 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.544910699999996, "longitude": -122.30476119999999}, "googleMapsUri": "https://maps.google.com/?cid=13807042780162217434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.sushiedomata.com/", "displayName": {"text": "Sushi Edomata", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 344-0888", "description": "Fresh high-quality fish imported from Japan with traditional sushi dishes.", "photoUrl": "images/restaurant-photos/san-mateo/Edomata Small.jpeg", "hours": "Mon–Closed, Tue–Wed 5:00pm–9:00pm, Thu–Sat 12:00pm–1:30pm, 5:00pm–9:00pm, Sun–Closed", "menuUrl": "https://sushiedomata.menu11.com/", "priceRange": "$$", "keywords": ["sushi", "omakase", "date night", "sake", "special occasion"]}, {"id": "ChIJHezl03aej4AR1R9NtvewBWg", "formattedAddress": "279 Baldwin Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.567328599999996, "longitude": -122.32534009999999}, "googleMapsUri": "https://maps.google.com/?cid=7495591732789977045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://sushimaruyama.com/", "displayName": {"text": "Sushi Maruyama", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Sushi Maruyama Small.jpeg", "phone": "(650) 315-2945", "description": "Highest grade seasonal fish from Tsukiji with traditional red vinegar.", "hours": "Mon–Closed, Tue–Thu 5:30pm–9:30pm, Fri–Sat 5:30pm–10pm, Sun 5pm–9pm", "menuUrl": "https://www.sushimaruyama.com/menu.html", "priceRange": "$$$", "keywords": ["sushi", "omakase", "date night", "sake", "special occasion"]}, {"id": "ChIJo0jyGB-fj4ARcu4tnBtr6Js", "formattedAddress": "1600 S El Camino Real, San Mateo, CA 94402, USA", "location": {"latitude": 37.553139, "longitude": -122.31546850000001}, "googleMapsUri": "https://maps.google.com/?cid=11234347036804247154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Sushilito Boy", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/san-mateo/Sushilito Boy Small.jpeg", "hours": "Mon–Closed, Tue–Sun 11am–9pm", "menuUrl": "https://www.grubhub.com/restaurant/sushilito-boy-1600-south-el-camino-real-san-mateo/13787288", "keywords": ["sushi burrito", "fusion", "fast casual", "counter service"]}, {"id": "ChIJbaKmySifj4ARz3VXd1tWphY", "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=1632086865812616655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://swaadsutra.online/", "displayName": {"text": "Swaad sutra Indian restaurant", "languageCode": "en"}, "cuisine": "Indian", "phone": "(650) 597-3533", "description": "Authentic dishes crafted using traditional recipes and finest spices.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "priceRange": "$$", "keywords": ["indian", "vegetarian options", "halal", "takeout"]}, {"id": "ChIJI2THxnGej4ARZ8lUgarD0UU", "displayName": {"text": "Sweetgreen", "languageCode": "en"}, "formattedAddress": "1 E 3rd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=5031017395831228775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sweetgreen.com/locations/san-mateo", "location": {}, "cuisine": "American", "phone": "(650) 753-6500", "hours": "Mon–Fri 10:00am–9:00pm, Sat–Sun 10:30am–9:00pm", "priceRange": "$$", "description": "Fresh seasonal ingredients sourced from local farms for sustainable meals.", "photoUrl": "images/restaurant-photos/san-mateo/Sweetgreen Small.jpeg", "keywords": ["salads", "healthy options", "vegan options", "vegetarian options", "fast casual", "lunch", "gluten free options"]}, {"id": "ChIJy-fcrYCej4ARYkqWqiQ_Sxc", "displayName": {"text": "Tabla Indian Restaurant", "languageCode": "en"}, "formattedAddress": "450 S Norfolk St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=1678504712838990434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tablausa.com/", "location": {}, "cuisine": "Indian", "phone": "(650) 393-4338", "hours": "Mon–Sun 11:30am–9:30pm", "priceRange": "$$", "description": "Fresh locally sourced ingredients create authentic Indian dishes with vibrant flavors.", "photoUrl": "images/restaurant-photos/san-mateo/Tabla Small.jpeg", "keywords": ["indian", "lunch buffet", "vegetarian options", "halal", "groups"]}, {"id": "ChIJUwAoqHuej4AR_nF_loM446w", "formattedAddress": "602 B E 4th Ave, San Mateo, CA 94402, USA", "location": {"latitude": 37.5666712, "longitude": -122.3184689}, "googleMapsUri": "https://maps.google.com/?cid=12457863132053729790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tacosalvapornuevaitalia.com/", "displayName": {"text": "Tacos Al Vapor Nueva Italia", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 344-9936", "description": "Authentic Mexican food from Michoacan with freshly handmade tortillas.", "photoUrl": "images/restaurant-photos/san-mateo/Tacos Al Vapor Small.jpeg", "hours": "Mon Closed, Tue–Thu 9am–8pm, Fri–Sat 9am–9pm, Sun 9am–8pm", "menuUrl": "https://www.doordash.com/store/tacos-al-vapor-nueva-italia-san-mateo-2364434/", "priceRange": "$$", "keywords": ["tacos", "mexican", "fast casual", "counter service"]}, {"id": "ChIJMbhCJACfj4ARV_ldP34pF5E", "displayName": {"text": "TAI ER SICHUAN CUISINE", "languageCode": "en"}, "formattedAddress": "98 E 4th Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=10454870682169637207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.taierusa.com/", "location": {}, "cuisine": "Chinese", "phone": "(650) 398-2222", "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm", "priceRange": "$$", "description": "Experience house-fermented sauerkraut fish from this global Sichuan sensation.", "photoUrl": "images/restaurant-photos/san-mateo/Tai Er Sichuan Cuisine Small.jpeg", "keywords": ["sichuan", "mala", "spicy", "fish", "chinese"]}, {"id": "ChIJmQba6BWfj4ARsGyybmBYOxA", "formattedAddress": "47 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.563313799999996, "longitude": -122.32410429999999}, "googleMapsUri": "https://maps.google.com/?cid=1169625699430067376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.taishokenusa.com/", "displayName": {"text": "Taishoken Ramen", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Taishoken Small.jpeg", "phone": "(650) 445-7579", "description": "Tsukemen invented here is dipped in broth cooked two days.", "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–9:30pm, Sun 11am–9pm", "menuUrl": "https://order.toasttab.com/online/taishoken", "priceRange": "$$", "keywords": ["ramen", "tsukemen", "dipping noodles"]}, {"id": "ChIJDVXtW-qfj4ARhosLW1QX71s", "formattedAddress": "144 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5644673, "longitude": -122.3236787}, "googleMapsUri": "https://maps.google.com/?cid=6624539227957463942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.takinoribar.com/", "displayName": {"text": "Taki Nori Hand Roll Bar", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Taki Nori Small.jpeg", "phone": "(650) 581-1269", "hours": "Mon–Fri 4pm–9pm, Sat–Sun 11:30am–9pm", "menuUrl": "https://www.doordash.com/store/takinori-hand-roll-bar-san-mateo-24408382/", "priceRange": "$$$", "keywords": ["hand roll", "sushi", "omakase style", "sake", "date night", "counter seating"]}, {"id": "ChIJJUdl6f6fj4AR4IHK3vp6U6k", "formattedAddress": "62 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.562982999999996, "longitude": -122.32374779999999}, "googleMapsUri": "https://maps.google.com/?cid=12201231033375031776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tangbarsanmateo.com/", "displayName": {"text": "Tang Bar San Mateo", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Tang Bar Small.jpeg", "phone": "(650) 581-1304", "description": "Build your own Malatang with slowly perfected broth and fresh ingredients.", "hours": "Mon–Thu 11am–8:30pm, Fri–Sat 11am–9pm, Sun 11am–8:30pm", "menuUrl": "https://www.tangbarsanmateo.com/menu", "priceRange": "$$", "keywords": ["chinese desserts", "bubble tea", "dessert", "fast casual"]}, {"id": "ChIJrzidLPmej4ARioxd87uGxKk", "formattedAddress": "120 W 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.543843599999995, "longitude": -122.30746140000001}, "googleMapsUri": "https://maps.google.com/?cid=12233050629645110410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tannourinecuisine.com/", "displayName": {"text": "Tannourine Restaurant", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/san-mateo/Tannourine Small.jpeg", "phone": "(650) 638-1960", "description": "Authentic Lebanese cuisine focusing on herbs and fresh seasonal ingredients.", "hours": "Mon–Closed, Tue–Wed 4pm–8:30pm, Thu–Fri 11:30am–1:30pm, 4pm–9:30pm, Sat 4pm–9:30pm, Sun 12pm–8:30pm", "menuUrl": "https://tannourinecuisine.com/san-mateo-san-mateo-tannourine-food-menu", "priceRange": "$$", "keywords": ["lebanese", "middle eastern", "halal", "vegetarian options", "family friendly"]}, {"id": "manual_1778252203958", "displayName": {"text": "Taqueria Las Pencas #2", "languageCode": "en"}, "formattedAddress": "45 N B St, San Mateo", "googleMapsUri": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiQk6ez-KmUAxUAAAAAHQAAAAAQCQ..i&rlz=1C5CHFA_enUS1103US1103&sca_esv=9033de2d4e2ebdf7&pvq=Cg0vZy8xMXMzYmpmaGpxIhkKE3RhcXVlcmlhIGxhcyBwZW5jYXMQAhgD&lqi=ChN0YXF1ZXJpYSBsYXMgcGVuY2FzSJb8mqiNuICACFofEAAQARACGAEYAiITdGFxdWVyaWEgbGFzIHBlbmNhc5IBEm1leGljYW5fcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOeU5FbHRZbE5uRUFF4AEA-gEECAAQOQ&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=us&sa=X&ftid=0x808f9f58909d3bdd:0x75ff325592a4e2d7", "websiteUri": "", "location": {}, "cuisine": "Mexican", "phone": "(650)315-2274", "hours": "Mon-Sun 10am-10pm", "priceRange": "$", "description": "Great authentic taqueria nestled surrounded by culture and latin restaurants. Can't beat the prices and quality of food served by family style staff.", "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Las Pencas 2 Small.jpeg", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "manual_1778255094906", "displayName": {"text": "Taqueria Los Primos", "languageCode": "en"}, "formattedAddress": "85 N B St #4, San Mateo, CA 94401", "googleMapsUri": "https://www.google.com/maps/place/taqueria+los+primos+%231/data=!4m2!3m1!1s0x808f9e768aa7ed65:0x85ad70f4404352d1?sa=X&ved=1t:242&ictx=111", "websiteUri": "", "location": {}, "cuisine": "Mexican", "menuUrl": "https://img1.wsimg.com/blobby/go/e7d2565a-b9a9-4545-978e-b6df93d21b89/downloads/Taqueria%20_1%202022%20new%20Prices.pdf?ver=1642617310304", "phone": "(650) 347-8760", "hours": "Mon-Sun 9am-10pm", "priceRange": "$", "description": "Family-owned serving high quality authentic Mexican food for 26 years. Warm, friendly service.", "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Los Primos Small.jpeg", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJfRMInHqej4AR-4NtZnaL4q0", "formattedAddress": "365 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5649839, "longitude": -122.32166}, "googleMapsUri": "https://maps.google.com/?cid=12529730453938996219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://smpanchovilla.com/", "displayName": {"text": "Taqueria Pancho Villa", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/san-mateo/Pacho Villa Small.jpeg", "phone": "(650) 343-4123", "description": "Award-winning salsa bar honored year after year at California State Fair.", "hours": "Mon–Sun 10am–9pm", "menuUrl": "https://smpanchovilla.com/menu.html", "priceRange": "$", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJdUQYkhWfj4ARvv8mWDJD5xY", "formattedAddress": "37 43rd Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.528971, "longitude": -122.288851}, "googleMapsUri": "https://maps.google.com/?cid=1650361671960952766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://taquerialosmorenoca.com/", "displayName": {"text": "Taquería Los Moreno", "languageCode": "en"}, "cuisine": "Mexican", "phone": "(650) 910-3576", "description": "Classic Mexican comfort dishes in a compact, colorful interior.", "hours": "Mon–Sat 9am–9pm, Sun Closed", "menuUrl": "https://taquerialosmorenoca.com/taqueria-los-moreno/locations/", "priceRange": "$", "photoUrl": "images/restaurant-photos/san-mateo/Taquería Los Moreno Small.jpeg", "keywords": ["tacos", "burritos", "fast casual", "counter service"]}, {"id": "ChIJkbgjNQCfj4ARz-TbgafEZOI", "displayName": {"text": "Taste and Glory", "languageCode": "en"}, "formattedAddress": "1208 S El Camino Real, San Mateo, CA 94402, USA", "googleMapsUri": "https://maps.google.com/?cid=16313379973960033487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.tasteandgloryca.com/", "location": {}, "cuisine": "Breakfast", "keywords": ["breakfast", "brunch", "cafe", "coffee", "family friendly"], "menuUrl": "https://tasteandgloryca.smiledining.com/", "phone": "(650) 393-4951", "hours": "Mon–Fri 9am–2pm, Sat–Sun 8:30am–2:30pm", "priceRange": "$$", "description": "Asian fusion brunch blending classic Western dishes with Thai flavors.", "photoUrl": "images/restaurant-photos/san-mateo/Taste & Glory Small.jpeg"}, {"id": "ChIJ9WHlHACfj4ARfU8L1ZrFfvo", "formattedAddress": "38 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.562692999999996, "longitude": -122.32426900000002}, "googleMapsUri": "https://maps.google.com/?cid=18050081625337450365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://tasteofshaxian.com/", "displayName": {"text": "Taste of Shaxian", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/san-mateo/Taste of Sha Xian Small.jpeg", "phone": "(650) 393-4715", "description": "Famous Wonton Soup made with the freshest ingredients available.", "hours": "Mon–Fri 11am–3pm, 5pm–10pm, Sat–Sun 11am–10pm", "menuUrl": "https://www.tasteofshaxianca.com/na60mta8/taste-of-sha-xian-san-mateo-94401/menu", "priceRange": "$$", "keywords": ["chinese", "fujian noodles", "fast casual", "counter service"]}, {"id": "ChIJZflyZxKfj4ARdolOkRYVAlw", "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=6629884788114098550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://twodotsco.typeform.com/to/eUm9sISf?typeform-source=linktr.ee", "displayName": {"text": "The Backhouse", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 260-3961", "description": "Chef Ju-i experiments with dry-aging and nontraditional garnishes on sushi.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "hours": "Mon 11am–7:30pm, Tue Closed, Wed Closed, Thu 11am–7:30pm, Fri 11:30am–8pm, Sat 11:30am–8pm, Sun 11:30am–6pm", "menuUrl": "https://www.ubereats.com/store/the-backhouse/ojXNG6JqUASNuy9NHyg7jA", "priceRange": "$$$", "keywords": ["japanese", "omakase", "date night", "sake", "special occasion", "private dining"]}, {"id": "ChIJo_9a_fufj4ARjlc_P089jEg", "formattedAddress": "246 S B St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5657685, "longitude": -122.32287969999999}, "googleMapsUri": "https://maps.google.com/?cid=5227620678043129742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.thebarrelbistrowinebar.com/", "displayName": {"text": "The Barrel Bistro and Wine Bar", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/san-mateo/The Barrel Small.jpeg", "phone": "(650) 445-7250", "description": "Hundreds of wines paired with selective cheeses, charcuterie, and seafood.", "hours": "Sun–Thu 11am–10pm, Fri–Sat 11am–11pm", "menuUrl": "https://www.thebarrelbistrowinebar.com/menus", "priceRange": "$$", "keywords": ["wine bar", "small plates", "happy hour", "date night", "outdoor seating"]}, {"id": "ChIJgbqC-_uej4AR9hgwImYJcIc", "formattedAddress": "106 E 25th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.545086, "longitude": -122.30459909999999}, "googleMapsUri": "https://maps.google.com/?cid=9759310726776756470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://theswingindoor.com/", "displayName": {"text": "The Swingin' Door", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/san-mateo/Swinging Door Pub Small.jpeg", "phone": "(650) 522-9800", "description": "Award-winning fish and chips plus karaoke four nights weekly.", "hours": "Mon–Sat 11:30am–2am, Sun 11:30am–2am", "menuUrl": "https://www.theswingindoor.com/wp-content/uploads/2023/01/menu-web-rev01-2023.pdf", "priceRange": "$$", "keywords": ["american bbq", "live music", "outdoor seating", "craft beer", "bar"]}, {"id": "ChIJ3-_dDXCej4ARKIbU9TPugzQ", "formattedAddress": "173 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5641598, "longitude": -122.32289879999999}, "googleMapsUri": "https://maps.google.com/?cid=3784130018856437288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://thonglorthaibistroca.com/?utm_source=google", "displayName": {"text": "Thonglor Thai Bistro", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/san-mateo/Thonglor Small.jpeg", "phone": "(650) 342-6451", "description": "Traditional Thai dishes with modern twist served with warmth and hospitality.", "keywords": ["thai", "pad thai", "thai curry", "vegetarian options"]}, {"id": "ChIJOWymJtWYj4ARenbrS8PUIJ8", "formattedAddress": "34 E 4th Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.562566499999996, "longitude": -122.3243596}, "googleMapsUri": "https://maps.google.com/?cid=11466398586542716538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tokies.com/", "displayName": {"text": "Tokie's Downtown", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/san-mateo/Tokies Downtown Small.jpeg", "phone": "(650) 570-6609", "description": "Over 40 years serving Japanese comfort food in family atmosphere.", "hours": "Mon Closed, Tue–Thu 5pm–9pm, Fri–Sat 5pm–9:30pm, Sun 4pm–8:30pm", "menuUrl": "https://www.tokies.com/menu", "priceRange": "$$", "keywords": ["japanese", "sushi", "izakaya", "sake", "happy hour"]}, {"id": "ChIJkc4PgMGfj4ARLqAROaUFcRg", "displayName": {"text": "Tong Sui", "languageCode": "en"}, "formattedAddress": "250 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=1761195136463773742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tongsui.us/", "location": {}, "cuisine": ["Chinese", "Dessert"], "phone": "(650) 931-4253", "hours": "Mon–Thu 12pm–9pm, Fri 12pm–9:30pm, Sat 11:30am–9:30pm, Sun 11:30am–9pm", "priceRange": "$$", "description": "Organic coconut pudding made with fresh coconut water and seasonal ingredients.", "photoUrl": "images/restaurant-photos/san-mateo/Tong Sui Small.jpeg", "keywords": ["chinese desserts", "dessert", "sweet soups", "bubble tea", "late night"]}, {"id": "ChIJN6x96hadj4AR7ZVrIZVCt4s", "formattedAddress": "856 N Delaware St, San Mateo, CA 94401, USA", "location": {"latitude": 37.5799987, "longitude": -122.3331174}, "googleMapsUri": "https://maps.google.com/?cid=10067588700288292333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.totororamen.com/", "displayName": {"text": "Totoro Ramen", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 781-3137", "description": "Rich pork bone broth slow-cooked for over 18 hours daily.", "photoUrl": "images/restaurant-photos/san-mateo/Totoro Ramen Small.jpeg", "hours": "Mon–Thu 11am–2pm, 5pm–8:30pm, Fri 11am–2pm, 5pm–9pm, Sat 11am–3pm, 5pm–9pm, Sun Closed", "menuUrl": "https://www.doordash.com/store/totoro-ramen-san-mateo-616468/", "priceRange": "$$", "keywords": ["ramen", "tonkotsu", "family friendly"]}, {"id": "ChIJr_RGipGfj4ARhmhhx_Txxpw", "formattedAddress": "29 Laurie Meadows Dr, San Mateo, CA 94403, USA", "location": {"latitude": 37.5311026, "longitude": -122.28758529999999}, "googleMapsUri": "https://maps.google.com/?cid=11296982748924831878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.townofdumplingca.com/", "displayName": {"text": "Town of dumpling", "languageCode": "en"}, "cuisine": "Chinese", "phone": "(650) 349-3066", "description": "Known for its varieties of dumplings and traditional Chinese dishes.", "hours": "Mon–Tue 11am–9:30pm, Wed Closed, Thu–Sun 11am–9:30pm", "menuUrl": "https://www.townofdumplingca.com/menu", "priceRange": "$", "photoUrl": "images/restaurant-photos/san-mateo/Town of dumpling Small.jpeg", "keywords": ["dumplings", "chinese", "fast casual", "counter service"]}, {"id": "ChIJ-wp0Z2eej4ARc_LvawPcMHg", "displayName": {"text": "Truffle Poké Bar", "languageCode": "en"}, "formattedAddress": "1234 S El Camino Real, San Mateo, CA 94402, USA", "googleMapsUri": "https://maps.google.com/?cid=8660663990687363699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://trufflepokebar.com/", "location": {}, "cuisine": "Fusion", "keywords": ["poke bowls", "truffle", "fast casual", "counter service", "outdoor seating"], "menuUrl": "https://trufflepokebar.square.site/", "phone": "(650) 573-6425", "hours": "Mon–Fri 10am–9pm, Sat–Sun 11am–9pm, Sun 11am–8pm", "priceRange": "$$", "description": "Finest locally sourced ingredients with unique truffle fusion poke experience.", "photoUrl": "images/restaurant-photos/san-mateo/Truffle Small.jpeg"}, {"id": "ChIJT5eL6Xyfj4ARd__EqjMZhNo", "displayName": {"text": "Udon Mugizo", "languageCode": "en"}, "formattedAddress": "73 E 3rd Ave, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=15745737906893160311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mugizo-us.com/sanmateo", "location": {}, "cuisine": "Japanese", "phone": "(650) 315-2000", "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sun 11am–9pm", "priceRange": "$$", "description": "Thick-cut homemade udon with kombu kelp stock and premium fish flakes.", "photoUrl": "images/restaurant-photos/san-mateo/Udon Mugizo Small.jpeg", "keywords": ["udon", "japanese noodles", "fast casual", "counter service"]}, {"id": "ChIJV9Djnkmfj4ARSPTuy_3mZn0", "displayName": {"text": "Urban Momo", "languageCode": "en"}, "formattedAddress": "254 S B St, San Mateo, CA 94401, USA", "googleMapsUri": "https://maps.google.com/?cid=9036163680088028232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.urbanmomos.com/", "location": {}, "cuisine": "Indian", "keywords": ["nepali", "momos", "himalayan", "vegetarian options", "fast casual", "outdoor seating"], "menuUrl": "https://www.urbanmomos.com/menu-san-mateo", "phone": "(650) 458-3053", "hours": "Mon–Sun 11am–12:45am", "priceRange": "$$", "description": "Family run restaurant serving momo dumplings, chow mein, and curry.", "photoUrl": "images/restaurant-photos/san-mateo/Urban Momo Small.jpeg"}, {"id": "ChIJl3GG6Lyfj4ARm0BRMW1ZRas", "formattedAddress": "66 21st Ave k15, San Mateo, CA 94403, USA", "location": {"latitude": 37.5477207, "longitude": -122.3083157}, "googleMapsUri": "https://maps.google.com/?cid=12341368679392428187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Village Sandwich", "languageCode": "en"}, "cuisine": "Other", "description": "Juicy beef patties on toasted brioche buns with house-made sauce.", "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg", "hours": "Mon 10am–11pm, Tue 10:20am–11pm, Wed 10am–11:59pm, Thu 10am–11:59pm, Fri 9:30am–11:59pm, Sat 10am–11:59pm, Sun 10:15am–11pm", "menuUrl": "https://www.doordash.com/store/village-sandwich-san-mateo-34527600/", "priceRange": "$$", "keywords": ["sandwiches", "lunch", "counter service", "fast casual"]}, {"id": "ChIJBz99fZqfj4AR0xl3FAfBon8", "formattedAddress": "310 Baldwin Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.567282, "longitude": -122.32459899999999}, "googleMapsUri": "https://maps.google.com/?cid=9197125625196255699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://whisperfusion.com/", "displayName": {"text": "Whisper", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/san-mateo/Whisper : Wunderbar Small.jpeg", "phone": "(650) 727-3799", "description": "Chef Nick Yoon crafts fusion flavors with precision and originality.", "hours": "Mon–Thu 9:30am–2:30pm, 5:30pm–9pm, Fri 9:30am–2:30pm, 5:30pm–9:30pm, Sat 8:30am–3pm, 5:30pm–9:30pm, Sun 8:30am–3pm, 5:30pm–9pm", "menuUrl": "https://pos.chowbus.com/online-ordering/store/Whisper/23635", "priceRange": "$$", "keywords": ["fusion", "date night", "cocktails", "dinner only"]}, {"id": "ChIJQ5Cpuxmfj4AR6J-ovmEli1E", "formattedAddress": "310 Baldwin Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5672713, "longitude": -122.3246245}, "googleMapsUri": "https://maps.google.com/?cid=5875831240575721448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.wunderbarsm.com/", "displayName": {"text": "Wunderbar", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/san-mateo/Wunderbar Small.jpeg", "phone": "(650) 642-3836", "description": "Underground speakeasy featuring classic cocktails and creative riffs on them.", "hours": "Mon–Tue Closed, Wed–Thu 4:30pm–11pm, Fri–Sat 4:30pm–11:30pm, Sun Closed", "menuUrl": "https://www.wunderbarsm.com/cocktails.html", "priceRange": "$$", "keywords": ["german", "craft beer", "bar", "pretzels", "sausages", "happy hour"]}, {"id": "ChIJX3rgaxqfj4ARTDV4zC6uL8c", "formattedAddress": "54 37th Ave, San Mateo, CA 94403, USA", "location": {"latitude": 37.5342006, "longitude": -122.2955589}, "googleMapsUri": "https://maps.google.com/?cid=14352882053475218764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.yuzusushisanmateo.com/", "displayName": {"text": "Yuzu", "languageCode": "en"}, "cuisine": "Japanese", "phone": "(650) 358-0298", "description": "Fresh fish from Japan and large selection of premium sake.", "photoUrl": "images/restaurant-photos/san-mateo/Yuzu Sushi Small.jpeg", "hours": "Mon Closed, Tue–Fri 11:30am–1:45pm, 5:30pm–8:45pm, Sat 5:30pm–8:45pm, Sun 5:30pm–8:30pm", "menuUrl": "http://www.yuzusushisanmateo.com/dinner-1-1", "priceRange": "$$$", "keywords": ["japanese", "omakase", "kaiseki", "date night", "sake", "special occasion"]}, {"id": "ChIJQ6_pTHqej4ARsN5gHPirK9Y", "formattedAddress": "668 E 3rd Ave, San Mateo, CA 94401, USA", "location": {"latitude": 37.5672573, "longitude": -122.31940399999998}, "googleMapsUri": "https://maps.google.com/?cid=15432617630231486128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.zennoodlebarca.com/", "displayName": {"text": "Zen Noodle Bar", "languageCode": "en"}, "cuisine": "Chinese", "phone": "(650) 781-3183", "description": "Family-owned restaurant serving authentic Shanghai dim sum and noodles.", "photoUrl": "images/restaurant-photos/san-mateo/Zen Noodle Bar Small.jpeg", "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm", "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu", "priceRange": "$", "keywords": ["chinese noodles", "fast casual", "counter service"]}],
+  "San Mateo, CA": [
+    {
+      "id": "ChIJXTASXQCfj4ARin-W8xOJ608",
+      "displayName": {
+        "text": "A2",
+        "languageCode": "en"
+      },
+      "formattedAddress": "117 S B St Suite A, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5758847267307421578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/a2_wine_/",
+      "location": {},
+      "cuisine": "Wine Bar",
+      "keywords": [
+        "charcuterie",
+        "cheese plates",
+        "live music",
+        "jazz",
+        "date night",
+        "romantic atmosphere"
+      ],
+      "phone": "650-387-0888",
+      "hours": "Mon–Tue Closed, Wed–Sun 5pm–10pm",
+      "priceRange": "$$",
+      "description": "Local wine bar, art gallery with live music.",
+      "photoUrl": "images/restaurant-photos/san-mateo/A2 Small.jpeg"
+    },
+    {
+      "id": "ChIJSQJ_CHuej4ARezc8vH_W3Mc",
+      "displayName": {
+        "text": "Al Carbon Pollos a la Brasa",
+        "languageCode": "en"
+      },
+      "formattedAddress": "602 E 4th Ave C, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14401621552531257211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.alcarbon.us/",
+      "location": {},
+      "cuisine": "Peruvian",
+      "keywords": [
+        "whole chicken",
+        "rotisserie chicken"
+      ],
+      "menuUrl": "https://alcarbon.us/menu/",
+      "phone": "(650) 544-4687",
+      "hours": "Sun-Mon 9am–7pm, Tue–Thu 9am–8pm, Fri–Sat 9am–9pm",
+      "priceRange": "$$",
+      "description": "Free-range Peruvian chicken slowly roasted over mesquite charcoal open flame.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Al Carbon Small.jpeg"
+    },
+    {
+      "id": "ChIJ96g6P4eej4ARKIor0cbehBU",
+      "displayName": {
+        "text": "Aldo's Pizza",
+        "languageCode": "en"
+      },
+      "formattedAddress": "600 S Norfolk St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1550609117216475688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://aldospizzamenu.com/?utm_source=gbp",
+      "location": {},
+      "cuisine": "Pizza",
+      "keywords": [
+        "thin crust pizza"
+      ],
+      "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/aldo-s-pizza/menu",
+      "phone": "(650) 344-5051",
+      "hours": "Sun–Thu 11:00am–8:30pm, Fri–Sat 11:00am–9:00pm",
+      "priceRange": "$$",
+      "description": "Famous crispy, flaky thin crust made from Aldo's original recipe.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Aldos Pizza Small.jpeg"
+    },
+    {
+      "id": "ChIJc3R6j16ej4ARSX5Uq0eROqI",
+      "displayName": {
+        "text": "All Spice",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1602 S El Camino Real, San Mateo, CA 94402, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11689815519796690505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.allspicerestaurant.com/",
+      "location": {},
+      "cuisine": [
+        "American",
+        "Fusion"
+      ],
+      "keywords": [
+        "fine dining"
+      ],
+      "phone": "(650) 627-4303",
+      "hours": "Mon Closed, Tue–Fri 5:30pm–8pm, Sat 5pm–8pm, Sun Closed",
+      "priceRange": "$$$$",
+      "description": "Chef's worldly cuisine served in a charming 1906 Victorian cottage. Fusion of Asian and modern Californian dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/All Spice Small.jpeg"
+    },
+    {
+      "id": "ChIJwbQzTXCej4AR6AiUPmWLsAY",
+      "displayName": {
+        "text": "Amici's East Coast Pizzeria",
+        "languageCode": "en"
+      },
+      "formattedAddress": "69 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=482038427086489832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amicis.com/san-mateo",
+      "location": {},
+      "cuisine": [
+        "Pizza",
+        "Italian"
+      ],
+      "keywords": [
+        "pasta",
+        "sandwiches",
+        "kids menu",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.amicis.com/menu-san-mateo",
+      "phone": "(650) 342-9392",
+      "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "New York-style thin-crust pizza made with freshest ingredients, baked perfectly.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Amicis Small.jpeg"
+    },
+    {
+      "id": "ChIJhcaPCFCfj4ARowgmpAwbgpc",
+      "displayName": {
+        "text": "Amma’s Kitchen",
+        "languageCode": "en"
+      },
+      "formattedAddress": "66 21st Ave k15, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10917318187807017123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ammaskitchen.online/",
+      "location": {},
+      "cuisine": "Indian",
+      "keywords": [
+        "dosa",
+        "biriyani"
+      ],
+      "phone": "(650) 597-3533",
+      "hours": "Mon 10am–11pm, Tue 10:20am–11pm, Wed–Thu 10am–11:59pm, Fri 9:30am–11:59pm, Sat 10am–11:59pm, Sun 10:15am–11pm",
+      "priceRange": "$$",
+      "description": "Amma's special Boneless Biriyani and crispy dosas delight every palate.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
+    },
+    {
+      "id": "ChIJ6cW6kHqej4ARiiSPnlGL5eo",
+      "displayName": {
+        "text": "Amour Amour",
+        "languageCode": "en"
+      },
+      "formattedAddress": "305 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16926087957210670218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": [
+        "Wine Bar",
+        "Spanish"
+      ],
+      "menuUrl": "https://www.opentable.com/r/amour-amour-wine-bar-and-tapas-san-mateo",
+      "phone": "(650) 513-1759",
+      "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 5:00pm–9:30pm, Sun Closed",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Amour Amour Small.jpeg",
+      "keywords": [
+        "outdoor seating",
+        "happy hour",
+        "tapas",
+        "paella",
+        "date night",
+        "romantic",
+        "wine list",
+        "small plates"
+      ]
+    },
+    {
+      "id": "ChIJe9hUWKKfj4ARd4cxNTD2Mo8",
+      "displayName": {
+        "text": "Anatolian Cafe & Market",
+        "languageCode": "en"
+      },
+      "formattedAddress": "637 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10318580383170529143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://anatolianmart.com/",
+      "location": {},
+      "cuisine": [
+        "Mediterranean",
+        "Turkish"
+      ],
+      "menuUrl": "https://www.doordash.com/store/anatolian-san-mateo-34039627/",
+      "phone": "(650) 445-7273",
+      "hours": "Mon–Sun 8am–7pm",
+      "priceRange": "$$",
+      "description": "Family owned Authentic Mediterranean desserts, traditional breakfast, and handcrafted cafe drinks.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg",
+      "keywords": [
+        "breakfast",
+        "lunch",
+        "baklava",
+        "mediterranean market",
+        "turkish coffee",
+        "grocery"
+      ]
+    },
+    {
+      "id": "ChIJtyXnf-iej4ARgH5vz-MDChE",
+      "displayName": {
+        "text": "Apple Fritter",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1901 S Norfolk St, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1227798125384531584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.applefrittereatery.com/",
+      "location": {},
+      "cuisine": "Breakfast",
+      "keywords": [
+        "burgers"
+      ],
+      "menuUrl": "https://www.yelp.com/biz/apple-fritter-san-mateo",
+      "phone": "(650) 525-9125",
+      "hours": "Mon–Fri 6:30am–2:45pm, Sat–Sun 7:30am–2:45pm",
+      "priceRange": "$$",
+      "description": "They serve donut burgers, fruity pebble shakes, and churro french toasts.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Apple Fritter Small.jpeg"
+    },
+    {
+      "id": "ChIJC3dM58Oej4ARtSZewKk4DV8",
+      "displayName": {
+        "text": "Armadillo Willy's BBQ",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2260 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6849192910028416693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.armadillowillys.com/mobile-site/locations.asp",
+      "location": {},
+      "cuisine": "BBQ",
+      "keywords": [
+        "texas bbq"
+      ],
+      "hours": "Mon–Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "Texas style wood-fired barbecue. 40 years in business. Locally Owned.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Armadillo Willy's BBQ Small.jpeg"
+    },
+    {
+      "id": "ChIJ62bRY3Cej4AR3l5NXHnw5fc",
+      "displayName": {
+        "text": "Avenida Restaurant",
+        "languageCode": "en"
+      },
+      "formattedAddress": "201 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17862947901065223902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://avenidarestaurant.net/",
+      "location": {},
+      "cuisine": "Filipino",
+      "keywords": [
+        "outdoor seating"
+      ],
+      "menuUrl": "https://avenidarestaurant.net/",
+      "phone": "(650) 781-3637",
+      "hours": "Mon–Thu 4pm–9pm, Fri-Sat 12pm–10pm, Sun 11:30am–8:30pm",
+      "priceRange": "$$",
+      "description": "Traditional Filipino recipes elevated with contemporary techniques and local ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Avenida Small.jpeg"
+    },
+    {
+      "id": "ChIJb-BteXCej4ARhYpP7JyS9cA",
+      "displayName": {
+        "text": "Avocado Toast",
+        "languageCode": "en"
+      },
+      "formattedAddress": "226 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13904180627253463685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://myavocadotoast.com/?utm_source=google",
+      "location": {},
+      "cuisine": "Breakfast",
+      "keywords": [
+        "healthy breakfast",
+        "breakfast burrito"
+      ],
+      "menuUrl": "https://myavocadotoast.com/menu",
+      "phone": "(650) 343-3844",
+      "hours": "Mon–Fri 7am–2:30pm, Sat–Sun 8am–3:30pm",
+      "priceRange": "$$",
+      "description": "Family-owned deli serving fresh meals with homemade aiolis and spreads.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Avocado Toast Small.jpeg"
+    },
+    {
+      "id": "ChIJv8E7TYeej4ARi-YP0JM5La8",
+      "formattedAddress": "478 S Norfolk St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5713523,
+        "longitude": -122.3104597
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12622808637603047051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://aycaraytaqueriaca.com/",
+      "displayName": {
+        "text": "Ay Caray Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ay Caray Small.jpeg",
+      "phone": "(650) 340-8131",
+      "description": "Family-owned Mexican restaurant serving breakfast through dinner daily.",
+      "hours": "Mon–Tue 9:30am–8pm, Wed 9:30am–7pm, Thu–Sat 9:30am–8pm, Sun 9:30am–8pm",
+      "menuUrl": "https://aycaraytaqueriaca.com/ay-caray-taqueria/",
+      "priceRange": "$$",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJSS6QeHCej4ARAssTIDcQIiU",
+      "formattedAddress": "320 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.565168,
+        "longitude": -122.32233300000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2675718957558909698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bstreetandvine.com/",
+      "displayName": {
+        "text": "B Street & Vine",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/san-mateo/B Street & Vine Small.jpeg",
+      "phone": "(650) 347-8463",
+      "description": "Famous for signature bruschettas with unique sweet and savory combinations.",
+      "hours": "Mon 5pm–9pm, Tue–Thu 11:30am–9pm, Fri–Sat 11:30am–12am, Sun 11:30am–5pm",
+      "menuUrl": "http://www.bstreetandvine.com/files/BStreetandVineHTML/menu.html",
+      "priceRange": "$$",
+      "keywords": [
+        "outdoor seating",
+        "wine bar",
+        "date night",
+        "small plates",
+        "happy hour",
+        "romantic"
+      ]
+    },
+    {
+      "id": "ChIJ_yqFjbqfj4ARUmXo2-T8CSg",
+      "formattedAddress": "3081 S Delaware St Ste. C, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5407517,
+        "longitude": -122.29772949999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2885115096179696978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bahchesf.com/",
+      "displayName": {
+        "text": "Bahche",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bahche Small.jpeg",
+      "phone": "(650) 315-2197",
+      "description": "Modern Greek cuisine with curated wine list and inviting ambiance.",
+      "hours": "Mon–Thu 11am–2pm, 4:30pm–9pm, Fri 11am–2pm, 4:30pm–9:30pm, Sat 11am–9:30pm, Sun 11am–9pm",
+      "menuUrl": "https://www.bahchesf.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "outdoor seating",
+        "greek mezze",
+        "lamb chops",
+        "date night",
+        "full bar",
+        "souvlaki",
+        "wine list"
+      ]
+    },
+    {
+      "id": "ChIJdYnq7nCej4ARB-6vA0482oU",
+      "displayName": {
+        "text": "Bay Watch",
+        "languageCode": "en"
+      },
+      "formattedAddress": "201 2nd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9645087857734315527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.baywatchsanmateo.com/",
+      "location": {},
+      "cuisine": "Breakfast",
+      "phone": "(650) 342-2356",
+      "hours": "Mon–Sun 7am–2pm",
+      "priceRange": "$$",
+      "description": "Fresh ingredients prepared from scratch daily with bottomless coffee service.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bay Watch Small.jpeg",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "family friendly",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJuSQHOxKfj4ARSGeDzMgBmgg",
+      "displayName": {
+        "text": "Benihana",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2204 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=619809860653115208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.benihana.com/locations/san-mateo/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "location": {},
+      "cuisine": "Japanese",
+      "phone": "(650) 781-0523",
+      "hours": "Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–10pm",
+      "priceRange": "$$$",
+      "description": "Chefs perform the ancient art of Teppanyaki right at your table.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Benihana Small.jpeg",
+      "keywords": [
+        "teppanyaki",
+        "groups",
+        "family friendly",
+        "special occasion",
+        "hibachi",
+        "sushi"
+      ]
+    },
+    {
+      "id": "ChIJ91G1hYGfj4ARq9cpilAzffw",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18193754490655070123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bibimmate.com/",
+      "displayName": {
+        "text": "Bibimmate",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "phone": "(650) 435-4693",
+      "description": "Handcrafted kimbap rolls made fresh with beet-pickled radish and umami-rich flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "hours": "Mon 10:30am–2:30pm, 4:30pm–7:30pm, Tue 10:30am–1pm, Wed–Fri 10:30am–2:30pm, 4:30pm–7:30pm, Sat–Sun Closed",
+      "menuUrl": "https://www.bibimmate.com/s/order",
+      "priceRange": "$$",
+      "keywords": [
+        "korean rice bowls",
+        "bibimbap",
+        "fast casual",
+        "counter service",
+        "vegetarian options"
+      ]
+    },
+    {
+      "id": "ChIJM4bVPCCfj4ARuWhne1x88Ok",
+      "displayName": {
+        "text": "Big Daddy's Hawaiian BBQ",
+        "languageCode": "en"
+      },
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16857110141896976569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bigdaddyshawaiianbbq.com/",
+      "location": {},
+      "cuisine": [
+        "BBQ",
+        "Hawaiian"
+      ],
+      "phone": "(323) 238-3320",
+      "hours": "Mon–Sun 10:00am–10:00pm",
+      "priceRange": "$$",
+      "description": "Fresh Hawaiian-inspired cuisine that's clean, craveable, and feels great.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "keywords": [
+        "hawaiian bbq",
+        "plate lunch",
+        "fast casual",
+        "counter service",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJmUsD8Puej4ARjrL6z1BUv0I",
+      "displayName": {
+        "text": "Bizza",
+        "languageCode": "en"
+      },
+      "formattedAddress": "116 E 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4809655633118409358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://eatbizza.com/",
+      "location": {},
+      "cuisine": "Pizza",
+      "phone": "(650) 389-2160",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11:30am–8:30pm",
+      "priceRange": "$$",
+      "description": "Mediterranean-inspired pizzas fusing bold flavors with classic Italian favorites.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bizza Small.jpeg",
+      "keywords": [
+        "pizza",
+        "fast casual",
+        "takeout"
+      ]
+    },
+    {
+      "id": "ChIJv_7wm8Oej4ARzflirOTE7qc",
+      "formattedAddress": "2206 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "location": {
+        "latitude": 37.5608612,
+        "longitude": -122.28287200000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12100825735214856653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bjsrestaurants.com/locations/ca/san-mateo?utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
+      "displayName": {
+        "text": "BJ's Restaurant & Brewhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/BJ Brewhouse Small.jpeg",
+      "phone": "(650) 931-2990",
+      "description": "Famous Signature Deep Dish Pizza and Handcrafted Beers await you.",
+      "hours": "Mon–Thu 11am–12am, Fri 11am–1am, Sat 10am–1am, Sun 10am–12am",
+      "menuUrl": "https://www.bjsrestaurants.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "craft beer",
+        "brewery",
+        "happy hour",
+        "family friendly",
+        "brunch",
+        "outdoor seating",
+        "late night",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJ6zDxjXCej4AROgj36_xUWgM",
+      "formattedAddress": "220 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.565979999999996,
+        "longitude": -122.32309120000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=241598975285069882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://restaurants.bonchon.com/locations/ca/san-mateo/220-south-b-street",
+      "displayName": {
+        "text": "Bonchon San Mateo",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bonchon Small.jpeg",
+      "phone": "(650) 458-3110",
+      "description": "Known for crunchy double-fried chicken with signature Korean sauces.",
+      "hours": "Mon–Thu 11:00am–9:00pm, Fri–Sat 11:00am–10:00pm, Sun 11:00am–9:00pm",
+      "menuUrl": "https://www.bonchon.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "korean fried chicken",
+        "fast casual",
+        "wings",
+        "soju"
+      ]
+    },
+    {
+      "id": "ChIJrQxCoJKdj4AR1Tmf4lRpJdU",
+      "formattedAddress": "1007 Howard Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.585951099999996,
+        "longitude": -122.33355870000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15358797917517199829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://bonjourbakehouse.com/",
+      "displayName": {
+        "text": "Bonjour Bakehouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "phone": "(650) 476-4095",
+      "description": "Award-winning French bakery featuring seasonal treats from local farmers' market ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bonjour Bakehouse Small.jpeg",
+      "hours": "Mon–Fri 7am–1pm, Sat–Sun 8am–1pm",
+      "menuUrl": "https://www.doordash.com/store/bonjour-bakehouse-san-mateo-24720396/",
+      "priceRange": "$$",
+      "keywords": [
+        "bakery",
+        "breakfast",
+        "brunch",
+        "pastries",
+        "coffee",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJEZSWcoqfj4ARRh1KStl4i3s",
+      "formattedAddress": "1338 W Hillsdale Blvd, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5340474,
+        "longitude": -122.3275585
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8902341963077524806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://brotherscafes.com/",
+      "displayName": {
+        "text": "Brothers Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Brothers Cafe Small.jpeg",
+      "phone": "(650) 389-7263",
+      "description": "Scratch-made buttermilk pancakes and brioche French toast with all-day service.",
+      "hours": "Mon–Sun 8am–8pm",
+      "menuUrl": "https://brotherscafes.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "cafe",
+        "family friendly",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJdZO-BOafj4ARIn7armdjG4E",
+      "displayName": {
+        "text": "Brundavan Indian restaurant",
+        "languageCode": "en"
+      },
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9303138752230227490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.brundavanindianresturant.online/",
+      "location": {
+        "latitude": 37.5477,
+        "longitude": -122.3083
+      },
+      "cuisine": "Indian",
+      "description": "Traditional Indian cuisine. Appetizers are a specialty. Reasonably priced.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "keywords": [
+        "indian curry",
+        "vegetarian options",
+        "vegan options",
+        "halal",
+        "lunch buffet"
+      ]
+    },
+    {
+      "id": "ChIJQbLqm0yfj4ARAp96SCrcv14",
+      "formattedAddress": "168 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5637672,
+        "longitude": -122.3223772
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6827417634279694082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cajunbowlcalifornia.com/",
+      "displayName": {
+        "text": "Cajun Bowl San Mateo",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cajun Bowl Small.jpeg",
+      "phone": "(650) 445-7248",
+      "description": "They serve only caught-in-the-wild seafood with offerings changing daily.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 11am–9pm",
+      "menuUrl": "https://www.cajunbowlcalifornia.com/menus/",
+      "priceRange": "$$",
+      "keywords": [
+        "cajun seafood",
+        "boil",
+        "shrimp",
+        "lobster",
+        "crab",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJq02_m9qfj4ARwdkXtIZk1n0",
+      "formattedAddress": "2214 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "location": {
+        "latitude": 37.5597387,
+        "longitude": -122.28417560000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9067545429466929601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cafishgrill.com/",
+      "displayName": {
+        "text": "California Fish Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/san-mateo/CA Fish Grill Small.jpeg",
+      "phone": "(650) 753-2521",
+      "description": "Serving 100% sustainable seafood certified by Monterey Bay Aquarium standards.",
+      "hours": "Mon–Wed 11am–9pm, Thu–Sat 11am–9:30pm, Sun 11am–9pm",
+      "menuUrl": "https://order.cafishgrill.com/menu/san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "grilled fish",
+        "healthy options",
+        "fast casual",
+        "counter service",
+        "gluten free options"
+      ]
+    },
+    {
+      "id": "ChIJi3DsR-idj4ARYhSvmuHVNmQ",
+      "formattedAddress": "504 Peninsula Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5798006,
+        "longitude": -122.3350557
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7221194217474692194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.celiasrestaurants.com/san-mateo-peninsula-ave/",
+      "displayName": {
+        "text": "Celia's",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 343-5886",
+      "description": "Fresh daily salsa, guacamole, and handmade tamales with skinless chicken.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Celia's Small.jpeg",
+      "hours": "Sun–Thu 11am–9pm, Fri–Sat 11am–10pm",
+      "menuUrl": "https://www.celiasrestaurants.com/location/san-mateo-peninsula-ave/dinner-menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican",
+        "family friendly",
+        "margaritas",
+        "tacos",
+        "burritos"
+      ]
+    },
+    {
+      "id": "ChIJV_JyhqD1UocRck6StTwWwfA",
+      "formattedAddress": "181 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.564229499999996,
+        "longitude": -122.3228201
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17348171689607974514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.centralparkbistro.com/",
+      "displayName": {
+        "text": "Central Park Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Central Park Bistro Small.jpeg",
+      "phone": "(650) 558-8401",
+      "description": "Well-executed menu ranges from wood-fired pizzas to sophisticated American entrees.",
+      "hours": "Mon–Fri 11:00am–2:00pm, 4:30pm–9:00pm, Sat 5:00pm–9:00pm, Sun 4:30pm–9:00pm",
+      "menuUrl": "https://centralparkbistro.com/menus/",
+      "priceRange": "$$$",
+      "keywords": [
+        "american",
+        "date night",
+        "outdoor seating",
+        "brunch",
+        "cocktails"
+      ]
+    },
+    {
+      "id": "ChIJfZwk1GCfj4ARGTJ1yrjaMq8",
+      "formattedAddress": "2116 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5472306,
+        "longitude": -122.3090022
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12624393192678437401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.chaiyothaicuisine.com/",
+      "displayName": {
+        "text": "Chai Yo Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-mateo/Chaiyo Small.jpeg",
+      "phone": "(650) 315-2545",
+      "description": "Family-run Thai restaurant serving lunch and dinner in warm space.",
+      "hours": "Mon–Closed, Tue–Sat 11am–3pm, 5pm–9pm, Sun–Closed",
+      "menuUrl": "http://www.chaiyothaicuisine.com/menu.html",
+      "priceRange": "$$",
+      "keywords": [
+        "thai curry",
+        "pad thai",
+        "vegetarian options",
+        "takeout"
+      ]
+    },
+    {
+      "id": "ChIJzxQm-2Sej4ARd4DGD1s_-YI",
+      "formattedAddress": "725 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5624087,
+        "longitude": -122.3187689
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9437644154470826103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://charliestaqueria.shop/",
+      "displayName": {
+        "text": "Charlie's Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/Charlies Taqueria Small.jpeg",
+      "phone": "(650) 343-6496",
+      "description": "Perfectly cooked tortillas with flavorful meats and self-serve chips station.",
+      "hours": "Mon–Sun 10am–9pm",
+      "menuUrl": "https://charliestaqueria.has.restaurant/menu/",
+      "priceRange": "$",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJgWEBd16ej4ARwB83tMxbRYQ",
+      "formattedAddress": "1428 S El Camino Real, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.553869399999996,
+        "longitude": -122.31616939999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9531125121154490304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://charmthaica.smiledining.com/?2025102401",
+      "displayName": {
+        "text": "Charm Thai Eatery",
+        "languageCode": "th"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-mateo/Charm Thai Eatery Small.jpeg",
+      "phone": "(650) 212-3444",
+      "description": "Family-run restaurant serving authentic Thai specialties with fresh ingredients and spices.",
+      "hours": "Mon–Sun 11am–3pm, 5pm–9pm",
+      "menuUrl": "https://www.yelp.com/biz/charm-thai-eatery-san-mateo-2",
+      "priceRange": "$$",
+      "keywords": [
+        "thai curry",
+        "pad thai",
+        "vegetarian options",
+        "takeout",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "manual_1778251763637",
+      "displayName": {
+        "text": "Cheesecake Factory",
+        "languageCode": "en"
+      },
+      "formattedAddress": "398 Hillsdale Shopping Ctr",
+      "googleMapsUri": "https://www.google.com/maps/place/The+Cheesecake+Factory/data=!4m2!3m1!1s0x0:0xa03a9c8abf7329f2?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.thecheesecakefactory.com/?_ga=2.59035566.262883361.1778251379-1419924837.1778251379",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "cheesecake"
+      ],
+      "phone": "(650) 638-0310",
+      "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 10am-10pm",
+      "priceRange": "$$",
+      "description": "Popular American chain offering a wide variety of dishes, known for large portions, timely service and comfortable atmosphere. Good if you have a mixed group who like different cuisines.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cheesecake Factory Small.jpeg"
+    },
+    {
+      "id": "ChIJ-f64XwCfj4ARy9MhdAdp8kY",
+      "displayName": {
+        "text": "Chingu",
+        "languageCode": "en"
+      },
+      "formattedAddress": "211 S San Mateo Dr, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5112264007752995787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://waitwhile.com/locations/chingusanmateo/welcome",
+      "location": {
+        "latitude": 37.5658,
+        "longitude": -122.3256
+      },
+      "cuisine": "Korean",
+      "phone": "(650) 781-3075",
+      "description": "Casual late night Korean food plus fusion dishes. Fun atmosphere.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Chingu Small.jpeg",
+      "hours": "Mon–Closed, Tue–Thu 6pm–12am, Fri–Sat 6pm–1am, Sun 5pm–10pm",
+      "menuUrl": "https://www.chingusanmateo.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "korean bbq",
+        "tabletop grill",
+        "groups",
+        "soju"
+      ]
+    },
+    {
+      "id": "ChIJ_apdxcGfj4ARXsR6YZjHLQw",
+      "formattedAddress": "142 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5644375,
+        "longitude": -122.32367380000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=877576959691506782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.snackpass.co/chopsticktaiwanesebentos",
+      "displayName": {
+        "text": "Chopstix & Taiwanese Bentos",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Chopstix& Small.jpeg",
+      "phone": "(650) 558-1988",
+      "description": "Authentic Taiwanese bentos with famous crispy popcorn chicken and sides.",
+      "hours": "Mon–Thu 11:30am–2:30pm, 4:30pm–8pm, Fri 11:30am–2:30pm, 4:30pm–8:30pm, Sat 11:30am–3pm, 4pm–8:30pm, Sun 11:30am–3pm, 4pm–8pm",
+      "menuUrl": "https://www.chopstixtaiwanesebentos.com/p8fhpzrd/restaurant/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "taiwanese",
+        "bento box",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJ1abXTPmej4ARcbHKZmE-yaI",
+      "formattedAddress": "8 W 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.544292299999995,
+        "longitude": -122.306095
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11729975292520477041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cobanigyro.com/",
+      "displayName": {
+        "text": "Cobani Gyro & Kebab",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cobani Small.jpeg",
+      "phone": "(650) 389-6861",
+      "description": "Michelin-recommended fresh halal Mediterranean with highest-quality ingredients and gourmet dishes.",
+      "hours": "Mon–Sun 11am–9pm",
+      "menuUrl": "https://www.yelp.com/menu/cobani-gyro-and-kebab-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "gyros",
+        "falafel",
+        "fast casual",
+        "counter service",
+        "halal",
+        "mediterranean"
+      ]
+    },
+    {
+      "id": "ChIJRTWR2O6fj4ARAqPsTcQX5Hk",
+      "formattedAddress": "50 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5635731,
+        "longitude": -122.3250106
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8783171305167692546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://colanderkitchens.com/",
+      "displayName": {
+        "text": "Colander Kitchens",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-mateo/Colander Kitchens Small.jpeg",
+      "phone": "(415) 997-0024",
+      "description": "Multiple dining concepts from Southern brunch to sushi burritos together.",
+      "hours": "Mon–Fri 9am–2:30pm, Sat–Sun Closed",
+      "menuUrl": "https://colanderkitchens.com/menus/",
+      "priceRange": "$",
+      "keywords": [
+        "fast casual",
+        "counter service",
+        "healthy options"
+      ]
+    },
+    {
+      "id": "ChIJ7VEHR9Ofj4AR6AEUKzk2Y38",
+      "displayName": {
+        "text": "Cooking Papa",
+        "languageCode": "en"
+      },
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9179240084674970088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cookingpapa.us/",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(415) 690-2233",
+      "hours": "Mon–Sat 10:00am–7:00pm, Sun 10:00am–12:00pm",
+      "priceRange": "$",
+      "description": "Michelin recommended authentic Hong Kong cuisine delivered by meal boxes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "keywords": [
+        "dim sum",
+        "cantonese",
+        "family friendly",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJObonFH-fj4ARLrUSRoNnYI8",
+      "formattedAddress": "742 Polhemus Rd, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.5202524,
+        "longitude": -122.33893870000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10331371358701925678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://crystalspringstavern.com/",
+      "displayName": {
+        "text": "Crystal Springs Tavern",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Crystal Springs Tavern Small.jpeg",
+      "phone": "(650) 865-3660",
+      "description": "Gourmet comfort fare features dry-aged burger and house-made pastas.",
+      "hours": "Mon–Closed, Tue–Thu 4pm–9pm, Fri 4pm–10pm, Sat 4pm–9pm, Sun–Closed",
+      "menuUrl": "https://www.opentable.com/r/crystal-springs-tavern-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "bar",
+        "happy hour",
+        "outdoor seating",
+        "sports bar"
+      ]
+    },
+    {
+      "id": "ChIJwdQE_hmfj4ARhnRXauveN9M",
+      "formattedAddress": "3799 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.533799099999996,
+        "longitude": -122.2934504
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15219878568404677766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cubankitchen.org/",
+      "displayName": {
+        "text": "Cuban Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Caribbean",
+      "phone": "(650) 627-4636",
+      "description": "Female and family owned business serving authentically flavored Cuban cuisine.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cuban Kitchen Small.jpeg",
+      "hours": "Mon Closed, Tue–Sat 11am–9:30pm, Sun 11am–8pm",
+      "menuUrl": "https://order.toasttab.com/online/qbacubankitchen",
+      "priceRange": "$",
+      "keywords": [
+        "cuban sandwich",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJTV5S5-Ofj4ARcKTVvNe9Z7E",
+      "displayName": {
+        "text": "Curry & Kabab",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1923 S El Camino Real, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12783394801598178416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.currykababca.com/",
+      "location": {},
+      "cuisine": "Indian",
+      "phone": "(650) 315-2136",
+      "hours": "Mon–Fri 9am–10pm, Sat–Sun 10am–10pm",
+      "priceRange": "$$",
+      "description": "Chef Mandy specializes in North Indian Curries and tandoori items.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Curry & Kabob Small.jpeg",
+      "keywords": [
+        "indian curry",
+        "halal",
+        "vegetarian options",
+        "takeout"
+      ]
+    },
+    {
+      "id": "ChIJ2_xn6N-fj4ARhiafxUTWz5Y",
+      "displayName": {
+        "text": "Curry Pizza House",
+        "languageCode": "en"
+      },
+      "formattedAddress": "135 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10867140016729958022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://currypizzahouse.com/locations/san-mateo/",
+      "location": {},
+      "cuisine": "Fusion",
+      "phone": "(650) 242-0520",
+      "hours": "Sun–Thu 10am–9pm, Fri–Sat 10am–10pm",
+      "priceRange": "$$",
+      "description": "Craft pizza blending delicious curry flavors with wholesome fresh ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Curry Pizza House Small.jpeg",
+      "keywords": [
+        "indian fusion pizza",
+        "craft beer",
+        "vegetarian options",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJFbeGuHCej4ARWLQmzwIx9Xc",
+      "displayName": {
+        "text": "Curry Up Now",
+        "languageCode": "en"
+      },
+      "formattedAddress": "129 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8643868947942650968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.curryupnow.com/",
+      "location": {},
+      "cuisine": "Indian",
+      "keywords": [
+        "vegan"
+      ],
+      "phone": "(650) 881-3951",
+      "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10:30pm, Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "Indian street food born in India and raised in California. Vegetarian and Vegan options.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Curry UpNow Small.jpeg"
+    },
+    {
+      "id": "ChIJJ359_7Sfj4ARJZnEW4YwpzM",
+      "formattedAddress": "213 2nd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5660399,
+        "longitude": -122.32382530000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3721996970668366117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.daeho-kalbijjim.com/",
+      "displayName": {
+        "text": "Daeho kalbijjim & beef soup",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Daeho Small.jpeg",
+      "phone": "(650) 389-6689",
+      "description": "Traditional Korean royal recipes with modern twists for tender Kalbijjim.",
+      "hours": "Mon–Fri 11am–2:30pm, 4:30pm–9pm, Sat–Sun 10:30am–9pm",
+      "menuUrl": "https://www.yelp.com/biz/daeho-kalbijjim-and-beef-soup-san-mateo-3",
+      "priceRange": "$$$",
+      "keywords": [
+        "korean braised short rib",
+        "galbi",
+        "beef soup",
+        "groups",
+        "special occasion"
+      ]
+    },
+    {
+      "id": "ChIJp6yImXCej4ARwQ0kgVjz25w",
+      "formattedAddress": "204A 2nd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.56588380000001,
+        "longitude": -122.32362709999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11302895251265686977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.dashjapanese.com/",
+      "displayName": {
+        "text": "Dash Japanese Tapas and Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Dash Small.jpeg",
+      "phone": "(650) 340-1508",
+      "description": "Daily fish specials flown fresh from Tokyo's Toyosu Fish Market.",
+      "hours": "Mon–Thu 5:00pm–9:30pm, Fri–Sat 5:00pm–10:00pm, Sun 5:00pm–9:00pm",
+      "menuUrl": "https://www.dashjapanese.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "sushi",
+        "izakaya",
+        "happy hour",
+        "small plates",
+        "sake",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJx5v3UiCfj4AR5nLeVzTzZXI",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8243262099109606118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Dosa Box",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "phone": "(650) 315-1073",
+      "description": "Features innovative dosas like Nutella dessert and five cheese varieties.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "hours": "Mon 10:00am–11:00pm, Tue 10:20am–11:00pm, Wed 10:00am–11:59pm, Thu 10:00am–11:59pm, Fri–Sat 10:00am–11:59pm, Sun 10:15am–11:00pm",
+      "menuUrl": "https://postmates.com/store/dosa-box-66-21st-ave/jUl5Zx__WJy7bxZjBO5Q6w",
+      "priceRange": "$$",
+      "keywords": [
+        "south indian",
+        "dosa",
+        "vegetarian options",
+        "vegan options",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJXfy5KtSdj4ARGeV59JOwm-k",
+      "formattedAddress": "514 Peninsula Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5799581,
+        "longitude": -122.3347764
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16833242181735671065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://dosaexpresssanmateo.com/",
+      "displayName": {
+        "text": "Dosa Express",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "phone": "(650) 389-7690",
+      "description": "Chef curates every meal with emotional perception, food made with love.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Dosa Express Small.jpeg",
+      "hours": "Mon 9am–9pm, Tue–Thu 9am–9pm, Fri–Sat 9am–10pm, Sun 9am–9pm",
+      "menuUrl": "https://www.yelp.com/biz/dosa-express-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "south indian",
+        "dosa",
+        "vegetarian options",
+        "vegan options",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJGyBz3xmfj4ARnkSXuVr4I2s",
+      "displayName": {
+        "text": "Dough Zone Dumpling House",
+        "languageCode": "en"
+      },
+      "formattedAddress": "111 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7720287254787605662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.doughzonedumplinghouse.com/locations",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 336-1888",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Known for exquisite Soup Dumplings, Pork Buns, and Dan Dan Noodles.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Dough Zone Small.jpeg",
+      "keywords": [
+        "dumplings",
+        "xiao long bao",
+        "dim sum",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJe1hpqKGfj4ARWBFCgo71nII",
+      "displayName": {
+        "text": "Dynasty BBQ",
+        "languageCode": "en"
+      },
+      "formattedAddress": "105 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9411667313717023064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pos.chowbus.com/online-ordering/store/restaurant/14843",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 393-4819",
+      "hours": "Mon–Thu 4:30pm–11pm, Fri 12pm–2pm, 5pm–11pm, Sat 12pm–11pm, Sun 12pm–10:30pm",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Dynasty BBQ Small.jpeg",
+      "keywords": [
+        "chinese bbq",
+        "peking duck",
+        "groups",
+        "family style"
+      ]
+    },
+    {
+      "id": "manual_edis_quesabirrias_san_mateo",
+      "displayName": {
+        "text": "Edi's Quesabirrias and Tacos (Food Truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "500 E Third Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Edi%27s+Quesabirrias+San+Mateo",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck",
+        "birria",
+        "quesabirria",
+        "tacos",
+        "birria ramen",
+        "counter service",
+        "cash only"
+      ],
+      "phone": "",
+      "hours": {
+        "Monday": "11:00 AM – 9:30 PM",
+        "Tuesday": "Closed",
+        "Wednesday": "11:00 AM – 9:30 PM",
+        "Thursday": "11:00 AM – 10:00 PM",
+        "Friday": "11:00 AM – 11:00 PM",
+        "Saturday": "11:00 AM – 11:00 PM",
+        "Sunday": "11:00 AM – 11:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Standout birria truck on Third Avenue with handmade corn tortillas, perfectly seasoned quesabirria, shrimp and cheese tacos, and birria ramen. Cash only and made to order.",
+      "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"
+    },
+    {
+      "id": "ChIJQbNcA9adj4ARmcSDBfrEoOU",
+      "formattedAddress": "15 N Kingston St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5746444,
+        "longitude": -122.31699440000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16546441609072592025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://elpalenquetaqueria.shop/",
+      "displayName": {
+        "text": "El Palenque Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 342-4040",
+      "description": "Authentic tacos with flaky tortillas and traditional recipes at unbeatable prices.",
+      "photoUrl": "images/restaurant-photos/san-mateo/El Palenque Taqueria Small.jpeg",
+      "hours": "Mon–Sun 10am–8:30pm",
+      "menuUrl": "https://www.allmenus.com/ca/san-mateo/799624-el-palenque-taqueria/menu/",
+      "priceRange": "$",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "manual_el_sabor_de_mi_pueblo_san_mateo",
+      "displayName": {
+        "text": "El Sabor de Mi Pueblo (Food Truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "448 N Humboldt St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?q=El+Sabor+de+Mi+Pueblo+San+Mateo",
+      "websiteUri": "https://orderelsabordemipueblo.com/",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck",
+        "tacos",
+        "burritos",
+        "carne asada",
+        "California burrito",
+        "counter service"
+      ],
+      "phone": "(650) 293-1837",
+      "hours": {
+        "Monday": "11:00 AM – 9:00 PM",
+        "Tuesday": "11:00 AM – 9:00 PM",
+        "Wednesday": "11:00 AM – 9:00 PM",
+        "Thursday": "11:00 AM – 9:00 PM",
+        "Friday": "11:00 AM – 9:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "priceRange": "$",
+      "description": "Weekday taco truck near the San Mateo DMV with generously loaded tacos, California burritos, and milanesa plates at some of the best value prices on the Peninsula.",
+      "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"
+    },
+    {
+      "id": "manual_1778987417597",
+      "displayName": {
+        "text": "El Sanignacense (food truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "404 19th Ave",
+      "googleMapsUri": "",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "seafood",
+        "food truck"
+      ],
+      "priceRange": "$",
+      "description": "Mexican seafood food truck next to the Exxon station.",
+      "photoUrl": "images/restaurant-photos/san-mateo/El Sanignacense (food truck) Small.jpeg"
+    },
+    {
+      "id": "ChIJHwExAV-ej4ARTtO8nKuvAy8",
+      "formattedAddress": "1622 Palm Ave, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.553730699999996,
+        "longitude": -122.3133779
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3387744496316633934&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.el-sinaloense.com/",
+      "displayName": {
+        "text": "El Sinaloense Mexican Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 345-1180",
+      "description": "Casual dining with personalized customer service from trained staff.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sinaloense Small.jpeg",
+      "hours": "Sun–Thu 11am–9pm, Fri–Sat 11am–10pm",
+      "menuUrl": "https://elsinaloensemexicanrestaurantsmca.com/",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican seafood",
+        "tacos",
+        "mariscos",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJHQ-1AmWej4AR1QryXVCTOi8",
+      "displayName": {
+        "text": "Espetus Churrascaria Brazilian BBQ",
+        "languageCode": "en"
+      },
+      "formattedAddress": "710 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3403194441814641365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.espetus.com/",
+      "location": {},
+      "cuisine": [
+        "Brazilian",
+        "BBQ"
+      ],
+      "phone": "(650) 342-8700",
+      "hours": "Mon–Thu 11:30am–2:30pm, 5pm–10pm, Fri 11:30am–2:30pm, 5pm–11pm, Sat 12pm–3pm, 5pm–11pm, Sun 12pm–9pm",
+      "priceRange": "$$$",
+      "description": "Bay Area's first Brazilian Steakhouse with fourteen flame-grilled cuts tableside.",
+      "photoUrl": "images/restaurant-photos/san-mateo/EspetusJPG Small.jpeg",
+      "keywords": [
+        "brazilian steakhouse",
+        "churrascaria",
+        "all you can eat meat",
+        "groups",
+        "special occasion",
+        "full bar"
+      ]
+    },
+    {
+      "id": "ChIJkTQUbxqfj4ARnwE0LebF5Gg",
+      "formattedAddress": "63 37th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5336503,
+        "longitude": -122.2956476
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7558383667026067871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Fernando's Méxican Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 345-9042",
+      "description": "Family-owned since 1985, known as home of the famous margarita.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fernandos Small.jpeg",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://www.doordash.com/store/fernandos-mexican-restaurant-san-mateo-994875/",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican",
+        "tacos",
+        "burritos",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJXYm1UR2fj4ARep4zzoa7lZc",
+      "displayName": {
+        "text": "Fieldwork",
+        "languageCode": "en"
+      },
+      "formattedAddress": "3030 S Delaware St, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10922842658916507258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://drinkfieldwork.com/san-mateo/",
+      "location": {},
+      "cuisine": [
+        "American",
+        "Brewery"
+      ],
+      "phone": "(650) 242-1280",
+      "hours": "Mon–Thu 12pm–9pm, Fri 12pm–10pm, Sat 11am–10pm, Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Rotating selection of over 20 fresh beers on tap.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fieldwork San Mateo Small.jpeg",
+      "keywords": [
+        "craft beer",
+        "brewery",
+        "outdoor seating",
+        "happy hour",
+        "groups",
+        "bar food"
+      ]
+    },
+    {
+      "id": "ChIJo7QtiEOfj4ARPFSTaTIW0rY",
+      "displayName": {
+        "text": "Fire Wings",
+        "languageCode": "en"
+      },
+      "formattedAddress": "206 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13173616265787561020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.firewings.com/san-mateo-ca-94401",
+      "location": {},
+      "cuisine": "American",
+      "phone": "(650) 372-5263",
+      "hours": "Sun–Thu 11am–9:45pm, Fri–Sat 11am–10:45pm",
+      "priceRange": "$$",
+      "description": "Over 20 wing flavors plus popular garlic noodles and beer",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fire Wings Small.jpeg",
+      "keywords": [
+        "wings",
+        "fast casual",
+        "counter service",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJlZciNwCfj4ARoQRaOS3XOQ4",
+      "displayName": {
+        "text": "Fish With You",
+        "languageCode": "en"
+      },
+      "formattedAddress": "150 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1025086979439199393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 226-8106",
+      "hours": "Mon 11am–9pm, Tue Closed, Wed–Thu 11am–9pm, Fri–Sun 11am–9:30pm",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fish With You Small.jpeg",
+      "keywords": [
+        "chinese seafood",
+        "hot pot",
+        "family style"
+      ]
+    },
+    {
+      "id": "ChIJG2nvYCifj4ARS2YfRVbPyYs",
+      "formattedAddress": "385 2nd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5668625,
+        "longitude": -122.3226665
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10072810011024647755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Fletch's Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fletchs Taqueria Small.jpeg",
+      "phone": "(650) 398-7543",
+      "hours": "Mon 10am–9pm, Tue 10am–9pm, Wed 10am–9pm, Thu 10am–9pm, Fri 10am–9pm, Sat 10am–9pm, Sun Closed",
+      "menuUrl": "https://www.ubereats.com/store/fletchs-taqueria/8hCnWZTwVN2hP96Ihqp4RA",
+      "priceRange": "$",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJNXD9Wmefj4ARw5k3-lRu9I8",
+      "formattedAddress": "4 Hillsdale Mall, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.539237899999996,
+        "longitude": -122.30074210000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10373037152995350979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://floressf.com/",
+      "displayName": {
+        "text": "Flores San Mateo",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/Flores Small.jpeg",
+      "phone": "(650) 418-9742",
+      "description": "Family recipes from Gulf to Pacific honoring Mexican tradition.",
+      "hours": "Mon–Thu 11:30am–9pm, Fri 11:30am–10pm, Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://floressf.com/location/san-mateo-hours-location/",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican",
+        "outdoor seating",
+        "margaritas",
+        "tacos",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJ_YgYJYufj4ARKw1ULsKCDiE",
+      "formattedAddress": "144 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.566493200000004,
+        "longitude": -122.32369459999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2381985023438097707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.fogbird.co/",
+      "displayName": {
+        "text": "Fogbird",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fogbird Small.jpeg",
+      "phone": "(650) 458-0049",
+      "description": "Named Best Bar two years running with creative cocktails.",
+      "hours": "Mon 4pm–9pm, Tue–Thu 4pm–10pm, Fri–Sat 4pm–12am, Sun Closed",
+      "menuUrl": "https://www.fogbird.co/visit-us",
+      "priceRange": "$$",
+      "keywords": [
+        "outdoor seating",
+        "craft beer",
+        "bar food",
+        "happy hour"
+      ]
+    },
+    {
+      "id": "ChIJBUJUEvufj4AR3Ms-AQad6AU",
+      "formattedAddress": "60 E 3rd Ave Ste 108, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5637466,
+        "longitude": -122.32472349999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=425762813902769116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.foreignercafe.com/",
+      "displayName": {
+        "text": "Foreigner Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Foreingner Small.jpeg",
+      "phone": "(650) 620-1888",
+      "description": "Stories are shared over craft coffee where culture meets community.",
+      "hours": "Mon–Sun 8:00am–4:00pm",
+      "menuUrl": "https://www.foreignercafe.com/wp-content/uploads/2023/03/Brunch-Menu-8-AM-2.30-PM.pdf",
+      "priceRange": "$$",
+      "keywords": [
+        "outdoor seating",
+        "cafe",
+        "brunch",
+        "coffee",
+        "pastries",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJ3SH8Znqej4ARUMkudLM5pJE",
+      "formattedAddress": "428 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.566401,
+        "longitude": -122.320825
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10494576474591250768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Fuji Sukiyaki",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fuji Sukiyaki Small.jpeg",
+      "phone": "(650) 348-7810",
+      "hours": "Mon 11am–2:30pm, 4:30pm–9pm, Tue Closed, Wed–Sat 11am–2:30pm, 4:30pm–9pm, Sun 11am–2:30pm, 4:30pm–9pm",
+      "menuUrl": "https://www.yelp.com/biz/fuji-sukiyaki-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "shabu shabu",
+        "sukiyaki",
+        "japanese hot pot",
+        "date night",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJKZz8LPmej4ARBbVMIQuCtnk",
+      "formattedAddress": "116 W 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5438824,
+        "longitude": -122.307341
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8770340308665545989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://order.online/store/furagu-929",
+      "displayName": {
+        "text": "Furagu Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Furagu Sushi Small.jpeg",
+      "phone": "(650) 931-4038",
+      "description": "No delivery fee on your first order with live tracking.",
+      "hours": "Mon 11am–2:30pm, 4pm–8:30pm, Tue Closed, Wed 11am–2:30pm, 4pm–8:30pm, Thu 11am–2:30pm, 4pm–8:30pm, Fri 11am–2:30pm, 4pm–9pm, Sat 11am–2:30pm, 4pm–9pm, Sun 11am–2:30pm, 4pm–8:30pm",
+      "menuUrl": "https://www.yelp.com/biz/furagu-sushi-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "sushi",
+        "omakase",
+        "date night",
+        "sake"
+      ]
+    },
+    {
+      "id": "ChIJpxRGD8efj4AR6j3jq50wM4k",
+      "formattedAddress": "313 S San Mateo Dr, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5641216,
+        "longitude": -122.32366150000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9886299060760165866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://gaokitchen.com/",
+      "displayName": {
+        "text": "Gao Viet Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Gao Viet Kitchen Small.jpeg",
+      "phone": "(650) 477-2524",
+      "description": "Home of the Phozilla with 24-hour simmered marrow broth.",
+      "hours": "Mon 4:30pm–9pm, Tue Closed, Wed 4:30pm–9pm, Thu 4:30pm–9pm, Fri 11:30am–3pm & 5pm–9pm, Sat 11:30am–3:30pm & 5pm–9pm, Sun 11:30am–3:30pm & 5pm–9pm",
+      "menuUrl": "https://gaokitchen.com/san-mateo-menu-1",
+      "priceRange": "$$",
+      "keywords": [
+        "vietnamese",
+        "pho",
+        "banh mi",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJP7SzgWOej4ARm8ksqOCHTCw",
+      "formattedAddress": "500 9th Ave, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.5626473,
+        "longitude": -122.31627349999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3192075634862770587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Golden 9th Deli & Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "phone": "(650) 344-3308",
+      "description": "Family run neighborhood deli and market since 1991.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Golden Ninth Deli Small.jpeg",
+      "hours": "Mon–Fri 7am–4pm, Sat–Sun Closed",
+      "menuUrl": "https://www.doordash.com/store/golden-9th-deli-and-market-san-mateo-386031/",
+      "priceRange": "$$",
+      "keywords": [
+        "deli",
+        "sandwiches",
+        "lunch",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJh1Pinbedj4ARfPkf5TbAlbI",
+      "formattedAddress": "1119 N Amphlett Blvd, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5862903,
+        "longitude": -122.33338920000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12868402852285905276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.goldenboypizza.com/",
+      "displayName": {
+        "text": "Golden Boy Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "phone": "(650) 315-2988",
+      "description": "Serving Sanfrancilian style focaccia-dough pizza by slice or sheet since 1978.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Golden Boy Pizza Small.jpeg",
+      "hours": "Mon–Tue Closed, Wed–Thu 12pm–8pm, Fri–Sat 12pm–9pm, Sun 12pm–8pm",
+      "menuUrl": "https://www.goldenboypizza.com/menu",
+      "priceRange": "$",
+      "keywords": [
+        "pizza",
+        "fast casual",
+        "counter service",
+        "late night"
+      ]
+    },
+    {
+      "id": "ChIJj_rGBD6fj4AR2yxHbCg-99Y",
+      "formattedAddress": "19 Laurie Meadows Dr, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.531068499999996,
+        "longitude": -122.287394
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15489917786700328155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://themenustar2.com/webspace/menus.php?code=orderguadalajaragrill.com",
+      "displayName": {
+        "text": "Guadalajara Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 573-6933",
+      "description": "Tasty food delivered to your office with corporate accounts available.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Guadalajara Grill Small.jpeg",
+      "hours": "Mon–Sat 8am–10pm, Sun 8am–9pm",
+      "menuUrl": "https://themenustar2.com/webspace/menus.php?code=orderguadalajaragrill.com",
+      "priceRange": "$",
+      "keywords": [
+        "mexican",
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJrTqCc3Cej4ARB1BoBxdHsFw",
+      "formattedAddress": "329 S Ellsworth Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.56455,
+        "longitude": -122.322491
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6678916411624542215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.gyu-kaku.com/san-mateo",
+      "displayName": {
+        "text": "Gyu-Kaku Japanese BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Gyu-Kaku Japanese BBQ Small.jpeg",
+      "phone": "(650) 343-3255",
+      "description": "Grill premium meats over flaming charcoal at your own table.",
+      "hours": "Mon–Thu 5:00pm–9:15pm, Fri–Sat 11:30am–9:45pm, Sun 11:30am–9:15pm",
+      "menuUrl": "https://www.yelp.com/menu/gyu-kaku-japanese-bbq-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese bbq",
+        "tabletop grill",
+        "happy hour",
+        "groups",
+        "soju",
+        "sake"
+      ]
+    },
+    {
+      "id": "ChIJ01Fn83Cej4ARB9X33o7q96k",
+      "displayName": {
+        "text": "Happy Lamb Hot Pot",
+        "languageCode": "en"
+      },
+      "formattedAddress": "215 S Ellsworth Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12247515611004392711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://happylambhotpot.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 343-2566",
+      "hours": "Mon–Sun 11:30am–10:00pm",
+      "priceRange": "$$",
+      "description": "Renowned for six hour bone broth and no dipping sauce approach.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Happy Lamb Small.jpeg",
+      "keywords": [
+        "hot pot",
+        "chinese",
+        "groups",
+        "family style",
+        "vegetarian options"
+      ]
+    },
+    {
+      "id": "ChIJ14OHaoeej4ARQa1Xvrjqfoo",
+      "formattedAddress": "1446 Cary Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5706827,
+        "longitude": -122.30954809999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9979671903487896897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Harry's Shoreview Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Harrys Deli Small.jpeg",
+      "phone": "(650) 348-4009",
+      "hours": "Mon–Sat 10am–5pm, Sun 11am–4pm",
+      "menuUrl": "https://www.allmenus.com/ca/san-mateo/781615-harrys-shoreview-deli/menu/",
+      "priceRange": "$",
+      "keywords": [
+        "deli",
+        "sandwiches",
+        "breakfast",
+        "lunch",
+        "counter service",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJC9ir5_eej4ARSXbY44ty6Po",
+      "formattedAddress": "1941 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.548991699999995,
+        "longitude": -122.31025529999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18079826649227490889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://heidipies.com/",
+      "displayName": {
+        "text": "Heidi's Pies Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Heidis Pies Small.jpeg",
+      "phone": "(650) 574-0505",
+      "description": "Bay Area's best pies made from scratch using fresh fruit.",
+      "hours": "Open 24 hours",
+      "menuUrl": "https://www.heidipies.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "breakfast",
+        "brunch",
+        "family friendly",
+        "pie",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJ3xfY7XCej4ARxv7jAZpvKII",
+      "formattedAddress": "202 2nd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.565819399999995,
+        "longitude": -122.32376020000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9378868931246423750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://himawari-ramen.com/",
+      "displayName": {
+        "text": "Himawari",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Wakuriya Small.jpeg",
+      "phone": "(650) 375-1005",
+      "description": "Offers gluten-free noodles and multiple ramen broth options including shoyu.",
+      "hours": "Mon–Sun 11:30am–2pm, 5pm–9pm; Fri–Sat 11:30am–2pm, 5pm–9:30pm",
+      "menuUrl": "https://www.himawari-ramen.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "ramen",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJj9XMWTmfj4ARiNEt81wYJcU",
+      "displayName": {
+        "text": "HiroNori Craft Ramen",
+        "languageCode": "en"
+      },
+      "formattedAddress": "211 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14205787387106021768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hironori.com/san-mateo",
+      "location": {},
+      "cuisine": "Japanese",
+      "phone": "(650) 242-1223",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–10pm",
+      "priceRange": "$$",
+      "description": "Original ramen noodles fresh-cut every morning with 24-hour simmered broth.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hiro Nori Small.jpeg",
+      "keywords": [
+        "ramen",
+        "tonkotsu",
+        "craft ramen",
+        "vegan options"
+      ]
+    },
+    {
+      "id": "ChIJcSNm1sGdj4ARp19r8dgKWYY",
+      "formattedAddress": "1012 Howard Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.585788,
+        "longitude": -122.333264
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9680780800889151399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hotwokbistrosm.com/",
+      "displayName": {
+        "text": "Hot Wok Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "phone": "(650) 548-1758",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hot wok Bistro Small.jpeg",
+      "hours": "Mon–Sat 11:30am–9pm, Sun 4pm–9pm",
+      "menuUrl": "https://hotwokbistrosanmateoca.com/hot-wok-bistro/menu/1012-Howard-Ave/",
+      "priceRange": "$",
+      "keywords": [
+        "chinese",
+        "wok",
+        "fast casual",
+        "counter service",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJeYxGt3Gej4ARWlGEOdBa0LE",
+      "formattedAddress": "33 E 3rd Ave #4010, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5635154,
+        "longitude": -122.32548969999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12812840790233731418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hotaru-restaurant.com/",
+      "displayName": {
+        "text": "Hotaru Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hotaru Small.jpeg",
+      "phone": "(650) 343-1152",
+      "description": "Authentic Japanese sushi and home-style Japanese food in San Mateo.",
+      "hours": "Mon–Sat 11:30am–2pm, 5:30pm–9pm; Sun 11:30am–2pm, 5:30pm–8pm",
+      "menuUrl": "https://www.hotaru-restaurant.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "izakaya",
+        "sake",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJ5VNLDnCej4ARf6DmmGYOkxg",
+      "formattedAddress": "150 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5638475,
+        "longitude": -122.322638
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1770774912301441151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eatathummus.com/",
+      "displayName": {
+        "text": "Hummus Mediterranean Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hummus Small.jpeg",
+      "phone": "(650) 401-6903",
+      "description": "Fresh food made in-house with naturally-raised meats slow-roasted rotisserie style.",
+      "hours": "Mon–Thu 10:30am–9:30pm, Fri–Sat 10:30am–9:30pm, Sun 10:30am–9pm",
+      "priceRange": "$$",
+      "keywords": [
+        "mediterranean wraps",
+        "falafel",
+        "hummus",
+        "halal",
+        "vegetarian options",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJmzr6Snqej4ARKnXwd1B3-lM",
+      "formattedAddress": "680 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5674555,
+        "longitude": -122.3193179
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6051280236819019050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ikesplacesanmateo.com/",
+      "displayName": {
+        "text": "Ike's Place",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "phone": "(650) 375-8900",
+      "description": "Hot sandwiches on Dutch Crunch bread with famous Dirty Sauce.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ikes Place Small.jpeg",
+      "hours": "Mon–Sun 10am–7pm",
+      "menuUrl": "https://www.ikesplacesanmateo.com/menu",
+      "priceRange": "$",
+      "keywords": [
+        "sandwiches",
+        "fast casual",
+        "counter service",
+        "vegan options",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJ7yCNNyufj4AR4t1ACpzILO4",
+      "formattedAddress": "35 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5635769,
+        "longitude": -122.32546839999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17162312852514594274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://qrcode.chowbus.com/?code=UZNzey",
+      "displayName": {
+        "text": "Izakaya Fusion Grill Keitan",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Izakaya Fusion Grill Keitan Small.jpeg",
+      "phone": "(650) 242-1432",
+      "description": "Binchotan-grilled yakitori with daily happy hour and karaoke room experience.",
+      "hours": "Mon–Thu 5pm–11:30pm, Fri–Sat 5pm–1am, Sun 5pm–11:30pm",
+      "menuUrl": "https://pos.chowbus.com/online-ordering/store/14869",
+      "priceRange": "$$",
+      "keywords": [
+        "izakaya",
+        "sake",
+        "sushi",
+        "happy hour",
+        "small plates",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJY2V3mXqej4AR-nm6ZMkV3XM",
+      "formattedAddress": "301 E 4th Ave E, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5649389,
+        "longitude": -122.32156669999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8348853238937319930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://izakayaginji.com/",
+      "displayName": {
+        "text": "Izakaya Ginji",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ginji Small.jpeg",
+      "phone": "(650) 348-1110",
+      "description": "Modern and globally inspired dishes with comfort in homestyle cooking.",
+      "hours": "Mon–Thu 4pm–9pm, Fri–Sat 4pm–9:30pm, Sun Closed",
+      "menuUrl": "https://izakayaginji.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "izakaya",
+        "sake",
+        "small plates",
+        "date night",
+        "happy hour"
+      ]
+    },
+    {
+      "id": "ChIJcUAq7XCej4ARXAQVeV53NVI",
+      "formattedAddress": "212 2nd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5659546,
+        "longitude": -122.32348990000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5923772132517807196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.online/business/izakaya-mai-104768",
+      "displayName": {
+        "text": "Izakaya Mai",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Izakaya Mai Small.jpeg",
+      "phone": "(650) 347-2511",
+      "hours": "Mon–Sun 6pm–12am",
+      "menuUrl": "https://www.yelp.com/menu/izakaya-mai-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "izakaya",
+        "sake",
+        "small plates",
+        "happy hour",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJCzbe2Viej4ARxdm0aQzctUo",
+      "displayName": {
+        "text": "Jack's Restaurant & Bar",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1750 S El Camino Real, San Mateo, CA 94402, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5383450875462474181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ilovejacks.com/",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "american",
+        "bar",
+        "happy hour",
+        "brunch",
+        "groups"
+      ],
+      "menuUrl": "https://www.ilovejacks.com/san-mateo-menus",
+      "phone": "(650) 350-1077",
+      "hours": "Mon–Thu 8am–9pm, Fri–Sat 8am–10pm, Sun 8am–9pm",
+      "priceRange": "$$",
+      "description": "Extensive menu reflecting Greek-American heritage with genuine old-school hospitality.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Jacks Small.jpeg"
+    },
+    {
+      "id": "ChIJJ5RD_Eh2j4ARJXCwvPBwjQY",
+      "formattedAddress": "42 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.567076,
+        "longitude": -122.32429250000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=472157715203911717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://jeffreyshamburgers.com/",
+      "displayName": {
+        "text": "Jeffrey's Hamburgers",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/san-mateo/Jeffreys Small.jpeg",
+      "phone": "(650) 348-8698",
+      "description": "Handmade burgers ground fresh daily from Certified Angus Beef.",
+      "hours": "Mon–Sun 11:00am–8:00pm",
+      "menuUrl": "https://www.jeffreyshamburgers.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "burgers",
+        "family friendly",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJ__3YvAKfj4ARV1pq8xK3ggQ",
+      "formattedAddress": "2925 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5403211,
+        "longitude": -122.30079280000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=325023415145224791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.jerseymikes.com/20155/san-mateo-ca?utm_source=google&utm_medium=organic&utm_campaign=listings",
+      "displayName": {
+        "text": "Jersey Mike's Subs",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "phone": "(650) 345-4400",
+      "description": "High quality meats and cheese sliced fresh with store baked bread.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Jersey Mike's Subs Small.jpeg",
+      "hours": "Mon–Sun 10am–8:30pm",
+      "menuUrl": "https://www.jerseymikes.com/menu",
+      "priceRange": "$",
+      "keywords": [
+        "sandwiches",
+        "fast casual",
+        "counter service",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJ19n6fQCfj4AR09dCkKsNpTg",
+      "displayName": {
+        "text": "Johnny’s",
+        "languageCode": "en"
+      },
+      "formattedAddress": "7 N B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4081683667792091091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.johnnyshmb.com/",
+      "location": {},
+      "cuisine": "Breakfast",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "family friendly"
+      ],
+      "menuUrl": "https://www.toasttab.com/local/order/johnnys-san-mateo/r-a38d1c27-5035-4575-9b55-a50ca778a6b2",
+      "phone": "(650) 520-2323",
+      "hours": "Mon–Sun 8am–2pm",
+      "priceRange": "$$",
+      "description": "They bake every pie and give lifesavers to well behaved young diners.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Johnnys Small.jpeg"
+    },
+    {
+      "id": "ChIJsRSv03Cej4ARF2eZmKCM258",
+      "formattedAddress": "30 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5672346,
+        "longitude": -122.32449709999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11518955093313021719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://joy-sushi.com/",
+      "displayName": {
+        "text": "Joy Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Joy Sushi Small.jpeg",
+      "phone": "(650) 340-8974",
+      "description": "Celebrating 20 years serving good food and treating everyone like family.",
+      "hours": "Mon 4:30pm–9pm, Tue–Sat 11am–2pm, 4:30pm–9pm (Tue–Thu 9pm, Fri–Sat 11pm), Sun 4:30pm–9pm",
+      "menuUrl": "https://joysushi.menu11.com/mateo/order",
+      "priceRange": "$$",
+      "keywords": [
+        "sushi",
+        "sashimi",
+        "family friendly",
+        "sake"
+      ]
+    },
+    {
+      "id": "ChIJoRzWonufj4ARgwyltSJXaP4",
+      "displayName": {
+        "text": "Kajiken",
+        "languageCode": "en"
+      },
+      "formattedAddress": "112 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=18331998089799601283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.kajikenusa.com/",
+      "location": {},
+      "cuisine": "Japanese",
+      "keywords": [
+        "mazemen",
+        "ramen",
+        "japanese noodles",
+        "vegan options",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.kajikenusa.com/menu-1",
+      "phone": "(650) 458-3061",
+      "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–10pm, Sun 11am–9:30pm",
+      "priceRange": "$$",
+      "description": "Fresh homemade noodles with secret sauces and customizable toppings.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kajiken Small.jpeg"
+    },
+    {
+      "id": "manual_1778251321614",
+      "displayName": {
+        "text": "Kaz Teriyaki Grill",
+        "languageCode": "en"
+      },
+      "formattedAddress": "71 E 4th Ave",
+      "googleMapsUri": "https://www.google.com/maps/place/kaz,+san+mateo/data=!4m2!3m1!1s0x808f9e703c57c823:0x693add8b1a724499?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "https://order.toasttab.com/online/kaz-teriyaki-grill-new",
+      "location": {},
+      "cuisine": "Japanese",
+      "keywords": [
+        "curry",
+        "bento",
+        "bowls"
+      ],
+      "menuUrl": "https://order.toasttab.com/online/kaz-teriyaki-grill-new",
+      "phone": "(650) 347-5777",
+      "hours": "Mon-Sat 11am-8pm, Sun 11am-7pm",
+      "priceRange": "$",
+      "description": "Very affordable, window service Japanese cuisine. Grab and go: Bento Box, Curry, Bowls, Noodles. Known for great service and friendly staff.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kaz Teriyaki Grill Small.jpeg"
+    },
+    {
+      "id": "ChIJe0yiisOfj4ARtrCmoqvdKeA",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16152685267778973878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sanmateofoodmall.com/",
+      "displayName": {
+        "text": "Kazu Sushi and Sando",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 519-2283",
+      "description": "Family-owned business serving omakase boxes and milk bread sandos.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "hours": "Mon 11am–7:30pm, Tue Closed, Wed–Fri 11am–7:30pm, Sat–Sun 12pm–8pm",
+      "priceRange": "$$",
+      "keywords": [
+        "sushi",
+        "sando",
+        "sandwiches",
+        "fast casual",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJc8JISACfj4ARpxD6dtUFFf8",
+      "formattedAddress": "32 42nd Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5301715,
+        "longitude": -122.2902986
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18380603868564820135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kodawarisushi.com/",
+      "displayName": {
+        "text": "Kodawari Japanese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 315-2023",
+      "description": "Sushi bar and yakitori with private tatami room dining.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kodawari Japanese Cuisine Small.jpeg",
+      "hours": "Mon–Thu 4:30pm–9pm, Fri–Sat 4:30pm–9:30pm, Sun 4:30pm–9pm",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "omakase",
+        "sushi",
+        "date night",
+        "sake"
+      ]
+    },
+    {
+      "id": "ChIJi1zXD3qej4ARz_SZHSId8Zc",
+      "displayName": {
+        "text": "Kokko",
+        "languageCode": "en"
+      },
+      "formattedAddress": "509 2nd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10948564201477108943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Other",
+      "keywords": [
+        "korean",
+        "fast casual",
+        "counter service"
+      ],
+      "menuUrl": "https://yakitori-kokko.res-menu.net/menu",
+      "phone": "(650) 401-7008",
+      "hours": "Mon–Tue Closed, Wed–Sun 5:30pm–10:30pm",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Kokko Small.jpeg"
+    },
+    {
+      "id": "ChIJu9fnfEGfj4AReN6R333JaPA",
+      "formattedAddress": "1214 S El Camino Real, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.555591,
+        "longitude": -122.31808140000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17323317509139586680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.lacasadeloshuevos.com/",
+      "displayName": {
+        "text": "La Casa de Los Huevos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/La Casa De Los Huevos Small.jpeg",
+      "phone": "(650) 271-6678",
+      "description": "Authentic Sinaloa breakfast and dinner with café de olla daily.",
+      "hours": "Mon–Sun 8am–9pm",
+      "menuUrl": "https://www.lacasadeloshuevos.com/menus",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican breakfast",
+        "brunch",
+        "family friendly",
+        "eggs"
+      ]
+    },
+    {
+      "id": "ChIJ7e-JFfmej4AROyDsovvnp_U",
+      "formattedAddress": "2310 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.545231,
+        "longitude": -122.30684199999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17701371928359215163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lafondasanmateo.com/",
+      "displayName": {
+        "text": "La Fonda de San Mateo",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/La Fonda Small.jpeg",
+      "phone": "(650) 574-9699",
+      "description": "Experience happiness through their signature warm tortillas and authentic Mexican cuisine.",
+      "hours": "Mon Closed, Tue–Thu 11:30am–2pm, 5pm–9pm, Fri 11:30am–2pm, 5pm–10pm, Sat 5pm–10pm, Sun 5pm–9pm",
+      "menuUrl": "https://www.lafondasanmateo.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican",
+        "family friendly",
+        "margaritas",
+        "tacos"
+      ]
+    },
+    {
+      "id": "ChIJVWjBMv-ej4ARSMCgAcSHQ0E",
+      "formattedAddress": "180 W 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.543492199999996,
+        "longitude": -122.3087981
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4702751711815581768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://lalanternasanmateo.com/",
+      "displayName": {
+        "text": "La Lanterna Ristorante",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-mateo/La Lanterna Small.jpeg",
+      "phone": "(650) 341-8877",
+      "description": "Family-run restaurant serving traditional Italian dishes with nightly specials.",
+      "hours": "Mon Closed, Tue–Fri 11:30am–2pm & 5pm–9pm, Sat–Sun 5pm–9pm",
+      "menuUrl": "https://lalanternasanmateo.com/dinner",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "date night",
+        "wine list"
+      ]
+    },
+    {
+      "id": "ChIJ39pZ9naej4ARh1YP9Q7b6yw",
+      "displayName": {
+        "text": "La Piñata",
+        "languageCode": "en"
+      },
+      "formattedAddress": "120 N B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=3236921614483281543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orderlapinata.com/",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "mexican",
+        "family friendly",
+        "margaritas",
+        "tacos"
+      ],
+      "menuUrl": "http://orderlapinata.com/",
+      "phone": "(650) 344-5722",
+      "hours": "Mon–Sun 10am–9pm",
+      "priceRange": "$$",
+      "description": "Fresh Salvadorian and Latin American family recipes made with love.",
+      "photoUrl": "images/restaurant-photos/san-mateo/La Pinata Small.jpeg"
+    },
+    {
+      "id": "ChIJ1Y7oOkCfj4AR84UxeQWgh0c",
+      "formattedAddress": "224 E Hillsdale Blvd E, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5410602,
+        "longitude": -122.2910781
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5154264243917391347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.larondamarina.com/",
+      "displayName": {
+        "text": "La Ronda Restaurant Peruvian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Peruvian",
+      "phone": "(650) 389-7495",
+      "description": "They serve fresh vegetables, seafood, and meats at reasonable prices.",
+      "photoUrl": "images/restaurant-photos/san-mateo/La Ronda Restaurant Small.jpeg",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 9am–10pm, Sun 9am–9pm",
+      "priceRange": "$$",
+      "keywords": [
+        "peruvian",
+        "ceviche",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJ45zmZ3qej4ARcQEvOh9jrlQ",
+      "formattedAddress": "92 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5640274,
+        "longitude": -122.32430099999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6101923530904895857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Las Palomas Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/Los Palomas Taqueria Small.jpeg",
+      "phone": "(650) 343-9925",
+      "hours": "Mon–Sun 10am–9pm",
+      "menuUrl": "https://las-palomas-taqueria.res-menu.com/menu",
+      "priceRange": "$",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJUSuYArmfj4ARrq1hjNw2KwQ",
+      "formattedAddress": "2208 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "location": {
+        "latitude": 37.5605113,
+        "longitude": -122.2830974
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=300394121026186670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lazydogrestaurants.com/pages/san-mateo-ca",
+      "displayName": {
+        "text": "Lazy Dog Restaurant & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lazy Dog Small.jpeg",
+      "phone": "(650) 514-6772",
+      "description": "Handcrafted American food with happy hour drinks starting at three dollars.",
+      "hours": "Mon–Fri 11am–12am, Sat–Sun 10am–12am",
+      "menuUrl": "https://orders.lazydogrestaurants.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "outdoor seating",
+        "family friendly",
+        "happy hour",
+        "brunch",
+        "craft beer",
+        "groups",
+        "kids menu"
+      ]
+    },
+    {
+      "id": "manual_leos_tacos_truck_san_mateo",
+      "displayName": {
+        "text": "Leo's Tacos Truck (Food Truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1990 S El Camino Real, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Leo%27s+Tacos+Truck+San+Mateo",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck",
+        "tacos",
+        "al pastor",
+        "burritos",
+        "late night",
+        "counter service"
+      ],
+      "phone": "",
+      "hours": {
+        "Monday": "12:00 PM – 11:00 PM",
+        "Tuesday": "12:00 PM – 11:00 PM",
+        "Wednesday": "12:00 PM – 11:00 PM",
+        "Thursday": "12:00 PM – 11:00 PM",
+        "Friday": "12:00 PM – 12:00 AM",
+        "Saturday": "12:00 PM – 12:00 AM",
+        "Sunday": "12:00 PM – 11:00 PM"
+      },
+      "priceRange": "$",
+      "description": "LA-born al pastor taco truck with a permanent San Mateo spot on El Camino Real. Known for tender spit-roasted pork, housemade salsas, and some of the best tacos on the Peninsula.",
+      "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"
+    },
+    {
+      "id": "ChIJT1h6HgCfj4ARgnzghvthQ78",
+      "displayName": {
+        "text": "Li's Knife Cut Noodle",
+        "languageCode": "en"
+      },
+      "formattedAddress": "121 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13781967017611394178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://lisnoodle.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 458-3020",
+      "hours": "Mon–Thu 11am–3pm, 5pm–8:30pm, Fri–Sat 11am–3pm, 5pm–9pm, Sun 11am–3pm, 5pm–8:30pm",
+      "priceRange": "$",
+      "description": "Handmade noodles cut with rhythmic precision bring comforting home flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lis Knife :cut Noodle Small.jpeg",
+      "keywords": [
+        "hand-pulled noodles",
+        "chinese noodles",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJUbQYn8Sfj4AR4Ewh5cOk788",
+      "formattedAddress": "777 Mariners Island Blvd STE 170, San Mateo, CA 94404, USA",
+      "location": {
+        "latitude": 37.5621565,
+        "longitude": -122.28612189999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14983375646554672352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://littlelatebird.com/",
+      "displayName": {
+        "text": "Little Late Bird",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Little Late Bird Small.jpeg",
+      "phone": "(650) 520-5650",
+      "description": "Fresh sandwiches, boba, coffee and Korean-inspired brunch dishes.",
+      "hours": "Mon–Fri 7:30am–4pm, Sat–Sun 9am–4pm",
+      "menuUrl": "https://littlelatebird.square.site/s/order",
+      "priceRange": "$$",
+      "keywords": [
+        "cafe",
+        "brunch",
+        "coffee",
+        "pastries",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJv2lTRnCej4ARxfGlAqjhuoo",
+      "displayName": {
+        "text": "Liuyishou Hotpot",
+        "languageCode": "en"
+      },
+      "formattedAddress": "98 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9996550434617422277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://liuyishouna.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 242-1245",
+      "hours": "Mon–Fri 11:30am–2:30pm, 5pm–10pm, Sat 11:30am–11pm, Sun 11:30am–10pm",
+      "priceRange": "$$",
+      "description": "Authentic hot pot with 1,200+ global locations and fashionable quality.",
+      "photoUrl": "images/restaurant-photos/san-mateo/LiuYishou Hot Pot Small.jpeg",
+      "keywords": [
+        "hot pot",
+        "sichuan",
+        "groups",
+        "family style"
+      ]
+    },
+    {
+      "id": "ChIJoShLt8Sfj4ARs7XSoeedP98",
+      "formattedAddress": "2948 S Norfolk St, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5450625,
+        "longitude": -122.28505890000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16086750012168648115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://lobsterchefca.com/",
+      "displayName": {
+        "text": "Lobster Chef",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lobster Chef Small.jpeg",
+      "phone": "(650) 315-2218",
+      "description": "Louisiana Cajun seafood boil with refreshing real fruit smoothies.",
+      "hours": "Mon Closed, Tue–Sat 4pm–8:30pm, Sun 4pm–8:30pm",
+      "menuUrl": "https://www.lobsterchefus.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese seafood",
+        "lobster",
+        "groups",
+        "special occasion",
+        "family style"
+      ]
+    },
+    {
+      "id": "manual_los_carnalitos_san_mateo",
+      "displayName": {
+        "text": "Los Carnalitos (Food Truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2901 S Norfolk St, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Los+Carnalitos+San+Mateo",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck",
+        "tacos",
+        "burritos",
+        "quesabirria",
+        "al pastor",
+        "counter service"
+      ],
+      "phone": "(650) 483-2185",
+      "hours": {
+        "Monday": "10:00 AM – 9:00 PM",
+        "Tuesday": "10:00 AM – 9:00 PM",
+        "Wednesday": "10:00 AM – 9:00 PM",
+        "Thursday": "10:00 AM – 9:00 PM",
+        "Friday": "10:00 AM – 9:00 PM",
+        "Saturday": "10:00 AM – 9:00 PM",
+        "Sunday": "Closed"
+      },
+      "priceRange": "$",
+      "description": "Beloved South San Mateo taco truck serving authentic Mexican street food six days a week. A neighborhood staple for tacos, burritos, and quesabirria at everyday prices.",
+      "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"
+    },
+    {
+      "id": "ChIJwxA8VHafj4ARKLBAwmlzO_o",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18031132431175692328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lotusandlime.com/",
+      "displayName": {
+        "text": "Lotus and Lime",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "phone": "(650) 667-8877",
+      "description": "Thai and Vietnamese-inspired purple rice bowls with Wagyu beef.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "hours": "Mon–Fri 9am–11:30pm, Sat–Sun 10:30am–11:30pm",
+      "menuUrl": "https://lotusandlime.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "fusion",
+        "healthy options",
+        "lunch",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJLZhr0v6ej4ARAP-hT1EdtdY",
+      "formattedAddress": "109 W 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5436294,
+        "longitude": -122.30723809999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15471304329966780160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lucetison25thave.com/",
+      "displayName": {
+        "text": "LUCETI'S on 25th",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lucetis Small.jpeg",
+      "phone": "(650) 574-1256",
+      "description": "Italian cuisine created by world-class chef and awarded San Franciscan Roger Bertola.",
+      "hours": "Mon–Closed, Tue–Thu 11:30am–2:30pm & 4:30pm–9pm, Thu 11:30am–3pm & 4:30pm–9:30pm, Fri 11:30am–3pm & 4:30pm–9:30pm, Sat 4:30pm–9:30pm, Sun 4:30pm–9pm",
+      "menuUrl": "http://www.lucetison25thave.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "date night",
+        "wine list",
+        "romantic"
+      ]
+    },
+    {
+      "id": "ChIJOTbfdHCej4ARIab_uDLZJr0",
+      "displayName": {
+        "text": "M sandwiches Cafe",
+        "languageCode": "en"
+      },
+      "formattedAddress": "205 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13629820134158738977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://m-sandwiches.com/",
+      "location": {},
+      "cuisine": "Vietnamese",
+      "phone": "(650) 931-4181",
+      "hours": "Mon–Sun 9:30am–4:00pm",
+      "priceRange": "$$",
+      "description": "Authentic French-Vietnamese bánh mì with house-made pâté and grilled meats.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Banh Mi M- Sandwiches Small.jpeg",
+      "keywords": [
+        "vietnamese sandwiches",
+        "banh mi",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJDc_SPM2fj4AR3I0cYL0JLcc",
+      "displayName": {
+        "text": "MalaTown Express",
+        "languageCode": "en"
+      },
+      "formattedAddress": "77 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14352138296465591772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 541-6666",
+      "hours": "Mon–Sun 11:30am–9:30pm",
+      "priceRange": "$$",
+      "description": "Authentic malatang with customizable bowls at only $9.99 per pound.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mala Town Express Small.jpeg",
+      "keywords": [
+        "mala",
+        "sichuan",
+        "spicy noodles",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJwRwXQIeej4ARW7apZkKr0vg",
+      "formattedAddress": "1452 Cary Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5707498,
+        "longitude": -122.30948339999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17929581368193955419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Maria's Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-mateo/Marias Small.jpeg",
+      "phone": "(650) 343-8930",
+      "hours": "Mon–Sun 9:30am–8pm",
+      "menuUrl": "https://www.allmenus.com/ca/san-mateo/798818-marias-restaurant/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "family friendly",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJxyjrMZadj4AR6-EYjcTmpBs",
+      "formattedAddress": "19 N Kingston St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5747117,
+        "longitude": -122.31698859999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1991970667059798507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mariscoselajoyano.com/",
+      "displayName": {
+        "text": "Mariscos El Ajoyano",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 513-9604",
+      "description": "They serve authentic ceviche and fresh Sinaloa style seafood dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mariscos El Ajoyano Small.jpeg",
+      "hours": "Mon 10:30am–9pm, Tue Closed, Wed–Sun 10:30am–9pm",
+      "menuUrl": "https://www.mariscoselajoyano.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican seafood",
+        "mariscos",
+        "tacos",
+        "ceviche",
+        "shrimp"
+      ]
+    },
+    {
+      "id": "ChIJERZ2ZWWdj4ARCAAjBDaa2_Q",
+      "formattedAddress": "851 N San Mateo Dr, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5764971,
+        "longitude": -122.33832649999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17643865521942364168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mateopizza.com/",
+      "displayName": {
+        "text": "Mateo Pizza Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Meteo Pizza Small.jpeg",
+      "phone": "(650) 210-7616",
+      "description": "New York-style halal pizzas with Turkish influence and fresh ingredients.",
+      "hours": "Mon–Sun 11:00am–1:30am",
+      "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/mateo-pizza/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "family friendly",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJ7TKz_xmfj4ARtQgGqsBFIBQ",
+      "displayName": {
+        "text": "Maverick Jack's",
+        "languageCode": "en"
+      },
+      "formattedAddress": "4000 S El Camino Real, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1450235773801859253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.maverickjacks.com/",
+      "location": {},
+      "cuisine": "American",
+      "phone": "(650) 458-0020",
+      "hours": "Mon–Fri 11am–8pm, Sat 11am–9pm, Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "They use the best ingredients in a lively atmosphere.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Maverick Jack's Small.jpeg",
+      "keywords": [
+        "american",
+        "bar",
+        "sports bar",
+        "happy hour",
+        "burgers"
+      ]
+    },
+    {
+      "id": "ChIJh8qOgm2fj4ARSJdJF-9ehwo",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=758679443216111432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mbsplace.com/",
+      "displayName": {
+        "text": "MB's Place",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "phone": "(415) 748-4222",
+      "description": "Mobile food trailer serving award-winning BBQ and soul food.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "hours": "Wed 12pm–7pm, Fri–Sat 12pm–7pm, Mon–Tue closed, Thu closed, Sun closed",
+      "menuUrl": "https://www.mbsplace.com/shop",
+      "priceRange": "$",
+      "keywords": [
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJN0qhdXCej4ARGQmAoMQCf9c",
+      "formattedAddress": "215 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5645241,
+        "longitude": -122.3220992
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15528133083726350617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mcgovernssanmateo.com/",
+      "displayName": {
+        "text": "McGovern's Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-mateo/McGoverns Small.jpeg",
+      "phone": "(650) 372-5335",
+      "description": "Irish pub atmosphere with influences from all over the world.",
+      "hours": "Mon Closed, Tue 7pm–2am, Wed–Sat 5pm–2am, Sun 7pm–2am",
+      "priceRange": "$$",
+      "keywords": [
+        "bar",
+        "sports bar",
+        "happy hour",
+        "late night",
+        "pub food"
+      ]
+    },
+    {
+      "id": "ChIJGQ9jzuGej4AR3OtzvOFkgzA",
+      "formattedAddress": "1060 Park Pl, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5447299,
+        "longitude": -122.29143140000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3495748656461769692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mendocinofarms.com/locations/san-mateo",
+      "displayName": {
+        "text": "Mendocino Farms",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "phone": "(650) 332-8300",
+      "description": "Fresh ingredients and fearless flavor combinations create unexpected culinary adventures.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mendocino Farms Small.jpeg",
+      "hours": "Mon–Sun 10am–9pm",
+      "menuUrl": "https://order.mendocinofarms.com/menu/san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "sandwiches",
+        "salads",
+        "healthy options",
+        "lunch",
+        "vegetarian options",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJx8042Qafj4ARPEMbdQDvnMM",
+      "displayName": {
+        "text": "Mikiya Wagyu Shabu House",
+        "languageCode": "en"
+      },
+      "formattedAddress": "68 Hillsdale Mall, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14095403719006569276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mikiyashabu.com/project/san-mateo-ca/",
+      "location": {},
+      "cuisine": "Japanese",
+      "phone": "(650) 865-5665",
+      "hours": "Mon–Thu 11:30am–10pm, Fri 11:30am–11pm, Sat 11am–11pm, Sun 11am–10pm",
+      "priceRange": "$$$$",
+      "description": "Premium Wagyu sourced from their own Masami Ranch with umami-rich broth.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mikiya Small.jpeg",
+      "keywords": [
+        "wagyu beef",
+        "shabu shabu",
+        "japanese hot pot",
+        "special occasion",
+        "date night",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJ3VUJ3tKfj4ARIKA9t6cIdzE",
+      "formattedAddress": "123 W 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5434577,
+        "longitude": -122.3076048
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3564327146513866784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ordertogo.com/restaurants/missshangsm/mesh",
+      "displayName": {
+        "text": "Miss Shang-San Mateo",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Miss Shang Small.jpeg",
+      "phone": "(650) 727-3881",
+      "description": "Authentic Guizhou-style dishes and signature sour soup rice noodles shine.",
+      "hours": "Mon 11:30am–2pm, 5:30pm–9:30pm, Tue Closed, Wed–Sat 11:30am–2pm, 5:30pm–9:45pm, Sun 11:30am–2pm, 5:30pm–9:45pm",
+      "menuUrl": "https://www.yelp.com/biz/miss-shang-san-mateo-4",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "dim sum",
+        "family style",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJ4eTlvOifj4AR01DroTjRjGI",
+      "displayName": {
+        "text": "MIXT",
+        "languageCode": "en"
+      },
+      "formattedAddress": "301 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7101280753621356755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mixt.com/",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "salads",
+        "healthy options",
+        "vegan options",
+        "vegetarian options",
+        "fast casual",
+        "lunch",
+        "gluten free options"
+      ],
+      "menuUrl": "https://www.mixt.com/menu/mixt/",
+      "phone": "(415) 296-8009",
+      "hours": "Mon–Sun 10:30am–9pm",
+      "priceRange": "$$",
+      "description": "SF-born salad institution celebrating its 20th anniversary with its first Peninsula location. Fresh chef-crafted salads and grain bowls made with locally sourced seasonal ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mixt Small.jpeg"
+    },
+    {
+      "id": "ChIJ0xuuKCOfj4ARsCiMailnXtU",
+      "displayName": {
+        "text": "Moonbowls (Healthy Korean Bowls)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15374839605468342448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.moonbowls.com/",
+      "location": {},
+      "cuisine": "Korean",
+      "phone": "(866) 692-9615",
+      "hours": "Mon–Sun 10am–10pm",
+      "priceRange": "$$",
+      "description": "High quality, gluten-free ingredients with numerous plant-based options available.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "keywords": [
+        "korean rice bowls",
+        "healthy options",
+        "fast casual",
+        "counter service",
+        "vegetarian options"
+      ]
+    },
+    {
+      "id": "ChIJYWbtt3Cej4ARfYjowhMuzB0",
+      "formattedAddress": "130 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.566994099999995,
+        "longitude": -122.3234192
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2147141784758159485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.curryupnow.com/mortarandpestlebar",
+      "displayName": {
+        "text": "Mortar & Pestle Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mortar & Pestle Small.jpeg",
+      "phone": "(650) 899-6669",
+      "description": "Handcrafted cocktails with Indian spices like garam masala and in-house syrups.",
+      "hours": "Mon–Thu 4pm–11pm, Fri–Sat 4pm–12am, Sun 4pm–10pm",
+      "menuUrl": "https://order.curryupnow.com/menu/curry-up-now-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "indian",
+        "cocktails",
+        "date night",
+        "happy hour",
+        "craft cocktails"
+      ]
+    },
+    {
+      "id": "ChIJt2p0sJWfj4ARAnNW1EHwWbo",
+      "formattedAddress": "154 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5664,
+        "longitude": -122.32357270000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13428027929507820290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mountainmikespizza.com/locations/san-mateo-ca/",
+      "displayName": {
+        "text": "Mountain Mike's Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mountain Mikes Pizza Small.jpeg",
+      "phone": "(650) 393-4799",
+      "description": "Home of legendary crispy curly pepperoni with fresh daily dough.",
+      "hours": "Mon–Thu 9am–12am, Fri–Sat 9am–1am, Sun 9am–12am",
+      "menuUrl": "https://www.mountainmikespizza.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "family friendly",
+        "delivery",
+        "kids menu"
+      ]
+    },
+    {
+      "id": "ChIJYf_SdHCej4ARmizgPvuXVx0",
+      "formattedAddress": "201 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.56445,
+        "longitude": -122.32231299999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2114325655421201562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mrpizzamansanmateo.com/",
+      "displayName": {
+        "text": "Mr Pizza Man San Mateo",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mr Pizza Man Small.jpeg",
+      "phone": "(650) 342-7088",
+      "description": "Uses domestic whole milk for sauce and hand-kneaded dough daily.",
+      "hours": "Mon–Wed 4pm–10pm, Thu 11am–10pm, Fri–Sat 11am–12am, Sun 11am–11pm",
+      "menuUrl": "https://www.mrpizzamansanmateo.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "delivery",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJyXgDJgCfj4ARuDWUSCzHkNw",
+      "formattedAddress": "100 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.566820899999996,
+        "longitude": -122.3241557
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15893422078000641464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mydumplingca.com/",
+      "displayName": {
+        "text": "MY Dumpling",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/My Dumpling Small.jpeg",
+      "phone": "(650) 667-8887",
+      "description": "Hand-crafted dumplings and traditional favorites like Kung Pao Chicken.",
+      "hours": "Mon–Fri 11am–3pm, 5pm–9pm, Sat–Sun 11am–9pm",
+      "menuUrl": "https://www.mydumplingca.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "dumplings",
+        "chinese",
+        "fast casual",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJJ2VXiyCfj4ARjRXqc3nCVhI",
+      "formattedAddress": "2968 S Norfolk St, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.544759299999996,
+        "longitude": -122.28492019999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1321457367571371405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tofucabin.com/",
+      "displayName": {
+        "text": "Myung Dong Tofu Cabin",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Myung Dong Tofu cabin Small.jpeg",
+      "phone": "(650) 525-1484",
+      "description": "Serving home-style Korean food since December 2007 with authentic dishes.",
+      "hours": "Mon–Sun 11:30am–8:00pm",
+      "menuUrl": "http://www.tofucabin.com/menumdtc.html",
+      "priceRange": "$$",
+      "keywords": [
+        "korean tofu soup",
+        "soondubu",
+        "fast casual",
+        "vegetarian options"
+      ]
+    },
+    {
+      "id": "ChIJz1gRjsifj4AR9Fq5_CAqEmw",
+      "formattedAddress": "114 De Anza Blvd, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.5213907,
+        "longitude": -122.33683200000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7787333026844334836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nealscoffeeshop.net/",
+      "displayName": {
+        "text": "Neal's Coffee Shop",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Neals Coffee Shop Small.jpeg",
+      "phone": "(650) 581-1754",
+      "description": "Nothing frozen, all pasta and chowder made from scratch.",
+      "hours": "Mon–Sun 7am–8pm",
+      "menuUrl": "http://places.singleplatform.com/neals-coffee-shop-0/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "cafe",
+        "coffee",
+        "counter service",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJb2cMDUyfj4ARMMNpFMGBlv8",
+      "formattedAddress": "200 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.566127699999996,
+        "longitude": -122.3232482
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18417050392449368880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.newthaielephant.com/",
+      "displayName": {
+        "text": "New Thai Elephant",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-mateo/New Thai Elephant Small.jpeg",
+      "phone": "(650) 431-0888",
+      "description": "Experienced chefs prepare authentic Thai dishes cooked to perfection.",
+      "hours": "Mon–Sun 11am–3pm, 4:30pm–9:30pm",
+      "menuUrl": "https://www.newthaielephant.com/menu-1",
+      "priceRange": "$$",
+      "keywords": [
+        "thai curry",
+        "pad thai",
+        "vegetarian options",
+        "takeout",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJ9wyeTXqej4ARYxWWs4z7o3s",
+      "formattedAddress": "640 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5671134,
+        "longitude": -122.31940719999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8909241069595923811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "New Wing Fat Chinese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "phone": "(650) 458-3248",
+      "photoUrl": "images/restaurant-photos/san-mateo/New Wing Fat Small.jpeg",
+      "hours": "Mon–Tue 11am–9pm, Wed Closed, Thu–Sat 11am–9pm, Sun 11am–9pm",
+      "menuUrl": "https://www.zmenu.com/new-wing-fat-san-mateo-online-menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "cantonese",
+        "chinese",
+        "family style",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJxd8KkXCej4ARzj6lIWQL8sg",
+      "formattedAddress": "219 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5661232,
+        "longitude": -122.3228954
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14479648276638678734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.newyorkpizza.biz/",
+      "displayName": {
+        "text": "New York Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/New York Pizza Small.jpeg",
+      "phone": "(650) 344-3444",
+      "description": "Fresh ingredients and New York-style pizza for over 31 years.",
+      "hours": "Mon–Thu 10am–11pm, Fri–Sat 10am–12am, Sun 10am–11pm",
+      "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/new-york-pizza-san-mateo/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "delivery",
+        "late night",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJsegTsX-fj4ARBGUV3a1Mntw",
+      "formattedAddress": "1324 W Hillsdale Blvd, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5335357,
+        "longitude": -122.3274522
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15897228044286649604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nickthegreek.com/",
+      "displayName": {
+        "text": "Nick The Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Nick The Greek SM Hills Small.jpeg",
+      "phone": "(650) 345-4976",
+      "description": "Fresh Greek street food with classic gyros and flavorful meals.",
+      "hours": "Mon–Sun 11am–10pm",
+      "menuUrl": "https://order.nickthegreek.com/san-mateo/menu",
+      "priceRange": "$",
+      "keywords": [
+        "gyros",
+        "falafel",
+        "fast casual",
+        "counter service",
+        "mediterranean"
+      ]
+    },
+    {
+      "id": "ChIJ30KkXSOfj4AR-BP4ArnxwN0",
+      "formattedAddress": "5 S Ellsworth Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.567075599999995,
+        "longitude": -122.3248422
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15979037254831576056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.no5house.com/",
+      "displayName": {
+        "text": "No.5 House",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/No. 5 House Small.jpeg",
+      "phone": "(650) 727-3142",
+      "description": "Authentic Chinese flavors with a modern twist for memorable dining.",
+      "hours": "Mon 10:30am–2:30pm, 5pm–9pm, Tue Closed, Wed–Fri 10:30am–2:30pm, 5pm–9pm, Sat–Sun 10:30am–9pm",
+      "menuUrl": "https://www.no5house.com/menu/",
+      "priceRange": "$",
+      "keywords": [
+        "chinese",
+        "noodles",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJkdufYMqfj4ARRzWEPAMY5T8",
+      "formattedAddress": "152 South Blvd, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.5546691,
+        "longitude": -122.31095099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4604112596235466055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nomasushi.kwickmenu.com/",
+      "displayName": {
+        "text": "Noma Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 393-4651",
+      "description": "Features creative sushi chefs who craft amazing custom dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Noma Small.jpeg",
+      "hours": "Sun 11am–2:30pm, 4:30pm–8:30pm, Mon 11am–2:30pm, 4:30pm–8:30pm, Tue Closed, Wed 11am–2:30pm, 4:30pm–8:30pm, Thu 11am–2:30pm, 4:30pm–8:30pm, Fri 11am–2:30pm, 4:30pm–9pm, Sat 11am–2:30pm, 4:30pm–9pm",
+      "menuUrl": "https://www.yelp.com/menu/noma-sushi-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "sushi",
+        "omakase",
+        "date night",
+        "sake"
+      ]
+    },
+    {
+      "id": "ChIJczpPDO2fj4ARYLg1dsNXlIs",
+      "formattedAddress": "240 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.565296499999995,
+        "longitude": -122.32238739999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10057760364838631520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://northbeachpizza.com/northbeachpizzasanmateo?utm_source=google",
+      "displayName": {
+        "text": "North Beach Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Noth Beach Pizza Small.jpeg",
+      "phone": "(650) 344-5000",
+      "description": "Hand-tossed thin crust and deep dish Chicago-style pizzas with house-made sauces.",
+      "hours": "Mon–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–10pm",
+      "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/north-beach-pizza/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "delivery",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJLaNBqrufj4ARUKZ5rvrIs9w",
+      "formattedAddress": "41 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5631896,
+        "longitude": -122.3242257
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15903275688169940560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.o2-valley.com/san-mateo/menu",
+      "displayName": {
+        "text": "O2 Valley",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-mateo/Os Valley Small.jpeg",
+      "phone": "(650) 653-1333",
+      "description": "Taiwanese fusion cuisine featuring bentos, grilled appetizers, and boba drinks.",
+      "hours": "Mon–Sun 11am–9pm",
+      "menuUrl": "https://order.o2-valley.com/san-mateo/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "bubble tea",
+        "chinese",
+        "dessert",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJJzUYqv6ej4ARdP1wPGk7IUA",
+      "formattedAddress": "2507 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.54432930000001,
+        "longitude": -122.30518309999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4621040015830482292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.oceanicrestaurantsanmateoca.com/",
+      "displayName": {
+        "text": "Oceanic Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Oceanic Small.jpeg",
+      "phone": "(650) 570-4234",
+      "hours": "Mon–Tue Closed, Wed–Sat 11am–9pm, Sun 12pm–9pm",
+      "menuUrl": "https://www.yelp.com/biz/oceanic-restaurant-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese seafood",
+        "dim sum",
+        "family style",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJ8aIuCACfj4ARSHJYREySoio",
+      "formattedAddress": "236 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.565766499999995,
+        "longitude": -122.3231079
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3072178752081916488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.olhsohouse.com/",
+      "displayName": {
+        "text": "OLHSO Korean BBQ House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ohlso Small.jpeg",
+      "phone": "(650) 781-3190",
+      "description": "Dine immersed in ambient projection mapping inspired by Korea's spirit.",
+      "hours": "Mon–Thu 11am–2pm, 5pm–9:30pm, Fri–Sat 11am–2pm, 5pm–10pm, Sun 11am–2pm, 5pm–10pm",
+      "menuUrl": "https://www.olhsohouse.com/menu",
+      "priceRange": "$$$$",
+      "keywords": [
+        "korean bbq",
+        "tabletop grill",
+        "groups",
+        "soju",
+        "special occasion"
+      ]
+    },
+    {
+      "id": "ChIJKfn1kpKfj4ARJ-KC-Uwze98",
+      "formattedAddress": "11 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.567647799999996,
+        "longitude": -122.3244765
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16103521298289975847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://ox9noodles.com/",
+      "displayName": {
+        "text": "Ox 9 Lanzhou Handpulled Noodles",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ox9 Small.jpeg",
+      "phone": "(650) 242-1790",
+      "hours": "Mon–Sun 11am–3pm, 5pm–9pm",
+      "menuUrl": "https://www.yelp.com/biz/ox-9-lanzhou-handpulled-noodles-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "hand-pulled noodles",
+        "lanzhou beef noodles",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJY5OlhXCej4ARTewMKKVfI2Q",
+      "formattedAddress": "243 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5659244,
+        "longitude": -122.32266010000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7215716190923844685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pacificcatch.com/",
+      "displayName": {
+        "text": "Pacific Catch",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pacific Catch Small.jpeg",
+      "phone": "(650) 389-2482",
+      "description": "Sustainable seafood with Pacific Rim flavors and Aloha-inspired hospitality.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://www.pacificcatch.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "sustainable seafood",
+        "fish tacos",
+        "healthy options",
+        "outdoor seating",
+        "happy hour",
+        "gluten free options"
+      ]
+    },
+    {
+      "id": "ChIJaftroqafj4ARP2AjcD1UhoQ",
+      "displayName": {
+        "text": "Palette Tea Garden & Dim Sum",
+        "languageCode": "en"
+      },
+      "formattedAddress": "48 Hillsdale Mall, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9549412682736820287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://paletteteagarden.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 769-8888",
+      "hours": "Mon–Thu 11:30am–8:30pm, Fri 11am–9pm, Sat 10:30am–9pm, Sun 10:30am–8:30pm",
+      "priceRange": "$$",
+      "description": "Modern dim sum featuring unique Iberico Cha Siu and Peking Duck.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Palette_TeaG Small.jpeg",
+      "keywords": [
+        "dim sum",
+        "cantonese",
+        "tea",
+        "family friendly",
+        "groups",
+        "brunch"
+      ]
+    },
+    {
+      "id": "ChIJiZQybSCfj4ARUQYiq9JS-yE",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2448641887173740113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://eatpalmita.com/sanmateo",
+      "displayName": {
+        "text": "Palmita",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 200-4859",
+      "description": "Entire menu is gluten and dairy free with made-from-scratch sauces.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "hours": "Mon–Fri 8am–11:30pm, Sat–Sun 10am–11:30pm",
+      "menuUrl": "https://www.yelp.com/menu/palmita-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican",
+        "tacos",
+        "burritos",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJ68Vvr0ydj4ARDrbmnB5DlC0",
+      "formattedAddress": "300 N San Mateo Dr, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.571253,
+        "longitude": -122.33105909999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3284323827020379662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Panther Brazilian Açai",
+        "languageCode": "pt"
+      },
+      "cuisine": "Brazilian",
+      "description": "Customizable açai bowls made with 100% organic ingredients and vegan options.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Panther Brazilian Small.jpeg",
+      "hours": "Mon–Sat 9am–6pm, Sun 2pm–6pm",
+      "menuUrl": "https://www.yelp.com/biz/panther-brazilian-acai-san-mateo",
+      "priceRange": "$",
+      "keywords": [
+        "acai bowls",
+        "brazilian",
+        "healthy options",
+        "vegan options",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJUUoh_hmfj4ARhQw2XfMXZQk",
+      "formattedAddress": "1855 S Delaware St, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.5532264,
+        "longitude": -122.3050689
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=676973652997442693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Pantry Family Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/the Pantry Small.jpeg",
+      "phone": "(650) 345-4544",
+      "hours": "Mon–Sun 7am–3pm",
+      "menuUrl": "https://order.online/store/the-pantry-917",
+      "priceRange": "$",
+      "keywords": [
+        "american",
+        "breakfast",
+        "brunch",
+        "family friendly",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJjcw0nnqej4ARvrndVxyQY60",
+      "formattedAddress": "223 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5647072,
+        "longitude": -122.32199899999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12493988242663520702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.pausasanmateo.com/",
+      "displayName": {
+        "text": "Pausa Bar & Cookery",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pausa Small.jpeg",
+      "phone": "(650) 375-0818",
+      "description": "Chef Andrea Giuliani creates authentic Italian cuisine from Northern California bounty.",
+      "hours": "Mon–Thu 4:30pm–9pm, Fri–Sat 4pm–9:30pm, Sun 4pm–8:30pm",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "outdoor seating",
+        "craft cocktails",
+        "date night",
+        "happy hour",
+        "brunch",
+        "wine list",
+        "pasta"
+      ]
+    },
+    {
+      "id": "ChIJJRmUeRafj4ARQs7iBA7Y80Y",
+      "formattedAddress": "4300 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5293993,
+        "longitude": -122.2879767
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5112667556718759490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pekingalley.com/",
+      "displayName": {
+        "text": "Peking Alley",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "phone": "(650) 349-0298",
+      "description": "Fresh handmade noodles and dumplings served daily with authentic Beijing cuisine.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Peking Alley Small.jpeg",
+      "hours": "Mon–Sun 11am–3pm, 5pm–9pm",
+      "menuUrl": "https://www.yelp.com/menu/peking-alley-san-mateo-3",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "peking duck",
+        "dim sum",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJje0i-naej4ARp6AWebONsrs",
+      "formattedAddress": "100 N B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5689475,
+        "longitude": -122.3257731
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13525028432917209255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.peninsulaitalianclub.org/",
+      "displayName": {
+        "text": "Peninsula Italian American Social Club",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Peninsula Italian American Club Small.jpeg",
+      "phone": "(650) 343-7981",
+      "description": "Features authentic Italian restaurant and beautiful bocce court on-site.",
+      "hours": "Mon Closed, Tue–Fri 11:30am–2:30pm, Sat Closed, Sun Closed",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "groups",
+        "family style",
+        "private dining"
+      ]
+    },
+    {
+      "id": "ChIJ3yb8APmej4ARLbgxXT1Iis8",
+      "formattedAddress": "2216 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5460099,
+        "longitude": -122.30773089999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14954844941030897709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.phoelement.com/",
+      "displayName": {
+        "text": "Pho Element",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pho Element Small.jpeg",
+      "phone": "(650) 212-1166",
+      "description": "Broth cooked overnight brings out intense flavor you'll taste.",
+      "hours": "Mon 11am–8:30pm, Tue Closed, Wed–Sat 11am–8:30pm, Sun 11am–8:30pm",
+      "menuUrl": "https://www.beyondmenu.com/28713/san-mateo/pho-element-san-mateo-94403.aspx",
+      "priceRange": "$$",
+      "keywords": [
+        "vietnamese",
+        "pho",
+        "banh mi",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJbUWR7Zafj4ARMYECIC0Iey0",
+      "formattedAddress": "36 Hillsdale Mall, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5391123,
+        "longitude": -122.3014859
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3277222143745753393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pinstripes.com/?utm_source=local&utm_medium=organic&utm_content=gmb",
+      "displayName": {
+        "text": "Pinstripes",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pinstripes Small.jpeg",
+      "phone": "(650) 781-4720",
+      "description": "From-scratch Italian-American cuisine served with bowling and bocce entertainment.",
+      "hours": "Mon 11:00am–8:00pm, Tue–Thu 11:00am–9:00pm, Fri 11:00am–10:00pm, Sat 10:30am–10:00pm, Sun 10:30am–8:00pm",
+      "menuUrl": "https://pinstripes.com/san-mateo/menus/",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "outdoor seating",
+        "bowling",
+        "groups",
+        "happy hour",
+        "brunch",
+        "family friendly",
+        "private dining"
+      ]
+    },
+    {
+      "id": "ChIJCeDDEXCej4ARCMv4Lie2nj8",
+      "formattedAddress": "140 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5637701,
+        "longitude": -122.32270030000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4584301750117780232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzamyheart.com/",
+      "displayName": {
+        "text": "Pizza My Heart",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pizza My Heart Small.jpeg",
+      "phone": "(650) 344-9800",
+      "description": "Award-winning pizzas loaded with locally grown California farm ingredients.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://www.pizzamyheart.com/menu/",
+      "priceRange": "$",
+      "keywords": [
+        "pizza",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJtVBa0viej4ARVQZlZFwYlQI",
+      "formattedAddress": "168 W 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5435826,
+        "longitude": -122.30844939999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=186081744706143829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pjspizza.co/?utm_source=google",
+      "displayName": {
+        "text": "PJ's Pizza Co.",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/PJs Pizza Co Small.jpeg",
+      "phone": "(650) 268-8100",
+      "description": "They never use seed oils and only use extra virgin oil",
+      "hours": "Mon–Thu 11am–8pm, Fri–Sat 11am–8:30pm, Sun Closed",
+      "menuUrl": "https://www.pjspizza.co/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "delivery",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJ60m6ibCfj4ARyFBJPGQPGU0",
+      "formattedAddress": "1030 Park Pl, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5446603,
+        "longitude": -122.29169630000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5555488538520801480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.poke.house/locations/poke-parkplace-sanmateo",
+      "displayName": {
+        "text": "Poke House - San Mateo",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "phone": "(650) 508-1222",
+      "description": "House-made bowls blend modern creativity with classic Hawaiian flavors daily.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Poke House Small.jpeg",
+      "hours": "Mon–Sun 11am–9pm",
+      "menuUrl": "https://www.poke.house/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "poke bowls",
+        "hawaiian",
+        "fast casual",
+        "counter service",
+        "gluten free options"
+      ]
+    },
+    {
+      "id": "ChIJ9WyHNXCej4ARr47XTsNUA_Q",
+      "displayName": {
+        "text": "Porterhouse",
+        "languageCode": "en"
+      },
+      "formattedAddress": "164 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17582990568002653871&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.porterhousesanmateo.com/",
+      "location": {},
+      "cuisine": "Steakhouse",
+      "keywords": [
+        "steakhouse",
+        "dry aged steak",
+        "date night",
+        "special occasion",
+        "full bar",
+        "wine list",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.porterhousesanmateo.com/menu/",
+      "phone": "(650) 579-5911",
+      "hours": "Sun 5pm–9pm, Mon–Thu 5pm–9:30pm, Fri–Sat 5pm–10pm",
+      "priceRange": "$$$",
+      "description": "Only Peninsula steakhouse dry-aging beef in-house with visible meat locker.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Porterhouse Small.jpeg"
+    },
+    {
+      "id": "ChIJhVAUTsyfj4ARDeeBUOsZ2JQ",
+      "displayName": {
+        "text": "Prime BBQ",
+        "languageCode": "en"
+      },
+      "formattedAddress": "33 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10725351011041535757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.primebbqsm.com/",
+      "location": {},
+      "cuisine": "Fusion",
+      "keywords": [
+        "korean bbq",
+        "tabletop grill",
+        "groups",
+        "soju"
+      ],
+      "menuUrl": "https://www.primebbqsm.com/menu/",
+      "phone": "(650) 458-3838",
+      "hours": "Mon–Fri 4:30pm–11:30pm, Sat–Sun 11:30am–11:30pm",
+      "priceRange": "$$",
+      "description": "First Bay Area restaurant offering both Yakitori Izakaya and Chinese Skewer.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Prime BBQ Small.jpeg"
+    },
+    {
+      "id": "ChIJ7-LfZrKfj4ARPrfz9A-zPoE",
+      "formattedAddress": "85 N B St #2, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.569072999999996,
+        "longitude": -122.32630049999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9313077960564258622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orderpupuseriaelsalvador.com/",
+      "displayName": {
+        "text": "Pupuseria El Salvador ( el rinconcito catracho)",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pupuseria El Salvador Small.jpeg",
+      "phone": "(650) 347-1393",
+      "description": "We offer fresh food including pupusas, ceviches, and authentic dishes.",
+      "hours": "Mon–Fri 9:00am–9:00pm, Sat–Sun 9:00am–10:00pm",
+      "menuUrl": "https://www.yelp.com/biz/pupuseria-el-salvador-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "pupusas",
+        "salvadoran",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJ0zXSo5afj4ARa-oYUC8sSgI",
+      "formattedAddress": "2996 S Norfolk St, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5448926,
+        "longitude": -122.2841724
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=164992918071339627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pupuserialacasita.com/",
+      "displayName": {
+        "text": "Pupusería La Casita",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "phone": "(650) 533-3634",
+      "description": "Authentic Salvadoran restaurant specializing in handcrafted pupusas and traditional cuisine",
+      "hours": "Mon–Fri 11:45am–6pm, Sat–Sun Closed",
+      "menuUrl": "https://pupuserialacasita.com/",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pupusería La Casita Small.jpeg",
+      "keywords": [
+        "pupusas",
+        "salvadoran",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJA6M4a22fj4ARtjCESKxU3rU",
+      "formattedAddress": "85 N B St #2, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.569072999999996,
+        "longitude": -122.32630049999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13105005064622452918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Pupuseria Valle de Jiboa",
+        "languageCode": "es"
+      },
+      "cuisine": "Other",
+      "phone": "(650) 430-4312",
+      "hours": "Mon–Fri 9am–9pm, Sat–Sun 9am–10pm",
+      "menuUrl": "https://www.zmenu.com/pupuseria-valle-de-jiboa-san-mateo-online-menu/",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pupuseria Valle de Jiboa Small.jpeg",
+      "keywords": [
+        "pupusas",
+        "salvadoran",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJe_K0-WSej4ARodOC4dXyLbI",
+      "formattedAddress": "805 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5621775,
+        "longitude": -122.318578
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12839185113128555425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Ramen Dojo",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ramen Dojo Small.jpeg",
+      "phone": "(650) 401-6568",
+      "description": "Weekly rotation of slow-cooked dishes reflecting best seasonal ingredients.",
+      "hours": "Mon 11:00am–2:00pm, 5:00pm–8:00pm, Tue Closed, Wed Closed, Thu 11:00am–2:00pm, 5:00pm–8:00pm, Fri 11:00am–2:00pm, 5:00pm–8:00pm, Sat 11:00am–2:00pm, 5:00pm–8:00pm, Sun 11:00am–2:00pm, 5:00pm–8:00pm",
+      "menuUrl": "https://www.yelp.com/menu/ramen-dojo-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "ramen",
+        "tonkotsu",
+        "spicy ramen",
+        "late night"
+      ]
+    },
+    {
+      "id": "ChIJ-wRqZmSej4ARSNYRjsH5aEc",
+      "formattedAddress": "901 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.561770200000005,
+        "longitude": -122.31761619999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5145637183978329672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Ramen Parlor",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ramen Parlor Small.jpeg",
+      "phone": "(650) 344-9728",
+      "description": "Features distinctive lobster garlic pork and crab specialty ramen bowls.",
+      "hours": "Mon–Closed, Tue–Sun 11am–2pm, 5pm–8pm",
+      "menuUrl": "https://ramenparlor-sanmateo.com/",
+      "priceRange": "$$",
+      "keywords": [
+        "ramen",
+        "tonkotsu",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJp5jfy3qej4ARVlOWBNuy_eg",
+      "formattedAddress": "505 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.56410880000001,
+        "longitude": -122.3204674
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16788771639651619670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Ravioli House",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ravioli House Small.jpeg",
+      "phone": "(650) 344-7433",
+      "description": "Ravioli made with a restored vintage machine from the 1930s.",
+      "hours": "Mon–Sat 10am–3pm, Sun Closed",
+      "menuUrl": "https://www.yelp.com/menu/the-ravioli-house-san-mateo",
+      "priceRange": "$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "ravioli",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "manual_1778003935551",
+      "displayName": {
+        "text": "Reposado",
+        "languageCode": "en"
+      },
+      "formattedAddress": "311 Baldwin Ave.",
+      "googleMapsUri": "google.com/maps/place/Reposado+Restaurant+-+San+Mateo/data=!4m2!3m1!1s0x0:0x7651efce11cb4391?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.reposadorestaurant.com",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "fine dining"
+      ],
+      "phone": "(650) 292-1321",
+      "hours": "Mon-Fri 11:30am-3:00pm, Mon-Thur 4:00pm-10:00pm, Fri-Sat 4:00pm -10:30pm, Sun 4:00pm-9:00pm, Sat-Sun 11:00 am-3:00pm",
+      "priceRange": "$$$",
+      "description": "Higher end, extremely well presented Mexican inspired cuisine. Excellent tequila selection.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Reposado Small.jpeg"
+    },
+    {
+      "id": "ChIJEdn_l--fj4ARsZH4930Vj_I",
+      "formattedAddress": "104 S El Camino Real, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.564016599999995,
+        "longitude": -122.32742560000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17478212309623542193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rin-tei.com/",
+      "displayName": {
+        "text": "Rin-Tei",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 558-8239",
+      "description": "Thai and Japanese fusion with authentic flavors by Chef Tam.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Rin-Tei Small.jpeg",
+      "hours": "Mon 11am–2:30pm, 5:30pm–11pm, Tue Closed, Wed–Thu 11am–2:30pm, 5:30pm–11pm, Fri–Sat 11am–3pm, 5:30pm–11pm, Sun 11am–3pm, 5:30pm–10pm",
+      "menuUrl": "https://rin-tei.com/wp-content/uploads/Menu_11152023.pdf",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "ramen",
+        "soba",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "manual_rincon_del_cielo_san_mateo",
+      "displayName": {
+        "text": "Rincon Del Cielo Taqueria (Food Truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1950 S Delaware St, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Rincon+Del+Cielo+Taqueria+San+Mateo",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck",
+        "tacos",
+        "burritos",
+        "quesadillas",
+        "counter service",
+        "lunch"
+      ],
+      "phone": "",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "10:00 AM – 3:00 PM",
+        "Wednesday": "10:00 AM – 3:00 PM",
+        "Thursday": "10:00 AM – 3:00 PM",
+        "Friday": "10:00 AM – 3:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "priceRange": "$",
+      "description": "Weekday lunch taco truck on Delaware Street with quick fresh-made tacos and burritos. A reliable neighborhood spot for a fast affordable lunch Tuesday through Friday.",
+      "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"
+    },
+    {
+      "id": "ChIJswaXkbifj4ARBk__2-6HPTU",
+      "formattedAddress": "2 N B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5680359,
+        "longitude": -122.32410649999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3836371917552439046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.risewoodfire.com/",
+      "displayName": {
+        "text": "Rise Woodfire Pizza & Rotisserie",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Rise Woodfire Small.jpeg",
+      "phone": "(650) 484-4337",
+      "description": "Rotisserie chicken and prime rib slow roasted over wood-burning spitfire.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://www.risewoodfire.com/menus/",
+      "priceRange": "$$",
+      "keywords": [
+        "wood-fired pizza",
+        "rotisserie chicken",
+        "outdoor seating",
+        "craft beer",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJJbGJdumfj4ARHqzFGHMnOfs",
+      "formattedAddress": "2317 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5452959,
+        "longitude": -122.3062684
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18102543552482749470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orderselcaminotaqueria.com/",
+      "displayName": {
+        "text": "S El Camino Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/El Camino Taqueria Small.jpeg",
+      "phone": "(650) 315-2500",
+      "description": "They offer fresh ingredients in super tacos, burritos, and enchiladas.",
+      "hours": "Mon–Sun 10:00am–8:00pm",
+      "menuUrl": "http://orderselcaminotaqueria.com/",
+      "priceRange": "$",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJY2e9Znqej4ARyqMxMoKLZvI",
+      "formattedAddress": "418 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.566384,
+        "longitude": -122.320984
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17466801596107170762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Saigon City Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Saigon City Small.jpeg",
+      "phone": "(650) 340-8878",
+      "hours": "Mon–Closed, Tue–Sun 11am–8:30pm",
+      "menuUrl": "https://saigon-city.res-menu.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "vietnamese",
+        "pho",
+        "banh mi",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJDeCMOJyfj4ARgW3aYsVHnME",
+      "formattedAddress": "251 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.565443099999996,
+        "longitude": -122.3227751
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13951104658779565441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sajjstreeteats.com/",
+      "displayName": {
+        "text": "SAJJ Mediterranean",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sajj Small.jpeg",
+      "phone": "(650) 274-0150",
+      "description": "Fresh, locally-sourced Mediterranean food with bold flavors and unlimited customization.",
+      "hours": "Mon–Sun 11am–8pm",
+      "menuUrl": "https://www.sajjstreeteats.com/menus/",
+      "priceRange": "$$",
+      "keywords": [
+        "mediterranean wraps",
+        "falafel",
+        "fast casual",
+        "counter service",
+        "halal",
+        "vegetarian options"
+      ]
+    },
+    {
+      "id": "ChIJ51llI8Sfj4AR3U6RBSjFVeg",
+      "formattedAddress": "3158 Campus Dr, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5339434,
+        "longitude": -122.3285659
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16741503965502459613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sfhalal.com/",
+      "displayName": {
+        "text": "Sal's Burgers",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sals Burgers Small.jpeg",
+      "phone": "(650) 437-2140",
+      "description": "Voted best burgers, offering thoughtfully crafted halal burgers with quality.",
+      "hours": "Mon–Sat 11am–8pm, Sun 11am–8pm",
+      "menuUrl": "https://www.yelp.com/biz/sals-burgers-san-mateo-2",
+      "priceRange": "$$",
+      "keywords": [
+        "burgers",
+        "fast casual",
+        "counter service",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJD3cjhPOfj4ARp9sj08g3cjw",
+      "formattedAddress": "800 S B St #500, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5616249,
+        "longitude": -122.3184551
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4355605125296020391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coffeeshopsanmateo.com/",
+      "displayName": {
+        "text": "Sama Coffee Shop",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sama Coffee Small.jpeg",
+      "phone": "(650) 393-5553",
+      "hours": "Mon–Thu 7am–8pm, Fri–Sat 7am–9pm, Sun 8am–9pm",
+      "menuUrl": "https://www.yelp.com/menu/sama-coffee-shop-san-mateo-3",
+      "priceRange": "$$",
+      "keywords": [
+        "cafe",
+        "coffee",
+        "breakfast",
+        "pastries",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJlTAjdP2fj4ARRqh4_bN1Y3k",
+      "formattedAddress": "146 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5644263,
+        "longitude": -122.3235588
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8746964317195774022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.samikchamomo.com/",
+      "displayName": {
+        "text": "SAMIKCHA MOMO Indian-Nepali Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Samikcha Momo Small.jpeg",
+      "phone": "(650) 513-6475",
+      "description": "Chef blends authentic Szechuan with Himalayan spices and Nepalese momos.",
+      "hours": "Mon–Sun 11am–12am",
+      "menuUrl": "https://www.samikchamomo.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "nepali",
+        "momos",
+        "indian",
+        "vegetarian options",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJbQOaZ3Cej4ARpMxBFKP_K3A",
+      "formattedAddress": "174 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5646972,
+        "longitude": -122.32334890000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8082835032131095716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sanmateoprime.com/",
+      "displayName": {
+        "text": "San Mateo Prime",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/san-mateo/San Mateo Prime Small.jpeg",
+      "phone": "(650) 558-8918",
+      "description": "Dry aged prime rib slowly roasted to perfection since 2007.",
+      "hours": "Mon–Tue Closed, Wed–Sun 5pm–9pm",
+      "menuUrl": "https://www.yelp.com/menu/san-mateo-prime-san-mateo",
+      "priceRange": "$$$",
+      "keywords": [
+        "steakhouse",
+        "prime beef",
+        "date night",
+        "special occasion",
+        "full bar",
+        "wine list",
+        "private dining"
+      ]
+    },
+    {
+      "id": "ChIJ2VGpcliej4ARL6SrI46lA4I",
+      "formattedAddress": "1944 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5487118,
+        "longitude": -122.3114518
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9368513679763153967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Santa Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Santa Ramen Small.jpeg",
+      "phone": "(650) 344-5918",
+      "description": "Serving authentic Yokohama-style ramen with rich broth since 1994.",
+      "hours": "Mon 11am–2pm, 5pm–8pm, Tue Closed, Wed 11am–2pm, 5pm–8pm, Thu 11am–2pm, 5pm–8pm, Fri 11am–2pm, 5pm–8:30pm, Sat 11am–2pm, 5pm–8:30pm, Sun 11am–2pm, 5pm–8pm",
+      "menuUrl": "https://www.yelp.com/biz/santa-ramen-san-mateo-2",
+      "priceRange": "$$",
+      "keywords": [
+        "ramen",
+        "tonkotsu",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJZUMrBe-fj4ARNxc1PWf1LHw",
+      "formattedAddress": "125 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.563965599999996,
+        "longitude": -122.3229825
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8947796383435659063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.saporeexpress.com/",
+      "displayName": {
+        "text": "Sapore Express",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sapore Express Small.jpeg",
+      "phone": "(650) 315-2341",
+      "description": "Hand-made pasta made fresh daily with highly-rated sauces downtown.",
+      "hours": "Mon Closed, Tue–Thu 11:30am–3pm & 4:30pm–9pm, Fri 11:30am–3pm & 4:30pm–9:30pm, Sat 11:30am–3pm & 4:30pm–9:30pm, Sun 11:30am–3pm & 4:30pm–9pm",
+      "menuUrl": "https://www.saporeexpress.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "outdoor seating",
+        "pasta",
+        "pizza",
+        "lunch",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJT-x_Pbyfj4ARWOx5qh3aANw",
+      "formattedAddress": "2456 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5444223,
+        "longitude": -122.3060196
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15852910509293169752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.eatsapporosushi.com/",
+      "displayName": {
+        "text": "Sapporo Rock & Roll Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sapporo Small.jpeg",
+      "phone": "(650) 699-1999",
+      "description": "VIP dining area and ocean fresh sushi served daily.",
+      "hours": "Mon 5pm–9:30pm, Tue Closed, Wed 5pm–9:30pm, Thu–Sat 11:30am–2pm, 5pm–9:30pm, Sun 5pm–9:30pm",
+      "menuUrl": "https://www.eatsapporosushi.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "sushi",
+        "japanese",
+        "happy hour",
+        "sake",
+        "late night"
+      ]
+    },
+    {
+      "id": "ChIJg1CHCViej4ARakPttIGBCi8",
+      "formattedAddress": "1952 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.54853190000001,
+        "longitude": -122.31088290000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3389664063635932010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.seapotusa.com/",
+      "displayName": {
+        "text": "Seapot Hot Pot & Korean BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/san-mateo/Seapot Small.jpeg",
+      "phone": "(650) 315-2827",
+      "description": "Fresh ingredients delivered by unique conveyor belt for interactive dining.",
+      "hours": "Mon–Thu 11am–3pm, 5pm–10pm, Fri 11am–3pm, 5pm–10:30pm, Sat 11am–10:30pm, Sun 11am–10:30pm",
+      "menuUrl": "https://www.seapotusa.com/qr-menu-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "korean bbq",
+        "hot pot",
+        "tabletop grill",
+        "groups",
+        "soju"
+      ]
+    },
+    {
+      "id": "ChIJJZ-QAPmej4ARs-KLOLdk_-M",
+      "formattedAddress": "2210 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5460941,
+        "longitude": -122.307817
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16428960703761343155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.seniorespizzasanmateo.com/?utm_source=gbp",
+      "displayName": {
+        "text": "Seniore's Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-mateo/Seniores Pizza Small.jpeg",
+      "phone": "(650) 573-5400",
+      "description": "Community mainstay for 13 years serving pizza, pasta, and sandwiches.",
+      "hours": "Mon–Thu 11am–11pm, Fri–Sat 11am–12am, Sun 11am–11pm",
+      "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94403/seniore-s-pizza-san-mateo/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "delivery",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJj7kJBwifj4ARvKPlYeOtKyQ",
+      "formattedAddress": "2299 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5455653,
+        "longitude": -122.30653290000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2606368001475584956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://shahrestaurantsanmateo.com/",
+      "displayName": {
+        "text": "Shah Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/san-mateo/Shah Small.jpeg",
+      "phone": "(650) 514-2400",
+      "description": "Authentic halal Pakistani cuisine with fresh tandoor-baked naan and biryani.",
+      "hours": "Sun–Sat 11am–12am",
+      "menuUrl": "https://www.yelp.com/biz/shah-restaurant-san-mateo",
+      "priceRange": "$$",
+      "keywords": [
+        "indian",
+        "halal",
+        "vegetarian options",
+        "lunch buffet"
+      ]
+    },
+    {
+      "id": "ChIJubF8OQCfj4ARPSxqC7M4DU8",
+      "formattedAddress": "213 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5652723,
+        "longitude": -122.32299630000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5696271445335354429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://shangdumpling.com/",
+      "displayName": {
+        "text": "Shang Dumpling",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Shang Dumpling Small.jpeg",
+      "phone": "(650) 733-9333",
+      "description": "Freshly made dumplings with authentic classic Shanghai flavors.",
+      "hours": "Mon Closed, Tue–Thu 11am–3pm, 5pm–9pm, Fri 11am–3pm, 5pm–9:30pm, Sat 11am–9:30pm, Sun 11am–9pm",
+      "menuUrl": "https://www.yelp.com/biz/shang-dumpling-san-mateo-4",
+      "priceRange": "$$",
+      "keywords": [
+        "dumplings",
+        "xiao long bao",
+        "fast casual",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJ14-fBvmej4ARrGESAkmSw-I",
+      "formattedAddress": "2224 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5459175,
+        "longitude": -122.30760959999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16340064715295318444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.silverhouserestaurant.com/",
+      "displayName": {
+        "text": "Silver House",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Silver House Small.jpeg",
+      "phone": "(650) 571-1298",
+      "hours": "Mon–Fri 11am–9:30pm, Sat 11am–9pm, Sun 11am–9:30pm",
+      "priceRange": "$",
+      "keywords": [
+        "chinese",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJveGSE_mej4ARI3Np6OdTKcg",
+      "formattedAddress": "2291 S El Camino Real, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5456995,
+        "longitude": -122.3066989
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14423151537132499747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Silver Lake Seafood Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Silver Lake Small.jpeg",
+      "phone": "(650) 578-1678",
+      "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Thu 11am–3pm, 5pm–9pm, Fri–Sat 11am–3pm, 5pm–9pm, Sun 11am–3pm, 5pm–9pm",
+      "menuUrl": "https://www.yelp.com/menu/silver-lake-seafood-restaurant-san-mateo-2",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese seafood",
+        "dim sum",
+        "family style",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJma5mbxqfj4ARgg-PlO8L6Cw",
+      "formattedAddress": "69 37th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.533670799999996,
+        "longitude": -122.295804
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3235849455883194242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.soleristorante.com/?_escaped_fragment_=catering/c1w8b",
+      "displayName": {
+        "text": "Sole Ristorante Italiano",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "phone": "(650) 341-5555",
+      "description": "They treat diners like family with homemade pastas and desserts.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sole Small.jpeg",
+      "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–2pm, 5pm–9:30pm, Sun Closed",
+      "menuUrl": "https://soleristorante.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "date night",
+        "wine list",
+        "romantic"
+      ]
+    },
+    {
+      "id": "ChIJUeMTJoifj4ARPCq6MwzU2lw",
+      "formattedAddress": "119 De Anza Blvd, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.521249399999995,
+        "longitude": -122.33649089999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6690893345284827708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sourdoughandco.com/san-mateo",
+      "displayName": {
+        "text": "Sourdough & Co",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sourdough & Co. Small.jpeg",
+      "phone": "(650) 376-3528",
+      "description": "Freshly baked warm sourdough bread served with quality deli sandwiches.",
+      "hours": "Mon–Sun 9:00am–8:00pm",
+      "menuUrl": "https://sourdoughandco.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "sandwiches",
+        "fast casual",
+        "counter service",
+        "delivery"
+      ]
+    },
+    {
+      "id": "ChIJkUR07V2fj4AR7gvfwL9kCVs",
+      "formattedAddress": "1100 S Amphlett Blvd, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.5640882,
+        "longitude": -122.30735159999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6559885106979212270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.suavecitosm.com/",
+      "displayName": {
+        "text": "Suavecito Birria & Tacos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 581-1284",
+      "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Suavecito Birria Small.jpeg",
+      "hours": "Mon–Closed, Tue–Thu 10:30am–8pm, Fri–Sat 10:30am–9pm, Sun 10:30am–8pm",
+      "menuUrl": "http://www.suavecitosm.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "birria tacos",
+        "mexican",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJPwJWe3Cej4AR2tUwdkF4nL8",
+      "formattedAddress": "38 E 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.544910699999996,
+        "longitude": -122.30476119999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13807042780162217434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sushiedomata.com/",
+      "displayName": {
+        "text": "Sushi Edomata",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 344-0888",
+      "description": "Fresh high-quality fish imported from Japan with traditional sushi dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Edomata Small.jpeg",
+      "hours": "Mon–Closed, Tue–Wed 5:00pm–9:00pm, Thu–Sat 12:00pm–1:30pm, 5:00pm–9:00pm, Sun–Closed",
+      "menuUrl": "https://sushiedomata.menu11.com/",
+      "priceRange": "$$",
+      "keywords": [
+        "sushi",
+        "omakase",
+        "date night",
+        "sake",
+        "special occasion"
+      ]
+    },
+    {
+      "id": "ChIJHezl03aej4AR1R9NtvewBWg",
+      "formattedAddress": "279 Baldwin Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.567328599999996,
+        "longitude": -122.32534009999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7495591732789977045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sushimaruyama.com/",
+      "displayName": {
+        "text": "Sushi Maruyama",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sushi Maruyama Small.jpeg",
+      "phone": "(650) 315-2945",
+      "description": "Highest grade seasonal fish from Tsukiji with traditional red vinegar.",
+      "hours": "Mon–Closed, Tue–Thu 5:30pm–9:30pm, Fri–Sat 5:30pm–10pm, Sun 5pm–9pm",
+      "menuUrl": "https://www.sushimaruyama.com/menu.html",
+      "priceRange": "$$$",
+      "keywords": [
+        "sushi",
+        "omakase",
+        "date night",
+        "sake",
+        "special occasion"
+      ]
+    },
+    {
+      "id": "ChIJo0jyGB-fj4ARcu4tnBtr6Js",
+      "formattedAddress": "1600 S El Camino Real, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.553139,
+        "longitude": -122.31546850000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11234347036804247154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Sushilito Boy",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sushilito Boy Small.jpeg",
+      "hours": "Mon–Closed, Tue–Sun 11am–9pm",
+      "menuUrl": "https://www.grubhub.com/restaurant/sushilito-boy-1600-south-el-camino-real-san-mateo/13787288",
+      "keywords": [
+        "sushi burrito",
+        "fusion",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJbaKmySifj4ARz3VXd1tWphY",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1632086865812616655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://swaadsutra.online/",
+      "displayName": {
+        "text": "Swaad sutra Indian restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "phone": "(650) 597-3533",
+      "description": "Authentic dishes crafted using traditional recipes and finest spices.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "priceRange": "$$",
+      "keywords": [
+        "indian",
+        "vegetarian options",
+        "halal",
+        "takeout"
+      ]
+    },
+    {
+      "id": "ChIJI2THxnGej4ARZ8lUgarD0UU",
+      "displayName": {
+        "text": "Sweetgreen",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5031017395831228775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetgreen.com/locations/san-mateo",
+      "location": {},
+      "cuisine": "American",
+      "phone": "(650) 753-6500",
+      "hours": "Mon–Fri 10:00am–9:00pm, Sat–Sun 10:30am–9:00pm",
+      "priceRange": "$$",
+      "description": "Fresh seasonal ingredients sourced from local farms for sustainable meals.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sweetgreen Small.jpeg",
+      "keywords": [
+        "salads",
+        "healthy options",
+        "vegan options",
+        "vegetarian options",
+        "fast casual",
+        "lunch",
+        "gluten free options"
+      ]
+    },
+    {
+      "id": "ChIJy-fcrYCej4ARYkqWqiQ_Sxc",
+      "displayName": {
+        "text": "Tabla Indian Restaurant",
+        "languageCode": "en"
+      },
+      "formattedAddress": "450 S Norfolk St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1678504712838990434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tablausa.com/",
+      "location": {},
+      "cuisine": "Indian",
+      "phone": "(650) 393-4338",
+      "hours": "Mon–Sun 11:30am–9:30pm",
+      "priceRange": "$$",
+      "description": "Fresh locally sourced ingredients create authentic Indian dishes with vibrant flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tabla Small.jpeg",
+      "keywords": [
+        "indian",
+        "lunch buffet",
+        "vegetarian options",
+        "halal",
+        "groups"
+      ]
+    },
+    {
+      "id": "ChIJUwAoqHuej4AR_nF_loM446w",
+      "formattedAddress": "602 B E 4th Ave, San Mateo, CA 94402, USA",
+      "location": {
+        "latitude": 37.5666712,
+        "longitude": -122.3184689
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12457863132053729790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tacosalvapornuevaitalia.com/",
+      "displayName": {
+        "text": "Tacos Al Vapor Nueva Italia",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 344-9936",
+      "description": "Authentic Mexican food from Michoacan with freshly handmade tortillas.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tacos Al Vapor Small.jpeg",
+      "hours": "Mon Closed, Tue–Thu 9am–8pm, Fri–Sat 9am–9pm, Sun 9am–8pm",
+      "menuUrl": "https://www.doordash.com/store/tacos-al-vapor-nueva-italia-san-mateo-2364434/",
+      "priceRange": "$$",
+      "keywords": [
+        "tacos",
+        "mexican",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJMbhCJACfj4ARV_ldP34pF5E",
+      "displayName": {
+        "text": "TAI ER SICHUAN CUISINE",
+        "languageCode": "en"
+      },
+      "formattedAddress": "98 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10454870682169637207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taierusa.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "phone": "(650) 398-2222",
+      "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Experience house-fermented sauerkraut fish from this global Sichuan sensation.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tai Er Sichuan Cuisine Small.jpeg",
+      "keywords": [
+        "sichuan",
+        "mala",
+        "spicy",
+        "fish",
+        "chinese"
+      ]
+    },
+    {
+      "id": "ChIJmQba6BWfj4ARsGyybmBYOxA",
+      "formattedAddress": "47 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.563313799999996,
+        "longitude": -122.32410429999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1169625699430067376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taishokenusa.com/",
+      "displayName": {
+        "text": "Taishoken Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taishoken Small.jpeg",
+      "phone": "(650) 445-7579",
+      "description": "Tsukemen invented here is dipped in broth cooked two days.",
+      "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–9:30pm, Sun 11am–9pm",
+      "menuUrl": "https://order.toasttab.com/online/taishoken",
+      "priceRange": "$$",
+      "keywords": [
+        "ramen",
+        "tsukemen",
+        "dipping noodles"
+      ]
+    },
+    {
+      "id": "ChIJDVXtW-qfj4ARhosLW1QX71s",
+      "formattedAddress": "144 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5644673,
+        "longitude": -122.3236787
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6624539227957463942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.takinoribar.com/",
+      "displayName": {
+        "text": "Taki Nori Hand Roll Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taki Nori Small.jpeg",
+      "phone": "(650) 581-1269",
+      "hours": "Mon–Fri 4pm–9pm, Sat–Sun 11:30am–9pm",
+      "menuUrl": "https://www.doordash.com/store/takinori-hand-roll-bar-san-mateo-24408382/",
+      "priceRange": "$$$",
+      "keywords": [
+        "hand roll",
+        "sushi",
+        "omakase style",
+        "sake",
+        "date night",
+        "counter seating"
+      ]
+    },
+    {
+      "id": "ChIJJUdl6f6fj4AR4IHK3vp6U6k",
+      "formattedAddress": "62 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.562982999999996,
+        "longitude": -122.32374779999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12201231033375031776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tangbarsanmateo.com/",
+      "displayName": {
+        "text": "Tang Bar San Mateo",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tang Bar Small.jpeg",
+      "phone": "(650) 581-1304",
+      "description": "Build your own Malatang with slowly perfected broth and fresh ingredients.",
+      "hours": "Mon–Thu 11am–8:30pm, Fri–Sat 11am–9pm, Sun 11am–8:30pm",
+      "menuUrl": "https://www.tangbarsanmateo.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese desserts",
+        "bubble tea",
+        "dessert",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJrzidLPmej4ARioxd87uGxKk",
+      "formattedAddress": "120 W 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.543843599999995,
+        "longitude": -122.30746140000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12233050629645110410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tannourinecuisine.com/",
+      "displayName": {
+        "text": "Tannourine Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tannourine Small.jpeg",
+      "phone": "(650) 638-1960",
+      "description": "Authentic Lebanese cuisine focusing on herbs and fresh seasonal ingredients.",
+      "hours": "Mon–Closed, Tue–Wed 4pm–8:30pm, Thu–Fri 11:30am–1:30pm, 4pm–9:30pm, Sat 4pm–9:30pm, Sun 12pm–8:30pm",
+      "menuUrl": "https://tannourinecuisine.com/san-mateo-san-mateo-tannourine-food-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "lebanese",
+        "middle eastern",
+        "halal",
+        "vegetarian options",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "manual_1778252203958",
+      "displayName": {
+        "text": "Taqueria Las Pencas #2",
+        "languageCode": "en"
+      },
+      "formattedAddress": "45 N B St, San Mateo",
+      "googleMapsUri": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiQk6ez-KmUAxUAAAAAHQAAAAAQCQ..i&rlz=1C5CHFA_enUS1103US1103&sca_esv=9033de2d4e2ebdf7&pvq=Cg0vZy8xMXMzYmpmaGpxIhkKE3RhcXVlcmlhIGxhcyBwZW5jYXMQAhgD&lqi=ChN0YXF1ZXJpYSBsYXMgcGVuY2FzSJb8mqiNuICACFofEAAQARACGAEYAiITdGFxdWVyaWEgbGFzIHBlbmNhc5IBEm1leGljYW5fcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOeU5FbHRZbE5uRUFF4AEA-gEECAAQOQ&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=us&sa=X&ftid=0x808f9f58909d3bdd:0x75ff325592a4e2d7",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "phone": "(650)315-2274",
+      "hours": "Mon-Sun 10am-10pm",
+      "priceRange": "$",
+      "description": "Great authentic taqueria nestled surrounded by culture and latin restaurants. Can't beat the prices and quality of food served by family style staff.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Las Pencas 2 Small.jpeg",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJdUQYkhWfj4ARvv8mWDJD5xY",
+      "formattedAddress": "37 43rd Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.528971,
+        "longitude": -122.288851
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1650361671960952766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://taquerialosmorenoca.com/",
+      "displayName": {
+        "text": "Taquería Los Moreno",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "phone": "(650) 910-3576",
+      "description": "Classic Mexican comfort dishes in a compact, colorful interior.",
+      "hours": "Mon–Sat 9am–9pm, Sun Closed",
+      "menuUrl": "https://taquerialosmorenoca.com/taqueria-los-moreno/locations/",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taquería Los Moreno Small.jpeg",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "manual_1778255094906",
+      "displayName": {
+        "text": "Taqueria Los Primos",
+        "languageCode": "en"
+      },
+      "formattedAddress": "85 N B St #4, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/taqueria+los+primos+%231/data=!4m2!3m1!1s0x808f9e768aa7ed65:0x85ad70f4404352d1?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "menuUrl": "https://img1.wsimg.com/blobby/go/e7d2565a-b9a9-4545-978e-b6df93d21b89/downloads/Taqueria%20_1%202022%20new%20Prices.pdf?ver=1642617310304",
+      "phone": "(650) 347-8760",
+      "hours": "Mon-Sun 9am-10pm",
+      "priceRange": "$",
+      "description": "Family-owned serving high quality authentic Mexican food for 26 years. Warm, friendly service.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taqueria Los Primos Small.jpeg",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJfRMInHqej4AR-4NtZnaL4q0",
+      "formattedAddress": "365 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5649839,
+        "longitude": -122.32166
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12529730453938996219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://smpanchovilla.com/",
+      "displayName": {
+        "text": "Taqueria Pancho Villa",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pacho Villa Small.jpeg",
+      "phone": "(650) 343-4123",
+      "description": "Award-winning salsa bar honored year after year at California State Fair.",
+      "hours": "Mon–Sun 10am–9pm",
+      "menuUrl": "https://smpanchovilla.com/menu.html",
+      "priceRange": "$",
+      "keywords": [
+        "tacos",
+        "burritos",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJkbgjNQCfj4ARz-TbgafEZOI",
+      "displayName": {
+        "text": "Taste and Glory",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1208 S El Camino Real, San Mateo, CA 94402, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16313379973960033487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.tasteandgloryca.com/",
+      "location": {},
+      "cuisine": "Breakfast",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "cafe",
+        "coffee",
+        "family friendly"
+      ],
+      "menuUrl": "https://tasteandgloryca.smiledining.com/",
+      "phone": "(650) 393-4951",
+      "hours": "Mon–Fri 9am–2pm, Sat–Sun 8:30am–2:30pm",
+      "priceRange": "$$",
+      "description": "Asian fusion brunch blending classic Western dishes with Thai flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taste & Glory Small.jpeg"
+    },
+    {
+      "id": "ChIJ9WHlHACfj4ARfU8L1ZrFfvo",
+      "formattedAddress": "38 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.562692999999996,
+        "longitude": -122.32426900000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18050081625337450365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://tasteofshaxian.com/",
+      "displayName": {
+        "text": "Taste of Shaxian",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Taste of Sha Xian Small.jpeg",
+      "phone": "(650) 393-4715",
+      "description": "Famous Wonton Soup made with the freshest ingredients available.",
+      "hours": "Mon–Fri 11am–3pm, 5pm–10pm, Sat–Sun 11am–10pm",
+      "menuUrl": "https://www.tasteofshaxianca.com/na60mta8/taste-of-sha-xian-san-mateo-94401/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "fujian noodles",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJZflyZxKfj4ARdolOkRYVAlw",
+      "formattedAddress": "66 21st Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6629884788114098550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://twodotsco.typeform.com/to/eUm9sISf?typeform-source=linktr.ee",
+      "displayName": {
+        "text": "The Backhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 260-3961",
+      "description": "Chef Ju-i experiments with dry-aging and nontraditional garnishes on sushi.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "hours": "Mon 11am–7:30pm, Tue Closed, Wed Closed, Thu 11am–7:30pm, Fri 11:30am–8pm, Sat 11:30am–8pm, Sun 11:30am–6pm",
+      "menuUrl": "https://www.ubereats.com/store/the-backhouse/ojXNG6JqUASNuy9NHyg7jA",
+      "priceRange": "$$$",
+      "keywords": [
+        "japanese",
+        "omakase",
+        "date night",
+        "sake",
+        "special occasion",
+        "private dining"
+      ]
+    },
+    {
+      "id": "ChIJo_9a_fufj4ARjlc_P089jEg",
+      "formattedAddress": "246 S B St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5657685,
+        "longitude": -122.32287969999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5227620678043129742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thebarrelbistrowinebar.com/",
+      "displayName": {
+        "text": "The Barrel Bistro and Wine Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/san-mateo/The Barrel Small.jpeg",
+      "phone": "(650) 445-7250",
+      "description": "Hundreds of wines paired with selective cheeses, charcuterie, and seafood.",
+      "hours": "Sun–Thu 11am–10pm, Fri–Sat 11am–11pm",
+      "menuUrl": "https://www.thebarrelbistrowinebar.com/menus",
+      "priceRange": "$$",
+      "keywords": [
+        "wine bar",
+        "small plates",
+        "happy hour",
+        "date night",
+        "outdoor seating"
+      ]
+    },
+    {
+      "id": "ChIJgbqC-_uej4AR9hgwImYJcIc",
+      "formattedAddress": "106 E 25th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.545086,
+        "longitude": -122.30459909999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9759310726776756470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://theswingindoor.com/",
+      "displayName": {
+        "text": "The Swingin' Door",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-mateo/Swinging Door Pub Small.jpeg",
+      "phone": "(650) 522-9800",
+      "description": "Award-winning fish and chips plus karaoke four nights weekly.",
+      "hours": "Mon–Sat 11:30am–2am, Sun 11:30am–2am",
+      "menuUrl": "https://www.theswingindoor.com/wp-content/uploads/2023/01/menu-web-rev01-2023.pdf",
+      "priceRange": "$$",
+      "keywords": [
+        "american bbq",
+        "live music",
+        "outdoor seating",
+        "craft beer",
+        "bar"
+      ]
+    },
+    {
+      "id": "ChIJ3-_dDXCej4ARKIbU9TPugzQ",
+      "formattedAddress": "173 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5641598,
+        "longitude": -122.32289879999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3784130018856437288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://thonglorthaibistroca.com/?utm_source=google",
+      "displayName": {
+        "text": "Thonglor Thai Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-mateo/Thonglor Small.jpeg",
+      "phone": "(650) 342-6451",
+      "description": "Traditional Thai dishes with modern twist served with warmth and hospitality.",
+      "keywords": [
+        "thai",
+        "pad thai",
+        "thai curry",
+        "vegetarian options"
+      ]
+    },
+    {
+      "id": "ChIJOWymJtWYj4ARenbrS8PUIJ8",
+      "formattedAddress": "34 E 4th Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.562566499999996,
+        "longitude": -122.3243596
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11466398586542716538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tokies.com/",
+      "displayName": {
+        "text": "Tokie's Downtown",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tokies Downtown Small.jpeg",
+      "phone": "(650) 570-6609",
+      "description": "Over 40 years serving Japanese comfort food in family atmosphere.",
+      "hours": "Mon Closed, Tue–Thu 5pm–9pm, Fri–Sat 5pm–9:30pm, Sun 4pm–8:30pm",
+      "menuUrl": "https://www.tokies.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "izakaya",
+        "sake",
+        "happy hour"
+      ]
+    },
+    {
+      "id": "ChIJkc4PgMGfj4ARLqAROaUFcRg",
+      "displayName": {
+        "text": "Tong Sui",
+        "languageCode": "en"
+      },
+      "formattedAddress": "250 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1761195136463773742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tongsui.us/",
+      "location": {},
+      "cuisine": [
+        "Chinese",
+        "Dessert"
+      ],
+      "phone": "(650) 931-4253",
+      "hours": "Mon–Thu 12pm–9pm, Fri 12pm–9:30pm, Sat 11:30am–9:30pm, Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "Organic coconut pudding made with fresh coconut water and seasonal ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tong Sui Small.jpeg",
+      "keywords": [
+        "chinese desserts",
+        "dessert",
+        "sweet soups",
+        "bubble tea",
+        "late night"
+      ]
+    },
+    {
+      "id": "ChIJN6x96hadj4AR7ZVrIZVCt4s",
+      "formattedAddress": "856 N Delaware St, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5799987,
+        "longitude": -122.3331174
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10067588700288292333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.totororamen.com/",
+      "displayName": {
+        "text": "Totoro Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 781-3137",
+      "description": "Rich pork bone broth slow-cooked for over 18 hours daily.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Totoro Ramen Small.jpeg",
+      "hours": "Mon–Thu 11am–2pm, 5pm–8:30pm, Fri 11am–2pm, 5pm–9pm, Sat 11am–3pm, 5pm–9pm, Sun Closed",
+      "menuUrl": "https://www.doordash.com/store/totoro-ramen-san-mateo-616468/",
+      "priceRange": "$$",
+      "keywords": [
+        "ramen",
+        "tonkotsu",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJr_RGipGfj4ARhmhhx_Txxpw",
+      "formattedAddress": "29 Laurie Meadows Dr, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5311026,
+        "longitude": -122.28758529999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11296982748924831878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.townofdumplingca.com/",
+      "displayName": {
+        "text": "Town of dumpling",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "phone": "(650) 349-3066",
+      "description": "Known for its varieties of dumplings and traditional Chinese dishes.",
+      "hours": "Mon–Tue 11am–9:30pm, Wed Closed, Thu–Sun 11am–9:30pm",
+      "menuUrl": "https://www.townofdumplingca.com/menu",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Town of dumpling Small.jpeg",
+      "keywords": [
+        "dumplings",
+        "chinese",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJ-wp0Z2eej4ARc_LvawPcMHg",
+      "displayName": {
+        "text": "Truffle Poké Bar",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1234 S El Camino Real, San Mateo, CA 94402, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8660663990687363699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://trufflepokebar.com/",
+      "location": {},
+      "cuisine": "Fusion",
+      "keywords": [
+        "poke bowls",
+        "truffle",
+        "fast casual",
+        "counter service",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://trufflepokebar.square.site/",
+      "phone": "(650) 573-6425",
+      "hours": "Mon–Fri 10am–9pm, Sat–Sun 11am–9pm, Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "Finest locally sourced ingredients with unique truffle fusion poke experience.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Truffle Small.jpeg"
+    },
+    {
+      "id": "ChIJT5eL6Xyfj4ARd__EqjMZhNo",
+      "displayName": {
+        "text": "Udon Mugizo",
+        "languageCode": "en"
+      },
+      "formattedAddress": "73 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15745737906893160311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mugizo-us.com/sanmateo",
+      "location": {},
+      "cuisine": "Japanese",
+      "phone": "(650) 315-2000",
+      "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Thick-cut homemade udon with kombu kelp stock and premium fish flakes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Udon Mugizo Small.jpeg",
+      "keywords": [
+        "udon",
+        "japanese noodles",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "ChIJV9Djnkmfj4ARSPTuy_3mZn0",
+      "displayName": {
+        "text": "Urban Momo",
+        "languageCode": "en"
+      },
+      "formattedAddress": "254 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9036163680088028232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.urbanmomos.com/",
+      "location": {},
+      "cuisine": "Indian",
+      "keywords": [
+        "nepali",
+        "momos",
+        "himalayan",
+        "vegetarian options",
+        "fast casual",
+        "outdoor seating"
+      ],
+      "menuUrl": "https://www.urbanmomos.com/menu-san-mateo",
+      "phone": "(650) 458-3053",
+      "hours": "Mon–Sun 11am–12:45am",
+      "priceRange": "$$",
+      "description": "Family run restaurant serving momo dumplings, chow mein, and curry.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Urban Momo Small.jpeg"
+    },
+    {
+      "id": "ChIJl3GG6Lyfj4ARm0BRMW1ZRas",
+      "formattedAddress": "66 21st Ave k15, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5477207,
+        "longitude": -122.3083157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12341368679392428187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Village Sandwich",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "description": "Juicy beef patties on toasted brioche buns with house-made sauce.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "hours": "Mon 10am–11pm, Tue 10:20am–11pm, Wed 10am–11:59pm, Thu 10am–11:59pm, Fri 9:30am–11:59pm, Sat 10am–11:59pm, Sun 10:15am–11pm",
+      "menuUrl": "https://www.doordash.com/store/village-sandwich-san-mateo-34527600/",
+      "priceRange": "$$",
+      "keywords": [
+        "sandwiches",
+        "lunch",
+        "counter service",
+        "fast casual"
+      ]
+    },
+    {
+      "id": "ChIJBz99fZqfj4AR0xl3FAfBon8",
+      "formattedAddress": "310 Baldwin Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.567282,
+        "longitude": -122.32459899999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9197125625196255699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://whisperfusion.com/",
+      "displayName": {
+        "text": "Whisper",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-mateo/Whisper : Wunderbar Small.jpeg",
+      "phone": "(650) 727-3799",
+      "description": "Chef Nick Yoon crafts fusion flavors with precision and originality.",
+      "hours": "Mon–Thu 9:30am–2:30pm, 5:30pm–9pm, Fri 9:30am–2:30pm, 5:30pm–9:30pm, Sat 8:30am–3pm, 5:30pm–9:30pm, Sun 8:30am–3pm, 5:30pm–9pm",
+      "menuUrl": "https://pos.chowbus.com/online-ordering/store/Whisper/23635",
+      "priceRange": "$$",
+      "keywords": [
+        "fusion",
+        "date night",
+        "cocktails",
+        "dinner only"
+      ]
+    },
+    {
+      "id": "ChIJQ5Cpuxmfj4AR6J-ovmEli1E",
+      "formattedAddress": "310 Baldwin Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5672713,
+        "longitude": -122.3246245
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5875831240575721448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.wunderbarsm.com/",
+      "displayName": {
+        "text": "Wunderbar",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-mateo/Wunderbar Small.jpeg",
+      "phone": "(650) 642-3836",
+      "description": "Underground speakeasy featuring classic cocktails and creative riffs on them.",
+      "hours": "Mon–Tue Closed, Wed–Thu 4:30pm–11pm, Fri–Sat 4:30pm–11:30pm, Sun Closed",
+      "menuUrl": "https://www.wunderbarsm.com/cocktails.html",
+      "priceRange": "$$",
+      "keywords": [
+        "german",
+        "craft beer",
+        "bar",
+        "pretzels",
+        "sausages",
+        "happy hour"
+      ]
+    },
+    {
+      "id": "ChIJX3rgaxqfj4ARTDV4zC6uL8c",
+      "formattedAddress": "54 37th Ave, San Mateo, CA 94403, USA",
+      "location": {
+        "latitude": 37.5342006,
+        "longitude": -122.2955589
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14352882053475218764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.yuzusushisanmateo.com/",
+      "displayName": {
+        "text": "Yuzu",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "phone": "(650) 358-0298",
+      "description": "Fresh fish from Japan and large selection of premium sake.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Yuzu Sushi Small.jpeg",
+      "hours": "Mon Closed, Tue–Fri 11:30am–1:45pm, 5:30pm–8:45pm, Sat 5:30pm–8:45pm, Sun 5:30pm–8:30pm",
+      "menuUrl": "http://www.yuzusushisanmateo.com/dinner-1-1",
+      "priceRange": "$$$",
+      "keywords": [
+        "japanese",
+        "omakase",
+        "kaiseki",
+        "date night",
+        "sake",
+        "special occasion"
+      ]
+    },
+    {
+      "id": "ChIJQ6_pTHqej4ARsN5gHPirK9Y",
+      "formattedAddress": "668 E 3rd Ave, San Mateo, CA 94401, USA",
+      "location": {
+        "latitude": 37.5672573,
+        "longitude": -122.31940399999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15432617630231486128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.zennoodlebarca.com/",
+      "displayName": {
+        "text": "Zen Noodle Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "phone": "(650) 781-3183",
+      "description": "Family-owned restaurant serving authentic Shanghai dim sum and noodles.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Zen Noodle Bar Small.jpeg",
+      "hours": "Mon 11am–3pm, 5pm–9pm, Tue Closed, Wed–Sun 11am–3pm, 5pm–9pm",
+      "menuUrl": "https://www.zennoodlebarca.com/wto48u2j/zen-noodle-bar-san-mateo-94401/menu",
+      "priceRange": "$",
+      "keywords": [
+        "chinese noodles",
+        "fast casual",
+        "counter service"
+      ]
+    },
+    {
+      "id": "manual_1779577998337",
+      "displayName": {
+        "text": "Cruel Donuts & Ice Cream",
+        "languageCode": "en"
+      },
+      "formattedAddress": "138 W 25th Ave, San Mateo, CA 94403",
+      "googleMapsUri": "https://www.google.com/maps/place/Cruel+Donuts+%26+Ice+Cream/@37.543771,-122.3078161,17z/data=!3m1!4b1!4m6!3m5!1s0x808f9fa50f1c1315:0xd2b190c2de98c57b!8m2!3d37.543771!4d-122.3078161!16s%2Fg%2F11yk1kt56t?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "dessert",
+      "keywords": [
+        "donuts",
+        "ice cream"
+      ],
+      "phone": "+16503152216",
+      "hours": "Mon-Fri 7:15am-8pm, Sat 7:15am-9pm, Sun 7:15am-5pm",
+      "priceRange": "$",
+      "description": "Homemade ice cream and donuts. Ice cream is made in house by highly experienced ice cream chef. Unique flavors."
+    }
+  ],
   "Foster City, CA": [
     {
       "id": "ChIJ82VKveefj4AR8tEV6JA-EpE",
