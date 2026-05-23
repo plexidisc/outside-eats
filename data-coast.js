@@ -1821,21 +1821,6 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/half-moon-bay/Nanos Small.jpeg"
     },
     {
-      "id": "ChIJa20ih2MLj4ARxpEI4qkvwZI",
-      "formattedAddress": "1 Miramontes Point Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4338455,
-        "longitude": -122.4414431
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10574785806730826182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ritzcarlton.com/en/hotels/hafrz-the-ritz-carlton-half-moon-bay/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
-      "displayName": {
-        "text": "Navio",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJVR5Xc7F0j4ARJOQK38hLCfI",
       "formattedAddress": "150 San Mateo Rd, Half Moon Bay, CA 94019, USA",
       "location": {
