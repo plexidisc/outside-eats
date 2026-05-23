@@ -5297,7 +5297,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.littleskybakery.com/",
       "priceRange": "$$",
-      "description": "Artisan neighborhood bakery with house-baked sourdough, croissants, seasonal pastries, and specialty coffee rooted in locally sourced ingredients."
+      "description": "Artisan neighborhood bakery with house-baked sourdough, croissants, seasonal pastries, and specialty coffee rooted in locally sourced ingredients.",
+      "photoUrl": "images/restaurant-photos/menlo-park/Little Sky Bakery Small.jpeg"
     },
     {
       "id": "ChIJUVVbRQClj4ARUQcquK4wIfo",
