@@ -4040,7 +4040,1966 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/redwood-city/Zareens Small.jpeg"
     }
   ],
-  "Menlo Park, CA": [{"id": "ChIJXTqVn7qkj4ARa3-Bikh4S9c", "formattedAddress": "880 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4503135, "longitude": -122.18591119999999}, "googleMapsUri": "https://maps.google.com/?cid=15513625594364526443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.amicis.com/menlo-park", "displayName": {"text": "Amici's East Coast Pizzeria", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/menlo-park/Amicis Small.jpeg", "phone": "(650) 329-8888", "hours": {"Monday": "11:30 AM - 9:00 PM", "Tuesday": "11:30 AM - 9:00 PM", "Wednesday": "11:30 AM - 9:00 PM", "Thursday": "11:30 AM - 9:00 PM", "Friday": "11:30 AM - 10:00 PM", "Saturday": "11:30 AM - 10:00 PM", "Sunday": "11:30 AM - 9:00 PM"}, "menuUrl": "https://www.amicis.com/menlo-park", "priceRange": "$$", "description": "Bay Area pizza institution since 1987 at 880 Santa Cruz Avenue with thin-crust East Coast-style pies baked on stone hearths, pasta, salads, and gluten-free and vegan-friendly options."}, {"id": "ChIJgfjkWemkj4ARcjnuZBHmt9w", "formattedAddress": "3536 Alameda de las Pulgas #4, Menlo Park, CA 94025, USA", "location": {"latitude": 37.431895, "longitude": -122.20236}, "googleMapsUri": "https://maps.google.com/?cid=15904433571464362354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.avantipizzafreshpasta.com/", "displayName": {"text": "Avanti Pizza Fresh Pasta", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/menlo-park/Avanti Pizza Small.jpeg", "phone": "(650) 854-1222", "hours": {"Monday": "11:00 AM - 8:00 PM", "Tuesday": "11:00 AM - 8:00 PM", "Wednesday": "11:00 AM - 8:00 PM", "Thursday": "11:00 AM - 8:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 8:00 PM", "Sunday": "4:00 PM - 8:00 PM"}, "menuUrl": "https://www.avantipizzafreshpasta.com/menu", "priceRange": "$$", "description": "Family-owned Italian restaurant at 3536 Alameda de las Pulgas with authentic handcrafted pizzas, fresh-made sauces, house pasta, and salads at affordable prices."}, {"id": "ChIJP01j_qC8j4ARyxyiGFKN_rs", "formattedAddress": "1189 Willow Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.472729799999996, "longitude": -122.15506979999998}, "googleMapsUri": "https://maps.google.com/?cid=13546420112917142731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://backayard.net/", "displayName": {"text": "Back A Yard Caribbean Grill", "languageCode": "en"}, "cuisine": "Caribbean", "photoUrl": "images/restaurant-photos/menlo-park/Back a Yard Small.jpeg", "phone": "(650) 323-4244", "hours": {"Monday": "11:00 AM - 8:00 PM", "Tuesday": "11:00 AM - 8:00 PM", "Wednesday": "11:00 AM - 8:00 PM", "Thursday": "11:00 AM - 8:00 PM", "Friday": "11:00 AM - 8:00 PM", "Saturday": "11:00 AM - 8:00 PM", "Sunday": "11:00 AM - 6:00 PM"}, "menuUrl": "https://menlopark.backayardcaribbeangrill.com/", "priceRange": "$$", "description": "Authentic Caribbean kitchen near Willow Road with jerk chicken, beef oxtail, curried goat, plantains, and rice plates that draw a loyal following to this Bay Area institution since 2004."}, {"id": "ChIJKUiXDQClj4AR54PnQ4zkiOw", "formattedAddress": "639 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.452528, "longitude": -122.1834518}, "googleMapsUri": "https://maps.google.com/?cid=17044124080869442535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Bar Loretta", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/menlo-park/Bar Loretta Small.jpeg", "phone": "(650) 462-1686", "hours": {"Monday": "4:00 PM - 9:00 PM", "Tuesday": "4:00 PM - 10:00 PM", "Wednesday": "4:00 PM - 10:00 PM", "Thursday": "4:00 PM - 10:00 PM", "Friday": "4:00 PM - 10:00 PM", "Saturday": "4:00 PM - 10:00 PM", "Sunday": "Closed"}, "menuUrl": "https://www.bistrovida.com/bar-loretta", "priceRange": "$$", "description": "Sleek cocktail bar and lounge extension of Bistro Vida on Santa Cruz Avenue with craft cocktails, a curated wine list, small plates, and a sophisticated evening atmosphere."}, {"id": "ChIJK3DFfeKlj4ARK9PM4DRr9yo", "formattedAddress": "550 Oak Grove Ave Suite B, Menlo Park, CA 94025, USA", "location": {"latitude": 37.454954300000004, "longitude": -122.18406580000001}, "googleMapsUri": "https://maps.google.com/?cid=3096061143694496555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://barebottle.com/", "displayName": {"text": "Barebottle Brewing Company - Menlo Park", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/menlo-park/Bare Bottle Brew Co Small.jpeg", "phone": "(650) 320-8348", "hours": {"Monday": "2:00 PM - 9:00 PM", "Tuesday": "12:00 PM - 11:00 PM", "Wednesday": "12:00 PM - 11:00 PM", "Thursday": "12:00 PM - 11:00 PM", "Friday": "12:00 PM - 11:00 PM", "Saturday": "12:00 PM - 11:00 PM", "Sunday": "1:00 PM - 8:00 PM"}, "menuUrl": "https://barebottlebrew.com/", "priceRange": "$$", "description": "Award-winning SF brewery taproom at 550B Oak Grove Avenue with an extensive rotating selection of craft beers, outdoor seating, and a relaxed neighborhood vibe."}, {"id": "ChIJxZ4l4q6lj4ARNNpkCOK92E8", "formattedAddress": "2825 Sand Hill Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4196885, "longitude": -122.2117957}, "googleMapsUri": "https://maps.google.com/?cid=5753557302466894388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.rosewoodhotels.com/en/sand-hill-menlo-park/dining", "displayName": {"text": "Bici Coffee", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/menlo-park/Bici Coffee Small.jpeg", "phone": "(650) 561-1500", "hours": {"Monday": "6:30 AM - 4:30 PM", "Tuesday": "6:30 AM - 4:30 PM", "Wednesday": "6:30 AM - 4:30 PM", "Thursday": "6:30 AM - 4:30 PM", "Friday": "6:30 AM - 4:30 PM", "Saturday": "6:30 AM - 4:30 PM", "Sunday": "6:30 AM - 4:30 PM"}, "menuUrl": "https://www.rosewoodhotels.com/en/sand-hill-menlo-park/dining/bici-coffee", "priceRange": "$", "description": "Cyclist-inspired specialty coffee bar at Rosewood Sand Hill on Sand Hill Road celebrating cycling culture and the Bay Area community with craft espresso drinks and seasonal pastries."}, {"id": "ChIJPTPS1q-kj4ARMuL955Oc-tI", "formattedAddress": "641 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4524799, "longitude": -122.18340760000001}, "googleMapsUri": "https://maps.google.com/?cid=15202635651208831538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bistrovida.com/", "displayName": {"text": "Bistro Vida", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Bistro Vida Small.jpeg", "phone": "(650) 462-1686", "hours": {"Monday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Tuesday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Wednesday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Thursday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Friday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Saturday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Sunday": "11:00 AM - 2:00 PM, 5:00 PM - 8:00 PM"}, "menuUrl": "https://www.bistrovida.com/", "priceRange": "$$$", "description": "Downtown Menlo Park institution since 1998 inspired by Parisian bistro culture, with classic French bistro dishes, a full bar, heated outdoor patio, and a warm neighborhood atmosphere on Santa Cruz Avenue."}, {"id": "ChIJPeparJKkj4ARVcbpoKimYS0", "formattedAddress": "3207 Alameda de las Pulgas, Menlo Park, CA 94025, USA", "location": {"latitude": 37.435392799999995, "longitude": -122.20818939999998}, "googleMapsUri": "https://maps.google.com/?cid=3270078047632082517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://bobscountrycorner.com/", "displayName": {"text": "Bob’s Country Corner", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/menlo-park/Country Corner Small.jpeg", "phone": "(650) 854-4260", "hours": {"Monday": "7:30 AM - 7:00 PM", "Tuesday": "7:30 AM - 7:00 PM", "Wednesday": "7:30 AM - 7:00 PM", "Thursday": "7:30 AM - 7:00 PM", "Friday": "7:30 AM - 7:00 PM", "Saturday": "8:30 AM - 7:00 PM", "Sunday": "10:00 AM - 4:00 PM"}, "menuUrl": "https://www.bobscountrycorner.com/", "priceRange": "$", "description": "Neighborhood deli and market at 3207 Alameda de las Pulgas open since the 1970s with made-to-order sandwiches, hot food, beer and wine, and a loyal West Menlo Park following."}, {"id": "ChIJE1BxNq6kj4ARm-YgnncZtO4", "formattedAddress": "555 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4537291, "longitude": -122.1826871}, "googleMapsUri": "https://maps.google.com/?cid=17200400878379525787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.britishbankersclub.com/", "displayName": {"text": "British Bankers Club", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/British Bankers club Small.jpeg", "phone": "(650) 382-3191", "hours": {"Monday": "4:00 PM - 9:30 PM", "Tuesday": "4:00 PM - 9:30 PM", "Wednesday": "4:00 PM - 9:30 PM", "Thursday": "4:00 PM - 9:30 PM", "Friday": "4:00 PM - 10:00 PM", "Saturday": "4:00 PM - 10:00 PM", "Sunday": "4:00 PM - 9:00 PM"}, "menuUrl": "http://www.britishbankersclub.com/", "priceRange": "$$$", "description": "Landmark Menlo Park restaurant and rooftop bar at 555 Santa Cruz Avenue with seasonal American cuisine, a rooftop terrace, heated patio, private dining rooms, and views across downtown."}, {"id": "ChIJ-_yAHQClj4AR4G8J6Gda_NE", "formattedAddress": "1300 El Camino Real Suite A, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4548942, "longitude": -122.1852241}, "googleMapsUri": "https://maps.google.com/?cid=15131068250379087840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://bubbelahmpk.com/", "displayName": {"text": "Bubbelah", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/menlo-park/Bubbelah Small.jpeg", "hours": {"Monday": "11:30 AM - 7:00 PM", "Tuesday": "11:30 AM - 7:00 PM", "Wednesday": "11:30 AM - 7:00 PM", "Thursday": "11:30 AM - 7:00 PM", "Friday": "11:30 AM - 7:00 PM", "Saturday": "11:30 AM - 7:00 PM", "Sunday": "11:30 AM - 7:00 PM"}, "menuUrl": "https://bubbelahmpk.com/", "priceRange": "$$", "description": "Fast-casual Jewish-inspired counter concept from the Che Fico team at 1300 El Camino Real with mezze, soups, salads, freshly baked breads, and housemade grab-and-go provisions."}, {"id": "ChIJe1sdKlKlj4ARrLC-zqz7wHo", "formattedAddress": "1302 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.455417499999996, "longitude": -122.1862363}, "googleMapsUri": "https://maps.google.com/?cid=8845346387777204396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.burmalove.co/", "displayName": {"text": "Burma Love", "languageCode": "en"}, "cuisine": "Burmese", "photoUrl": "images/restaurant-photos/menlo-park/Burma Love Small.jpeg", "phone": "(650) 250-5660", "hours": {"Monday": "11:30 AM - 9:30 PM", "Tuesday": "11:30 AM - 9:30 PM", "Wednesday": "11:30 AM - 9:30 PM", "Thursday": "11:30 AM - 9:30 PM", "Friday": "11:30 AM - 10:00 PM", "Saturday": "10:00 AM - 10:00 PM", "Sunday": "10:00 AM - 10:00 PM"}, "menuUrl": "https://www.burmalove.co/burma-love-menlo-park", "priceRange": "$$", "description": "Menlo Park outpost of the beloved Burma Superstar family at 1302 E El Camino Real with contemporary Burmese cuisine, innovative cocktails, tea leaf salad, and a happy hour Monday through Friday."}, {"id": "ChIJARB2O66kj4ARF-HVDDNeV7c", "formattedAddress": "1010 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4537501, "longitude": -122.18230530000001}, "googleMapsUri": "https://maps.google.com/?cid=13211131605266325783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.cafeborrone.com/", "displayName": {"text": "Cafe Borrone", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/menlo-park/Cafe Borrone Small.jpeg", "hours": {"Monday": "8:00 AM - 9:00 PM", "Tuesday": "8:00 AM - 9:00 PM", "Wednesday": "8:00 AM - 9:00 PM", "Thursday": "8:00 AM - 9:00 PM", "Friday": "8:00 AM - 10:00 PM", "Saturday": "8:00 AM - 10:00 PM", "Sunday": "8:00 AM - 8:00 PM"}, "menuUrl": "https://cafeborrone.com/", "priceRange": "$$", "description": "Beloved European-style cafe near the Menlo Park train station at 1010 El Camino Real with fresh organic food, live music, ample outdoor seating, and a community gathering atmosphere since 1988."}, {"id": "opening_cafe_vivant", "formattedAddress": "720 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4531, "longitude": -122.182}, "googleMapsUri": "https://maps.google.com/?q=720+Santa+Cruz+Ave,+Menlo+Park,+CA", "websiteUri": "https://cafevivantca.com", "displayName": {"text": "Café Vivant", "languageCode": "en"}, "cuisine": "American,Wine Bar", "phone": "(650) 557-2244", "hours": {"Monday": "Closed", "Tuesday": "4:30 PM - 8:30 PM", "Wednesday": "4:30 PM - 8:30 PM", "Thursday": "4:30 PM - 8:30 PM", "Friday": "4:30 PM - 9:00 PM", "Saturday": "4:30 PM - 9:00 PM", "Sunday": "Closed"}, "description": "Heritage-breed chicken and an exceptional 3,000-bottle wine cellar from two sommeliers. One of the most distinctive new restaurants on the Peninsula.", "menuUrl": "https://cafevivantca.com", "priceRange": "$$$$", "photoUrl": "images/restaurant-photos/menlo-park/Cafe Vivant Small.jpeg"}, {"id": "ChIJCXiv-Qelj4AR9V8pN11zgNE", "formattedAddress": "720 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4516634, "longitude": -122.1848323}, "googleMapsUri": "https://maps.google.com/?cid=15096192795140513781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cafevivantca.com/", "displayName": {"text": "Café Vivant", "languageCode": "en"}, "cuisine": "American", "phone": "(650) 557-2244", "hours": {"Tuesday": "5:00 PM - 9:00 PM", "Wednesday": "5:00 PM - 9:00 PM", "Thursday": "5:00 PM - 9:00 PM", "Saturday": "5:00 PM - 9:30 PM", "Sunday": "5:00 PM - 9:30 PM"}, "menuUrl": "https://www.cafevivantmp.com/", "priceRange": "$$$$", "description": "Intimate farm-to-table restaurant at 720 Santa Cruz Avenue with a tightly curated dinner menu featuring locally sourced seasonal ingredients and an elegant neighborhood dining experience."}, {"id": "ChIJAQB0y8ukj4ARIh3K6QumFHc", "formattedAddress": "75 Arbor Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4415123, "longitude": -122.1791504}, "googleMapsUri": "https://maps.google.com/?cid=8580665760144825634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.cafewisteria.com/", "displayName": {"text": "Cafe Wisteria", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/Cafe Wisteria Small.jpeg", "phone": "(650) 838-9002", "hours": {"Monday": "10:00 AM - 6:00 PM", "Tuesday": "10:00 AM - 6:00 PM", "Wednesday": "10:00 AM - 6:00 PM", "Thursday": "10:00 AM - 6:00 PM", "Friday": "10:00 AM - 6:00 PM", "Saturday": "10:00 AM - 6:00 PM", "Sunday": "10:00 AM - 6:00 PM"}, "priceRange": "$$", "description": "Quaint neighborhood cafe at 75 Arbor Road in a historic Victorian home with light fare, specialty coffee, and a garden setting perfect for a relaxed midday break."}, {"id": "ChIJtYpHfUK7j4ARTWWW4_FP7DI", "formattedAddress": "1929 Menalto Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.459263199999995, "longitude": -122.15279609999999}, "googleMapsUri": "https://maps.google.com/?cid=3669395696724108621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://neighborhood.pizza/", "displayName": {"text": "Cafe Zoe & Neighborhood Pizza Guy", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/menlo-park/Cafe Zoe Small.jpeg", "phone": "(650) 407-7476", "hours": {"Monday": "8:00 AM - 4:00 PM", "Tuesday": "8:00 AM - 4:00 PM", "Wednesday": "8:00 AM - 8:00 PM", "Thursday": "8:00 AM - 8:00 PM", "Friday": "8:00 AM - 8:00 PM", "Saturday": "8:00 AM - 8:00 PM", "Sunday": "8:00 AM - 7:00 PM"}, "menuUrl": "https://www.cafezoe.net/", "priceRange": "$", "description": "Neighborhood cafe and pizza spot at 1929 Menalto Avenue with morning coffee and pastries transitioning to wood-fired pizzas Wednesday through Sunday evening."}, {"id": "ChIJYfJCcSqlj4ARm2v5HkfMSv0", "formattedAddress": "898 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.449995799999996, "longitude": -122.1861014}, "googleMapsUri": "https://maps.google.com/?cid=18251625045706763163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://campermp.com/", "displayName": {"text": "Camper", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/Camper Small.jpeg", "phone": "(650) 321-8980", "hours": {"Monday": "5:00 PM - 8:30 PM", "Tuesday": "5:00 PM - 8:30 PM", "Wednesday": "5:00 PM - 8:45 PM", "Thursday": "5:00 PM - 8:45 PM", "Friday": "5:00 PM - 8:45 PM", "Saturday": "10:00 AM - 1:00 PM, 5:00 PM - 8:45 PM", "Sunday": "10:00 AM - 1:00 PM"}, "menuUrl": "https://www.campermenlopark.com/", "priceRange": "$$", "description": "Michelin-recommended California cuisine restaurant at 898 Santa Cruz Avenue with a sunlit corner dining room, seasonal menus, 10-hour pork ragu rigatoni, buttermilk fried chicken, and weekend brunch."}, {"id": "ChIJq6CCdl-jj4ARjkoQDdcOsDE", "formattedAddress": "1850 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.459536799999995, "longitude": -122.19433749999999}, "googleMapsUri": "https://maps.google.com/?cid=3580378020559473294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.celiasrestaurants.com/", "displayName": {"text": "Celia's", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Celias Small.jpeg", "phone": "(650) 322-9636", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.celiasrestaurants.com/", "priceRange": "$$", "description": "Longtime Menlo Park Mexican restaurant chain with house-made margaritas, combination plates, enchiladas, and family-friendly service in a comfortable neighborhood setting."}, {"id": "ChIJC4JvtdKlj4ARf747hSEVuyo", "formattedAddress": "1302 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4555144, "longitude": -122.18587380000001}, "googleMapsUri": "https://maps.google.com/?cid=3079078003951255167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cheficoparcomenlo.com/", "displayName": {"text": "Che Fico Parco Menlo", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/menlo-park/Che Fico Parco Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "10:00 AM - 10:00 PM", "Sunday": "10:00 AM - 9:00 PM"}, "menuUrl": "https://www.cheficoparco.com/", "priceRange": "$$", "description": "Outdoor all-day Italian concept from SF's acclaimed Che Fico team at Stanford Shopping Center with wood-fired pizza, fresh pasta, and a relaxed California-Italian atmosphere."}, {"id": "ChIJ__-UGrCkj4ARFiZnv8KczUg", "formattedAddress": "780 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4512731, "longitude": -122.18514789999999}, "googleMapsUri": "https://maps.google.com/?cid=5246021501205292566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.clarksoysterbar.com/locations/menlo-park", "displayName": {"text": "Clark's Oyster Bar- Menlo Park", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/menlo-park/Clarks Oyster Bar Small.jpeg", "hours": {"Monday": "11:30 AM - 9:30 PM", "Tuesday": "11:30 AM - 9:30 PM", "Wednesday": "11:30 AM - 9:30 PM", "Thursday": "11:30 AM - 9:30 PM", "Friday": "11:30 AM - 10:00 PM", "Saturday": "11:30 AM - 10:00 PM", "Sunday": "11:30 AM - 9:30 PM"}, "menuUrl": "https://clarksoysterbar.com/menlo-park/", "priceRange": "$$$", "description": "Peninsula outpost of the Austin-born oyster bar on Santa Cruz Avenue with fresh raw bar, oysters Rockefeller, chowder, fish and chips, and a lively downtown atmosphere."}, {"id": "ChIJ2aR2-6-kj4ARCRsRgFybxcc", "formattedAddress": "1149 Chestnut St, Menlo Park, CA 94025, USA", "location": {"latitude": 37.452, "longitude": -122.1855}, "googleMapsUri": "https://maps.google.com/?cid=14395082605547559689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.coffeebar.com/pages/menlo", "displayName": {"text": "Coffeebar", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/menlo-park/Coffeebar Small.jpeg", "hours": {"Monday": "6:30 AM - 5:00 PM", "Tuesday": "6:30 AM - 5:00 PM", "Wednesday": "6:30 AM - 5:00 PM", "Thursday": "6:30 AM - 5:00 PM", "Friday": "6:30 AM - 5:00 PM", "Saturday": "7:00 AM - 5:00 PM", "Sunday": "7:00 AM - 5:00 PM"}, "menuUrl": "https://coffeebar.com/pages/menlo-park", "priceRange": "$", "description": "Specialty coffee roaster and cafe at 1035 El Camino Real with single-origin pour-overs, Italian espresso drinks, housemade pastries, and a thoughtful rotating menu of light food."}, {"id": "ChIJZ1UNLrKkj4ARKcgVQRourdA", "formattedAddress": "751 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.451465999999996, "longitude": -122.17954999999998}, "googleMapsUri": "https://maps.google.com/?cid=15036725421155928105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://cooksseafood.com/", "displayName": {"text": "Cook's Seafood", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/menlo-park/Cooks Seafood Small.jpeg", "hours": {"Monday": "10:00 AM - 8:00 PM", "Tuesday": "10:00 AM - 8:00 PM", "Wednesday": "10:00 AM - 8:00 PM", "Thursday": "10:00 AM - 8:00 PM", "Friday": "10:00 AM - 9:00 PM", "Saturday": "10:00 AM - 9:00 PM", "Sunday": "10:00 AM - 8:00 PM"}, "menuUrl": "https://cooksseafood.com/", "priceRange": "$$", "description": "Menlo Park seafood institution at 751 El Camino Real since 1947 with fresh Dungeness crab, clam chowder, fish and chips, shrimp cocktail, and a takeout counter beloved across generations."}, {"id": "ChIJo0NIcZi8j4ARjJ9Kj6BWEnc", "formattedAddress": "873 Hamilton Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4798664, "longitude": -122.15203009999999}, "googleMapsUri": "https://maps.google.com/?cid=8580015487693004684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.dashijapaneserestaurant.com/", "displayName": {"text": "Dashi Japanese Restaurant", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/menlo-park/Dashi Japanese Small.jpeg", "hours": {"Monday": "Closed", "Tuesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Wednesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Thursday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Friday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Saturday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Sunday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM"}, "menuUrl": "https://www.dashibythebay.com/", "priceRange": "$$", "description": "Japanese comfort food and ramen restaurant with house-made broths, sushi rolls, and Japanese small plates in a warm neighborhood setting."}, {"id": "ChIJnfbTrlSjj4ARTeEjFnYAsNc", "formattedAddress": "3219 Middlefield Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4719763, "longitude": -122.20388100000001}, "googleMapsUri": "https://maps.google.com/?cid=15541922821233172813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Delicias para tu paladar M", "languageCode": "es"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/menlo-park/Delicias Small.jpeg", "hours": {"Monday": "8:00 AM - 8:00 PM", "Tuesday": "8:00 AM - 8:00 PM", "Wednesday": "8:00 AM - 8:00 PM", "Thursday": "8:00 AM - 8:00 PM", "Friday": "8:00 AM - 8:00 PM", "Saturday": "8:00 AM - 8:00 PM", "Sunday": "8:00 AM - 8:00 PM"}, "priceRange": "$", "description": "Mexican taqueria and bakery with fresh-made tacos, burritos, tamales, and pan dulce open seven days a week at everyday prices."}, {"id": "ChIJrVtZudG7j4ARKCfNlz0hVS8", "formattedAddress": "840 Willow Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4656905, "longitude": -122.1567872}, "googleMapsUri": "https://maps.google.com/?cid=3410668841226544936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.dosapoint.co/", "displayName": {"text": "Dosa Point", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/menlo-park/Dosa Point Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$", "description": "South Indian restaurant serving authentic crispy dosas, vadas, idli, and sambar with vegetarian-focused options at approachable prices."}, {"id": "ChIJp1uWC0mlj4ARsNiuJAYb5Zk", "formattedAddress": "1438 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.456537499999996, "longitude": -122.1883738}, "googleMapsUri": "https://maps.google.com/?cid=11089299370668906672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://drunkenmonkizakaya.com/", "displayName": {"text": "Drunken Monk", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/menlo-park/Drunken Monk Small.jpeg", "hours": {"Monday": "5:00 PM - 10:00 PM", "Tuesday": "5:00 PM - 10:00 PM", "Wednesday": "5:00 PM - 10:00 PM", "Thursday": "5:00 PM - 10:00 PM", "Friday": "5:00 PM - 11:00 PM", "Saturday": "5:00 PM - 11:00 PM", "Sunday": "5:00 PM - 9:00 PM"}, "menuUrl": "https://www.drunkenmonkmp.com/", "priceRange": "$$", "description": "Izakaya-inspired bar and restaurant with Japanese-influenced small plates, craft cocktails, sake, and a late-night vibe popular with the downtown Menlo Park crowd."}, {"id": "ChIJt8dAXemkj4ARXDrSoUeLfh0", "formattedAddress": "3567 Alameda de las Pulgas, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4320471, "longitude": -122.2015788}, "googleMapsUri": "https://maps.google.com/?cid=2125289213939300956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.dutchgoose.net/", "displayName": {"text": "Dutch Goose", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/Dutch Goose Small.jpeg", "hours": {"Monday": "11:00 AM - 12:00 AM", "Tuesday": "11:00 AM - 12:00 AM", "Wednesday": "11:00 AM - 12:00 AM", "Thursday": "11:00 AM - 12:00 AM", "Friday": "11:00 AM - 12:00 AM", "Saturday": "11:00 AM - 12:00 AM", "Sunday": "11:00 AM - 12:00 AM"}, "menuUrl": "https://dutchgoose.net/", "priceRange": "$", "description": "No-frills dive bar and burger institution at 3567 Alameda de las Pulgas since 1966 with legendary greasy burgers, cold beer, and a devoted neighborhood following across six decades."}, {"id": "ChIJPd8zEN6kj4ARpm5JaBuWH3M", "formattedAddress": "325 Sharon Park Dr B4, Menlo Park, CA 94025, USA", "location": {"latitude": 37.423808799999996, "longitude": -122.19650539999999}, "googleMapsUri": "https://maps.google.com/?cid=8295514083097669286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "El Cerrito", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/El Cerrito Small.jpeg", "phone": "(650) 854-7300", "hours": {"Monday": "7:30 AM - 9:00 PM", "Tuesday": "7:30 AM - 9:00 PM", "Wednesday": "7:30 AM - 9:00 PM", "Thursday": "7:30 AM - 9:00 PM", "Friday": "7:30 AM - 9:00 PM", "Saturday": "8:00 AM - 9:00 PM", "Sunday": "8:00 AM - 2:00 PM"}, "menuUrl": "https://elcerritomenlopark.com/", "priceRange": "$$", "description": "Beloved Sharon Heights neighborhood institution since the 1980s with outdoor seating, American breakfasts, fish tacos with mango salsa, carnitas, and cheerful family service open seven days."}, {"id": "ChIJfeumwra7j4AR-ZAiZ3FkDqo", "formattedAddress": "812 Willow Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4653476, "longitude": -122.15703389999999}, "googleMapsUri": "https://maps.google.com/?cid=12253842074346098937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "El Rancho Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/El Rancho Taqueria Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Neighborhood taqueria serving tacos, burritos, and traditional Mexican plates at everyday prices in Menlo Park."}, {"id": "ChIJ03qnoLSkj4ARY8QLKH73qlM", "formattedAddress": "500 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.451145, "longitude": -122.177326}, "googleMapsUri": "https://maps.google.com/?cid=6028903172398629987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.eylanrestaurant.com/", "displayName": {"text": "Eylan", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/menlo-park/Eylan Small.jpeg", "phone": "(650) 420-6866", "hours": {"Tuesday": "5:00 PM - 10:00 PM", "Wednesday": "5:00 PM - 10:00 PM", "Thursday": "5:00 PM - 10:00 PM", "Friday": "5:00 PM - 10:00 PM", "Saturday": "5:00 PM - 10:00 PM", "Sunday": "5:00 PM - 10:00 PM"}, "menuUrl": "https://www.eylanrestaurant.com/", "priceRange": "$$$$", "description": "Upscale modern Indian restaurant at 500 El Camino Real with California-influenced subcontinental cuisine, house-made chutneys, craft cocktails, and an elegant dining room."}, {"id": "ChIJnemarm-lj4AR0SbnSCF4Czk", "formattedAddress": "1165 Merrill St, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4549056, "longitude": -122.18342019999999}, "googleMapsUri": "https://maps.google.com/?cid=4110511169258071761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://farmhousethai.com/menlo-park?utm_source=google", "displayName": {"text": "Farmhouse Kitchen Thai Cuisine", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/menlo-park/Farmhouse Kitchen Small.jpeg", "hours": {"Monday": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM", "Tuesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM", "Wednesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM", "Thursday": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM", "Friday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Saturday": "12:00 PM - 3:00 PM, 5:00 PM - 9:30 PM", "Sunday": "12:00 PM - 3:00 PM, 5:00 PM - 9:00 PM"}, "menuUrl": "https://www.farmhousekitchenthai.com/menlo-park/", "priceRange": "$$$", "description": "Acclaimed Thai restaurant from the SF-based Farmhouse Kitchen family with regional Thai dishes, elevated cocktails, and a vibrant dining room in downtown Menlo Park."}, {"id": "ChIJJ0dW5KWkj4AREKzj85yKGhw", "formattedAddress": "1368 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4556584, "longitude": -122.1868502}, "googleMapsUri": "https://maps.google.com/?cid=2025083389167774736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://feyrestaurant.com/", "displayName": {"text": "FEY Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/menlo-park/Fey Restaurant Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "10:00 AM - 9:00 PM", "Sunday": "10:00 AM - 9:00 PM"}, "menuUrl": "https://www.feyrestaurant.com/", "priceRange": "$", "description": "Fast-casual Asian fusion concept popular with the local tech community for customizable rice bowls, noodles, and globally-inspired plates at everyday prices."}, {"id": "ChIJCZfXbumkj4AR1p2me3o8urg", "formattedAddress": "3607 Alameda de las Pulgas, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4318449, "longitude": -122.20111829999999}, "googleMapsUri": "https://maps.google.com/?cid=13311018145405115862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cooleatz.com/", "displayName": {"text": "Flea Street", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/Flea Street Small.jpeg", "phone": "(650) 854-1226", "hours": {"Tuesday": "5:00 PM - 8:45 PM", "Wednesday": "5:00 PM - 8:45 PM", "Thursday": "5:00 PM - 8:45 PM", "Friday": "5:00 PM - 8:45 PM", "Saturday": "5:00 PM - 8:45 PM"}, "menuUrl": "https://www.cheflea.com/", "priceRange": "$$$", "description": "Michelin-recommended farm-to-table California restaurant at 3607 Alameda de las Pulgas since 1980, in a converted home with intimate dining rooms, live piano, and a strictly seasonal menu from Chef Jesse Cool."}, {"id": "ChIJKQDyuVGlj4ARv_rHjJdjDAw", "formattedAddress": "515 El Camino Real suite 110, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4496803, "longitude": -122.17846309999999}, "googleMapsUri": "https://maps.google.com/?cid=868178330728790719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://guapasmexicangrill.com/", "displayName": {"text": "Guapa's Mexican Grill", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Guapas Mexican grill Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "menuUrl": "https://www.guapasmexicangrill.com/", "priceRange": "$", "description": "Neighborhood Mexican grill with tacos, burritos, quesadillas, and plate lunches at fast-casual prices popular with the local community."}, {"id": "ChIJLznoH569j4ARj7vFqWBpOrY", "formattedAddress": "877 Hamilton Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4800231, "longitude": -122.15195059999999}, "googleMapsUri": "https://maps.google.com/?cid=13130923527438187407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://hajisrestaurant.com/", "displayName": {"text": "HAJIS Restaurant & Catering Menlo Park", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/menlo-park/Hajis Small.jpeg", "hours": {"Monday": "11:00 AM - 8:00 PM", "Tuesday": "11:00 AM - 8:00 PM", "Wednesday": "11:00 AM - 8:00 PM", "Thursday": "11:00 AM - 8:00 PM", "Friday": "11:00 AM - 8:00 PM", "Saturday": "11:00 AM - 8:00 PM", "Sunday": "Closed"}, "menuUrl": "https://www.hajisrestaurant.com/", "priceRange": "$$", "description": "Indian and Pakistani restaurant and catering service with aromatic curries, biryanis, tandoori dishes, and halal options at a neighborhood-friendly setting in Menlo Park."}, {"id": "ChIJhSa1dQC7j4ARUNcQU5M37PQ", "formattedAddress": "1925 Menalto Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4591867, "longitude": -122.15279520000001}, "googleMapsUri": "https://maps.google.com/?cid=17648542145651464016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://havenmenlopark.com/", "displayName": {"text": "Haven Wine & Cheese", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/menlo-park/Haven Wine Small.jpeg", "hours": {"Monday": "11:00 AM - 7:00 PM", "Tuesday": "11:00 AM - 7:00 PM", "Wednesday": "11:00 AM - 7:00 PM", "Thursday": "11:00 AM - 7:00 PM", "Friday": "11:00 AM - 7:00 PM", "Saturday": "11:00 AM - 7:00 PM", "Sunday": "12:00 PM - 5:00 PM"}, "priceRange": "$$", "description": "Specialty wine and cheese shop on Santa Cruz Avenue with curated bottles, artisan cheese selections, charcuterie, and knowledgeable staff in the heart of downtown Menlo Park."}, {"id": "ChIJpxhC6celj4AR03xbVWGitgU", "formattedAddress": "1328 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4555862, "longitude": -122.18641969999997}, "googleMapsUri": "https://maps.google.com/?cid=411694954878565587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.hirotakasushi.com/", "displayName": {"text": "Hirotaka Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/menlo-park/Hirotaka Small.jpeg", "hours": {"Tuesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM", "Wednesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM", "Thursday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM", "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM", "Saturday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM", "Sunday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM"}, "priceRange": "$$", "description": "Traditional Japanese sushi restaurant with fresh nigiri, sashimi, and classic rolls in a quiet neighborhood setting popular with Menlo Park regulars."}, {"id": "ChIJPRbE4q6kj4ARvgfhVpQQ-Wc", "formattedAddress": "1170 Alma St #1189, Menlo Park, CA 94025, USA", "location": {"latitude": 37.455664999999996, "longitude": -122.18270779999999}, "googleMapsUri": "https://maps.google.com/?cid=7492037684406323134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://jjhawaiianbbq.shop/", "displayName": {"text": "J & J Hawaiian BBQ", "languageCode": "en"}, "cuisine": "BBQ", "photoUrl": "images/restaurant-photos/menlo-park/J&J Hawaiian Barbecue Small.jpeg", "hours": {"Monday": "10:30 AM - 9:00 PM", "Tuesday": "10:30 AM - 9:00 PM", "Wednesday": "10:30 AM - 9:00 PM", "Thursday": "10:30 AM - 9:00 PM", "Friday": "10:30 AM - 9:00 PM", "Saturday": "10:30 AM - 9:00 PM", "Sunday": "10:30 AM - 9:00 PM"}, "priceRange": "$", "description": "Hawaiian plate lunch restaurant with chicken katsu, kalua pork, teriyaki beef, two-scoop rice, and macaroni salad at everyday prices."}, {"id": "ChIJXfHxRFKlj4AR7ku_2dpX27c", "formattedAddress": "1246 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.454878199999996, "longitude": -122.1849956}, "googleMapsUri": "https://maps.google.com/?cid=13248279326308125678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.jasoncafe.com/", "displayName": {"text": "Jason Cafe", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/menlo-park/Jason's Cafe Small.jpeg", "hours": {"Monday": "7:00 AM - 3:00 PM", "Tuesday": "7:00 AM - 3:00 PM", "Wednesday": "7:00 AM - 3:00 PM", "Thursday": "7:00 AM - 3:00 PM", "Friday": "7:00 AM - 3:00 PM", "Saturday": "Closed", "Sunday": "Closed"}, "priceRange": "$", "description": "Weekday breakfast and lunch cafe serving fresh sandwiches, salads, soups, and daily specials to the local Menlo Park business community."}, {"id": "ChIJQaUX9rGkj4AR0094cczM7es", "formattedAddress": "888 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4525122, "longitude": -122.18023690000001}, "googleMapsUri": "https://maps.google.com/?cid=17000469346842595283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://jeffreyshamburgers.com/", "displayName": {"text": "Jeffrey's Hamburgers", "languageCode": "en"}, "cuisine": "Burgers", "photoUrl": "images/restaurant-photos/menlo-park/Jeffreys hamburgers Small.jpeg", "hours": {"Monday": "11:00 AM - 8:00 PM", "Tuesday": "11:00 AM - 8:00 PM", "Wednesday": "11:00 AM - 8:00 PM", "Thursday": "11:00 AM - 8:00 PM", "Friday": "11:00 AM - 8:00 PM", "Saturday": "11:00 AM - 8:00 PM", "Sunday": "11:00 AM - 8:00 PM"}, "priceRange": "$", "description": "Classic neighborhood burger spot with made-to-order burgers, fries, and shakes in a no-frills casual setting at neighborhood prices."}, {"id": "ChIJ3RNyM66kj4ARFCWUS_Jt3jg", "formattedAddress": "605 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.453277299999996, "longitude": -122.1829578}, "googleMapsUri": "https://maps.google.com/?cid=4097833598371243284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.kyoshosushi.com/", "displayName": {"text": "Kyosho", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/menlo-park/Kyosho Small.jpeg", "hours": {"Tuesday": "5:00 PM - 9:30 PM", "Wednesday": "5:00 PM - 9:30 PM", "Thursday": "5:00 PM - 9:30 PM", "Friday": "5:00 PM - 9:30 PM", "Saturday": "5:00 PM - 9:30 PM", "Sunday": "5:00 PM - 9:30 PM"}, "priceRange": "$$$", "description": "Japanese restaurant with an intimate dining room serving traditional izakaya-style small plates, sushi, and sake selections in a neighborhood setting."}, {"id": "ChIJ1x4tlq-kj4ARmtMkYWUFaV8", "formattedAddress": "651 Oak Grove Ave Suite H, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4535769, "longitude": -122.1845604}, "googleMapsUri": "https://maps.google.com/?cid=6875032239137411994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.lastanzacucina.com/", "displayName": {"text": "La Stanza Cucina Italiana", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/menlo-park/La Stanza Small.jpeg", "hours": {"Monday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Tuesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Wednesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Thursday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Saturday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Sunday": "Closed"}, "priceRange": "$$$", "description": "Neighborhood Italian restaurant with fresh pasta, wood-fired dishes, and a warm trattoria atmosphere popular for business lunches and date nights."}, {"id": "ChIJo4971K-kj4AReyDUlK6mSI0", "formattedAddress": "635 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.452656, "longitude": -122.18331719999999}, "googleMapsUri": "https://maps.google.com/?cid=10180570226422456443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.leftbank.com/", "displayName": {"text": "Left Bank Menlo Park", "languageCode": "en"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/menlo-park/Left bank Small.jpeg", "hours": {"Monday": "11:30 AM - 9:00 PM", "Tuesday": "11:30 AM - 9:00 PM", "Wednesday": "11:30 AM - 9:00 PM", "Thursday": "11:30 AM - 9:00 PM", "Friday": "11:30 AM - 10:00 PM", "Saturday": "11:30 AM - 10:00 PM", "Sunday": "10:30 AM - 9:00 PM"}, "menuUrl": "https://www.leftbank.com/menlo-park/", "priceRange": "$$$", "description": "Classic French brasserie on Santa Cruz Avenue with escargot, steak frites, moules marinières, a rotating menu of French favorites, and a popular weekend brunch since 2005."}, {"id": "ChIJB0d75rK9j4AR-sgYVBDrIgs", "formattedAddress": "842 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.450769099999995, "longitude": -122.18563569999998}, "googleMapsUri": "https://maps.google.com/?cid=802462138988284154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.levantdessert.com/", "displayName": {"text": "LeVant dessert cafe and bakery", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/menlo-park/Le Vant dessert cafe Small.jpeg", "hours": {"Monday": "8:00 AM - 8:00 PM", "Tuesday": "8:00 AM - 8:00 PM", "Wednesday": "8:00 AM - 8:00 PM", "Thursday": "8:00 AM - 8:00 PM", "Friday": "8:00 AM - 8:00 PM", "Saturday": "8:00 AM - 8:00 PM", "Sunday": "8:00 AM - 8:00 PM"}, "priceRange": "$$", "description": "Middle Eastern-inspired dessert cafe and bakery with knafeh, baklava, specialty pastries, and Arabic-style coffee in a casual sweet shop setting."}, {"id": "ChIJme-gK5Wlj4AR9O-7IuZBSNE", "formattedAddress": "506 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.454361399999996, "longitude": -122.18254419999998}, "googleMapsUri": "https://maps.google.com/?cid=15080375808931131380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://littleskybakery.com/", "displayName": {"text": "Little Sky Bakery", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "hours": {"Tuesday": "8:00 AM - 3:00 PM", "Wednesday": "8:00 AM - 3:00 PM", "Thursday": "8:00 AM - 3:00 PM", "Friday": "8:00 AM - 3:00 PM", "Saturday": "8:00 AM - 3:00 PM", "Sunday": "8:00 AM - 3:00 PM"}, "menuUrl": "https://www.littleskybakery.com/", "priceRange": "$$", "description": "Artisan neighborhood bakery with house-baked sourdough, croissants, seasonal pastries, and specialty coffee rooted in locally sourced ingredients."}, {"id": "ChIJUVVbRQClj4ARUQcquK4wIfo", "formattedAddress": "1010 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.453888, "longitude": -122.182277}, "googleMapsUri": "https://maps.google.com/?cid=18023740710685640529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://littleskybakery.com/", "displayName": {"text": "Little Sky Kitchen", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/menlo-park/Little Sky Kitchen Small.jpeg", "hours": {"Tuesday": "8:00 AM - 3:00 PM", "Wednesday": "8:00 AM - 3:00 PM", "Thursday": "8:00 AM - 3:00 PM", "Friday": "8:00 AM - 3:00 PM", "Saturday": "8:00 AM - 3:00 PM", "Sunday": "8:00 AM - 3:00 PM"}, "menuUrl": "https://www.littleskybakery.com/", "priceRange": "$$", "description": "All-day breakfast and brunch kitchen connected to Little Sky Bakery with seasonal California dishes, fresh pastries, and specialty coffee in a warm neighborhood setting."}, {"id": "ChIJn8Cf4uukj4ARJ3Z-8BqZ5EI", "formattedAddress": "3539 Alameda de las Pulgas, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4322851, "longitude": -122.20213600000001}, "googleMapsUri": "https://maps.google.com/?cid=4820145842176292391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.lulusmexicanfood.com/", "displayName": {"text": "Lulu's on the Alameda", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Lulus Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "menuUrl": "https://lulusrestaurants.com/", "priceRange": "$$", "description": "California-meets-Mexico restaurant with breakfast burritos, enchiladas, margaritas, and family-friendly plates in a relaxed setting popular with local families and tech workers."}, {"id": "ChIJlexF--ukj4ARHrF17Uxv5jI", "formattedAddress": "3535 Alameda de las Pulgas, Menlo Park, CA 94025, USA", "location": {"latitude": 37.432441399999995, "longitude": -122.20243879999998}, "googleMapsUri": "https://maps.google.com/?cid=3667741322731958558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.luttickensafter5.com/", "displayName": {"text": "Lutticken's", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/Luttickens Small.jpeg", "hours": {"Monday": "7:00 AM - 6:00 PM", "Tuesday": "7:00 AM - 6:00 PM", "Wednesday": "7:00 AM - 6:00 PM", "Thursday": "7:00 AM - 6:00 PM", "Friday": "7:00 AM - 6:00 PM", "Saturday": "7:00 AM - 6:00 PM", "Sunday": "Closed"}, "menuUrl": "https://www.luttickens.com/", "priceRange": "$", "description": "Menlo Park deli institution since 1964 with made-to-order sandwiches, soups, salads, and a devoted weekday following who know the staff by name."}, {"id": "ChIJ2wlgDrCkj4ARMheNOnjl6wc", "formattedAddress": "816 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4508806, "longitude": -122.18538329999998}, "googleMapsUri": "https://maps.google.com/?cid=570802082333660978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mademoisellecolette.com/", "displayName": {"text": "Mademoiselle Colette", "languageCode": "fr"}, "cuisine": "French", "photoUrl": "images/restaurant-photos/menlo-park/Mademoiselle Colette Small.jpeg"}, {"id": "ChIJiUNAfPukj4AR5sxvOP_JPUA", "formattedAddress": "2825 Sand Hill Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4193006, "longitude": -122.21215009999999}, "googleMapsUri": "https://maps.google.com/?cid=4629078090007432422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.rosewoodhotels.com/en/sand-hill-menlo-park/dining/madera", "displayName": {"text": "Madera", "languageCode": "en"}, "cuisine": "American"}, {"id": "ChIJrbqcMa6kj4ARYORVCGFGaI0", "formattedAddress": "1081 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4532544, "longitude": -122.1827867}, "googleMapsUri": "https://maps.google.com/?cid=10189471539491365984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mamacocorestaurant.com/", "displayName": {"text": "Mama Coco Cocina Mexicana", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Mama Coco Small.jpeg"}, {"id": "ChIJzeMWMVKlj4ARlDbb3WjiFZ0", "formattedAddress": "989 El Camino Real Ste B, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4525801, "longitude": -122.18155919999998}, "googleMapsUri": "https://maps.google.com/?cid=11319202178492216980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mamichelis.com/", "displayName": {"text": "Mami Cheli's", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Mami Chelis Small.jpeg"}, {"id": "ChIJx_z8YNa7j4ARz1dXw2JYbAY", "formattedAddress": "408 Willow Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4603158, "longitude": -122.1607415}, "googleMapsUri": "https://maps.google.com/?cid=462842042919638991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mardinisdelicafeca.com/", "displayName": {"text": "Mardini's Deli Cafe", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/menlo-park/Mardinis Deli Cafe Small.jpeg"}, {"id": "ChIJL-UtBlu7j4ARfTp_8xKGdbo", "formattedAddress": "555 Willow Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4617603, "longitude": -122.1598987}, "googleMapsUri": "https://maps.google.com/?cid=13435792479282477693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.menlobbqca.com/", "displayName": {"text": "Menlo BBQ", "languageCode": "en"}, "cuisine": "BBQ", "photoUrl": "images/restaurant-photos/menlo-park/Menlo BBQ Small.jpeg"}, {"id": "ChIJJ-I5z6-kj4ARIr0WLwxDekM", "formattedAddress": "620 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4531213, "longitude": -122.1837179}, "googleMapsUri": "https://maps.google.com/?cid=4862272467308559650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://menlocafe.com/", "displayName": {"text": "Menlo Cafe", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/menlo-park/Menlo Cafe Small.jpeg"}, {"id": "ChIJ64ktUF67j4ARKikpyeVJKPA", "formattedAddress": "100 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4477243, "longitude": -122.1721992}, "googleMapsUri": "https://maps.google.com/?cid=17305162819442387242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.menlotavern.com/?utm_source=google&utm_medium=organic&utm_campaign=business-listing", "displayName": {"text": "Menlo Tavern", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/Menlo Tavern Small.jpeg"}, {"id": "ChIJ3diSZWyjj4ARnIvP4WJNZfY", "formattedAddress": "3215 Middlefield Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4719321, "longitude": -122.20398189999997}, "googleMapsUri": "https://maps.google.com/?cid=17754682193068657564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Mexcal Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Mexical Taqueria Small.jpeg"}, {"id": "ChIJUW8_cZi8j4ARlXrMi3FLNhE", "formattedAddress": "875 Hamilton Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4799194, "longitude": -122.15204120000001}, "googleMapsUri": "https://maps.google.com/?cid=1240261698435971733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Mi Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Mi Taqueria Small.jpeg"}, {"id": "ChIJFzkSCgC7j4AR5jKHvt4MyDU", "formattedAddress": "900 Willow Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4661796, "longitude": -122.15623579999999}, "googleMapsUri": "https://maps.google.com/?cid=3875361630171116262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Mi Tienda Menlo Park Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Mi Tienda Small.jpeg"}, {"id": "ChIJy6oKPhSlj4ARNSJmSFve4Vk", "formattedAddress": "325 Sharon Park Dr Ste A2, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4240154, "longitude": -122.19657720000001}, "googleMapsUri": "https://maps.google.com/?cid=6476702222773527093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mjsushimenlopark.com/", "displayName": {"text": "MJ Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/menlo-park/MJ Sushi Small.jpeg"}, {"id": "ChIJyyp24eClj4ARq9LeAXdUlFE", "formattedAddress": "1001 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4528284, "longitude": -122.1820794}, "googleMapsUri": "https://maps.google.com/?cid=5878416283734561451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mountainmikespizza.com/locations/menlo-park/", "displayName": {"text": "Mountain Mike's Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/menlo-park/Mountain Mikes Small.jpeg"}, {"id": "ChIJze7hSbKkj4ARozcgS2khx2Q", "formattedAddress": "700 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.451816799999996, "longitude": -122.17904329999999}, "googleMapsUri": "https://maps.google.com/?cid=7261809660273899427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "MP Mongolian BBQ", "languageCode": "en"}, "cuisine": "BBQ", "photoUrl": "images/restaurant-photos/menlo-park/MP BBQ Small.jpeg"}, {"id": "ChIJx03r9yilj4ARHXLc1aMnESk", "formattedAddress": "712 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.452091599999996, "longitude": -122.1845493}, "googleMapsUri": "https://maps.google.com/?cid=2959190014780273181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://mrskhanuyghur.com/", "displayName": {"text": "Mrs Khan Uyghur Cuisine", "languageCode": "en"}, "cuisine": "Halal", "photoUrl": "images/restaurant-photos/menlo-park/Mrs Khan Uyghur Cuisine Small.jpeg"}, {"id": "ChIJ_-T3GD-lj4ARuK5KmNgcQBQ", "formattedAddress": "1400 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.456165399999996, "longitude": -122.1875838}, "googleMapsUri": "https://maps.google.com/?cid=1459197995861585592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://parkjames.com/oak-violet/", "displayName": {"text": "Oak + Violet", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/Oak + Violet Small.jpeg"}, {"id": "ChIJPbMu7rGkj4ARhNZdO83g59k", "formattedAddress": "925 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.452292, "longitude": -122.1810132}, "googleMapsUri": "https://maps.google.com/?cid=15701765797919446660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.octopusjapanese.com/", "displayName": {"text": "Octopus Japanese Restaurant", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/menlo-park/Octopus Small.jpeg"}, {"id": "ChIJ0cHjuEqjj4ARXVD3djzV2fI", "formattedAddress": "Lobby Level, 200 Independence Dr, Menlo Park, CA 94025, USA", "location": {"latitude": 37.482644799999996, "longitude": -122.1769351}, "googleMapsUri": "https://maps.google.com/?cid=17499252282795446365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.portablurestaurant.com/", "displayName": {"text": "Porta Blu", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/menlo-park/Porta Blu Small.jpeg"}, {"id": "ChIJ6T-LuB-lj4ARpKsYLq_ZApg", "formattedAddress": "403 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4497487, "longitude": -122.17649920000001}, "googleMapsUri": "https://maps.google.com/?cid=10953556590134340516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.rensushiomakase.com/", "displayName": {"text": "Ren Omakase", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/menlo-park/Ren Small.jpeg"}, {"id": "ChIJpw1PZ4Olj4AR8fsc3070UDA", "formattedAddress": "1300 El Camino Real Ste C, Menlo Park, CA 94025, USA", "location": {"latitude": 37.455034999999995, "longitude": -122.18538350000001}, "googleMapsUri": "https://maps.google.com/?cid=3481551131545238513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.robinomakase.com/", "displayName": {"text": "Robin Menlo Park", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/menlo-park/Robin Menlo Park Small.jpeg"}, {"id": "ChIJVVXqDrCkj4ARLM2HcoPKxmY", "formattedAddress": "820 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4508844, "longitude": -122.18550269999999}, "googleMapsUri": "https://maps.google.com/?cid=7405829303168388396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://romamenlopark.com/?utm_source=google", "displayName": {"text": "Roma", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/menlo-park/Roma Small.jpeg"}, {"id": "ChIJyX5Cna-kj4ARFVEhKvEn--w", "formattedAddress": "1225 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.454352899999996, "longitude": -122.18502599999998}, "googleMapsUri": "https://maps.google.com/?cid=17076286328852795669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ", "displayName": {"text": "Round Table Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/menlo-park/Round Table Small.jpeg"}, {"id": "ChIJgz2kcZi8j4ARnfcQsLATwnw", "formattedAddress": "883 Hamilton Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.480169, "longitude": -122.15192599999999}, "googleMapsUri": "https://maps.google.com/?cid=8989769455774005149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sajjstreeteats.com/", "displayName": {"text": "SAJJ Mediterranean (Menlo Park)", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/menlo-park/Sajj Small.jpeg"}, {"id": "ChIJCxO08v6lj4ARLk79MGJCQ5s", "formattedAddress": "3000 Sand Hill Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4234674, "longitude": -122.2211263}, "googleMapsUri": "https://maps.google.com/?cid=11187858888814579246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.sandhillsundeck.com/", "displayName": {"text": "Sand Hill Sundeck", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/Sand hill Sundeck Small.jpeg"}, {"id": "opening_shiok_singapore_kitchen", "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4532, "longitude": -122.183}, "googleMapsUri": "https://maps.google.com/?q=625+Oak+Grove+Ave,+Menlo+Park,+CA", "websiteUri": "https://shiokkitchen.com", "displayName": {"text": "Shiok Singapore Kitchen", "languageCode": "en"}, "cuisine": "Singaporean", "phone": "(650) 838-9448", "hours": {"Monday": "11:00 AM - 8:30 PM", "Tuesday": "11:00 AM - 8:30 PM", "Wednesday": "11:00 AM - 8:30 PM", "Thursday": "11:00 AM - 8:30 PM", "Friday": "11:00 AM - 8:30 PM", "Saturday": "11:00 AM - 8:30 PM", "Sunday": "11:00 AM - 8:30 PM"}, "description": "Family-owned Singaporean kitchen serving authentic chili crab, laksa, and satay from recipes brought over from Singapore in 1999.", "menuUrl": "https://shiokkitchen.com/menu", "priceRange": "$$"}, {"id": "manual_1778345644722", "displayName": {"text": "Shiok Singapore Kitchen", "languageCode": "en"}, "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025", "googleMapsUri": "https://www.google.com/maps/place/Shiok+Singapore+Kitchen/data=!4m2!3m1!1s0x0:0x88cb94b01013ba35?sa=X&ved=1t:2428&ictx=111", "websiteUri": "https://shiokkitchen.com/", "location": {}, "cuisine": "Singaporean", "menuUrl": "https://shiokkitchen.com/menu", "phone": "+16506182327", "hours": "Sat-Sun 5pm-8pm, Tue-Fri 11am-2:30pm, Tue-Fri 5pm-8pm", "priceRange": "$$$"}, {"id": "ChIJLylwScmlj4ARj_Cu5p52tuc", "formattedAddress": "1195 Merrill St, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4550286, "longitude": -122.1835962}, "googleMapsUri": "https://maps.google.com/?cid=16696663093369827471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.sonandgarden.com/", "displayName": {"text": "Son & Garden", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/menlo-park/Son & Garden Small.jpeg"}, {"id": "ChIJ6ciMyq-kj4ARRLEgxqtHAjQ", "formattedAddress": "600 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.453455999999996, "longitude": -122.183247}, "googleMapsUri": "https://maps.google.com/?cid=3747636643014684996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://stacksbreakfast.com/", "displayName": {"text": "STACKS Menlo Park", "languageCode": "en"}, "cuisine": "Breakfast", "photoUrl": "images/restaurant-photos/menlo-park/Stacks Small.jpeg"}, {"id": "ChIJiRDbtq-kj4ARtq3vEYcFmvw", "formattedAddress": "1149 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4537158, "longitude": -122.1836108}, "googleMapsUri": "https://maps.google.com/?cid=18201866921650924982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.thesultana.net/", "displayName": {"text": "Sultana Mediterranean", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/menlo-park/Sultana Small.jpeg"}, {"id": "ChIJ3da_5Gujj4ARVIB1crpdgq4", "formattedAddress": "3387 Middlefield Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4709584, "longitude": -122.2021862}, "googleMapsUri": "https://maps.google.com/?cid=12574716164937449556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Tacos el Fogon", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/menlo-park/Tacos El Fogon Small.jpeg"}, {"id": "ChIJk5OI3nalj4ARzB2VnUkxY2s", "formattedAddress": "2825 Sand Hill Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4195409, "longitude": -122.2123267}, "googleMapsUri": "https://maps.google.com/?cid=7738082776998813132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "The Library & Bar", "languageCode": "en"}, "cuisine": "Other"}, {"id": "ChIJG9rCFfKlj4ARIBaOF4i5_M8", "formattedAddress": "1029 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.453024, "longitude": -122.1822457}, "googleMapsUri": "https://maps.google.com/?cid=14987057654144046624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.themandarinbistro.com/", "displayName": {"text": "The Mandarin", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/menlo-park/The Mandarin Small.jpeg"}, {"id": "ChIJH61MUJylj4AR1ThEHto19io", "formattedAddress": "2400 Sand Hill Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4233323, "longitude": -122.20329350000002}, "googleMapsUri": "https://maps.google.com/?cid=3095721004790724821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.thesandhillkitchen.com/", "displayName": {"text": "The Sand Hill Kitchen", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/menlo-park/The Sandhill Kitchen1 Small.jpeg"}, {"id": "ChIJKb_qWE-7j4ARS0PSdsGO534", "formattedAddress": "60 Middlefield Rd, Menlo Park, CA 94025, USA", "location": {"latitude": 37.454518199999995, "longitude": -122.1632802}, "googleMapsUri": "https://maps.google.com/?cid=9144434529972405067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.willowsmarket.com/", "displayName": {"text": "The Willows Market", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/menlo-park/The Willows Small.jpeg"}, {"id": "ChIJ9c2m3eelj4ARXFWyLXrjbDo", "formattedAddress": "683 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4521978, "longitude": -122.18370679999998}, "googleMapsUri": "https://maps.google.com/?cid=4209989865576748380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tilakmenlopark.com/", "displayName": {"text": "Tilak Indian Cuisine", "languageCode": "en"}, "cuisine": "Indian", "photoUrl": "images/restaurant-photos/menlo-park/Tilak Small.jpeg"}, {"id": "ChIJK5fHMa6kj4AR8DZJff2k-MQ", "formattedAddress": "1077 El Camino Real, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4532461, "longitude": -122.18266399999999}, "googleMapsUri": "https://maps.google.com/?cid=14193275634293749488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.trellisrestaurant.com/", "displayName": {"text": "Trellis Restaurant", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/menlo-park/Trellis Small.jpeg"}, {"id": "ChIJeRPhbgClj4AR9sW9Tqbu0Qs", "formattedAddress": "827 Santa Cruz Ave, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4504806, "longitude": -122.1851368}, "googleMapsUri": "https://maps.google.com/?cid=851724202602776054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://yeobodarling.com/", "displayName": {"text": "yeobo, darling", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/menlo-park/Yeobo darling Small.jpeg"}, {"id": "ChIJ43doM-ulj4ARDDU_2YFai1c", "formattedAddress": "1010 University Dr, Menlo Park, CA 94025, USA", "location": {"latitude": 37.4491818, "longitude": -122.185159}, "googleMapsUri": "https://maps.google.com/?cid=6308235216804590860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.zenshisushi.com/", "displayName": {"text": "ZENSHI Handcrafted Sushi", "languageCode": "en"}, "cuisine": "Japanese"}],
+  "Menlo Park, CA": [
+    {
+      "id": "ChIJXTqVn7qkj4ARa3-Bikh4S9c",
+      "formattedAddress": "880 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4503135,
+        "longitude": -122.18591119999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15513625594364526443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.amicis.com/menlo-park",
+      "displayName": {
+        "text": "Amici's East Coast Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/menlo-park/Amicis Small.jpeg",
+      "phone": "(650) 329-8888",
+      "hours": {
+        "Monday": "11:30 AM - 9:00 PM",
+        "Tuesday": "11:30 AM - 9:00 PM",
+        "Wednesday": "11:30 AM - 9:00 PM",
+        "Thursday": "11:30 AM - 9:00 PM",
+        "Friday": "11:30 AM - 10:00 PM",
+        "Saturday": "11:30 AM - 10:00 PM",
+        "Sunday": "11:30 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.amicis.com/menlo-park",
+      "priceRange": "$$",
+      "description": "Bay Area pizza institution since 1987 at 880 Santa Cruz Avenue with thin-crust East Coast-style pies baked on stone hearths, pasta, salads, and gluten-free and vegan-friendly options."
+    },
+    {
+      "id": "ChIJgfjkWemkj4ARcjnuZBHmt9w",
+      "formattedAddress": "3536 Alameda de las Pulgas #4, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.431895,
+        "longitude": -122.20236
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15904433571464362354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.avantipizzafreshpasta.com/",
+      "displayName": {
+        "text": "Avanti Pizza Fresh Pasta",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Avanti Pizza Small.jpeg",
+      "phone": "(650) 854-1222",
+      "hours": {
+        "Monday": "11:00 AM - 8:00 PM",
+        "Tuesday": "11:00 AM - 8:00 PM",
+        "Wednesday": "11:00 AM - 8:00 PM",
+        "Thursday": "11:00 AM - 8:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 8:00 PM",
+        "Sunday": "4:00 PM - 8:00 PM"
+      },
+      "menuUrl": "https://www.avantipizzafreshpasta.com/menu",
+      "priceRange": "$$",
+      "description": "Family-owned Italian restaurant at 3536 Alameda de las Pulgas with authentic handcrafted pizzas, fresh-made sauces, house pasta, and salads at affordable prices."
+    },
+    {
+      "id": "ChIJP01j_qC8j4ARyxyiGFKN_rs",
+      "formattedAddress": "1189 Willow Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.472729799999996,
+        "longitude": -122.15506979999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13546420112917142731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://backayard.net/",
+      "displayName": {
+        "text": "Back A Yard Caribbean Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Caribbean",
+      "photoUrl": "images/restaurant-photos/menlo-park/Back a Yard Small.jpeg",
+      "phone": "(650) 323-4244",
+      "hours": {
+        "Monday": "11:00 AM - 8:00 PM",
+        "Tuesday": "11:00 AM - 8:00 PM",
+        "Wednesday": "11:00 AM - 8:00 PM",
+        "Thursday": "11:00 AM - 8:00 PM",
+        "Friday": "11:00 AM - 8:00 PM",
+        "Saturday": "11:00 AM - 8:00 PM",
+        "Sunday": "11:00 AM - 6:00 PM"
+      },
+      "menuUrl": "https://menlopark.backayardcaribbeangrill.com/",
+      "priceRange": "$$",
+      "description": "Authentic Caribbean kitchen near Willow Road with jerk chicken, beef oxtail, curried goat, plantains, and rice plates that draw a loyal following to this Bay Area institution since 2004."
+    },
+    {
+      "id": "ChIJKUiXDQClj4AR54PnQ4zkiOw",
+      "formattedAddress": "639 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.452528,
+        "longitude": -122.1834518
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17044124080869442535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Bar Loretta",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bar Loretta Small.jpeg",
+      "phone": "(650) 462-1686",
+      "hours": {
+        "Monday": "4:00 PM - 9:00 PM",
+        "Tuesday": "4:00 PM - 10:00 PM",
+        "Wednesday": "4:00 PM - 10:00 PM",
+        "Thursday": "4:00 PM - 10:00 PM",
+        "Friday": "4:00 PM - 10:00 PM",
+        "Saturday": "4:00 PM - 10:00 PM",
+        "Sunday": "Closed"
+      },
+      "menuUrl": "https://www.bistrovida.com/bar-loretta",
+      "priceRange": "$$",
+      "description": "Sleek cocktail bar and lounge extension of Bistro Vida on Santa Cruz Avenue with craft cocktails, a curated wine list, small plates, and a sophisticated evening atmosphere."
+    },
+    {
+      "id": "ChIJK3DFfeKlj4ARK9PM4DRr9yo",
+      "formattedAddress": "550 Oak Grove Ave Suite B, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.454954300000004,
+        "longitude": -122.18406580000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3096061143694496555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://barebottle.com/",
+      "displayName": {
+        "text": "Barebottle Brewing Company - Menlo Park",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bare Bottle Brew Co Small.jpeg",
+      "phone": "(650) 320-8348",
+      "hours": {
+        "Monday": "2:00 PM - 9:00 PM",
+        "Tuesday": "12:00 PM - 11:00 PM",
+        "Wednesday": "12:00 PM - 11:00 PM",
+        "Thursday": "12:00 PM - 11:00 PM",
+        "Friday": "12:00 PM - 11:00 PM",
+        "Saturday": "12:00 PM - 11:00 PM",
+        "Sunday": "1:00 PM - 8:00 PM"
+      },
+      "menuUrl": "https://barebottlebrew.com/",
+      "priceRange": "$$",
+      "description": "Award-winning SF brewery taproom at 550B Oak Grove Avenue with an extensive rotating selection of craft beers, outdoor seating, and a relaxed neighborhood vibe."
+    },
+    {
+      "id": "ChIJxZ4l4q6lj4ARNNpkCOK92E8",
+      "formattedAddress": "2825 Sand Hill Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4196885,
+        "longitude": -122.2117957
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5753557302466894388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.rosewoodhotels.com/en/sand-hill-menlo-park/dining",
+      "displayName": {
+        "text": "Bici Coffee",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bici Coffee Small.jpeg",
+      "phone": "(650) 561-1500",
+      "hours": {
+        "Monday": "6:30 AM - 4:30 PM",
+        "Tuesday": "6:30 AM - 4:30 PM",
+        "Wednesday": "6:30 AM - 4:30 PM",
+        "Thursday": "6:30 AM - 4:30 PM",
+        "Friday": "6:30 AM - 4:30 PM",
+        "Saturday": "6:30 AM - 4:30 PM",
+        "Sunday": "6:30 AM - 4:30 PM"
+      },
+      "menuUrl": "https://www.rosewoodhotels.com/en/sand-hill-menlo-park/dining/bici-coffee",
+      "priceRange": "$",
+      "description": "Cyclist-inspired specialty coffee bar at Rosewood Sand Hill on Sand Hill Road celebrating cycling culture and the Bay Area community with craft espresso drinks and seasonal pastries."
+    },
+    {
+      "id": "ChIJPTPS1q-kj4ARMuL955Oc-tI",
+      "formattedAddress": "641 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4524799,
+        "longitude": -122.18340760000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15202635651208831538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bistrovida.com/",
+      "displayName": {
+        "text": "Bistro Vida",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bistro Vida Small.jpeg",
+      "phone": "(650) 462-1686",
+      "hours": {
+        "Monday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Tuesday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Wednesday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Thursday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Friday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Saturday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Sunday": "11:00 AM - 2:00 PM, 5:00 PM - 8:00 PM"
+      },
+      "menuUrl": "https://www.bistrovida.com/",
+      "priceRange": "$$$",
+      "description": "Downtown Menlo Park institution since 1998 inspired by Parisian bistro culture, with classic French bistro dishes, a full bar, heated outdoor patio, and a warm neighborhood atmosphere on Santa Cruz Avenue."
+    },
+    {
+      "id": "ChIJPeparJKkj4ARVcbpoKimYS0",
+      "formattedAddress": "3207 Alameda de las Pulgas, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.435392799999995,
+        "longitude": -122.20818939999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3270078047632082517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bobscountrycorner.com/",
+      "displayName": {
+        "text": "Bob’s Country Corner",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/Country Corner Small.jpeg",
+      "phone": "(650) 854-4260",
+      "hours": {
+        "Monday": "7:30 AM - 7:00 PM",
+        "Tuesday": "7:30 AM - 7:00 PM",
+        "Wednesday": "7:30 AM - 7:00 PM",
+        "Thursday": "7:30 AM - 7:00 PM",
+        "Friday": "7:30 AM - 7:00 PM",
+        "Saturday": "8:30 AM - 7:00 PM",
+        "Sunday": "10:00 AM - 4:00 PM"
+      },
+      "menuUrl": "https://www.bobscountrycorner.com/",
+      "priceRange": "$",
+      "description": "Neighborhood deli and market at 3207 Alameda de las Pulgas open since the 1970s with made-to-order sandwiches, hot food, beer and wine, and a loyal West Menlo Park following."
+    },
+    {
+      "id": "ChIJE1BxNq6kj4ARm-YgnncZtO4",
+      "formattedAddress": "555 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4537291,
+        "longitude": -122.1826871
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17200400878379525787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.britishbankersclub.com/",
+      "displayName": {
+        "text": "British Bankers Club",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/British Bankers club Small.jpeg",
+      "phone": "(650) 382-3191",
+      "hours": {
+        "Monday": "4:00 PM - 9:30 PM",
+        "Tuesday": "4:00 PM - 9:30 PM",
+        "Wednesday": "4:00 PM - 9:30 PM",
+        "Thursday": "4:00 PM - 9:30 PM",
+        "Friday": "4:00 PM - 10:00 PM",
+        "Saturday": "4:00 PM - 10:00 PM",
+        "Sunday": "4:00 PM - 9:00 PM"
+      },
+      "menuUrl": "http://www.britishbankersclub.com/",
+      "priceRange": "$$$",
+      "description": "Landmark Menlo Park restaurant and rooftop bar at 555 Santa Cruz Avenue with seasonal American cuisine, a rooftop terrace, heated patio, private dining rooms, and views across downtown."
+    },
+    {
+      "id": "ChIJ-_yAHQClj4AR4G8J6Gda_NE",
+      "formattedAddress": "1300 El Camino Real Suite A, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4548942,
+        "longitude": -122.1852241
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15131068250379087840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://bubbelahmpk.com/",
+      "displayName": {
+        "text": "Bubbelah",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bubbelah Small.jpeg",
+      "hours": {
+        "Monday": "11:30 AM - 7:00 PM",
+        "Tuesday": "11:30 AM - 7:00 PM",
+        "Wednesday": "11:30 AM - 7:00 PM",
+        "Thursday": "11:30 AM - 7:00 PM",
+        "Friday": "11:30 AM - 7:00 PM",
+        "Saturday": "11:30 AM - 7:00 PM",
+        "Sunday": "11:30 AM - 7:00 PM"
+      },
+      "menuUrl": "https://bubbelahmpk.com/",
+      "priceRange": "$$",
+      "description": "Fast-casual Jewish-inspired counter concept from the Che Fico team at 1300 El Camino Real with mezze, soups, salads, freshly baked breads, and housemade grab-and-go provisions."
+    },
+    {
+      "id": "ChIJe1sdKlKlj4ARrLC-zqz7wHo",
+      "formattedAddress": "1302 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.455417499999996,
+        "longitude": -122.1862363
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8845346387777204396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.burmalove.co/",
+      "displayName": {
+        "text": "Burma Love",
+        "languageCode": "en"
+      },
+      "cuisine": "Burmese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Burma Love Small.jpeg",
+      "phone": "(650) 250-5660",
+      "hours": {
+        "Monday": "11:30 AM - 9:30 PM",
+        "Tuesday": "11:30 AM - 9:30 PM",
+        "Wednesday": "11:30 AM - 9:30 PM",
+        "Thursday": "11:30 AM - 9:30 PM",
+        "Friday": "11:30 AM - 10:00 PM",
+        "Saturday": "10:00 AM - 10:00 PM",
+        "Sunday": "10:00 AM - 10:00 PM"
+      },
+      "menuUrl": "https://www.burmalove.co/burma-love-menlo-park",
+      "priceRange": "$$",
+      "description": "Menlo Park outpost of the beloved Burma Superstar family at 1302 E El Camino Real with contemporary Burmese cuisine, innovative cocktails, tea leaf salad, and a happy hour Monday through Friday."
+    },
+    {
+      "id": "ChIJARB2O66kj4ARF-HVDDNeV7c",
+      "formattedAddress": "1010 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4537501,
+        "longitude": -122.18230530000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13211131605266325783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cafeborrone.com/",
+      "displayName": {
+        "text": "Cafe Borrone",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cafe Borrone Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 9:00 PM",
+        "Tuesday": "8:00 AM - 9:00 PM",
+        "Wednesday": "8:00 AM - 9:00 PM",
+        "Thursday": "8:00 AM - 9:00 PM",
+        "Friday": "8:00 AM - 10:00 PM",
+        "Saturday": "8:00 AM - 10:00 PM",
+        "Sunday": "8:00 AM - 8:00 PM"
+      },
+      "menuUrl": "https://cafeborrone.com/",
+      "priceRange": "$$",
+      "description": "Beloved European-style cafe near the Menlo Park train station at 1010 El Camino Real with fresh organic food, live music, ample outdoor seating, and a community gathering atmosphere since 1988."
+    },
+    {
+      "id": "opening_cafe_vivant",
+      "formattedAddress": "720 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4531,
+        "longitude": -122.182
+      },
+      "googleMapsUri": "https://maps.google.com/?q=720+Santa+Cruz+Ave,+Menlo+Park,+CA",
+      "websiteUri": "https://cafevivantca.com",
+      "displayName": {
+        "text": "Café Vivant",
+        "languageCode": "en"
+      },
+      "cuisine": "American,Wine Bar",
+      "phone": "(650) 557-2244",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "4:30 PM - 8:30 PM",
+        "Wednesday": "4:30 PM - 8:30 PM",
+        "Thursday": "4:30 PM - 8:30 PM",
+        "Friday": "4:30 PM - 9:00 PM",
+        "Saturday": "4:30 PM - 9:00 PM",
+        "Sunday": "Closed"
+      },
+      "description": "Heritage-breed chicken and an exceptional 3,000-bottle wine cellar from two sommeliers. One of the most distinctive new restaurants on the Peninsula.",
+      "menuUrl": "https://cafevivantca.com",
+      "priceRange": "$$$$",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cafe Vivant Small.jpeg"
+    },
+    {
+      "id": "ChIJCXiv-Qelj4AR9V8pN11zgNE",
+      "formattedAddress": "720 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4516634,
+        "longitude": -122.1848323
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15096192795140513781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cafevivantca.com/",
+      "displayName": {
+        "text": "Café Vivant",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "phone": "(650) 557-2244",
+      "hours": {
+        "Tuesday": "5:00 PM - 9:00 PM",
+        "Wednesday": "5:00 PM - 9:00 PM",
+        "Thursday": "5:00 PM - 9:00 PM",
+        "Saturday": "5:00 PM - 9:30 PM",
+        "Sunday": "5:00 PM - 9:30 PM"
+      },
+      "menuUrl": "https://www.cafevivantmp.com/",
+      "priceRange": "$$$$",
+      "description": "Intimate farm-to-table restaurant at 720 Santa Cruz Avenue with a tightly curated dinner menu featuring locally sourced seasonal ingredients and an elegant neighborhood dining experience.",
+      "photoUrl": "images/restaurant-photos/menlo-park/Café Vivant Small.jpeg"
+    },
+    {
+      "id": "ChIJAQB0y8ukj4ARIh3K6QumFHc",
+      "formattedAddress": "75 Arbor Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4415123,
+        "longitude": -122.1791504
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8580665760144825634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cafewisteria.com/",
+      "displayName": {
+        "text": "Cafe Wisteria",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cafe Wisteria Small.jpeg",
+      "phone": "(650) 838-9002",
+      "hours": {
+        "Monday": "10:00 AM - 6:00 PM",
+        "Tuesday": "10:00 AM - 6:00 PM",
+        "Wednesday": "10:00 AM - 6:00 PM",
+        "Thursday": "10:00 AM - 6:00 PM",
+        "Friday": "10:00 AM - 6:00 PM",
+        "Saturday": "10:00 AM - 6:00 PM",
+        "Sunday": "10:00 AM - 6:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Quaint neighborhood cafe at 75 Arbor Road in a historic Victorian home with light fare, specialty coffee, and a garden setting perfect for a relaxed midday break."
+    },
+    {
+      "id": "ChIJtYpHfUK7j4ARTWWW4_FP7DI",
+      "formattedAddress": "1929 Menalto Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.459263199999995,
+        "longitude": -122.15279609999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3669395696724108621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://neighborhood.pizza/",
+      "displayName": {
+        "text": "Cafe Zoe & Neighborhood Pizza Guy",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cafe Zoe Small.jpeg",
+      "phone": "(650) 407-7476",
+      "hours": {
+        "Monday": "8:00 AM - 4:00 PM",
+        "Tuesday": "8:00 AM - 4:00 PM",
+        "Wednesday": "8:00 AM - 8:00 PM",
+        "Thursday": "8:00 AM - 8:00 PM",
+        "Friday": "8:00 AM - 8:00 PM",
+        "Saturday": "8:00 AM - 8:00 PM",
+        "Sunday": "8:00 AM - 7:00 PM"
+      },
+      "menuUrl": "https://www.cafezoe.net/",
+      "priceRange": "$",
+      "description": "Neighborhood cafe and pizza spot at 1929 Menalto Avenue with morning coffee and pastries transitioning to wood-fired pizzas Wednesday through Sunday evening."
+    },
+    {
+      "id": "ChIJYfJCcSqlj4ARm2v5HkfMSv0",
+      "formattedAddress": "898 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.449995799999996,
+        "longitude": -122.1861014
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18251625045706763163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://campermp.com/",
+      "displayName": {
+        "text": "Camper",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Camper Small.jpeg",
+      "phone": "(650) 321-8980",
+      "hours": {
+        "Monday": "5:00 PM - 8:30 PM",
+        "Tuesday": "5:00 PM - 8:30 PM",
+        "Wednesday": "5:00 PM - 8:45 PM",
+        "Thursday": "5:00 PM - 8:45 PM",
+        "Friday": "5:00 PM - 8:45 PM",
+        "Saturday": "10:00 AM - 1:00 PM, 5:00 PM - 8:45 PM",
+        "Sunday": "10:00 AM - 1:00 PM"
+      },
+      "menuUrl": "https://www.campermenlopark.com/",
+      "priceRange": "$$",
+      "description": "Michelin-recommended California cuisine restaurant at 898 Santa Cruz Avenue with a sunlit corner dining room, seasonal menus, 10-hour pork ragu rigatoni, buttermilk fried chicken, and weekend brunch."
+    },
+    {
+      "id": "ChIJq6CCdl-jj4ARjkoQDdcOsDE",
+      "formattedAddress": "1850 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.459536799999995,
+        "longitude": -122.19433749999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3580378020559473294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.celiasrestaurants.com/",
+      "displayName": {
+        "text": "Celia's",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Celias Small.jpeg",
+      "phone": "(650) 322-9636",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.celiasrestaurants.com/",
+      "priceRange": "$$",
+      "description": "Longtime Menlo Park Mexican restaurant chain with house-made margaritas, combination plates, enchiladas, and family-friendly service in a comfortable neighborhood setting."
+    },
+    {
+      "id": "ChIJC4JvtdKlj4ARf747hSEVuyo",
+      "formattedAddress": "1302 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4555144,
+        "longitude": -122.18587380000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3079078003951255167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cheficoparcomenlo.com/",
+      "displayName": {
+        "text": "Che Fico Parco Menlo",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Che Fico Parco Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "10:00 AM - 10:00 PM",
+        "Sunday": "10:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.cheficoparco.com/",
+      "priceRange": "$$",
+      "description": "Outdoor all-day Italian concept from SF's acclaimed Che Fico team at Stanford Shopping Center with wood-fired pizza, fresh pasta, and a relaxed California-Italian atmosphere."
+    },
+    {
+      "id": "ChIJ__-UGrCkj4ARFiZnv8KczUg",
+      "formattedAddress": "780 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4512731,
+        "longitude": -122.18514789999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5246021501205292566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.clarksoysterbar.com/locations/menlo-park",
+      "displayName": {
+        "text": "Clark's Oyster Bar- Menlo Park",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/menlo-park/Clarks Oyster Bar Small.jpeg",
+      "hours": {
+        "Monday": "11:30 AM - 9:30 PM",
+        "Tuesday": "11:30 AM - 9:30 PM",
+        "Wednesday": "11:30 AM - 9:30 PM",
+        "Thursday": "11:30 AM - 9:30 PM",
+        "Friday": "11:30 AM - 10:00 PM",
+        "Saturday": "11:30 AM - 10:00 PM",
+        "Sunday": "11:30 AM - 9:30 PM"
+      },
+      "menuUrl": "https://clarksoysterbar.com/menlo-park/",
+      "priceRange": "$$$",
+      "description": "Peninsula outpost of the Austin-born oyster bar on Santa Cruz Avenue with fresh raw bar, oysters Rockefeller, chowder, fish and chips, and a lively downtown atmosphere."
+    },
+    {
+      "id": "ChIJ2aR2-6-kj4ARCRsRgFybxcc",
+      "formattedAddress": "1149 Chestnut St, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.452,
+        "longitude": -122.1855
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14395082605547559689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.coffeebar.com/pages/menlo",
+      "displayName": {
+        "text": "Coffeebar",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Coffeebar Small.jpeg",
+      "hours": {
+        "Monday": "6:30 AM - 5:00 PM",
+        "Tuesday": "6:30 AM - 5:00 PM",
+        "Wednesday": "6:30 AM - 5:00 PM",
+        "Thursday": "6:30 AM - 5:00 PM",
+        "Friday": "6:30 AM - 5:00 PM",
+        "Saturday": "7:00 AM - 5:00 PM",
+        "Sunday": "7:00 AM - 5:00 PM"
+      },
+      "menuUrl": "https://coffeebar.com/pages/menlo-park",
+      "priceRange": "$",
+      "description": "Specialty coffee roaster and cafe at 1035 El Camino Real with single-origin pour-overs, Italian espresso drinks, housemade pastries, and a thoughtful rotating menu of light food."
+    },
+    {
+      "id": "ChIJZ1UNLrKkj4ARKcgVQRourdA",
+      "formattedAddress": "751 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.451465999999996,
+        "longitude": -122.17954999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15036725421155928105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cooksseafood.com/",
+      "displayName": {
+        "text": "Cook's Seafood",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cooks Seafood Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 8:00 PM",
+        "Tuesday": "10:00 AM - 8:00 PM",
+        "Wednesday": "10:00 AM - 8:00 PM",
+        "Thursday": "10:00 AM - 8:00 PM",
+        "Friday": "10:00 AM - 9:00 PM",
+        "Saturday": "10:00 AM - 9:00 PM",
+        "Sunday": "10:00 AM - 8:00 PM"
+      },
+      "menuUrl": "https://cooksseafood.com/",
+      "priceRange": "$$",
+      "description": "Menlo Park seafood institution at 751 El Camino Real since 1947 with fresh Dungeness crab, clam chowder, fish and chips, shrimp cocktail, and a takeout counter beloved across generations."
+    },
+    {
+      "id": "ChIJo0NIcZi8j4ARjJ9Kj6BWEnc",
+      "formattedAddress": "873 Hamilton Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4798664,
+        "longitude": -122.15203009999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8580015487693004684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.dashijapaneserestaurant.com/",
+      "displayName": {
+        "text": "Dashi Japanese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Dashi Japanese Small.jpeg",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Wednesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Thursday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Friday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Saturday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Sunday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM"
+      },
+      "menuUrl": "https://www.dashibythebay.com/",
+      "priceRange": "$$",
+      "description": "Japanese comfort food and ramen restaurant with house-made broths, sushi rolls, and Japanese small plates in a warm neighborhood setting."
+    },
+    {
+      "id": "ChIJnfbTrlSjj4ARTeEjFnYAsNc",
+      "formattedAddress": "3219 Middlefield Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4719763,
+        "longitude": -122.20388100000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15541922821233172813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Delicias para tu paladar M",
+        "languageCode": "es"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/Delicias Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 8:00 PM",
+        "Tuesday": "8:00 AM - 8:00 PM",
+        "Wednesday": "8:00 AM - 8:00 PM",
+        "Thursday": "8:00 AM - 8:00 PM",
+        "Friday": "8:00 AM - 8:00 PM",
+        "Saturday": "8:00 AM - 8:00 PM",
+        "Sunday": "8:00 AM - 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Mexican taqueria and bakery with fresh-made tacos, burritos, tamales, and pan dulce open seven days a week at everyday prices."
+    },
+    {
+      "id": "ChIJrVtZudG7j4ARKCfNlz0hVS8",
+      "formattedAddress": "840 Willow Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4656905,
+        "longitude": -122.1567872
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3410668841226544936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dosapoint.co/",
+      "displayName": {
+        "text": "Dosa Point",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Dosa Point Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "South Indian restaurant serving authentic crispy dosas, vadas, idli, and sambar with vegetarian-focused options at approachable prices."
+    },
+    {
+      "id": "ChIJp1uWC0mlj4ARsNiuJAYb5Zk",
+      "formattedAddress": "1438 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.456537499999996,
+        "longitude": -122.1883738
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11089299370668906672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://drunkenmonkizakaya.com/",
+      "displayName": {
+        "text": "Drunken Monk",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Drunken Monk Small.jpeg",
+      "hours": {
+        "Monday": "5:00 PM - 10:00 PM",
+        "Tuesday": "5:00 PM - 10:00 PM",
+        "Wednesday": "5:00 PM - 10:00 PM",
+        "Thursday": "5:00 PM - 10:00 PM",
+        "Friday": "5:00 PM - 11:00 PM",
+        "Saturday": "5:00 PM - 11:00 PM",
+        "Sunday": "5:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://www.drunkenmonkmp.com/",
+      "priceRange": "$$",
+      "description": "Izakaya-inspired bar and restaurant with Japanese-influenced small plates, craft cocktails, sake, and a late-night vibe popular with the downtown Menlo Park crowd."
+    },
+    {
+      "id": "ChIJt8dAXemkj4ARXDrSoUeLfh0",
+      "formattedAddress": "3567 Alameda de las Pulgas, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4320471,
+        "longitude": -122.2015788
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2125289213939300956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dutchgoose.net/",
+      "displayName": {
+        "text": "Dutch Goose",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Dutch Goose Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 12:00 AM",
+        "Tuesday": "11:00 AM - 12:00 AM",
+        "Wednesday": "11:00 AM - 12:00 AM",
+        "Thursday": "11:00 AM - 12:00 AM",
+        "Friday": "11:00 AM - 12:00 AM",
+        "Saturday": "11:00 AM - 12:00 AM",
+        "Sunday": "11:00 AM - 12:00 AM"
+      },
+      "menuUrl": "https://dutchgoose.net/",
+      "priceRange": "$",
+      "description": "No-frills dive bar and burger institution at 3567 Alameda de las Pulgas since 1966 with legendary greasy burgers, cold beer, and a devoted neighborhood following across six decades."
+    },
+    {
+      "id": "ChIJPd8zEN6kj4ARpm5JaBuWH3M",
+      "formattedAddress": "325 Sharon Park Dr B4, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.423808799999996,
+        "longitude": -122.19650539999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8295514083097669286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "El Cerrito",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/El Cerrito Small.jpeg",
+      "phone": "(650) 854-7300",
+      "hours": {
+        "Monday": "7:30 AM - 9:00 PM",
+        "Tuesday": "7:30 AM - 9:00 PM",
+        "Wednesday": "7:30 AM - 9:00 PM",
+        "Thursday": "7:30 AM - 9:00 PM",
+        "Friday": "7:30 AM - 9:00 PM",
+        "Saturday": "8:00 AM - 9:00 PM",
+        "Sunday": "8:00 AM - 2:00 PM"
+      },
+      "menuUrl": "https://elcerritomenlopark.com/",
+      "priceRange": "$$",
+      "description": "Beloved Sharon Heights neighborhood institution since the 1980s with outdoor seating, American breakfasts, fish tacos with mango salsa, carnitas, and cheerful family service open seven days."
+    },
+    {
+      "id": "ChIJfeumwra7j4AR-ZAiZ3FkDqo",
+      "formattedAddress": "812 Willow Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4653476,
+        "longitude": -122.15703389999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12253842074346098937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "El Rancho Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/El Rancho Taqueria Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Neighborhood taqueria serving tacos, burritos, and traditional Mexican plates at everyday prices in Menlo Park."
+    },
+    {
+      "id": "ChIJ03qnoLSkj4ARY8QLKH73qlM",
+      "formattedAddress": "500 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.451145,
+        "longitude": -122.177326
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6028903172398629987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eylanrestaurant.com/",
+      "displayName": {
+        "text": "Eylan",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/menlo-park/Eylan Small.jpeg",
+      "phone": "(650) 420-6866",
+      "hours": {
+        "Tuesday": "5:00 PM - 10:00 PM",
+        "Wednesday": "5:00 PM - 10:00 PM",
+        "Thursday": "5:00 PM - 10:00 PM",
+        "Friday": "5:00 PM - 10:00 PM",
+        "Saturday": "5:00 PM - 10:00 PM",
+        "Sunday": "5:00 PM - 10:00 PM"
+      },
+      "menuUrl": "https://www.eylanrestaurant.com/",
+      "priceRange": "$$$$",
+      "description": "Upscale modern Indian restaurant at 500 El Camino Real with California-influenced subcontinental cuisine, house-made chutneys, craft cocktails, and an elegant dining room."
+    },
+    {
+      "id": "ChIJnemarm-lj4AR0SbnSCF4Czk",
+      "formattedAddress": "1165 Merrill St, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4549056,
+        "longitude": -122.18342019999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4110511169258071761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://farmhousethai.com/menlo-park?utm_source=google",
+      "displayName": {
+        "text": "Farmhouse Kitchen Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/menlo-park/Farmhouse Kitchen Small.jpeg",
+      "hours": {
+        "Monday": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+        "Tuesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+        "Wednesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+        "Thursday": "11:30 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+        "Friday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Saturday": "12:00 PM - 3:00 PM, 5:00 PM - 9:30 PM",
+        "Sunday": "12:00 PM - 3:00 PM, 5:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://www.farmhousekitchenthai.com/menlo-park/",
+      "priceRange": "$$$",
+      "description": "Acclaimed Thai restaurant from the SF-based Farmhouse Kitchen family with regional Thai dishes, elevated cocktails, and a vibrant dining room in downtown Menlo Park."
+    },
+    {
+      "id": "ChIJJ0dW5KWkj4AREKzj85yKGhw",
+      "formattedAddress": "1368 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4556584,
+        "longitude": -122.1868502
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2025083389167774736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://feyrestaurant.com/",
+      "displayName": {
+        "text": "FEY Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Fey Restaurant Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "10:00 AM - 9:00 PM",
+        "Sunday": "10:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.feyrestaurant.com/",
+      "priceRange": "$",
+      "description": "Fast-casual Asian fusion concept popular with the local tech community for customizable rice bowls, noodles, and globally-inspired plates at everyday prices."
+    },
+    {
+      "id": "ChIJCZfXbumkj4AR1p2me3o8urg",
+      "formattedAddress": "3607 Alameda de las Pulgas, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4318449,
+        "longitude": -122.20111829999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13311018145405115862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cooleatz.com/",
+      "displayName": {
+        "text": "Flea Street",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Flea Street Small.jpeg",
+      "phone": "(650) 854-1226",
+      "hours": {
+        "Tuesday": "5:00 PM - 8:45 PM",
+        "Wednesday": "5:00 PM - 8:45 PM",
+        "Thursday": "5:00 PM - 8:45 PM",
+        "Friday": "5:00 PM - 8:45 PM",
+        "Saturday": "5:00 PM - 8:45 PM"
+      },
+      "menuUrl": "https://www.cheflea.com/",
+      "priceRange": "$$$",
+      "description": "Michelin-recommended farm-to-table California restaurant at 3607 Alameda de las Pulgas since 1980, in a converted home with intimate dining rooms, live piano, and a strictly seasonal menu from Chef Jesse Cool."
+    },
+    {
+      "id": "ChIJKQDyuVGlj4ARv_rHjJdjDAw",
+      "formattedAddress": "515 El Camino Real suite 110, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4496803,
+        "longitude": -122.17846309999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=868178330728790719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://guapasmexicangrill.com/",
+      "displayName": {
+        "text": "Guapa's Mexican Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Guapas Mexican grill Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.guapasmexicangrill.com/",
+      "priceRange": "$",
+      "description": "Neighborhood Mexican grill with tacos, burritos, quesadillas, and plate lunches at fast-casual prices popular with the local community."
+    },
+    {
+      "id": "ChIJLznoH569j4ARj7vFqWBpOrY",
+      "formattedAddress": "877 Hamilton Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4800231,
+        "longitude": -122.15195059999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13130923527438187407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hajisrestaurant.com/",
+      "displayName": {
+        "text": "HAJIS Restaurant & Catering Menlo Park",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Hajis Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 8:00 PM",
+        "Tuesday": "11:00 AM - 8:00 PM",
+        "Wednesday": "11:00 AM - 8:00 PM",
+        "Thursday": "11:00 AM - 8:00 PM",
+        "Friday": "11:00 AM - 8:00 PM",
+        "Saturday": "11:00 AM - 8:00 PM",
+        "Sunday": "Closed"
+      },
+      "menuUrl": "https://www.hajisrestaurant.com/",
+      "priceRange": "$$",
+      "description": "Indian and Pakistani restaurant and catering service with aromatic curries, biryanis, tandoori dishes, and halal options at a neighborhood-friendly setting in Menlo Park."
+    },
+    {
+      "id": "ChIJhSa1dQC7j4ARUNcQU5M37PQ",
+      "formattedAddress": "1925 Menalto Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4591867,
+        "longitude": -122.15279520000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17648542145651464016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://havenmenlopark.com/",
+      "displayName": {
+        "text": "Haven Wine & Cheese",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/menlo-park/Haven Wine Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 7:00 PM",
+        "Tuesday": "11:00 AM - 7:00 PM",
+        "Wednesday": "11:00 AM - 7:00 PM",
+        "Thursday": "11:00 AM - 7:00 PM",
+        "Friday": "11:00 AM - 7:00 PM",
+        "Saturday": "11:00 AM - 7:00 PM",
+        "Sunday": "12:00 PM - 5:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Specialty wine and cheese shop on Santa Cruz Avenue with curated bottles, artisan cheese selections, charcuterie, and knowledgeable staff in the heart of downtown Menlo Park."
+    },
+    {
+      "id": "ChIJpxhC6celj4AR03xbVWGitgU",
+      "formattedAddress": "1328 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4555862,
+        "longitude": -122.18641969999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=411694954878565587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hirotakasushi.com/",
+      "displayName": {
+        "text": "Hirotaka Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Hirotaka Small.jpeg",
+      "hours": {
+        "Tuesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM",
+        "Wednesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM",
+        "Thursday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM",
+        "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM",
+        "Saturday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM",
+        "Sunday": "11:30 AM - 2:00 PM, 5:00 PM - 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Traditional Japanese sushi restaurant with fresh nigiri, sashimi, and classic rolls in a quiet neighborhood setting popular with Menlo Park regulars."
+    },
+    {
+      "id": "ChIJPRbE4q6kj4ARvgfhVpQQ-Wc",
+      "formattedAddress": "1170 Alma St #1189, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.455664999999996,
+        "longitude": -122.18270779999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7492037684406323134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://jjhawaiianbbq.shop/",
+      "displayName": {
+        "text": "J & J Hawaiian BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/menlo-park/J&J Hawaiian Barbecue Small.jpeg",
+      "hours": {
+        "Monday": "10:30 AM - 9:00 PM",
+        "Tuesday": "10:30 AM - 9:00 PM",
+        "Wednesday": "10:30 AM - 9:00 PM",
+        "Thursday": "10:30 AM - 9:00 PM",
+        "Friday": "10:30 AM - 9:00 PM",
+        "Saturday": "10:30 AM - 9:00 PM",
+        "Sunday": "10:30 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Hawaiian plate lunch restaurant with chicken katsu, kalua pork, teriyaki beef, two-scoop rice, and macaroni salad at everyday prices."
+    },
+    {
+      "id": "ChIJXfHxRFKlj4AR7ku_2dpX27c",
+      "formattedAddress": "1246 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.454878199999996,
+        "longitude": -122.1849956
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13248279326308125678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.jasoncafe.com/",
+      "displayName": {
+        "text": "Jason Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/menlo-park/Jason's Cafe Small.jpeg",
+      "hours": {
+        "Monday": "7:00 AM - 3:00 PM",
+        "Tuesday": "7:00 AM - 3:00 PM",
+        "Wednesday": "7:00 AM - 3:00 PM",
+        "Thursday": "7:00 AM - 3:00 PM",
+        "Friday": "7:00 AM - 3:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "priceRange": "$",
+      "description": "Weekday breakfast and lunch cafe serving fresh sandwiches, salads, soups, and daily specials to the local Menlo Park business community."
+    },
+    {
+      "id": "ChIJQaUX9rGkj4AR0094cczM7es",
+      "formattedAddress": "888 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4525122,
+        "longitude": -122.18023690000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17000469346842595283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://jeffreyshamburgers.com/",
+      "displayName": {
+        "text": "Jeffrey's Hamburgers",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/menlo-park/Jeffreys hamburgers Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 8:00 PM",
+        "Tuesday": "11:00 AM - 8:00 PM",
+        "Wednesday": "11:00 AM - 8:00 PM",
+        "Thursday": "11:00 AM - 8:00 PM",
+        "Friday": "11:00 AM - 8:00 PM",
+        "Saturday": "11:00 AM - 8:00 PM",
+        "Sunday": "11:00 AM - 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Classic neighborhood burger spot with made-to-order burgers, fries, and shakes in a no-frills casual setting at neighborhood prices."
+    },
+    {
+      "id": "ChIJ3RNyM66kj4ARFCWUS_Jt3jg",
+      "formattedAddress": "605 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.453277299999996,
+        "longitude": -122.1829578
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4097833598371243284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.kyoshosushi.com/",
+      "displayName": {
+        "text": "Kyosho",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Kyosho Small.jpeg",
+      "hours": {
+        "Tuesday": "5:00 PM - 9:30 PM",
+        "Wednesday": "5:00 PM - 9:30 PM",
+        "Thursday": "5:00 PM - 9:30 PM",
+        "Friday": "5:00 PM - 9:30 PM",
+        "Saturday": "5:00 PM - 9:30 PM",
+        "Sunday": "5:00 PM - 9:30 PM"
+      },
+      "priceRange": "$$$",
+      "description": "Japanese restaurant with an intimate dining room serving traditional izakaya-style small plates, sushi, and sake selections in a neighborhood setting."
+    },
+    {
+      "id": "ChIJ1x4tlq-kj4ARmtMkYWUFaV8",
+      "formattedAddress": "651 Oak Grove Ave Suite H, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4535769,
+        "longitude": -122.1845604
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6875032239137411994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lastanzacucina.com/",
+      "displayName": {
+        "text": "La Stanza Cucina Italiana",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/La Stanza Small.jpeg",
+      "hours": {
+        "Monday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Tuesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Wednesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Thursday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Saturday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Sunday": "Closed"
+      },
+      "priceRange": "$$$",
+      "description": "Neighborhood Italian restaurant with fresh pasta, wood-fired dishes, and a warm trattoria atmosphere popular for business lunches and date nights."
+    },
+    {
+      "id": "ChIJo4971K-kj4AReyDUlK6mSI0",
+      "formattedAddress": "635 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.452656,
+        "longitude": -122.18331719999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10180570226422456443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.leftbank.com/",
+      "displayName": {
+        "text": "Left Bank Menlo Park",
+        "languageCode": "en"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/menlo-park/Left bank Small.jpeg",
+      "hours": {
+        "Monday": "11:30 AM - 9:00 PM",
+        "Tuesday": "11:30 AM - 9:00 PM",
+        "Wednesday": "11:30 AM - 9:00 PM",
+        "Thursday": "11:30 AM - 9:00 PM",
+        "Friday": "11:30 AM - 10:00 PM",
+        "Saturday": "11:30 AM - 10:00 PM",
+        "Sunday": "10:30 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.leftbank.com/menlo-park/",
+      "priceRange": "$$$",
+      "description": "Classic French brasserie on Santa Cruz Avenue with escargot, steak frites, moules marinières, a rotating menu of French favorites, and a popular weekend brunch since 2005."
+    },
+    {
+      "id": "ChIJB0d75rK9j4AR-sgYVBDrIgs",
+      "formattedAddress": "842 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.450769099999995,
+        "longitude": -122.18563569999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=802462138988284154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.levantdessert.com/",
+      "displayName": {
+        "text": "LeVant dessert cafe and bakery",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Le Vant dessert cafe Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 8:00 PM",
+        "Tuesday": "8:00 AM - 8:00 PM",
+        "Wednesday": "8:00 AM - 8:00 PM",
+        "Thursday": "8:00 AM - 8:00 PM",
+        "Friday": "8:00 AM - 8:00 PM",
+        "Saturday": "8:00 AM - 8:00 PM",
+        "Sunday": "8:00 AM - 8:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Middle Eastern-inspired dessert cafe and bakery with knafeh, baklava, specialty pastries, and Arabic-style coffee in a casual sweet shop setting."
+    },
+    {
+      "id": "ChIJme-gK5Wlj4AR9O-7IuZBSNE",
+      "formattedAddress": "506 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.454361399999996,
+        "longitude": -122.18254419999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15080375808931131380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://littleskybakery.com/",
+      "displayName": {
+        "text": "Little Sky Bakery",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "hours": {
+        "Tuesday": "8:00 AM - 3:00 PM",
+        "Wednesday": "8:00 AM - 3:00 PM",
+        "Thursday": "8:00 AM - 3:00 PM",
+        "Friday": "8:00 AM - 3:00 PM",
+        "Saturday": "8:00 AM - 3:00 PM",
+        "Sunday": "8:00 AM - 3:00 PM"
+      },
+      "menuUrl": "https://www.littleskybakery.com/",
+      "priceRange": "$$",
+      "description": "Artisan neighborhood bakery with house-baked sourdough, croissants, seasonal pastries, and specialty coffee rooted in locally sourced ingredients."
+    },
+    {
+      "id": "ChIJUVVbRQClj4ARUQcquK4wIfo",
+      "formattedAddress": "1010 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.453888,
+        "longitude": -122.182277
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18023740710685640529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://littleskybakery.com/",
+      "displayName": {
+        "text": "Little Sky Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Little Sky Kitchen Small.jpeg",
+      "hours": {
+        "Tuesday": "8:00 AM - 3:00 PM",
+        "Wednesday": "8:00 AM - 3:00 PM",
+        "Thursday": "8:00 AM - 3:00 PM",
+        "Friday": "8:00 AM - 3:00 PM",
+        "Saturday": "8:00 AM - 3:00 PM",
+        "Sunday": "8:00 AM - 3:00 PM"
+      },
+      "menuUrl": "https://www.littleskybakery.com/",
+      "priceRange": "$$",
+      "description": "All-day breakfast and brunch kitchen connected to Little Sky Bakery with seasonal California dishes, fresh pastries, and specialty coffee in a warm neighborhood setting."
+    },
+    {
+      "id": "ChIJn8Cf4uukj4ARJ3Z-8BqZ5EI",
+      "formattedAddress": "3539 Alameda de las Pulgas, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4322851,
+        "longitude": -122.20213600000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4820145842176292391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lulusmexicanfood.com/",
+      "displayName": {
+        "text": "Lulu's on the Alameda",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Lulus Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://lulusrestaurants.com/",
+      "priceRange": "$$",
+      "description": "California-meets-Mexico restaurant with breakfast burritos, enchiladas, margaritas, and family-friendly plates in a relaxed setting popular with local families and tech workers."
+    },
+    {
+      "id": "ChIJlexF--ukj4ARHrF17Uxv5jI",
+      "formattedAddress": "3535 Alameda de las Pulgas, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.432441399999995,
+        "longitude": -122.20243879999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3667741322731958558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.luttickensafter5.com/",
+      "displayName": {
+        "text": "Lutticken's",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Luttickens Small.jpeg",
+      "hours": {
+        "Monday": "7:00 AM - 6:00 PM",
+        "Tuesday": "7:00 AM - 6:00 PM",
+        "Wednesday": "7:00 AM - 6:00 PM",
+        "Thursday": "7:00 AM - 6:00 PM",
+        "Friday": "7:00 AM - 6:00 PM",
+        "Saturday": "7:00 AM - 6:00 PM",
+        "Sunday": "Closed"
+      },
+      "menuUrl": "https://www.luttickens.com/",
+      "priceRange": "$",
+      "description": "Menlo Park deli institution since 1964 with made-to-order sandwiches, soups, salads, and a devoted weekday following who know the staff by name."
+    },
+    {
+      "id": "ChIJ2wlgDrCkj4ARMheNOnjl6wc",
+      "formattedAddress": "816 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4508806,
+        "longitude": -122.18538329999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=570802082333660978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mademoisellecolette.com/",
+      "displayName": {
+        "text": "Mademoiselle Colette",
+        "languageCode": "fr"
+      },
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mademoiselle Colette Small.jpeg"
+    },
+    {
+      "id": "ChIJiUNAfPukj4AR5sxvOP_JPUA",
+      "formattedAddress": "2825 Sand Hill Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4193006,
+        "longitude": -122.21215009999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4629078090007432422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.rosewoodhotels.com/en/sand-hill-menlo-park/dining/madera",
+      "displayName": {
+        "text": "Madera",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJrbqcMa6kj4ARYORVCGFGaI0",
+      "formattedAddress": "1081 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4532544,
+        "longitude": -122.1827867
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10189471539491365984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mamacocorestaurant.com/",
+      "displayName": {
+        "text": "Mama Coco Cocina Mexicana",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mama Coco Small.jpeg"
+    },
+    {
+      "id": "ChIJzeMWMVKlj4ARlDbb3WjiFZ0",
+      "formattedAddress": "989 El Camino Real Ste B, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4525801,
+        "longitude": -122.18155919999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11319202178492216980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mamichelis.com/",
+      "displayName": {
+        "text": "Mami Cheli's",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mami Chelis Small.jpeg"
+    },
+    {
+      "id": "ChIJx_z8YNa7j4ARz1dXw2JYbAY",
+      "formattedAddress": "408 Willow Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4603158,
+        "longitude": -122.1607415
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=462842042919638991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mardinisdelicafeca.com/",
+      "displayName": {
+        "text": "Mardini's Deli Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mardinis Deli Cafe Small.jpeg"
+    },
+    {
+      "id": "ChIJL-UtBlu7j4ARfTp_8xKGdbo",
+      "formattedAddress": "555 Willow Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4617603,
+        "longitude": -122.1598987
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13435792479282477693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.menlobbqca.com/",
+      "displayName": {
+        "text": "Menlo BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/menlo-park/Menlo BBQ Small.jpeg"
+    },
+    {
+      "id": "ChIJJ-I5z6-kj4ARIr0WLwxDekM",
+      "formattedAddress": "620 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4531213,
+        "longitude": -122.1837179
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4862272467308559650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://menlocafe.com/",
+      "displayName": {
+        "text": "Menlo Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Menlo Cafe Small.jpeg"
+    },
+    {
+      "id": "ChIJ64ktUF67j4ARKikpyeVJKPA",
+      "formattedAddress": "100 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4477243,
+        "longitude": -122.1721992
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17305162819442387242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.menlotavern.com/?utm_source=google&utm_medium=organic&utm_campaign=business-listing",
+      "displayName": {
+        "text": "Menlo Tavern",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Menlo Tavern Small.jpeg"
+    },
+    {
+      "id": "ChIJ3diSZWyjj4ARnIvP4WJNZfY",
+      "formattedAddress": "3215 Middlefield Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4719321,
+        "longitude": -122.20398189999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17754682193068657564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mexcal Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mexical Taqueria Small.jpeg"
+    },
+    {
+      "id": "ChIJUW8_cZi8j4ARlXrMi3FLNhE",
+      "formattedAddress": "875 Hamilton Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4799194,
+        "longitude": -122.15204120000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1240261698435971733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mi Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mi Taqueria Small.jpeg"
+    },
+    {
+      "id": "ChIJFzkSCgC7j4AR5jKHvt4MyDU",
+      "formattedAddress": "900 Willow Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4661796,
+        "longitude": -122.15623579999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3875361630171116262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mi Tienda Menlo Park Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mi Tienda Small.jpeg"
+    },
+    {
+      "id": "ChIJy6oKPhSlj4ARNSJmSFve4Vk",
+      "formattedAddress": "325 Sharon Park Dr Ste A2, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4240154,
+        "longitude": -122.19657720000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6476702222773527093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mjsushimenlopark.com/",
+      "displayName": {
+        "text": "MJ Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/MJ Sushi Small.jpeg"
+    },
+    {
+      "id": "ChIJyyp24eClj4ARq9LeAXdUlFE",
+      "formattedAddress": "1001 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4528284,
+        "longitude": -122.1820794
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5878416283734561451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mountainmikespizza.com/locations/menlo-park/",
+      "displayName": {
+        "text": "Mountain Mike's Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mountain Mikes Small.jpeg"
+    },
+    {
+      "id": "ChIJze7hSbKkj4ARozcgS2khx2Q",
+      "formattedAddress": "700 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.451816799999996,
+        "longitude": -122.17904329999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7261809660273899427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "MP Mongolian BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/menlo-park/MP BBQ Small.jpeg"
+    },
+    {
+      "id": "ChIJx03r9yilj4ARHXLc1aMnESk",
+      "formattedAddress": "712 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.452091599999996,
+        "longitude": -122.1845493
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2959190014780273181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mrskhanuyghur.com/",
+      "displayName": {
+        "text": "Mrs Khan Uyghur Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Halal",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mrs Khan Uyghur Cuisine Small.jpeg"
+    },
+    {
+      "id": "ChIJ_-T3GD-lj4ARuK5KmNgcQBQ",
+      "formattedAddress": "1400 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.456165399999996,
+        "longitude": -122.1875838
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1459197995861585592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://parkjames.com/oak-violet/",
+      "displayName": {
+        "text": "Oak + Violet",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Oak + Violet Small.jpeg"
+    },
+    {
+      "id": "ChIJPbMu7rGkj4ARhNZdO83g59k",
+      "formattedAddress": "925 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.452292,
+        "longitude": -122.1810132
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15701765797919446660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.octopusjapanese.com/",
+      "displayName": {
+        "text": "Octopus Japanese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Octopus Small.jpeg"
+    },
+    {
+      "id": "ChIJ0cHjuEqjj4ARXVD3djzV2fI",
+      "formattedAddress": "Lobby Level, 200 Independence Dr, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.482644799999996,
+        "longitude": -122.1769351
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17499252282795446365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.portablurestaurant.com/",
+      "displayName": {
+        "text": "Porta Blu",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/menlo-park/Porta Blu Small.jpeg"
+    },
+    {
+      "id": "ChIJ6T-LuB-lj4ARpKsYLq_ZApg",
+      "formattedAddress": "403 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4497487,
+        "longitude": -122.17649920000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10953556590134340516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.rensushiomakase.com/",
+      "displayName": {
+        "text": "Ren Omakase",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Ren Small.jpeg"
+    },
+    {
+      "id": "ChIJpw1PZ4Olj4AR8fsc3070UDA",
+      "formattedAddress": "1300 El Camino Real Ste C, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.455034999999995,
+        "longitude": -122.18538350000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3481551131545238513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.robinomakase.com/",
+      "displayName": {
+        "text": "Robin Menlo Park",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Robin Menlo Park Small.jpeg"
+    },
+    {
+      "id": "ChIJVVXqDrCkj4ARLM2HcoPKxmY",
+      "formattedAddress": "820 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4508844,
+        "longitude": -122.18550269999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7405829303168388396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://romamenlopark.com/?utm_source=google",
+      "displayName": {
+        "text": "Roma",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Roma Small.jpeg"
+    },
+    {
+      "id": "ChIJyX5Cna-kj4ARFVEhKvEn--w",
+      "formattedAddress": "1225 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.454352899999996,
+        "longitude": -122.18502599999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17076286328852795669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+      "displayName": {
+        "text": "Round Table Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/menlo-park/Round Table Small.jpeg"
+    },
+    {
+      "id": "ChIJgz2kcZi8j4ARnfcQsLATwnw",
+      "formattedAddress": "883 Hamilton Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.480169,
+        "longitude": -122.15192599999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8989769455774005149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sajjstreeteats.com/",
+      "displayName": {
+        "text": "SAJJ Mediterranean (Menlo Park)",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/menlo-park/Sajj Small.jpeg"
+    },
+    {
+      "id": "ChIJCxO08v6lj4ARLk79MGJCQ5s",
+      "formattedAddress": "3000 Sand Hill Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4234674,
+        "longitude": -122.2211263
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11187858888814579246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sandhillsundeck.com/",
+      "displayName": {
+        "text": "Sand Hill Sundeck",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Sand hill Sundeck Small.jpeg"
+    },
+    {
+      "id": "opening_shiok_singapore_kitchen",
+      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4532,
+        "longitude": -122.183
+      },
+      "googleMapsUri": "https://maps.google.com/?q=625+Oak+Grove+Ave,+Menlo+Park,+CA",
+      "websiteUri": "https://shiokkitchen.com",
+      "displayName": {
+        "text": "Shiok Singapore Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Singaporean",
+      "phone": "(650) 838-9448",
+      "hours": {
+        "Monday": "11:00 AM - 8:30 PM",
+        "Tuesday": "11:00 AM - 8:30 PM",
+        "Wednesday": "11:00 AM - 8:30 PM",
+        "Thursday": "11:00 AM - 8:30 PM",
+        "Friday": "11:00 AM - 8:30 PM",
+        "Saturday": "11:00 AM - 8:30 PM",
+        "Sunday": "11:00 AM - 8:30 PM"
+      },
+      "description": "Family-owned Singaporean kitchen serving authentic chili crab, laksa, and satay from recipes brought over from Singapore in 1999.",
+      "menuUrl": "https://shiokkitchen.com/menu",
+      "priceRange": "$$"
+    },
+    {
+      "id": "manual_1778345644722",
+      "displayName": {
+        "text": "Shiok Singapore Kitchen",
+        "languageCode": "en"
+      },
+      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025",
+      "googleMapsUri": "https://www.google.com/maps/place/Shiok+Singapore+Kitchen/data=!4m2!3m1!1s0x0:0x88cb94b01013ba35?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://shiokkitchen.com/",
+      "location": {},
+      "cuisine": "Singaporean",
+      "menuUrl": "https://shiokkitchen.com/menu",
+      "phone": "+16506182327",
+      "hours": "Sat-Sun 5pm-8pm, Tue-Fri 11am-2:30pm, Tue-Fri 5pm-8pm",
+      "priceRange": "$$$"
+    },
+    {
+      "id": "ChIJLylwScmlj4ARj_Cu5p52tuc",
+      "formattedAddress": "1195 Merrill St, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4550286,
+        "longitude": -122.1835962
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16696663093369827471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sonandgarden.com/",
+      "displayName": {
+        "text": "Son & Garden",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/menlo-park/Son & Garden Small.jpeg"
+    },
+    {
+      "id": "ChIJ6ciMyq-kj4ARRLEgxqtHAjQ",
+      "formattedAddress": "600 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.453455999999996,
+        "longitude": -122.183247
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3747636643014684996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://stacksbreakfast.com/",
+      "displayName": {
+        "text": "STACKS Menlo Park",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/menlo-park/Stacks Small.jpeg"
+    },
+    {
+      "id": "ChIJiRDbtq-kj4ARtq3vEYcFmvw",
+      "formattedAddress": "1149 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4537158,
+        "longitude": -122.1836108
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18201866921650924982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thesultana.net/",
+      "displayName": {
+        "text": "Sultana Mediterranean",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/menlo-park/Sultana Small.jpeg"
+    },
+    {
+      "id": "ChIJ3da_5Gujj4ARVIB1crpdgq4",
+      "formattedAddress": "3387 Middlefield Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4709584,
+        "longitude": -122.2021862
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12574716164937449556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tacos el Fogon",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Tacos El Fogon Small.jpeg"
+    },
+    {
+      "id": "ChIJk5OI3nalj4ARzB2VnUkxY2s",
+      "formattedAddress": "2825 Sand Hill Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4195409,
+        "longitude": -122.2123267
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7738082776998813132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "The Library & Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJG9rCFfKlj4ARIBaOF4i5_M8",
+      "formattedAddress": "1029 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.453024,
+        "longitude": -122.1822457
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14987057654144046624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.themandarinbistro.com/",
+      "displayName": {
+        "text": "The Mandarin",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/menlo-park/The Mandarin Small.jpeg"
+    },
+    {
+      "id": "ChIJH61MUJylj4AR1ThEHto19io",
+      "formattedAddress": "2400 Sand Hill Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4233323,
+        "longitude": -122.20329350000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3095721004790724821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thesandhillkitchen.com/",
+      "displayName": {
+        "text": "The Sand Hill Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/The Sandhill Kitchen1 Small.jpeg"
+    },
+    {
+      "id": "ChIJKb_qWE-7j4ARS0PSdsGO534",
+      "formattedAddress": "60 Middlefield Rd, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.454518199999995,
+        "longitude": -122.1632802
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9144434529972405067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.willowsmarket.com/",
+      "displayName": {
+        "text": "The Willows Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/The Willows Small.jpeg"
+    },
+    {
+      "id": "ChIJ9c2m3eelj4ARXFWyLXrjbDo",
+      "formattedAddress": "683 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4521978,
+        "longitude": -122.18370679999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4209989865576748380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tilakmenlopark.com/",
+      "displayName": {
+        "text": "Tilak Indian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Tilak Small.jpeg"
+    },
+    {
+      "id": "ChIJK5fHMa6kj4AR8DZJff2k-MQ",
+      "formattedAddress": "1077 El Camino Real, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4532461,
+        "longitude": -122.18266399999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14193275634293749488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.trellisrestaurant.com/",
+      "displayName": {
+        "text": "Trellis Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Trellis Small.jpeg"
+    },
+    {
+      "id": "ChIJeRPhbgClj4AR9sW9Tqbu0Qs",
+      "formattedAddress": "827 Santa Cruz Ave, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4504806,
+        "longitude": -122.1851368
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=851724202602776054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://yeobodarling.com/",
+      "displayName": {
+        "text": "yeobo, darling",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/menlo-park/Yeobo darling Small.jpeg"
+    },
+    {
+      "id": "ChIJ43doM-ulj4ARDDU_2YFai1c",
+      "formattedAddress": "1010 University Dr, Menlo Park, CA 94025, USA",
+      "location": {
+        "latitude": 37.4491818,
+        "longitude": -122.185159
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6308235216804590860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.zenshisushi.com/",
+      "displayName": {
+        "text": "ZENSHI Handcrafted Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    }
+  ],
   "Palo Alto, CA": [
     {
       "id": "ChIJ-RTutuW6j4AR4VYL3DZDAvg",
