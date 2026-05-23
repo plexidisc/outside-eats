@@ -1193,7 +1193,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Mezza Luna Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Mezza Luna Small.jpeg"
     },
     {
       "id": "ChIJiwqgaMx1j4ARvqzjVD0l6Iw",
@@ -1283,7 +1284,8 @@ var PREBAKED_DATA_COAST = {
         "text": "La Costanera",
         "languageCode": "en"
       },
-      "cuisine": "Peruvian"
+      "cuisine": "Peruvian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/La Costanera Small.jpeg"
     },
     {
       "id": "ChIJpRCVS7N0j4AR_ZY6Wb-vBRM",
@@ -1418,7 +1420,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Oceano Bar & Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Oceano Bar & Grill Small.jpeg"
     },
     {
       "id": "ChIJh7qu39xzj4ARw6NOKxN-_xg",
@@ -1448,7 +1451,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Barbara's Fishtrap",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Barbaras Fishtrap Small.jpeg"
     },
     {
       "id": "ChIJxRPWUbN0j4ARUvqbq5mVlzI",
@@ -1598,7 +1602,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Old Princeton Landing Public House and Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Old Princeton Landing Small.jpeg"
     },
     {
       "id": "ChIJoRaDWnILj4ARRRF4LqsDgUs",
@@ -1688,7 +1693,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Half Moon Bay Brewing Company",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Half Moon Bay Brewing Co Small.jpeg"
     },
     {
       "id": "ChIJ6w9WhmMLj4ARy1YE_91UeWQ",
@@ -1718,7 +1724,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Pilot Light",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Pilot Light Small.jpeg"
     },
     {
       "id": "ChIJqZ-ESLlzj4ARakRsWhcYPyc",
@@ -1868,7 +1875,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Harbor Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Harbor Pizza Small.jpeg"
     },
     {
       "id": "ChIJ-S_7ZrF0j4ARkuPZq9ouLGA",
@@ -1913,7 +1921,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Caffé Mezza Luna",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Caffe Mezzaluna Small.jpeg"
     },
     {
       "id": "ChIJVVUVX0sLj4ARCiA-F5V50ng",
@@ -1973,7 +1982,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Barterra Winery",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Barterra Winery Small.jpeg"
     },
     {
       "id": "ChIJ5auJ8uF1j4ARBAc5BS1pfs0",
@@ -2033,7 +2043,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Swell Lounge @ Jettywave Distillery",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/The Swell Lounge & Jettywave Small.jpeg"
     },
     {
       "id": "ChIJ9RNKir1zj4AR04S9NhTbBng",
@@ -2048,7 +2059,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Hop Dogma Brewing Co.",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Hop Dogma Small.jpeg"
     },
     {
       "id": "ChIJiadcUrF0j4ARSEaUheU9YCA",
