@@ -1148,7 +1148,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Asian Kings Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Asian King's Kitchen Small.jpeg"
     },
     {
       "id": "ChIJFQfjHrZzj4ARfIzNuCQKVXQ",
@@ -1498,7 +1499,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Hangetsu Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Hangetsu Sushi Small.jpeg"
     },
     {
       "id": "ChIJ9aiv_sdzj4ARLXcP46yWpqM",
@@ -1561,7 +1563,8 @@ var PREBAKED_DATA_COAST = {
         "text": "India Beach",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/India Beach Small.jpeg"
     },
     {
       "id": "ChIJEe0lb7R0j4ARVBWtpy7ynsk",
@@ -1750,7 +1753,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Miramar Beach Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Miramar Beach Restaurant Small.jpeg"
     },
     {
       "id": "ChIJ9yrIZ7R0j4ARFbQCh95auVU",
@@ -2019,7 +2023,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sam's Chowder House",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Sams2 Small.jpeg"
     },
     {
       "id": "ChIJMxIvmbR0j4ARPipJOoAFR_s",
@@ -2066,7 +2071,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Spangler's Market",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Spanglers Small.jpeg"
     },
     {
       "id": "ChIJpRCVS7N0j4AR_ZY6Wb-vBRM",
@@ -2209,7 +2215,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Barn",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/The Barn Small.jpeg"
     },
     {
       "id": "ChIJ6w9WhmMLj4ARy1YE_91UeWQ",
