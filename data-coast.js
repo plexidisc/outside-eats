@@ -2402,7 +2402,8 @@ var PREBAKED_DATA_COAST = {
       },
       "menuUrl": "https://slicelife.com/restaurants/ca/moss-beach/94038/odyssey-pizzeria-cafe/menu",
       "priceRange": "$",
-      "description": "Latinx-owned coastal pizzeria at 2350 Carlos Street with outdoor seating, signature Montara Mountain and Athenian pies, burritos, quesadillas, and gluten-free crust options."
+      "description": "Latinx-owned coastal pizzeria at 2350 Carlos Street with outdoor seating, signature Montara Mountain and Athenian pies, burritos, quesadillas, and gluten-free crust options.",
+      "photoUrl": "images/restaurant-photos/moss-beach/Odyssey's Pizzeria Small.jpeg"
     },
     {
       "id": "ChIJjdgNC5dxj4ARjl9G7pIQkwE",
