@@ -1468,7 +1468,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Half Moon Bay Joe's",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Half Moon Bay Joe's Small.jpeg"
     },
     {
       "id": "ChIJecBLrrR0j4ARPmBOfJ2qm4Y",
