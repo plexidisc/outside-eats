@@ -4054,7 +4054,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Amici's East Coast Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/menlo-park/Amicis Small.jpeg"
     },
     {
       "id": "ChIJgfjkWemkj4ARcjnuZBHmt9w",
@@ -4069,7 +4070,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Avanti Pizza Fresh Pasta",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Avanti Pizza Small.jpeg"
     },
     {
       "id": "ChIJP01j_qC8j4ARyxyiGFKN_rs",
@@ -4084,7 +4086,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Back A Yard Caribbean Grill",
         "languageCode": "en"
       },
-      "cuisine": "Caribbean"
+      "cuisine": "Caribbean",
+      "photoUrl": "images/restaurant-photos/menlo-park/Back a Yard Small.jpeg"
     },
     {
       "id": "ChIJKUiXDQClj4AR54PnQ4zkiOw",
@@ -4099,7 +4102,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Bar Loretta",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bar Loretta Small.jpeg"
     },
     {
       "id": "ChIJK3DFfeKlj4ARK9PM4DRr9yo",
@@ -4114,7 +4118,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Barebottle Brewing Company - Menlo Park",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bare Bottle Brew Co Small.jpeg"
     },
     {
       "id": "ChIJxZ4l4q6lj4ARNNpkCOK92E8",
@@ -4129,7 +4134,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Bici Coffee",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bici Coffee Small.jpeg"
     },
     {
       "id": "ChIJPTPS1q-kj4ARMuL955Oc-tI",
@@ -4144,7 +4150,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Bistro Vida",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bistro Vida Small.jpeg"
     },
     {
       "id": "ChIJPeparJKkj4ARVcbpoKimYS0",
@@ -4159,7 +4166,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Bob’s Country Corner",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/Country Corner Small.jpeg"
     },
     {
       "id": "ChIJE1BxNq6kj4ARm-YgnncZtO4",
@@ -4174,7 +4182,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "British Bankers Club",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/British Bankers club Small.jpeg"
     },
     {
       "id": "ChIJ-_yAHQClj4AR4G8J6Gda_NE",
@@ -4189,7 +4198,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Bubbelah",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/menlo-park/Bubbelah Small.jpeg"
     },
     {
       "id": "ChIJe1sdKlKlj4ARrLC-zqz7wHo",
@@ -4204,7 +4214,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Burma Love",
         "languageCode": "en"
       },
-      "cuisine": "Burmese"
+      "cuisine": "Burmese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Burma Love Small.jpeg"
     },
     {
       "id": "ChIJARB2O66kj4ARF-HVDDNeV7c",
@@ -4219,7 +4230,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Cafe Borrone",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cafe Borrone Small.jpeg"
     },
     {
       "id": "opening_cafe_vivant",
@@ -4247,7 +4259,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Heritage-breed chicken and an exceptional 3,000-bottle wine cellar from two sommeliers. One of the most distinctive new restaurants on the Peninsula.",
       "menuUrl": "https://cafevivantca.com",
-      "priceRange": "$$$$"
+      "priceRange": "$$$$",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cafe Vivant Small.jpeg"
     },
     {
       "id": "ChIJCXiv-Qelj4AR9V8pN11zgNE",
@@ -4277,7 +4290,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Cafe Wisteria",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cafe Wisteria Small.jpeg"
     },
     {
       "id": "ChIJtYpHfUK7j4ARTWWW4_FP7DI",
@@ -4292,7 +4306,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Cafe Zoe & Neighborhood Pizza Guy",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cafe Zoe Small.jpeg"
     },
     {
       "id": "ChIJYfJCcSqlj4ARm2v5HkfMSv0",
@@ -4307,7 +4322,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Camper",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Camper Small.jpeg"
     },
     {
       "id": "ChIJq6CCdl-jj4ARjkoQDdcOsDE",
@@ -4322,7 +4338,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Celia's",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Celias Small.jpeg"
     },
     {
       "id": "ChIJC4JvtdKlj4ARf747hSEVuyo",
@@ -4337,7 +4354,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Che Fico Parco Menlo",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Che Fico Parco Small.jpeg"
     },
     {
       "id": "ChIJ__-UGrCkj4ARFiZnv8KczUg",
@@ -4352,7 +4370,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Clark's Oyster Bar- Menlo Park",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/menlo-park/Clarks Oyster Bar Small.jpeg"
     },
     {
       "id": "ChIJ2aR2-6-kj4ARCRsRgFybxcc",
@@ -4367,7 +4386,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Coffeebar",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Coffeebar Small.jpeg"
     },
     {
       "id": "ChIJZ1UNLrKkj4ARKcgVQRourdA",
@@ -4382,7 +4402,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Cook's Seafood",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/menlo-park/Cooks Seafood Small.jpeg"
     },
     {
       "id": "ChIJo0NIcZi8j4ARjJ9Kj6BWEnc",
@@ -4397,7 +4418,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Dashi Japanese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Dashi Japanese Small.jpeg"
     },
     {
       "id": "ChIJnfbTrlSjj4ARTeEjFnYAsNc",
@@ -4412,7 +4434,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Delicias para tu paladar M",
         "languageCode": "es"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/Delicias Small.jpeg"
     },
     {
       "id": "ChIJrVtZudG7j4ARKCfNlz0hVS8",
@@ -4427,7 +4450,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Dosa Point",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Dosa Point Small.jpeg"
     },
     {
       "id": "ChIJp1uWC0mlj4ARsNiuJAYb5Zk",
@@ -4442,7 +4466,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Drunken Monk",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Drunken Monk Small.jpeg"
     },
     {
       "id": "ChIJt8dAXemkj4ARXDrSoUeLfh0",
@@ -4457,7 +4482,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Dutch Goose",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Dutch Goose Small.jpeg"
     },
     {
       "id": "ChIJPd8zEN6kj4ARpm5JaBuWH3M",
@@ -4472,7 +4498,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "El Cerrito",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/El Cerrito Small.jpeg"
     },
     {
       "id": "ChIJfeumwra7j4AR-ZAiZ3FkDqo",
@@ -4487,7 +4514,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "El Rancho Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/El Rancho Taqueria Small.jpeg"
     },
     {
       "id": "ChIJ03qnoLSkj4ARY8QLKH73qlM",
@@ -4502,7 +4530,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Eylan",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/menlo-park/Eylan Small.jpeg"
     },
     {
       "id": "ChIJnemarm-lj4AR0SbnSCF4Czk",
@@ -4517,7 +4546,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Farmhouse Kitchen Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/menlo-park/Farmhouse Kitchen Small.jpeg"
     },
     {
       "id": "ChIJJ0dW5KWkj4AREKzj85yKGhw",
@@ -4532,7 +4562,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "FEY Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Fey Restaurant Small.jpeg"
     },
     {
       "id": "ChIJCZfXbumkj4AR1p2me3o8urg",
@@ -4547,7 +4578,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Flea Street",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Flea Street Small.jpeg"
     },
     {
       "id": "ChIJKQDyuVGlj4ARv_rHjJdjDAw",
@@ -4562,7 +4594,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Guapa's Mexican Grill",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Guapas Mexican grill Small.jpeg"
     },
     {
       "id": "ChIJLznoH569j4ARj7vFqWBpOrY",
@@ -4577,7 +4610,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "HAJIS Restaurant & Catering Menlo Park",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Hajis Small.jpeg"
     },
     {
       "id": "ChIJhSa1dQC7j4ARUNcQU5M37PQ",
@@ -4592,7 +4626,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Haven Wine & Cheese",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/menlo-park/Haven Wine Small.jpeg"
     },
     {
       "id": "ChIJpxhC6celj4AR03xbVWGitgU",
@@ -4607,7 +4642,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Hirotaka Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Hirotaka Small.jpeg"
     },
     {
       "id": "ChIJPRbE4q6kj4ARvgfhVpQQ-Wc",
@@ -4622,7 +4658,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "J & J Hawaiian BBQ",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/menlo-park/J&J Hawaiian Barbecue Small.jpeg"
     },
     {
       "id": "ChIJXfHxRFKlj4AR7ku_2dpX27c",
@@ -4637,7 +4674,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Jason Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/menlo-park/Jason's Cafe Small.jpeg"
     },
     {
       "id": "ChIJQaUX9rGkj4AR0094cczM7es",
@@ -4652,7 +4690,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Jeffrey's Hamburgers",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/menlo-park/Jeffreys hamburgers Small.jpeg"
     },
     {
       "id": "ChIJ3RNyM66kj4ARFCWUS_Jt3jg",
@@ -4667,7 +4706,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Kyosho",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Kyosho Small.jpeg"
     },
     {
       "id": "ChIJ1x4tlq-kj4ARmtMkYWUFaV8",
@@ -4682,7 +4722,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "La Stanza Cucina Italiana",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/La Stanza Small.jpeg"
     },
     {
       "id": "ChIJo4971K-kj4AReyDUlK6mSI0",
@@ -4697,7 +4738,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Left Bank Menlo Park",
         "languageCode": "en"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/menlo-park/Left bank Small.jpeg"
     },
     {
       "id": "ChIJB0d75rK9j4AR-sgYVBDrIgs",
@@ -4712,7 +4754,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "LeVant dessert cafe and bakery",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Le Vant dessert cafe Small.jpeg"
     },
     {
       "id": "ChIJme-gK5Wlj4AR9O-7IuZBSNE",
@@ -4742,7 +4785,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Little Sky Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Little Sky Kitchen Small.jpeg"
     },
     {
       "id": "ChIJn8Cf4uukj4ARJ3Z-8BqZ5EI",
@@ -4757,7 +4801,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Lulu's on the Alameda",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Lulus Small.jpeg"
     },
     {
       "id": "ChIJlexF--ukj4ARHrF17Uxv5jI",
@@ -4772,7 +4817,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Lutticken's",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Luttickens Small.jpeg"
     },
     {
       "id": "ChIJ2wlgDrCkj4ARMheNOnjl6wc",
@@ -4787,7 +4833,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mademoiselle Colette",
         "languageCode": "fr"
       },
-      "cuisine": "French"
+      "cuisine": "French",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mademoiselle Colette Small.jpeg"
     },
     {
       "id": "ChIJiUNAfPukj4AR5sxvOP_JPUA",
@@ -4817,7 +4864,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mama Coco Cocina Mexicana",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mama Coco Small.jpeg"
     },
     {
       "id": "ChIJzeMWMVKlj4ARlDbb3WjiFZ0",
@@ -4832,7 +4880,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mami Cheli's",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mami Chelis Small.jpeg"
     },
     {
       "id": "ChIJx_z8YNa7j4ARz1dXw2JYbAY",
@@ -4847,7 +4896,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mardini's Deli Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern"
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mardinis Deli Cafe Small.jpeg"
     },
     {
       "id": "ChIJL-UtBlu7j4ARfTp_8xKGdbo",
@@ -4862,7 +4912,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Menlo BBQ",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/menlo-park/Menlo BBQ Small.jpeg"
     },
     {
       "id": "ChIJJ-I5z6-kj4ARIr0WLwxDekM",
@@ -4877,7 +4928,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Menlo Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/menlo-park/Menlo Cafe Small.jpeg"
     },
     {
       "id": "ChIJ64ktUF67j4ARKikpyeVJKPA",
@@ -4892,7 +4944,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Menlo Tavern",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Menlo Tavern Small.jpeg"
     },
     {
       "id": "ChIJ3diSZWyjj4ARnIvP4WJNZfY",
@@ -4907,7 +4960,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mexcal Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mexical Taqueria Small.jpeg"
     },
     {
       "id": "ChIJUW8_cZi8j4ARlXrMi3FLNhE",
@@ -4922,7 +4976,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mi Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mi Taqueria Small.jpeg"
     },
     {
       "id": "ChIJFzkSCgC7j4AR5jKHvt4MyDU",
@@ -4937,7 +4992,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mi Tienda Menlo Park Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mi Tienda Small.jpeg"
     },
     {
       "id": "ChIJy6oKPhSlj4ARNSJmSFve4Vk",
@@ -4952,7 +5008,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "MJ Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/MJ Sushi Small.jpeg"
     },
     {
       "id": "ChIJyyp24eClj4ARq9LeAXdUlFE",
@@ -4967,7 +5024,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mountain Mike's Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mountain Mikes Small.jpeg"
     },
     {
       "id": "ChIJze7hSbKkj4ARozcgS2khx2Q",
@@ -4982,7 +5040,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "MP Mongolian BBQ",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/menlo-park/MP BBQ Small.jpeg"
     },
     {
       "id": "ChIJx03r9yilj4ARHXLc1aMnESk",
@@ -4997,7 +5056,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Mrs Khan Uyghur Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Halal"
+      "cuisine": "Halal",
+      "photoUrl": "images/restaurant-photos/menlo-park/Mrs Khan Uyghur Cuisine Small.jpeg"
     },
     {
       "id": "ChIJ_-T3GD-lj4ARuK5KmNgcQBQ",
@@ -5012,7 +5072,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Oak + Violet",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Oak + Violet Small.jpeg"
     },
     {
       "id": "ChIJPbMu7rGkj4ARhNZdO83g59k",
@@ -5027,7 +5088,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Octopus Japanese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Octopus Small.jpeg"
     },
     {
       "id": "ChIJ0cHjuEqjj4ARXVD3djzV2fI",
@@ -5042,7 +5104,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Porta Blu",
         "languageCode": "en"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/menlo-park/Porta Blu Small.jpeg"
     },
     {
       "id": "ChIJ6T-LuB-lj4ARpKsYLq_ZApg",
@@ -5057,7 +5120,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Ren Omakase",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Ren Small.jpeg"
     },
     {
       "id": "ChIJpw1PZ4Olj4AR8fsc3070UDA",
@@ -5072,7 +5136,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Robin Menlo Park",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/menlo-park/Robin Menlo Park Small.jpeg"
     },
     {
       "id": "ChIJVVXqDrCkj4ARLM2HcoPKxmY",
@@ -5087,7 +5152,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Roma",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Roma Small.jpeg"
     },
     {
       "id": "ChIJyX5Cna-kj4ARFVEhKvEn--w",
@@ -5102,7 +5168,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Round Table Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/menlo-park/Round Table Small.jpeg"
     },
     {
       "id": "ChIJgz2kcZi8j4ARnfcQsLATwnw",
@@ -5117,7 +5184,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "SAJJ Mediterranean (Menlo Park)",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/menlo-park/Sajj Small.jpeg"
     },
     {
       "id": "ChIJCxO08v6lj4ARLk79MGJCQ5s",
@@ -5132,7 +5200,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sand Hill Sundeck",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/Sand hill Sundeck Small.jpeg"
     },
     {
       "id": "opening_shiok_singapore_kitchen",
@@ -5191,7 +5260,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Son & Garden",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/menlo-park/Son & Garden Small.jpeg"
     },
     {
       "id": "ChIJ6ciMyq-kj4ARRLEgxqtHAjQ",
@@ -5206,7 +5276,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "STACKS Menlo Park",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/menlo-park/Stacks Small.jpeg"
     },
     {
       "id": "ChIJiRDbtq-kj4ARtq3vEYcFmvw",
@@ -5221,7 +5292,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Sultana Mediterranean",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/menlo-park/Sultana Small.jpeg"
     },
     {
       "id": "ChIJ3da_5Gujj4ARVIB1crpdgq4",
@@ -5236,7 +5308,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tacos el Fogon",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/menlo-park/Tacos El Fogon Small.jpeg"
     },
     {
       "id": "ChIJk5OI3nalj4ARzB2VnUkxY2s",
@@ -5266,7 +5339,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Mandarin",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/menlo-park/The Mandarin Small.jpeg"
     },
     {
       "id": "ChIJH61MUJylj4AR1ThEHto19io",
@@ -5281,7 +5355,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Sand Hill Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/menlo-park/The Sandhill Kitchen1 Small.jpeg"
     },
     {
       "id": "ChIJKb_qWE-7j4ARS0PSdsGO534",
@@ -5296,7 +5371,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "The Willows Market",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/menlo-park/The Willows Small.jpeg"
     },
     {
       "id": "ChIJ9c2m3eelj4ARXFWyLXrjbDo",
@@ -5311,7 +5387,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Tilak Indian Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Tilak Small.jpeg"
     },
     {
       "id": "ChIJK5fHMa6kj4AR8DZJff2k-MQ",
@@ -5326,7 +5403,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "Trellis Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/menlo-park/Trellis Small.jpeg"
     },
     {
       "id": "ChIJeRPhbgClj4AR9sW9Tqbu0Qs",
@@ -5341,7 +5419,8 @@ var PREBAKED_DATA_SOUTH = {
         "text": "yeobo, darling",
         "languageCode": "en"
       },
-      "cuisine": "Korean"
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/menlo-park/Yeobo darling Small.jpeg"
     },
     {
       "id": "ChIJ43doM-ulj4ARDDU_2YFai1c",
