@@ -4263,21 +4263,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/menlo-park/Cafe Vivant Small.jpeg"
     },
     {
-      "id": "ChIJCXiv-Qelj4AR9V8pN11zgNE",
-      "formattedAddress": "720 Santa Cruz Ave, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.4516634,
-        "longitude": -122.1848323
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15096192795140513781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cafevivantca.com/",
-      "displayName": {
-        "text": "Café Vivant",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
       "id": "ChIJAQB0y8ukj4ARIh3K6QumFHc",
       "formattedAddress": "75 Arbor Rd, Menlo Park, CA 94025, USA",
       "location": {
