@@ -2322,7 +2322,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Your Mom's Haus",
         "languageCode": "en"
       },
-      "cuisine": "German/Austrian"
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/el-granada/Your Mom's Haus Small.jpeg"
     },
     {
       "id": "ChIJm-mzDMhzj4AR5jRDlwMRQEk",
