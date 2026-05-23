@@ -5984,21 +5984,6 @@ var PREBAKED_DATA_SOUTH = {
       },
       "cuisine": "Korean",
       "photoUrl": "images/restaurant-photos/menlo-park/Yeobo darling Small.jpeg"
-    },
-    {
-      "id": "ChIJ43doM-ulj4ARDDU_2YFai1c",
-      "formattedAddress": "1010 University Dr, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.4491818,
-        "longitude": -122.185159
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6308235216804590860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.zenshisushi.com/",
-      "displayName": {
-        "text": "ZENSHI Handcrafted Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
     }
   ],
   "Palo Alto, CA": [
