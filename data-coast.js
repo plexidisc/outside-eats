@@ -13,7 +13,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Bolare Trattoria & Pizzeria",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/pacifica/Bolare Trattoria Small.jpeg"
     },
     {
       "id": "ChIJfVAKP1t7j4AR8u0tEbnQOQc",
@@ -28,7 +29,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Buona italia caffe",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/pacifica/Buona Italia Caffe Small.jpeg"
     },
     {
       "id": "ChIJteAzmaB7j4ARQdYsY-8cWyA",
@@ -43,7 +45,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Viva Italiano Pizzeria & Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/pacifica/Viva Italiano Small.jpeg"
     },
     {
       "id": "ChIJLyCbBn1wj4ARyHjqVV6VZo4",
@@ -58,7 +61,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Luigi Italian Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/pacifica/Luigi Italian Restaurant Small.jpeg"
     },
     {
       "id": "ChIJm8MotDt7j4ARbqvH2TUzzXs",
@@ -73,7 +77,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sushi Kashiwa",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/pacifica/Sushi Kashiwa Small.jpeg"
     },
     {
       "id": "ChIJ1Wr0xIN6j4ARZoRg5v331Iw",
@@ -88,7 +93,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Kani Kosen",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/pacifica/Kani Kosen Small.jpeg"
     },
     {
       "id": "ChIJB6qiN6d7j4ARxe4Z21Ik5-Q",
@@ -103,7 +109,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Ocean Fish Sushi & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/pacifica/Ocean Fish Sushi Small.jpeg"
     },
     {
       "id": "ChIJs0YDOlR6j4ARHBVhsh5QdsI",
@@ -118,7 +125,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Go Sushi Japanese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/pacifica/Go Sushi Small.jpeg"
     },
     {
       "id": "ChIJ1YtUfQB7j4ARLuXhAPHP3BY",
@@ -133,7 +141,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Must Be Dumpling",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Must Be Dumpling Small.jpeg"
     },
     {
       "id": "ChIJcbV5qJRwj4ARyK8yPQv2qg8",
@@ -163,7 +172,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taqueria la Mordida",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Taqueria La Mordida Small.jpeg"
     },
     {
       "id": "ChIJa2kksOx7j4AR30awHMv2_0M",
@@ -178,7 +188,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taquería La Perla",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Taqueria La Perla Small.jpeg"
     },
     {
       "id": "ChIJqQVRTmF6j4ARlu_4IX5MlmM",
@@ -193,7 +204,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Guerrero's Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Guerreros Taqueria_reina del mar Small.jpeg"
     },
     {
       "id": "ChIJ3cskNVV6j4ARNigSkyy5Pik",
@@ -208,7 +220,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taqueria Pacifica",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Taqueria Pacifica Small.jpeg"
     },
     {
       "id": "ChIJQ_QboqB7j4AR3jPelc4k8KY",
@@ -223,7 +236,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Green Enchilada",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/The Green Enchilada Small.jpeg"
     },
     {
       "id": "ChIJYdgfyap7j4ARo8C5B5ECjQs",
@@ -238,7 +252,8 @@ var PREBAKED_DATA_COAST = {
         "text": "El Toro Loco",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/El Toro Loco Small.jpeg"
     },
     {
       "id": "ChIJS0f-bIlwj4ARyOSq0_6k8ME",
@@ -253,7 +268,8 @@ var PREBAKED_DATA_COAST = {
         "text": "El Gran Amigo 2",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/El Gran Amigo Small.jpeg"
     },
     {
       "id": "ChIJudEwT4l6j4AR8kruJkjSG7k",
@@ -268,7 +284,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Nick's Rockaway",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/pacifica/Nicks Small.jpeg"
     },
     {
       "id": "ChIJS2lAypx6j4AR97GeGitnTx8",
@@ -283,7 +300,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taco Bell Cantina Cantina",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Taco Bell Small.jpeg"
     },
     {
       "id": "ChIJnc_AppZ7j4ARdE9_scvXhEY",
@@ -298,7 +316,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Guerrero's Taqueria #2",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Guerreros Taqueria Small.jpeg"
     },
     {
       "id": "ChIJ4RAt_gl7j4ARCuvM6CMWIrw",
@@ -313,7 +332,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Tam's Cuisine of China",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Tams Small.jpeg"
     },
     {
       "id": "ChIJN2yCgl97j4ARpCRbcq_-BPA",
@@ -328,7 +348,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Soul Rice",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Soul Rice Small.jpeg"
     },
     {
       "id": "ChIJrU4iiIF6j4ARVLB4bC3T0ZY",
@@ -343,7 +364,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Kenny's Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Kennys Cafe Small.jpeg"
     },
     {
       "id": "ChIJJ51Mqqp7j4AR449XaWMiWEw",
@@ -358,7 +380,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Raymond's Chinese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Raymonds Chinese Restaurant Small.jpeg"
     },
     {
       "id": "ChIJwVlwvQd7j4ARX1RYAtm0Y4U",
@@ -373,7 +396,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Top Pot",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Top Pot Small.jpeg"
     },
     {
       "id": "ChIJLwmUvbJ7j4ARc878dfDUYQU",
@@ -388,7 +412,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Grand HotPot",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Grand Hot Pot Small.jpeg"
     },
     {
       "id": "ChIJlyZNElV6j4AR_Jv0n82Hkls",
@@ -403,7 +428,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Pacifica Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/pacifica/Pacifica Thai Cuisine Small.jpeg"
     },
     {
       "id": "ChIJES-iadN7j4ARwdTswHI6RRI",
@@ -418,7 +444,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Thai Original BBQ",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/pacifica/Thai Original BBQ Small.jpeg"
     },
     {
       "id": "ChIJywBgJQB7j4AReC_w4eiE8d8",
@@ -433,7 +460,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Panj-Aab Indian Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/pacifica/Panj-Aab Small.jpeg"
     },
     {
       "id": "ChIJ6z8PYoV7j4ARePzN4h-uuT8",
@@ -448,7 +476,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Shore Shack",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/The Shore Shack Small.jpeg"
     },
     {
       "id": "ChIJ0VI3EwB7j4ARjdB-3mrjV6k",
@@ -463,7 +492,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Nations",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Nations Small.jpeg"
     },
     {
       "id": "ChIJvUa_WJNwj4ARlNohScJDWgk",
@@ -493,7 +523,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Moonraker",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/pacifica/Moonraker Small.jpeg"
     },
     {
       "id": "ChIJ2Yl5W2F6j4ARp-3ydsxUtF8",
@@ -508,7 +539,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Vallemar Station",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/pacifica/Vallemar Station Small.jpeg"
     },
     {
       "id": "ChIJ0zqPXIl6j4AR6ZGsdaZN_zE",
@@ -523,7 +555,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Breakers Breakfast, Brunch & Lunch",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/pacifica/Breakers breakfast Small.jpeg"
     },
     {
       "id": "ChIJCWEaT2F6j4AR6rbh3DKcYYY",
@@ -538,7 +571,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sharp Park Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/pacifica/Sharp Park Restaurant Small.jpeg"
     },
     {
       "id": "ChIJxZPMWzx7j4AR6DHZXsLe_q0",
@@ -553,7 +587,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Burger Board",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/pacifica/Burger board Small.jpeg"
     },
     {
       "id": "ChIJd6GTAMR7j4AR6JZATpReUng",
@@ -568,7 +603,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Cheese Steak Shop",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/The Cheesesteak Shop Small.jpeg"
     },
     {
       "id": "ChIJearFsPR7j4AR-ijzRK3u_-w",
@@ -583,7 +619,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Puerto 27 Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Peruvian"
+      "cuisine": "Peruvian",
+      "photoUrl": "images/restaurant-photos/pacifica/Puerto 27 Small.jpeg"
     },
     {
       "id": "ChIJu4efBwB7j4ARX9S-zQBHS6U",
@@ -598,7 +635,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Burger Blvd",
         "languageCode": "en"
       },
-      "cuisine": "Burgers"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/pacifica/Burger Blvd Small.jpeg"
     },
     {
       "id": "ChIJn3uGnIl6j4ARF3SR42zzVJQ",
@@ -613,7 +651,8 @@ var PREBAKED_DATA_COAST = {
         "text": "A Grape in the Fog",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/pacifica/A grape in the fog Small.jpeg"
     },
     {
       "id": "ChIJK8MtVqd7j4ARTkcCOpmDyx4",
@@ -628,7 +667,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Camelot Fish and Chips",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/pacifica/Camelot Fish & Chips Small.jpeg"
     },
     {
       "id": "ChIJYeF9DQB7j4ARMgqq6JzuBkQ",
@@ -643,7 +683,8 @@ var PREBAKED_DATA_COAST = {
         "text": "ZaZa Grill",
         "languageCode": "en"
       },
-      "cuisine": "Turkish"
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/pacifica/Zaza Grill Small.jpeg"
     },
     {
       "id": "ChIJX7rSzvB7j4ARlihj222Vdw0",
@@ -658,7 +699,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Rockaway Beach Brewery",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Rockaway Beach Brewery Small.jpeg"
     },
     {
       "id": "ChIJbTHmAgBxj4ARnSQkHHTKQlI",
@@ -688,7 +730,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Round Table Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/pacifica/Round Table Small.jpeg"
     },
     {
       "id": "ChIJUwLMAZ16j4AR1yk95-PSkX4",
@@ -703,7 +746,8 @@ var PREBAKED_DATA_COAST = {
         "text": "High Tide Cafe & Crêperie",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/High Tide Cafe Small.jpeg"
     },
     {
       "id": "ChIJ1xpdcaZ7j4ARVOy8i5FPZXE",
@@ -718,7 +762,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Oasis Vietnamese Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/pacifica/Oasis Vietnamese Small.jpeg"
     },
     {
       "id": "ChIJV2b0ap97j4ARdAg2UUqierk",
@@ -733,7 +778,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Kitten & Pinky",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/pacifica/Kitten & Pinky Small.jpeg"
     },
     {
       "id": "ChIJNyAcV1R6j4ARjvcPIs0xB8E",
@@ -748,7 +794,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Dinosaurs Sandwiches",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Dinosaurs Sandwiches Small.jpeg"
     },
     {
       "id": "ChIJe6Q3z1d7j4AR8FtA5_FtstU",
@@ -778,7 +825,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sunrise Cafe & Grill",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Sunrise Cafe & Grill Small.jpeg"
     },
     {
       "id": "ChIJr0LwQlZ6j4ARhWjZKVjP3Hw",
@@ -793,7 +841,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Perfect Pour Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Perfect Pour Cafe Small.jpeg"
     },
     {
       "id": "ChIJJ7S6BH1wj4ARkm-4Sjh8D-g",
@@ -808,7 +857,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Beach Monkey Organic Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Beach Monkey Cafe Small.jpeg"
     },
     {
       "id": "ChIJnYbskK57j4AR7hYgY9wu1Q0",
@@ -823,7 +873,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Humble Sea Brewing Co.",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Humble Sea Brewing Small.jpeg"
     },
     {
       "id": "ChIJOdpVIs97j4ARUeb-8UN5s8c",
@@ -838,7 +889,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sharp Park Taproom",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Sharp Park Taproom Small.jpeg"
     },
     {
       "id": "ChIJxd4hx6p7j4ARnK9cOR0AqDY",
@@ -853,7 +905,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Winters Tavern",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Wnters Small.jpeg"
     },
     {
       "id": "ChIJ75ZNN1R6j4ARJ50ti3M3DXE",
@@ -868,7 +921,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Longboard Bar and Venue",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Longboard Bar Small.jpeg"
     },
     {
       "id": "ChIJI_I7mKB7j4ARZvfh53IfKsw",
@@ -883,7 +937,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Surf Lounge",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Surf Lounge Small.jpeg"
     },
     {
       "id": "ChIJTV0SV1V6j4ARMk_yDOkYfTI",
@@ -898,7 +953,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Cafe Pacifica",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Cafe Pacifica Small.jpeg"
     },
     {
       "id": "ChIJzeS5JJ97j4AR1YU0jwL9A5s",
@@ -913,7 +969,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Soul Grind Coffee Roasters",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Soul grind coffee roasters Small.jpeg"
     },
     {
       "id": "ChIJjTT9Agp7j4ARL8svOoXGlik",
@@ -928,7 +985,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Chit Chat Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Chit-Chat Cafe Small.jpeg"
     },
     {
       "id": "ChIJvcBuZIl6j4ARVtO21dZiDzY",
@@ -943,7 +1001,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Pacific Java Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Pacifica Java Small.jpeg"
     },
     {
       "id": "ChIJ5z7At_96j4AR55wS3rlWVX0",
@@ -958,7 +1017,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Chit Chat Cafe at the Pier",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Chit Chat Cafe Small.jpeg"
     },
     {
       "id": "ChIJAQDsaHJ6j4ARnFNgxFRfXRI",
@@ -973,7 +1033,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Rosalind Bakery",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Rosalind Bakery Small.jpeg"
     },
     {
       "id": "ChIJYxyrT2F6j4AR397k4Xf6FoA",
@@ -988,7 +1049,8 @@ var PREBAKED_DATA_COAST = {
         "text": "P Town Coffee & Tea",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/P town Coffee Small.jpeg"
     },
     {
       "id": "ChIJQV50AAp7j4ARxJpDSgAbBtU",
@@ -1003,7 +1065,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Colombo's Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Colombos Delicatessen Small.jpeg"
     },
     {
       "id": "ChIJR4C8sn57j4ARgCu6e_iEPR0",
@@ -1018,7 +1081,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sourdough & Co Pacifica",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Sourdough & Co Small.jpeg"
     },
     {
       "id": "ChIJb01BU2F6j4AR55DBng5jZ0E",
@@ -1093,7 +1157,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Table Wine",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/pacifica/Table Wine Small.jpeg"
     },
     {
       "id": "ChIJYYOzXWF6j4ARkEiVB7egEnI",
@@ -1108,7 +1173,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Gorilla Barbeque",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/pacifica/Gorilla Barbeque Small.jpeg"
     },
     {
       "id": "ChIJpdpAYTd7j4ARrpYQMqQ7rg0",
@@ -1123,7 +1189,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Golden Sol Wellness Bar",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Golden Sol Small.jpeg"
     }
   ],
   "Half Moon Bay, CA": [
