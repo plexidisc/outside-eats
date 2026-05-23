@@ -2320,7 +2320,92 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "BBQ"
     }
   ],
-  "Moss Beach, CA": [{"id": "ChIJnx1sPZNxj4AR4SliHfqH9Wo", "formattedAddress": "2448 Cabrillo Hwy, Moss Beach, CA 94038, USA", "location": {"latitude": 37.526817, "longitude": -122.51315}, "googleMapsUri": "https://maps.google.com/?cid=7707215845619018209", "websiteUri": "", "displayName": {"text": "El Gran Amigo Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/moss-beach/El Gran Amigo Small.jpeg"}, {"id": "ChIJr4lkE4txj4ARR6h0u2NisGc", "formattedAddress": "140 Beach Way, Moss Beach, CA 94038, USA", "location": {"latitude": 37.5178, "longitude": -122.5128}, "googleMapsUri": "https://maps.google.com/?cid=7471579962293921863", "websiteUri": "https://www.mossbeachdistillery.com/", "displayName": {"text": "Moss Beach Distillery", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/moss-beach/Moss Beach Distillery Small.jpeg"}, {"id": "manual_odysseys_pizzeria_moss_beach", "displayName": {"text": "Odyssey's Pizzeria", "languageCode": "en"}, "formattedAddress": "2350 Carlos St, Moss Beach, CA 94038, USA", "googleMapsUri": "https://maps.google.com/?q=Odyssey%27s+Pizzeria+Moss+Beach", "websiteUri": "https://www.odysseyspizzeriamossbeach.com/", "location": {}, "cuisine": "Pizza", "keywords": ["pizza", "outdoor seating", "gluten free options", "burritos", "quesadillas", "takeout", "delivery", "fish and chips", "gyros"], "phone": "(650) 921-3553", "hours": {"Monday": "Closed", "Tuesday": "2:00 PM - 8:00 PM", "Wednesday": "2:00 PM - 8:00 PM", "Thursday": "2:00 PM - 8:00 PM", "Friday": "2:00 PM - 8:00 PM", "Saturday": "2:00 PM - 8:00 PM", "Sunday": "2:00 PM - 8:00 PM"}, "menuUrl": "https://slicelife.com/restaurants/ca/moss-beach/94038/odyssey-pizzeria-cafe/menu", "priceRange": "$", "description": "Latinx-owned coastal pizzeria at 2350 Carlos Street with outdoor seating, signature Montara Mountain and Athenian pies, burritos, quesadillas, and gluten-free crust options."}, {"id": "ChIJjdgNC5dxj4ARjl9G7pIQkwE", "formattedAddress": "2305 Carlos St, Moss Beach, CA 94038, USA", "location": {"latitude": 37.5288, "longitude": -122.5141}, "googleMapsUri": "https://maps.google.com/?cid=113452638863253390", "websiteUri": "https://www.thecoastalvine.com/", "displayName": {"text": "The Coastal Vine", "languageCode": "en"}, "cuisine": "Wine Bar", "photoUrl": "images/restaurant-photos/moss-beach/The Coastal Vine Small.jpeg"}],
+  "Moss Beach, CA": [
+    {
+      "id": "ChIJnx1sPZNxj4AR4SliHfqH9Wo",
+      "formattedAddress": "2448 Cabrillo Hwy, Moss Beach, CA 94038, USA",
+      "location": {
+        "latitude": 37.526817,
+        "longitude": -122.51315
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7707215845619018209",
+      "websiteUri": "",
+      "displayName": {
+        "text": "El Gran Amigo Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/moss-beach/El Gran Amigo Small.jpeg"
+    },
+    {
+      "id": "ChIJr4lkE4txj4ARR6h0u2NisGc",
+      "formattedAddress": "140 Beach Way, Moss Beach, CA 94038, USA",
+      "location": {
+        "latitude": 37.5178,
+        "longitude": -122.5128
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7471579962293921863",
+      "websiteUri": "https://www.mossbeachdistillery.com/",
+      "displayName": {
+        "text": "Moss Beach Distillery",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/moss-beach/Moss Beach Distillery Small.jpeg"
+    },
+    {
+      "id": "manual_odysseys_pizzeria_moss_beach",
+      "displayName": {
+        "text": "Odyssey's Pizzeria",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2350 Carlos St, Moss Beach, CA 94038, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Odyssey%27s+Pizzeria+Moss+Beach",
+      "websiteUri": "https://www.odysseyspizzeriamossbeach.com/",
+      "location": {},
+      "cuisine": "Pizza",
+      "keywords": [
+        "pizza",
+        "outdoor seating",
+        "gluten free options",
+        "burritos",
+        "quesadillas",
+        "takeout",
+        "delivery",
+        "fish and chips",
+        "gyros"
+      ],
+      "phone": "(650) 921-3553",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "2:00 PM - 8:00 PM",
+        "Wednesday": "2:00 PM - 8:00 PM",
+        "Thursday": "2:00 PM - 8:00 PM",
+        "Friday": "2:00 PM - 8:00 PM",
+        "Saturday": "2:00 PM - 8:00 PM",
+        "Sunday": "2:00 PM - 8:00 PM"
+      },
+      "menuUrl": "https://slicelife.com/restaurants/ca/moss-beach/94038/odyssey-pizzeria-cafe/menu",
+      "priceRange": "$",
+      "description": "Latinx-owned coastal pizzeria at 2350 Carlos Street with outdoor seating, signature Montara Mountain and Athenian pies, burritos, quesadillas, and gluten-free crust options."
+    },
+    {
+      "id": "ChIJjdgNC5dxj4ARjl9G7pIQkwE",
+      "formattedAddress": "2305 Carlos St, Moss Beach, CA 94038, USA",
+      "location": {
+        "latitude": 37.5288,
+        "longitude": -122.5141
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=113452638863253390",
+      "websiteUri": "https://www.thecoastalvine.com/",
+      "displayName": {
+        "text": "The Coastal Vine",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/moss-beach/The Coastal Vine Small.jpeg"
+    }
+  ],
   "Montara, CA": [
     {
       "id": "ChIJ8xk76GFxj4ARJI_uP62YVJY",
@@ -2408,5 +2493,391 @@ var PREBAKED_DATA_COAST = {
       "description": "Beloved Montara sandwich shop at 171 7th Street with stacked deli sandwiches, meatball subs, chicken clubs, and fresh daily specials — a must-stop for coastal highway travelers since the 1990s."
     }
   ],
-  "Woodside, CA": [{"id": "ChIJuYs0k9ilj4ARK7tI5yNkZ3g", "displayName": {"text": "Alice's Restaurant", "languageCode": "en"}, "formattedAddress": "17288 Skyline Blvd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?cid=8676013312519486251", "websiteUri": "https://www.alicesrestaurant.com/", "location": {}, "cuisine": "American", "menuUrl": "https://alicesrestaurant.com/woodside-alice-s-restaurant-food-menu", "priceRange": "$$", "description": "A historic landmark in the Woodside redwoods, serving as a legendary destination for hikers, motorcyclists, and locals. The menu offers locally sourced American comfort food like gourmet burgers and BBQ in a casual, dog-friendly atmosphere with beautiful outdoor seating.", "photoUrl": "images/restaurant-photos/woodside/Alice's Restaurant Small.jpeg"}, {"id": "manual_bucks_restaurant_woodside", "displayName": {"text": "Buck's Restaurant", "languageCode": "en"}, "formattedAddress": "3062 Woodside Rd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=Buck%27s+Restaurant+Woodside+CA", "websiteUri": "https://www.buckswoodside.com/", "location": {}, "cuisine": "American", "keywords": ["breakfast", "brunch", "pancakes", "family friendly", "outdoor seating", "vegetarian options", "kids menu", "wifi", "Silicon Valley history"], "phone": "(650) 851-8010", "hours": {"Monday": "8:00 AM - 9:00 PM", "Tuesday": "8:00 AM - 9:00 PM", "Wednesday": "8:00 AM - 9:00 PM", "Thursday": "8:00 AM - 9:00 PM", "Friday": "8:00 AM - 9:30 PM", "Saturday": "8:00 AM - 9:30 PM", "Sunday": "8:00 AM - 9:00 PM"}, "menuUrl": "https://www.buckswoodside.com/", "priceRange": "$$", "description": "Silicon Valley legend at 3062 Woodside Road open since 1991, where Hotmail, Tesla, and PayPal were all founded over pancakes — wall-to-wall with eccentric art and genuine local history."}, {"id": "manual_pioneer_saloon_woodside", "displayName": {"text": "Pioneer Saloon", "languageCode": "en"}, "formattedAddress": "2925 Woodside Rd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=Pioneer+Saloon+Woodside+CA", "websiteUri": "https://www.pioneersaloonmusic.com/", "location": {}, "cuisine": "American", "keywords": ["bar", "live music", "late night", "outdoor seating", "karaoke", "dive bar", "happy hour", "burgers", "wings"], "phone": "(650) 851-8487", "hours": {"Monday": "3:00 PM - 7:00 PM", "Tuesday": "3:00 PM - 7:00 PM", "Wednesday": "3:00 PM - 12:00 AM", "Thursday": "3:00 PM - 12:00 AM", "Friday": "3:00 PM - 1:00 AM", "Saturday": "3:00 PM - 1:00 AM", "Sunday": "3:00 PM - 9:00 PM"}, "menuUrl": "https://www.pioneersaloonmusic.com/", "priceRange": "$", "description": "Woodside's beloved historic saloon with stunning stained glass windows, live country and rock bands, karaoke Tuesdays, and a colorful mix of Silicon Valley tech workers and local bikers."}, {"id": "manual_skywood_trading_post_woodside", "displayName": {"text": "Skywood Trading Post", "languageCode": "en"}, "formattedAddress": "17287 Skyline Blvd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=Skywood+Trading+Post+Woodside+CA", "websiteUri": "https://www.skywoodtradingpost.com/", "location": {}, "cuisine": "American", "keywords": ["deli", "sandwiches", "outdoor seating", "breakfast", "lunch", "coffee", "counter service", "family friendly", "food truck stop"], "phone": "(650) 851-0914", "hours": {"Monday": "7:30 AM - 7:00 PM", "Tuesday": "7:30 AM - 7:00 PM", "Wednesday": "7:30 AM - 7:00 PM", "Thursday": "7:30 AM - 7:00 PM", "Friday": "7:30 AM - 7:00 PM", "Saturday": "8:30 AM - 7:00 PM", "Sunday": "8:30 AM - 7:00 PM"}, "menuUrl": "https://www.skywoodtradingpost.com/", "priceRange": "$", "description": "Family-owned Skyline Boulevard institution for 52 years with world-class tuna salad, tri-tip sandwiches, tamales, craft drinks, and grocery staples — the essential Woodside road-trip stop."}, {"id": "manual_firehouse_bistro_woodside", "displayName": {"text": "The Firehouse Bistro", "languageCode": "en"}, "formattedAddress": "2991 Woodside Rd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=The+Firehouse+Bistro+Woodside+CA", "websiteUri": "https://www.woodsidefirehousebistro.com/", "location": {}, "cuisine": "French", "keywords": ["date night", "romantic", "outdoor seating", "full bar", "private dining", "wine list", "seasonal menu", "French", "special occasion"], "phone": "(650) 851-4988", "hours": {"Monday": "Closed", "Tuesday": "5:00 PM - 8:30 PM", "Wednesday": "5:00 PM - 8:30 PM", "Thursday": "5:00 PM - 8:30 PM", "Friday": "5:00 PM - 8:30 PM", "Saturday": "5:00 PM - 8:30 PM", "Sunday": "Closed"}, "menuUrl": "https://www.woodsidefirehousebistro.com/", "priceRange": "$$$", "description": "Intimate French-California bistro in a converted historic firehouse on Woodside Road with seasonal menus, Kurobuta pork chop, seafood risotto, a full bar, and private event capabilities."}, {"id": "manual_little_store_woodside", "displayName": {"text": "The Little Store", "languageCode": "en"}, "formattedAddress": "3340 Woodside Rd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=The+Little+Store+Woodside+CA", "websiteUri": "https://littlestorerestaurant.com/", "location": {}, "cuisine": "American", "keywords": ["breakfast", "brunch", "lunch", "outdoor seating", "live music", "family friendly", "farm to table", "coffee"], "phone": "(650) 332-8885", "hours": {"Monday": "Closed", "Tuesday": "Closed", "Wednesday": "8:00 AM - 3:00 PM", "Thursday": "8:00 AM - 3:00 PM", "Friday": "8:00 AM - 3:00 PM", "Saturday": "8:00 AM - 3:00 PM", "Sunday": "8:00 AM - 3:00 PM"}, "menuUrl": "https://littlestorerestaurant.com/", "priceRange": "$$", "description": "Reimagined Woodside landmark at 3340 Woodside Road open since 1920, now serving artisanal breakfast and brunch with La Marzocco espresso, farm-fresh produce, live Banjo Guys on select evenings, and outdoor seating."}, {"id": "manual_mountain_house_woodside", "displayName": {"text": "The Mountain House", "languageCode": "en"}, "formattedAddress": "13808 Skyline Blvd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=The+Mountain+House+Woodside+CA", "websiteUri": "https://www.themountainhouse.com/", "location": {}, "cuisine": "Steakhouse", "keywords": ["steakhouse", "date night", "outdoor seating", "full bar", "special occasion", "romantic", "reservations", "seafood", "wifi"], "phone": "(650) 851-8541", "hours": {"Monday": "Closed", "Tuesday": "Closed", "Wednesday": "5:00 PM - 9:00 PM", "Thursday": "5:00 PM - 9:00 PM", "Friday": "5:00 PM - 9:00 PM", "Saturday": "5:00 PM - 9:00 PM", "Sunday": "5:00 PM - 9:00 PM"}, "menuUrl": "https://www.themountainhouse.com/", "priceRange": "$$$", "description": "Tucked on Skyline Boulevard with sweeping Bay Area views, this American steakhouse is a go-to for special occasions with prime cuts, fresh seafood, and a warm rustic interior."}, {"id": "manual_mountain_terrace_woodside", "displayName": {"text": "The Mountain Terrace", "languageCode": "en"}, "formattedAddress": "17285 Skyline Blvd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=The+Mountain+Terrace+Woodside+CA", "websiteUri": "https://www.themountainterrace.com/", "location": {}, "cuisine": "American", "keywords": ["outdoor seating", "event venue", "brunch", "special occasion", "groups", "private dining", "redwood deck", "Bay views"], "phone": "(650) 851-1606", "hours": {"Monday": "8:00 AM - 5:00 PM", "Tuesday": "8:00 AM - 5:00 PM", "Wednesday": "8:00 AM - 5:00 PM", "Thursday": "8:00 AM - 5:00 PM", "Friday": "8:00 AM - 5:00 PM", "Saturday": "8:00 AM - 5:00 PM", "Sunday": "8:00 AM - 5:00 PM"}, "menuUrl": "https://www.themountainterrace.com/", "priceRange": "$$$", "description": "Rustic event venue and restaurant perched on Skyline Boulevard with a redwood deck, panoramic Bay views, holiday brunches, and private dining for up to 130 guests among the redwoods."}, {"id": "manual_village_bakery_cafe_woodside", "displayName": {"text": "The Village Bakery and Cafe", "languageCode": "en"}, "formattedAddress": "3052 Woodside Rd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=Village+Bakery+Cafe+Woodside+CA", "websiteUri": "https://www.villagebakeryandcafe.com/", "location": {}, "cuisine": "Cafe/Bakery", "keywords": ["breakfast", "brunch", "lunch", "dinner", "bakery", "coffee", "pastries", "outdoor seating", "family friendly"], "phone": "(650) 851-5555", "hours": {"Monday": "5:00 PM - 8:30 PM", "Tuesday": "5:00 PM - 8:30 PM", "Wednesday": "5:00 PM - 8:30 PM", "Thursday": "5:00 PM - 9:00 PM", "Friday": "5:00 PM - 9:00 PM", "Saturday": "5:00 PM - 9:00 PM", "Sunday": "5:00 PM - 8:30 PM"}, "menuUrl": "https://www.villagebakeryandcafe.com/", "priceRange": "$$", "description": "Beloved Woodside neighborhood cafe and bakery at 3052 Woodside Road with house-baked pastries, seasonal French-American cuisine, dinner service Thursday through Saturday, and weekend brunch."}, {"id": "manual_village_hub_coffee_woodside", "displayName": {"text": "The Village Hub Coffee Bar and Garden", "languageCode": "en"}, "formattedAddress": "3154 Woodside Rd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=Village+Hub+Coffee+Bar+Garden+Woodside+CA", "websiteUri": "https://www.wvchurch.org/village-hub-coffee-bar", "location": {}, "cuisine": "Cafe/Bakery", "keywords": ["coffee", "outdoor seating", "breakfast", "community", "wifi", "dog friendly", "pastries", "cortado", "espresso"], "phone": "(650) 651-6700", "hours": {"Monday": "8:00 AM - 1:00 PM", "Tuesday": "8:00 AM - 1:00 PM", "Wednesday": "8:00 AM - 1:00 PM", "Thursday": "8:00 AM - 1:00 PM", "Friday": "8:00 AM - 1:00 PM", "Saturday": "8:00 AM - 3:00 PM", "Sunday": "8:00 AM - 3:00 PM"}, "menuUrl": "https://www.wvchurch.org/village-hub-coffee-bar", "priceRange": "$", "description": "Community-minded outdoor coffee garden at 3154 Woodside Road run by Woodside Village Church, with Cafe Con Lucha specialty coffee, organic milks, a dog bowl, bike rack, and free wifi in a garden setting."}, {"id": "manual_village_pub_woodside", "displayName": {"text": "Village Pub", "languageCode": "en"}, "formattedAddress": "2967 Woodside Rd, Woodside, CA 94062, USA", "googleMapsUri": "https://maps.google.com/?q=The+Village+Pub+Woodside+CA", "websiteUri": "https://www.thevillagepub.net/", "location": {}, "cuisine": "American", "keywords": ["Michelin star", "fine dining", "date night", "special occasion", "wine list", "farm to table", "private dining", "brunch", "reservations", "romantic"], "phone": "(650) 851-9888", "hours": {"Monday": "5:00 PM - 9:00 PM", "Tuesday": "5:00 PM - 9:00 PM", "Wednesday": "5:00 PM - 9:00 PM", "Thursday": "5:00 PM - 9:00 PM", "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Saturday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM", "Sunday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM"}, "menuUrl": "https://www.thevillagepub.net/menus", "priceRange": "$$$", "description": "Michelin one-star Peninsula landmark since 2001 with produce from its own SMIP Ranch organic farm, 3,500-label wine list with Wine Spectator Grand Award, and contemporary American cuisine under Chef Mark Sullivan."}]
+  "Woodside, CA": [
+    {
+      "id": "ChIJuYs0k9ilj4ARK7tI5yNkZ3g",
+      "displayName": {
+        "text": "Alice's Restaurant",
+        "languageCode": "en"
+      },
+      "formattedAddress": "17288 Skyline Blvd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8676013312519486251",
+      "websiteUri": "https://www.alicesrestaurant.com/",
+      "location": {},
+      "cuisine": "American",
+      "menuUrl": "https://alicesrestaurant.com/woodside-alice-s-restaurant-food-menu",
+      "priceRange": "$$",
+      "description": "A historic landmark in the Woodside redwoods, serving as a legendary destination for hikers, motorcyclists, and locals. The menu offers locally sourced American comfort food like gourmet burgers and BBQ in a casual, dog-friendly atmosphere with beautiful outdoor seating.",
+      "photoUrl": "images/restaurant-photos/woodside/Alice's Restaurant Small.jpeg"
+    },
+    {
+      "id": "manual_bucks_restaurant_woodside",
+      "displayName": {
+        "text": "Buck's Restaurant",
+        "languageCode": "en"
+      },
+      "formattedAddress": "3062 Woodside Rd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Buck%27s+Restaurant+Woodside+CA",
+      "websiteUri": "https://www.buckswoodside.com/",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "pancakes",
+        "family friendly",
+        "outdoor seating",
+        "vegetarian options",
+        "kids menu",
+        "wifi",
+        "Silicon Valley history"
+      ],
+      "phone": "(650) 851-8010",
+      "hours": {
+        "Monday": "8:00 AM - 9:00 PM",
+        "Tuesday": "8:00 AM - 9:00 PM",
+        "Wednesday": "8:00 AM - 9:00 PM",
+        "Thursday": "8:00 AM - 9:00 PM",
+        "Friday": "8:00 AM - 9:30 PM",
+        "Saturday": "8:00 AM - 9:30 PM",
+        "Sunday": "8:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.buckswoodside.com/",
+      "priceRange": "$$",
+      "description": "Silicon Valley legend at 3062 Woodside Road open since 1991, where Hotmail, Tesla, and PayPal were all founded over pancakes — wall-to-wall with eccentric art and genuine local history.",
+      "photoUrl": "images/restaurant-photos/woodside/Bucks Restaurant Small.jpeg"
+    },
+    {
+      "id": "manual_pioneer_saloon_woodside",
+      "displayName": {
+        "text": "Pioneer Saloon",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2925 Woodside Rd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Pioneer+Saloon+Woodside+CA",
+      "websiteUri": "https://www.pioneersaloonmusic.com/",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "bar",
+        "live music",
+        "late night",
+        "outdoor seating",
+        "karaoke",
+        "dive bar",
+        "happy hour",
+        "burgers",
+        "wings"
+      ],
+      "phone": "(650) 851-8487",
+      "hours": {
+        "Monday": "3:00 PM - 7:00 PM",
+        "Tuesday": "3:00 PM - 7:00 PM",
+        "Wednesday": "3:00 PM - 12:00 AM",
+        "Thursday": "3:00 PM - 12:00 AM",
+        "Friday": "3:00 PM - 1:00 AM",
+        "Saturday": "3:00 PM - 1:00 AM",
+        "Sunday": "3:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://www.pioneersaloonmusic.com/",
+      "priceRange": "$",
+      "description": "Woodside's beloved historic saloon with stunning stained glass windows, live country and rock bands, karaoke Tuesdays, and a colorful mix of Silicon Valley tech workers and local bikers.",
+      "photoUrl": "images/restaurant-photos/woodside/Pioneer Saloon Small.jpeg"
+    },
+    {
+      "id": "manual_skywood_trading_post_woodside",
+      "displayName": {
+        "text": "Skywood Trading Post",
+        "languageCode": "en"
+      },
+      "formattedAddress": "17287 Skyline Blvd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Skywood+Trading+Post+Woodside+CA",
+      "websiteUri": "https://www.skywoodtradingpost.com/",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "deli",
+        "sandwiches",
+        "outdoor seating",
+        "breakfast",
+        "lunch",
+        "coffee",
+        "counter service",
+        "family friendly",
+        "food truck stop"
+      ],
+      "phone": "(650) 851-0914",
+      "hours": {
+        "Monday": "7:30 AM - 7:00 PM",
+        "Tuesday": "7:30 AM - 7:00 PM",
+        "Wednesday": "7:30 AM - 7:00 PM",
+        "Thursday": "7:30 AM - 7:00 PM",
+        "Friday": "7:30 AM - 7:00 PM",
+        "Saturday": "8:30 AM - 7:00 PM",
+        "Sunday": "8:30 AM - 7:00 PM"
+      },
+      "menuUrl": "https://www.skywoodtradingpost.com/",
+      "priceRange": "$",
+      "description": "Family-owned Skyline Boulevard institution for 52 years with world-class tuna salad, tri-tip sandwiches, tamales, craft drinks, and grocery staples — the essential Woodside road-trip stop.",
+      "photoUrl": "images/restaurant-photos/woodside/Skywood Trading Post Small.jpeg"
+    },
+    {
+      "id": "manual_firehouse_bistro_woodside",
+      "displayName": {
+        "text": "The Firehouse Bistro",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2991 Woodside Rd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=The+Firehouse+Bistro+Woodside+CA",
+      "websiteUri": "https://www.woodsidefirehousebistro.com/",
+      "location": {},
+      "cuisine": "French",
+      "keywords": [
+        "date night",
+        "romantic",
+        "outdoor seating",
+        "full bar",
+        "private dining",
+        "wine list",
+        "seasonal menu",
+        "French",
+        "special occasion"
+      ],
+      "phone": "(650) 851-4988",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "5:00 PM - 8:30 PM",
+        "Wednesday": "5:00 PM - 8:30 PM",
+        "Thursday": "5:00 PM - 8:30 PM",
+        "Friday": "5:00 PM - 8:30 PM",
+        "Saturday": "5:00 PM - 8:30 PM",
+        "Sunday": "Closed"
+      },
+      "menuUrl": "https://www.woodsidefirehousebistro.com/",
+      "priceRange": "$$$",
+      "description": "Intimate French-California bistro in a converted historic firehouse on Woodside Road with seasonal menus, Kurobuta pork chop, seafood risotto, a full bar, and private event capabilities.",
+      "photoUrl": "images/restaurant-photos/woodside/The Firehouse Bistro Small.jpeg"
+    },
+    {
+      "id": "manual_little_store_woodside",
+      "displayName": {
+        "text": "The Little Store",
+        "languageCode": "en"
+      },
+      "formattedAddress": "3340 Woodside Rd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=The+Little+Store+Woodside+CA",
+      "websiteUri": "https://littlestorerestaurant.com/",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "lunch",
+        "outdoor seating",
+        "live music",
+        "family friendly",
+        "farm to table",
+        "coffee"
+      ],
+      "phone": "(650) 332-8885",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "8:00 AM - 3:00 PM",
+        "Thursday": "8:00 AM - 3:00 PM",
+        "Friday": "8:00 AM - 3:00 PM",
+        "Saturday": "8:00 AM - 3:00 PM",
+        "Sunday": "8:00 AM - 3:00 PM"
+      },
+      "menuUrl": "https://littlestorerestaurant.com/",
+      "priceRange": "$$",
+      "description": "Reimagined Woodside landmark at 3340 Woodside Road open since 1920, now serving artisanal breakfast and brunch with La Marzocco espresso, farm-fresh produce, live Banjo Guys on select evenings, and outdoor seating.",
+      "photoUrl": "images/restaurant-photos/woodside/The Little Store Small.jpeg"
+    },
+    {
+      "id": "manual_mountain_house_woodside",
+      "displayName": {
+        "text": "The Mountain House",
+        "languageCode": "en"
+      },
+      "formattedAddress": "13808 Skyline Blvd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=The+Mountain+House+Woodside+CA",
+      "websiteUri": "https://www.themountainhouse.com/",
+      "location": {},
+      "cuisine": "Steakhouse",
+      "keywords": [
+        "steakhouse",
+        "date night",
+        "outdoor seating",
+        "full bar",
+        "special occasion",
+        "romantic",
+        "reservations",
+        "seafood",
+        "wifi"
+      ],
+      "phone": "(650) 851-8541",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "5:00 PM - 9:00 PM",
+        "Thursday": "5:00 PM - 9:00 PM",
+        "Friday": "5:00 PM - 9:00 PM",
+        "Saturday": "5:00 PM - 9:00 PM",
+        "Sunday": "5:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://www.themountainhouse.com/",
+      "priceRange": "$$$",
+      "description": "Tucked on Skyline Boulevard with sweeping Bay Area views, this American steakhouse is a go-to for special occasions with prime cuts, fresh seafood, and a warm rustic interior.",
+      "photoUrl": "images/restaurant-photos/woodside/Mountain House Small.jpeg"
+    },
+    {
+      "id": "manual_mountain_terrace_woodside",
+      "displayName": {
+        "text": "The Mountain Terrace",
+        "languageCode": "en"
+      },
+      "formattedAddress": "17285 Skyline Blvd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=The+Mountain+Terrace+Woodside+CA",
+      "websiteUri": "https://www.themountainterrace.com/",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "outdoor seating",
+        "event venue",
+        "brunch",
+        "special occasion",
+        "groups",
+        "private dining",
+        "redwood deck",
+        "Bay views"
+      ],
+      "phone": "(650) 851-1606",
+      "hours": {
+        "Monday": "8:00 AM - 5:00 PM",
+        "Tuesday": "8:00 AM - 5:00 PM",
+        "Wednesday": "8:00 AM - 5:00 PM",
+        "Thursday": "8:00 AM - 5:00 PM",
+        "Friday": "8:00 AM - 5:00 PM",
+        "Saturday": "8:00 AM - 5:00 PM",
+        "Sunday": "8:00 AM - 5:00 PM"
+      },
+      "menuUrl": "https://www.themountainterrace.com/",
+      "priceRange": "$$$",
+      "description": "Rustic event venue and restaurant perched on Skyline Boulevard with a redwood deck, panoramic Bay views, holiday brunches, and private dining for up to 130 guests among the redwoods.",
+      "photoUrl": "images/restaurant-photos/woodside/Mountain Terrace Small.jpeg"
+    },
+    {
+      "id": "manual_village_bakery_cafe_woodside",
+      "displayName": {
+        "text": "The Village Bakery and Cafe",
+        "languageCode": "en"
+      },
+      "formattedAddress": "3052 Woodside Rd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Village+Bakery+Cafe+Woodside+CA",
+      "websiteUri": "https://www.villagebakeryandcafe.com/",
+      "location": {},
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "lunch",
+        "dinner",
+        "bakery",
+        "coffee",
+        "pastries",
+        "outdoor seating",
+        "family friendly"
+      ],
+      "phone": "(650) 851-5555",
+      "hours": {
+        "Monday": "5:00 PM - 8:30 PM",
+        "Tuesday": "5:00 PM - 8:30 PM",
+        "Wednesday": "5:00 PM - 8:30 PM",
+        "Thursday": "5:00 PM - 9:00 PM",
+        "Friday": "5:00 PM - 9:00 PM",
+        "Saturday": "5:00 PM - 9:00 PM",
+        "Sunday": "5:00 PM - 8:30 PM"
+      },
+      "menuUrl": "https://www.villagebakeryandcafe.com/",
+      "priceRange": "$$",
+      "description": "Beloved Woodside neighborhood cafe and bakery at 3052 Woodside Road with house-baked pastries, seasonal French-American cuisine, dinner service Thursday through Saturday, and weekend brunch.",
+      "photoUrl": "images/restaurant-photos/woodside/The Village Bakery & Cafe Small.jpeg"
+    },
+    {
+      "id": "manual_village_hub_coffee_woodside",
+      "displayName": {
+        "text": "The Village Hub Coffee Bar and Garden",
+        "languageCode": "en"
+      },
+      "formattedAddress": "3154 Woodside Rd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=Village+Hub+Coffee+Bar+Garden+Woodside+CA",
+      "websiteUri": "https://www.wvchurch.org/village-hub-coffee-bar",
+      "location": {},
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "coffee",
+        "outdoor seating",
+        "breakfast",
+        "community",
+        "wifi",
+        "dog friendly",
+        "pastries",
+        "cortado",
+        "espresso"
+      ],
+      "phone": "(650) 651-6700",
+      "hours": {
+        "Monday": "8:00 AM - 1:00 PM",
+        "Tuesday": "8:00 AM - 1:00 PM",
+        "Wednesday": "8:00 AM - 1:00 PM",
+        "Thursday": "8:00 AM - 1:00 PM",
+        "Friday": "8:00 AM - 1:00 PM",
+        "Saturday": "8:00 AM - 3:00 PM",
+        "Sunday": "8:00 AM - 3:00 PM"
+      },
+      "menuUrl": "https://www.wvchurch.org/village-hub-coffee-bar",
+      "priceRange": "$",
+      "description": "Community-minded outdoor coffee garden at 3154 Woodside Road run by Woodside Village Church, with Cafe Con Lucha specialty coffee, organic milks, a dog bowl, bike rack, and free wifi in a garden setting.",
+      "photoUrl": "images/restaurant-photos/woodside/The village Hub Coffee bar and Garden Small.jpeg"
+    },
+    {
+      "id": "manual_village_pub_woodside",
+      "displayName": {
+        "text": "Village Pub",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2967 Woodside Rd, Woodside, CA 94062, USA",
+      "googleMapsUri": "https://maps.google.com/?q=The+Village+Pub+Woodside+CA",
+      "websiteUri": "https://www.thevillagepub.net/",
+      "location": {},
+      "cuisine": "American",
+      "keywords": [
+        "Michelin star",
+        "fine dining",
+        "date night",
+        "special occasion",
+        "wine list",
+        "farm to table",
+        "private dining",
+        "brunch",
+        "reservations",
+        "romantic"
+      ],
+      "phone": "(650) 851-9888",
+      "hours": {
+        "Monday": "5:00 PM - 9:00 PM",
+        "Tuesday": "5:00 PM - 9:00 PM",
+        "Wednesday": "5:00 PM - 9:00 PM",
+        "Thursday": "5:00 PM - 9:00 PM",
+        "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Saturday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+        "Sunday": "11:00 AM - 2:00 PM, 5:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://www.thevillagepub.net/menus",
+      "priceRange": "$$$",
+      "description": "Michelin one-star Peninsula landmark since 2001 with produce from its own SMIP Ranch organic farm, 3,500-label wine list with Wine Spectator Grand Award, and contemporary American cuisine under Chef Mark Sullivan.",
+      "photoUrl": "images/restaurant-photos/woodside/The Village Pub Small.jpeg"
+    }
+  ]
 };
