@@ -1,6 +1,38 @@
 var PREBAKED_DATA_COAST = {
   "Pacifica, CA": [
     {
+      "id": "ChIJn3uGnIl6j4ARF3SR42zzVJQ",
+      "formattedAddress": "400 Old County Rd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6099734,
+        "longitude": -122.4945056
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10688435464657007639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.agitf.com/",
+      "displayName": {
+        "text": "A Grape in the Fog",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/pacifica/A grape in the fog Small.jpeg"
+    },
+    {
+      "id": "ChIJJ7S6BH1wj4ARkm-4Sjh8D-g",
+      "formattedAddress": "Adobe Plaza Shopping Center, 986 Linda Mar Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.5886755,
+        "longitude": -122.49454569999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16721720522663554962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://beachmonkeyorganiccafe.com/",
+      "displayName": {
+        "text": "Beach Monkey Organic Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Beach Monkey Cafe Small.jpeg"
+    },
+    {
       "id": "ChIJP3c9OUJ7j4ARdljUZKNLqbk",
       "formattedAddress": "761 Hickey Blvd, Pacifica, CA 94044, USA",
       "location": {
@@ -15,6 +47,22 @@ var PREBAKED_DATA_COAST = {
       },
       "cuisine": "Italian",
       "photoUrl": "images/restaurant-photos/pacifica/Bolare Trattoria Small.jpeg"
+    },
+    {
+      "id": "ChIJ0zqPXIl6j4AR6ZGsdaZN_zE",
+      "formattedAddress": "145 Rockaway Beach Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6096711,
+        "longitude": -122.49654029999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3602683604253839849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://ilovebreakers.com/",
+      "displayName": {
+        "text": "Breakers Breakfast, Brunch & Lunch",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/pacifica/Breakers breakfast Small.jpeg"
     },
     {
       "id": "ChIJfVAKP1t7j4AR8u0tEbnQOQc",
@@ -33,84 +81,179 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/Buona Italia Caffe Small.jpeg"
     },
     {
-      "id": "ChIJteAzmaB7j4ARQdYsY-8cWyA",
-      "formattedAddress": "67 Bill Drake Way, Pacifica, CA 94044, USA",
+      "id": "ChIJu4efBwB7j4ARX9S-zQBHS6U",
+      "formattedAddress": "1624 Francisco Blvd, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.651331,
-        "longitude": -122.49175950000001
+        "latitude": 37.6362526,
+        "longitude": -122.4904329
       },
-      "googleMapsUri": "https://maps.google.com/?cid=2331489046581007937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.vivaitalianopizzeria.com/",
-      "displayName": {
-        "text": "Viva Italiano Pizzeria & Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/pacifica/Viva Italiano Small.jpeg"
-    },
-    {
-      "id": "ChIJLyCbBn1wj4ARyHjqVV6VZo4",
-      "formattedAddress": "Adobe Plaza Shopping Center, 950 Linda Mar Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.589,
-        "longitude": -122.4943333
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10261053033411147976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=11910691708288816223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Luigi Italian Restaurant",
+        "text": "Burger Blvd",
         "languageCode": "en"
       },
-      "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/pacifica/Luigi Italian Restaurant Small.jpeg"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/pacifica/Burger Blvd Small.jpeg"
     },
     {
-      "id": "ChIJm8MotDt7j4ARbqvH2TUzzXs",
-      "formattedAddress": "2470 Skyline Blvd, Pacifica, CA 94044, USA",
+      "id": "ChIJxZPMWzx7j4AR6DHZXsLe_q0",
+      "formattedAddress": "5430 CA-1, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.646353399999995,
-        "longitude": -122.4714667
+        "latitude": 37.5950805,
+        "longitude": -122.50615470000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=8920842743270845294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://sushikashiwa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=12537703339042353640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://burger-board.com/",
       "displayName": {
-        "text": "Sushi Kashiwa",
+        "text": "Burger Board",
         "languageCode": "en"
       },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/pacifica/Sushi Kashiwa Small.jpeg"
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/pacifica/Burger board Small.jpeg"
     },
     {
-      "id": "ChIJ1Wr0xIN6j4ARZoRg5v331Iw",
-      "formattedAddress": "580 Crespi Dr, Pacifica, CA 94044, USA",
+      "id": "ChIJTV0SV1V6j4ARMk_yDOkYfTI",
+      "formattedAddress": "1821 Palmetto Ave, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.5981123,
-        "longitude": -122.49867390000001
+        "latitude": 37.6348987,
+        "longitude": -122.491816
       },
-      "googleMapsUri": "https://maps.google.com/?cid=10148008530236441702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.kanikosen.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=3638091463208881970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "Kani Kosen",
+        "text": "Cafe Pacifica",
         "languageCode": "en"
       },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/pacifica/Kani Kosen Small.jpeg"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Cafe Pacifica Small.jpeg"
     },
     {
-      "id": "ChIJB6qiN6d7j4ARxe4Z21Ik5-Q",
-      "formattedAddress": "455 Oceana Blvd, Pacifica, CA 94044, USA",
+      "id": "ChIJK8MtVqd7j4ARTkcCOpmDyx4",
+      "formattedAddress": "70 W Manor Dr, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.6495916,
-        "longitude": -122.49036439999999
+        "latitude": 37.649240600000006,
+        "longitude": -122.4919944
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16494192098549558981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.oceanfishsushipacifica.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2219011935536564046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.camelotfishandchips.com/",
       "displayName": {
-        "text": "Ocean Fish Sushi & Grill",
+        "text": "Camelot Fish and Chips",
         "languageCode": "en"
       },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/pacifica/Ocean Fish Sushi Small.jpeg"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/pacifica/Camelot Fish & Chips Small.jpeg"
+    },
+    {
+      "id": "ChIJjTT9Agp7j4ARL8svOoXGlik",
+      "formattedAddress": "5 W Manor Dr, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6495962,
+        "longitude": -122.4927218
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2996800877570804527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.chitchatpacifica.com/",
+      "displayName": {
+        "text": "Chit Chat Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Chit-Chat Cafe Small.jpeg"
+    },
+    {
+      "id": "ChIJ5z7At_96j4AR55wS3rlWVX0",
+      "formattedAddress": "2100 Beach Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6333929,
+        "longitude": -122.49459300000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9031219984056098023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.chitchatpacifica.com/",
+      "displayName": {
+        "text": "Chit Chat Cafe at the Pier",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Chit Chat Cafe Small.jpeg"
+    },
+    {
+      "id": "ChIJvUa_WJNwj4ARlNohScJDWgk",
+      "formattedAddress": "1049 Terra Nova Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.583714300000004,
+        "longitude": -122.4757939
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=673925595974982292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "City Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJQV50AAp7j4ARxJpDSgAbBtU",
+      "formattedAddress": "484 Manor Plaza, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6497434,
+        "longitude": -122.4919403
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15349986067998808772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.colombosdeli.com/",
+      "displayName": {
+        "text": "Colombo's Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Colombos Delicatessen Small.jpeg"
+    },
+    {
+      "id": "ChIJNyAcV1R6j4ARjvcPIs0xB8E",
+      "formattedAddress": "50 Eureka Dr, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6341734,
+        "longitude": -122.48895709999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13909140731266594702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://eatdinosaurs.com/",
+      "displayName": {
+        "text": "Dinosaurs Sandwiches",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Dinosaurs Sandwiches Small.jpeg"
+    },
+    {
+      "id": "ChIJS0f-bIlwj4ARyOSq0_6k8ME",
+      "formattedAddress": "1357 Linda Mar Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.593644999999995,
+        "longitude": -122.50443440000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13974851058110489800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://elgranamigo2ca.com/",
+      "displayName": {
+        "text": "El Gran Amigo 2",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/El Gran Amigo Small.jpeg"
+    },
+    {
+      "id": "ChIJYdgfyap7j4ARo8C5B5ECjQs",
+      "formattedAddress": "1780 Francisco Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6354031,
+        "longitude": -122.49058629999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=832324328056537251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://eltoroloco2.com/?utm_source=google",
+      "displayName": {
+        "text": "El Toro Loco",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/El Toro Loco Small.jpeg"
     },
     {
       "id": "ChIJs0YDOlR6j4ARHBVhsh5QdsI",
@@ -129,6 +272,229 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/Go Sushi Small.jpeg"
     },
     {
+      "id": "ChIJpdpAYTd7j4ARrpYQMqQ7rg0",
+      "formattedAddress": "1905 Palmetto Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.634488,
+        "longitude": -122.49176560000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=985790944841340590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Golden Sol Wellness Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Golden Sol Small.jpeg"
+    },
+    {
+      "id": "ChIJYYOzXWF6j4ARkEiVB7egEnI",
+      "formattedAddress": "2145 Coast Highway #1, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.613206999999996,
+        "longitude": -122.48767099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8219808977871259792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.gorillabbq.com/",
+      "displayName": {
+        "text": "Gorilla Barbeque",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/pacifica/Gorilla Barbeque Small.jpeg"
+    },
+    {
+      "id": "ChIJLwmUvbJ7j4ARc878dfDUYQU",
+      "formattedAddress": "452 Manor Plaza, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6507109,
+        "longitude": -122.49179699999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=387825172167315059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Grand HotPot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Grand Hot Pot Small.jpeg"
+    },
+    {
+      "id": "ChIJqQVRTmF6j4ARlu_4IX5MlmM",
+      "formattedAddress": "164 Reina Del Mar Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6133095,
+        "longitude": -122.48673369999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7176007160881016726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://guerrerostaqueria.com/",
+      "displayName": {
+        "text": "Guerrero's Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Guerreros Taqueria_reina del mar Small.jpeg"
+    },
+    {
+      "id": "ChIJnc_AppZ7j4ARdE9_scvXhEY",
+      "formattedAddress": "713 Hickey Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6606714,
+        "longitude": -122.4785508
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5081423549437005684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.guerrerostaqueria.com/",
+      "displayName": {
+        "text": "Guerrero's Taqueria #2",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Guerreros Taqueria Small.jpeg"
+    },
+    {
+      "id": "ChIJUwLMAZ16j4AR1yk95-PSkX4",
+      "formattedAddress": "5500 CA-1, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.594765699999996,
+        "longitude": -122.50633699999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9120302596680919511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hightidepacifica.com/",
+      "displayName": {
+        "text": "High Tide Cafe & Crêperie",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/High Tide Cafe Small.jpeg"
+    },
+    {
+      "id": "ChIJnYbskK57j4AR7hYgY9wu1Q0",
+      "formattedAddress": "5560 Pacific Coast Hwy, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.5942845,
+        "longitude": -122.50675830000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=996754416623163118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://humblesea.com/",
+      "displayName": {
+        "text": "Humble Sea Brewing Co.",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Humble Sea Brewing Small.jpeg"
+    },
+    {
+      "id": "ChIJcbV5qJRwj4ARyK8yPQv2qg8",
+      "formattedAddress": "1045 Terra Nova Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.5835985,
+        "longitude": -122.47593930000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1128985184741535688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Ju Fu Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJ1Wr0xIN6j4ARZoRg5v331Iw",
+      "formattedAddress": "580 Crespi Dr, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.5981123,
+        "longitude": -122.49867390000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10148008530236441702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.kanikosen.com/",
+      "displayName": {
+        "text": "Kani Kosen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/pacifica/Kani Kosen Small.jpeg"
+    },
+    {
+      "id": "ChIJrU4iiIF6j4ARVLB4bC3T0ZY",
+      "formattedAddress": "640 Crespi Dr #1, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.5971146,
+        "longitude": -122.4974787
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10867699567868555348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kennyscafepacifica.com/",
+      "displayName": {
+        "text": "Kenny's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Kennys Cafe Small.jpeg"
+    },
+    {
+      "id": "ChIJV2b0ap97j4ARdAg2UUqierk",
+      "formattedAddress": "1715 Palmetto Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6354545,
+        "longitude": -122.49176529999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13365173284249143412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://kittenandpinky.carrd.co/",
+      "displayName": {
+        "text": "Kitten & Pinky",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/pacifica/Kitten & Pinky Small.jpeg"
+    },
+    {
+      "id": "ChIJ75ZNN1R6j4ARJ50ti3M3DXE",
+      "formattedAddress": "180 Eureka Dr, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6331512,
+        "longitude": -122.48814150000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8146228270378884391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.longboardbar.com/",
+      "displayName": {
+        "text": "Longboard Bar and Venue",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Longboard Bar Small.jpeg"
+    },
+    {
+      "id": "ChIJLyCbBn1wj4ARyHjqVV6VZo4",
+      "formattedAddress": "Adobe Plaza Shopping Center, 950 Linda Mar Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.589,
+        "longitude": -122.4943333
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10261053033411147976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Luigi Italian Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/pacifica/Luigi Italian Restaurant Small.jpeg"
+    },
+    {
+      "id": "ChIJz6JdXIl6j4AR0M4U78Jwz10",
+      "formattedAddress": "105 Rockaway Beach Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.609775899999995,
+        "longitude": -122.4966938
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6759745548243488464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://moonrakerpacifica.com/",
+      "displayName": {
+        "text": "Moonraker",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/pacifica/Moonraker Small.jpeg"
+    },
+    {
       "id": "ChIJ1YtUfQB7j4ARLuXhAPHP3BY",
       "formattedAddress": "1235 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
       "location": {
@@ -145,19 +511,449 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/Must Be Dumpling Small.jpeg"
     },
     {
-      "id": "ChIJcbV5qJRwj4ARyK8yPQv2qg8",
-      "formattedAddress": "1045 Terra Nova Blvd, Pacifica, CA 94044, USA",
+      "id": "ChIJ0VI3EwB7j4ARjdB-3mrjV6k",
+      "formattedAddress": "1231 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.5835985,
-        "longitude": -122.47593930000001
+        "latitude": 37.595123199999996,
+        "longitude": -122.50413460000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=1128985184741535688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=12202471763522539661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Ju Fu Restaurant",
+        "text": "Nations",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Nations Small.jpeg"
+    },
+    {
+      "id": "ChIJudEwT4l6j4AR8kruJkjSG7k",
+      "formattedAddress": "100 Rockaway Beach Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.609578,
+        "longitude": -122.49681899999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13338485928720485106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nicksrestaurant.net/",
+      "displayName": {
+        "text": "Nick's Rockaway",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/pacifica/Nicks Small.jpeg"
+    },
+    {
+      "id": "ChIJ1xpdcaZ7j4ARVOy8i5FPZXE",
+      "formattedAddress": "549 Oceana Blvd suite b, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6484211,
+        "longitude": -122.4904906
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8171024585466899540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://oasisvietnamesecui.wixsite.com/oasis-vietnamese-cui",
+      "displayName": {
+        "text": "Oasis Vietnamese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/pacifica/Oasis Vietnamese Small.jpeg"
+    },
+    {
+      "id": "ChIJB6qiN6d7j4ARxe4Z21Ik5-Q",
+      "formattedAddress": "455 Oceana Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6495916,
+        "longitude": -122.49036439999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16494192098549558981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.oceanfishsushipacifica.com/",
+      "displayName": {
+        "text": "Ocean Fish Sushi & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/pacifica/Ocean Fish Sushi Small.jpeg"
+    },
+    {
+      "id": "ChIJYxyrT2F6j4AR397k4Xf6FoA",
+      "formattedAddress": "152 Reina Del Mar Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6134281,
+        "longitude": -122.48716100000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9229839879140335327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/ptowncoffeeandtea?igsh=Mnk5dGtsY2h6d3c0&utm_source=qr",
+      "displayName": {
+        "text": "P Town Coffee & Tea",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/P town Coffee Small.jpeg"
+    },
+    {
+      "id": "ChIJbTHmAgBxj4ARnSQkHHTKQlI",
+      "formattedAddress": "7 Banff Way, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.5896775,
+        "longitude": -122.46630249999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5927522659610141853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ptownpieguy.com/",
+      "displayName": {
+        "text": "P-Town Pie Guy",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJvcBuZIl6j4ARVtO21dZiDzY",
+      "formattedAddress": "3258, 450 Dondee Way # 6, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6100577,
+        "longitude": -122.49565159999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3895440877546820438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Pacific Java Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Pacifica Java Small.jpeg"
+    },
+    {
+      "id": "ChIJlyZNElV6j4AR_Jv0n82Hkls",
+      "formattedAddress": "Palmetto Avenue Shopping Center, 1966 Francisco Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6342044,
+        "longitude": -122.4902401
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6598485721272851452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pacificathai.com/",
+      "displayName": {
+        "text": "Pacifica Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/pacifica/Pacifica Thai Cuisine Small.jpeg"
+    },
+    {
+      "id": "ChIJywBgJQB7j4AReC_w4eiE8d8",
+      "formattedAddress": "330 Palmetto Ave Ste D, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.651714999999996,
+        "longitude": -122.49095349999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16136825075603091320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.panjaabcuisine.com/",
+      "displayName": {
+        "text": "Panj-Aab Indian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/pacifica/Panj-Aab Small.jpeg"
+    },
+    {
+      "id": "ChIJr0LwQlZ6j4ARhWjZKVjP3Hw",
+      "formattedAddress": "2500 Francisco Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.62979,
+        "longitude": -122.4899466
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8997294133145593989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Perfect Pour Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Perfect Pour Cafe Small.jpeg"
+    },
+    {
+      "id": "ChIJearFsPR7j4AR-ijzRK3u_-w",
+      "formattedAddress": "525 Crespi Dr 2nd Floor, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.599618899999996,
+        "longitude": -122.49944749999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17077630739965749498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://puerto27.com/",
+      "displayName": {
+        "text": "Puerto 27 Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Peruvian",
+      "photoUrl": "images/restaurant-photos/pacifica/Puerto 27 Small.jpeg"
+    },
+    {
+      "id": "ChIJ6eEW2LV7j4ARSiwQk0GvPJk",
+      "formattedAddress": "2480 Skyline Dr, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6462137,
+        "longitude": -122.4714106
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11041893082580659274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Quick Mart",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJJ51Mqqp7j4AR449XaWMiWEw",
+      "formattedAddress": "1709 Palmetto Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6357907,
+        "longitude": -122.49187
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5501184755197513699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://raymondpacifica.com/",
+      "displayName": {
+        "text": "Raymond's Chinese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Raymonds Chinese Restaurant Small.jpeg"
+    },
+    {
+      "id": "ChIJX7rSzvB7j4ARlihj222Vdw0",
+      "formattedAddress": "4627 CA-1, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6067385,
+        "longitude": -122.49731729999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=970408543786313878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rockawaybrewery.com/",
+      "displayName": {
+        "text": "Rockaway Beach Brewery",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Rockaway Beach Brewery Small.jpeg"
+    },
+    {
+      "id": "ChIJAQDsaHJ6j4ARnFNgxFRfXRI",
+      "formattedAddress": "450 Manor Plaza, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6508053,
+        "longitude": -122.4917504
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1323318683193332636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rosalindbakery.com/",
+      "displayName": {
+        "text": "Rosalind Bakery",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Rosalind Bakery Small.jpeg"
+    },
+    {
+      "id": "ChIJt8NeDIxwj4ARFRvYxOEBdaw",
+      "formattedAddress": "1285 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.59466,
+        "longitude": -122.50465460000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12426840815980518165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roundtablepizza.com/location/1012/",
+      "displayName": {
+        "text": "Round Table Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/pacifica/Round Table Small.jpeg"
+    },
+    {
+      "id": "ChIJCWEaT2F6j4AR6rbh3DKcYYY",
+      "formattedAddress": "2600 Francisco Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.624961,
+        "longitude": -122.488788
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9683192416091354858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sharpparkrestaurant.net/",
+      "displayName": {
+        "text": "Sharp Park Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/pacifica/Sharp Park Restaurant Small.jpeg"
+    },
+    {
+      "id": "ChIJOdpVIs97j4ARUeb-8UN5s8c",
+      "formattedAddress": "100 Santa Rosa Ave #3, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.6331898,
+        "longitude": -122.49198669999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14389978567108650577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Sharp Park Taproom",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Sharp Park Taproom Small.jpeg"
+    },
+    {
+      "id": "ChIJzeS5JJ97j4AR1YU0jwL9A5s",
+      "formattedAddress": "5400 CA-1, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.595155399999996,
+        "longitude": -122.50611199999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11170049688243307989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.soulgrindcoffee.com/",
+      "displayName": {
+        "text": "Soul Grind Coffee Roasters",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/pacifica/Soul grind coffee roasters Small.jpeg"
+    },
+    {
+      "id": "ChIJN2yCgl97j4ARpCRbcq_-BPA",
+      "formattedAddress": "683 Manor Dr, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.646075599999996,
+        "longitude": -122.4718486
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17295228498500854948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://soulriceca.com/",
+      "displayName": {
+        "text": "Soul Rice",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Soul Rice Small.jpeg"
+    },
+    {
+      "id": "ChIJR4C8sn57j4ARgCu6e_iEPR0",
+      "formattedAddress": "1320 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.5941955,
+        "longitude": -122.50467529999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2106986403441814400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sourdoughandco.com/",
+      "displayName": {
+        "text": "Sourdough & Co Pacifica",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Sourdough & Co Small.jpeg"
+    },
+    {
+      "id": "ChIJb01BU2F6j4AR55DBng5jZ0E",
+      "formattedAddress": "230 Reina Del Mar Ave, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.613582,
+        "longitude": -122.486289
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4712844449510691047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Sun Valley Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJzbeUTZ16j4AR6JK8ibYeFFs",
+      "formattedAddress": "1241 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.5950282,
+        "longitude": -122.5042309
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6562904326329373416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Sunrise Cafe & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/pacifica/Sunrise Cafe & Grill Small.jpeg"
+    },
+    {
+      "id": "ChIJI_I7mKB7j4ARZvfh53IfKsw",
+      "formattedAddress": "77 Bill Drake Way, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.651266799999995,
+        "longitude": -122.4915538
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14711605711136225126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://pacificasurflounge.com/",
+      "displayName": {
+        "text": "Surf Lounge",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/pacifica/Surf Lounge Small.jpeg"
+    },
+    {
+      "id": "ChIJm8MotDt7j4ARbqvH2TUzzXs",
+      "formattedAddress": "2470 Skyline Blvd, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.646353399999995,
+        "longitude": -122.4714667
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8920842743270845294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sushikashiwa.com/",
+      "displayName": {
+        "text": "Sushi Kashiwa",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/pacifica/Sushi Kashiwa Small.jpeg"
+    },
+    {
+      "id": "ChIJo_YIO516j4ARcIp7YTN-UFA",
+      "formattedAddress": "1710 Francisco Blvd Suite A, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.635723600000006,
+        "longitude": -122.49032120000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5787264280315005552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tablewinemerchant.com/",
+      "displayName": {
+        "text": "Table Wine",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/pacifica/Table Wine Small.jpeg"
+    },
+    {
+      "id": "ChIJS2lAypx6j4AR97GeGitnTx8",
+      "formattedAddress": "5200 CA-1, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.59718,
+        "longitude": -122.50374959999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2256135373163770359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.tacobell.com/ca/pacifica/5200-coast-highway.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=030754&utm_content=website&y_source=1_NjE0MzE0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "displayName": {
+        "text": "Taco Bell Cantina Cantina",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/Taco Bell Small.jpeg"
+    },
+    {
+      "id": "ChIJ4RAt_gl7j4ARCuvM6CMWIrw",
+      "formattedAddress": "494 Manor Plaza, Pacifica, CA 94044, USA",
+      "location": {
+        "latitude": 37.649588400000006,
+        "longitude": -122.49205299999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13556422171824024330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tamscuisine.com/",
+      "displayName": {
+        "text": "Tam's Cuisine of China",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Tams Small.jpeg"
     },
     {
       "id": "ChIJSyErFad7j4ARJfYLqp4Afdg",
@@ -192,22 +988,6 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/Taqueria La Perla Small.jpeg"
     },
     {
-      "id": "ChIJqQVRTmF6j4ARlu_4IX5MlmM",
-      "formattedAddress": "164 Reina Del Mar Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6133095,
-        "longitude": -122.48673369999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7176007160881016726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://guerrerostaqueria.com/",
-      "displayName": {
-        "text": "Guerrero's Taqueria",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/pacifica/Guerreros Taqueria_reina del mar Small.jpeg"
-    },
-    {
       "id": "ChIJ3cskNVV6j4ARNigSkyy5Pik",
       "formattedAddress": "1710 Francisco Blvd, Pacifica, CA 94044, USA",
       "location": {
@@ -222,214 +1002,6 @@ var PREBAKED_DATA_COAST = {
       },
       "cuisine": "Mexican",
       "photoUrl": "images/restaurant-photos/pacifica/Taqueria Pacifica Small.jpeg"
-    },
-    {
-      "id": "ChIJQ_QboqB7j4AR3jPelc4k8KY",
-      "formattedAddress": "444 Manor Plaza, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.650908699999995,
-        "longitude": -122.4916846
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12029155074402825182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.thegreenenchilada.com/",
-      "displayName": {
-        "text": "The Green Enchilada",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/pacifica/The Green Enchilada Small.jpeg"
-    },
-    {
-      "id": "ChIJYdgfyap7j4ARo8C5B5ECjQs",
-      "formattedAddress": "1780 Francisco Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6354031,
-        "longitude": -122.49058629999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=832324328056537251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://eltoroloco2.com/?utm_source=google",
-      "displayName": {
-        "text": "El Toro Loco",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/pacifica/El Toro Loco Small.jpeg"
-    },
-    {
-      "id": "ChIJS0f-bIlwj4ARyOSq0_6k8ME",
-      "formattedAddress": "1357 Linda Mar Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.593644999999995,
-        "longitude": -122.50443440000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13974851058110489800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://elgranamigo2ca.com/",
-      "displayName": {
-        "text": "El Gran Amigo 2",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/pacifica/El Gran Amigo Small.jpeg"
-    },
-    {
-      "id": "ChIJudEwT4l6j4AR8kruJkjSG7k",
-      "formattedAddress": "100 Rockaway Beach Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.609578,
-        "longitude": -122.49681899999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13338485928720485106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://nicksrestaurant.net/",
-      "displayName": {
-        "text": "Nick's Rockaway",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood",
-      "photoUrl": "images/restaurant-photos/pacifica/Nicks Small.jpeg"
-    },
-    {
-      "id": "ChIJS2lAypx6j4AR97GeGitnTx8",
-      "formattedAddress": "5200 CA-1, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.59718,
-        "longitude": -122.50374959999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2256135373163770359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://locations.tacobell.com/ca/pacifica/5200-coast-highway.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=030754&utm_content=website&y_source=1_NjE0MzE0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-      "displayName": {
-        "text": "Taco Bell Cantina Cantina",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/pacifica/Taco Bell Small.jpeg"
-    },
-    {
-      "id": "ChIJnc_AppZ7j4ARdE9_scvXhEY",
-      "formattedAddress": "713 Hickey Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6606714,
-        "longitude": -122.4785508
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5081423549437005684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.guerrerostaqueria.com/",
-      "displayName": {
-        "text": "Guerrero's Taqueria #2",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/pacifica/Guerreros Taqueria Small.jpeg"
-    },
-    {
-      "id": "ChIJ4RAt_gl7j4ARCuvM6CMWIrw",
-      "formattedAddress": "494 Manor Plaza, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.649588400000006,
-        "longitude": -122.49205299999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13556422171824024330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tamscuisine.com/",
-      "displayName": {
-        "text": "Tam's Cuisine of China",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/pacifica/Tams Small.jpeg"
-    },
-    {
-      "id": "ChIJN2yCgl97j4ARpCRbcq_-BPA",
-      "formattedAddress": "683 Manor Dr, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.646075599999996,
-        "longitude": -122.4718486
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17295228498500854948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://soulriceca.com/",
-      "displayName": {
-        "text": "Soul Rice",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/pacifica/Soul Rice Small.jpeg"
-    },
-    {
-      "id": "ChIJrU4iiIF6j4ARVLB4bC3T0ZY",
-      "formattedAddress": "640 Crespi Dr #1, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.5971146,
-        "longitude": -122.4974787
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10867699567868555348&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://kennyscafepacifica.com/",
-      "displayName": {
-        "text": "Kenny's Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/pacifica/Kennys Cafe Small.jpeg"
-    },
-    {
-      "id": "ChIJJ51Mqqp7j4AR449XaWMiWEw",
-      "formattedAddress": "1709 Palmetto Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6357907,
-        "longitude": -122.49187
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5501184755197513699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://raymondpacifica.com/",
-      "displayName": {
-        "text": "Raymond's Chinese Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/pacifica/Raymonds Chinese Restaurant Small.jpeg"
-    },
-    {
-      "id": "ChIJwVlwvQd7j4ARX1RYAtm0Y4U",
-      "formattedAddress": "63 Bill Drake Way, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.651342299999996,
-        "longitude": -122.4918239
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9611724873879016543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Top Pot",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/pacifica/Top Pot Small.jpeg"
-    },
-    {
-      "id": "ChIJLwmUvbJ7j4ARc878dfDUYQU",
-      "formattedAddress": "452 Manor Plaza, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6507109,
-        "longitude": -122.49179699999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=387825172167315059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Grand HotPot",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/pacifica/Grand Hot Pot Small.jpeg"
-    },
-    {
-      "id": "ChIJlyZNElV6j4AR_Jv0n82Hkls",
-      "formattedAddress": "Palmetto Avenue Shopping Center, 1966 Francisco Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6342044,
-        "longitude": -122.4902401
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6598485721272851452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pacificathai.com/",
-      "displayName": {
-        "text": "Pacifica Thai Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai",
-      "photoUrl": "images/restaurant-photos/pacifica/Pacifica Thai Cuisine Small.jpeg"
     },
     {
       "id": "ChIJES-iadN7j4ARwdTswHI6RRI",
@@ -448,147 +1020,19 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/Thai Original BBQ Small.jpeg"
     },
     {
-      "id": "ChIJywBgJQB7j4AReC_w4eiE8d8",
-      "formattedAddress": "330 Palmetto Ave Ste D, Pacifica, CA 94044, USA",
+      "id": "ChIJe6Q3z1d7j4AR8FtA5_FtstU",
+      "formattedAddress": "1329 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.651714999999996,
-        "longitude": -122.49095349999997
+        "latitude": 37.59406,
+        "longitude": -122.5046311
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16136825075603091320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.panjaabcuisine.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15398490961667447792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.acaispotpac.com/",
       "displayName": {
-        "text": "Panj-Aab Indian Cuisine",
+        "text": "The Acai Spot",
         "languageCode": "en"
       },
-      "cuisine": "Indian",
-      "photoUrl": "images/restaurant-photos/pacifica/Panj-Aab Small.jpeg"
-    },
-    {
-      "id": "ChIJ6z8PYoV7j4ARePzN4h-uuT8",
-      "formattedAddress": "450 Dondee Way #1, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6097934,
-        "longitude": -122.495975
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4591892747053300856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://theshoreshackca.com/",
-      "displayName": {
-        "text": "The Shore Shack",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/pacifica/The Shore Shack Small.jpeg"
-    },
-    {
-      "id": "ChIJ0VI3EwB7j4ARjdB-3mrjV6k",
-      "formattedAddress": "1231 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.595123199999996,
-        "longitude": -122.50413460000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12202471763522539661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Nations",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/pacifica/Nations Small.jpeg"
-    },
-    {
-      "id": "ChIJvUa_WJNwj4ARlNohScJDWgk",
-      "formattedAddress": "1049 Terra Nova Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.583714300000004,
-        "longitude": -122.4757939
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=673925595974982292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "City Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJz6JdXIl6j4AR0M4U78Jwz10",
-      "formattedAddress": "105 Rockaway Beach Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.609775899999995,
-        "longitude": -122.4966938
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6759745548243488464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://moonrakerpacifica.com/",
-      "displayName": {
-        "text": "Moonraker",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood",
-      "photoUrl": "images/restaurant-photos/pacifica/Moonraker Small.jpeg"
-    },
-    {
-      "id": "ChIJ2Yl5W2F6j4ARp-3ydsxUtF8",
-      "formattedAddress": "2125 Pacific Coast Hwy, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6134416,
-        "longitude": -122.4873295
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6896230166556765607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.vallemarstation.com/",
-      "displayName": {
-        "text": "Vallemar Station",
-        "languageCode": "en"
-      },
-      "cuisine": "Steakhouse",
-      "photoUrl": "images/restaurant-photos/pacifica/Vallemar Station Small.jpeg"
-    },
-    {
-      "id": "ChIJ0zqPXIl6j4AR6ZGsdaZN_zE",
-      "formattedAddress": "145 Rockaway Beach Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6096711,
-        "longitude": -122.49654029999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3602683604253839849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://ilovebreakers.com/",
-      "displayName": {
-        "text": "Breakers Breakfast, Brunch & Lunch",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/pacifica/Breakers breakfast Small.jpeg"
-    },
-    {
-      "id": "ChIJCWEaT2F6j4AR6rbh3DKcYYY",
-      "formattedAddress": "2600 Francisco Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.624961,
-        "longitude": -122.488788
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9683192416091354858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.sharpparkrestaurant.net/",
-      "displayName": {
-        "text": "Sharp Park Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Steakhouse",
-      "photoUrl": "images/restaurant-photos/pacifica/Sharp Park Restaurant Small.jpeg"
-    },
-    {
-      "id": "ChIJxZPMWzx7j4AR6DHZXsLe_q0",
-      "formattedAddress": "5430 CA-1, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.5950805,
-        "longitude": -122.50615470000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12537703339042353640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://burger-board.com/",
-      "displayName": {
-        "text": "Burger Board",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers",
-      "photoUrl": "images/restaurant-photos/pacifica/Burger board Small.jpeg"
+      "cuisine": "Vegetarian/Vegan"
     },
     {
       "id": "ChIJd6GTAMR7j4AR6JZATpReUng",
@@ -607,290 +1051,99 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/The Cheesesteak Shop Small.jpeg"
     },
     {
-      "id": "ChIJearFsPR7j4AR-ijzRK3u_-w",
-      "formattedAddress": "525 Crespi Dr 2nd Floor, Pacifica, CA 94044, USA",
+      "id": "ChIJQ_QboqB7j4AR3jPelc4k8KY",
+      "formattedAddress": "444 Manor Plaza, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.599618899999996,
-        "longitude": -122.49944749999997
+        "latitude": 37.650908699999995,
+        "longitude": -122.4916846
       },
-      "googleMapsUri": "https://maps.google.com/?cid=17077630739965749498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://puerto27.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=12029155074402825182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thegreenenchilada.com/",
       "displayName": {
-        "text": "Puerto 27 Restaurant",
+        "text": "The Green Enchilada",
         "languageCode": "en"
       },
-      "cuisine": "Peruvian",
-      "photoUrl": "images/restaurant-photos/pacifica/Puerto 27 Small.jpeg"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/pacifica/The Green Enchilada Small.jpeg"
     },
     {
-      "id": "ChIJu4efBwB7j4ARX9S-zQBHS6U",
-      "formattedAddress": "1624 Francisco Blvd, Pacifica, CA 94044, USA",
+      "id": "ChIJ6z8PYoV7j4ARePzN4h-uuT8",
+      "formattedAddress": "450 Dondee Way #1, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.6362526,
-        "longitude": -122.4904329
+        "latitude": 37.6097934,
+        "longitude": -122.495975
       },
-      "googleMapsUri": "https://maps.google.com/?cid=11910691708288816223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
+      "googleMapsUri": "https://maps.google.com/?cid=4591892747053300856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://theshoreshackca.com/",
       "displayName": {
-        "text": "Burger Blvd",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers",
-      "photoUrl": "images/restaurant-photos/pacifica/Burger Blvd Small.jpeg"
-    },
-    {
-      "id": "ChIJn3uGnIl6j4ARF3SR42zzVJQ",
-      "formattedAddress": "400 Old County Rd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6099734,
-        "longitude": -122.4945056
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10688435464657007639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.agitf.com/",
-      "displayName": {
-        "text": "A Grape in the Fog",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar",
-      "photoUrl": "images/restaurant-photos/pacifica/A grape in the fog Small.jpeg"
-    },
-    {
-      "id": "ChIJK8MtVqd7j4ARTkcCOpmDyx4",
-      "formattedAddress": "70 W Manor Dr, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.649240600000006,
-        "longitude": -122.4919944
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2219011935536564046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.camelotfishandchips.com/",
-      "displayName": {
-        "text": "Camelot Fish and Chips",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood",
-      "photoUrl": "images/restaurant-photos/pacifica/Camelot Fish & Chips Small.jpeg"
-    },
-    {
-      "id": "ChIJYeF9DQB7j4ARMgqq6JzuBkQ",
-      "formattedAddress": "446 Manor Plaza, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6508588,
-        "longitude": -122.49173119999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4901867602125130290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.zazagrill.com/",
-      "displayName": {
-        "text": "ZaZa Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "Turkish",
-      "photoUrl": "images/restaurant-photos/pacifica/Zaza Grill Small.jpeg"
-    },
-    {
-      "id": "ChIJX7rSzvB7j4ARlihj222Vdw0",
-      "formattedAddress": "4627 CA-1, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6067385,
-        "longitude": -122.49731729999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=970408543786313878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.rockawaybrewery.com/",
-      "displayName": {
-        "text": "Rockaway Beach Brewery",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "photoUrl": "images/restaurant-photos/pacifica/Rockaway Beach Brewery Small.jpeg"
-    },
-    {
-      "id": "ChIJbTHmAgBxj4ARnSQkHHTKQlI",
-      "formattedAddress": "7 Banff Way, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.5896775,
-        "longitude": -122.46630249999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5927522659610141853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ptownpieguy.com/",
-      "displayName": {
-        "text": "P-Town Pie Guy",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJt8NeDIxwj4ARFRvYxOEBdaw",
-      "formattedAddress": "1285 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.59466,
-        "longitude": -122.50465460000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12426840815980518165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.roundtablepizza.com/location/1012/",
-      "displayName": {
-        "text": "Round Table Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza",
-      "photoUrl": "images/restaurant-photos/pacifica/Round Table Small.jpeg"
-    },
-    {
-      "id": "ChIJUwLMAZ16j4AR1yk95-PSkX4",
-      "formattedAddress": "5500 CA-1, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.594765699999996,
-        "longitude": -122.50633699999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9120302596680919511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hightidepacifica.com/",
-      "displayName": {
-        "text": "High Tide Cafe & Crêperie",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/High Tide Cafe Small.jpeg"
-    },
-    {
-      "id": "ChIJ1xpdcaZ7j4ARVOy8i5FPZXE",
-      "formattedAddress": "549 Oceana Blvd suite b, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6484211,
-        "longitude": -122.4904906
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8171024585466899540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://oasisvietnamesecui.wixsite.com/oasis-vietnamese-cui",
-      "displayName": {
-        "text": "Oasis Vietnamese Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese",
-      "photoUrl": "images/restaurant-photos/pacifica/Oasis Vietnamese Small.jpeg"
-    },
-    {
-      "id": "ChIJV2b0ap97j4ARdAg2UUqierk",
-      "formattedAddress": "1715 Palmetto Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6354545,
-        "longitude": -122.49176529999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13365173284249143412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://kittenandpinky.carrd.co/",
-      "displayName": {
-        "text": "Kitten & Pinky",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese",
-      "photoUrl": "images/restaurant-photos/pacifica/Kitten & Pinky Small.jpeg"
-    },
-    {
-      "id": "ChIJNyAcV1R6j4ARjvcPIs0xB8E",
-      "formattedAddress": "50 Eureka Dr, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6341734,
-        "longitude": -122.48895709999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13909140731266594702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://eatdinosaurs.com/",
-      "displayName": {
-        "text": "Dinosaurs Sandwiches",
+        "text": "The Shore Shack",
         "languageCode": "en"
       },
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/pacifica/Dinosaurs Sandwiches Small.jpeg"
+      "photoUrl": "images/restaurant-photos/pacifica/The Shore Shack Small.jpeg"
     },
     {
-      "id": "ChIJe6Q3z1d7j4AR8FtA5_FtstU",
-      "formattedAddress": "1329 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
+      "id": "ChIJwVlwvQd7j4ARX1RYAtm0Y4U",
+      "formattedAddress": "63 Bill Drake Way, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.59406,
-        "longitude": -122.5046311
+        "latitude": 37.651342299999996,
+        "longitude": -122.4918239
       },
-      "googleMapsUri": "https://maps.google.com/?cid=15398490961667447792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.acaispotpac.com/",
-      "displayName": {
-        "text": "The Acai Spot",
-        "languageCode": "en"
-      },
-      "cuisine": "Vegetarian/Vegan"
-    },
-    {
-      "id": "ChIJzbeUTZ16j4AR6JK8ibYeFFs",
-      "formattedAddress": "1241 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.5950282,
-        "longitude": -122.5042309
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6562904326329373416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=9611724873879016543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Sunrise Cafe & Grill",
+        "text": "Top Pot",
         "languageCode": "en"
       },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/pacifica/Sunrise Cafe & Grill Small.jpeg"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/pacifica/Top Pot Small.jpeg"
     },
     {
-      "id": "ChIJr0LwQlZ6j4ARhWjZKVjP3Hw",
-      "formattedAddress": "2500 Francisco Blvd, Pacifica, CA 94044, USA",
+      "id": "ChIJnyzuqJRwj4AR2HyJWvwIY2U",
+      "formattedAddress": "1023 Terra Nova Blvd, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.62979,
-        "longitude": -122.4899466
+        "latitude": 37.5831738,
+        "longitude": -122.47590459999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=8997294133145593989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=7305692900468817112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Perfect Pour Cafe",
+        "text": "Upper Crust Deli",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Perfect Pour Cafe Small.jpeg"
+      "cuisine": "American"
     },
     {
-      "id": "ChIJJ7S6BH1wj4ARkm-4Sjh8D-g",
-      "formattedAddress": "Adobe Plaza Shopping Center, 986 Linda Mar Blvd, Pacifica, CA 94044, USA",
+      "id": "ChIJ2Yl5W2F6j4ARp-3ydsxUtF8",
+      "formattedAddress": "2125 Pacific Coast Hwy, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.5886755,
-        "longitude": -122.49454569999997
+        "latitude": 37.6134416,
+        "longitude": -122.4873295
       },
-      "googleMapsUri": "https://maps.google.com/?cid=16721720522663554962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://beachmonkeyorganiccafe.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=6896230166556765607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.vallemarstation.com/",
       "displayName": {
-        "text": "Beach Monkey Organic Cafe",
+        "text": "Vallemar Station",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Beach Monkey Cafe Small.jpeg"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/pacifica/Vallemar Station Small.jpeg"
     },
     {
-      "id": "ChIJnYbskK57j4AR7hYgY9wu1Q0",
-      "formattedAddress": "5560 Pacific Coast Hwy, Pacifica, CA 94044, USA",
+      "id": "ChIJteAzmaB7j4ARQdYsY-8cWyA",
+      "formattedAddress": "67 Bill Drake Way, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.5942845,
-        "longitude": -122.50675830000002
+        "latitude": 37.651331,
+        "longitude": -122.49175950000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=996754416623163118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://humblesea.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2331489046581007937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.vivaitalianopizzeria.com/",
       "displayName": {
-        "text": "Humble Sea Brewing Co.",
+        "text": "Viva Italiano Pizzeria & Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Other",
-      "photoUrl": "images/restaurant-photos/pacifica/Humble Sea Brewing Small.jpeg"
-    },
-    {
-      "id": "ChIJOdpVIs97j4ARUeb-8UN5s8c",
-      "formattedAddress": "100 Santa Rosa Ave #3, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6331898,
-        "longitude": -122.49198669999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14389978567108650577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Sharp Park Taproom",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "photoUrl": "images/restaurant-photos/pacifica/Sharp Park Taproom Small.jpeg"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/pacifica/Viva Italiano Small.jpeg"
     },
     {
       "id": "ChIJxd4hx6p7j4ARnK9cOR0AqDY",
@@ -909,288 +1162,20 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/Wnters Small.jpeg"
     },
     {
-      "id": "ChIJ75ZNN1R6j4ARJ50ti3M3DXE",
-      "formattedAddress": "180 Eureka Dr, Pacifica, CA 94044, USA",
+      "id": "ChIJYeF9DQB7j4ARMgqq6JzuBkQ",
+      "formattedAddress": "446 Manor Plaza, Pacifica, CA 94044, USA",
       "location": {
-        "latitude": 37.6331512,
-        "longitude": -122.48814150000001
+        "latitude": 37.6508588,
+        "longitude": -122.49173119999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=8146228270378884391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.longboardbar.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4901867602125130290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.zazagrill.com/",
       "displayName": {
-        "text": "Longboard Bar and Venue",
+        "text": "ZaZa Grill",
         "languageCode": "en"
       },
-      "cuisine": "Other",
-      "photoUrl": "images/restaurant-photos/pacifica/Longboard Bar Small.jpeg"
-    },
-    {
-      "id": "ChIJI_I7mKB7j4ARZvfh53IfKsw",
-      "formattedAddress": "77 Bill Drake Way, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.651266799999995,
-        "longitude": -122.4915538
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14711605711136225126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://pacificasurflounge.com/",
-      "displayName": {
-        "text": "Surf Lounge",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "photoUrl": "images/restaurant-photos/pacifica/Surf Lounge Small.jpeg"
-    },
-    {
-      "id": "ChIJTV0SV1V6j4ARMk_yDOkYfTI",
-      "formattedAddress": "1821 Palmetto Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6348987,
-        "longitude": -122.491816
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3638091463208881970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Cafe Pacifica",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Cafe Pacifica Small.jpeg"
-    },
-    {
-      "id": "ChIJzeS5JJ97j4AR1YU0jwL9A5s",
-      "formattedAddress": "5400 CA-1, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.595155399999996,
-        "longitude": -122.50611199999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11170049688243307989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.soulgrindcoffee.com/",
-      "displayName": {
-        "text": "Soul Grind Coffee Roasters",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Soul grind coffee roasters Small.jpeg"
-    },
-    {
-      "id": "ChIJjTT9Agp7j4ARL8svOoXGlik",
-      "formattedAddress": "5 W Manor Dr, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6495962,
-        "longitude": -122.4927218
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2996800877570804527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.chitchatpacifica.com/",
-      "displayName": {
-        "text": "Chit Chat Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Chit-Chat Cafe Small.jpeg"
-    },
-    {
-      "id": "ChIJvcBuZIl6j4ARVtO21dZiDzY",
-      "formattedAddress": "3258, 450 Dondee Way # 6, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6100577,
-        "longitude": -122.49565159999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3895440877546820438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Pacific Java Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Pacifica Java Small.jpeg"
-    },
-    {
-      "id": "ChIJ5z7At_96j4AR55wS3rlWVX0",
-      "formattedAddress": "2100 Beach Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6333929,
-        "longitude": -122.49459300000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9031219984056098023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.chitchatpacifica.com/",
-      "displayName": {
-        "text": "Chit Chat Cafe at the Pier",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Chit Chat Cafe Small.jpeg"
-    },
-    {
-      "id": "ChIJAQDsaHJ6j4ARnFNgxFRfXRI",
-      "formattedAddress": "450 Manor Plaza, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6508053,
-        "longitude": -122.4917504
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1323318683193332636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://rosalindbakery.com/",
-      "displayName": {
-        "text": "Rosalind Bakery",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Rosalind Bakery Small.jpeg"
-    },
-    {
-      "id": "ChIJYxyrT2F6j4AR397k4Xf6FoA",
-      "formattedAddress": "152 Reina Del Mar Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6134281,
-        "longitude": -122.48716100000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9229839879140335327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/ptowncoffeeandtea?igsh=Mnk5dGtsY2h6d3c0&utm_source=qr",
-      "displayName": {
-        "text": "P Town Coffee & Tea",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/P town Coffee Small.jpeg"
-    },
-    {
-      "id": "ChIJQV50AAp7j4ARxJpDSgAbBtU",
-      "formattedAddress": "484 Manor Plaza, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6497434,
-        "longitude": -122.4919403
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15349986067998808772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.colombosdeli.com/",
-      "displayName": {
-        "text": "Colombo's Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/pacifica/Colombos Delicatessen Small.jpeg"
-    },
-    {
-      "id": "ChIJR4C8sn57j4ARgCu6e_iEPR0",
-      "formattedAddress": "1320 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.5941955,
-        "longitude": -122.50467529999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2106986403441814400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.sourdoughandco.com/",
-      "displayName": {
-        "text": "Sourdough & Co Pacifica",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/pacifica/Sourdough & Co Small.jpeg"
-    },
-    {
-      "id": "ChIJb01BU2F6j4AR55DBng5jZ0E",
-      "formattedAddress": "230 Reina Del Mar Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.613582,
-        "longitude": -122.486289
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4712844449510691047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Sun Valley Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJnyzuqJRwj4AR2HyJWvwIY2U",
-      "formattedAddress": "1023 Terra Nova Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.5831738,
-        "longitude": -122.47590459999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7305692900468817112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Upper Crust Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJW5Y6OlR6j4ARRBneMb3-EK0",
-      "formattedAddress": "200 Eureka Dr, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.632945,
-        "longitude": -122.48800039999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12470747456727816516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.oceanamarket.com/",
-      "displayName": {
-        "text": "Oceana Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJ6eEW2LV7j4ARSiwQk0GvPJk",
-      "formattedAddress": "2480 Skyline Dr, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6462137,
-        "longitude": -122.4714106
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11041893082580659274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Quick Mart",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
-      "id": "ChIJo_YIO516j4ARcIp7YTN-UFA",
-      "formattedAddress": "1710 Francisco Blvd Suite A, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.635723600000006,
-        "longitude": -122.49032120000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5787264280315005552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tablewinemerchant.com/",
-      "displayName": {
-        "text": "Table Wine",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar",
-      "photoUrl": "images/restaurant-photos/pacifica/Table Wine Small.jpeg"
-    },
-    {
-      "id": "ChIJYYOzXWF6j4ARkEiVB7egEnI",
-      "formattedAddress": "2145 Coast Highway #1, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.613206999999996,
-        "longitude": -122.48767099999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8219808977871259792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.gorillabbq.com/",
-      "displayName": {
-        "text": "Gorilla Barbeque",
-        "languageCode": "en"
-      },
-      "cuisine": "BBQ",
-      "photoUrl": "images/restaurant-photos/pacifica/Gorilla Barbeque Small.jpeg"
-    },
-    {
-      "id": "ChIJpdpAYTd7j4ARrpYQMqQ7rg0",
-      "formattedAddress": "1905 Palmetto Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.634488,
-        "longitude": -122.49176560000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=985790944841340590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Golden Sol Wellness Bar",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Golden Sol Small.jpeg"
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/pacifica/Zaza Grill Small.jpeg"
     }
   ],
   "Half Moon Bay, CA": [
