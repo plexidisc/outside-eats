@@ -1821,21 +1821,6 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/half-moon-bay/Nanos Small.jpeg"
     },
     {
-      "id": "ChIJVR5Xc7F0j4ARJOQK38hLCfI",
-      "formattedAddress": "150 San Mateo Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.468879699999995,
-        "longitude": -122.43218939999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17440554358076531748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.newleaf.com/",
-      "displayName": {
-        "text": "New Leaf Community Markets - Half Moon Bay",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJ1fXfm5R1j4ARHakjU5dQpi8",
       "formattedAddress": "101 Main St A, Half Moon Bay, CA 94019, USA",
       "location": {
