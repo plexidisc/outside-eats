@@ -1195,7 +1195,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Cafe Capistrano",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Cafe Capistrano Small.jpeg"
     },
     {
       "id": "ChIJb5VzVEsLj4ARExxCDFqkZoc",
@@ -1210,7 +1211,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Cafe Society",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Cafe Society Small.jpeg"
     },
     {
       "id": "ChIJ4b5LO8hzj4ARlxO_cFFKyrY",
@@ -1241,7 +1243,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Cameron's Pub & Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Camerons Small.jpeg"
     },
     {
       "id": "ChIJC2BGmbR0j4ARDzFKggJ8v8E",
@@ -1256,7 +1259,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Cantina @ San Benito House",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Cantina @ San Benito House Small.jpeg"
     },
     {
       "id": "ChIJpy18oxN1j4AR8TEf2rsqPlY",
@@ -1271,7 +1275,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Ciya Mediterranean Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Ciya Mediterranean Small.jpeg"
     },
     {
       "id": "ChIJz9sHs4x1j4ARIFEonLS3NVY",
@@ -1286,7 +1291,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Cobani Half Moon Bay",
         "languageCode": "tr"
       },
-      "cuisine": "Greek/Mediterranean"
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Cobani Small.jpeg"
     },
     {
       "id": "ChIJxzbeq7R0j4ARho1-zXRImc8",
@@ -1301,7 +1307,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Cunha's Country Store & Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Cunhas Country Store Small.jpeg"
     },
     {
       "id": "ChIJd898_7J0j4ARX5hTjbDciT4",
@@ -1316,7 +1323,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Dad's Luncheonette",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Dads Luncheonette Small.jpeg"
     },
     {
       "id": "ChIJIxm8IRt1j4ARZ7VPd0GgY04",
@@ -1331,7 +1339,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Evangeline Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Spanish"
+      "cuisine": "Spanish",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Evangeliine Cuisine Small.jpeg"
     },
     {
       "id": "ChIJyXg_RCZ2j4ARQQmO6L1u12o",
@@ -1346,7 +1355,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Fattoria e Mare",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Fattoria e Mare Small.jpeg"
     },
     {
       "id": "ChIJXZTbeIh1j4AR9dTCO_z_Iec",
@@ -1361,7 +1371,8 @@ var PREBAKED_DATA_COAST = {
         "text": "FireWok Chinese Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Chinese"
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Firewok Small.jpeg"
     },
     {
       "id": "ChIJLWd6A7R0j4ARTm6zDRzm3Uw",
@@ -1376,7 +1387,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Flying Fish & Grill",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Flying Fish & Grill Small.jpeg"
     },
     {
       "id": "ChIJbzLDJEd1j4ARlZDrYTFZ80Q",
@@ -1391,7 +1403,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Full Hearts Arcade and Eats",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Full Hearts Small.jpeg"
     },
     {
       "id": "ChIJAStwBrB0j4ARLK3hhFTwy0k",
@@ -1406,7 +1419,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Granola's Coffee House",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Granolas Coffee Small.jpeg"
     },
     {
       "id": "ChIJ-6ij5Mlzj4ARp7tIMj62nxA",
@@ -1437,7 +1451,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Half Moon Bay Coffee Co",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Half Moon Bay Coffee Co Small.jpeg"
     },
     {
       "id": "ChIJoRaDWnILj4ARRRF4LqsDgUs",
@@ -1467,7 +1482,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Half Moon Bay Wine & Cheese",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Half Moon Bay Wine & Cheese Small.jpeg"
     },
     {
       "id": "ChIJ4QZEkB1zj4ARPLKEbmlqzH4",
@@ -1513,7 +1529,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Hayashi Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Hayashi Sushi Small.jpeg"
     },
     {
       "id": "ChIJ9RNKir1zj4AR04S9NhTbBng",
@@ -1559,7 +1576,8 @@ var PREBAKED_DATA_COAST = {
         "text": "It's Italia",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/It's Italia Small.jpeg"
     },
     {
       "id": "ChIJEdRhW7R0j4AR5Rx4IjO0sds",
@@ -1574,7 +1592,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Jersey Joe's Coastside",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Jersey Joes Small.jpeg"
     },
     {
       "id": "ChIJhWejV0ALj4ARutdDBk4xri4",
@@ -1589,7 +1608,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Johnny’s Half Moon Bay",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Johnnys Small.jpeg"
     },
     {
       "id": "ChIJ22VUSwBzj4ARQ6XmNxg7-bU",
@@ -1635,7 +1655,8 @@ var PREBAKED_DATA_COAST = {
         "text": "La Mexicana Placita Market",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/La Mexicana Placita Small.jpeg"
     },
     {
       "id": "ChIJ7_djYNd0j4ARVBKeDSCFkUc",
@@ -1650,7 +1671,8 @@ var PREBAKED_DATA_COAST = {
         "text": "La Nebbia Winery",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/La Nebbia Winery Small.jpeg"
     },
     {
       "id": "ChIJVVUVX0sLj4ARCiA-F5V50ng",
@@ -1665,7 +1687,8 @@ var PREBAKED_DATA_COAST = {
         "text": "La Piazza",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/La Piazza Small.jpeg"
     },
     {
       "id": "ChIJHVM9JwBzj4ARez3sRfVa5H0",
@@ -1695,7 +1718,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Mavericks Crepe Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Mavericks Creperie Small.jpeg"
     },
     {
       "id": "ChIJe9UJMMpzj4ARDtBiYMLVKYg",
@@ -1741,7 +1765,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Monsoon Himalayan Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Indian"
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Monsoon Small.jpeg"
     },
     {
       "id": "ChIJZXQup0wLj4ARZNw6CtDdJU0",
@@ -1756,7 +1781,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Moonside Bakery & Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Moonside Small.jpeg"
     },
     {
       "id": "ChIJSaP7YGQLj4ARodevnRJdph8",
@@ -1771,7 +1797,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Mullins Steakhouse",
         "languageCode": "en"
       },
-      "cuisine": "Steakhouse"
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Mullins Steakhouse Small.jpeg"
     },
     {
       "id": "ChIJRcZsUUsLj4ARREDaPVlswZU",
@@ -1786,7 +1813,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Nano's",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Nanos Small.jpeg"
     },
     {
       "id": "ChIJa20ih2MLj4ARxpEI4qkvwZI",
@@ -1831,7 +1859,8 @@ var PREBAKED_DATA_COAST = {
         "text": "North Beach Pizza Express",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/North Beach Pizza Express Small.jpeg"
     },
     {
       "id": "ChIJL-1Ogpdzj4ARvjMjfTEDHIE",
@@ -1878,7 +1907,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Pasta Moon",
         "languageCode": "en"
       },
-      "cuisine": "Italian"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Pasta Moon Small.jpeg"
     },
     {
       "id": "ChIJYzeWOQR1j4ARkcjhKH8fQ74",
@@ -1893,7 +1923,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Pho Banh Mi & Juice",
         "languageCode": "en"
       },
-      "cuisine": "Vietnamese"
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Pho Banh Mi Small.jpeg"
     },
     {
       "id": "ChIJy48wjYdzj4ARzRaL2nOs3vM",
@@ -1924,7 +1955,8 @@ var PREBAKED_DATA_COAST = {
         "text": "REBYL Coffee & Food",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Rebyl Coffee & Food Small.jpeg"
     },
     {
       "id": "ChIJkUMU8MYLj4ARHXDiJE0OyX0",
@@ -1939,7 +1971,8 @@ var PREBAKED_DATA_COAST = {
         "text": "REBYL Outpost",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Rebyl outpost Small.jpeg"
     },
     {
       "id": "ChIJA6AnNrB0j4ARjosEoXcdlpE",
@@ -1954,7 +1987,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Round Table Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Round Table Small.jpeg"
     },
     {
       "id": "ChIJiadcUrF0j4ARSEaUheU9YCA",
@@ -1969,7 +2003,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sam's Cafe",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Sams Cafe Small.jpeg"
     },
     {
       "id": "ChIJqZ-ESLlzj4ARakRsWhcYPyc",
@@ -1999,7 +2034,8 @@ var PREBAKED_DATA_COAST = {
         "text": "San Benito Deli",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/San Benito Deli Small.jpeg"
     },
     {
       "id": "ChIJCSJ2XrR0j4ARYI9JCLNUnkw",
@@ -2014,7 +2050,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Shiki Japanese Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Shiki Small.jpeg"
     },
     {
       "id": "ChIJncPA77hzj4ARu0ShRYURkUk",
@@ -2044,7 +2081,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Spanishtown Mexican Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Spanishtown Mexican Restaurant Small.jpeg"
     },
     {
       "id": "ChIJxRPWUbN0j4ARUvqbq5mVlzI",
@@ -2059,7 +2097,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Spice Me Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Spice Me Small.jpeg"
     },
     {
       "id": "ChIJ-S_7ZrF0j4ARkuPZq9ouLGA",
@@ -2074,7 +2113,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Straw Hat Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Straw Hat Pizza Small.jpeg"
     },
     {
       "id": "ChIJfY_BorR0j4ARG2JivG_bpho",
@@ -2089,7 +2129,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sushi On Main Street",
         "languageCode": "en"
       },
-      "cuisine": "Japanese"
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Sushi on Main Street Small.jpeg"
     },
     {
       "id": "ChIJ752Ui7J0j4ARXqofunk8zYQ",
@@ -2104,7 +2145,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taqueria La Gallina",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Taqueria La Gallina Small.jpeg"
     },
     {
       "id": "ChIJicK45q90j4ARlahGO8O829Y",
@@ -2119,7 +2161,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taqueria La Mordida",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Taqueria Mordida Small.jpeg"
     },
     {
       "id": "ChIJ78muY7J0j4AREbZRVTD9GQM",
@@ -2134,7 +2177,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taqueria Tres Amigos",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Tres Amigos Small.jpeg"
     },
     {
       "id": "ChIJ5auJ8uF1j4ARBAc5BS1pfs0",
@@ -2149,7 +2193,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taste Cafe Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Breakfast"
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Taste Cafe Small.jpeg"
     },
     {
       "id": "ChIJh7qu39xzj4ARw6NOKxN-_xg",
@@ -2179,7 +2224,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Conservatory",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/The Conservatory Small.jpeg"
     },
     {
       "id": "ChIJc2Nx_7N0j4ARL_yhkRuUICw",
@@ -2194,7 +2240,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Happy Taco Taqueria",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/The Happy Taco Small.jpeg"
     },
     {
       "id": "ChIJa20ih2MLj4ARRoS_4KCihlI",
@@ -2209,7 +2256,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Ocean Terrace",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/The Ocean Terrace Small.jpeg"
     },
     {
       "id": "ChIJszV9Knlzj4AR_kEyqdckQi0",
@@ -2240,7 +2288,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Verrazzano Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Verrazzano Pizza Small.jpeg"
     },
     {
       "id": "ChIJH0x_LC11j4ARsuiTcZoEGsM",
@@ -2255,7 +2304,8 @@ var PREBAKED_DATA_COAST = {
         "text": "What A Meals",
         "languageCode": "en"
       },
-      "cuisine": "Thai"
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/What a Meals Small.jpeg"
     }
   ],
   "El Granada, CA": [
