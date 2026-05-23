@@ -2355,7 +2355,93 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "Mexican"
     }
   ],
-  "Montara, CA": [{"id": "ChIJ8xk76GFxj4ARJI_uP62YVJY", "formattedAddress": "8455 CA-1, Montara, CA 94037, USA", "location": {"latitude": 37.5412, "longitude": -122.5161}, "googleMapsUri": "https://maps.google.com/?cid=10832450873602248484", "websiteUri": "https://www.sagebakehousesf.com/", "displayName": {"text": "Sage Bakehouse", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/montara/Sage Bakehouse Small.jpeg", "phone": "(650) 900-9529", "hours": {"Monday": "7:00 AM - 6:00 PM", "Tuesday": "7:00 AM - 6:00 PM", "Wednesday": "7:00 AM - 6:00 PM", "Thursday": "7:00 AM - 6:00 PM", "Friday": "7:00 AM - 6:00 PM", "Saturday": "7:00 AM - 6:00 PM", "Sunday": "7:00 AM - 6:00 PM"}, "menuUrl": "https://www.sagebakehousesf.com/", "priceRange": "$$", "description": "Australian-style bakery and cafe at 8455 Cabrillo Highway with ocean views, handmade savory pies, lamb red curry rolls, sausage rolls, slow coffee, and pastries — one of the best coastal cafe stops on Highway 1."}, {"id": "ChIJ020qvWdxj4ARDiRZsQeIzFE", "formattedAddress": "1400 Main St, Montara, CA 94037, USA", "location": {"latitude": 37.5424, "longitude": -122.5085}, "googleMapsUri": "https://maps.google.com/?cid=5894235578942694414", "websiteUri": "https://www.taqueriaeltimon.net/", "displayName": {"text": "Taqueria El Timon", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/montara/Taqueria el Timon Small.jpeg", "hours": {"Monday": "7:00 AM - 10:00 PM", "Tuesday": "7:00 AM - 10:00 PM", "Wednesday": "7:00 AM - 10:00 PM", "Thursday": "7:00 AM - 10:00 PM", "Friday": "7:00 AM - 10:00 PM", "Saturday": "7:00 AM - 10:00 PM", "Sunday": "7:00 AM - 10:00 PM"}, "priceRange": "$", "description": "No-frills Mexican taqueria at 1400 Main Street open from early morning until 10 PM with tacos, burritos, breakfast plates, and burgers at everyday prices."}, {"id": "ChIJLdyhDshxj4ARs_nnyNFr4SM", "formattedAddress": "171 7th St, Montara, CA 94037, USA", "location": {"latitude": 37.5425, "longitude": -122.5157}, "googleMapsUri": "https://maps.google.com/?cid=2585466209850358195", "websiteUri": "https://www.eatgherkins.com/", "displayName": {"text": "Gherkin's Sandwich Shop", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/montara/Gherkins Sandwich Shop Small.jpeg", "phone": "(650) 728-2211", "hours": {"Monday": "9:00 AM - 8:00 PM", "Tuesday": "9:00 AM - 8:00 PM", "Wednesday": "9:00 AM - 8:00 PM", "Thursday": "9:00 AM - 8:00 PM", "Friday": "9:00 AM - 8:00 PM", "Saturday": "9:00 AM - 8:00 PM", "Sunday": "9:00 AM - 8:00 PM"}, "menuUrl": "https://www.eatgherkins.com/", "priceRange": "$$", "description": "Beloved Montara sandwich shop at 171 7th Street with stacked deli sandwiches, meatball subs, chicken clubs, and fresh daily specials — a must-stop for coastal highway travelers since the 1990s."}],
+  "Montara, CA": [
+    {
+      "id": "ChIJ8xk76GFxj4ARJI_uP62YVJY",
+      "formattedAddress": "8455 CA-1, Montara, CA 94037, USA",
+      "location": {
+        "latitude": 37.5412,
+        "longitude": -122.5161
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10832450873602248484",
+      "websiteUri": "https://www.sagebakehousesf.com/",
+      "displayName": {
+        "text": "Sage Bakehouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/montara/Sage Bakehouse Small.jpeg",
+      "phone": "(650) 900-9529",
+      "hours": {
+        "Monday": "7:00 AM - 6:00 PM",
+        "Tuesday": "7:00 AM - 6:00 PM",
+        "Wednesday": "7:00 AM - 6:00 PM",
+        "Thursday": "7:00 AM - 6:00 PM",
+        "Friday": "7:00 AM - 6:00 PM",
+        "Saturday": "7:00 AM - 6:00 PM",
+        "Sunday": "7:00 AM - 6:00 PM"
+      },
+      "menuUrl": "https://www.sagebakehousesf.com/",
+      "priceRange": "$$",
+      "description": "Australian-style bakery and cafe at 8455 Cabrillo Highway with ocean views, handmade savory pies, lamb red curry rolls, sausage rolls, slow coffee, and pastries — one of the best coastal cafe stops on Highway 1."
+    },
+    {
+      "id": "ChIJ020qvWdxj4ARDiRZsQeIzFE",
+      "formattedAddress": "1400 Main St, Montara, CA 94037, USA",
+      "location": {
+        "latitude": 37.5424,
+        "longitude": -122.5085
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5894235578942694414",
+      "websiteUri": "https://www.taqueriaeltimon.net/",
+      "displayName": {
+        "text": "Taqueria El Timon",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/montara/Taqueria el Timon Small.jpeg",
+      "hours": {
+        "Monday": "7:00 AM - 10:00 PM",
+        "Tuesday": "7:00 AM - 10:00 PM",
+        "Wednesday": "7:00 AM - 10:00 PM",
+        "Thursday": "7:00 AM - 10:00 PM",
+        "Friday": "7:00 AM - 10:00 PM",
+        "Saturday": "7:00 AM - 10:00 PM",
+        "Sunday": "7:00 AM - 10:00 PM"
+      },
+      "priceRange": "$",
+      "description": "No-frills Mexican taqueria at 1400 Main Street open from early morning until 10 PM with tacos, burritos, breakfast plates, and burgers at everyday prices."
+    },
+    {
+      "id": "ChIJLdyhDshxj4ARs_nnyNFr4SM",
+      "formattedAddress": "171 7th St, Montara, CA 94037, USA",
+      "location": {
+        "latitude": 37.5425,
+        "longitude": -122.5157
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2585466209850358195",
+      "websiteUri": "https://www.eatgherkins.com/",
+      "displayName": {
+        "text": "Gherkin's Sandwich Shop",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/montara/Gherkins Sandwich Shop Small.jpeg",
+      "phone": "(650) 728-2211",
+      "hours": {
+        "Monday": "9:00 AM - 8:00 PM",
+        "Tuesday": "9:00 AM - 8:00 PM",
+        "Wednesday": "9:00 AM - 8:00 PM",
+        "Thursday": "9:00 AM - 8:00 PM",
+        "Friday": "9:00 AM - 8:00 PM",
+        "Saturday": "9:00 AM - 8:00 PM",
+        "Sunday": "9:00 AM - 8:00 PM"
+      },
+      "menuUrl": "https://www.eatgherkins.com/",
+      "priceRange": "$$",
+      "description": "Beloved Montara sandwich shop at 171 7th Street with stacked deli sandwiches, meatball subs, chicken clubs, and fresh daily specials — a must-stop for coastal highway travelers since the 1990s."
+    }
+  ],
   "Woodside, CA": [
     {
       "id": "ChIJuYs0k9ilj4ARK7tI5yNkZ3g",
