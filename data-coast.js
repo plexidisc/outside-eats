@@ -2335,7 +2335,8 @@ var PREBAKED_DATA_COAST = {
       "keywords": [
         "sandwiches"
       ],
-      "phone": "+16507363464"
+      "phone": "+16507363464",
+      "photoUrl": "images/restaurant-photos/el-granada/El Granada Hardware Cafe Small.jpeg"
     }
   ],
   "Moss Beach, CA": [
