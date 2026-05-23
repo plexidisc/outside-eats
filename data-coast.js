@@ -987,7 +987,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Acai Spot",
         "languageCode": "en"
       },
-      "cuisine": "Vegetarian/Vegan"
+      "cuisine": "Vegetarian/Vegan",
+      "photoUrl": "images/restaurant-photos/pacifica/The Acai Spot Small.jpeg"
     },
     {
       "id": "ChIJd6GTAMR7j4AR6JZATpReUng",
