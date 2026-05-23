@@ -1692,7 +1692,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Lamas Peruvian & Mexican Food Truck",
         "languageCode": "es"
       },
-      "cuisine": "Fusion"
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Lamas Peruvian Mexican Food Truck Small.jpeg"
     },
     {
       "id": "ChIJbfk8CLF0j4AR7UOIhxI-HsI",
