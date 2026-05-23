@@ -8420,7 +8420,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "+16503152216",
       "hours": "Mon-Fri 7:15am-8pm, Sat 7:15am-9pm, Sun 7:15am-5pm",
       "priceRange": "$",
-      "description": "Homemade ice cream and donuts. Ice cream is made in house by highly experienced ice cream chef. Unique flavors."
+      "description": "Homemade ice cream and donuts. Ice cream is made in house by highly experienced ice cream chef. Unique flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cruel Donuts Ice Cream Small.jpeg"
     }
   ],
   "Foster City, CA": [
