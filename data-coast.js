@@ -2322,6 +2322,22 @@ var PREBAKED_DATA_COAST = {
   ],
   "Moss Beach, CA": [
     {
+      "id": "ChIJnx1sPZNxj4AR4SliHfqH9Wo",
+      "formattedAddress": "2448 Cabrillo Hwy, Moss Beach, CA 94038, USA",
+      "location": {
+        "latitude": 37.526817,
+        "longitude": -122.51315
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7707215845619018209",
+      "websiteUri": "",
+      "displayName": {
+        "text": "El Gran Amigo Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/moss-beach/El Gran Amigo Small.jpeg"
+    },
+    {
       "id": "ChIJr4lkE4txj4ARR6h0u2NisGc",
       "formattedAddress": "140 Beach Way, Moss Beach, CA 94038, USA",
       "location": {
@@ -2352,22 +2368,6 @@ var PREBAKED_DATA_COAST = {
       },
       "cuisine": "Wine Bar",
       "photoUrl": "images/restaurant-photos/moss-beach/The Coastal Vine Small.jpeg"
-    },
-    {
-      "id": "ChIJnx1sPZNxj4AR4SliHfqH9Wo",
-      "formattedAddress": "2448 Cabrillo Hwy, Moss Beach, CA 94038, USA",
-      "location": {
-        "latitude": 37.526817,
-        "longitude": -122.51315
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7707215845619018209",
-      "websiteUri": "",
-      "displayName": {
-        "text": "El Gran Amigo Taqueria",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/moss-beach/El Gran Amigo Small.jpeg"
     }
   ],
   "Montara, CA": [
@@ -2473,6 +2473,20 @@ var PREBAKED_DATA_COAST = {
       "priceRange": "$$",
       "description": "A historic landmark in the Woodside redwoods, serving as a legendary destination for hikers, motorcyclists, and locals. The menu offers locally sourced American comfort food like gourmet burgers and BBQ in a casual, dog-friendly atmosphere with beautiful outdoor seating.",
       "photoUrl": "images/restaurant-photos/woodside/Alice's Restaurant Small.jpeg"
+    },
+    {
+      "id": "manual_1779551066886",
+      "displayName": {
+        "text": "Buck's Restaurant",
+        "languageCode": "en"
+      },
+      "formattedAddress": "3062 Woodside Rd",
+      "googleMapsUri": "",
+      "websiteUri": "Buckswoodside.com",
+      "location": {},
+      "cuisine": "American",
+      "phone": "650-851-8010",
+      "hours": "Sun-Thu 8am-9pm, Fri-Sat 8am-9:30pm"
     }
   ]
 };
