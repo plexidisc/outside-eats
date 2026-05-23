@@ -2274,20 +2274,20 @@ var PREBAKED_DATA_COAST = {
   ],
   "El Granada, CA": [
     {
-      "id": "ChIJp-XWRQBzj4ARb01o9JHmEw0",
-      "formattedAddress": "30 Ave Portola #1B, El Granada, CA 94018, USA",
+      "id": "ChIJoS87qR9zj4ARXQwu2hD9BCQ",
+      "formattedAddress": "10151 Cabrillo Hwy, El Granada, CA 94018, USA",
       "location": {
-        "latitude": 37.5023,
-        "longitude": -122.4695
+        "latitude": 37.503,
+        "longitude": -122.476
       },
-      "googleMapsUri": "https://maps.google.com/?cid=942350261595688303",
-      "websiteUri": "https://www.yourmomshaus.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2595477534094003293",
+      "websiteUri": "https://www.breakwaterbbq.com/",
       "displayName": {
-        "text": "Your Mom's Haus",
+        "text": "Breakwater Barbecue",
         "languageCode": "en"
       },
-      "cuisine": "German/Austrian",
-      "photoUrl": "images/restaurant-photos/el-granada/Your Mom's Haus Small.jpeg"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/el-granada/Breakwater Barbecue Small.jpeg"
     },
     {
       "id": "ChIJm-mzDMhzj4AR5jRDlwMRQEk",
@@ -2306,20 +2306,36 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/el-granada/The Press Small.jpeg"
     },
     {
-      "id": "ChIJoS87qR9zj4ARXQwu2hD9BCQ",
-      "formattedAddress": "10151 Cabrillo Hwy, El Granada, CA 94018, USA",
+      "id": "ChIJp-XWRQBzj4ARb01o9JHmEw0",
+      "formattedAddress": "30 Ave Portola #1B, El Granada, CA 94018, USA",
       "location": {
-        "latitude": 37.503,
-        "longitude": -122.476
+        "latitude": 37.5023,
+        "longitude": -122.4695
       },
-      "googleMapsUri": "https://maps.google.com/?cid=2595477534094003293",
-      "websiteUri": "https://www.breakwaterbbq.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=942350261595688303",
+      "websiteUri": "https://www.yourmomshaus.com/",
       "displayName": {
-        "text": "Breakwater Barbecue",
+        "text": "Your Mom's Haus",
         "languageCode": "en"
       },
-      "cuisine": "BBQ",
-      "photoUrl": "images/restaurant-photos/el-granada/Breakwater Barbecue Small.jpeg"
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/el-granada/Your Mom's Haus Small.jpeg"
+    },
+    {
+      "id": "manual_1779577614469",
+      "displayName": {
+        "text": "El Granada Hardware & Cafe",
+        "languageCode": "en"
+      },
+      "formattedAddress": "85 Ave Portola, El Granada, CA 94018",
+      "googleMapsUri": "https://www.google.com/maps/place/El+Granada+Hardware+%26+Cafe/@37.5021458,-122.4700203,16z/data=!4m15!1m8!3m7!1s0x808f73bd928e9679:0xfbf1cbb440d57cb0!2sEl+Granada+Hardware+%26+Cafe!8m2!3d37.5022741!4d-122.4702256!10e9!16s%2Fg%2F1tglz6jj!3m5!1s0x808f73bd928e9679:0xfbf1cbb440d57cb0!8m2!3d37.5022741!4d-122.4702256!16s%2Fg%2F1tglz6jj?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Breakfast",
+      "keywords": [
+        "sandwiches"
+      ],
+      "phone": "+16507363464"
     }
   ],
   "Moss Beach, CA": [
