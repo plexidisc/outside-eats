@@ -2337,7 +2337,8 @@ var PREBAKED_DATA_COAST = {
         "text": "The Press",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/el-granada/The Press Small.jpeg"
     },
     {
       "id": "ChIJoS87qR9zj4ARXQwu2hD9BCQ",
