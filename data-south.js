@@ -5217,22 +5217,6 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$"
     },
     {
-      "id": "manual_1778345644722",
-      "displayName": {
-        "text": "Shiok Singapore Kitchen",
-        "languageCode": "en"
-      },
-      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025",
-      "googleMapsUri": "https://www.google.com/maps/place/Shiok+Singapore+Kitchen/data=!4m2!3m1!1s0x0:0x88cb94b01013ba35?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://shiokkitchen.com/",
-      "location": {},
-      "cuisine": "Singaporean",
-      "menuUrl": "https://shiokkitchen.com/menu",
-      "phone": "+16506182327",
-      "hours": "Sat-Sun 5pm-8pm, Tue-Fri 11am-2:30pm, Tue-Fri 5pm-8pm",
-      "priceRange": "$$$"
-    },
-    {
       "id": "ChIJLylwScmlj4ARj_Cu5p52tuc",
       "formattedAddress": "1195 Merrill St, Menlo Park, CA 94025, USA",
       "location": {
