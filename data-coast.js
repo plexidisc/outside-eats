@@ -2353,7 +2353,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Breakwater Barbecue",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/el-granada/Breakwater Barbecue Small.jpeg"
     }
   ],
   "Moss Beach, CA": [
