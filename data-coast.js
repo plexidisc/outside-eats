@@ -815,21 +815,6 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/Sourdough & Co Small.jpeg"
     },
     {
-      "id": "ChIJb01BU2F6j4AR55DBng5jZ0E",
-      "formattedAddress": "230 Reina Del Mar Ave, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.613582,
-        "longitude": -122.486289
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4712844449510691047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Sun Valley Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Other"
-    },
-    {
       "id": "ChIJzbeUTZ16j4AR6JK8ibYeFFs",
       "formattedAddress": "1241 Linda Mar Shopping Center, Pacifica, CA 94044, USA",
       "location": {
