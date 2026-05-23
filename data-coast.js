@@ -1136,307 +1136,19 @@ var PREBAKED_DATA_COAST = {
   ],
   "Half Moon Bay, CA": [
     {
-      "id": "ChIJEe0lb7R0j4ARVBWtpy7ynsk",
-      "formattedAddress": "401 Main St, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJodBtvnhzj4ARbECmmgCQjVA",
+      "formattedAddress": "3048 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.464424,
-        "longitude": -122.42877499999999
+        "latitude": 37.4933415,
+        "longitude": -122.4536608
       },
-      "googleMapsUri": "https://maps.google.com/?cid=14528315730139354452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.itsitaliarestaurant.com/",
-      "displayName": {
-        "text": "It's Italia",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJyXg_RCZ2j4ARQQmO6L1u12o",
-      "formattedAddress": "315 Main St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4655616,
-        "longitude": -122.42871939999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7698743849942649153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.fattoriaemare.com/",
-      "displayName": {
-        "text": "Fattoria e Mare",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJ82zmjbR0j4ARcFHRkDc0AmI",
-      "formattedAddress": "845 Main St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.457834399999996,
-        "longitude": -122.42978109999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7062264578927841648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.pastamoon.com/",
-      "displayName": {
-        "text": "Pasta Moon",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJe9UJMMpzj4ARDtBiYMLVKYg",
-      "formattedAddress": "459 Prospect Way, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.505091799999995,
-        "longitude": -122.48677599999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9811608294020796430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.mezzalunabythesea.com/",
-      "displayName": {
-        "text": "Mezza Luna Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/Mezza Luna Small.jpeg"
-    },
-    {
-      "id": "ChIJiwqgaMx1j4ARvqzjVD0l6Iw",
-      "formattedAddress": "80 Cabrillo Hwy N U, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4701427,
-        "longitude": -122.43508419999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10153406305254223038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.hayashisushiorder.com/",
-      "displayName": {
-        "text": "Hayashi Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJCSJ2XrR0j4ARYI9JCLNUnkw",
-      "formattedAddress": "20 Stone Pine Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4666667,
-        "longitude": -122.42833329999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5520943321117724512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://shikihalfmoonbay.com/",
-      "displayName": {
-        "text": "Shiki Japanese Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJ4QZEkB1zj4ARPLKEbmlqzH4",
-      "formattedAddress": "2810 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4905228,
-        "longitude": -122.45165169999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9136794745086194236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://hangetsushi.com/",
-      "displayName": {
-        "text": "Hangetsu Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJfY_BorR0j4ARG2JivG_bpho",
-      "formattedAddress": "696 Mill St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4645955,
-        "longitude": -122.4294871
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1920463564068512283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sushionmainstreet.us/",
-      "displayName": {
-        "text": "Sushi On Main Street",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese"
-    },
-    {
-      "id": "ChIJpy18oxN1j4AR8TEf2rsqPlY",
-      "formattedAddress": "408 Main St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4643988,
-        "longitude": -122.4292691
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6214451522124591601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ciyahmb.com/",
-      "displayName": {
-        "text": "Ciya Mediterranean Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean"
-    },
-    {
-      "id": "ChIJVVXF2bdzj4AR7UEbnEZ2-bg",
-      "formattedAddress": "260 Capistrano Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.5042596,
-        "longitude": -122.4827676
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13328814617818513901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.lacostanerarestaurant.com/",
-      "displayName": {
-        "text": "La Costanera",
-        "languageCode": "en"
-      },
-      "cuisine": "Peruvian",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/La Costanera Small.jpeg"
-    },
-    {
-      "id": "ChIJpRCVS7N0j4AR_ZY6Wb-vBRM",
-      "formattedAddress": "515 Church St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.463213499999995,
-        "longitude": -122.43091159999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1370694897974810365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=5804453827019423852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Spanishtown Mexican Restaurant",
+        "text": "Asian Kings Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJC2BGmbR0j4ARDzFKggJ8v8E",
-      "formattedAddress": "356 Main St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4648228,
-        "longitude": -122.42936089999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13961013720089506063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://sanbenitohouse.com/cantina?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link",
-      "displayName": {
-        "text": "Cantina @ San Benito House",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJ752Ui7J0j4ARXqofunk8zYQ",
-      "formattedAddress": "250 Cabrillo Hwy S, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4648312,
-        "longitude": -122.4344823
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9569371276743518814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.cake.net/09001581",
-      "displayName": {
-        "text": "Taqueria La Gallina",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJN_rEtEwLj4ARLT7ovJ5gBBU",
-      "formattedAddress": "523 Church St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4629306,
-        "longitude": -122.43100279999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1514441609593765421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Cafe Capistrano",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJc2Nx_7N0j4ARL_yhkRuUICw",
-      "formattedAddress": "184 San Mateo Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4682078,
-        "longitude": -122.43135110000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3179704183051910191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "The Happy Taco Taqueria",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJHVM9JwBzj4ARez3sRfVa5H0",
-      "formattedAddress": "240 Capistrano Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.5045432,
-        "longitude": -122.4828805
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9071475558917619067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/lamasperuvianrestaurant?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
-      "displayName": {
-        "text": "Lamas Peruvian & Mexican Food Truck",
-        "languageCode": "es"
-      },
-      "cuisine": "Fusion"
-    },
-    {
-      "id": "ChIJ78muY7J0j4AREbZRVTD9GQM",
-      "formattedAddress": "270 Cabrillo Hwy S, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.464511,
-        "longitude": -122.43459999999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=223488040563226129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tresamigoshmb.com/",
-      "displayName": {
-        "text": "Taqueria Tres Amigos",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJicK45q90j4ARlahGO8O829Y",
-      "formattedAddress": "80 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.470088,
-        "longitude": -122.4358178
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15482175690715342997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.taquerialamordida.com/",
-      "displayName": {
-        "text": "Taqueria La Mordida",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJL-1Ogpdzj4ARvjMjfTEDHIE",
-      "formattedAddress": "280 Capistrano Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.5038735,
-        "longitude": -122.48410869999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9303314441328341950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://oceanohalfmoonbay.com/hotel/",
-      "displayName": {
-        "text": "Oceano Bar & Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/Oceano Bar & Grill Small.jpeg"
-    },
-    {
-      "id": "ChIJh7qu39xzj4ARw6NOKxN-_xg",
-      "formattedAddress": "3068 CA-1, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4937659,
-        "longitude": -122.45392249999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1801296996767540163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.thebarnhmb.com/",
-      "displayName": {
-        "text": "The Barn",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
+      "cuisine": "Chinese"
     },
     {
       "id": "ChIJFQfjHrZzj4ARfIzNuCQKVXQ",
@@ -1455,215 +1167,66 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/half-moon-bay/Barbaras Fishtrap Small.jpeg"
     },
     {
-      "id": "ChIJxRPWUbN0j4ARUvqbq5mVlzI",
-      "formattedAddress": "500 Purissima St, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJ8WR_Y0sLj4ARvAx7UDb_m5Q",
+      "formattedAddress": "151 Harvard Ave, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4635503,
-        "longitude": -122.43044979999999
+        "latitude": 37.5036908,
+        "longitude": -122.4932317
       },
-      "googleMapsUri": "https://maps.google.com/?cid=3645546910621366866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "googleMapsUri": "https://maps.google.com/?cid=10708433147747044540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://barterrawinery.com/",
+      "displayName": {
+        "text": "Barterra Winery",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Barterra Winery Small.jpeg"
+    },
+    {
+      "id": "ChIJN_rEtEwLj4ARLT7ovJ5gBBU",
+      "formattedAddress": "523 Church St, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4629306,
+        "longitude": -122.43100279999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1514441609593765421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "displayName": {
-        "text": "Spice Me Thai Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJy38ubZxzj4ARXB7x-1hGUNs",
-      "formattedAddress": "131 Mirada Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4956515,
-        "longitude": -122.46234109999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15803208440441019996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://miramarbeachrestaurant.com/",
-      "displayName": {
-        "text": "Miramar Beach Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
-    },
-    {
-      "id": "ChIJr7olTrN0j4ARMc0UgcsQf-k",
-      "formattedAddress": "500 Purissima St Ste B, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.46344210000001,
-        "longitude": -122.4303537
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16825185199109492017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "La Mexicana Placita Market",
-        "languageCode": "en"
-      },
-      "cuisine": "Mexican"
-    },
-    {
-      "id": "ChIJXZTbeIh1j4AR9dTCO_z_Iec",
-      "formattedAddress": "20 Stone Pine Rd Suite C, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.466622799999996,
-        "longitude": -122.42849759999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16654874355792270581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.toasttab.com/online/firewok-20-stone-pine-road",
-      "displayName": {
-        "text": "FireWok Chinese Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJodBtvnhzj4ARbECmmgCQjVA",
-      "formattedAddress": "3048 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4933415,
-        "longitude": -122.4536608
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5804453827019423852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Asian Kings Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Chinese"
-    },
-    {
-      "id": "ChIJH0x_LC11j4ARsuiTcZoEGsM",
-      "formattedAddress": "80 Cabrillo Hwy N ste n, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4702518,
-        "longitude": -122.4353726
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14058554248167418034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "What A Meals",
-        "languageCode": "en"
-      },
-      "cuisine": "Thai"
-    },
-    {
-      "id": "ChIJ9yrIZ7R0j4ARFbQCh95auVU",
-      "formattedAddress": "20 Stone Pine Rd STE B, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4666658,
-        "longitude": -122.4284097
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6177068275709686805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.monsoonhimalayancuisine.com/",
-      "displayName": {
-        "text": "Monsoon Himalayan Cuisine",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJG-483rhzj4AREAJ2cknHaPg",
-      "formattedAddress": "425 Ave Alhambra, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.504214100000006,
-        "longitude": -122.47639170000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17899775837250912784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://indiabeachsf.com/",
-      "displayName": {
-        "text": "India Beach",
-        "languageCode": "en"
-      },
-      "cuisine": "Indian"
-    },
-    {
-      "id": "ChIJhWejV0ALj4ARutdDBk4xri4",
-      "formattedAddress": "547 Main St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4627167,
-        "longitude": -122.4291286
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3363680182874658746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.johnnyshmb.com/",
-      "displayName": {
-        "text": "Johnny’s Half Moon Bay",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJXwEKiclzj4ARdV-veCZaTPk",
-      "formattedAddress": "460 Capistrano Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.5049584,
-        "longitude": -122.48612980000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17963832134954082165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://oplhmb.com/?y_source=1_MzA4MjM3MjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "displayName": {
-        "text": "Old Princeton Landing Public House and Grill",
-        "languageCode": "en"
-      },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/Old Princeton Landing Small.jpeg"
-    },
-    {
-      "id": "ChIJoRaDWnILj4ARRRF4LqsDgUs",
-      "formattedAddress": "2380 Cabrillo Hwy S, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.433500699999996,
-        "longitude": -122.4275027
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5440633858594181445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.halfmoonbayjoes.com/",
-      "displayName": {
-        "text": "Half Moon Bay Joe's",
+        "text": "Cafe Capistrano",
         "languageCode": "en"
       },
       "cuisine": "American"
     },
     {
-      "id": "ChIJEdRhW7R0j4AR5Rx4IjO0sds",
-      "formattedAddress": "40 Stone Pine Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJb5VzVEsLj4ARExxCDFqkZoc",
+      "formattedAddress": "522 Main St, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.466450099999996,
-        "longitude": -122.4277846
+        "latitude": 37.4632344,
+        "longitude": -122.429532
       },
-      "googleMapsUri": "https://maps.google.com/?cid=15830632296898632933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://jerseyjoescoastside.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=9756666349404429331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cafesocietyhmb.com/",
       "displayName": {
-        "text": "Jersey Joe's Coastside",
+        "text": "Cafe Society",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJ22VUSwBzj4ARQ6XmNxg7-bU",
-      "formattedAddress": "17 Johnson Pier, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJ4b5LO8hzj4ARlxO_cFFKyrY",
+      "formattedAddress": "240 Capistrano Rd, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.503561499999996,
-        "longitude": -122.48236600000001
+        "latitude": 37.504540999999996,
+        "longitude": -122.48287599999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=13112576765269026115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ketchhmb.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13171421773842813847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mezzalunabythesea.com/caffe-mezzaluna",
       "displayName": {
-        "text": "Ketch Half Moon Bay",
+        "text": "Caffé Mezza Luna",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
-    },
-    {
-      "id": "ChIJd898_7J0j4ARX5hTjbDciT4",
-      "formattedAddress": "225 Cabrillo Highway South at, Kelly Ave, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4658708,
-        "longitude": -122.4334796
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4506375553004312671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.dadsluncheonette.com/",
-      "displayName": {
-        "text": "Dad's Luncheonette",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Caffe Mezzaluna Small.jpeg"
     },
     {
       "id": "ChIJiWN7JkQLj4ARfe0bzQO7OOM",
@@ -1681,81 +1244,34 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "American"
     },
     {
-      "id": "ChIJ-6ij5Mlzj4ARp7tIMj62nxA",
-      "formattedAddress": "390 Capistrano Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJC2BGmbR0j4ARDzFKggJ8v8E",
+      "formattedAddress": "356 Main St, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.5040885,
-        "longitude": -122.48555899999998
+        "latitude": 37.4648228,
+        "longitude": -122.42936089999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=1197876404151696295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hmbbrewingco.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13961013720089506063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sanbenitohouse.com/cantina?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link",
       "displayName": {
-        "text": "Half Moon Bay Brewing Company",
+        "text": "Cantina @ San Benito House",
         "languageCode": "en"
       },
-      "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/Half Moon Bay Brewing Co Small.jpeg"
+      "cuisine": "Mexican"
     },
     {
-      "id": "ChIJ6w9WhmMLj4ARy1YE_91UeWQ",
-      "formattedAddress": "1 Miramontes Point Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJpy18oxN1j4AR8TEf2rsqPlY",
+      "formattedAddress": "408 Main St, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4337885,
-        "longitude": -122.44167039999999
+        "latitude": 37.4643988,
+        "longitude": -122.4292691
       },
-      "googleMapsUri": "https://maps.google.com/?cid=7239911188417763019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ritzcarlton.com/en/hotels/hafrz-the-ritz-carlton-half-moon-bay/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+      "googleMapsUri": "https://maps.google.com/?cid=6214451522124591601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ciyahmb.com/",
       "displayName": {
-        "text": "The Conservatory",
+        "text": "Ciya Mediterranean Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJy48wjYdzj4ARzRaL2nOs3vM",
-      "formattedAddress": "9850 Cabrillo Hwy, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.5141069,
-        "longitude": -122.49512580000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17572672409634019021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://pilotlightcafe.com/",
-      "displayName": {
-        "text": "Pilot Light",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/Pilot Light Small.jpeg"
-    },
-    {
-      "id": "ChIJqZ-ESLlzj4ARakRsWhcYPyc",
-      "formattedAddress": "4210 CA-1, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.50252150000001,
-        "longitude": -122.47586720000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2828005579592320106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.samschowderhouse.com/",
-      "displayName": {
-        "text": "Sam's Chowder House",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
-    },
-    {
-      "id": "ChIJSaP7YGQLj4ARodevnRJdph8",
-      "formattedAddress": "2 Miramontes Point Rd #2, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.434881,
-        "longitude": -122.4401938
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2280612595846076321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.mullinssteakhouse.com/",
-      "displayName": {
-        "text": "Mullins Steakhouse",
-        "languageCode": "en"
-      },
-      "cuisine": "Steakhouse"
+      "cuisine": "Greek/Mediterranean"
     },
     {
       "id": "ChIJz9sHs4x1j4ARIFEonLS3NVY",
@@ -1773,31 +1289,31 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "Greek/Mediterranean"
     },
     {
-      "id": "ChIJLWd6A7R0j4ARTm6zDRzm3Uw",
-      "formattedAddress": "211 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJxzbeq7R0j4ARho1-zXRImc8",
+      "formattedAddress": "448 Main St, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.467892899999995,
-        "longitude": -122.42916179999999
+        "latitude": 37.4637992,
+        "longitude": -122.4294383
       },
-      "googleMapsUri": "https://maps.google.com/?cid=5538836124898913870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.flyingfishgrill.net/",
+      "googleMapsUri": "https://maps.google.com/?cid=14959067303788842374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://cunhacountry.store/",
       "displayName": {
-        "text": "Flying Fish & Grill",
+        "text": "Cunha's Country Store & Deli",
         "languageCode": "en"
       },
-      "cuisine": "Seafood"
+      "cuisine": "American"
     },
     {
-      "id": "ChIJa20ih2MLj4ARxpEI4qkvwZI",
-      "formattedAddress": "1 Miramontes Point Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJd898_7J0j4ARX5hTjbDciT4",
+      "formattedAddress": "225 Cabrillo Highway South at, Kelly Ave, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4338455,
-        "longitude": -122.4414431
+        "latitude": 37.4658708,
+        "longitude": -122.4334796
       },
-      "googleMapsUri": "https://maps.google.com/?cid=10574785806730826182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ritzcarlton.com/en/hotels/hafrz-the-ritz-carlton-half-moon-bay/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+      "googleMapsUri": "https://maps.google.com/?cid=4506375553004312671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.dadsluncheonette.com/",
       "displayName": {
-        "text": "Navio",
+        "text": "Dad's Luncheonette",
         "languageCode": "en"
       },
       "cuisine": "American"
@@ -1818,49 +1334,155 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "Spanish"
     },
     {
-      "id": "ChIJa20ih2MLj4ARRoS_4KCihlI",
-      "formattedAddress": "1 Miramontes Point Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJyXg_RCZ2j4ARQQmO6L1u12o",
+      "formattedAddress": "315 Main St, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4336705,
-        "longitude": -122.441689
+        "latitude": 37.4655616,
+        "longitude": -122.42871939999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=5946619169838433350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ritzcarlton.com/en/hotels/california/half-moon-bay/dining/the-ocean-terrace",
+      "googleMapsUri": "https://maps.google.com/?cid=7698743849942649153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.fattoriaemare.com/",
       "displayName": {
-        "text": "The Ocean Terrace",
+        "text": "Fattoria e Mare",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJXZTbeIh1j4AR9dTCO_z_Iec",
+      "formattedAddress": "20 Stone Pine Rd Suite C, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.466622799999996,
+        "longitude": -122.42849759999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16654874355792270581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.toasttab.com/online/firewok-20-stone-pine-road",
+      "displayName": {
+        "text": "FireWok Chinese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "ChIJLWd6A7R0j4ARTm6zDRzm3Uw",
+      "formattedAddress": "211 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.467892899999995,
+        "longitude": -122.42916179999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5538836124898913870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.flyingfishgrill.net/",
+      "displayName": {
+        "text": "Flying Fish & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood"
+    },
+    {
+      "id": "ChIJbzLDJEd1j4ARlZDrYTFZ80Q",
+      "formattedAddress": "328 Main St #101, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.465319,
+        "longitude": -122.42951599999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4968412882550886549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Full Hearts Arcade and Eats",
         "languageCode": "en"
       },
       "cuisine": "American"
     },
     {
-      "id": "ChIJ1fXfm5R1j4ARHakjU5dQpi8",
-      "formattedAddress": "101 Main St A, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJAStwBrB0j4ARLK3hhFTwy0k",
+      "formattedAddress": "116 CA-1, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4696652,
-        "longitude": -122.43143870000002
+        "latitude": 37.471161099999996,
+        "longitude": -122.4347722
       },
-      "googleMapsUri": "https://maps.google.com/?cid=3433520376781711645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://northbeachpizza.com/northbeachpizzaexpresshmb?utm_source=google",
+      "googleMapsUri": "https://maps.google.com/?cid=5317608030838304044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.granolascoffeehouse.com/",
       "displayName": {
-        "text": "North Beach Pizza Express",
+        "text": "Granola's Coffee House",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJkRplZrR0j4ARYMRYVzCK0EU",
-      "formattedAddress": "20 Stone Pine Rd Suite D, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJ-6ij5Mlzj4ARp7tIMj62nxA",
+      "formattedAddress": "390 Capistrano Rd, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4666658,
-        "longitude": -122.4284097
+        "latitude": 37.5040885,
+        "longitude": -122.48555899999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=5030672724001342560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.verrazzanopizzamenu.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1197876404151696295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hmbbrewingco.com/",
       "displayName": {
-        "text": "Verrazzano Pizza",
+        "text": "Half Moon Bay Brewing Company",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Half Moon Bay Brewing Co Small.jpeg"
+    },
+    {
+      "id": "ChIJCSJ2XrR0j4ARbigQrG_pgqw",
+      "formattedAddress": "20 Stone Pine Rd a, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4665682,
+        "longitude": -122.42874739999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12430754587333372014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hmbcoffeeco.com/",
+      "displayName": {
+        "text": "Half Moon Bay Coffee Co",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJoRaDWnILj4ARRRF4LqsDgUs",
+      "formattedAddress": "2380 Cabrillo Hwy S, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.433500699999996,
+        "longitude": -122.4275027
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5440633858594181445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.halfmoonbayjoes.com/",
+      "displayName": {
+        "text": "Half Moon Bay Joe's",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJecBLrrR0j4ARPmBOfJ2qm4Y",
+      "formattedAddress": "421 Main St, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4641667,
+        "longitude": -122.4288889
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9699533815844593726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hmbwineandcheese.com/",
+      "displayName": {
+        "text": "Half Moon Bay Wine & Cheese",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar"
+    },
+    {
+      "id": "ChIJ4QZEkB1zj4ARPLKEbmlqzH4",
+      "formattedAddress": "2810 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4905228,
+        "longitude": -122.45165169999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9136794745086194236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hangetsushi.com/",
+      "displayName": {
+        "text": "Hangetsu Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
     },
     {
       "id": "ChIJ9aiv_sdzj4ARLXcP46yWpqM",
@@ -1879,172 +1501,19 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/half-moon-bay/Harbor Pizza Small.jpeg"
     },
     {
-      "id": "ChIJ-S_7ZrF0j4ARkuPZq9ouLGA",
-      "formattedAddress": "186 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJiwqgaMx1j4ARvqzjVD0l6Iw",
+      "formattedAddress": "80 Cabrillo Hwy N U, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.46816630000001,
-        "longitude": -122.43132779999998
+        "latitude": 37.4701427,
+        "longitude": -122.43508419999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=6929965443337282450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.strawhatpizza.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=10153406305254223038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.hayashisushiorder.com/",
       "displayName": {
-        "text": "Straw Hat Pizza",
+        "text": "Hayashi Sushi",
         "languageCode": "en"
       },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJA6AnNrB0j4ARjosEoXcdlpE",
-      "formattedAddress": "50 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4692052,
-        "longitude": -122.4341328
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10490604781645892494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
-      "displayName": {
-        "text": "Round Table Pizza",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
-      "id": "ChIJ4b5LO8hzj4ARlxO_cFFKyrY",
-      "formattedAddress": "240 Capistrano Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.504540999999996,
-        "longitude": -122.48287599999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13171421773842813847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.mezzalunabythesea.com/caffe-mezzaluna",
-      "displayName": {
-        "text": "Caffé Mezza Luna",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/Caffe Mezzaluna Small.jpeg"
-    },
-    {
-      "id": "ChIJVVUVX0sLj4ARCiA-F5V50ng",
-      "formattedAddress": "604 Main St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.462553299999996,
-        "longitude": -122.4298592
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8706154710907625482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://lapiazzahalfmoonbay.com/",
-      "displayName": {
-        "text": "La Piazza",
-        "languageCode": "en"
-      },
-      "cuisine": "Italian"
-    },
-    {
-      "id": "ChIJbfk8CLF0j4AR7UOIhxI-HsI",
-      "formattedAddress": "146 San Mateo Rd, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4689179,
-        "longitude": -122.43251979999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13987685741963527149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://maverickscreperie.com/",
-      "displayName": {
-        "text": "Mavericks Crepe Cafe",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJYzeWOQR1j4ARkcjhKH8fQ74",
-      "formattedAddress": "80 Cabrillo Hwy N Ste M, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.470220399999995,
-        "longitude": -122.43549669999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13709836321653115025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.phobanhmijuice.com/",
-      "displayName": {
-        "text": "Pho Banh Mi & Juice",
-        "languageCode": "en"
-      },
-      "cuisine": "Vietnamese"
-    },
-    {
-      "id": "ChIJ8WR_Y0sLj4ARvAx7UDb_m5Q",
-      "formattedAddress": "151 Harvard Ave, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.5036908,
-        "longitude": -122.4932317
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10708433147747044540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://barterrawinery.com/",
-      "displayName": {
-        "text": "Barterra Winery",
-        "languageCode": "en"
-      },
-      "cuisine": "Wine Bar",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/Barterra Winery Small.jpeg"
-    },
-    {
-      "id": "ChIJ5auJ8uF1j4ARBAc5BS1pfs0",
-      "formattedAddress": "50 Cabrillo Hwy N B-2, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4694883,
-        "longitude": -122.4339167
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14807388266922837764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.ilovetastecafe.com/",
-      "displayName": {
-        "text": "Taste Cafe Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Breakfast"
-    },
-    {
-      "id": "ChIJCSJ2XrR0j4ARbigQrG_pgqw",
-      "formattedAddress": "20 Stone Pine Rd a, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4665682,
-        "longitude": -122.42874739999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12430754587333372014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hmbcoffeeco.com/",
-      "displayName": {
-        "text": "Half Moon Bay Coffee Co",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery"
-    },
-    {
-      "id": "ChIJbzLDJEd1j4ARlZDrYTFZ80Q",
-      "formattedAddress": "328 Main St #101, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.465319,
-        "longitude": -122.42951599999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4968412882550886549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Full Hearts Arcade and Eats",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJszV9Knlzj4AR_kEyqdckQi0",
-      "formattedAddress": "155 Broadway, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.504549499999996,
-        "longitude": -122.48789099999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=3261209588844872190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.jettywave.com/",
-      "displayName": {
-        "text": "The Swell Lounge @ Jettywave Distillery",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "photoUrl": "images/restaurant-photos/half-moon-bay/The Swell Lounge & Jettywave Small.jpeg"
+      "cuisine": "Japanese"
     },
     {
       "id": "ChIJ9RNKir1zj4AR04S9NhTbBng",
@@ -2063,34 +1532,216 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/half-moon-bay/Hop Dogma Small.jpeg"
     },
     {
-      "id": "ChIJiadcUrF0j4ARSEaUheU9YCA",
-      "formattedAddress": "210 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJG-483rhzj4AREAJ2cknHaPg",
+      "formattedAddress": "425 Ave Alhambra, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.468551999999995,
-        "longitude": -122.430066
+        "latitude": 37.504214100000006,
+        "longitude": -122.47639170000001
       },
-      "googleMapsUri": "https://maps.google.com/?cid=2332932662975809096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://samscafehmb.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17899775837250912784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://indiabeachsf.com/",
       "displayName": {
-        "text": "Sam's Cafe",
+        "text": "India Beach",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
+    },
+    {
+      "id": "ChIJEe0lb7R0j4ARVBWtpy7ynsk",
+      "formattedAddress": "401 Main St, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.464424,
+        "longitude": -122.42877499999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14528315730139354452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.itsitaliarestaurant.com/",
+      "displayName": {
+        "text": "It's Italia",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJEdRhW7R0j4AR5Rx4IjO0sds",
+      "formattedAddress": "40 Stone Pine Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.466450099999996,
+        "longitude": -122.4277846
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15830632296898632933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://jerseyjoescoastside.com/",
+      "displayName": {
+        "text": "Jersey Joe's Coastside",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJhWejV0ALj4ARutdDBk4xri4",
+      "formattedAddress": "547 Main St, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4627167,
+        "longitude": -122.4291286
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3363680182874658746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.johnnyshmb.com/",
+      "displayName": {
+        "text": "Johnny’s Half Moon Bay",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJ22VUSwBzj4ARQ6XmNxg7-bU",
+      "formattedAddress": "17 Johnson Pier, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.503561499999996,
+        "longitude": -122.48236600000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13112576765269026115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ketchhmb.com/",
+      "displayName": {
+        "text": "Ketch Half Moon Bay",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood"
+    },
+    {
+      "id": "ChIJVVXF2bdzj4AR7UEbnEZ2-bg",
+      "formattedAddress": "260 Capistrano Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.5042596,
+        "longitude": -122.4827676
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13328814617818513901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lacostanerarestaurant.com/",
+      "displayName": {
+        "text": "La Costanera",
+        "languageCode": "en"
+      },
+      "cuisine": "Peruvian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/La Costanera Small.jpeg"
+    },
+    {
+      "id": "ChIJr7olTrN0j4ARMc0UgcsQf-k",
+      "formattedAddress": "500 Purissima St Ste B, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.46344210000001,
+        "longitude": -122.4303537
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16825185199109492017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "La Mexicana Placita Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJ7_djYNd0j4ARVBKeDSCFkUc",
+      "formattedAddress": "12341 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.480052,
+        "longitude": -122.40605999999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5157049421029839444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.lanebbiawinery.com/",
+      "displayName": {
+        "text": "La Nebbia Winery",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar"
+    },
+    {
+      "id": "ChIJVVUVX0sLj4ARCiA-F5V50ng",
+      "formattedAddress": "604 Main St, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.462553299999996,
+        "longitude": -122.4298592
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8706154710907625482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lapiazzahalfmoonbay.com/",
+      "displayName": {
+        "text": "La Piazza",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJHVM9JwBzj4ARez3sRfVa5H0",
+      "formattedAddress": "240 Capistrano Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.5045432,
+        "longitude": -122.4828805
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9071475558917619067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/lamasperuvianrestaurant?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
+      "displayName": {
+        "text": "Lamas Peruvian & Mexican Food Truck",
+        "languageCode": "es"
+      },
+      "cuisine": "Fusion"
+    },
+    {
+      "id": "ChIJbfk8CLF0j4AR7UOIhxI-HsI",
+      "formattedAddress": "146 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4689179,
+        "longitude": -122.43251979999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13987685741963527149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://maverickscreperie.com/",
+      "displayName": {
+        "text": "Mavericks Crepe Cafe",
         "languageCode": "en"
       },
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJb5VzVEsLj4ARExxCDFqkZoc",
-      "formattedAddress": "522 Main St, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJe9UJMMpzj4ARDtBiYMLVKYg",
+      "formattedAddress": "459 Prospect Way, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4632344,
-        "longitude": -122.429532
+        "latitude": 37.505091799999995,
+        "longitude": -122.48677599999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=9756666349404429331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://cafesocietyhmb.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=9811608294020796430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mezzalunabythesea.com/",
       "displayName": {
-        "text": "Cafe Society",
+        "text": "Mezza Luna Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Mezza Luna Small.jpeg"
+    },
+    {
+      "id": "ChIJy38ubZxzj4ARXB7x-1hGUNs",
+      "formattedAddress": "131 Mirada Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4956515,
+        "longitude": -122.46234109999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15803208440441019996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://miramarbeachrestaurant.com/",
+      "displayName": {
+        "text": "Miramar Beach Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood"
+    },
+    {
+      "id": "ChIJ9yrIZ7R0j4ARFbQCh95auVU",
+      "formattedAddress": "20 Stone Pine Rd STE B, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4666658,
+        "longitude": -122.4284097
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6177068275709686805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.monsoonhimalayancuisine.com/",
+      "displayName": {
+        "text": "Monsoon Himalayan Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian"
     },
     {
       "id": "ChIJZXQup0wLj4ARZNw6CtDdJU0",
@@ -2108,19 +1759,157 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJAStwBrB0j4ARLK3hhFTwy0k",
-      "formattedAddress": "116 CA-1, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJSaP7YGQLj4ARodevnRJdph8",
+      "formattedAddress": "2 Miramontes Point Rd #2, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.471161099999996,
-        "longitude": -122.4347722
+        "latitude": 37.434881,
+        "longitude": -122.4401938
       },
-      "googleMapsUri": "https://maps.google.com/?cid=5317608030838304044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.granolascoffeehouse.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2280612595846076321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mullinssteakhouse.com/",
       "displayName": {
-        "text": "Granola's Coffee House",
+        "text": "Mullins Steakhouse",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Steakhouse"
+    },
+    {
+      "id": "ChIJRcZsUUsLj4ARREDaPVlswZU",
+      "formattedAddress": "523 Main St, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4631563,
+        "longitude": -122.42909239999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10791025312702021700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nanosohanacafe.com/",
+      "displayName": {
+        "text": "Nano's",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ"
+    },
+    {
+      "id": "ChIJa20ih2MLj4ARxpEI4qkvwZI",
+      "formattedAddress": "1 Miramontes Point Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4338455,
+        "longitude": -122.4414431
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10574785806730826182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ritzcarlton.com/en/hotels/hafrz-the-ritz-carlton-half-moon-bay/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+      "displayName": {
+        "text": "Navio",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJVR5Xc7F0j4ARJOQK38hLCfI",
+      "formattedAddress": "150 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.468879699999995,
+        "longitude": -122.43218939999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17440554358076531748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.newleaf.com/",
+      "displayName": {
+        "text": "New Leaf Community Markets - Half Moon Bay",
+        "languageCode": "en"
+      },
+      "cuisine": "Other"
+    },
+    {
+      "id": "ChIJ1fXfm5R1j4ARHakjU5dQpi8",
+      "formattedAddress": "101 Main St A, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4696652,
+        "longitude": -122.43143870000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3433520376781711645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://northbeachpizza.com/northbeachpizzaexpresshmb?utm_source=google",
+      "displayName": {
+        "text": "North Beach Pizza Express",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJL-1Ogpdzj4ARvjMjfTEDHIE",
+      "formattedAddress": "280 Capistrano Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.5038735,
+        "longitude": -122.48410869999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9303314441328341950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://oceanohalfmoonbay.com/hotel/",
+      "displayName": {
+        "text": "Oceano Bar & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Oceano Bar & Grill Small.jpeg"
+    },
+    {
+      "id": "ChIJXwEKiclzj4ARdV-veCZaTPk",
+      "formattedAddress": "460 Capistrano Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.5049584,
+        "longitude": -122.48612980000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17963832134954082165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://oplhmb.com/?y_source=1_MzA4MjM3MjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Old Princeton Landing Public House and Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Old Princeton Landing Small.jpeg"
+    },
+    {
+      "id": "ChIJ82zmjbR0j4ARcFHRkDc0AmI",
+      "formattedAddress": "845 Main St, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.457834399999996,
+        "longitude": -122.42978109999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7062264578927841648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.pastamoon.com/",
+      "displayName": {
+        "text": "Pasta Moon",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian"
+    },
+    {
+      "id": "ChIJYzeWOQR1j4ARkcjhKH8fQ74",
+      "formattedAddress": "80 Cabrillo Hwy N Ste M, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.470220399999995,
+        "longitude": -122.43549669999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13709836321653115025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.phobanhmijuice.com/",
+      "displayName": {
+        "text": "Pho Banh Mi & Juice",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese"
+    },
+    {
+      "id": "ChIJy48wjYdzj4ARzRaL2nOs3vM",
+      "formattedAddress": "9850 Cabrillo Hwy, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.5141069,
+        "longitude": -122.49512580000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17572672409634019021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pilotlightcafe.com/",
+      "displayName": {
+        "text": "Pilot Light",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/Pilot Light Small.jpeg"
     },
     {
       "id": "ChIJdbV0VQB1j4ARU26AkKu5ico",
@@ -2153,19 +1942,49 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "Cafe/Bakery"
     },
     {
-      "id": "ChIJRcZsUUsLj4ARREDaPVlswZU",
-      "formattedAddress": "523 Main St, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJA6AnNrB0j4ARjosEoXcdlpE",
+      "formattedAddress": "50 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4631563,
-        "longitude": -122.42909239999999
+        "latitude": 37.4692052,
+        "longitude": -122.4341328
       },
-      "googleMapsUri": "https://maps.google.com/?cid=10791025312702021700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://nanosohanacafe.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=10490604781645892494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
       "displayName": {
-        "text": "Nano's",
+        "text": "Round Table Pizza",
         "languageCode": "en"
       },
-      "cuisine": "BBQ"
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJiadcUrF0j4ARSEaUheU9YCA",
+      "formattedAddress": "210 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.468551999999995,
+        "longitude": -122.430066
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2332932662975809096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://samscafehmb.com/",
+      "displayName": {
+        "text": "Sam's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery"
+    },
+    {
+      "id": "ChIJqZ-ESLlzj4ARakRsWhcYPyc",
+      "formattedAddress": "4210 CA-1, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.50252150000001,
+        "longitude": -122.47586720000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2828005579592320106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.samschowderhouse.com/",
+      "displayName": {
+        "text": "Sam's Chowder House",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood"
     },
     {
       "id": "ChIJMxIvmbR0j4ARPipJOoAFR_s",
@@ -2183,34 +2002,19 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "American"
     },
     {
-      "id": "ChIJUzYwajJ1j4ARWfmpPCPHcpc",
-      "formattedAddress": "328 Main St, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJCSJ2XrR0j4ARYI9JCLNUnkw",
+      "formattedAddress": "20 Stone Pine Rd, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4651637,
-        "longitude": -122.42915749999999
+        "latitude": 37.4666667,
+        "longitude": -122.42833329999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=10913003801227688281&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.keithschickennwaffles.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=5520943321117724512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://shikihalfmoonbay.com/",
       "displayName": {
-        "text": "Keith's Chicken N Waffles in Half Moon Bay",
+        "text": "Shiki Japanese Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "American"
-    },
-    {
-      "id": "ChIJxzbeq7R0j4ARho1-zXRImc8",
-      "formattedAddress": "448 Main St, Half Moon Bay, CA 94019, USA",
-      "location": {
-        "latitude": 37.4637992,
-        "longitude": -122.4294383
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14959067303788842374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://cunhacountry.store/",
-      "displayName": {
-        "text": "Cunha's Country Store & Deli",
-        "languageCode": "en"
-      },
-      "cuisine": "American"
+      "cuisine": "Japanese"
     },
     {
       "id": "ChIJncPA77hzj4ARu0ShRYURkUk",
@@ -2228,49 +2032,230 @@ var PREBAKED_DATA_COAST = {
       "cuisine": "Other"
     },
     {
-      "id": "ChIJVR5Xc7F0j4ARJOQK38hLCfI",
-      "formattedAddress": "150 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJpRCVS7N0j4AR_ZY6Wb-vBRM",
+      "formattedAddress": "515 Church St, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.468879699999995,
-        "longitude": -122.43218939999998
+        "latitude": 37.463213499999995,
+        "longitude": -122.43091159999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=17440554358076531748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.newleaf.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1370694897974810365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "New Leaf Community Markets - Half Moon Bay",
+        "text": "Spanishtown Mexican Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Other"
+      "cuisine": "Mexican"
     },
     {
-      "id": "ChIJecBLrrR0j4ARPmBOfJ2qm4Y",
-      "formattedAddress": "421 Main St, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJxRPWUbN0j4ARUvqbq5mVlzI",
+      "formattedAddress": "500 Purissima St, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.4641667,
-        "longitude": -122.4288889
+        "latitude": 37.4635503,
+        "longitude": -122.43044979999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=9699533815844593726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hmbwineandcheese.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=3645546910621366866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
       "displayName": {
-        "text": "Half Moon Bay Wine & Cheese",
+        "text": "Spice Me Thai Cuisine",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Thai"
     },
     {
-      "id": "ChIJ7_djYNd0j4ARVBKeDSCFkUc",
-      "formattedAddress": "12341 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "id": "ChIJ-S_7ZrF0j4ARkuPZq9ouLGA",
+      "formattedAddress": "186 San Mateo Rd, Half Moon Bay, CA 94019, USA",
       "location": {
-        "latitude": 37.480052,
-        "longitude": -122.40605999999998
+        "latitude": 37.46816630000001,
+        "longitude": -122.43132779999998
       },
-      "googleMapsUri": "https://maps.google.com/?cid=5157049421029839444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.lanebbiawinery.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=6929965443337282450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.strawhatpizza.com/",
       "displayName": {
-        "text": "La Nebbia Winery",
+        "text": "Straw Hat Pizza",
         "languageCode": "en"
       },
-      "cuisine": "Wine Bar"
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJfY_BorR0j4ARG2JivG_bpho",
+      "formattedAddress": "696 Mill St, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4645955,
+        "longitude": -122.4294871
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1920463564068512283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sushionmainstreet.us/",
+      "displayName": {
+        "text": "Sushi On Main Street",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "ChIJ752Ui7J0j4ARXqofunk8zYQ",
+      "formattedAddress": "250 Cabrillo Hwy S, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4648312,
+        "longitude": -122.4344823
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9569371276743518814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.cake.net/09001581",
+      "displayName": {
+        "text": "Taqueria La Gallina",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJicK45q90j4ARlahGO8O829Y",
+      "formattedAddress": "80 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.470088,
+        "longitude": -122.4358178
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15482175690715342997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.taquerialamordida.com/",
+      "displayName": {
+        "text": "Taqueria La Mordida",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJ78muY7J0j4AREbZRVTD9GQM",
+      "formattedAddress": "270 Cabrillo Hwy S, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.464511,
+        "longitude": -122.43459999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=223488040563226129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tresamigoshmb.com/",
+      "displayName": {
+        "text": "Taqueria Tres Amigos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJ5auJ8uF1j4ARBAc5BS1pfs0",
+      "formattedAddress": "50 Cabrillo Hwy N B-2, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4694883,
+        "longitude": -122.4339167
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14807388266922837764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ilovetastecafe.com/",
+      "displayName": {
+        "text": "Taste Cafe Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast"
+    },
+    {
+      "id": "ChIJh7qu39xzj4ARw6NOKxN-_xg",
+      "formattedAddress": "3068 CA-1, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4937659,
+        "longitude": -122.45392249999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1801296996767540163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thebarnhmb.com/",
+      "displayName": {
+        "text": "The Barn",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJ6w9WhmMLj4ARy1YE_91UeWQ",
+      "formattedAddress": "1 Miramontes Point Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4337885,
+        "longitude": -122.44167039999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7239911188417763019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ritzcarlton.com/en/hotels/hafrz-the-ritz-carlton-half-moon-bay/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+      "displayName": {
+        "text": "The Conservatory",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJc2Nx_7N0j4ARL_yhkRuUICw",
+      "formattedAddress": "184 San Mateo Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4682078,
+        "longitude": -122.43135110000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3179704183051910191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "The Happy Taco Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican"
+    },
+    {
+      "id": "ChIJa20ih2MLj4ARRoS_4KCihlI",
+      "formattedAddress": "1 Miramontes Point Rd, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4336705,
+        "longitude": -122.441689
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5946619169838433350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.ritzcarlton.com/en/hotels/california/half-moon-bay/dining/the-ocean-terrace",
+      "displayName": {
+        "text": "The Ocean Terrace",
+        "languageCode": "en"
+      },
+      "cuisine": "American"
+    },
+    {
+      "id": "ChIJszV9Knlzj4AR_kEyqdckQi0",
+      "formattedAddress": "155 Broadway, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.504549499999996,
+        "longitude": -122.48789099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3261209588844872190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.jettywave.com/",
+      "displayName": {
+        "text": "The Swell Lounge @ Jettywave Distillery",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/half-moon-bay/The Swell Lounge & Jettywave Small.jpeg"
+    },
+    {
+      "id": "ChIJkRplZrR0j4ARYMRYVzCK0EU",
+      "formattedAddress": "20 Stone Pine Rd Suite D, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4666658,
+        "longitude": -122.4284097
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5030672724001342560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.verrazzanopizzamenu.com/",
+      "displayName": {
+        "text": "Verrazzano Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza"
+    },
+    {
+      "id": "ChIJH0x_LC11j4ARsuiTcZoEGsM",
+      "formattedAddress": "80 Cabrillo Hwy N ste n, Half Moon Bay, CA 94019, USA",
+      "location": {
+        "latitude": 37.4702518,
+        "longitude": -122.4353726
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14058554248167418034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "What A Meals",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai"
     }
   ],
   "El Granada, CA": [
