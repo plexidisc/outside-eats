@@ -591,21 +591,6 @@ var PREBAKED_DATA_COAST = {
       "photoUrl": "images/restaurant-photos/pacifica/P town Coffee Small.jpeg"
     },
     {
-      "id": "ChIJbTHmAgBxj4ARnSQkHHTKQlI",
-      "formattedAddress": "7 Banff Way, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.5896775,
-        "longitude": -122.46630249999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5927522659610141853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.ptownpieguy.com/",
-      "displayName": {
-        "text": "P-Town Pie Guy",
-        "languageCode": "en"
-      },
-      "cuisine": "Pizza"
-    },
-    {
       "id": "ChIJvcBuZIl6j4ARVtO21dZiDzY",
       "formattedAddress": "3258, 450 Dondee Way # 6, Pacifica, CA 94044, USA",
       "location": {
