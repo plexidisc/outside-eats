@@ -2369,7 +2369,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Sage Bakehouse",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery"
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/montara/Sage Bakehouse Small.jpeg"
     },
     {
       "id": "ChIJ020qvWdxj4ARDiRZsQeIzFE",
@@ -2384,7 +2385,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Taqueria El Timon",
         "languageCode": "en"
       },
-      "cuisine": "Mexican"
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/montara/Taqueria el Timon Small.jpeg"
     },
     {
       "id": "ChIJLdyhDshxj4ARs_nnyNFr4SM",
@@ -2399,7 +2401,8 @@ var PREBAKED_DATA_COAST = {
         "text": "Gherkin's Sandwich Shop",
         "languageCode": "en"
       },
-      "cuisine": "American"
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/montara/Gherkins Sandwich Shop Small.jpeg"
     }
   ],
   "Woodside, CA": [
