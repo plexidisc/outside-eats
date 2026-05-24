@@ -10521,24 +10521,22 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJU1-3rRajj4ARoy2qvBDSLV0",
-      "formattedAddress": "1221 San Carlos Ave a, San Carlos, CA 94070, USA",
-      "location": {
-        "latitude": 37.5061989,
-        "longitude": -122.26132330000002
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6714253588805856675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://groovygoose.coffee/",
       "displayName": {
         "text": "Groovy Goose",
         "languageCode": "en"
       },
+      "formattedAddress": "1221 San Carlos Ave a, San Carlos, CA 94070, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6714253588805856675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://groovygoose.coffee/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/san-carlos/Groovy Goose Small.jpeg",
-      "phone": "(650) 486-0522",
-      "description": "Coffee roasted to order and shipped fresh within days.",
-      "hours": "Mon–Sun 7am–5pm",
       "menuUrl": "https://www.yelp.com/biz/groovy-goose-coffee-san-carlos-2",
-      "priceRange": "$$"
+      "videoUrl": "https://youtube.com/shorts/2ZjgnV_bzJA?feature=share",
+      "phone": "(650) 486-0522",
+      "hours": "Mon–Sun 7am–5pm",
+      "priceRange": "$$",
+      "description": "Coffee roasted to order and shipped fresh within days.",
+      "photoUrl": "images/restaurant-photos/san-carlos/Groovy Goose Small.jpeg"
     },
     {
       "id": "ChIJ9ykTdt6jj4ARjzw6p5rl778",
