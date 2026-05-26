@@ -4336,24 +4336,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJBUJUEvufj4AR3Ms-AQad6AU",
-      "formattedAddress": "60 E 3rd Ave Ste 108, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5637466,
-        "longitude": -122.32472349999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=425762813902769116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.foreignercafe.com/",
       "displayName": {
         "text": "Foreigner Cafe",
         "languageCode": "en"
       },
+      "formattedAddress": "60 E 3rd Ave Ste 108, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=425762813902769116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.foreignercafe.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/san-mateo/Foreingner Small.jpeg",
-      "phone": "(650) 620-1888",
-      "description": "Stories are shared over craft coffee where culture meets community.",
-      "hours": "Mon–Sun 8:00am–4:00pm",
-      "menuUrl": "https://www.foreignercafe.com/wp-content/uploads/2023/03/Brunch-Menu-8-AM-2.30-PM.pdf",
-      "priceRange": "$$",
       "keywords": [
         "outdoor seating",
         "cafe",
@@ -4361,7 +4352,14 @@ var PREBAKED_DATA_CENTRAL = {
         "coffee",
         "pastries",
         "lunch"
-      ]
+      ],
+      "menuUrl": "https://www.foreignercafe.com/wp-content/uploads/2023/03/Brunch-Menu-8-AM-2.30-PM.pdf",
+      "videoUrl": "https://youtube.com/shorts/CECMIqScT7M",
+      "phone": "(650) 620-1888",
+      "hours": "Mon–Sun 8:00am–4:00pm",
+      "priceRange": "$$",
+      "description": "Stories are shared over craft coffee where culture meets community.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Foreingner Small.jpeg"
     },
     {
       "id": "ChIJ3SH8Znqej4ARUMkudLM5pJE",
