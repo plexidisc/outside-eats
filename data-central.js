@@ -2792,6 +2792,7 @@ var PREBAKED_DATA_CENTRAL = {
       "keywords": [
         "fine dining"
       ],
+      "menuUrl": "https://allspicerestaurant.com/wp-content/uploads/2026/05/dinner-menu-May-2026-2.pdf",
       "phone": "(650) 627-4303",
       "hours": "Mon Closed, Tue–Fri 5:30pm–8pm, Sat 5pm–8pm, Sun Closed",
       "priceRange": "$$$$",
@@ -3684,6 +3685,27 @@ var PREBAKED_DATA_CENTRAL = {
         "family friendly",
         "groups"
       ]
+    },
+    {
+      "id": "manual_1779577998337",
+      "displayName": {
+        "text": "Cruel Donuts & Ice Cream",
+        "languageCode": "en"
+      },
+      "formattedAddress": "138 W 25th Ave, San Mateo, CA 94403",
+      "googleMapsUri": "https://www.google.com/maps/place/Cruel+Donuts+%26+Ice+Cream/@37.543771,-122.3078161,17z/data=!3m1!4b1!4m6!3m5!1s0x808f9fa50f1c1315:0xd2b190c2de98c57b!8m2!3d37.543771!4d-122.3078161!16s%2Fg%2F11yk1kt56t?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "dessert",
+      "keywords": [
+        "donuts",
+        "ice cream"
+      ],
+      "phone": "+16503152216",
+      "hours": "Mon-Fri 7:15am-8pm, Sat 7:15am-9pm, Sun 7:15am-5pm",
+      "priceRange": "$",
+      "description": "Homemade ice cream and donuts. Ice cream is made in house by highly experienced ice cream chef. Unique flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cruel Donuts Ice Cream Small.jpeg"
     },
     {
       "id": "ChIJObonFH-fj4ARLrUSRoNnYI8",
@@ -8401,27 +8423,6 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
-    },
-    {
-      "id": "manual_1779577998337",
-      "displayName": {
-        "text": "Cruel Donuts & Ice Cream",
-        "languageCode": "en"
-      },
-      "formattedAddress": "138 W 25th Ave, San Mateo, CA 94403",
-      "googleMapsUri": "https://www.google.com/maps/place/Cruel+Donuts+%26+Ice+Cream/@37.543771,-122.3078161,17z/data=!3m1!4b1!4m6!3m5!1s0x808f9fa50f1c1315:0xd2b190c2de98c57b!8m2!3d37.543771!4d-122.3078161!16s%2Fg%2F11yk1kt56t?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
-      "websiteUri": "",
-      "location": {},
-      "cuisine": "dessert",
-      "keywords": [
-        "donuts",
-        "ice cream"
-      ],
-      "phone": "+16503152216",
-      "hours": "Mon-Fri 7:15am-8pm, Sat 7:15am-9pm, Sun 7:15am-5pm",
-      "priceRange": "$",
-      "description": "Homemade ice cream and donuts. Ice cream is made in house by highly experienced ice cream chef. Unique flavors.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Cruel Donuts Ice Cream Small.jpeg"
     }
   ],
   "Foster City, CA": [
