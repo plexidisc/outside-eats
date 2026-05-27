@@ -8438,7 +8438,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 347-2364",
       "hours": "Mon-Fri 5am-2pm, Sat-Sun 6am-2pm",
       "priceRange": "$",
-      "description": "NY style bagels with a wide variety of spreads. Also, many breakfast sandwich options."
+      "description": "NY style bagels with a wide variety of spreads. Also, many breakfast sandwich options.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Noah's NY Bagels Small.jpeg"
     }
   ],
   "Foster City, CA": [
