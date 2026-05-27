@@ -8025,31 +8025,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJo_9a_fufj4ARjlc_P089jEg",
-      "formattedAddress": "246 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5657685,
-        "longitude": -122.32287969999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=5227620678043129742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.thebarrelbistrowinebar.com/",
       "displayName": {
         "text": "The Barrel Bistro and Wine Bar",
         "languageCode": "en"
       },
+      "formattedAddress": "246 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5227620678043129742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thebarrelbistrowinebar.com/",
+      "location": {},
       "cuisine": "Wine Bar",
-      "photoUrl": "images/restaurant-photos/san-mateo/The Barrel Small.jpeg",
-      "phone": "(650) 445-7250",
-      "description": "Hundreds of wines paired with selective cheeses, charcuterie, and seafood.",
-      "hours": "Sun–Thu 11am–10pm, Fri–Sat 11am–11pm",
-      "menuUrl": "https://www.thebarrelbistrowinebar.com/menus",
-      "priceRange": "$$",
       "keywords": [
         "wine bar",
         "small plates",
         "happy hour",
         "date night",
         "outdoor seating"
-      ]
+      ],
+      "menuUrl": "https://www.thebarrelbistrowinebar.com/menus",
+      "videoUrl": "https://youtube.com/shorts/TNu81aJxOY4",
+      "phone": "(650) 445-7250",
+      "hours": "Sun–Thu 11am–10pm, Fri–Sat 11am–11pm",
+      "priceRange": "$$",
+      "description": "Hundreds of wines paired with selective cheeses, charcuterie, and seafood.",
+      "photoUrl": "images/restaurant-photos/san-mateo/The Barrel Small.jpeg"
     },
     {
       "id": "ChIJgbqC-_uej4AR9hgwImYJcIc",
