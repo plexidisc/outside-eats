@@ -1,5 +1,2594 @@
 var PREBAKED_DATA_NORTH = {
-  "Daly City, CA": [{"id": "ChIJu4vJY1x8j4ARLq2Z8D8560Y", "formattedAddress": "273 Lake Merced Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.6997715, "longitude": -122.48313429999999}, "googleMapsUri": "https://maps.google.com/?cid=5110241148964285742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.bananaislandrestaurant.us/", "displayName": {"text": "Banana Island", "languageCode": "en"}, "cuisine": "Singaporean", "photoUrl": "images/restaurant-photos/daly-city/Banana Island Small.jpeg", "phone": "(650) 756-6868", "hours": {"Monday": "Closed", "Tuesday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM", "Wednesday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM", "Thursday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM", "Friday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM", "Saturday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM", "Sunday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM"}, "menuUrl": "https://www.bananaislandrestaurant.us/", "priceRange": "$$", "description": "Beloved Malaysian, Singaporean, and Thai restaurant tucked behind Westlake's Home Depot with roti canai, Hainanese chicken rice, and beef rendang served to packed tables most nights."}, {"id": "ChIJ7ebRlFx8j4ARKuxfgkVUB7I", "formattedAddress": "511 Westlake Center, Daly City, CA 94015, USA", "location": {"latitude": 37.6994444, "longitude": -122.4822222}, "googleMapsUri": "https://maps.google.com/?cid=12828314721104948266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.bluelinepizza.com/", "displayName": {"text": "Blue Line Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/Blue Line Pizza Small.jpeg", "phone": "(650) 755-8500", "hours": {"Monday": "11:30 AM - 8:30 PM", "Tuesday": "11:30 AM - 8:30 PM", "Wednesday": "11:30 AM - 8:30 PM", "Thursday": "11:30 AM - 8:30 PM", "Friday": "11:30 AM - 9:00 PM", "Saturday": "11:30 AM - 9:00 PM", "Sunday": "11:30 AM - 8:30 PM"}, "menuUrl": "https://order.bluelinepizza.com/dalycity", "priceRange": "$$", "description": "Sister brand to SF's Little Star Pizza with award-winning cornmeal deep-dish and New York thin-crust pies, a dog-friendly heated patio, full bar, and convivial Westlake Center atmosphere."}, {"id": "ChIJP7V2IER8j4ARmwqj9PK5tcw", "formattedAddress": "2 Poncetta Dr, Daly City, CA 94015, USA", "location": {"latitude": 37.7039465, "longitude": -122.4750651}, "googleMapsUri": "https://maps.google.com/?cid=14750900607659477659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://theboulevardcafe.com/", "displayName": {"text": "Boulevard Cafe", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/Boulevard Cafe Small.jpeg", "phone": "(650) 755-3400", "hours": {"Monday": "8:30 AM - 9:00 PM", "Tuesday": "8:30 AM - 9:00 PM", "Wednesday": "8:30 AM - 9:00 PM", "Thursday": "8:30 AM - 9:00 PM", "Friday": "8:30 AM - 10:00 PM", "Saturday": "8:30 AM - 10:00 PM", "Sunday": "8:30 AM - 9:00 PM"}, "menuUrl": "https://www.boulevardcafedailycity.com/", "priceRange": "$$", "description": "All-day American bistro open seven days from breakfast through dinner with scratch-made soups, sustainably raised grass-fed beef, and an eclectic comfort menu."}, {"id": "ChIJ5ZcPfa99j4ARKLAOqFrsrdA", "formattedAddress": "6318 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7057394, "longitude": -122.4621601}, "googleMapsUri": "https://maps.google.com/?cid=15036934604970700840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sites.google.com/view/burmasilverstar/", "displayName": {"text": "Burma Silver Star Restaurant", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/Burma Silver Star Small.jpeg", "phone": "(650) 731-6101", "hours": {"Monday": "Closed", "Tuesday": "Closed", "Wednesday": "5:00 PM - 9:00 PM", "Thursday": "5:00 PM - 9:00 PM", "Friday": "5:00 PM - 9:00 PM", "Saturday": "11:00 AM - 2:30 PM, 5:00 PM - 9:00 PM", "Sunday": "11:00 AM - 2:30 PM, 5:00 PM - 9:00 PM"}, "menuUrl": "https://sites.google.com/view/burmasilverstar/menu", "priceRange": "$$", "description": "Authentic Burmese restaurant on Mission Street with tea leaf salad, mohinga noodle soup, and traditional Burmese curries in a small family-run dining room."}, {"id": "ChIJHxAMZ-17j4ARA0-QFNqYCa8", "formattedAddress": "153C Serramonte Center, Daly City, CA 94015, USA", "location": {"latitude": 37.6709232, "longitude": -122.4677514}, "googleMapsUri": "https://maps.google.com/?cid=12612780293843078915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.cafishgrill.com/", "displayName": {"text": "California Fish Grill", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/daly-city/Californai Fish Grill Small.jpeg", "phone": "(650) 517-5712", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.cafishgrill.com/locations/daly-city/", "priceRange": "$$", "description": "Responsibly sourced seafood chain at Serramonte Center with grilled fish plates, fish tacos, dynamite shrimp bowls, and fresh poke at fast-casual prices."}, {"id": "ChIJ7Wy_Gm18j4ARHpvGwhsJTGA", "formattedAddress": "250 90th St, Daly City, CA 94015, USA", "location": {"latitude": 37.691258499999996, "longitude": -122.4714665}, "googleMapsUri": "https://maps.google.com/?cid=6938931140707654430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Canton Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Canton Restaurant Small.jpeg", "phone": "(650) 994-1971", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$$", "description": "Beloved Cantonese restaurant on 90th Street with dim sum, salt-and-pepper chicken wings, bitter melon cod chow fun, and Peking duck ordered two days in advance."}, {"id": "ChIJrWowAut7j4ARzXSNL7aP0eg", "formattedAddress": "379 Gellert Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.6647148, "longitude": -122.46691129999998}, "googleMapsUri": "https://maps.google.com/?cid=16776348099576427725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.celiasrestaurants.com/", "displayName": {"text": "Celia's", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/daly-city/Celias Small.jpeg", "phone": "(650) 755-6213", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.celiasrestaurants.com/", "priceRange": "$$", "description": "Longstanding Mexican restaurant chain with margaritas, combination plates, enchiladas, and family-friendly service in a comfortable neighborhood setting."}, {"id": "ChIJgQyAvdN7j4ARcLmzTu7rk5s", "formattedAddress": "2055 Gellert Blvd #5, Daly City, CA 94015, USA", "location": {"latitude": 37.650205199999995, "longitude": -122.4537896}, "googleMapsUri": "https://maps.google.com/?cid=11210563306210441584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.chibogrestaurant.com/", "displayName": {"text": "Chibog", "languageCode": "en"}, "cuisine": "Filipino", "photoUrl": "images/restaurant-photos/daly-city/Chibog Small.jpeg", "phone": "(650) 878-3591", "hours": {"Monday": "Closed", "Tuesday": "11:00 AM - 6:00 PM", "Wednesday": "11:00 AM - 6:00 PM", "Thursday": "11:00 AM - 6:00 PM", "Friday": "11:00 AM - 7:00 PM", "Saturday": "11:00 AM - 7:00 PM", "Sunday": "11:00 AM - 6:00 PM"}, "menuUrl": "https://www.chibog.com/", "priceRange": "$", "description": "Filipino comfort food counter at Gellert Boulevard with crispy pork belly, barbecue chicken, sisig, and garlic rice — a Daly City favorite for authentic home-style Filipino cooking."}, {"id": "ChIJT_uDmt19j4ARNIld6z0W5Xg", "formattedAddress": "243 Westlake Center, Daly City, CA 94015, USA", "location": {"latitude": 37.7010959, "longitude": -122.4822811}, "googleMapsUri": "https://maps.google.com/?cid=8711393509415684404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://chicknjajang.com/", "displayName": {"text": "Chick & Jajang", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/daly-city/Chick & Jajang Small.jpeg", "hours": {"Monday": "11:00 AM - 1:00 AM", "Tuesday": "11:00 AM - 1:00 AM", "Wednesday": "11:00 AM - 1:00 AM", "Thursday": "11:00 AM - 1:00 AM", "Friday": "11:00 AM - 1:00 AM", "Saturday": "11:00 AM - 1:00 AM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.chicknjajang.com/", "priceRange": "$$", "description": "Korean fusion restaurant at Westlake Center open until 1 AM most nights with Korean fried chicken, jajangmyeon noodles, soju, and a late-night crowd."}, {"id": "ChIJx_D6mg18j4AR0lAywGlSQ28", "formattedAddress": "7370 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.6903508, "longitude": -122.46607069999999}, "googleMapsUri": "https://maps.google.com/?cid=8017342375799181522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://chick-n-coop.paqe.io/", "displayName": {"text": "Chick N Coop", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/daly-city/Chick N Coop Small.jpeg", "phone": "(650) 994-2221", "hours": {"Monday": "11:00 AM - 7:00 PM", "Tuesday": "11:00 AM - 7:00 PM", "Wednesday": "11:00 AM - 7:00 PM", "Thursday": "11:00 AM - 7:00 PM", "Friday": "11:00 AM - 7:00 PM", "Saturday": "11:00 AM - 7:00 PM", "Sunday": "12:00 PM - 7:00 PM"}, "priceRange": "$", "description": "Beloved Daly City hofbrau with freshly carved roast beef, turkey, rotisserie ribs, and pastrami sandwiches in a nostalgic old-school setting that has kept regulars coming back for decades."}, {"id": "ChIJ_cv4kmx8j4ARfXRjkWVDavo", "formattedAddress": "2408 Junipero Serra Blvd A, Daly City, CA 94015, USA", "location": {"latitude": 37.693064199999995, "longitude": -122.47123719999999}, "googleMapsUri": "https://maps.google.com/?cid=18044308960523285629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://citykebabsandgyros.com/", "displayName": {"text": "City Kebabs & Gyros", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/daly-city/City Kebab & Gyros Small.jpeg", "phone": "(650) 757-1656", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.citykebabsandgyrosdalycity.com/", "priceRange": "$", "description": "Family-run Turkish Mediterranean restaurant on Junipero Serra with juicy kebabs, gyros, hummus, walnut baklava, and recipes passed down through generations."}, {"id": "ChIJvaFDS1x8j4ARFAAjdyHOwRA", "formattedAddress": "235 Southgate Ave, Daly City, CA 94015, USA", "location": {"latitude": 37.697061999999995, "longitude": -122.48489789999999}, "googleMapsUri": "https://maps.google.com/?cid=1207472818240028692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Dae Jang Geum Tofu House", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/daly-city/Dae Jang Geum Tofu House Small.jpeg", "phone": "(650) 758-1919", "hours": {"Monday": "11:30 AM - 8:30 PM", "Tuesday": "11:30 AM - 8:30 PM", "Wednesday": "11:30 AM - 8:30 PM", "Thursday": "11:30 AM - 8:30 PM", "Friday": "11:30 AM - 8:30 PM", "Saturday": "11:30 AM - 8:30 PM", "Sunday": "11:30 AM - 8:30 PM"}, "menuUrl": "https://daejanggeumtofuhouse.com/", "priceRange": "$$", "description": "Korean tofu and BBQ restaurant on Southgate Avenue with soondubu jjigae, Korean barbecue, and traditional banchan open seven days a week."}, {"id": "ChIJyfK9ilR9j4AR8iWXX-zWa_g", "formattedAddress": "7384 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.6901662, "longitude": -122.46612929999999}, "googleMapsUri": "https://maps.google.com/?cid=17900637454618535410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Fiesta Chapina", "languageCode": "es"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/Fiesta Chapina Small.jpeg", "hours": {"Monday": "8:00 AM - 7:00 PM", "Tuesday": "8:00 AM - 7:00 PM", "Wednesday": "Closed", "Thursday": "8:00 AM - 7:00 PM", "Friday": "8:00 AM - 7:00 PM", "Saturday": "8:00 AM - 7:00 PM", "Sunday": "8:00 AM - 7:00 PM"}, "priceRange": "$", "description": "Guatemalan and Mexican family restaurant on Mission Street with traditional chapina dishes, tamales, enchiladas, and fresh-made plates cooked to order from early morning."}, {"id": "ChIJMRjOTBJ8j4AR4-n4c_yOwVY", "formattedAddress": "66 School St, Daly City, CA 94014, USA", "location": {"latitude": 37.693505, "longitude": -122.4656225}, "googleMapsUri": "https://maps.google.com/?cid=6251434972695554531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.filamcuisine.com/#!location/c14xr", "displayName": {"text": "Fil-Am Cuisine", "languageCode": "en"}, "cuisine": "Filipino", "photoUrl": "images/restaurant-photos/daly-city/Fil-Am Small.jpeg", "hours": {"Monday": "10:00 AM - 9:00 PM", "Tuesday": "10:00 AM - 9:00 PM", "Wednesday": "10:00 AM - 9:00 PM", "Thursday": "10:00 AM - 9:00 PM", "Friday": "10:00 AM - 9:00 PM", "Saturday": "10:00 AM - 9:00 PM", "Sunday": "10:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Filipino barbecue and homestyle cooking with grilled meats, bangus sisig, and classic Filipino comfort dishes that draw a devoted following of regulars."}, {"id": "ChIJjRkV7xN8j4ARjlroR1FeTto", "formattedAddress": "7007 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.6954758, "longitude": -122.46450259999999}, "googleMapsUri": "https://maps.google.com/?cid=15730614251643493006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Fung Wah Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Fung Wah Small.jpeg", "phone": "(650) 756-9957", "hours": {"Monday": "11:00 AM - 8:00 PM", "Tuesday": "11:00 AM - 8:00 PM", "Wednesday": "11:00 AM - 8:00 PM", "Thursday": "11:00 AM - 8:00 PM", "Friday": "11:00 AM - 8:00 PM", "Saturday": "11:00 AM - 8:00 PM", "Sunday": "11:00 AM - 8:00 PM"}, "priceRange": "$", "description": "Cantonese bakery and restaurant on Mission Street open daily for roast meats, rice plates, baked goods, and traditional Chinese comfort food at neighborhood prices."}, {"id": "ChIJ2wFOSyN8j4AR0Tn2cw-DodM", "formattedAddress": "6165 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7068667, "longitude": -122.4580139}, "googleMapsUri": "https://maps.google.com/?cid=15249613915646474705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Gateway Kitchen", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/Gateway Kitchen Small.jpeg", "hours": {"Monday": "7:00 AM - 3:00 PM", "Tuesday": "7:00 AM - 3:00 PM", "Wednesday": "7:00 AM - 3:00 PM", "Thursday": "7:00 AM - 3:00 PM", "Friday": "7:00 AM - 3:00 PM", "Saturday": "7:00 AM - 3:00 PM", "Sunday": "7:00 AM - 3:00 PM"}, "priceRange": "$", "description": "Friendly Filipino breakfast and lunch spot open daily from early morning with silogs, eggs, garlic rice, and Filipino comfort food plates."}, {"id": "ChIJqet_xsV-j4ARa0n_qu06DzE", "formattedAddress": "2511 Geneva Ave, Daly City, CA 94014, USA", "location": {"latitude": 37.707918299999996, "longitude": -122.41714599999997}, "googleMapsUri": "https://maps.google.com/?cid=3535109024959646059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.goldenmooncalifornia.com/", "displayName": {"text": "Golden Moon Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$$", "description": "Chinese and Asian restaurant in Daly City serving a broad menu of classic Cantonese and pan-Asian dishes in a casual family-friendly setting."}, {"id": "ChIJvV9sSPt9j4ARX5BAXqzFjHA", "formattedAddress": "7622 El Camino Real, Daly City, CA 94014, USA", "location": {"latitude": 37.6855104, "longitude": -122.46471260000001}, "googleMapsUri": "https://maps.google.com/?cid=8110074373093757023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Halal Good Subs Market", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/Halal Good Subs Market Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Halal sandwich and market in Daly City with fresh-made subs, deli items, and grocery staples for the local community."}, {"id": "ChIJpc5LzT18j4ARvGITwlFM754", "formattedAddress": "6524 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7038724, "longitude": -122.4629415}, "googleMapsUri": "https://maps.google.com/?cid=11452456291458572988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Halal International market", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/Halal International Market Small.jpeg", "hours": {"Monday": "9:00 AM - 8:00 PM", "Tuesday": "9:00 AM - 8:00 PM", "Wednesday": "9:00 AM - 8:00 PM", "Thursday": "9:00 AM - 8:00 PM", "Friday": "9:00 AM - 8:00 PM", "Saturday": "9:00 AM - 8:00 PM", "Sunday": "9:00 AM - 8:00 PM"}, "priceRange": "$", "description": "Halal grocery market and prepared foods counter with Middle Eastern and South Asian ingredients, fresh halal meats, and ready-to-eat items."}, {"id": "ChIJzeeTCA18j4ARad0Jj5RQnhE", "formattedAddress": "50 San Pedro Rd, Daly City, CA 94014, USA", "location": {"latitude": 37.6896051, "longitude": -122.46749599999998}, "googleMapsUri": "https://maps.google.com/?cid=1269540743950228841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Hawaiian Drive Inn", "languageCode": "en"}, "cuisine": "BBQ", "photoUrl": "images/restaurant-photos/daly-city/Hawaiian Drive Inn Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "menuUrl": "https://www.hawaiiandrive-inn.com/", "priceRange": "$", "description": "Local Hawaiian plate lunch chain with generous portions of chicken katsu, kalua pork, loco moco, and two-scoop rice plates at everyday prices."}, {"id": "ChIJy_xFFf19j4ARvpTqAIUSIOI", "displayName": {"text": "Hibachi Truck (food truck)", "languageCode": "en"}, "formattedAddress": "7499 El Camino Real, Daly City, CA 94014, USA", "googleMapsUri": "https://maps.google.com/?cid=16294043814281778366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.instagram.com/hibachi_truck", "location": {}, "cuisine": "Japanese", "keywords": ["food truck"], "photoUrl": "images/restaurant-photos/daly-city/Hibachi Truck (food truck) Small.jpeg", "hours": {"Monday": "11:00 AM - 8:00 PM", "Tuesday": "11:00 AM - 8:00 PM", "Wednesday": "11:00 AM - 8:00 PM", "Thursday": "11:00 AM - 8:00 PM", "Friday": "11:00 AM - 8:00 PM", "Saturday": "11:00 AM - 8:00 PM", "Sunday": "11:00 AM - 8:00 PM"}, "priceRange": "$", "description": "Hibachi-style food truck with grilled meats, fried rice, and Japanese-American street food served from a mobile kitchen in the Daly City area."}, {"id": "ChIJsf1zRo17j4ARVDjzcUy3I3M", "formattedAddress": "128 Serramonte Center, Daly City, CA 94015, USA", "location": {"latitude": 37.6715613, "longitude": -122.4703136}, "googleMapsUri": "https://maps.google.com/?cid=8296676477503748180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://locations.ikessandwich.com/ca/dalycity/117/?utm_source=gmb&utm_medium=profile&utm_campaign=dalycity-location-page", "displayName": {"text": "Ike's Love & Sandwiches", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/Ikes Small.jpeg", "hours": {"Monday": "10:00 AM - 9:00 PM", "Tuesday": "10:00 AM - 9:00 PM", "Wednesday": "10:00 AM - 9:00 PM", "Thursday": "10:00 AM - 9:00 PM", "Friday": "10:00 AM - 9:00 PM", "Saturday": "10:00 AM - 9:00 PM", "Sunday": "10:00 AM - 9:00 PM"}, "menuUrl": "https://www.ilikeikesplace.com/menu/", "priceRange": "$$", "description": "Popular Bay Area sandwich chain with Dutch crunch bread, creative combinations, vegan options, and a devoted following for the Menage a Trois and Pilgrim sandwiches."}, {"id": "ChIJHey2OAB7j4ARTM5ARcRgu1w", "formattedAddress": "63 Serramonte Center, Daly City, CA 94015, USA", "location": {"latitude": 37.671979799999995, "longitude": -122.46926699999999}, "googleMapsUri": "https://maps.google.com/?cid=6682040868225994316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://jagalchi.com/", "displayName": {"text": "Jagalchi", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/daly-city/Jagalchi Small.jpeg", "hours": {"Monday": "11:00 AM - 10:00 PM", "Tuesday": "11:00 AM - 10:00 PM", "Wednesday": "11:00 AM - 10:00 PM", "Thursday": "11:00 AM - 10:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 10:00 PM"}, "priceRange": "$$", "description": "Korean restaurant named after the famous Busan fish market with Korean seafood preparations, stews, and traditional dishes in a neighborhood setting."}, {"id": "ChIJDQYsWeJ9j4ARQERHM0Ylj5k", "formattedAddress": "201 Southgate Ave, Daly City, CA 94015, USA", "location": {"latitude": 37.697143499999996, "longitude": -122.48435239999999}, "googleMapsUri": "https://maps.google.com/?cid=11065103792910844992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.kankiineatery.com/", "displayName": {"text": "KAN KIIN BRUNCH & THAI EATERY", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/daly-city/Kan Kiin Small.jpeg", "phone": "(650) 755-8749", "hours": {"Monday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM", "Tuesday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM", "Wednesday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM", "Thursday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM", "Friday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM", "Saturday": "10:00 AM - 3:00 PM, 5:00 PM - 8:30 PM", "Sunday": "10:00 AM - 3:00 PM, 5:00 PM - 8:30 PM"}, "menuUrl": "https://www.kankhiin.com/menu", "priceRange": "$$", "description": "Michelin-recommended Thai brunch and dinner restaurant on Southgate Avenue, celebrated for hat yai fried chicken and waffles, handmade curry puffs, and bold Thai-American fusion cooking."}, {"id": "ChIJl9t3MnN8j4ARJA5bUhhoAuU", "formattedAddress": "270 San Pedro Rd, Daly City, CA 94014, USA", "location": {"latitude": 37.6869596, "longitude": -122.46962099999999}, "googleMapsUri": "https://maps.google.com/?cid=16501866438309121572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://keithschickennwaffles.com/?utm_source=google", "displayName": {"text": "Keith’s Chicken N Waffles", "languageCode": "en"}, "cuisine": "American", "photoUrl": "images/restaurant-photos/daly-city/Keith’s Chicken N Waffles Small.jpeg", "phone": "(415) 347-7208", "hours": {"Monday": "11:00 AM - 8:00 PM", "Tuesday": "Closed", "Wednesday": "11:00 AM - 8:00 PM", "Thursday": "11:00 AM - 8:00 PM", "Friday": "11:00 AM - 8:00 PM", "Saturday": "11:00 AM - 8:00 PM", "Sunday": "11:00 AM - 6:00 PM"}, "menuUrl": "https://keithschickennwaffles.com/", "priceRange": "$$", "description": "The Peninsula's only chicken and waffle restaurant with signature seasoned fried chicken, specialty infused waffles, Southern sides, and shrimp po boys on San Pedro Road."}, {"id": "ChIJ6-RoBwB7j4ARQnB_-6CI2SY", "formattedAddress": "2085 Gellert Blvd #6, Daly City, CA 94015, USA", "location": {"latitude": 37.6501887, "longitude": -122.4534486}, "googleMapsUri": "https://maps.google.com/?cid=2799418868383051842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.kingkatsuland.com/", "displayName": {"text": "King Katsu Land", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/daly-city/King Katsu Land Small.jpeg", "phone": "(650) 333-7729", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.kingkatsuland.com/", "priceRange": "$$", "description": "Filipino-Japanese katsu restaurant at Gellert Boulevard with crispy panko-breaded pork and chicken cutlets, garlic rice, and Filipino comfort plates that consistently draw long lines."}, {"id": "ChIJK1Z6kz59j4ARS6REZ8ZAo9Y", "formattedAddress": "6540 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7037146, "longitude": -122.4631109}, "googleMapsUri": "https://maps.google.com/?cid=15466276766200669259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://kingswestcoastpizzeria.com/", "displayName": {"text": "Kings West Coast Pizzeria", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/Kings West Coast Pizzeria Small.jpeg", "phone": "(415) 605-4242", "hours": {"Monday": "2:00 PM - 10:00 PM", "Tuesday": "11:30 AM - 10:00 PM", "Wednesday": "11:30 AM - 10:00 PM", "Thursday": "11:30 AM - 10:00 PM", "Friday": "11:30 AM - 10:00 PM", "Saturday": "11:30 AM - 10:00 PM", "Sunday": "11:30 AM - 10:00 PM"}, "menuUrl": "https://kingswcpizza.com/", "priceRange": "$$", "description": "Family-owned Brazilian-style pizzeria on Mission Street with hand-rolled daily dough, unique flavor pizzas, acai bowls, homemade flan, pasta, and wings."}, {"id": "ChIJSayidut7j4AR1iWKufPh-d0", "formattedAddress": "365 Gellert Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.6660867, "longitude": -122.46662909999999}, "googleMapsUri": "https://maps.google.com/?cid=15995063988489168342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://koipalace.com/menu", "displayName": {"text": "Koi Palace", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Koi Palace Small.jpeg", "phone": "(650) 992-9000", "hours": {"Monday": "11:00 AM - 2:30 PM, 5:30 PM - 9:00 PM", "Tuesday": "11:00 AM - 2:30 PM, 5:30 PM - 9:00 PM", "Wednesday": "11:00 AM - 2:30 PM, 5:30 PM - 9:00 PM", "Thursday": "11:00 AM - 2:30 PM, 5:30 PM - 9:00 PM", "Friday": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM", "Saturday": "10:00 AM - 3:00 PM, 5:00 PM - 9:30 PM", "Sunday": "10:00 AM - 3:00 PM, 5:00 PM - 9:00 PM"}, "menuUrl": "https://koipalace.com/daly-city-ca/", "priceRange": "$$$", "description": "James Beard-nominated Cantonese landmark at Gellert Boulevard seating 400, with a koi pond, live seafood tanks, spectacular weekend dim sum carts, and har gow celebrated as among the best in the Bay Area."}, {"id": "ChIJG5BaFFp9j4ARJU7v5j-rFbI", "formattedAddress": "2350 Junipero Serra Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.6946151, "longitude": -122.4715377}, "googleMapsUri": "https://maps.google.com/?cid=12832351004207828517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Kukje Grill", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/daly-city/Kukje Grill Small.jpeg", "hours": {"Monday": "11:00 AM - 10:00 PM", "Tuesday": "11:00 AM - 10:00 PM", "Wednesday": "11:00 AM - 10:00 PM", "Thursday": "11:00 AM - 10:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 10:00 PM"}, "priceRange": "$$", "description": "Korean BBQ and grocery market hybrid in Daly City where you can pick your own cuts from the market counter and cook at the table."}, {"id": "ChIJ08mnohZ8j4ARtkoKozMOCEc", "formattedAddress": "6893 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.6970315, "longitude": -122.462942}, "googleMapsUri": "https://maps.google.com/?cid=5118356591448050358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://hawaiianbarbecue.com/", "displayName": {"text": "L&L Hawaiian Barbecue - Daly City", "languageCode": "en"}, "cuisine": "BBQ", "photoUrl": "images/restaurant-photos/daly-city/L&L Hawaiian Barbecue Small.jpeg", "hours": {"Monday": "10:30 AM - 9:00 PM", "Tuesday": "10:30 AM - 9:00 PM", "Wednesday": "10:30 AM - 9:00 PM", "Thursday": "10:30 AM - 9:00 PM", "Friday": "10:30 AM - 9:00 PM", "Saturday": "10:30 AM - 9:00 PM", "Sunday": "10:30 AM - 9:00 PM"}, "menuUrl": "https://www.hawaiianbarbecue.com/", "priceRange": "$", "description": "Hawaiian plate lunch chain on Mission Street with chicken katsu, kalua pork, macaroni salad, and two-scoop rice plates."}, {"id": "ChIJz_PeLrd9j4ARLa3eQTDHvOY", "formattedAddress": "5997 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7079711, "longitude": -122.45471010000001}, "googleMapsUri": "https://maps.google.com/?cid=16626382934422498605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "La perla de Oriente Restaurant", "languageCode": "es"}, "cuisine": "Filipino", "photoUrl": "images/restaurant-photos/daly-city/La perla De oriente Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Filipino and Asian restaurant serving traditional homestyle dishes, rice plates, and comfort food staples at neighborhood prices."}, {"id": "ChIJYwwRs6p9j4ARspsBuYeRfP8", "formattedAddress": "2 Chester St, Daly City, CA 94014, USA", "location": {"latitude": 37.686267099999995, "longitude": -122.4594337}, "googleMapsUri": "https://maps.google.com/?cid=18409749388894247858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.laspencasdemaguey-restaurant.com/", "displayName": {"text": "Las Pencas de Maguey Restaurant", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/daly-city/Las Pencas De Maguey Small.jpeg", "hours": {"Monday": "8:00 AM - 9:00 PM", "Tuesday": "8:00 AM - 9:00 PM", "Wednesday": "8:00 AM - 9:00 PM", "Thursday": "8:00 AM - 9:00 PM", "Friday": "8:00 AM - 9:00 PM", "Saturday": "8:00 AM - 9:00 PM", "Sunday": "8:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Authentic Mexican restaurant serving tacos, burritos, menudo, and traditional dishes from early morning through the evening."}, {"id": "ChIJoWobYC19j4ARP7ufFK4zFBQ", "formattedAddress": "6192 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7069212, "longitude": -122.45886510000001}, "googleMapsUri": "https://maps.google.com/?cid=1446838203056110399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.lavaloungegrill.com/", "displayName": {"text": "Lava Hookah Lounge & Grill", "languageCode": "en"}, "cuisine": "Middle Eastern", "photoUrl": "images/restaurant-photos/daly-city/Lava Hookah Lounge Small.jpeg", "hours": {"Monday": "5:00 PM - 2:00 AM", "Tuesday": "5:00 PM - 2:00 AM", "Wednesday": "5:00 PM - 2:00 AM", "Thursday": "5:00 PM - 2:00 AM", "Friday": "5:00 PM - 2:00 AM", "Saturday": "5:00 PM - 2:00 AM", "Sunday": "5:00 PM - 2:00 AM"}, "priceRange": "$$", "description": "Hookah lounge and grill on Mission Street open late with Mediterranean-inspired food, shisha, cocktails, and a lively late-night atmosphere."}, {"id": "ChIJVZgncdN7j4AR7aN-JLaYBUE", "formattedAddress": "980 King Dr Suite #1 & #3, Daly City, CA 94015, USA", "location": {"latitude": 37.6507456, "longitude": -122.46844010000001}, "googleMapsUri": "https://maps.google.com/?cid=4685318895412618221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://lingnamrestaurant.com/", "displayName": {"text": "Ling Nam Restaurant and Bakeshop", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Ling Nam Small.jpeg", "hours": {"Monday": "7:00 AM - 9:00 PM", "Tuesday": "7:00 AM - 9:00 PM", "Wednesday": "7:00 AM - 9:00 PM", "Thursday": "7:00 AM - 9:00 PM", "Friday": "7:00 AM - 9:00 PM", "Saturday": "7:00 AM - 9:00 PM", "Sunday": "7:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Long-standing Filipino bakery and restaurant on Mission Street with pandesal, Filipino pastries, rice plates, and all-day comfort food from early morning."}, {"id": "ChIJV1sBRiN8j4ARX-P2zTC5MFQ", "formattedAddress": "6127 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7070869, "longitude": -122.4572835}, "googleMapsUri": "https://maps.google.com/?cid=6066552317333136223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://docs.google.com/spreadsheets/d/1a7tGmqmb1pOtXuEU0WrX7c4cFV8K1q9qQhNlHtEuL6s/edit?usp=sharing", "displayName": {"text": "Little Hunan Restaurant", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Little Hunan Restauran Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Casual Hunan Chinese restaurant with spicy stir-fries, noodle dishes, and Chinese comfort food plates at everyday prices."}, {"id": "ChIJTQN21Nh7j4ARf5VTijwRwvQ", "displayName": {"text": "Loma Linda Taco Truck (food truck)", "languageCode": "en"}, "formattedAddress": "Serramonte Blvd & Hwy 1, Daly City, CA 94015, USA", "googleMapsUri": "https://maps.google.com/?cid=17636678042452727167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://orderlomalindatacotruck.com/", "location": {}, "cuisine": "Mexican", "keywords": ["food truck"], "photoUrl": "images/restaurant-photos/daly-city/Loma Linda Taco Truck (food truck) Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Mexican food truck with tacos, burritos, and street food staples at street-food prices in Daly City."}, {"id": "ChIJxftR9Q58j4AR3i3-r4zJP9Q", "formattedAddress": "311 E Market St, Daly City, CA 94014, USA", "location": {"latitude": 37.6903206, "longitude": -122.46222849999998}, "googleMapsUri": "https://maps.google.com/?cid=15294164465658768862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://m.facebook.com/profile.php?id=170041643131634", "displayName": {"text": "Los Cuates Taqueria", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/daly-city/Los Cuates Small.jpeg", "hours": {"Monday": "9:00 AM - 10:00 PM", "Tuesday": "9:00 AM - 10:00 PM", "Wednesday": "9:00 AM - 10:00 PM", "Thursday": "9:00 AM - 10:00 PM", "Friday": "9:00 AM - 10:00 PM", "Saturday": "9:00 AM - 10:00 PM", "Sunday": "9:00 AM - 10:00 PM"}, "priceRange": "$", "description": "Authentic Mexican taqueria with tacos, burritos, quesadillas, and daily specials open from breakfast through late evening."}, {"id": "ChIJVTIF3KR9j4ARVyWQUogpUi0", "formattedAddress": "6286 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7060423, "longitude": -122.46175099999999}, "googleMapsUri": "https://maps.google.com/?cid=3265718345274500439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Los Cuernos", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/daly-city/Los Cuernos Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Mexican restaurant serving classic tacos, burritos, and tortas in a casual neighborhood setting open seven days a week."}, {"id": "ChIJsyKAMnN8j4ARio8CJwn11pw", "formattedAddress": "260 San Pedro Rd, Daly City, CA 94014, USA", "location": {"latitude": 37.6869389, "longitude": -122.4695}, "googleMapsUri": "https://maps.google.com/?cid=11301489734590828426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://losmetatesca.com/", "displayName": {"text": "Los Metates", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/daly-city/Los Metates Small.jpeg", "hours": {"Monday": "8:00 AM - 9:00 PM", "Tuesday": "8:00 AM - 9:00 PM", "Wednesday": "8:00 AM - 9:00 PM", "Thursday": "8:00 AM - 9:00 PM", "Friday": "8:00 AM - 9:00 PM", "Saturday": "8:00 AM - 9:00 PM", "Sunday": "8:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Traditional Mexican restaurant open from early morning with breakfast plates, tacos, burritos, and homestyle cooking at accessible prices."}, {"id": "ChIJCb8fhcV-j4AR6xh11YAagnE", "formattedAddress": "2666 Geneva Ave, Daly City, CA 94014, USA", "location": {"latitude": 37.7070224, "longitude": -122.4161302}, "googleMapsUri": "https://maps.google.com/?cid=8179129013897599211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://luckys-bakery-cafe.edan.io/", "displayName": {"text": "Lucky's Bakery & Cafe", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "hours": {"Monday": "7:00 AM - 7:00 PM", "Tuesday": "7:00 AM - 7:00 PM", "Wednesday": "7:00 AM - 7:00 PM", "Thursday": "7:00 AM - 7:00 PM", "Friday": "7:00 AM - 7:00 PM", "Saturday": "7:00 AM - 7:00 PM", "Sunday": "7:00 AM - 7:00 PM"}, "priceRange": "$", "description": "Neighborhood bakery and cafe with fresh pastries, Filipino breads, coffee, and light breakfast and lunch options open daily from early morning."}, {"id": "ChIJMwLZ7nx8j4AR7XOr7cCSg3c", "formattedAddress": "240 Skyline Plaza, Daly City, CA 94015, USA", "location": {"latitude": 37.6817861, "longitude": -122.4881194}, "googleMapsUri": "https://maps.google.com/?cid=8611888269781332973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://majikkuramen.net/", "displayName": {"text": "Majikku Ramen", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/daly-city/Majikku Ramen Small.jpeg", "phone": "(650) 756-2988", "hours": {"Monday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM", "Tuesday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM", "Wednesday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM", "Thursday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM", "Friday": "11:00 AM - 3:00 PM, 4:00 PM - 8:45 PM", "Saturday": "11:00 AM - 3:00 PM, 4:00 PM - 8:45 PM", "Sunday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM"}, "menuUrl": "https://www.majikku.com/", "priceRange": "$$", "description": "Family-friendly ramen and Japanese comfort food restaurant at Skyline Plaza with a signature curry ramen, salmon dinners, and late-night hours on weekends."}, {"id": "ChIJR0jVQjx8j4AR3YiaBWEd4GQ", "formattedAddress": "6339 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7053935, "longitude": -122.4616408}, "googleMapsUri": "https://maps.google.com/?cid=7268842101119027421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Mekeni Restaurant", "languageCode": "en"}, "cuisine": "Filipino", "photoUrl": "images/restaurant-photos/daly-city/Mekeni Small.jpeg", "hours": {"Monday": "10:00 AM - 9:00 PM", "Tuesday": "10:00 AM - 9:00 PM", "Wednesday": "10:00 AM - 9:00 PM", "Thursday": "10:00 AM - 9:00 PM", "Friday": "10:00 AM - 9:00 PM", "Saturday": "10:00 AM - 9:00 PM", "Sunday": "10:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Filipino restaurant with traditional dishes including grilled meats, chicken and pork skewers, pancit, and rice plates at community-friendly prices."}, {"id": "ChIJ1cAOdRZ8j4AR-UYperx90fg", "formattedAddress": "6771 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7000129, "longitude": -122.46357829999998}, "googleMapsUri": "https://maps.google.com/?cid=17929249839995504377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Mi Guadalajara", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/daly-city/Mi Guadalajara Small.jpeg", "hours": {"Monday": "8:00 AM - 10:00 PM", "Tuesday": "8:00 AM - 10:00 PM", "Wednesday": "8:00 AM - 10:00 PM", "Thursday": "8:00 AM - 10:00 PM", "Friday": "8:00 AM - 10:00 PM", "Saturday": "8:00 AM - 10:00 PM", "Sunday": "8:00 AM - 10:00 PM"}, "priceRange": "$", "description": "Mexican restaurant open from breakfast through late evening with traditional Jalisco-style dishes, tacos, burritos, and house specialties."}, {"id": "ChIJj0ixiWx8j4AR2v5O5ceLP1g", "formattedAddress": "199 87th St, Daly City, CA 94015, USA", "location": {"latitude": 37.6931607, "longitude": -122.4720459}, "googleMapsUri": "https://maps.google.com/?cid=6358954889532341978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://misstomatos.com/", "displayName": {"text": "Miss Tomato Sandwiches and liquor", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/Miss Tomato Small.jpeg", "hours": {"Monday": "9:00 AM - 10:00 PM", "Tuesday": "9:00 AM - 10:00 PM", "Wednesday": "9:00 AM - 10:00 PM", "Thursday": "9:00 AM - 10:00 PM", "Friday": "9:00 AM - 10:00 PM", "Saturday": "9:00 AM - 10:00 PM", "Sunday": "9:00 AM - 10:00 PM"}, "priceRange": "$", "description": "Sandwich and liquor shop in Daly City serving fresh-made sandwiches and a range of beverages in a casual counter-service setting."}, {"id": "ChIJd9SdW417j4ARtnxzFfeP1F0", "formattedAddress": "127 Serramonte Center Suite 660, Daly City, CA 94015, USA", "location": {"latitude": 37.6710182, "longitude": -122.4703879}, "googleMapsUri": "https://maps.google.com/?cid=6761187231969541302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://locations.modpizza.com/usa/ca/daly-city/127-serramonte-center?utm_source=google&utm_medium=yext", "displayName": {"text": "MOD Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/Mod Pizza Small.jpeg", "hours": {"Monday": "10:30 AM - 9:30 PM", "Tuesday": "10:30 AM - 9:30 PM", "Wednesday": "10:30 AM - 9:30 PM", "Thursday": "10:30 AM - 9:30 PM", "Friday": "10:30 AM - 10:00 PM", "Saturday": "10:30 AM - 10:00 PM", "Sunday": "10:30 AM - 9:30 PM"}, "menuUrl": "https://modpizza.com/menu/", "priceRange": "$", "description": "Build-your-own fast-casual pizza chain with unlimited toppings at a flat price, individual-sized pies, and quick counter-service preparation."}, {"id": "ChIJZR0NioN9j4ARO3lIbz2ZCvI", "formattedAddress": "35 Skyline Plaza, Daly City, CA 94015, USA", "location": {"latitude": 37.6826503, "longitude": -122.48778129999998}, "googleMapsUri": "https://maps.google.com/?cid=17440920996084742459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.mountainmikespizza.com/locations/daly-city-skyline/", "displayName": {"text": "Mountain Mike's Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/Mountain Mikes Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.mountainmikespizza.com/menu/", "priceRange": "$$", "description": "Bay Area pizza chain with crispy crust pies, wing combos, salads, and family meal deals — a reliable neighborhood option for dine-in and delivery."}, {"id": "ChIJT0hxCG18j4ARA9TQ3Mhf6jc", "formattedAddress": "1301 Sullivan Ave, Daly City, CA 94015, USA", "location": {"latitude": 37.690953199999996, "longitude": -122.47206349999999}, "googleMapsUri": "https://maps.google.com/?cid=4029138132939101187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.dcmrpickles.com/", "displayName": {"text": "Mr. Pickles", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/Mr Pickles Sandwich Shop Small.jpeg", "hours": {"Monday": "10:00 AM - 8:00 PM", "Tuesday": "10:00 AM - 8:00 PM", "Wednesday": "10:00 AM - 8:00 PM", "Thursday": "10:00 AM - 8:00 PM", "Friday": "10:00 AM - 8:00 PM", "Saturday": "10:00 AM - 8:00 PM", "Sunday": "11:00 AM - 7:00 PM"}, "menuUrl": "https://www.mrpickles.com/menu/", "priceRange": "$", "description": "Bay Area sandwich chain with fresh-baked Dutch crunch bread, deli meats, specialty combos, and generous portions popular for lunch."}, {"id": "ChIJh3Miqm58j4ARXY4O0hskbbw", "formattedAddress": "321 87th St, Daly City, CA 94015, USA", "location": {"latitude": 37.69291, "longitude": -122.475123}, "googleMapsUri": "https://maps.google.com/?cid=13577548153498799709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://mrpizzamandc.com/?utm_source=google", "displayName": {"text": "Mr. Pizza Man", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/Mr Pizza Man Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "12:00 PM - 9:00 PM"}, "priceRange": "$", "description": "Local pizza shop with classic pies, wings, and deli sandwiches available for dine-in, takeout, and delivery."}, {"id": "ChIJLwUinFt8j4ARlavAOyaDfk0", "formattedAddress": "201 Westlake Center, Daly City, CA 94015, USA", "location": {"latitude": 37.701546199999996, "longitude": -122.48212910000001}, "googleMapsUri": "https://maps.google.com/?cid=5584044788220472213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://nationsrestaurants.com/", "displayName": {"text": "Nation's Giant Hamburgers & Great Pies", "languageCode": "en"}, "cuisine": "Burgers", "photoUrl": "images/restaurant-photos/daly-city/Nations Small.jpeg", "phone": "(650) 755-8880", "hours": {"Monday": "Open 24 Hours", "Tuesday": "Open 24 Hours", "Wednesday": "Open 24 Hours", "Thursday": "Open 24 Hours", "Friday": "Open 24 Hours", "Saturday": "Open 24 Hours", "Sunday": "Open 24 Hours"}, "menuUrl": "https://www.nationsrestaurants.com/", "priceRange": "$", "description": "Bay Area-born diner institution at Westlake Center open 24 hours with giant burgers, mile-high pies, breakfast all day, and hot dogs — a Daly City neighborhood staple since the 1950s."}, {"id": "ChIJYR_UbBh9j4ARDAJMuTbLGnw", "formattedAddress": "398 Templeton Ave, Daly City, CA 94014, USA", "location": {"latitude": 37.7059041, "longitude": -122.45284989999999}, "googleMapsUri": "https://maps.google.com/?cid=8942683445994979852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://newdalycitymarketgo.site/", "displayName": {"text": "New Daly City Market", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/New Daly city Market Small.jpeg", "hours": {"Monday": "8:00 AM - 9:00 PM", "Tuesday": "8:00 AM - 9:00 PM", "Wednesday": "8:00 AM - 9:00 PM", "Thursday": "8:00 AM - 9:00 PM", "Friday": "8:00 AM - 9:00 PM", "Saturday": "8:00 AM - 9:00 PM", "Sunday": "8:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Neighborhood market and prepared foods counter with fresh deli items, Filipino dishes, and grocery staples for the local community."}, {"id": "ChIJmU0qrIx9j4ARivdFCbtG6HM", "formattedAddress": "6282 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7060745, "longitude": -122.46170670000001}, "googleMapsUri": "https://maps.google.com/?cid=8352003278086993802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://thenickandnorabar.com/", "displayName": {"text": "Nick & Nora", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/Nick and Nora Small.jpeg", "hours": {"Monday": "5:00 PM - 2:00 AM", "Tuesday": "5:00 PM - 2:00 AM", "Wednesday": "5:00 PM - 2:00 AM", "Thursday": "5:00 PM - 2:00 AM", "Friday": "5:00 PM - 2:00 AM", "Saturday": "5:00 PM - 2:00 AM", "Sunday": "5:00 PM - 2:00 AM"}, "priceRange": "$$", "description": "Cocktail bar and late-night lounge in Daly City with craft drinks, small bites, and a relaxed atmosphere open until 2 AM."}, {"id": "ChIJ3csTatV7j4AR4aqlq3io6A4", "formattedAddress": "309 Gellert Blvd B, Daly City, CA 94015, USA", "location": {"latitude": 37.668104899999996, "longitude": -122.4684211}, "googleMapsUri": "https://maps.google.com/?cid=1074293747357166305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://nickthegreek.com/", "displayName": {"text": "Nick the Greek", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/daly-city/Nick The Greek Small.jpeg", "hours": {"Monday": "10:00 AM - 10:00 PM", "Tuesday": "10:00 AM - 10:00 PM", "Wednesday": "10:00 AM - 10:00 PM", "Thursday": "10:00 AM - 10:00 PM", "Friday": "10:00 AM - 11:00 PM", "Saturday": "10:00 AM - 11:00 PM", "Sunday": "10:00 AM - 10:00 PM"}, "menuUrl": "https://www.nickthegreek.com/menu/", "priceRange": "$", "description": "Fast-casual Greek chain with gyros, souvlaki, pita wraps, and fresh salads made to order at approachable prices."}, {"id": "ChIJoRiFBMh9j4ARTjmyQJOqzFo", "formattedAddress": "507 Westlake Center, Daly City, CA 94015, USA", "location": {"latitude": 37.699577, "longitude": -122.482389}, "googleMapsUri": "https://maps.google.com/?cid=6542791908084824398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.nickthegreek.com/", "displayName": {"text": "Nick the Greek | Daly City", "languageCode": "en"}, "cuisine": "Greek/Mediterranean", "photoUrl": "images/restaurant-photos/daly-city/Nick the Greek | Daly City _westlake Small.jpeg", "hours": {"Monday": "10:00 AM - 10:00 PM", "Tuesday": "10:00 AM - 10:00 PM", "Wednesday": "10:00 AM - 10:00 PM", "Thursday": "10:00 AM - 10:00 PM", "Friday": "10:00 AM - 11:00 PM", "Saturday": "10:00 AM - 11:00 PM", "Sunday": "10:00 AM - 10:00 PM"}, "menuUrl": "https://www.nickthegreek.com/menu/", "priceRange": "$", "description": "Second Daly City location of the popular fast-casual Greek chain with gyros, souvlaki wraps, and fresh Mediterranean plates at everyday prices."}, {"id": "ChIJzw2KUgB9j4ARGWqeU0Vl8eI", "formattedAddress": "2985 Junipero Serra Blvd, Daly City, CA 94014, USA", "location": {"latitude": 37.687049, "longitude": -122.46988499999999}, "googleMapsUri": "https://maps.google.com/?cid=16352963070389021209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://northbeachpizza.com/northbeachpizzadc?utm_source=google", "displayName": {"text": "North Beach Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/North Beach Pizza Small.jpeg", "hours": {"Monday": "11:00 AM - 10:00 PM", "Tuesday": "11:00 AM - 10:00 PM", "Wednesday": "11:00 AM - 10:00 PM", "Thursday": "11:00 AM - 10:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 10:00 PM"}, "menuUrl": "https://www.northbeachpizza.net/", "priceRange": "$$", "description": "Daly City outpost of San Francisco's storied North Beach Pizza with classic thin-crust pies, pasta, calzones, and old-school Italian-American comfort food."}, {"id": "ChIJ-1sHh-N9j4ARMY2FY1r11wc", "formattedAddress": "344 Westlake Center, Daly City, CA 94015, USA", "location": {"latitude": 37.700550299999996, "longitude": -122.48309849999998}, "googleMapsUri": "https://maps.google.com/?cid=565190046823845169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://onohawaiianbbq.com/", "displayName": {"text": "Ohana Hawaiian BBQ", "languageCode": "en"}, "cuisine": "BBQ", "photoUrl": "images/restaurant-photos/daly-city/Ohana Hawaiian BBQ Small.jpeg", "phone": "(650) 731-6058", "hours": {"Monday": "10:00 AM - 11:00 PM", "Tuesday": "10:00 AM - 11:00 PM", "Wednesday": "10:00 AM - 11:00 PM", "Thursday": "10:00 AM - 11:00 PM", "Friday": "10:00 AM - 11:00 PM", "Saturday": "10:00 AM - 11:00 PM", "Sunday": "10:00 AM - 11:00 PM"}, "menuUrl": "https://order.online/en-US/store/ohana-hawaiianbbq-dc-23486864", "priceRange": "$", "description": "Halal Hawaiian BBQ at Westlake Center with generous portions of chicken katsu, BBQ chicken, shrimp burgers, and macaroni salad — consistently voted Daly City's best Hawaiian plate lunch."}, {"id": "ChIJGY_jLFp8j4ARXLcIfxMpJw8", "formattedAddress": "11 Glenwood Ave, Daly City, CA 94015, USA", "location": {"latitude": 37.701585, "longitude": -122.485509}, "googleMapsUri": "https://maps.google.com/?cid=1091886598373029724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://originaljoes.com/westlake/", "displayName": {"text": "Original Joe’s Westlake", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/daly-city/Original Joes Westlake Small.jpeg", "phone": "(650) 755-7400", "hours": {"Monday": "11:00 AM - 10:00 PM", "Tuesday": "11:00 AM - 10:00 PM", "Wednesday": "11:00 AM - 10:00 PM", "Thursday": "11:00 AM - 10:00 PM", "Friday": "11:00 AM - 11:00 PM", "Saturday": "10:00 AM - 11:00 PM", "Sunday": "10:00 AM - 10:00 PM"}, "menuUrl": "https://www.originaljoes.com/westlake/menu", "priceRange": "$$$", "description": "Beloved Daly City institution reborn at 11 Glenwood Avenue since 1956, with prime rib, fillet of sole, handmade ravioli, an open kitchen, and a mid-century dining room that draws diners from across the Peninsula."}, {"id": "ChIJ_f97C-t7j4ARJnTW3EXqaeY", "formattedAddress": "371 Gellert Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.6656014, "longitude": -122.46661859999999}, "googleMapsUri": "https://maps.google.com/?cid=16603059087056729126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://locations.outback.com/california/daly-city/371-gellert-blvd.?utm_source=gmb&utm_medium=local_search&utm_campaign=website_cta&y_source=1_MTU1MDI2MDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D", "displayName": {"text": "Outback Steakhouse", "languageCode": "en"}, "cuisine": "Steakhouse", "photoUrl": "images/restaurant-photos/daly-city/Outback Steakhouse Small.jpeg", "hours": {"Monday": "11:00 AM - 10:00 PM", "Tuesday": "11:00 AM - 10:00 PM", "Wednesday": "11:00 AM - 10:00 PM", "Thursday": "11:00 AM - 10:00 PM", "Friday": "11:00 AM - 11:00 PM", "Saturday": "11:00 AM - 11:00 PM", "Sunday": "11:00 AM - 10:00 PM"}, "menuUrl": "https://www.outback.com/menu", "priceRange": "$$", "description": "Australian-themed steakhouse chain at 371 Gellert Boulevard with signature Bloomin' Onions, wood-fired steaks, ribs, and an extensive happy hour."}, {"id": "ChIJaQTCajx8j4ARWQAUNj16xPo", "formattedAddress": "6356 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7054222, "longitude": -122.46225720000001}, "googleMapsUri": "https://maps.google.com/?cid=18069702008236146777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://pacificrestaurantgo.site/", "displayName": {"text": "Pacific Restaurant", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/daly-city/Pacific Restaurant Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Filipino and Pacific Island restaurant with traditional plates, rice dishes, and hearty comfort food at everyday prices in Daly City."}, {"id": "ChIJwwMk6ex7j4ARwP9JUrUO1LY", "formattedAddress": "307 Gellert Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.6685808, "longitude": -122.46856530000001}, "googleMapsUri": "https://maps.google.com/?cid=13174170981897994176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.panerabread.com/en-us/cafe/locations/ca/daly-city/307-gellert-blvd?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=204484&utm_content=main", "displayName": {"text": "Panera Bread", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/Panera Bread Small.jpeg", "hours": {"Monday": "6:30 AM - 9:00 PM", "Tuesday": "6:30 AM - 9:00 PM", "Wednesday": "6:30 AM - 9:00 PM", "Thursday": "6:30 AM - 9:00 PM", "Friday": "6:30 AM - 9:00 PM", "Saturday": "6:30 AM - 9:00 PM", "Sunday": "6:30 AM - 9:00 PM"}, "menuUrl": "https://www.panerabread.com/", "priceRange": "$", "description": "Bakery-cafe chain at 307 Gellert Boulevard with fresh-baked sourdough, seasonal soups, salads, sandwiches, and coffee open from early morning."}, {"id": "ChIJSVbh0T18j4AREYIWplV8gVw", "formattedAddress": "6564 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7035036, "longitude": -122.46307479999999}, "googleMapsUri": "https://maps.google.com/?cid=6665745630785602065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Paradise Brazilian Imports", "languageCode": "en"}, "cuisine": "Brazilian", "photoUrl": "images/restaurant-photos/daly-city/Paradise Brazilian Imports Small.jpeg", "hours": {"Monday": "10:00 AM - 7:00 PM", "Tuesday": "10:00 AM - 7:00 PM", "Wednesday": "10:00 AM - 7:00 PM", "Thursday": "10:00 AM - 7:00 PM", "Friday": "10:00 AM - 7:00 PM", "Saturday": "10:00 AM - 7:00 PM", "Sunday": "11:00 AM - 5:00 PM"}, "priceRange": "$$", "description": "Brazilian import shop and casual eatery with authentic Brazilian snacks, frozen foods, acai, and specialty imports not commonly found elsewhere in the Bay Area."}, {"id": "ChIJM9MQD8h7j4ARG5BqGciez8Y", "formattedAddress": "950 King Dr, Daly City, CA 94015, USA", "location": {"latitude": 37.6513956, "longitude": -122.468392}, "googleMapsUri": "https://maps.google.com/?cid=14325843521945899035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.online/business/pho-cafe-897112", "displayName": {"text": "Pho Cafe", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/daly-city/Pho Cafe Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Casual Vietnamese pho restaurant open daily with fresh broth, rice noodle soups, and Vietnamese comfort staples at neighborhood prices."}, {"id": "ChIJCYVPJl18j4ARcWA5LpIpKTM", "formattedAddress": "85 Southgate Ave, Daly City, CA 94015, USA", "location": {"latitude": 37.6978583, "longitude": -122.48145029999999}, "googleMapsUri": "https://maps.google.com/?cid=3686523477796937841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://kevinnoodlehouse.com/", "displayName": {"text": "Pho Huynh Hiep 3 - Kevin's Noodle House", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/daly-city/Pho Huynh Hiep 3 Small.jpeg", "phone": "(650) 992-1883", "hours": {"Monday": "9:30 AM - 7:00 PM", "Tuesday": "9:30 AM - 7:00 PM", "Wednesday": "9:30 AM - 7:00 PM", "Thursday": "9:30 AM - 7:00 PM", "Friday": "9:30 AM - 7:00 PM", "Saturday": "9:00 AM - 7:00 PM", "Sunday": "9:00 AM - 7:00 PM"}, "menuUrl": "https://www.kevinsnoodlehouse.com/", "priceRange": "$", "description": "Third location of the beloved Kevin's Noodle House dynasty on Mission Street, with 30-plus-year family recipes for pho, hu tieu, and Vietnamese noodle soups that have earned a multigenerational following."}, {"id": "ChIJ0yUWXHx8j4ARd8tB1P_Xbis", "formattedAddress": "188 Skyline Plaza, Daly City, CA 94015, USA", "location": {"latitude": 37.6815523, "longitude": -122.4877336}, "googleMapsUri": "https://maps.google.com/?cid=3129676284846787447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://kevinnoodlehouse.com/", "displayName": {"text": "Pho Huynh Hiep 4 - Kevin's Noodle House", "languageCode": "en"}, "cuisine": "Vietnamese", "photoUrl": "images/restaurant-photos/daly-city/Pho Huynh Hiep 4 Small.jpeg", "phone": "(650) 992-9800", "hours": {"Monday": "9:30 AM - 7:00 PM", "Tuesday": "9:30 AM - 7:00 PM", "Wednesday": "9:30 AM - 7:00 PM", "Thursday": "9:30 AM - 7:00 PM", "Friday": "9:30 AM - 7:00 PM", "Saturday": "9:00 AM - 7:00 PM", "Sunday": "9:00 AM - 7:00 PM"}, "menuUrl": "https://www.kevinsnoodlehouse.com/", "priceRange": "$", "description": "Fourth location of Kevin's Noodle House on Mission Street, serving the same award-winning pho, hu tieu, and broken rice plates that have defined Vietnamese dining in Daly City for decades."}, {"id": "ChIJR7gzxBV8j4AR2G_XEVdA5Pw", "formattedAddress": "301 Miriam St Suite B, Daly City, CA 94014, USA", "location": {"latitude": 37.6993815, "longitude": -122.46464619999999}, "googleMapsUri": "https://maps.google.com/?cid=18222760734953533400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.pizzaandpastahousewestlake.com/", "displayName": {"text": "PIZZA & PASTA HOUSE", "languageCode": "en"}, "cuisine": "Italian", "photoUrl": "images/restaurant-photos/daly-city/Pizza & Pasta House Small.jpeg", "hours": {"Monday": "11:00 AM - 10:00 PM", "Tuesday": "11:00 AM - 10:00 PM", "Wednesday": "11:00 AM - 10:00 PM", "Thursday": "11:00 AM - 10:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 10:00 PM"}, "priceRange": "$", "description": "Neighborhood Italian restaurant at 301 Miriam Street with generously sized pizzas, fresh pasta, and classic Italian-American comfort food rated 4.7 stars across 340-plus delivery orders."}, {"id": "ChIJPYsB1RB7j4AR7NJGjlqhpV0", "formattedAddress": "5G Serramonte Center, Daly City, CA 94015, USA", "location": {"latitude": 37.6727625, "longitude": -122.47041370000001}, "googleMapsUri": "https://maps.google.com/?cid=6747977026990691052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.poke.house/locations/poke-serramonte-dalycity", "displayName": {"text": "Poke House", "languageCode": "en"}, "cuisine": "Fusion", "photoUrl": "images/restaurant-photos/daly-city/Poke House Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "menuUrl": "https://www.poke.house/", "priceRange": "$$", "description": "Build-your-own poke bowl restaurant with sustainably sourced proteins, handmade sauces, and California-inspired toppings in a clean fast-casual format."}, {"id": "ChIJPaM07xN8j4ARXc2O2mr6-ag", "formattedAddress": "7027 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.6953798, "longitude": -122.4643665}, "googleMapsUri": "https://maps.google.com/?cid=12176038404413115741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.primopizzasf.com/", "displayName": {"text": "Primo Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/Primo Pizza Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Daly City pizza shop with a Buy 1 Get 1 offer on Uber Eats, classic pies, and quick delivery — a high-rated local favorite with over 4.7 stars."}, {"id": "ChIJo5BmrBZ8j4ARw7UqLkFaRdk", "formattedAddress": "6917 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.696968999999996, "longitude": -122.4630496}, "googleMapsUri": "https://maps.google.com/?cid=15656018915617322435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://redbowlnoodle.com/", "displayName": {"text": "Red Bowl Noodles", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Red Bowl Small.jpeg", "hours": {"Monday": "10:30 AM - 9:00 PM", "Tuesday": "10:30 AM - 9:00 PM", "Wednesday": "10:30 AM - 9:00 PM", "Thursday": "10:30 AM - 9:00 PM", "Friday": "10:30 AM - 9:00 PM", "Saturday": "10:30 AM - 9:00 PM", "Sunday": "10:30 AM - 9:00 PM"}, "priceRange": "$", "description": "Asian noodle bar with Chinese-style soups, wonton noodles, beef brisket, and comfort noodle dishes at everyday prices."}, {"id": "ChIJrdNCMoh9j4ARqcvGFbegBws", "formattedAddress": "301 Miriam St, Daly City, CA 94014, USA", "location": {"latitude": 37.6993631, "longitude": -122.4647596}, "googleMapsUri": "https://maps.google.com/?cid=794780567458991017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Rosi's Alfajores", "languageCode": "en"}, "cuisine": "Other", "photoUrl": "images/restaurant-photos/daly-city/Rosis Alfajores Small.jpeg", "hours": {"Tuesday": "10:00 AM - 6:00 PM", "Wednesday": "10:00 AM - 6:00 PM", "Thursday": "10:00 AM - 6:00 PM", "Friday": "10:00 AM - 6:00 PM", "Saturday": "10:00 AM - 6:00 PM", "Sunday": "10:00 AM - 6:00 PM"}, "priceRange": "$", "description": "Specialty Latin American bakery in Daly City known for handmade Argentine alfajores, dulce de leche pastries, and South American sweets."}, {"id": "ChIJTZcikTx8j4ARMMRL6ZQ4XxU", "formattedAddress": "6222 Mission St, Daly City, CA 94015, USA", "location": {"latitude": 37.7066418, "longitude": -122.460015}, "googleMapsUri": "https://maps.google.com/?cid=1540011809804370992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ", "displayName": {"text": "Round Table Pizza", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/Round Table _mission Small.jpeg", "phone": "(650) 756-0640", "hours": {"Monday": "11:00 AM - 9:45 PM", "Tuesday": "11:00 AM - 9:45 PM", "Wednesday": "11:00 AM - 9:45 PM", "Thursday": "11:00 AM - 9:45 PM", "Friday": "11:00 AM - 10:45 PM", "Saturday": "11:00 AM - 10:45 PM", "Sunday": "11:00 AM - 9:45 PM"}, "menuUrl": "https://www.roundtablepizza.com/menu/", "priceRange": "$", "description": "Bay Area-born pizza chain at 1901 Junipero Serra Boulevard with classic thin and hearty crust pies, pasta, wings, and salads with a consistent 4.6-star delivery rating."}, {"id": "ChIJc6bRdAB9j4ARLRVSTlDFwf4", "formattedAddress": "1216 Hillside Blvd, Daly City, CA 94014, USA", "location": {"latitude": 37.6858497, "longitude": -122.45973850000001}, "googleMapsUri": "https://maps.google.com/?cid=18357170504840910125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.instagram.com/russfamkitchen_?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr", "displayName": {"text": "Russ Fam Kitchen", "languageCode": "en"}, "cuisine": "Other", "hours": {"Monday": "10:00 AM - 8:00 PM", "Tuesday": "10:00 AM - 8:00 PM", "Wednesday": "10:00 AM - 8:00 PM", "Thursday": "10:00 AM - 8:00 PM", "Friday": "10:00 AM - 8:00 PM", "Saturday": "10:00 AM - 8:00 PM", "Sunday": "10:00 AM - 8:00 PM"}, "priceRange": "$", "description": "Family-run Filipino kitchen with home-style cooking, rice plates, and traditional dishes served in a casual welcoming setting."}, {"id": "ChIJQ4BnIyF7j4ARASVC3xDPZHQ", "formattedAddress": "383 Gellert Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.6647052, "longitude": -122.46764759999999}, "googleMapsUri": "https://maps.google.com/?cid=8387056077442786561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.seapotusa.com/daly-city-ca", "displayName": {"text": "Seapot Daly City", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/daly-city/Seapot Small.jpeg", "hours": {"Monday": "11:30 AM - 10:00 PM", "Tuesday": "11:30 AM - 10:00 PM", "Wednesday": "11:30 AM - 10:00 PM", "Thursday": "11:30 AM - 10:00 PM", "Friday": "11:30 AM - 11:00 PM", "Saturday": "11:30 AM - 11:00 PM", "Sunday": "11:30 AM - 10:00 PM"}, "priceRange": "$$", "description": "Korean all-you-can-eat hot pot and BBQ restaurant in Daly City with conveyor-belt service, fresh meats, seafood, and a wide banchan selection."}, {"id": "ChIJLz3OK118j4ARce109CngBks", "formattedAddress": "25 Southgate Ave, Daly City, CA 94015, USA", "location": {"latitude": 37.698005699999996, "longitude": -122.4809455}, "googleMapsUri": "https://maps.google.com/?cid=5406254873504443761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Shaking Crab", "languageCode": "en"}, "cuisine": "Seafood", "photoUrl": "images/restaurant-photos/daly-city/Shaking Crab Small.jpeg", "hours": {"Monday": "11:00 AM - 10:00 PM", "Tuesday": "11:00 AM - 10:00 PM", "Wednesday": "11:00 AM - 10:00 PM", "Thursday": "11:00 AM - 10:00 PM", "Friday": "11:00 AM - 10:00 PM", "Saturday": "11:00 AM - 10:00 PM", "Sunday": "11:00 AM - 10:00 PM"}, "priceRange": "$$", "description": "Cajun seafood boil restaurant with customizable spice levels, shrimp, crab, lobster, and corn cooked in a bag with your choice of signature sauce."}, {"id": "ChIJwynKLCV7j4ARyYeXr2SKLuc", "formattedAddress": "94015, United States, California, Daly City, Gellert Blvd, #2", "location": {"latitude": 37.6501972, "longitude": -122.45397799999999}, "googleMapsUri": "https://maps.google.com/?cid=16658404236737349577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://order.shinethaicuisine.com/", "displayName": {"text": "Shine Thai Cuisine", "languageCode": "en"}, "cuisine": "Thai", "photoUrl": "images/restaurant-photos/daly-city/Shine Thai Small.jpeg", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:30 PM"}, "priceRange": "$$", "description": "Thai restaurant on Mission Street with classic curries, pad thai, stir-fries, and vegetarian options in a neighborhood casual setting."}, {"id": "ChIJh8-odnR7j4ARz7d7QnXg-sA", "formattedAddress": "148 Serramonte Center, Daly City, CA 94015, USA", "location": {"latitude": 37.6703804, "longitude": -122.4735931}, "googleMapsUri": "https://maps.google.com/?cid=13905673593691027407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.simmerhuangmiaogrill.com/", "displayName": {"text": "Simmer Huang / Miao Grill", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Simmer Huang Small.jpeg", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:30 PM"}, "priceRange": "$$", "description": "Chinese hot pot and grill restaurant with Miao-style preparations, simmering broths, and authentic regional Chinese flavors."}, {"id": "ChIJc9FY8Jd9j4ARU1p4983WJp4", "formattedAddress": "514 Westlake Center, Daly City, CA 94015, USA", "location": {"latitude": 37.699172, "longitude": -122.4825453}, "googleMapsUri": "https://maps.google.com/?cid=11396032087216118355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://sourdoughandco.com/daly-city", "displayName": {"text": "Sourdough & Co.", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/Sourdough & Co Small.jpeg", "hours": {"Monday": "10:00 AM - 8:00 PM", "Tuesday": "10:00 AM - 8:00 PM", "Wednesday": "10:00 AM - 8:00 PM", "Thursday": "10:00 AM - 8:00 PM", "Friday": "10:00 AM - 8:00 PM", "Saturday": "10:00 AM - 8:00 PM", "Sunday": "10:00 AM - 8:00 PM"}, "menuUrl": "https://sourdoughandco.com/", "priceRange": "$", "description": "Sourdough sandwich chain on Junipero Serra with fresh-baked bread, quality deli meats, house-spread sandwiches, and rotating daily soups."}, {"id": "ChIJWwMKn_t9j4ARwtkPUWCQq5M", "displayName": {"text": "Spicy House", "languageCode": "en"}, "formattedAddress": "6811 Mission St, Daly City, CA 94014, USA", "googleMapsUri": "https://maps.google.com/?cid=10640757287944182210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.spicyhousetogo.com/", "location": {}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Spicy House Small.jpeg", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:30 PM"}, "priceRange": "$", "description": "Chinese restaurant on Mission Street with bold Sichuan and Hunan-inspired dishes, spicy stir-fries, and homestyle Chinese cooking at everyday prices."}, {"id": "ChIJi4q0Bg18j4ARaT1yCYzOgps", "formattedAddress": "1 San Pedro Rd, Daly City, CA 94014, USA", "location": {"latitude": 37.6888406, "longitude": -122.46677890000001}, "googleMapsUri": "https://maps.google.com/?cid=11205745923700440425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Suily's Cafe", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/Suilys Cafe Small.jpeg", "hours": {"Monday": "7:00 AM - 3:00 PM", "Tuesday": "7:00 AM - 3:00 PM", "Wednesday": "7:00 AM - 3:00 PM", "Thursday": "7:00 AM - 3:00 PM", "Friday": "7:00 AM - 3:00 PM", "Saturday": "7:00 AM - 3:00 PM", "Sunday": "7:00 AM - 3:00 PM"}, "priceRange": "$", "description": "Neighborhood Filipino breakfast and lunch cafe open from early morning with rice meals, silog plates, and Filipino comfort food for the local community."}, {"id": "ChIJTZbKm7d7j4AR_4aEkXg3Zcw", "formattedAddress": "3 St Francis Square, Daly City, CA 94015, USA", "location": {"latitude": 37.6748201, "longitude": -122.4786111}, "googleMapsUri": "https://maps.google.com/?cid=14728239147362060031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Supreme Pot", "languageCode": "en"}, "cuisine": "Chinese", "hours": {"Monday": "11:30 AM - 10:00 PM", "Tuesday": "11:30 AM - 10:00 PM", "Wednesday": "11:30 AM - 10:00 PM", "Thursday": "11:30 AM - 10:00 PM", "Friday": "11:30 AM - 10:00 PM", "Saturday": "11:30 AM - 10:00 PM", "Sunday": "11:30 AM - 10:00 PM"}, "priceRange": "$$", "description": "Hot pot restaurant in Daly City with individual and shared pot options, fresh proteins, vegetables, and a broad selection of dipping sauces."}, {"id": "ChIJ2Rca7Ox_j4ARg-kQN9kC2nc", "displayName": {"text": "TacoMiendo (food truck)", "languageCode": "en"}, "formattedAddress": "2700 Bayshore Blvd, Daly City, CA 94014, USA", "googleMapsUri": "https://maps.google.com/?cid=8636218367391361411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://food.orders.co/tacomiendo", "location": {}, "cuisine": "Mexican", "keywords": ["food truck"], "photoUrl": "images/restaurant-photos/daly-city/TacoMiendo Small.jpeg", "hours": {"Monday": "10:00 AM - 8:00 PM", "Tuesday": "10:00 AM - 8:00 PM", "Wednesday": "10:00 AM - 8:00 PM", "Thursday": "10:00 AM - 8:00 PM", "Friday": "10:00 AM - 8:00 PM", "Saturday": "10:00 AM - 8:00 PM", "Sunday": "10:00 AM - 8:00 PM"}, "priceRange": "$", "description": "Mexican food truck serving tacos, burritos, and traditional street food favorites made fresh to order in the Daly City area."}, {"id": "ChIJmRJZP_p9j4AR0KEXYJuChFE", "displayName": {"text": "Tacos El Charrito (food truck)", "languageCode": "en"}, "formattedAddress": "7428 Mission St, Daly City, CA 94014, USA", "googleMapsUri": "https://maps.google.com/?cid=5873963417841672656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "location": {}, "cuisine": "Mexican", "keywords": ["food truck"], "photoUrl": "images/restaurant-photos/daly-city/Hibachi Truck (food truck) Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Family-run Mexican food truck with al pastor, carne asada, and house-made tacos and burritos at street-food prices — a Daly City neighborhood staple."}, {"id": "ChIJaTdo59t9j4ARb4xrUoGo8gI", "formattedAddress": "1618 Sullivan Ave, Daly City, CA 94015, USA", "location": {"latitude": 37.6873748, "longitude": -122.4724632}, "googleMapsUri": "https://maps.google.com/?cid=212417405826862191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://taqueriadoscharros.online/", "displayName": {"text": "Taqueria Dos Charros", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/daly-city/Taqueria Dos Charros Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 10:00 PM", "Saturday": "9:00 AM - 10:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "menuUrl": "https://www.taqueriadoscharros.com/", "priceRange": "$", "description": "Beloved Daly City taqueria at Sullivan Avenue with tacos, burritos, seafood plates, fajitas, and kids menu — one of the highest-rated Mexican restaurants in Daly City with 900-plus delivery reviews."}, {"id": "ChIJwbETVIB9j4ARGi09j8fT24c", "formattedAddress": "2408 B Junipero Serra Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.6931489, "longitude": -122.4713056}, "googleMapsUri": "https://maps.google.com/?cid=9789651069075008794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Taqueria Los Agaves", "languageCode": "en"}, "cuisine": "Mexican", "photoUrl": "images/restaurant-photos/daly-city/Taqueria Los Agaves Small.jpeg", "hours": {"Monday": "9:00 AM - 9:00 PM", "Tuesday": "9:00 AM - 9:00 PM", "Wednesday": "9:00 AM - 9:00 PM", "Thursday": "9:00 AM - 9:00 PM", "Friday": "9:00 AM - 9:00 PM", "Saturday": "9:00 AM - 9:00 PM", "Sunday": "9:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Authentic Mexican taqueria with al pastor, carne asada tacos, burritos, and fresh salsas at everyday prices."}, {"id": "ChIJyXbPcf5_j4AR-UmSGe2ZN4c", "formattedAddress": "6178 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7069356, "longitude": -122.45875249999999}, "googleMapsUri": "https://maps.google.com/?cid=9743425562454673913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://www.thesubstopdeli.com/", "displayName": {"text": "The Sub Stop Deli", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/The substop deli Small.jpeg", "hours": {"Monday": "8:00 AM - 5:00 PM", "Tuesday": "8:00 AM - 5:00 PM", "Wednesday": "8:00 AM - 5:00 PM", "Thursday": "8:00 AM - 5:00 PM", "Friday": "8:00 AM - 5:00 PM", "Saturday": "8:00 AM - 5:00 PM"}, "priceRange": "$", "description": "No-frills neighborhood deli with made-to-order sandwiches, subs, and deli staples — a quick weekday lunch option for the local working community."}, {"id": "ChIJ24VUchN9j4ARgGNP7UAWO9Y", "formattedAddress": "32 Park Plaza Dr, Daly City, CA 94015, USA", "location": {"latitude": 37.7012836, "longitude": -122.4819828}, "googleMapsUri": "https://maps.google.com/?cid=15436956615857628032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://ohbabysushi.com/", "displayName": {"text": "Tiny Sushi - Oh Baby", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/daly-city/Oh Baby Sushi Small.jpeg", "hours": {"Tuesday": "11:30 AM - 8:30 PM", "Wednesday": "11:30 AM - 8:30 PM", "Thursday": "11:30 AM - 8:30 PM", "Friday": "11:30 AM - 8:30 PM", "Saturday": "11:30 AM - 8:30 PM", "Sunday": "11:30 AM - 8:30 PM"}, "priceRange": "$$", "description": "Intimate sushi spot at Westlake Center with a focused menu of fresh rolls and nigiri praised for quality and value — a local hidden gem with a loyal following."}, {"id": "ChIJb3D4b2t8j4ARkBUG8Axqpbo", "formattedAddress": "2350 Junipero Serra Blvd, Daly City, CA 94015, USA", "location": {"latitude": 37.694714499999996, "longitude": -122.47144929999999}, "googleMapsUri": "https://maps.google.com/?cid=13449272466010936720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Tofu and BBQ House", "languageCode": "en"}, "cuisine": "Korean", "photoUrl": "images/restaurant-photos/daly-city/Tofu and BBQ House Small.jpeg", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:30 PM"}, "priceRange": "$$", "description": "Korean restaurant combining soondubu tofu stew and tabletop Korean BBQ, with banchan, rice, and a full menu of traditional Korean comfort dishes."}, {"id": "ChIJBz5SOJl9j4ARTvT_ZDUpch4", "formattedAddress": "177 Southgate Ave, Daly City, CA 94015, USA", "location": {"latitude": 37.6971734, "longitude": -122.4837633}, "googleMapsUri": "https://maps.google.com/?cid=2193861277787354190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tomsanramendalycity.com/?utm_source=gmb&utm_medium=website", "displayName": {"text": "Tom San Ramen", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/daly-city/Tom San Ramen Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Neighborhood ramen shop with Japanese-style noodle soups, tonkotsu broth, and traditional ramen accompaniments in a casual setting."}, {"id": "ChIJbzxsjEB8j4ARKzKIS39vhbQ", "formattedAddress": "1901 Junipero Serra Blvd # G, Daly City, CA 94014, USA", "location": {"latitude": 37.7020857, "longitude": -122.47056850000001}, "googleMapsUri": "https://maps.google.com/?cid=13007925691248292395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://tomosushiteriyaki.shop/", "displayName": {"text": "Tomo Sushi & Teriyaki", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/daly-city/Tomo Sushi Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$$", "description": "Japanese restaurant with a broad menu of sushi rolls, sashimi, teriyaki plates, and bento boxes available for dine-in and delivery."}, {"id": "ChIJr04AbDx8j4ARIrEeQmmOoGE", "formattedAddress": "6300 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.7057016, "longitude": -122.461946}, "googleMapsUri": "https://maps.google.com/?cid=7034779200684732706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://lokosite.com/biz/topofthehillcafe", "displayName": {"text": "Top of the Hill", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/Top of the Hill Small.jpeg", "hours": {"Monday": "7:00 AM - 9:00 PM", "Tuesday": "7:00 AM - 9:00 PM", "Wednesday": "7:00 AM - 9:00 PM", "Thursday": "7:00 AM - 9:00 PM", "Friday": "7:00 AM - 9:00 PM", "Saturday": "7:00 AM - 9:00 PM", "Sunday": "7:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Daly City neighborhood cafe on Mission Street with coffee, breakfast, lunch, and light bites open from early morning — a relaxed local gathering spot."}, {"id": "ChIJMw0UBA18j4ARmcSetSq8Fvw", "formattedAddress": "6860 Mission St, Daly City, CA 94014, USA", "location": {"latitude": 37.6982462, "longitude": -122.4644478}, "googleMapsUri": "https://maps.google.com/?cid=18164913038667203737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.tselogs.com/home.html", "displayName": {"text": "Tselogs", "languageCode": "en"}, "cuisine": "Filipino", "photoUrl": "images/restaurant-photos/daly-city/Tselogs Small.jpeg", "hours": {"Monday": "8:00 AM - 9:00 PM", "Tuesday": "8:00 AM - 9:00 PM", "Wednesday": "8:00 AM - 9:00 PM", "Thursday": "8:00 AM - 9:00 PM", "Friday": "8:00 AM - 9:00 PM", "Saturday": "8:00 AM - 9:00 PM", "Sunday": "8:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Filipino silog specialty restaurant with a full menu of tapsilog, longsilog, bangsilog, and other classic rice-egg-meat breakfast and all-day Filipino plates."}, {"id": "ChIJ2UB_iQh9j4ARUpVx_aP6dIE", "formattedAddress": "361 E Market St, Daly City, CA 94014, USA", "location": {"latitude": 37.6902444, "longitude": -122.4617581}, "googleMapsUri": "https://maps.google.com/?cid=9328356310429832530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://unipizzeria.com/", "displayName": {"text": "UNI Pizzeria & Grill", "languageCode": "en"}, "cuisine": "Pizza", "photoUrl": "images/restaurant-photos/daly-city/Uni Small.jpeg", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:30 PM"}, "priceRange": "$$", "description": "Pizza and grill restaurant in Daly City with classic pies, grilled dishes, and Italian-American comfort food in a casual neighborhood setting."}, {"id": "ChIJLaW5fFt8j4ARndOjq-gizmI", "formattedAddress": "1901 Junipero Serra Blvd st, D St, Daly City, CA 94014, USA", "location": {"latitude": 37.702244199999996, "longitude": -122.4705773}, "googleMapsUri": "https://maps.google.com/?cid=7119666443626730397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://westlakecoffee.com/", "displayName": {"text": "Westlake Coffee Shop", "languageCode": "en"}, "cuisine": "Cafe/Bakery", "photoUrl": "images/restaurant-photos/daly-city/Westlake Coffee Shop Small.jpeg", "hours": {"Monday": "7:00 AM - 3:00 PM", "Tuesday": "7:00 AM - 3:00 PM", "Wednesday": "7:00 AM - 3:00 PM", "Thursday": "7:00 AM - 3:00 PM", "Friday": "7:00 AM - 3:00 PM", "Saturday": "7:00 AM - 3:00 PM", "Sunday": "7:00 AM - 3:00 PM"}, "priceRange": "$", "description": "Classic American diner and coffee shop at Westlake Center open from early morning with eggs, pancakes, diner staples, and a welcoming neighborhood atmosphere."}, {"id": "ChIJ_T2i1Ah8j4ARircqKd3tblI", "formattedAddress": "1111 Hillside Blvd, Daly City, CA 94014, USA", "location": {"latitude": 37.688161, "longitude": -122.4604785}, "googleMapsUri": "https://maps.google.com/?cid=5939946492682483594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "", "displayName": {"text": "Wong's Cafe", "languageCode": "en"}, "cuisine": "Chinese", "photoUrl": "images/restaurant-photos/daly-city/Wongs Cafe Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$", "description": "Casual Chinese and Asian restaurant in Daly City with a broad menu of classic dishes, rice plates, and noodle soups at everyday prices."}, {"id": "ChIJYYreIM59j4ARtC_tUCX5asU", "formattedAddress": "1901E Junipero Serra Blvd, Daly City, CA 94014, USA", "location": {"latitude": 37.7021881, "longitude": -122.4705689}, "googleMapsUri": "https://maps.google.com/?cid=14225456311669960628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "https://yokohamaiekei.net/", "displayName": {"text": "Yokohama Iekei Ramen Daly City", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/daly-city/Yokohama Iekei Ramen Small.jpeg", "hours": {"Monday": "11:00 AM - 9:00 PM", "Tuesday": "11:00 AM - 9:00 PM", "Wednesday": "11:00 AM - 9:00 PM", "Thursday": "11:00 AM - 9:00 PM", "Friday": "11:00 AM - 9:00 PM", "Saturday": "11:00 AM - 9:00 PM", "Sunday": "11:00 AM - 9:00 PM"}, "priceRange": "$$", "description": "Authentic iekei-style ramen restaurant in Daly City with thick tonkotsu soy broth, firm noodles, and generous chashu pork in the beloved Yokohama ramen tradition."}, {"id": "ChIJ_UVCRI17j4ARCZmiYMuClqk", "formattedAddress": "127-H Serramonte Center, Daly City, CA 94015, USA", "location": {"latitude": 37.6714193, "longitude": -122.4703335}, "googleMapsUri": "https://maps.google.com/?cid=12220098448927660297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA", "websiteUri": "http://www.yoshi-ramen.com/", "displayName": {"text": "Yoshi Ramen & Sushi", "languageCode": "en"}, "cuisine": "Japanese", "photoUrl": "images/restaurant-photos/daly-city/Yoshi Small.jpeg", "hours": {"Monday": "11:00 AM - 9:30 PM", "Tuesday": "11:00 AM - 9:30 PM", "Wednesday": "11:00 AM - 9:30 PM", "Thursday": "11:00 AM - 9:30 PM", "Friday": "11:00 AM - 9:30 PM", "Saturday": "11:00 AM - 9:30 PM", "Sunday": "11:00 AM - 9:30 PM"}, "priceRange": "$$", "description": "Combination ramen and sushi restaurant with rich broth noodle soups alongside fresh rolls and nigiri — a versatile neighborhood Japanese spot open seven days."}],
+  "Daly City, CA": [
+    {
+      "id": "ChIJu4vJY1x8j4ARLq2Z8D8560Y",
+      "formattedAddress": "273 Lake Merced Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6997715,
+        "longitude": -122.48313429999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5110241148964285742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bananaislandrestaurant.us/",
+      "displayName": {
+        "text": "Banana Island",
+        "languageCode": "en"
+      },
+      "cuisine": "Singaporean",
+      "photoUrl": "images/restaurant-photos/daly-city/Banana Island Small.jpeg",
+      "phone": "(650) 756-6868",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM",
+        "Wednesday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM",
+        "Thursday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM",
+        "Friday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM",
+        "Saturday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM",
+        "Sunday": "11:30 AM - 3:00 PM, 4:30 PM - 9:30 PM"
+      },
+      "menuUrl": "https://www.bananaislandrestaurant.us/",
+      "priceRange": "$$",
+      "description": "Beloved Malaysian, Singaporean, and Thai restaurant tucked behind Westlake's Home Depot with roti canai, Hainanese chicken rice, and beef rendang served to packed tables most nights."
+    },
+    {
+      "id": "ChIJ7ebRlFx8j4ARKuxfgkVUB7I",
+      "formattedAddress": "511 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6994444,
+        "longitude": -122.4822222
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12828314721104948266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bluelinepizza.com/",
+      "displayName": {
+        "text": "Blue Line Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Blue Line Pizza Small.jpeg",
+      "phone": "(650) 755-8500",
+      "hours": {
+        "Monday": "11:30 AM - 8:30 PM",
+        "Tuesday": "11:30 AM - 8:30 PM",
+        "Wednesday": "11:30 AM - 8:30 PM",
+        "Thursday": "11:30 AM - 8:30 PM",
+        "Friday": "11:30 AM - 9:00 PM",
+        "Saturday": "11:30 AM - 9:00 PM",
+        "Sunday": "11:30 AM - 8:30 PM"
+      },
+      "menuUrl": "https://order.bluelinepizza.com/dalycity",
+      "priceRange": "$$",
+      "description": "Sister brand to SF's Little Star Pizza with award-winning cornmeal deep-dish and New York thin-crust pies, a dog-friendly heated patio, full bar, and convivial Westlake Center atmosphere."
+    },
+    {
+      "id": "ChIJP7V2IER8j4ARmwqj9PK5tcw",
+      "formattedAddress": "2 Poncetta Dr, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.7039465,
+        "longitude": -122.4750651
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14750900607659477659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://theboulevardcafe.com/",
+      "displayName": {
+        "text": "Boulevard Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Boulevard Cafe Small.jpeg",
+      "phone": "(650) 755-3400",
+      "hours": {
+        "Monday": "8:30 AM - 9:00 PM",
+        "Tuesday": "8:30 AM - 9:00 PM",
+        "Wednesday": "8:30 AM - 9:00 PM",
+        "Thursday": "8:30 AM - 9:00 PM",
+        "Friday": "8:30 AM - 10:00 PM",
+        "Saturday": "8:30 AM - 10:00 PM",
+        "Sunday": "8:30 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.boulevardcafedailycity.com/",
+      "priceRange": "$$",
+      "description": "All-day American bistro open seven days from breakfast through dinner with scratch-made soups, sustainably raised grass-fed beef, and an eclectic comfort menu."
+    },
+    {
+      "id": "ChIJ5ZcPfa99j4ARKLAOqFrsrdA",
+      "formattedAddress": "6318 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7057394,
+        "longitude": -122.4621601
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15036934604970700840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sites.google.com/view/burmasilverstar/",
+      "displayName": {
+        "text": "Burma Silver Star Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Burma Silver Star Small.jpeg",
+      "phone": "(650) 731-6101",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "5:00 PM - 9:00 PM",
+        "Thursday": "5:00 PM - 9:00 PM",
+        "Friday": "5:00 PM - 9:00 PM",
+        "Saturday": "11:00 AM - 2:30 PM, 5:00 PM - 9:00 PM",
+        "Sunday": "11:00 AM - 2:30 PM, 5:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://sites.google.com/view/burmasilverstar/menu",
+      "priceRange": "$$",
+      "description": "Authentic Burmese restaurant on Mission Street with tea leaf salad, mohinga noodle soup, and traditional Burmese curries in a small family-run dining room."
+    },
+    {
+      "id": "ChIJHxAMZ-17j4ARA0-QFNqYCa8",
+      "formattedAddress": "153C Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6709232,
+        "longitude": -122.4677514
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12612780293843078915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cafishgrill.com/",
+      "displayName": {
+        "text": "California Fish Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/daly-city/Californai Fish Grill Small.jpeg",
+      "phone": "(650) 517-5712",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.cafishgrill.com/locations/daly-city/",
+      "priceRange": "$$",
+      "description": "Responsibly sourced seafood chain at Serramonte Center with grilled fish plates, fish tacos, dynamite shrimp bowls, and fresh poke at fast-casual prices."
+    },
+    {
+      "id": "ChIJ7Wy_Gm18j4ARHpvGwhsJTGA",
+      "formattedAddress": "250 90th St, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.691258499999996,
+        "longitude": -122.4714665
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6938931140707654430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Canton Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Canton Restaurant Small.jpeg",
+      "phone": "(650) 994-1971",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Beloved Cantonese restaurant on 90th Street with dim sum, salt-and-pepper chicken wings, bitter melon cod chow fun, and Peking duck ordered two days in advance."
+    },
+    {
+      "id": "ChIJrWowAut7j4ARzXSNL7aP0eg",
+      "formattedAddress": "379 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6647148,
+        "longitude": -122.46691129999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16776348099576427725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.celiasrestaurants.com/",
+      "displayName": {
+        "text": "Celia's",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Celias Small.jpeg",
+      "phone": "(650) 755-6213",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.celiasrestaurants.com/",
+      "priceRange": "$$",
+      "description": "Longstanding Mexican restaurant chain with margaritas, combination plates, enchiladas, and family-friendly service in a comfortable neighborhood setting."
+    },
+    {
+      "id": "ChIJgQyAvdN7j4ARcLmzTu7rk5s",
+      "formattedAddress": "2055 Gellert Blvd #5, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.650205199999995,
+        "longitude": -122.4537896
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11210563306210441584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.chibogrestaurant.com/",
+      "displayName": {
+        "text": "Chibog",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/Chibog Small.jpeg",
+      "phone": "(650) 878-3591",
+      "hours": {
+        "Monday": "Closed",
+        "Tuesday": "11:00 AM - 6:00 PM",
+        "Wednesday": "11:00 AM - 6:00 PM",
+        "Thursday": "11:00 AM - 6:00 PM",
+        "Friday": "11:00 AM - 7:00 PM",
+        "Saturday": "11:00 AM - 7:00 PM",
+        "Sunday": "11:00 AM - 6:00 PM"
+      },
+      "menuUrl": "https://www.chibog.com/",
+      "priceRange": "$",
+      "description": "Filipino comfort food counter at Gellert Boulevard with crispy pork belly, barbecue chicken, sisig, and garlic rice — a Daly City favorite for authentic home-style Filipino cooking."
+    },
+    {
+      "id": "ChIJT_uDmt19j4ARNIld6z0W5Xg",
+      "formattedAddress": "243 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.7010959,
+        "longitude": -122.4822811
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8711393509415684404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://chicknjajang.com/",
+      "displayName": {
+        "text": "Chick & Jajang",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Chick & Jajang Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 1:00 AM",
+        "Tuesday": "11:00 AM - 1:00 AM",
+        "Wednesday": "11:00 AM - 1:00 AM",
+        "Thursday": "11:00 AM - 1:00 AM",
+        "Friday": "11:00 AM - 1:00 AM",
+        "Saturday": "11:00 AM - 1:00 AM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.chicknjajang.com/",
+      "priceRange": "$$",
+      "description": "Korean fusion restaurant at Westlake Center open until 1 AM most nights with Korean fried chicken, jajangmyeon noodles, soju, and a late-night crowd."
+    },
+    {
+      "id": "ChIJx_D6mg18j4AR0lAywGlSQ28",
+      "formattedAddress": "7370 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6903508,
+        "longitude": -122.46607069999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8017342375799181522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://chick-n-coop.paqe.io/",
+      "displayName": {
+        "text": "Chick N Coop",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/daly-city/Chick N Coop Small.jpeg",
+      "phone": "(650) 994-2221",
+      "hours": {
+        "Monday": "11:00 AM - 7:00 PM",
+        "Tuesday": "11:00 AM - 7:00 PM",
+        "Wednesday": "11:00 AM - 7:00 PM",
+        "Thursday": "11:00 AM - 7:00 PM",
+        "Friday": "11:00 AM - 7:00 PM",
+        "Saturday": "11:00 AM - 7:00 PM",
+        "Sunday": "12:00 PM - 7:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Beloved Daly City hofbrau with freshly carved roast beef, turkey, rotisserie ribs, and pastrami sandwiches in a nostalgic old-school setting that has kept regulars coming back for decades."
+    },
+    {
+      "id": "ChIJ_cv4kmx8j4ARfXRjkWVDavo",
+      "formattedAddress": "2408 Junipero Serra Blvd A, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.693064199999995,
+        "longitude": -122.47123719999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18044308960523285629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://citykebabsandgyros.com/",
+      "displayName": {
+        "text": "City Kebabs & Gyros",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/daly-city/City Kebab & Gyros Small.jpeg",
+      "phone": "(650) 757-1656",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.citykebabsandgyrosdalycity.com/",
+      "priceRange": "$",
+      "description": "Family-run Turkish Mediterranean restaurant on Junipero Serra with juicy kebabs, gyros, hummus, walnut baklava, and recipes passed down through generations."
+    },
+    {
+      "id": "ChIJvaFDS1x8j4ARFAAjdyHOwRA",
+      "formattedAddress": "235 Southgate Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.697061999999995,
+        "longitude": -122.48489789999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1207472818240028692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Dae Jang Geum Tofu House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Dae Jang Geum Tofu House Small.jpeg",
+      "phone": "(650) 758-1919",
+      "hours": {
+        "Monday": "11:30 AM - 8:30 PM",
+        "Tuesday": "11:30 AM - 8:30 PM",
+        "Wednesday": "11:30 AM - 8:30 PM",
+        "Thursday": "11:30 AM - 8:30 PM",
+        "Friday": "11:30 AM - 8:30 PM",
+        "Saturday": "11:30 AM - 8:30 PM",
+        "Sunday": "11:30 AM - 8:30 PM"
+      },
+      "menuUrl": "https://daejanggeumtofuhouse.com/",
+      "priceRange": "$$",
+      "description": "Korean tofu and BBQ restaurant on Southgate Avenue with soondubu jjigae, Korean barbecue, and traditional banchan open seven days a week."
+    },
+    {
+      "id": "ChIJyfK9ilR9j4AR8iWXX-zWa_g",
+      "formattedAddress": "7384 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6901662,
+        "longitude": -122.46612929999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17900637454618535410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Fiesta Chapina",
+        "languageCode": "es"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Fiesta Chapina Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 7:00 PM",
+        "Tuesday": "8:00 AM - 7:00 PM",
+        "Wednesday": "Closed",
+        "Thursday": "8:00 AM - 7:00 PM",
+        "Friday": "8:00 AM - 7:00 PM",
+        "Saturday": "8:00 AM - 7:00 PM",
+        "Sunday": "8:00 AM - 7:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Guatemalan and Mexican family restaurant on Mission Street with traditional chapina dishes, tamales, enchiladas, and fresh-made plates cooked to order from early morning."
+    },
+    {
+      "id": "ChIJMRjOTBJ8j4AR4-n4c_yOwVY",
+      "formattedAddress": "66 School St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.693505,
+        "longitude": -122.4656225
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6251434972695554531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.filamcuisine.com/#!location/c14xr",
+      "displayName": {
+        "text": "Fil-Am Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/Fil-Am Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 9:00 PM",
+        "Tuesday": "10:00 AM - 9:00 PM",
+        "Wednesday": "10:00 AM - 9:00 PM",
+        "Thursday": "10:00 AM - 9:00 PM",
+        "Friday": "10:00 AM - 9:00 PM",
+        "Saturday": "10:00 AM - 9:00 PM",
+        "Sunday": "10:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Filipino barbecue and homestyle cooking with grilled meats, bangus sisig, and classic Filipino comfort dishes that draw a devoted following of regulars."
+    },
+    {
+      "id": "ChIJjRkV7xN8j4ARjlroR1FeTto",
+      "formattedAddress": "7007 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6954758,
+        "longitude": -122.46450259999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15730614251643493006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Fung Wah Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Fung Wah Small.jpeg",
+      "phone": "(650) 756-9957",
+      "hours": {
+        "Monday": "11:00 AM - 8:00 PM",
+        "Tuesday": "11:00 AM - 8:00 PM",
+        "Wednesday": "11:00 AM - 8:00 PM",
+        "Thursday": "11:00 AM - 8:00 PM",
+        "Friday": "11:00 AM - 8:00 PM",
+        "Saturday": "11:00 AM - 8:00 PM",
+        "Sunday": "11:00 AM - 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Cantonese bakery and restaurant on Mission Street open daily for roast meats, rice plates, baked goods, and traditional Chinese comfort food at neighborhood prices."
+    },
+    {
+      "id": "ChIJ2wFOSyN8j4AR0Tn2cw-DodM",
+      "formattedAddress": "6165 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7068667,
+        "longitude": -122.4580139
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15249613915646474705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Gateway Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Gateway Kitchen Small.jpeg",
+      "hours": {
+        "Monday": "7:00 AM - 3:00 PM",
+        "Tuesday": "7:00 AM - 3:00 PM",
+        "Wednesday": "7:00 AM - 3:00 PM",
+        "Thursday": "7:00 AM - 3:00 PM",
+        "Friday": "7:00 AM - 3:00 PM",
+        "Saturday": "7:00 AM - 3:00 PM",
+        "Sunday": "7:00 AM - 3:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Friendly Filipino breakfast and lunch spot open daily from early morning with silogs, eggs, garlic rice, and Filipino comfort food plates."
+    },
+    {
+      "id": "ChIJqet_xsV-j4ARa0n_qu06DzE",
+      "formattedAddress": "2511 Geneva Ave, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.707918299999996,
+        "longitude": -122.41714599999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3535109024959646059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.goldenmooncalifornia.com/",
+      "displayName": {
+        "text": "Golden Moon Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Chinese and Asian restaurant in Daly City serving a broad menu of classic Cantonese and pan-Asian dishes in a casual family-friendly setting."
+    },
+    {
+      "id": "ChIJvV9sSPt9j4ARX5BAXqzFjHA",
+      "formattedAddress": "7622 El Camino Real, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6855104,
+        "longitude": -122.46471260000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8110074373093757023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Halal Good Subs Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Halal Good Subs Market Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Halal sandwich and market in Daly City with fresh-made subs, deli items, and grocery staples for the local community."
+    },
+    {
+      "id": "ChIJpc5LzT18j4ARvGITwlFM754",
+      "formattedAddress": "6524 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7038724,
+        "longitude": -122.4629415
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11452456291458572988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Halal International market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Halal International Market Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 8:00 PM",
+        "Tuesday": "9:00 AM - 8:00 PM",
+        "Wednesday": "9:00 AM - 8:00 PM",
+        "Thursday": "9:00 AM - 8:00 PM",
+        "Friday": "9:00 AM - 8:00 PM",
+        "Saturday": "9:00 AM - 8:00 PM",
+        "Sunday": "9:00 AM - 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Halal grocery market and prepared foods counter with Middle Eastern and South Asian ingredients, fresh halal meats, and ready-to-eat items."
+    },
+    {
+      "id": "ChIJzeeTCA18j4ARad0Jj5RQnhE",
+      "formattedAddress": "50 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6896051,
+        "longitude": -122.46749599999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1269540743950228841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Hawaiian Drive Inn",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/daly-city/Hawaiian Drive Inn Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.hawaiiandrive-inn.com/",
+      "priceRange": "$",
+      "description": "Local Hawaiian plate lunch chain with generous portions of chicken katsu, kalua pork, loco moco, and two-scoop rice plates at everyday prices."
+    },
+    {
+      "id": "ChIJy_xFFf19j4ARvpTqAIUSIOI",
+      "displayName": {
+        "text": "Hibachi Truck (food truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "7499 El Camino Real, Daly City, CA 94014, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16294043814281778366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/hibachi_truck",
+      "location": {},
+      "cuisine": "Japanese",
+      "keywords": [
+        "food truck"
+      ],
+      "photoUrl": "images/restaurant-photos/daly-city/Hibachi Truck (food truck) Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 8:00 PM",
+        "Tuesday": "11:00 AM - 8:00 PM",
+        "Wednesday": "11:00 AM - 8:00 PM",
+        "Thursday": "11:00 AM - 8:00 PM",
+        "Friday": "11:00 AM - 8:00 PM",
+        "Saturday": "11:00 AM - 8:00 PM",
+        "Sunday": "11:00 AM - 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Hibachi-style food truck with grilled meats, fried rice, and Japanese-American street food served from a mobile kitchen in the Daly City area."
+    },
+    {
+      "id": "ChIJsf1zRo17j4ARVDjzcUy3I3M",
+      "formattedAddress": "128 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6715613,
+        "longitude": -122.4703136
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8296676477503748180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.ikessandwich.com/ca/dalycity/117/?utm_source=gmb&utm_medium=profile&utm_campaign=dalycity-location-page",
+      "displayName": {
+        "text": "Ike's Love & Sandwiches",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Ikes Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 9:00 PM",
+        "Tuesday": "10:00 AM - 9:00 PM",
+        "Wednesday": "10:00 AM - 9:00 PM",
+        "Thursday": "10:00 AM - 9:00 PM",
+        "Friday": "10:00 AM - 9:00 PM",
+        "Saturday": "10:00 AM - 9:00 PM",
+        "Sunday": "10:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.ilikeikesplace.com/menu/",
+      "priceRange": "$$",
+      "description": "Popular Bay Area sandwich chain with Dutch crunch bread, creative combinations, vegan options, and a devoted following for the Menage a Trois and Pilgrim sandwiches."
+    },
+    {
+      "id": "ChIJHey2OAB7j4ARTM5ARcRgu1w",
+      "formattedAddress": "63 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.671979799999995,
+        "longitude": -122.46926699999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6682040868225994316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://jagalchi.com/",
+      "displayName": {
+        "text": "Jagalchi",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Jagalchi Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 10:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Korean restaurant named after the famous Busan fish market with Korean seafood preparations, stews, and traditional dishes in a neighborhood setting."
+    },
+    {
+      "id": "ChIJDQYsWeJ9j4ARQERHM0Ylj5k",
+      "formattedAddress": "201 Southgate Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.697143499999996,
+        "longitude": -122.48435239999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11065103792910844992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.kankiineatery.com/",
+      "displayName": {
+        "text": "KAN KIIN BRUNCH & THAI EATERY",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/daly-city/Kan Kiin Small.jpeg",
+      "phone": "(650) 755-8749",
+      "hours": {
+        "Monday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM",
+        "Tuesday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM",
+        "Wednesday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM",
+        "Thursday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM",
+        "Friday": "11:00 AM - 2:00 PM, 5:00 PM - 8:30 PM",
+        "Saturday": "10:00 AM - 3:00 PM, 5:00 PM - 8:30 PM",
+        "Sunday": "10:00 AM - 3:00 PM, 5:00 PM - 8:30 PM"
+      },
+      "menuUrl": "https://www.kankhiin.com/menu",
+      "priceRange": "$$",
+      "description": "Michelin-recommended Thai brunch and dinner restaurant on Southgate Avenue, celebrated for hat yai fried chicken and waffles, handmade curry puffs, and bold Thai-American fusion cooking."
+    },
+    {
+      "id": "ChIJl9t3MnN8j4ARJA5bUhhoAuU",
+      "formattedAddress": "270 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6869596,
+        "longitude": -122.46962099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16501866438309121572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://keithschickennwaffles.com/?utm_source=google",
+      "displayName": {
+        "text": "Keith’s Chicken N Waffles",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/daly-city/Keith’s Chicken N Waffles Small.jpeg",
+      "phone": "(415) 347-7208",
+      "hours": {
+        "Monday": "11:00 AM - 8:00 PM",
+        "Tuesday": "Closed",
+        "Wednesday": "11:00 AM - 8:00 PM",
+        "Thursday": "11:00 AM - 8:00 PM",
+        "Friday": "11:00 AM - 8:00 PM",
+        "Saturday": "11:00 AM - 8:00 PM",
+        "Sunday": "11:00 AM - 6:00 PM"
+      },
+      "menuUrl": "https://keithschickennwaffles.com/",
+      "priceRange": "$$",
+      "description": "The Peninsula's only chicken and waffle restaurant with signature seasoned fried chicken, specialty infused waffles, Southern sides, and shrimp po boys on San Pedro Road."
+    },
+    {
+      "id": "ChIJ6-RoBwB7j4ARQnB_-6CI2SY",
+      "formattedAddress": "2085 Gellert Blvd #6, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6501887,
+        "longitude": -122.4534486
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2799418868383051842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.kingkatsuland.com/",
+      "displayName": {
+        "text": "King Katsu Land",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/King Katsu Land Small.jpeg",
+      "phone": "(650) 333-7729",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.kingkatsuland.com/",
+      "priceRange": "$$",
+      "description": "Filipino-Japanese katsu restaurant at Gellert Boulevard with crispy panko-breaded pork and chicken cutlets, garlic rice, and Filipino comfort plates that consistently draw long lines."
+    },
+    {
+      "id": "ChIJK1Z6kz59j4ARS6REZ8ZAo9Y",
+      "formattedAddress": "6540 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7037146,
+        "longitude": -122.4631109
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15466276766200669259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kingswestcoastpizzeria.com/",
+      "displayName": {
+        "text": "Kings West Coast Pizzeria",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Kings West Coast Pizzeria Small.jpeg",
+      "phone": "(415) 605-4242",
+      "hours": {
+        "Monday": "2:00 PM - 10:00 PM",
+        "Tuesday": "11:30 AM - 10:00 PM",
+        "Wednesday": "11:30 AM - 10:00 PM",
+        "Thursday": "11:30 AM - 10:00 PM",
+        "Friday": "11:30 AM - 10:00 PM",
+        "Saturday": "11:30 AM - 10:00 PM",
+        "Sunday": "11:30 AM - 10:00 PM"
+      },
+      "menuUrl": "https://kingswcpizza.com/",
+      "priceRange": "$$",
+      "description": "Family-owned Brazilian-style pizzeria on Mission Street with hand-rolled daily dough, unique flavor pizzas, acai bowls, homemade flan, pasta, and wings."
+    },
+    {
+      "id": "ChIJSayidut7j4AR1iWKufPh-d0",
+      "formattedAddress": "365 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6660867,
+        "longitude": -122.46662909999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15995063988489168342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://koipalace.com/menu",
+      "displayName": {
+        "text": "Koi Palace",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Koi Palace Small.jpeg",
+      "phone": "(650) 992-9000",
+      "hours": {
+        "Monday": "11:00 AM - 2:30 PM, 5:30 PM - 9:00 PM",
+        "Tuesday": "11:00 AM - 2:30 PM, 5:30 PM - 9:00 PM",
+        "Wednesday": "11:00 AM - 2:30 PM, 5:30 PM - 9:00 PM",
+        "Thursday": "11:00 AM - 2:30 PM, 5:30 PM - 9:00 PM",
+        "Friday": "11:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+        "Saturday": "10:00 AM - 3:00 PM, 5:00 PM - 9:30 PM",
+        "Sunday": "10:00 AM - 3:00 PM, 5:00 PM - 9:00 PM"
+      },
+      "menuUrl": "https://koipalace.com/daly-city-ca/",
+      "priceRange": "$$$",
+      "description": "James Beard-nominated Cantonese landmark at Gellert Boulevard seating 400, with a koi pond, live seafood tanks, spectacular weekend dim sum carts, and har gow celebrated as among the best in the Bay Area."
+    },
+    {
+      "id": "ChIJG5BaFFp9j4ARJU7v5j-rFbI",
+      "formattedAddress": "2350 Junipero Serra Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6946151,
+        "longitude": -122.4715377
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12832351004207828517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Kukje Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Kukje Grill Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 10:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Korean BBQ and grocery market hybrid in Daly City where you can pick your own cuts from the market counter and cook at the table."
+    },
+    {
+      "id": "ChIJ08mnohZ8j4ARtkoKozMOCEc",
+      "formattedAddress": "6893 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6970315,
+        "longitude": -122.462942
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5118356591448050358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hawaiianbarbecue.com/",
+      "displayName": {
+        "text": "L&L Hawaiian Barbecue - Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/daly-city/L&L Hawaiian Barbecue Small.jpeg",
+      "hours": {
+        "Monday": "10:30 AM - 9:00 PM",
+        "Tuesday": "10:30 AM - 9:00 PM",
+        "Wednesday": "10:30 AM - 9:00 PM",
+        "Thursday": "10:30 AM - 9:00 PM",
+        "Friday": "10:30 AM - 9:00 PM",
+        "Saturday": "10:30 AM - 9:00 PM",
+        "Sunday": "10:30 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.hawaiianbarbecue.com/",
+      "priceRange": "$",
+      "description": "Hawaiian plate lunch chain on Mission Street with chicken katsu, kalua pork, macaroni salad, and two-scoop rice plates."
+    },
+    {
+      "id": "ChIJz_PeLrd9j4ARLa3eQTDHvOY",
+      "formattedAddress": "5997 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7079711,
+        "longitude": -122.45471010000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16626382934422498605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "La perla de Oriente Restaurant",
+        "languageCode": "es"
+      },
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/La perla De oriente Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Filipino and Asian restaurant serving traditional homestyle dishes, rice plates, and comfort food staples at neighborhood prices."
+    },
+    {
+      "id": "ChIJYwwRs6p9j4ARspsBuYeRfP8",
+      "formattedAddress": "2 Chester St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.686267099999995,
+        "longitude": -122.4594337
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18409749388894247858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.laspencasdemaguey-restaurant.com/",
+      "displayName": {
+        "text": "Las Pencas de Maguey Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Las Pencas De Maguey Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 9:00 PM",
+        "Tuesday": "8:00 AM - 9:00 PM",
+        "Wednesday": "8:00 AM - 9:00 PM",
+        "Thursday": "8:00 AM - 9:00 PM",
+        "Friday": "8:00 AM - 9:00 PM",
+        "Saturday": "8:00 AM - 9:00 PM",
+        "Sunday": "8:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Authentic Mexican restaurant serving tacos, burritos, menudo, and traditional dishes from early morning through the evening."
+    },
+    {
+      "id": "ChIJoWobYC19j4ARP7ufFK4zFBQ",
+      "formattedAddress": "6192 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7069212,
+        "longitude": -122.45886510000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1446838203056110399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.lavaloungegrill.com/",
+      "displayName": {
+        "text": "Lava Hookah Lounge & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/daly-city/Lava Hookah Lounge Small.jpeg",
+      "hours": {
+        "Monday": "5:00 PM - 2:00 AM",
+        "Tuesday": "5:00 PM - 2:00 AM",
+        "Wednesday": "5:00 PM - 2:00 AM",
+        "Thursday": "5:00 PM - 2:00 AM",
+        "Friday": "5:00 PM - 2:00 AM",
+        "Saturday": "5:00 PM - 2:00 AM",
+        "Sunday": "5:00 PM - 2:00 AM"
+      },
+      "priceRange": "$$",
+      "description": "Hookah lounge and grill on Mission Street open late with Mediterranean-inspired food, shisha, cocktails, and a lively late-night atmosphere."
+    },
+    {
+      "id": "ChIJVZgncdN7j4AR7aN-JLaYBUE",
+      "formattedAddress": "980 King Dr Suite #1 & #3, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6507456,
+        "longitude": -122.46844010000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4685318895412618221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://lingnamrestaurant.com/",
+      "displayName": {
+        "text": "Ling Nam Restaurant and Bakeshop",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Ling Nam Small.jpeg",
+      "hours": {
+        "Monday": "7:00 AM - 9:00 PM",
+        "Tuesday": "7:00 AM - 9:00 PM",
+        "Wednesday": "7:00 AM - 9:00 PM",
+        "Thursday": "7:00 AM - 9:00 PM",
+        "Friday": "7:00 AM - 9:00 PM",
+        "Saturday": "7:00 AM - 9:00 PM",
+        "Sunday": "7:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Long-standing Filipino bakery and restaurant on Mission Street with pandesal, Filipino pastries, rice plates, and all-day comfort food from early morning."
+    },
+    {
+      "id": "ChIJV1sBRiN8j4ARX-P2zTC5MFQ",
+      "formattedAddress": "6127 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7070869,
+        "longitude": -122.4572835
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6066552317333136223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://docs.google.com/spreadsheets/d/1a7tGmqmb1pOtXuEU0WrX7c4cFV8K1q9qQhNlHtEuL6s/edit?usp=sharing",
+      "displayName": {
+        "text": "Little Hunan Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Little Hunan Restauran Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Casual Hunan Chinese restaurant with spicy stir-fries, noodle dishes, and Chinese comfort food plates at everyday prices."
+    },
+    {
+      "id": "ChIJTQN21Nh7j4ARf5VTijwRwvQ",
+      "displayName": {
+        "text": "Loma Linda Taco Truck (food truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "Serramonte Blvd & Hwy 1, Daly City, CA 94015, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17636678042452727167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://orderlomalindatacotruck.com/",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ],
+      "photoUrl": "images/restaurant-photos/daly-city/Loma Linda Taco Truck (food truck) Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Mexican food truck with tacos, burritos, and street food staples at street-food prices in Daly City."
+    },
+    {
+      "id": "ChIJxftR9Q58j4AR3i3-r4zJP9Q",
+      "formattedAddress": "311 E Market St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6903206,
+        "longitude": -122.46222849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15294164465658768862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://m.facebook.com/profile.php?id=170041643131634",
+      "displayName": {
+        "text": "Los Cuates Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Los Cuates Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 10:00 PM",
+        "Tuesday": "9:00 AM - 10:00 PM",
+        "Wednesday": "9:00 AM - 10:00 PM",
+        "Thursday": "9:00 AM - 10:00 PM",
+        "Friday": "9:00 AM - 10:00 PM",
+        "Saturday": "9:00 AM - 10:00 PM",
+        "Sunday": "9:00 AM - 10:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Authentic Mexican taqueria with tacos, burritos, quesadillas, and daily specials open from breakfast through late evening."
+    },
+    {
+      "id": "ChIJVTIF3KR9j4ARVyWQUogpUi0",
+      "formattedAddress": "6286 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7060423,
+        "longitude": -122.46175099999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3265718345274500439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Los Cuernos",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Los Cuernos Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Mexican restaurant serving classic tacos, burritos, and tortas in a casual neighborhood setting open seven days a week."
+    },
+    {
+      "id": "ChIJsyKAMnN8j4ARio8CJwn11pw",
+      "formattedAddress": "260 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6869389,
+        "longitude": -122.4695
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11301489734590828426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://losmetatesca.com/",
+      "displayName": {
+        "text": "Los Metates",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Los Metates Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 9:00 PM",
+        "Tuesday": "8:00 AM - 9:00 PM",
+        "Wednesday": "8:00 AM - 9:00 PM",
+        "Thursday": "8:00 AM - 9:00 PM",
+        "Friday": "8:00 AM - 9:00 PM",
+        "Saturday": "8:00 AM - 9:00 PM",
+        "Sunday": "8:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Traditional Mexican restaurant open from early morning with breakfast plates, tacos, burritos, and homestyle cooking at accessible prices."
+    },
+    {
+      "id": "ChIJCb8fhcV-j4AR6xh11YAagnE",
+      "formattedAddress": "2666 Geneva Ave, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7070224,
+        "longitude": -122.4161302
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8179129013897599211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://luckys-bakery-cafe.edan.io/",
+      "displayName": {
+        "text": "Lucky's Bakery & Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "hours": {
+        "Monday": "7:00 AM - 7:00 PM",
+        "Tuesday": "7:00 AM - 7:00 PM",
+        "Wednesday": "7:00 AM - 7:00 PM",
+        "Thursday": "7:00 AM - 7:00 PM",
+        "Friday": "7:00 AM - 7:00 PM",
+        "Saturday": "7:00 AM - 7:00 PM",
+        "Sunday": "7:00 AM - 7:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Neighborhood bakery and cafe with fresh pastries, Filipino breads, coffee, and light breakfast and lunch options open daily from early morning."
+    },
+    {
+      "id": "ChIJMwLZ7nx8j4AR7XOr7cCSg3c",
+      "formattedAddress": "240 Skyline Plaza, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6817861,
+        "longitude": -122.4881194
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8611888269781332973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://majikkuramen.net/",
+      "displayName": {
+        "text": "Majikku Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Majikku Ramen Small.jpeg",
+      "phone": "(650) 756-2988",
+      "hours": {
+        "Monday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM",
+        "Tuesday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM",
+        "Wednesday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM",
+        "Thursday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM",
+        "Friday": "11:00 AM - 3:00 PM, 4:00 PM - 8:45 PM",
+        "Saturday": "11:00 AM - 3:00 PM, 4:00 PM - 8:45 PM",
+        "Sunday": "11:00 AM - 2:45 PM, 4:00 PM - 8:30 PM"
+      },
+      "menuUrl": "https://www.majikku.com/",
+      "priceRange": "$$",
+      "description": "Family-friendly ramen and Japanese comfort food restaurant at Skyline Plaza with a signature curry ramen, salmon dinners, and late-night hours on weekends."
+    },
+    {
+      "id": "ChIJR0jVQjx8j4AR3YiaBWEd4GQ",
+      "formattedAddress": "6339 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7053935,
+        "longitude": -122.4616408
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7268842101119027421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mekeni Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/Mekeni Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 9:00 PM",
+        "Tuesday": "10:00 AM - 9:00 PM",
+        "Wednesday": "10:00 AM - 9:00 PM",
+        "Thursday": "10:00 AM - 9:00 PM",
+        "Friday": "10:00 AM - 9:00 PM",
+        "Saturday": "10:00 AM - 9:00 PM",
+        "Sunday": "10:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Filipino restaurant with traditional dishes including grilled meats, chicken and pork skewers, pancit, and rice plates at community-friendly prices."
+    },
+    {
+      "id": "ChIJ1cAOdRZ8j4AR-UYperx90fg",
+      "formattedAddress": "6771 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7000129,
+        "longitude": -122.46357829999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17929249839995504377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Mi Guadalajara",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Mi Guadalajara Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 10:00 PM",
+        "Tuesday": "8:00 AM - 10:00 PM",
+        "Wednesday": "8:00 AM - 10:00 PM",
+        "Thursday": "8:00 AM - 10:00 PM",
+        "Friday": "8:00 AM - 10:00 PM",
+        "Saturday": "8:00 AM - 10:00 PM",
+        "Sunday": "8:00 AM - 10:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Mexican restaurant open from breakfast through late evening with traditional Jalisco-style dishes, tacos, burritos, and house specialties."
+    },
+    {
+      "id": "ChIJj0ixiWx8j4AR2v5O5ceLP1g",
+      "formattedAddress": "199 87th St, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6931607,
+        "longitude": -122.4720459
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6358954889532341978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://misstomatos.com/",
+      "displayName": {
+        "text": "Miss Tomato Sandwiches and liquor",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Miss Tomato Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 10:00 PM",
+        "Tuesday": "9:00 AM - 10:00 PM",
+        "Wednesday": "9:00 AM - 10:00 PM",
+        "Thursday": "9:00 AM - 10:00 PM",
+        "Friday": "9:00 AM - 10:00 PM",
+        "Saturday": "9:00 AM - 10:00 PM",
+        "Sunday": "9:00 AM - 10:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Sandwich and liquor shop in Daly City serving fresh-made sandwiches and a range of beverages in a casual counter-service setting."
+    },
+    {
+      "id": "ChIJd9SdW417j4ARtnxzFfeP1F0",
+      "formattedAddress": "127 Serramonte Center Suite 660, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6710182,
+        "longitude": -122.4703879
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6761187231969541302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.modpizza.com/usa/ca/daly-city/127-serramonte-center?utm_source=google&utm_medium=yext",
+      "displayName": {
+        "text": "MOD Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Mod Pizza Small.jpeg",
+      "hours": {
+        "Monday": "10:30 AM - 9:30 PM",
+        "Tuesday": "10:30 AM - 9:30 PM",
+        "Wednesday": "10:30 AM - 9:30 PM",
+        "Thursday": "10:30 AM - 9:30 PM",
+        "Friday": "10:30 AM - 10:00 PM",
+        "Saturday": "10:30 AM - 10:00 PM",
+        "Sunday": "10:30 AM - 9:30 PM"
+      },
+      "menuUrl": "https://modpizza.com/menu/",
+      "priceRange": "$",
+      "description": "Build-your-own fast-casual pizza chain with unlimited toppings at a flat price, individual-sized pies, and quick counter-service preparation."
+    },
+    {
+      "id": "ChIJZR0NioN9j4ARO3lIbz2ZCvI",
+      "formattedAddress": "35 Skyline Plaza, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6826503,
+        "longitude": -122.48778129999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17440920996084742459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mountainmikespizza.com/locations/daly-city-skyline/",
+      "displayName": {
+        "text": "Mountain Mike's Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Mountain Mikes Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.mountainmikespizza.com/menu/",
+      "priceRange": "$$",
+      "description": "Bay Area pizza chain with crispy crust pies, wing combos, salads, and family meal deals — a reliable neighborhood option for dine-in and delivery."
+    },
+    {
+      "id": "ChIJT0hxCG18j4ARA9TQ3Mhf6jc",
+      "formattedAddress": "1301 Sullivan Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.690953199999996,
+        "longitude": -122.47206349999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4029138132939101187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dcmrpickles.com/",
+      "displayName": {
+        "text": "Mr. Pickles",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Mr Pickles Sandwich Shop Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 8:00 PM",
+        "Tuesday": "10:00 AM - 8:00 PM",
+        "Wednesday": "10:00 AM - 8:00 PM",
+        "Thursday": "10:00 AM - 8:00 PM",
+        "Friday": "10:00 AM - 8:00 PM",
+        "Saturday": "10:00 AM - 8:00 PM",
+        "Sunday": "11:00 AM - 7:00 PM"
+      },
+      "menuUrl": "https://www.mrpickles.com/menu/",
+      "priceRange": "$",
+      "description": "Bay Area sandwich chain with fresh-baked Dutch crunch bread, deli meats, specialty combos, and generous portions popular for lunch."
+    },
+    {
+      "id": "ChIJh3Miqm58j4ARXY4O0hskbbw",
+      "formattedAddress": "321 87th St, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.69291,
+        "longitude": -122.475123
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13577548153498799709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mrpizzamandc.com/?utm_source=google",
+      "displayName": {
+        "text": "Mr. Pizza Man",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Mr Pizza Man Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "12:00 PM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Local pizza shop with classic pies, wings, and deli sandwiches available for dine-in, takeout, and delivery."
+    },
+    {
+      "id": "ChIJLwUinFt8j4ARlavAOyaDfk0",
+      "formattedAddress": "201 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.701546199999996,
+        "longitude": -122.48212910000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5584044788220472213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nationsrestaurants.com/",
+      "displayName": {
+        "text": "Nation's Giant Hamburgers & Great Pies",
+        "languageCode": "en"
+      },
+      "cuisine": "Burgers",
+      "photoUrl": "images/restaurant-photos/daly-city/Nations Small.jpeg",
+      "phone": "(650) 755-8880",
+      "hours": {
+        "Monday": "Open 24 Hours",
+        "Tuesday": "Open 24 Hours",
+        "Wednesday": "Open 24 Hours",
+        "Thursday": "Open 24 Hours",
+        "Friday": "Open 24 Hours",
+        "Saturday": "Open 24 Hours",
+        "Sunday": "Open 24 Hours"
+      },
+      "menuUrl": "https://www.nationsrestaurants.com/",
+      "priceRange": "$",
+      "description": "Bay Area-born diner institution at Westlake Center open 24 hours with giant burgers, mile-high pies, breakfast all day, and hot dogs — a Daly City neighborhood staple since the 1950s."
+    },
+    {
+      "id": "ChIJYR_UbBh9j4ARDAJMuTbLGnw",
+      "formattedAddress": "398 Templeton Ave, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7059041,
+        "longitude": -122.45284989999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8942683445994979852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://newdalycitymarketgo.site/",
+      "displayName": {
+        "text": "New Daly City Market",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/New Daly city Market Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 9:00 PM",
+        "Tuesday": "8:00 AM - 9:00 PM",
+        "Wednesday": "8:00 AM - 9:00 PM",
+        "Thursday": "8:00 AM - 9:00 PM",
+        "Friday": "8:00 AM - 9:00 PM",
+        "Saturday": "8:00 AM - 9:00 PM",
+        "Sunday": "8:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Neighborhood market and prepared foods counter with fresh deli items, Filipino dishes, and grocery staples for the local community."
+    },
+    {
+      "id": "ChIJmU0qrIx9j4ARivdFCbtG6HM",
+      "formattedAddress": "6282 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7060745,
+        "longitude": -122.46170670000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8352003278086993802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://thenickandnorabar.com/",
+      "displayName": {
+        "text": "Nick & Nora",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Nick and Nora Small.jpeg",
+      "hours": {
+        "Monday": "5:00 PM - 2:00 AM",
+        "Tuesday": "5:00 PM - 2:00 AM",
+        "Wednesday": "5:00 PM - 2:00 AM",
+        "Thursday": "5:00 PM - 2:00 AM",
+        "Friday": "5:00 PM - 2:00 AM",
+        "Saturday": "5:00 PM - 2:00 AM",
+        "Sunday": "5:00 PM - 2:00 AM"
+      },
+      "priceRange": "$$",
+      "description": "Cocktail bar and late-night lounge in Daly City with craft drinks, small bites, and a relaxed atmosphere open until 2 AM."
+    },
+    {
+      "id": "ChIJ3csTatV7j4AR4aqlq3io6A4",
+      "formattedAddress": "309 Gellert Blvd B, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.668104899999996,
+        "longitude": -122.4684211
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1074293747357166305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://nickthegreek.com/",
+      "displayName": {
+        "text": "Nick the Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/daly-city/Nick the Greek Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 10:00 PM",
+        "Tuesday": "10:00 AM - 10:00 PM",
+        "Wednesday": "10:00 AM - 10:00 PM",
+        "Thursday": "10:00 AM - 10:00 PM",
+        "Friday": "10:00 AM - 11:00 PM",
+        "Saturday": "10:00 AM - 11:00 PM",
+        "Sunday": "10:00 AM - 10:00 PM"
+      },
+      "menuUrl": "https://www.nickthegreek.com/menu/",
+      "priceRange": "$",
+      "description": "Fast-casual Greek chain with gyros, souvlaki, pita wraps, and fresh salads made to order at approachable prices."
+    },
+    {
+      "id": "ChIJoRiFBMh9j4ARTjmyQJOqzFo",
+      "formattedAddress": "507 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.699577,
+        "longitude": -122.482389
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6542791908084824398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nickthegreek.com/",
+      "displayName": {
+        "text": "Nick the Greek | Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/daly-city/Nick the Greek | Daly City _westlake Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 10:00 PM",
+        "Tuesday": "10:00 AM - 10:00 PM",
+        "Wednesday": "10:00 AM - 10:00 PM",
+        "Thursday": "10:00 AM - 10:00 PM",
+        "Friday": "10:00 AM - 11:00 PM",
+        "Saturday": "10:00 AM - 11:00 PM",
+        "Sunday": "10:00 AM - 10:00 PM"
+      },
+      "menuUrl": "https://www.nickthegreek.com/menu/",
+      "priceRange": "$",
+      "description": "Second Daly City location of the popular fast-casual Greek chain with gyros, souvlaki wraps, and fresh Mediterranean plates at everyday prices."
+    },
+    {
+      "id": "ChIJzw2KUgB9j4ARGWqeU0Vl8eI",
+      "formattedAddress": "2985 Junipero Serra Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.687049,
+        "longitude": -122.46988499999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16352963070389021209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://northbeachpizza.com/northbeachpizzadc?utm_source=google",
+      "displayName": {
+        "text": "North Beach Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/North Beach Pizza Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 10:00 PM"
+      },
+      "menuUrl": "https://www.northbeachpizza.net/",
+      "priceRange": "$$",
+      "description": "Daly City outpost of San Francisco's storied North Beach Pizza with classic thin-crust pies, pasta, calzones, and old-school Italian-American comfort food."
+    },
+    {
+      "id": "ChIJ-1sHh-N9j4ARMY2FY1r11wc",
+      "formattedAddress": "344 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.700550299999996,
+        "longitude": -122.48309849999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=565190046823845169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://onohawaiianbbq.com/",
+      "displayName": {
+        "text": "Ohana Hawaiian BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/daly-city/Ohana Hawaiian BBQ Small.jpeg",
+      "phone": "(650) 731-6058",
+      "hours": {
+        "Monday": "10:00 AM - 11:00 PM",
+        "Tuesday": "10:00 AM - 11:00 PM",
+        "Wednesday": "10:00 AM - 11:00 PM",
+        "Thursday": "10:00 AM - 11:00 PM",
+        "Friday": "10:00 AM - 11:00 PM",
+        "Saturday": "10:00 AM - 11:00 PM",
+        "Sunday": "10:00 AM - 11:00 PM"
+      },
+      "menuUrl": "https://order.online/en-US/store/ohana-hawaiianbbq-dc-23486864",
+      "priceRange": "$",
+      "description": "Halal Hawaiian BBQ at Westlake Center with generous portions of chicken katsu, BBQ chicken, shrimp burgers, and macaroni salad — consistently voted Daly City's best Hawaiian plate lunch."
+    },
+    {
+      "id": "ChIJGY_jLFp8j4ARXLcIfxMpJw8",
+      "formattedAddress": "11 Glenwood Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.701585,
+        "longitude": -122.485509
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1091886598373029724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://originaljoes.com/westlake/",
+      "displayName": {
+        "text": "Original Joe’s Westlake",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/daly-city/Original Joes Westlake Small.jpeg",
+      "phone": "(650) 755-7400",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 11:00 PM",
+        "Saturday": "10:00 AM - 11:00 PM",
+        "Sunday": "10:00 AM - 10:00 PM"
+      },
+      "menuUrl": "https://www.originaljoes.com/westlake/menu",
+      "priceRange": "$$$",
+      "description": "Beloved Daly City institution reborn at 11 Glenwood Avenue since 1956, with prime rib, fillet of sole, handmade ravioli, an open kitchen, and a mid-century dining room that draws diners from across the Peninsula."
+    },
+    {
+      "id": "ChIJ_f97C-t7j4ARJnTW3EXqaeY",
+      "formattedAddress": "371 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6656014,
+        "longitude": -122.46661859999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16603059087056729126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://locations.outback.com/california/daly-city/371-gellert-blvd.?utm_source=gmb&utm_medium=local_search&utm_campaign=website_cta&y_source=1_MTU1MDI2MDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "Outback Steakhouse",
+        "languageCode": "en"
+      },
+      "cuisine": "Steakhouse",
+      "photoUrl": "images/restaurant-photos/daly-city/Outback Steakhouse Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 11:00 PM",
+        "Saturday": "11:00 AM - 11:00 PM",
+        "Sunday": "11:00 AM - 10:00 PM"
+      },
+      "menuUrl": "https://www.outback.com/menu",
+      "priceRange": "$$",
+      "description": "Australian-themed steakhouse chain at 371 Gellert Boulevard with signature Bloomin' Onions, wood-fired steaks, ribs, and an extensive happy hour."
+    },
+    {
+      "id": "ChIJaQTCajx8j4ARWQAUNj16xPo",
+      "formattedAddress": "6356 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7054222,
+        "longitude": -122.46225720000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18069702008236146777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pacificrestaurantgo.site/",
+      "displayName": {
+        "text": "Pacific Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/daly-city/Pacific Restaurant Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Filipino and Pacific Island restaurant with traditional plates, rice dishes, and hearty comfort food at everyday prices in Daly City."
+    },
+    {
+      "id": "ChIJwwMk6ex7j4ARwP9JUrUO1LY",
+      "formattedAddress": "307 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6685808,
+        "longitude": -122.46856530000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13174170981897994176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.panerabread.com/en-us/cafe/locations/ca/daly-city/307-gellert-blvd?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=204484&utm_content=main",
+      "displayName": {
+        "text": "Panera Bread",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Panera Bread Small.jpeg",
+      "hours": {
+        "Monday": "6:30 AM - 9:00 PM",
+        "Tuesday": "6:30 AM - 9:00 PM",
+        "Wednesday": "6:30 AM - 9:00 PM",
+        "Thursday": "6:30 AM - 9:00 PM",
+        "Friday": "6:30 AM - 9:00 PM",
+        "Saturday": "6:30 AM - 9:00 PM",
+        "Sunday": "6:30 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.panerabread.com/",
+      "priceRange": "$",
+      "description": "Bakery-cafe chain at 307 Gellert Boulevard with fresh-baked sourdough, seasonal soups, salads, sandwiches, and coffee open from early morning."
+    },
+    {
+      "id": "ChIJSVbh0T18j4AREYIWplV8gVw",
+      "formattedAddress": "6564 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7035036,
+        "longitude": -122.46307479999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6665745630785602065&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Paradise Brazilian Imports",
+        "languageCode": "en"
+      },
+      "cuisine": "Brazilian",
+      "photoUrl": "images/restaurant-photos/daly-city/Paradise Brazilian Imports Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 7:00 PM",
+        "Tuesday": "10:00 AM - 7:00 PM",
+        "Wednesday": "10:00 AM - 7:00 PM",
+        "Thursday": "10:00 AM - 7:00 PM",
+        "Friday": "10:00 AM - 7:00 PM",
+        "Saturday": "10:00 AM - 7:00 PM",
+        "Sunday": "11:00 AM - 5:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Brazilian import shop and casual eatery with authentic Brazilian snacks, frozen foods, acai, and specialty imports not commonly found elsewhere in the Bay Area."
+    },
+    {
+      "id": "ChIJM9MQD8h7j4ARG5BqGciez8Y",
+      "formattedAddress": "950 King Dr, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6513956,
+        "longitude": -122.468392
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14325843521945899035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.online/business/pho-cafe-897112",
+      "displayName": {
+        "text": "Pho Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/daly-city/Pho Cafe Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Casual Vietnamese pho restaurant open daily with fresh broth, rice noodle soups, and Vietnamese comfort staples at neighborhood prices."
+    },
+    {
+      "id": "ChIJCYVPJl18j4ARcWA5LpIpKTM",
+      "formattedAddress": "85 Southgate Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6978583,
+        "longitude": -122.48145029999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3686523477796937841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kevinnoodlehouse.com/",
+      "displayName": {
+        "text": "Pho Huynh Hiep 3 - Kevin's Noodle House",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/daly-city/Pho Huynh Hiep 3 Small.jpeg",
+      "phone": "(650) 992-1883",
+      "hours": {
+        "Monday": "9:30 AM - 7:00 PM",
+        "Tuesday": "9:30 AM - 7:00 PM",
+        "Wednesday": "9:30 AM - 7:00 PM",
+        "Thursday": "9:30 AM - 7:00 PM",
+        "Friday": "9:30 AM - 7:00 PM",
+        "Saturday": "9:00 AM - 7:00 PM",
+        "Sunday": "9:00 AM - 7:00 PM"
+      },
+      "menuUrl": "https://www.kevinsnoodlehouse.com/",
+      "priceRange": "$",
+      "description": "Third location of the beloved Kevin's Noodle House dynasty on Mission Street, with 30-plus-year family recipes for pho, hu tieu, and Vietnamese noodle soups that have earned a multigenerational following."
+    },
+    {
+      "id": "ChIJ0yUWXHx8j4ARd8tB1P_Xbis",
+      "formattedAddress": "188 Skyline Plaza, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6815523,
+        "longitude": -122.4877336
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3129676284846787447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://kevinnoodlehouse.com/",
+      "displayName": {
+        "text": "Pho Huynh Hiep 4 - Kevin's Noodle House",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/daly-city/Pho Huynh Hiep 4 Small.jpeg",
+      "phone": "(650) 992-9800",
+      "hours": {
+        "Monday": "9:30 AM - 7:00 PM",
+        "Tuesday": "9:30 AM - 7:00 PM",
+        "Wednesday": "9:30 AM - 7:00 PM",
+        "Thursday": "9:30 AM - 7:00 PM",
+        "Friday": "9:30 AM - 7:00 PM",
+        "Saturday": "9:00 AM - 7:00 PM",
+        "Sunday": "9:00 AM - 7:00 PM"
+      },
+      "menuUrl": "https://www.kevinsnoodlehouse.com/",
+      "priceRange": "$",
+      "description": "Fourth location of Kevin's Noodle House on Mission Street, serving the same award-winning pho, hu tieu, and broken rice plates that have defined Vietnamese dining in Daly City for decades."
+    },
+    {
+      "id": "ChIJR7gzxBV8j4AR2G_XEVdA5Pw",
+      "formattedAddress": "301 Miriam St Suite B, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6993815,
+        "longitude": -122.46464619999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18222760734953533400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzaandpastahousewestlake.com/",
+      "displayName": {
+        "text": "PIZZA & PASTA HOUSE",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/daly-city/Pizza & Pasta House Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 10:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Neighborhood Italian restaurant at 301 Miriam Street with generously sized pizzas, fresh pasta, and classic Italian-American comfort food rated 4.7 stars across 340-plus delivery orders."
+    },
+    {
+      "id": "ChIJPYsB1RB7j4AR7NJGjlqhpV0",
+      "formattedAddress": "5G Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6727625,
+        "longitude": -122.47041370000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6747977026990691052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.poke.house/locations/poke-serramonte-dalycity",
+      "displayName": {
+        "text": "Poke House",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/daly-city/Poke House Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.poke.house/",
+      "priceRange": "$$",
+      "description": "Build-your-own poke bowl restaurant with sustainably sourced proteins, handmade sauces, and California-inspired toppings in a clean fast-casual format."
+    },
+    {
+      "id": "ChIJPaM07xN8j4ARXc2O2mr6-ag",
+      "formattedAddress": "7027 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6953798,
+        "longitude": -122.4643665
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12176038404413115741&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.primopizzasf.com/",
+      "displayName": {
+        "text": "Primo Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Primo Pizza Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Daly City pizza shop with a Buy 1 Get 1 offer on Uber Eats, classic pies, and quick delivery — a high-rated local favorite with over 4.7 stars."
+    },
+    {
+      "id": "ChIJo5BmrBZ8j4ARw7UqLkFaRdk",
+      "formattedAddress": "6917 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.696968999999996,
+        "longitude": -122.4630496
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15656018915617322435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://redbowlnoodle.com/",
+      "displayName": {
+        "text": "Red Bowl Noodles",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Red Bowl Small.jpeg",
+      "hours": {
+        "Monday": "10:30 AM - 9:00 PM",
+        "Tuesday": "10:30 AM - 9:00 PM",
+        "Wednesday": "10:30 AM - 9:00 PM",
+        "Thursday": "10:30 AM - 9:00 PM",
+        "Friday": "10:30 AM - 9:00 PM",
+        "Saturday": "10:30 AM - 9:00 PM",
+        "Sunday": "10:30 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Asian noodle bar with Chinese-style soups, wonton noodles, beef brisket, and comfort noodle dishes at everyday prices."
+    },
+    {
+      "id": "ChIJrdNCMoh9j4ARqcvGFbegBws",
+      "formattedAddress": "301 Miriam St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6993631,
+        "longitude": -122.4647596
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=794780567458991017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Rosi's Alfajores",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/daly-city/Rosis Alfajores Small.jpeg",
+      "hours": {
+        "Tuesday": "10:00 AM - 6:00 PM",
+        "Wednesday": "10:00 AM - 6:00 PM",
+        "Thursday": "10:00 AM - 6:00 PM",
+        "Friday": "10:00 AM - 6:00 PM",
+        "Saturday": "10:00 AM - 6:00 PM",
+        "Sunday": "10:00 AM - 6:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Specialty Latin American bakery in Daly City known for handmade Argentine alfajores, dulce de leche pastries, and South American sweets."
+    },
+    {
+      "id": "ChIJTZcikTx8j4ARMMRL6ZQ4XxU",
+      "formattedAddress": "6222 Mission St, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.7066418,
+        "longitude": -122.460015
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1540011809804370992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+      "displayName": {
+        "text": "Round Table Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Round Table _mission Small.jpeg",
+      "phone": "(650) 756-0640",
+      "hours": {
+        "Monday": "11:00 AM - 9:45 PM",
+        "Tuesday": "11:00 AM - 9:45 PM",
+        "Wednesday": "11:00 AM - 9:45 PM",
+        "Thursday": "11:00 AM - 9:45 PM",
+        "Friday": "11:00 AM - 10:45 PM",
+        "Saturday": "11:00 AM - 10:45 PM",
+        "Sunday": "11:00 AM - 9:45 PM"
+      },
+      "menuUrl": "https://www.roundtablepizza.com/menu/",
+      "priceRange": "$",
+      "description": "Bay Area-born pizza chain at 1901 Junipero Serra Boulevard with classic thin and hearty crust pies, pasta, wings, and salads with a consistent 4.6-star delivery rating."
+    },
+    {
+      "id": "ChIJc6bRdAB9j4ARLRVSTlDFwf4",
+      "formattedAddress": "1216 Hillside Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6858497,
+        "longitude": -122.45973850000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18357170504840910125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.instagram.com/russfamkitchen_?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr",
+      "displayName": {
+        "text": "Russ Fam Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "hours": {
+        "Monday": "10:00 AM - 8:00 PM",
+        "Tuesday": "10:00 AM - 8:00 PM",
+        "Wednesday": "10:00 AM - 8:00 PM",
+        "Thursday": "10:00 AM - 8:00 PM",
+        "Friday": "10:00 AM - 8:00 PM",
+        "Saturday": "10:00 AM - 8:00 PM",
+        "Sunday": "10:00 AM - 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Family-run Filipino kitchen with home-style cooking, rice plates, and traditional dishes served in a casual welcoming setting."
+    },
+    {
+      "id": "ChIJQ4BnIyF7j4ARASVC3xDPZHQ",
+      "formattedAddress": "383 Gellert Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6647052,
+        "longitude": -122.46764759999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8387056077442786561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.seapotusa.com/daly-city-ca",
+      "displayName": {
+        "text": "Seapot Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Seapot Small.jpeg",
+      "hours": {
+        "Monday": "11:30 AM - 10:00 PM",
+        "Tuesday": "11:30 AM - 10:00 PM",
+        "Wednesday": "11:30 AM - 10:00 PM",
+        "Thursday": "11:30 AM - 10:00 PM",
+        "Friday": "11:30 AM - 11:00 PM",
+        "Saturday": "11:30 AM - 11:00 PM",
+        "Sunday": "11:30 AM - 10:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Korean all-you-can-eat hot pot and BBQ restaurant in Daly City with conveyor-belt service, fresh meats, seafood, and a wide banchan selection."
+    },
+    {
+      "id": "ChIJLz3OK118j4ARce109CngBks",
+      "formattedAddress": "25 Southgate Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.698005699999996,
+        "longitude": -122.4809455
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5406254873504443761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Shaking Crab",
+        "languageCode": "en"
+      },
+      "cuisine": "Seafood",
+      "photoUrl": "images/restaurant-photos/daly-city/Shaking Crab Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 10:00 PM",
+        "Tuesday": "11:00 AM - 10:00 PM",
+        "Wednesday": "11:00 AM - 10:00 PM",
+        "Thursday": "11:00 AM - 10:00 PM",
+        "Friday": "11:00 AM - 10:00 PM",
+        "Saturday": "11:00 AM - 10:00 PM",
+        "Sunday": "11:00 AM - 10:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Cajun seafood boil restaurant with customizable spice levels, shrimp, crab, lobster, and corn cooked in a bag with your choice of signature sauce."
+    },
+    {
+      "id": "ChIJwynKLCV7j4ARyYeXr2SKLuc",
+      "formattedAddress": "94015, United States, California, Daly City, Gellert Blvd, #2",
+      "location": {
+        "latitude": 37.6501972,
+        "longitude": -122.45397799999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16658404236737349577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.shinethaicuisine.com/",
+      "displayName": {
+        "text": "Shine Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/daly-city/Shine Thai Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Thai restaurant on Mission Street with classic curries, pad thai, stir-fries, and vegetarian options in a neighborhood casual setting."
+    },
+    {
+      "id": "ChIJh8-odnR7j4ARz7d7QnXg-sA",
+      "formattedAddress": "148 Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6703804,
+        "longitude": -122.4735931
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13905673593691027407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.simmerhuangmiaogrill.com/",
+      "displayName": {
+        "text": "Simmer Huang / Miao Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Simmer Huang Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Chinese hot pot and grill restaurant with Miao-style preparations, simmering broths, and authentic regional Chinese flavors."
+    },
+    {
+      "id": "ChIJc9FY8Jd9j4ARU1p4983WJp4",
+      "formattedAddress": "514 Westlake Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.699172,
+        "longitude": -122.4825453
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11396032087216118355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sourdoughandco.com/daly-city",
+      "displayName": {
+        "text": "Sourdough & Co.",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Sourdough & Co Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 8:00 PM",
+        "Tuesday": "10:00 AM - 8:00 PM",
+        "Wednesday": "10:00 AM - 8:00 PM",
+        "Thursday": "10:00 AM - 8:00 PM",
+        "Friday": "10:00 AM - 8:00 PM",
+        "Saturday": "10:00 AM - 8:00 PM",
+        "Sunday": "10:00 AM - 8:00 PM"
+      },
+      "menuUrl": "https://sourdoughandco.com/",
+      "priceRange": "$",
+      "description": "Sourdough sandwich chain on Junipero Serra with fresh-baked bread, quality deli meats, house-spread sandwiches, and rotating daily soups."
+    },
+    {
+      "id": "ChIJWwMKn_t9j4ARwtkPUWCQq5M",
+      "displayName": {
+        "text": "Spicy House",
+        "languageCode": "en"
+      },
+      "formattedAddress": "6811 Mission St, Daly City, CA 94014, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10640757287944182210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.spicyhousetogo.com/",
+      "location": {},
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Spicy House Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "priceRange": "$",
+      "description": "Chinese restaurant on Mission Street with bold Sichuan and Hunan-inspired dishes, spicy stir-fries, and homestyle Chinese cooking at everyday prices."
+    },
+    {
+      "id": "ChIJi4q0Bg18j4ARaT1yCYzOgps",
+      "formattedAddress": "1 San Pedro Rd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6888406,
+        "longitude": -122.46677890000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11205745923700440425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Suily's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Suilys Cafe Small.jpeg",
+      "hours": {
+        "Monday": "7:00 AM - 3:00 PM",
+        "Tuesday": "7:00 AM - 3:00 PM",
+        "Wednesday": "7:00 AM - 3:00 PM",
+        "Thursday": "7:00 AM - 3:00 PM",
+        "Friday": "7:00 AM - 3:00 PM",
+        "Saturday": "7:00 AM - 3:00 PM",
+        "Sunday": "7:00 AM - 3:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Neighborhood Filipino breakfast and lunch cafe open from early morning with rice meals, silog plates, and Filipino comfort food for the local community."
+    },
+    {
+      "id": "ChIJTZbKm7d7j4AR_4aEkXg3Zcw",
+      "formattedAddress": "3 St Francis Square, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6748201,
+        "longitude": -122.4786111
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14728239147362060031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Supreme Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "hours": {
+        "Monday": "11:30 AM - 10:00 PM",
+        "Tuesday": "11:30 AM - 10:00 PM",
+        "Wednesday": "11:30 AM - 10:00 PM",
+        "Thursday": "11:30 AM - 10:00 PM",
+        "Friday": "11:30 AM - 10:00 PM",
+        "Saturday": "11:30 AM - 10:00 PM",
+        "Sunday": "11:30 AM - 10:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Hot pot restaurant in Daly City with individual and shared pot options, fresh proteins, vegetables, and a broad selection of dipping sauces."
+    },
+    {
+      "id": "ChIJ2Rca7Ox_j4ARg-kQN9kC2nc",
+      "displayName": {
+        "text": "TacoMiendo (food truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2700 Bayshore Blvd, Daly City, CA 94014, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8636218367391361411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://food.orders.co/tacomiendo",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ],
+      "photoUrl": "images/restaurant-photos/daly-city/TacoMiendo Small.jpeg",
+      "hours": {
+        "Monday": "10:00 AM - 8:00 PM",
+        "Tuesday": "10:00 AM - 8:00 PM",
+        "Wednesday": "10:00 AM - 8:00 PM",
+        "Thursday": "10:00 AM - 8:00 PM",
+        "Friday": "10:00 AM - 8:00 PM",
+        "Saturday": "10:00 AM - 8:00 PM",
+        "Sunday": "10:00 AM - 8:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Mexican food truck serving tacos, burritos, and traditional street food favorites made fresh to order in the Daly City area."
+    },
+    {
+      "id": "ChIJmRJZP_p9j4AR0KEXYJuChFE",
+      "displayName": {
+        "text": "Tacos El Charrito (food truck)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "7428 Mission St, Daly City, CA 94014, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=5873963417841672656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Mexican",
+      "keywords": [
+        "food truck"
+      ],
+      "photoUrl": "images/restaurant-photos/daly-city/Hibachi Truck (food truck) Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Family-run Mexican food truck with al pastor, carne asada, and house-made tacos and burritos at street-food prices — a Daly City neighborhood staple."
+    },
+    {
+      "id": "ChIJaTdo59t9j4ARb4xrUoGo8gI",
+      "formattedAddress": "1618 Sullivan Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6873748,
+        "longitude": -122.4724632
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=212417405826862191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://taqueriadoscharros.online/",
+      "displayName": {
+        "text": "Taqueria Dos Charros",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Taqueria Dos Charros Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 10:00 PM",
+        "Saturday": "9:00 AM - 10:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "menuUrl": "https://www.taqueriadoscharros.com/",
+      "priceRange": "$",
+      "description": "Beloved Daly City taqueria at Sullivan Avenue with tacos, burritos, seafood plates, fajitas, and kids menu — one of the highest-rated Mexican restaurants in Daly City with 900-plus delivery reviews."
+    },
+    {
+      "id": "ChIJwbETVIB9j4ARGi09j8fT24c",
+      "formattedAddress": "2408 B Junipero Serra Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6931489,
+        "longitude": -122.4713056
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9789651069075008794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Taqueria Los Agaves",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/daly-city/Taqueria Los Agaves Small.jpeg",
+      "hours": {
+        "Monday": "9:00 AM - 9:00 PM",
+        "Tuesday": "9:00 AM - 9:00 PM",
+        "Wednesday": "9:00 AM - 9:00 PM",
+        "Thursday": "9:00 AM - 9:00 PM",
+        "Friday": "9:00 AM - 9:00 PM",
+        "Saturday": "9:00 AM - 9:00 PM",
+        "Sunday": "9:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Authentic Mexican taqueria with al pastor, carne asada tacos, burritos, and fresh salsas at everyday prices."
+    },
+    {
+      "id": "ChIJyXbPcf5_j4AR-UmSGe2ZN4c",
+      "formattedAddress": "6178 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7069356,
+        "longitude": -122.45875249999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9743425562454673913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.thesubstopdeli.com/",
+      "displayName": {
+        "text": "The Sub Stop Deli",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/The substop deli Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 5:00 PM",
+        "Tuesday": "8:00 AM - 5:00 PM",
+        "Wednesday": "8:00 AM - 5:00 PM",
+        "Thursday": "8:00 AM - 5:00 PM",
+        "Friday": "8:00 AM - 5:00 PM",
+        "Saturday": "8:00 AM - 5:00 PM"
+      },
+      "priceRange": "$",
+      "description": "No-frills neighborhood deli with made-to-order sandwiches, subs, and deli staples — a quick weekday lunch option for the local working community."
+    },
+    {
+      "id": "ChIJ24VUchN9j4ARgGNP7UAWO9Y",
+      "formattedAddress": "32 Park Plaza Dr, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.7012836,
+        "longitude": -122.4819828
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15436956615857628032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://ohbabysushi.com/",
+      "displayName": {
+        "text": "Tiny Sushi - Oh Baby",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Oh Baby Sushi Small.jpeg",
+      "hours": {
+        "Tuesday": "11:30 AM - 8:30 PM",
+        "Wednesday": "11:30 AM - 8:30 PM",
+        "Thursday": "11:30 AM - 8:30 PM",
+        "Friday": "11:30 AM - 8:30 PM",
+        "Saturday": "11:30 AM - 8:30 PM",
+        "Sunday": "11:30 AM - 8:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Intimate sushi spot at Westlake Center with a focused menu of fresh rolls and nigiri praised for quality and value — a local hidden gem with a loyal following."
+    },
+    {
+      "id": "ChIJb3D4b2t8j4ARkBUG8Axqpbo",
+      "formattedAddress": "2350 Junipero Serra Blvd, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.694714499999996,
+        "longitude": -122.47144929999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13449272466010936720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Tofu and BBQ House",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/daly-city/Tofu and BBQ House Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Korean restaurant combining soondubu tofu stew and tabletop Korean BBQ, with banchan, rice, and a full menu of traditional Korean comfort dishes."
+    },
+    {
+      "id": "ChIJBz5SOJl9j4ARTvT_ZDUpch4",
+      "formattedAddress": "177 Southgate Ave, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6971734,
+        "longitude": -122.4837633
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2193861277787354190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tomsanramendalycity.com/?utm_source=gmb&utm_medium=website",
+      "displayName": {
+        "text": "Tom San Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Tom San Ramen Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Neighborhood ramen shop with Japanese-style noodle soups, tonkotsu broth, and traditional ramen accompaniments in a casual setting."
+    },
+    {
+      "id": "ChIJbzxsjEB8j4ARKzKIS39vhbQ",
+      "formattedAddress": "1901 Junipero Serra Blvd # G, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7020857,
+        "longitude": -122.47056850000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13007925691248292395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tomosushiteriyaki.shop/",
+      "displayName": {
+        "text": "Tomo Sushi & Teriyaki",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Tomo Sushi Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Japanese restaurant with a broad menu of sushi rolls, sashimi, teriyaki plates, and bento boxes available for dine-in and delivery."
+    },
+    {
+      "id": "ChIJr04AbDx8j4ARIrEeQmmOoGE",
+      "formattedAddress": "6300 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7057016,
+        "longitude": -122.461946
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7034779200684732706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lokosite.com/biz/topofthehillcafe",
+      "displayName": {
+        "text": "Top of the Hill",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Top of the Hill Small.jpeg",
+      "hours": {
+        "Monday": "7:00 AM - 9:00 PM",
+        "Tuesday": "7:00 AM - 9:00 PM",
+        "Wednesday": "7:00 AM - 9:00 PM",
+        "Thursday": "7:00 AM - 9:00 PM",
+        "Friday": "7:00 AM - 9:00 PM",
+        "Saturday": "7:00 AM - 9:00 PM",
+        "Sunday": "7:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Daly City neighborhood cafe on Mission Street with coffee, breakfast, lunch, and light bites open from early morning — a relaxed local gathering spot."
+    },
+    {
+      "id": "ChIJMw0UBA18j4ARmcSetSq8Fvw",
+      "formattedAddress": "6860 Mission St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6982462,
+        "longitude": -122.4644478
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18164913038667203737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tselogs.com/home.html",
+      "displayName": {
+        "text": "Tselogs",
+        "languageCode": "en"
+      },
+      "cuisine": "Filipino",
+      "photoUrl": "images/restaurant-photos/daly-city/Tselogs Small.jpeg",
+      "hours": {
+        "Monday": "8:00 AM - 9:00 PM",
+        "Tuesday": "8:00 AM - 9:00 PM",
+        "Wednesday": "8:00 AM - 9:00 PM",
+        "Thursday": "8:00 AM - 9:00 PM",
+        "Friday": "8:00 AM - 9:00 PM",
+        "Saturday": "8:00 AM - 9:00 PM",
+        "Sunday": "8:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Filipino silog specialty restaurant with a full menu of tapsilog, longsilog, bangsilog, and other classic rice-egg-meat breakfast and all-day Filipino plates."
+    },
+    {
+      "id": "ChIJ2UB_iQh9j4ARUpVx_aP6dIE",
+      "formattedAddress": "361 E Market St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.6902444,
+        "longitude": -122.4617581
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9328356310429832530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://unipizzeria.com/",
+      "displayName": {
+        "text": "UNI Pizzeria & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/daly-city/Uni Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Pizza and grill restaurant in Daly City with classic pies, grilled dishes, and Italian-American comfort food in a casual neighborhood setting."
+    },
+    {
+      "id": "ChIJLaW5fFt8j4ARndOjq-gizmI",
+      "formattedAddress": "1901 Junipero Serra Blvd st, D St, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.702244199999996,
+        "longitude": -122.4705773
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7119666443626730397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://westlakecoffee.com/",
+      "displayName": {
+        "text": "Westlake Coffee Shop",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/daly-city/Westlake Coffee Shop Small.jpeg",
+      "hours": {
+        "Monday": "7:00 AM - 3:00 PM",
+        "Tuesday": "7:00 AM - 3:00 PM",
+        "Wednesday": "7:00 AM - 3:00 PM",
+        "Thursday": "7:00 AM - 3:00 PM",
+        "Friday": "7:00 AM - 3:00 PM",
+        "Saturday": "7:00 AM - 3:00 PM",
+        "Sunday": "7:00 AM - 3:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Classic American diner and coffee shop at Westlake Center open from early morning with eggs, pancakes, diner staples, and a welcoming neighborhood atmosphere."
+    },
+    {
+      "id": "ChIJ_T2i1Ah8j4ARircqKd3tblI",
+      "formattedAddress": "1111 Hillside Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.688161,
+        "longitude": -122.4604785
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5939946492682483594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Wong's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/daly-city/Wongs Cafe Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$",
+      "description": "Casual Chinese and Asian restaurant in Daly City with a broad menu of classic dishes, rice plates, and noodle soups at everyday prices."
+    },
+    {
+      "id": "ChIJYYreIM59j4ARtC_tUCX5asU",
+      "formattedAddress": "1901E Junipero Serra Blvd, Daly City, CA 94014, USA",
+      "location": {
+        "latitude": 37.7021881,
+        "longitude": -122.4705689
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14225456311669960628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://yokohamaiekei.net/",
+      "displayName": {
+        "text": "Yokohama Iekei Ramen Daly City",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Yokohama Iekei Ramen Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:00 PM",
+        "Tuesday": "11:00 AM - 9:00 PM",
+        "Wednesday": "11:00 AM - 9:00 PM",
+        "Thursday": "11:00 AM - 9:00 PM",
+        "Friday": "11:00 AM - 9:00 PM",
+        "Saturday": "11:00 AM - 9:00 PM",
+        "Sunday": "11:00 AM - 9:00 PM"
+      },
+      "priceRange": "$$",
+      "description": "Authentic iekei-style ramen restaurant in Daly City with thick tonkotsu soy broth, firm noodles, and generous chashu pork in the beloved Yokohama ramen tradition."
+    },
+    {
+      "id": "ChIJ_UVCRI17j4ARCZmiYMuClqk",
+      "formattedAddress": "127-H Serramonte Center, Daly City, CA 94015, USA",
+      "location": {
+        "latitude": 37.6714193,
+        "longitude": -122.4703335
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12220098448927660297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.yoshi-ramen.com/",
+      "displayName": {
+        "text": "Yoshi Ramen & Sushi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/daly-city/Yoshi Small.jpeg",
+      "hours": {
+        "Monday": "11:00 AM - 9:30 PM",
+        "Tuesday": "11:00 AM - 9:30 PM",
+        "Wednesday": "11:00 AM - 9:30 PM",
+        "Thursday": "11:00 AM - 9:30 PM",
+        "Friday": "11:00 AM - 9:30 PM",
+        "Saturday": "11:00 AM - 9:30 PM",
+        "Sunday": "11:00 AM - 9:30 PM"
+      },
+      "priceRange": "$$",
+      "description": "Combination ramen and sushi restaurant with rich broth noodle soups alongside fresh rolls and nigiri — a versatile neighborhood Japanese spot open seven days."
+    }
+  ],
   "South San Francisco, CA": [
     {
       "id": "ChIJQbQjIgB5j4AR11taB0RW6Qo",
