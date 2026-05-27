@@ -8419,6 +8419,26 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1779923749111",
+      "displayName": {
+        "text": "Noah's NY Bagels",
+        "languageCode": "en"
+      },
+      "formattedAddress": "50 E 4th Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Noah's+NY+Bagels/@37.5629907,-122.3241388,3a,75y,90t/data=!3m8!1e2!3m6!1sCIABIhBkQGjdC0cA8agw3lWr3et2!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAPNQkAGT-iF__VlQqkL4W248JP5EwaaTL2QyPk3iL9SwpxqUBOqxhaa1jtH7ixaPqM0svKW7v4a0XMn968uN4oCw6BXm3-7z6WLGYhqMdftEKbszTJmK_wu87SoJxvahbPS8m-6guddaFZ8Ss_0A%3Dw114-h86-k-no!7i4032!8i3024!4m7!3m6!1s0x808f9e702659ea8d:0x5a34ca9e11c6db49!8m2!3d37.5628357!4d-122.3239768!10e5!16s%2Fg%2F1trqhg1p?entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "https://locations.noahs.com/us/ca/san-mateo/50-e-4th-ave?y_source=1_ODk4NTc0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "location": {},
+      "cuisine": "Breakfast",
+      "keywords": [
+        "bagels"
+      ],
+      "menuUrl": "https://www.noahs.com/our-nosh",
+      "phone": "(650) 347-2364",
+      "hours": "Mon-Fri 5am-2pm, Sat-Sun 6am-2pm",
+      "priceRange": "$",
+      "description": "NY style bagels with a wide variety of spreads. Also, many breakfast sandwich options."
     }
   ],
   "Foster City, CA": [
