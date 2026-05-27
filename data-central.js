@@ -3046,6 +3046,27 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
+      "id": "manual_1779924828025",
+      "displayName": {
+        "text": "Backhaus",
+        "languageCode": "en"
+      },
+      "formattedAddress": "32 E 3rd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Backhaus+%7C+San+Mateo/@37.5633452,-122.3251067,17z/data=!3m1!4b1!4m6!3m5!1s0x808f9dee44ad4265:0x393044821491b9c!8m2!3d37.5633452!4d-122.3251067!16s%2Fg%2F11f03xls87?entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "http://backhausbread.com/",
+      "location": {},
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "bread"
+      ],
+      "menuUrl": "https://www.backhausbread.com/menu",
+      "phone": "+16502009493",
+      "hours": "Tue-Sun 7:30am-4pm",
+      "priceRange": "$",
+      "description": "Women own fresh bakery with breakfast options",
+      "photoUrl": "images/restaurant-photos/san-mateo/Backhaus Small.jpeg"
+    },
+    {
       "id": "ChIJ_yqFjbqfj4ARUmXo2-T8CSg",
       "formattedAddress": "3081 S Delaware St Ste. C, San Mateo, CA 94403, USA",
       "location": {
@@ -8440,26 +8461,6 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
-    },
-    {
-      "id": "manual_1779924828025",
-      "displayName": {
-        "text": "Backhaus",
-        "languageCode": "en"
-      },
-      "formattedAddress": "32 E 3rd Ave, San Mateo, CA 94401",
-      "googleMapsUri": "https://www.google.com/maps/place/Backhaus+%7C+San+Mateo/@37.5633452,-122.3251067,17z/data=!3m1!4b1!4m6!3m5!1s0x808f9dee44ad4265:0x393044821491b9c!8m2!3d37.5633452!4d-122.3251067!16s%2Fg%2F11f03xls87?entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
-      "websiteUri": "http://backhausbread.com/",
-      "location": {},
-      "cuisine": "Cafe/Bakery",
-      "keywords": [
-        "bread"
-      ],
-      "menuUrl": "https://www.backhausbread.com/menu",
-      "phone": "+16502009493",
-      "hours": "Tue-Sun 7:30am-4pm",
-      "priceRange": "$",
-      "description": "Women own fresh bakery with breakfast options"
     }
   ],
   "Foster City, CA": [
