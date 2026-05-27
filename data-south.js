@@ -665,31 +665,20 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJ_xjZnDmjj4ARRsLs25aSpGg",
-      "formattedAddress": "2640 &, 2644 Broadway, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4865259,
-        "longitude": -122.23432349999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7540312852757529158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://crouchingtigerrestaurant.com/",
       "displayName": {
         "text": "Crouching Tiger Restaurant & Bar",
         "languageCode": "en"
       },
+      "formattedAddress": "2640 Broadway, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7540312852757529158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://crouchingtigerrestaurant.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "phone": "(650) 298-8881",
-      "hours": {
-        "Monday": "11:00 AM - 9:00 PM",
-        "Tuesday": "11:00 AM - 9:00 PM",
-        "Wednesday": "11:00 AM - 9:00 PM",
-        "Thursday": "11:00 AM - 9:00 PM",
-        "Friday": "11:00 AM - 9:00 PM",
-        "Saturday": "11:30 AM - 9:00 PM",
-        "Sunday": "11:30 AM - 9:00 PM"
-      },
-      "description": "Michelin Bib Gourmand authentic Sichuan, Hunan, and Mandarin cuisine with generous portions at surprisingly affordable prices.",
       "menuUrl": "http://crouchingtigerrestaurant.com/dinner-menu-2/",
+      "phone": "(650) 298-8881",
+      "hours": "[object Object]",
       "priceRange": "$$",
+      "description": "Michelin Bib Gourmand authentic Sichuan, Hunan, and Mandarin cuisine with generous portions at surprisingly affordable prices.",
       "photoUrl": "images/restaurant-photos/redwood-city/Crouching Tiger Small.jpeg"
     },
     {
