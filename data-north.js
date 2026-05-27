@@ -1459,7 +1459,7 @@ var PREBAKED_DATA_NORTH = {
         "languageCode": "en"
       },
       "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/daly-city/Nick the Greek | Daly City _westlake Small.jpeg",
+      "photoUrl": "images/restaurant-photos/daly-city/Nick the Greek | Daly City Small.jpeg",
       "hours": {
         "Monday": "10:00 AM - 10:00 PM",
         "Tuesday": "10:00 AM - 10:00 PM",
