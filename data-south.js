@@ -6338,34 +6338,6 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://yeobodarling.com/",
       "priceRange": "$$$$",
       "description": "Intimate Korean-Taiwanese dinner restaurant at 827 Santa Cruz Avenue from the Michelin-starred Maum team, with abundant banchan service, tea-infused cocktails, premium sool, and dishes celebrating the chefs' shared heritage."
-    },
-    {
-      "id": "ChIJ43doM-ulj4ARDDU_2YFai1c",
-      "formattedAddress": "1010 University Dr, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.4491818,
-        "longitude": -122.185159
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6308235216804590860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.zenshisushi.com/",
-      "displayName": {
-        "text": "ZENSHI Handcrafted Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "phone": "(650) 324-7700",
-      "hours": {
-        "Monday": "9:00 AM - 7:00 PM",
-        "Tuesday": "9:00 AM - 7:00 PM",
-        "Wednesday": "9:00 AM - 7:00 PM",
-        "Thursday": "9:00 AM - 7:00 PM",
-        "Friday": "9:00 AM - 7:00 PM",
-        "Saturday": "9:00 AM - 7:00 PM",
-        "Sunday": "9:00 AM - 7:00 PM"
-      },
-      "menuUrl": "https://www.zenshisushi.com/",
-      "priceRange": "$",
-      "description": "Grab-and-go sushi kiosk at 1010 University Drive with fresh handcrafted rolls, poke bowls, and sashimi made daily — a convenient quick-serve option near the Menlo Park Caltrain station."
     }
   ],
   "Palo Alto, CA": [
