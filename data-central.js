@@ -9823,7 +9823,8 @@ var PREBAKED_DATA_CENTRAL = {
         "pastries",
         "casual",
         "quick"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/belmont/Little Belmont Cafe Small.jpeg"
     },
     {
       "id": "ChIJTWyOeWafj4AR1GCqyNGiqT0",
