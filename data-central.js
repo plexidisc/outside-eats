@@ -9879,7 +9879,8 @@ var PREBAKED_DATA_CENTRAL = {
         "fish tacos",
         "ceviche",
         "casual"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/belmont/Los Triki Takos Mariscos y Tacos Small.jpeg"
     },
     {
       "id": "ChIJIZyhM1Cfj4AR9QgFYPdBeo4",
