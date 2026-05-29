@@ -9794,7 +9794,8 @@ var PREBAKED_DATA_CENTRAL = {
         "vegetarian",
         "catering",
         "dinner"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/belmont/Koriander Indian Cuisine Catering Small.jpeg"
     },
     {
       "id": "ChIJcXq16lKfj4ARwAQ_r2t9Omk",
