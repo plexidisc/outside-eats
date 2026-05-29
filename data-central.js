@@ -9914,36 +9914,6 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
-      "id": "ChIJhx75uxufj4ARGVbAOGn69g4",
-      "formattedAddress": "407 Old County Rd, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5264175,
-        "longitude": -122.2819226
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1078324490632451609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.miss-subi.com/",
-      "displayName": {
-        "text": "Miss Subi",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "phone": "(415) 601-9788",
-      "hours": "Mon–Fri 10am–5pm, Sat–Sun Closed",
-      "menuUrl": "https://www.miss-subi.com/catering-menu",
-      "priceRange": "$$",
-      "keywords": [
-        "hawaiian",
-        "musubi",
-        "spam musubi",
-        "poke",
-        "asian fusion",
-        "bowls",
-        "healthy",
-        "catering",
-        "food truck"
-      ]
-    },
-    {
       "id": "ChIJn5HZKwCfj4AR1JI9PBzSNos",
       "formattedAddress": "1602 El Camino Real Ste A, Belmont, CA 94002, USA",
       "location": {
