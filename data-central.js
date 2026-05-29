@@ -9188,7 +9188,8 @@ var PREBAKED_DATA_CENTRAL = {
         "ipa",
         "lager",
         "live music"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/belmont/Brewing With Brothas Small.jpeg"
     },
     {
       "id": "ChIJh-Tmh2afj4ARmj-JlEdP-9g",
