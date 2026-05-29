@@ -10004,7 +10004,8 @@ var PREBAKED_DATA_CENTRAL = {
         "quick",
         "chain",
         "subs"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/belmont/Mr. Pickle's Sandwich Shop Small.jpeg"
     },
     {
       "id": "ChIJbS1asFWfj4AR0JXi0-ezGrM",
