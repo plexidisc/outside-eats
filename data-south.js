@@ -9104,33 +9104,6 @@ var PREBAKED_DATA_SOUTH = {
       "description": "A vibrant neighborhood restaurant with a rotating menu of globally inspired small plates, natural wines, and a lively convivial atmosphere."
     },
     {
-      "id": "ChIJlSPd8w67j4ARZy6_cUeyGng",
-      "formattedAddress": "501 Oxford Ave, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4265576,
-        "longitude": -122.1484342
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8654425653866606183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://realmediterraneankitchen.com/",
-      "displayName": {
-        "text": "Real Mediterranean Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Greek/Mediterranean",
-      "phone": "(650) 272-6955",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
-      "priceRange": "$$",
-      "description": "Fresh housemade Mediterranean dishes with halal options, generous portions, and a broad menu of wraps, plates, and sides in a casual setting."
-    },
-    {
       "id": "ChIJt-5IyBa7j4ARD5iJZz4Ay0Y",
       "formattedAddress": "450 Bryant St, Palo Alto, CA 94301, USA",
       "location": {
