@@ -12033,28 +12033,6 @@ var PREBAKED_DATA_SOUTH = {
       "description": "Incredibly fresh sushi and sashimi with innovative twists, plus great sake and Japanese craft beer.",
       "menuUrl": "https://www.yoshisushilosaltos.com/menu/",
       "priceRange": "$$"
-    },
-    {
-      "id": "ChIJUUxQ8Y-xj4ARP33lTnajNe4",
-      "formattedAddress": "160 1st St, Los Altos, CA 94022, USA",
-      "location": {
-        "latitude": 37.3791046,
-        "longitude": -122.11915719999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17164805283317644607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.zenshisushi.com/",
-      "displayName": {
-        "text": "ZENSHI Handcrafted Sushi",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "phone": "(650) 941-1801",
-      "hours": {
-        "Mon – Sun": "9:00 AM - 7:00 PM"
-      },
-      "description": "Fresh handcrafted sushi made daily with premium ingredients, featuring traditional and American rolls at affordable prices.",
-      "menuUrl": "https://www.zenshisushi.com/menu-2-old",
-      "priceRange": "$$"
     }
   ],
   "Mountain View, CA": [
