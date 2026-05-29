@@ -9521,7 +9521,8 @@ var PREBAKED_DATA_CENTRAL = {
         "lunch",
         "casual",
         "family friendly"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/belmont/Farm House Small.jpeg"
     },
     {
       "id": "ChIJicGBqGafj4AR5pZvrjNvqfs",
