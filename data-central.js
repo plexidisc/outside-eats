@@ -9461,7 +9461,8 @@ var PREBAKED_DATA_CENTRAL = {
         "carne asada",
         "quick",
         "lunch"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/belmont/El Metate Taqueria Small.jpeg"
     },
     {
       "id": "ChIJo8wMpVqfj4ARdsF7gRBG8rw",
