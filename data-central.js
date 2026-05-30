@@ -3184,22 +3184,20 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=16857110141896976569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.bigdaddyshawaiianbbq.com/",
       "location": {},
-      "cuisine": [
-        "BBQ",
-        "Hawaiian"
-      ],
-      "phone": "(323) 238-3320",
-      "hours": "Mon–Sun 10:00am–10:00pm",
-      "priceRange": "$$",
-      "description": "Fresh Hawaiian-inspired cuisine that's clean, craveable, and feels great.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg",
+      "cuisine": "BBQ",
       "keywords": [
         "hawaiian bbq",
         "plate lunch",
         "fast casual",
         "counter service",
-        "family friendly"
-      ]
+        "family friendly",
+        "hawaiian"
+      ],
+      "phone": "(323) 238-3320",
+      "hours": "Mon–Sun 10:00am–10:00pm",
+      "priceRange": "$$",
+      "description": "Fresh Hawaiian-inspired cuisine that's clean, craveable, and feels great.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bibimmate Small.jpeg"
     },
     {
       "id": "ChIJmUsD8Puej4ARjrL6z1BUv0I",
