@@ -7094,32 +7094,30 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJDeCMOJyfj4ARgW3aYsVHnME",
-      "formattedAddress": "251 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.565443099999996,
-        "longitude": -122.3227751
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13951104658779565441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://sajjstreeteats.com/",
       "displayName": {
         "text": "SAJJ Mediterranean",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Sajj Small.jpeg",
-      "phone": "(650) 274-0150",
-      "description": "Fresh, locally-sourced Mediterranean food with bold flavors and unlimited customization.",
-      "hours": "Mon–Sun 11am–8pm",
-      "menuUrl": "https://www.sajjstreeteats.com/menus/",
-      "priceRange": "$$",
+      "formattedAddress": "251 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13951104658779565441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sajjstreeteats.com/",
+      "location": {},
+      "cuisine": "Mediterranean",
       "keywords": [
         "mediterranean wraps",
         "falafel",
         "fast casual",
         "counter service",
         "halal",
-        "vegetarian options"
-      ]
+        "vegetarian options",
+        "greek"
+      ],
+      "menuUrl": "https://www.sajjstreeteats.com/menus/",
+      "phone": "(650) 274-0150",
+      "hours": "Mon–Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "Fresh, locally-sourced Mediterranean food with bold flavors and unlimited customization.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sajj Small.jpeg"
     },
     {
       "id": "ChIJ51llI8Sfj4AR3U6RBSjFVeg",
