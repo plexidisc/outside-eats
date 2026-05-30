@@ -3629,32 +3629,30 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ1abXTPmej4ARcbHKZmE-yaI",
-      "formattedAddress": "8 W 25th Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.544292299999995,
-        "longitude": -122.306095
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11729975292520477041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.cobanigyro.com/",
       "displayName": {
         "text": "Cobani Gyro & Kebab",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Cobani Small.jpeg",
-      "phone": "(650) 389-6861",
-      "description": "Michelin-recommended fresh halal Mediterranean with highest-quality ingredients and gourmet dishes.",
-      "hours": "Mon–Sun 11am–9pm",
-      "menuUrl": "https://www.yelp.com/menu/cobani-gyro-and-kebab-san-mateo",
-      "priceRange": "$$",
+      "formattedAddress": "8 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11729975292520477041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.cobanigyro.com/",
+      "location": {},
+      "cuisine": "Mediterranean",
       "keywords": [
         "gyros",
         "falafel",
         "fast casual",
         "counter service",
         "halal",
-        "mediterranean"
-      ]
+        "mediterranean",
+        "greek"
+      ],
+      "menuUrl": "https://www.yelp.com/menu/cobani-gyro-and-kebab-san-mateo",
+      "phone": "(650) 389-6861",
+      "hours": "Mon–Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Michelin-recommended fresh halal Mediterranean with highest-quality ingredients and gourmet dishes.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cobani Small.jpeg"
     },
     {
       "id": "ChIJRTWR2O6fj4ARAqPsTcQX5Hk",
