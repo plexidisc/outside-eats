@@ -4756,31 +4756,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ5VNLDnCej4ARf6DmmGYOkxg",
-      "formattedAddress": "150 E 4th Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5638475,
-        "longitude": -122.322638
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1770774912301441151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.eatathummus.com/",
       "displayName": {
         "text": "Hummus Mediterranean Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Hummus Small.jpeg",
-      "phone": "(650) 401-6903",
-      "description": "Fresh food made in-house with naturally-raised meats slow-roasted rotisserie style.",
-      "hours": "Mon–Thu 10:30am–9:30pm, Fri–Sat 10:30am–9:30pm, Sun 10:30am–9pm",
-      "priceRange": "$$",
+      "formattedAddress": "150 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=1770774912301441151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eatathummus.com/",
+      "location": {},
+      "cuisine": "Mediterranean",
       "keywords": [
         "mediterranean wraps",
         "falafel",
         "hummus",
         "halal",
         "vegetarian options",
-        "fast casual"
-      ]
+        "fast casual",
+        "greek"
+      ],
+      "phone": "(650) 401-6903",
+      "hours": "Mon–Thu 10:30am–9:30pm, Fri–Sat 10:30am–9:30pm, Sun 10:30am–9pm",
+      "priceRange": "$$",
+      "description": "Fresh food made in-house with naturally-raised meats slow-roasted rotisserie style.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hummus Small.jpeg"
     },
     {
       "id": "ChIJmzr6Snqej4ARKnXwd1B3-lM",
