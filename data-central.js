@@ -6131,31 +6131,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJsegTsX-fj4ARBGUV3a1Mntw",
-      "formattedAddress": "1324 W Hillsdale Blvd, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5335357,
-        "longitude": -122.3274522
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15897228044286649604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://nickthegreek.com/",
       "displayName": {
         "text": "Nick The Greek",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Nick The Greek SM Hills Small.jpeg",
-      "phone": "(650) 345-4976",
-      "description": "Fresh Greek street food with classic gyros and flavorful meals.",
-      "hours": "Mon–Sun 11am–10pm",
-      "menuUrl": "https://order.nickthegreek.com/san-mateo/menu",
-      "priceRange": "$",
+      "formattedAddress": "1324 W Hillsdale Blvd, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15897228044286649604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://nickthegreek.com/",
+      "location": {},
+      "cuisine": "Mediterranean",
       "keywords": [
         "gyros",
         "falafel",
         "fast casual",
         "counter service",
-        "mediterranean"
-      ]
+        "mediterranean",
+        "greek"
+      ],
+      "menuUrl": "https://order.nickthegreek.com/san-mateo/menu",
+      "phone": "(650) 345-4976",
+      "hours": "Mon–Sun 11am–10pm",
+      "priceRange": "$",
+      "description": "Fresh Greek street food with classic gyros and flavorful meals.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Nick The Greek SM Hills Small.jpeg"
     },
     {
       "id": "ChIJ30KkXSOfj4AR-BP4ArnxwN0",
