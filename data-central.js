@@ -8166,22 +8166,20 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=1761195136463773742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.tongsui.us/",
       "location": {},
-      "cuisine": [
-        "Chinese",
-        "Dessert"
-      ],
-      "phone": "(650) 931-4253",
-      "hours": "Mon–Thu 12pm–9pm, Fri 12pm–9:30pm, Sat 11:30am–9:30pm, Sun 11:30am–9pm",
-      "priceRange": "$$",
-      "description": "Organic coconut pudding made with fresh coconut water and seasonal ingredients.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Tong Sui Small.jpeg",
+      "cuisine": "Dessert",
       "keywords": [
         "chinese desserts",
         "dessert",
         "sweet soups",
         "bubble tea",
-        "late night"
-      ]
+        "late night",
+        "chinese"
+      ],
+      "phone": "(650) 931-4253",
+      "hours": "Mon–Thu 12pm–9pm, Fri 12pm–9:30pm, Sat 11:30am–9:30pm, Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "Organic coconut pudding made with fresh coconut water and seasonal ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tong Sui Small.jpeg"
     },
     {
       "id": "ChIJN6x96hadj4AR7ZVrIZVCt4s",
