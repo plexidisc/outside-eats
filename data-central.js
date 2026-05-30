@@ -9496,24 +9496,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJh6WBQNqfj4ARNcZkArVKcZY",
-      "formattedAddress": "2040 Ralston Ave, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.512501199999996,
-        "longitude": -122.29414150000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10840527919347189301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.capobelmont.com/",
       "displayName": {
         "text": "Capo Mediterranean Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/belmont/Capo Mediterranean Kitchen Small.jpeg",
-      "phone": "(650) 508-1000",
-      "description": "Fresh organic locally sourced ingredients create flavorful Mediterranean fare.",
-      "hours": "Mon–Sat 11am–8:30pm, Sun 11am–8pm",
-      "menuUrl": "https://www.capobelmont.com/menu",
-      "priceRange": "$$",
+      "formattedAddress": "2040 Ralston Ave, Belmont, CA 94002, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10840527919347189301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.capobelmont.com/",
+      "location": {},
+      "cuisine": "mediterranean",
       "keywords": [
         "greek",
         "mediterranean",
@@ -9523,7 +9514,13 @@ var PREBAKED_DATA_CENTRAL = {
         "kebab",
         "pita",
         "healthy"
-      ]
+      ],
+      "menuUrl": "https://www.capobelmont.com/menu",
+      "phone": "(650) 508-1000",
+      "hours": "Mon–Sat 11am–8:30pm, Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "Fresh organic locally sourced ingredients create flavorful Mediterranean fare.",
+      "photoUrl": "images/restaurant-photos/belmont/Capo Mediterranean Kitchen Small.jpeg"
     },
     {
       "id": "ChIJaehGqLafj4ARTMuyCsdoypE",
