@@ -7841,31 +7841,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJrzidLPmej4ARioxd87uGxKk",
-      "formattedAddress": "120 W 25th Ave, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.543843599999995,
-        "longitude": -122.30746140000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12233050629645110410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://tannourinecuisine.com/",
       "displayName": {
         "text": "Tannourine Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Middle Eastern",
-      "photoUrl": "images/restaurant-photos/san-mateo/Tannourine Small.jpeg",
-      "phone": "(650) 638-1960",
-      "description": "Authentic Lebanese cuisine focusing on herbs and fresh seasonal ingredients.",
-      "hours": "Mon–Closed, Tue–Wed 4pm–8:30pm, Thu–Fri 11:30am–1:30pm, 4pm–9:30pm, Sat 4pm–9:30pm, Sun 12pm–8:30pm",
-      "menuUrl": "https://tannourinecuisine.com/san-mateo-san-mateo-tannourine-food-menu",
-      "priceRange": "$$",
+      "formattedAddress": "120 W 25th Ave, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12233050629645110410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tannourinecuisine.com/",
+      "location": {},
+      "cuisine": "Mediterranean",
       "keywords": [
         "lebanese",
         "middle eastern",
         "halal",
         "vegetarian options",
         "family friendly"
-      ]
+      ],
+      "menuUrl": "https://tannourinecuisine.com/san-mateo-san-mateo-tannourine-food-menu",
+      "phone": "(650) 638-1960",
+      "hours": "Mon–Closed, Tue–Wed 4pm–8:30pm, Thu–Fri 11:30am–1:30pm, 4pm–9:30pm, Sat 4pm–9:30pm, Sun 12pm–8:30pm",
+      "priceRange": "$$",
+      "description": "Authentic Lebanese cuisine focusing on herbs and fresh seasonal ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tannourine Small.jpeg"
     },
     {
       "id": "manual_1778252203958",
