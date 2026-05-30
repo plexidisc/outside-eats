@@ -2863,15 +2863,7 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=16926087957210670218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "",
       "location": {},
-      "cuisine": [
-        "Wine Bar",
-        "Spanish"
-      ],
-      "menuUrl": "https://www.opentable.com/r/amour-amour-wine-bar-and-tapas-san-mateo",
-      "phone": "(650) 513-1759",
-      "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 5:00pm–9:30pm, Sun Closed",
-      "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/san-mateo/Amour Amour Small.jpeg",
+      "cuisine": "Wine Bar",
       "keywords": [
         "outdoor seating",
         "happy hour",
@@ -2880,8 +2872,14 @@ var PREBAKED_DATA_CENTRAL = {
         "date night",
         "romantic",
         "wine list",
-        "small plates"
-      ]
+        "small plates",
+        "spanish"
+      ],
+      "menuUrl": "https://www.opentable.com/r/amour-amour-wine-bar-and-tapas-san-mateo",
+      "phone": "(650) 513-1759",
+      "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 5:00pm–9:30pm, Sun Closed",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Amour Amour Small.jpeg"
     },
     {
       "id": "ChIJe9hUWKKfj4ARd4cxNTD2Mo8",
