@@ -2791,12 +2791,10 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=11689815519796690505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.allspicerestaurant.com/",
       "location": {},
-      "cuisine": [
-        "American",
-        "Fusion"
-      ],
+      "cuisine": "Fusion",
       "keywords": [
-        "fine dining"
+        "fine dining",
+        "american"
       ],
       "menuUrl": "https://allspicerestaurant.com/wp-content/uploads/2026/05/dinner-menu-May-2026-2.pdf",
       "phone": "(650) 627-4303",
