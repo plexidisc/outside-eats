@@ -9502,10 +9502,9 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=10840527919347189301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.capobelmont.com/",
       "location": {},
-      "cuisine": "mediterranean",
+      "cuisine": "Mediterranean",
       "keywords": [
         "greek",
-        "mediterranean",
         "hummus",
         "falafel",
         "shawarma",
