@@ -4157,15 +4157,7 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=3403194441814641365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.espetus.com/",
       "location": {},
-      "cuisine": [
-        "Brazilian",
-        "BBQ"
-      ],
-      "phone": "(650) 342-8700",
-      "hours": "Mon–Thu 11:30am–2:30pm, 5pm–10pm, Fri 11:30am–2:30pm, 5pm–11pm, Sat 12pm–3pm, 5pm–11pm, Sun 12pm–9pm",
-      "priceRange": "$$$",
-      "description": "Bay Area's first Brazilian Steakhouse with fourteen flame-grilled cuts tableside.",
-      "photoUrl": "images/restaurant-photos/san-mateo/EspetusJPG Small.jpeg",
+      "cuisine": "Brazilian",
       "keywords": [
         "brazilian steakhouse",
         "churrascaria",
@@ -4173,7 +4165,12 @@ var PREBAKED_DATA_CENTRAL = {
         "groups",
         "special occasion",
         "full bar"
-      ]
+      ],
+      "phone": "(650) 342-8700",
+      "hours": "Mon–Thu 11:30am–2:30pm, 5pm–10pm, Fri 11:30am–2:30pm, 5pm–11pm, Sat 12pm–3pm, 5pm–11pm, Sun 12pm–9pm",
+      "priceRange": "$$$",
+      "description": "Bay Area's first Brazilian Steakhouse with fourteen flame-grilled cuts tableside.",
+      "photoUrl": "images/restaurant-photos/san-mateo/EspetusJPG Small.jpeg"
     },
     {
       "id": "ChIJkTQUbxqfj4ARnwE0LebF5Gg",
