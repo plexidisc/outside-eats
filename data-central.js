@@ -3712,7 +3712,7 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://www.google.com/maps/place/Cruel+Donuts+%26+Ice+Cream/@37.543771,-122.3078161,17z/data=!3m1!4b1!4m6!3m5!1s0x808f9fa50f1c1315:0xd2b190c2de98c57b!8m2!3d37.543771!4d-122.3078161!16s%2Fg%2F11yk1kt56t?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
       "websiteUri": "",
       "location": {},
-      "cuisine": "dessert",
+      "cuisine": "Dessert",
       "keywords": [
         "donuts",
         "ice cream"
