@@ -5311,24 +5311,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJUSuYArmfj4ARrq1hjNw2KwQ",
-      "formattedAddress": "2208 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
-      "location": {
-        "latitude": 37.5605113,
-        "longitude": -122.2830974
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=300394121026186670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://lazydogrestaurants.com/pages/san-mateo-ca",
       "displayName": {
         "text": "Lazy Dog Restaurant & Bar",
         "languageCode": "en"
       },
+      "formattedAddress": "2208 Bridgepointe Pkwy, San Mateo, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=300394121026186670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lazydogrestaurants.com/pages/san-mateo-ca",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/san-mateo/Lazy Dog Small.jpeg",
-      "phone": "(650) 514-6772",
-      "description": "Handcrafted American food with happy hour drinks starting at three dollars.",
-      "hours": "Mon–Fri 11am–12am, Sat–Sun 10am–12am",
-      "menuUrl": "https://orders.lazydogrestaurants.com/menu",
-      "priceRange": "$$",
       "keywords": [
         "american",
         "outdoor seating",
@@ -5338,7 +5329,14 @@ var PREBAKED_DATA_CENTRAL = {
         "craft beer",
         "groups",
         "kids menu"
-      ]
+      ],
+      "menuUrl": "https://orders.lazydogrestaurants.com/menu",
+      "videoUrl": "https://youtube.com/shorts/kAoKE1OHxt8?feature=share",
+      "phone": "(650) 514-6772",
+      "hours": "Mon–Fri 11am–12am, Sat–Sun 10am–12am",
+      "priceRange": "$$",
+      "description": "Handcrafted American food with happy hour drinks starting at three dollars.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lazy Dog Small.jpeg"
     },
     {
       "id": "manual_leos_tacos_truck_san_mateo",
