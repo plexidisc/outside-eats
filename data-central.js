@@ -807,6 +807,7 @@ var PREBAKED_DATA_CENTRAL = {
         "outdoor seating"
       ],
       "menuUrl": "https://copenhagenbakery.com/cafe-menus/",
+      "videoUrl": "https://youtube.com/shorts/p_Hbl0WcbLM?feature=share",
       "phone": "(650) 342-1357",
       "hours": "Mon–Sat 6am–9pm, Sun 7am–9pm",
       "priceRange": "$$",
