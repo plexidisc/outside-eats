@@ -2983,6 +2983,7 @@ var PREBAKED_DATA_CENTRAL = {
         "breakfast burrito"
       ],
       "menuUrl": "https://myavocadotoast.com/menu",
+      "videoUrl": "https://youtube.com/shorts/I9XDoCkO5aQ?feature=share",
       "phone": "(650) 343-3844",
       "hours": "Mon–Fri 7am–2:30pm, Sat–Sun 8am–3:30pm",
       "priceRange": "$$",
