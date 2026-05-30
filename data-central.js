@@ -8464,906 +8464,906 @@ var PREBAKED_DATA_CENTRAL = {
     }
   ],
   "Foster City, CA": [
-  {
-    "id": "ChIJ82VKveefj4AR8tEV6JA-EpE",
-    "formattedAddress": "3 Plaza View Ln ste o, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.564336999999995,
-      "longitude": -122.27020680000001
+    {
+      "id": "ChIJ82VKveefj4AR8tEV6JA-EpE",
+      "formattedAddress": "3 Plaza View Ln ste o, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.564336999999995,
+        "longitude": -122.27020680000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10453486477170299378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://808-zone.com/",
+      "displayName": {
+        "text": "808 Zone - Asian Pacific Fusion",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "phone": "(650) 880-8859",
+      "description": "Unexpected yet harmonious flavors in every bite of tasting menu.",
+      "photoUrl": "images/restaurant-photos/foster-city/808 Zone - Asian Pacific Fusion Small.jpeg",
+      "hours": "Thu–Sun 6:00pm–9:30pm",
+      "priceRange": "$$$$",
+      "keywords": [
+        "japanese",
+        "asian fusion",
+        "sushi",
+        "prix fixe",
+        "omakase",
+        "fine dining",
+        "date night",
+        "upscale",
+        "seafood"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=10453486477170299378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://808-zone.com/",
-    "displayName": {
-      "text": "808 Zone - Asian Pacific Fusion",
-      "languageCode": "en"
+    {
+      "id": "ChIJpwbKWiSZj4ARjXjoEgUIbq0",
+      "formattedAddress": "1457 Beach Park Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.563088199999996,
+        "longitude": -122.249991
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12496934833884788877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://akizusushibargrillca.com/",
+      "displayName": {
+        "text": "Akizu Sushi Bar & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/Akizu Sushi Bar Small.jpeg",
+      "phone": "(650) 235-9356",
+      "description": "Over 15 years sharing Japanese cuisine inspired by years in Japan.",
+      "hours": "Mon–Closed, Tue–Wed 11am–2:30pm, 5pm–9pm, Thu 11am–2:30pm, 5pm–9pm, Fri 11am–2:30pm, 5pm–9:30pm, Sat–Sun 12pm–3pm, 4:30pm–9pm",
+      "menuUrl": "https://www.beyondmenu.com/54897/foster-city/akizu-sushi-bar-and-grill-foster-city-94404.aspx",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "sashimi",
+        "rolls",
+        "teriyaki",
+        "sake",
+        "dinner",
+        "casual"
+      ]
     },
-    "cuisine": "Fusion",
-    "phone": "(650) 880-8859",
-    "description": "Unexpected yet harmonious flavors in every bite of tasting menu.",
-    "photoUrl": "images/restaurant-photos/foster-city/808 Zone - Asian Pacific Fusion Small.jpeg",
-    "hours": "Thu–Sun 6:00pm–9:30pm",
-    "priceRange": "$$$$",
-    "keywords": [
-      "japanese",
-      "asian fusion",
-      "sushi",
-      "prix fixe",
-      "omakase",
-      "fine dining",
-      "date night",
-      "upscale",
-      "seafood"
-    ]
-  },
-  {
-    "id": "ChIJpwbKWiSZj4ARjXjoEgUIbq0",
-    "formattedAddress": "1457 Beach Park Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.563088199999996,
-      "longitude": -122.249991
+    {
+      "id": "ChIJ97vvSB6Zj4AR6wwMGV4tjDI",
+      "formattedAddress": "1465 Beach Park Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.563010299999995,
+        "longitude": -122.2502583
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3642336080806284523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bistrobellini.com/",
+      "displayName": {
+        "text": "Bellini Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/foster-city/Bellini Bistro Small.jpeg",
+      "phone": "(650) 315-2999",
+      "description": "Traditional Italian dishes at reasonable prices with visible freshness.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 4:30pm–9pm",
+      "menuUrl": "http://www.bistrobellini.com/menus.html",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "pizza",
+        "wine",
+        "dinner",
+        "date night",
+        "romantic",
+        "casual"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=12496934833884788877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://akizusushibargrillca.com/",
-    "displayName": {
-      "text": "Akizu Sushi Bar & Grill",
-      "languageCode": "en"
+    {
+      "id": "ChIJP1LRAkO3j4ARB2vspFlYGDA",
+      "formattedAddress": "939A Edgewater Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5447403,
+        "longitude": -122.2706173
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3465617055303887623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.ootery.com/",
+      "displayName": {
+        "text": "Bengalur Ootery",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/foster-city/Bengalur Ootery Small.jpeg",
+      "phone": "(650) 753-3248",
+      "description": "Home-style Kannadiga vegetarian food made fresh everyday from Bengaluru.",
+      "hours": "Mon Closed, Tue–Sat 11:30am–2:30pm, 4:30pm–8:30pm, Sun 11:30am–2:30pm",
+      "menuUrl": "http://www.ootery.com/menu?menu=bengalur-ootery-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "indian",
+        "south indian",
+        "dosa",
+        "idli",
+        "sambar",
+        "vegetarian",
+        "curry",
+        "lunch",
+        "dinner"
+      ]
     },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/foster-city/Akizu Sushi Bar Small.jpeg",
-    "phone": "(650) 235-9356",
-    "description": "Over 15 years sharing Japanese cuisine inspired by years in Japan.",
-    "hours": "Mon–Closed, Tue–Wed 11am–2:30pm, 5pm–9pm, Thu 11am–2:30pm, 5pm–9pm, Fri 11am–2:30pm, 5pm–9:30pm, Sat–Sun 12pm–3pm, 4:30pm–9pm",
-    "menuUrl": "https://www.beyondmenu.com/54897/foster-city/akizu-sushi-bar-and-grill-foster-city-94404.aspx",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "sashimi",
-      "rolls",
-      "teriyaki",
-      "sake",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJ97vvSB6Zj4AR6wwMGV4tjDI",
-    "formattedAddress": "1465 Beach Park Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.563010299999995,
-      "longitude": -122.2502583
+    {
+      "id": "ChIJC17Hqsiej4ARPcpVelhoE4k",
+      "formattedAddress": "1221 Chess Dr 7 Floor, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5622778,
+        "longitude": -122.2770389
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9877353136972483133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.eventscp.com/dining/cafe-florian",
+      "displayName": {
+        "text": "Cafe Florian Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/foster-city/Cafe Florian Small.jpeg",
+      "phone": "(650) 570-5700",
+      "description": "Dine surrounded by cascading waterfalls in a beautiful garden atrium.",
+      "hours": "Mon–Fri 6am–10am, 11am–1:30pm; Sat 6am–11am; Sun 6am–9:30am, 10am–1pm",
+      "menuUrl": "https://www.eventscp.com/dining/cafe-florian",
+      "priceRange": "$$",
+      "keywords": [
+        "cafe",
+        "coffee",
+        "breakfast",
+        "sandwiches",
+        "pastries",
+        "brunch",
+        "casual",
+        "lunch"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=3642336080806284523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.bistrobellini.com/",
-    "displayName": {
-      "text": "Bellini Bistro",
-      "languageCode": "en"
+    {
+      "id": "ChIJH4S-5xCfj4ARd_n1e9pBCbQ",
+      "formattedAddress": "929 Edgewater Blvd # B, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.54526,
+        "longitude": -122.27054849999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12972972608255818103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://cafe-kazka.snackpass.site/",
+      "displayName": {
+        "text": "CAFÉ KAZKA",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Flafel Tazah Small.jpeg",
+      "phone": "(650) 629-4597",
+      "description": "Hong Kong café classics with handcrafted fruit seltzers and fusion dishes.",
+      "hours": "Mon–Closed, Tue–Thu 9am–5pm, Fri–Sat 9am–8pm, Sun 9am–5pm",
+      "menuUrl": "https://order.snackpass.co/cafekazka",
+      "priceRange": "$$",
+      "keywords": [
+        "hong kong",
+        "cafe",
+        "milk tea",
+        "french toast",
+        "fusion",
+        "smoothies",
+        "coffee",
+        "breakfast",
+        "lunch",
+        "boba"
+      ]
     },
-    "cuisine": "Italian",
-    "photoUrl": "images/restaurant-photos/foster-city/Bellini Bistro Small.jpeg",
-    "phone": "(650) 315-2999",
-    "description": "Traditional Italian dishes at reasonable prices with visible freshness.",
-    "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 4:30pm–9pm",
-    "menuUrl": "http://www.bistrobellini.com/menus.html",
-    "priceRange": "$$",
-    "keywords": [
-      "italian",
-      "pasta",
-      "pizza",
-      "wine",
-      "dinner",
-      "date night",
-      "romantic",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJP1LRAkO3j4ARB2vspFlYGDA",
-    "formattedAddress": "939A Edgewater Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5447403,
-      "longitude": -122.2706173
+    {
+      "id": "ChIJ0-SErs-ej4AR1iRTjUE-1xk",
+      "formattedAddress": "1000 Metro Center Blvd A, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5606952,
+        "longitude": -122.2742476
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1862025422205822166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://chezxue.com/",
+      "displayName": {
+        "text": "Chez Xue",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Chez Xue Small.jpeg",
+      "phone": "(650) 267-8888",
+      "description": "Famous for inch-thick green onion pancakes made fresh to order.",
+      "hours": "Mon–Thu 11:30am–2:15pm, 5pm–9pm; Fri–Sun 11am–2:30pm, 5pm–9pm",
+      "menuUrl": "https://www.chezxue.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "cantonese",
+        "seafood",
+        "family style",
+        "noodles",
+        "stir fry",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=3465617055303887623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.ootery.com/",
-    "displayName": {
-      "text": "Bengalur Ootery",
-      "languageCode": "en"
+    {
+      "id": "ChIJAU8xJHufj4AR7TL-QOc5xf0",
+      "formattedAddress": "1099 Foster Square Ln STE 125, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5593266,
+        "longitude": -122.2679252
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18286085527398396653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.chuanchimthaicuisine.com/",
+      "displayName": {
+        "text": "Chuan Chim Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/foster-city/Chuan Chim Small.jpeg",
+      "phone": "(650) 581-1297",
+      "description": "Experience the liveliness and excitement of their exhibition kitchen.",
+      "hours": "Mon–Fri 11am–3pm, 5pm–9pm, Sat–Sun 11:30am–3pm, 5pm–9pm",
+      "menuUrl": "https://chuanchimca.smiledining.com/",
+      "priceRange": "$$",
+      "keywords": [
+        "thai",
+        "pad thai",
+        "curry",
+        "noodles",
+        "vegetarian",
+        "lunch",
+        "dinner",
+        "casual"
+      ]
     },
-    "cuisine": "Indian",
-    "photoUrl": "images/restaurant-photos/foster-city/Bengalur Ootery Small.jpeg",
-    "phone": "(650) 753-3248",
-    "description": "Home-style Kannadiga vegetarian food made fresh everyday from Bengaluru.",
-    "hours": "Mon Closed, Tue–Sat 11:30am–2:30pm, 4:30pm–8:30pm, Sun 11:30am–2:30pm",
-    "menuUrl": "http://www.ootery.com/menu?menu=bengalur-ootery-menu",
-    "priceRange": "$$",
-    "keywords": [
-      "indian",
-      "south indian",
-      "dosa",
-      "idli",
-      "sambar",
-      "vegetarian",
-      "curry",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJC17Hqsiej4ARPcpVelhoE4k",
-    "formattedAddress": "1221 Chess Dr 7 Floor, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5622778,
-      "longitude": -122.2770389
+    {
+      "id": "ChIJ5XX1Jaifj4AR894A9dc0Oyw",
+      "formattedAddress": "1100 Foster Square Ln STE 150, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5590617,
+        "longitude": -122.26751
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3187199263427845875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://currypizzahouse.com/locations/foster-city/",
+      "displayName": {
+        "text": "Curry Pizza House Foster City",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/foster-city/Curry Pizza House Small.jpeg",
+      "phone": "(650) 514-6968",
+      "description": "Craft pizzas with delicious curry flavors and wholesome ingredients.",
+      "hours": "Mon–Thu 10:00am–10:00pm, Fri–Sat 10:00am–11:00pm, Sun 10:00am–10:00pm",
+      "menuUrl": "https://currypizzahouse.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "fusion",
+        "indian",
+        "pizza",
+        "curry",
+        "naan",
+        "tandoori",
+        "casual",
+        "delivery"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=9877353136972483133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.eventscp.com/dining/cafe-florian",
-    "displayName": {
-      "text": "Cafe Florian Restaurant",
-      "languageCode": "en"
+    {
+      "id": "ChIJ04eH1DWZj4ARcuWDQkRr66Y",
+      "formattedAddress": "1459 Beach Park Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5630889,
+        "longitude": -122.25007719999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12027825170740929906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dumplingkitchenca.com/",
+      "displayName": {
+        "text": "Dumpling Kitchen - Factory",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Pan Kee Food Dumpling Kitchen Small.jpeg",
+      "phone": "(650) 315-2325",
+      "description": "Handmade dumplings crafted with generations-old recipes and finest local ingredients.",
+      "hours": "Mon 10:30am–6:30pm, Tue Closed, Wed–Sat 10:30am–6:30pm, Sun 10:30am–6:30pm",
+      "menuUrl": "https://www.dumplingkitchenfactory.com/0y8pd5tl/dumpling-kitchen--factory-foster-city-94404/menu",
+      "priceRange": "$",
+      "keywords": [
+        "chinese",
+        "dumplings",
+        "potstickers",
+        "soup dumplings",
+        "noodles",
+        "casual",
+        "quick",
+        "lunch"
+      ]
     },
-    "cuisine": "Cafe/Bakery",
-    "photoUrl": "images/restaurant-photos/foster-city/Cafe Florian Small.jpeg",
-    "phone": "(650) 570-5700",
-    "description": "Dine surrounded by cascading waterfalls in a beautiful garden atrium.",
-    "hours": "Mon–Fri 6am–10am, 11am–1:30pm; Sat 6am–11am; Sun 6am–9:30am, 10am–1pm",
-    "menuUrl": "https://www.eventscp.com/dining/cafe-florian",
-    "priceRange": "$$",
-    "keywords": [
-      "cafe",
-      "coffee",
-      "breakfast",
-      "sandwiches",
-      "pastries",
-      "brunch",
-      "casual",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJH4S-5xCfj4ARd_n1e9pBCbQ",
-    "formattedAddress": "929 Edgewater Blvd # B, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.54526,
-      "longitude": -122.27054849999999
+    {
+      "id": "ChIJ21UsjdKej4AR0yA6_V5UPqo",
+      "formattedAddress": "780 Alma Ln, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5591663,
+        "longitude": -122.2672829
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12267335201955913939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.falafeltazah.com/",
+      "displayName": {
+        "text": "Falafel Tazah Foster City",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "phone": "(650) 627-4169",
+      "description": "Traditional family recipes using freshest Halal meat and locally sourced produce.",
+      "hours": "Mon–Fri 11am–8pm, Sat 11am–7pm, Sun Closed",
+      "menuUrl": "https://falafeltazah.com/menu/",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/foster-city/Falafel Tazah Foster City Small.jpeg",
+      "keywords": [
+        "middle eastern",
+        "falafel",
+        "hummus",
+        "pita",
+        "vegetarian",
+        "vegan",
+        "healthy",
+        "quick"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=12972972608255818103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://cafe-kazka.snackpass.site/",
-    "displayName": {
-      "text": "CAFÉ KAZKA",
-      "languageCode": "en"
+    {
+      "id": "ChIJD3hQ9CSZj4ARIGOdnCaEpAA",
+      "formattedAddress": "1489 Beach Park Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5634417,
+        "longitude": -122.25058820000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=46307197551731488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://joystw.com/",
+      "displayName": {
+        "text": "Joy Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Joy Small.jpeg",
+      "phone": "(650) 345-1762",
+      "description": "Experience the best meals in our fairyland with Taiwanese cuisine.",
+      "hours": "Mon 11am–2:30pm, 5pm–9pm, Tue Closed, Wed–Sat 11am–2:30pm, 5pm–9pm, Sun 11am–2:30pm, 5pm–9pm",
+      "menuUrl": "http://places.singleplatform.com/joy-restaurant/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "cantonese",
+        "dim sum",
+        "seafood",
+        "family style",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
     },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/foster-city/Flafel Tazah Small.jpeg",
-    "phone": "(650) 629-4597",
-    "description": "Hong Kong café classics with handcrafted fruit seltzers and fusion dishes.",
-    "hours": "Mon–Closed, Tue–Thu 9am–5pm, Fri–Sat 9am–8pm, Sun 9am–5pm",
-    "menuUrl": "https://order.snackpass.co/cafekazka",
-    "priceRange": "$$",
-    "keywords": [
-      "hong kong",
-      "cafe",
-      "milk tea",
-      "french toast",
-      "fusion",
-      "smoothies",
-      "coffee",
-      "breakfast",
-      "lunch",
-      "boba"
-    ]
-  },
-  {
-    "id": "ChIJ0-SErs-ej4AR1iRTjUE-1xk",
-    "formattedAddress": "1000 Metro Center Blvd A, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5606952,
-      "longitude": -122.2742476
+    {
+      "id": "ChIJKzv8EySZj4ARt59z6jkbXm0",
+      "formattedAddress": "1495 Beach Park Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5635504,
+        "longitude": -122.2506562
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7880766333505478583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.online/business/kenta-ramen-324610",
+      "displayName": {
+        "text": "Kenta Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/Kenta Ramen Small.jpeg",
+      "phone": "(650) 212-2883",
+      "description": "Signature ramen noodles and artfully crafted sushi rolls showcase Japanese artistry.",
+      "hours": "Mon Closed, Tue–Sun 11:30am–9pm",
+      "menuUrl": "https://kentaramen.net/menu/11467754",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "ramen",
+        "noodles",
+        "broth",
+        "tonkotsu",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=1862025422205822166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://chezxue.com/",
-    "displayName": {
-      "text": "Chez Xue",
-      "languageCode": "en"
+    {
+      "id": "ChIJnzT-_hafj4AROcD0Hlm62f4",
+      "formattedAddress": "977 E Hillsdale Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5573185,
+        "longitude": -122.2750141
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18363913847514120249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mjsushi.net/",
+      "displayName": {
+        "text": "MJ Sushi Foster City",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/MJ Sushi Small.jpeg",
+      "phone": "(650) 781-3657",
+      "description": "Fresh sashimi with generous fish portions and flavorful specialty rolls.",
+      "hours": "Sun–Thu 11:30am–8:30pm, Fri–Sat 11:30am–9:30pm",
+      "menuUrl": "http://www.mjsushi.net/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "sashimi",
+        "rolls",
+        "nigiri",
+        "sake",
+        "dinner",
+        "casual"
+      ]
     },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/foster-city/Chez Xue Small.jpeg",
-    "phone": "(650) 267-8888",
-    "description": "Famous for inch-thick green onion pancakes made fresh to order.",
-    "hours": "Mon–Thu 11:30am–2:15pm, 5pm–9pm; Fri–Sun 11am–2:30pm, 5pm–9pm",
-    "menuUrl": "https://www.chezxue.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "cantonese",
-      "seafood",
-      "family style",
-      "noodles",
-      "stir fry",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJAU8xJHufj4AR7TL-QOc5xf0",
-    "formattedAddress": "1099 Foster Square Ln STE 125, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5593266,
-      "longitude": -122.2679252
+    {
+      "id": "ChIJYzJUKuafj4ARaXLgH3mrGik",
+      "formattedAddress": "1099 Foster Square Ln #135, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5591948,
+        "longitude": -122.26805279999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2961868241663717993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mumuhotpot.com/",
+      "displayName": {
+        "text": "Mumu Hot Pot",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Mumu Hot Pot Small.jpeg",
+      "phone": "(650) 242-1945",
+      "description": "Fresh customizable Asian hotpot with individual pots and vegan options.",
+      "hours": "Mon–Thu 11:30am–2:30pm, 4:30pm–9pm, Fri–Sat 11:30am–9:30pm, Sun 11:30am–9pm",
+      "menuUrl": "https://mumuhotpot.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "hot pot",
+        "shabu shabu",
+        "seafood",
+        "broth",
+        "casual",
+        "dinner",
+        "family style"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=18286085527398396653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.chuanchimthaicuisine.com/",
-    "displayName": {
-      "text": "Chuan Chim Thai Cuisine",
-      "languageCode": "en"
+    {
+      "id": "ChIJzUNfmTmfj4ARR0ND87WKvRQ",
+      "formattedAddress": "969J Edgewater Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5443511,
+        "longitude": -122.2706417
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1494503165431857991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Nina’s Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/foster-city/Ninas Cafe Small.jpeg",
+      "phone": "(650) 830-1109",
+      "description": "Outdoor seating overlooks the serene lagoon for peaceful brunch dining",
+      "hours": "Mon–Tue Closed, Wed–Fri 9am–2pm, Sat–Sun 9am–6pm",
+      "menuUrl": "https://www.yelp.com/biz/nina-s-cafe-foster-city",
+      "priceRange": "$$",
+      "keywords": [
+        "cafe",
+        "empanadas",
+        "latin american",
+        "sandwiches",
+        "coffee",
+        "breakfast",
+        "lunch",
+        "casual"
+      ]
     },
-    "cuisine": "Thai",
-    "photoUrl": "images/restaurant-photos/foster-city/Chuan Chim Small.jpeg",
-    "phone": "(650) 581-1297",
-    "description": "Experience the liveliness and excitement of their exhibition kitchen.",
-    "hours": "Mon–Fri 11am–3pm, 5pm–9pm, Sat–Sun 11:30am–3pm, 5pm–9pm",
-    "menuUrl": "https://chuanchimca.smiledining.com/",
-    "priceRange": "$$",
-    "keywords": [
-      "thai",
-      "pad thai",
-      "curry",
-      "noodles",
-      "vegetarian",
-      "lunch",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJ5XX1Jaifj4AR894A9dc0Oyw",
-    "formattedAddress": "1100 Foster Square Ln STE 150, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5590617,
-      "longitude": -122.26751
+    {
+      "id": "ChIJrR5MCMyej4AR7p9_0Zsv4RQ",
+      "formattedAddress": "3 Plaza View Ln, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5644603,
+        "longitude": -122.2702444
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1504536096799694830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.penelopescoffee.com/",
+      "displayName": {
+        "text": "Penelope's Coffee and Tea",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/foster-city/Penelopes Coffee Small.jpeg",
+      "phone": "(650) 393-4035",
+      "description": "A warm community space inspired by gathering for coffee and stories.",
+      "hours": "Mon–Sun 7am–4:30pm",
+      "menuUrl": "https://penelopescoffee.com/assets/menu.pdf",
+      "priceRange": "$$",
+      "keywords": [
+        "cafe",
+        "coffee",
+        "tea",
+        "pastries",
+        "breakfast",
+        "casual",
+        "quick"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=3187199263427845875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://currypizzahouse.com/locations/foster-city/",
-    "displayName": {
-      "text": "Curry Pizza House Foster City",
-      "languageCode": "en"
+    {
+      "id": "ChIJ666FxteYj4AR1GOowL8wYVY",
+      "formattedAddress": "1088 Foster City Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.553428,
+        "longitude": -122.25673509999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6224309760131883988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://phonewsaigon.com/",
+      "displayName": {
+        "text": "Pho New Saigon",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/foster-city/Pho Saigon Small.jpeg",
+      "phone": "(650) 212-1788",
+      "description": "Fresh ingredients and rich home-style flavors transport you to Vietnam.",
+      "hours": "Mon–Sun 10:00am–8:30pm",
+      "priceRange": "$",
+      "keywords": [
+        "vietnamese",
+        "pho",
+        "banh mi",
+        "spring rolls",
+        "noodles",
+        "soup",
+        "casual",
+        "lunch"
+      ]
     },
-    "cuisine": "Fusion",
-    "photoUrl": "images/restaurant-photos/foster-city/Curry Pizza House Small.jpeg",
-    "phone": "(650) 514-6968",
-    "description": "Craft pizzas with delicious curry flavors and wholesome ingredients.",
-    "hours": "Mon–Thu 10:00am–10:00pm, Fri–Sat 10:00am–11:00pm, Sun 10:00am–10:00pm",
-    "menuUrl": "https://currypizzahouse.com/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "fusion",
-      "indian",
-      "pizza",
-      "curry",
-      "naan",
-      "tandoori",
-      "casual",
-      "delivery"
-    ]
-  },
-  {
-    "id": "ChIJ04eH1DWZj4ARcuWDQkRr66Y",
-    "formattedAddress": "1459 Beach Park Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5630889,
-      "longitude": -122.25007719999999
+    {
+      "id": "ChIJpXTlUimfj4ARk7iiKUV13gg",
+      "formattedAddress": "901 Edgewater Blvd Suite E, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.545397099999995,
+        "longitude": -122.2716033
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=639077137044912275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Rickshaw Corner",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Rickshaw Corner Small.jpeg",
+      "phone": "(650) 574-2603",
+      "hours": "Mon–Sat 11am–8pm, Sun Closed",
+      "menuUrl": "https://www.yelp.com/menu/rickshaw-corner-restaurant-foster-city",
+      "priceRange": "$",
+      "keywords": [
+        "chinese",
+        "cantonese",
+        "dim sum",
+        "seafood",
+        "noodles",
+        "family style",
+        "casual",
+        "lunch"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=12027825170740929906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.dumplingkitchenca.com/",
-    "displayName": {
-      "text": "Dumpling Kitchen - Factory",
-      "languageCode": "en"
+    {
+      "id": "ChIJj4VWjUefj4ARzRHHhGocRCM",
+      "formattedAddress": "1099 Foster Square Ln STE 125, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.559399299999995,
+        "longitude": -122.26791689999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2541187333563552205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sizzlinglunch.com/",
+      "displayName": {
+        "text": "Sizzling Lunch",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/Sizzling Lunch Small.jpeg",
+      "phone": "(650) 781-3338",
+      "description": "Cook your own food on hot iron plates with fresh ingredients.",
+      "hours": "Mon–Sun 11am–9pm",
+      "menuUrl": "https://www.sizzlinglunch.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "teriyaki",
+        "katsu",
+        "sizzling plate",
+        "bento",
+        "ramen",
+        "sushi",
+        "curry",
+        "lunch",
+        "casual"
+      ]
     },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/foster-city/Pan Kee Food Dumpling Kitchen Small.jpeg",
-    "phone": "(650) 315-2325",
-    "description": "Handmade dumplings crafted with generations-old recipes and finest local ingredients.",
-    "hours": "Mon 10:30am–6:30pm, Tue Closed, Wed–Sat 10:30am–6:30pm, Sun 10:30am–6:30pm",
-    "menuUrl": "https://www.dumplingkitchenfactory.com/0y8pd5tl/dumpling-kitchen--factory-foster-city-94404/menu",
-    "priceRange": "$",
-    "keywords": [
-      "chinese",
-      "dumplings",
-      "potstickers",
-      "soup dumplings",
-      "noodles",
-      "casual",
-      "quick",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJ21UsjdKej4AR0yA6_V5UPqo",
-    "formattedAddress": "780 Alma Ln, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5591663,
-      "longitude": -122.2672829
+    {
+      "id": "ChIJQ4rvKtaYj4ARBTGefrZrSYg",
+      "formattedAddress": "1062 Foster City Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5538129,
+        "longitude": -122.2573218
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9820498894010593541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.soonstofu.com/",
+      "displayName": {
+        "text": "Soon's Tofu & Korean BBQ",
+        "languageCode": "en"
+      },
+      "cuisine": "Korean",
+      "photoUrl": "images/restaurant-photos/foster-city/Soons Tofu & Korean BBQ Small.jpeg",
+      "phone": "(650) 286-0860",
+      "description": "Build-your-own soups, noodles, and stir-fries with customizable options.",
+      "hours": "Mon–Wed 11am–3pm, 4:30pm–10pm, Thu 11am–3pm, 4:30pm–10:30pm, Fri 11am–3pm, 4pm–10pm, Sat–Sun 11am–9:30pm",
+      "menuUrl": "https://www.soonstofu.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "korean",
+        "bbq",
+        "tofu",
+        "korean bbq",
+        "galbi",
+        "bulgogi",
+        "soon dubu",
+        "casual",
+        "dinner"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=12267335201955913939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.falafeltazah.com/",
-    "displayName": {
-      "text": "Falafel Tazah Foster City",
-      "languageCode": "en"
+    {
+      "id": "ChIJ0zUtXSSZj4AR4FxutnC97fw",
+      "formattedAddress": "1473 Beach Park Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.563090900000006,
+        "longitude": -122.25038330000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18225431558832938208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.sweetbasilthaifostercity.com/",
+      "displayName": {
+        "text": "Sweet Basil Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/foster-city/Sweet Basil Small.jpeg",
+      "phone": "(650) 212-5788",
+      "description": "Modern style fused with authentic Thai flavors and bold ingredients.",
+      "hours": "Mon–Fri 11am–3pm, 5pm–9:30pm, Sat–Sun 12pm–3:30pm, 5pm–9:30pm",
+      "menuUrl": "https://www.sweetbasilthaifostercity.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "thai",
+        "pad thai",
+        "curry",
+        "basil",
+        "noodles",
+        "vegetarian",
+        "lunch",
+        "dinner"
+      ]
     },
-    "cuisine": "Middle Eastern",
-    "phone": "(650) 627-4169",
-    "description": "Traditional family recipes using freshest Halal meat and locally sourced produce.",
-    "hours": "Mon–Fri 11am–8pm, Sat 11am–7pm, Sun Closed",
-    "menuUrl": "https://falafeltazah.com/menu/",
-    "priceRange": "$",
-    "photoUrl": "images/restaurant-photos/foster-city/Falafel Tazah Foster City Small.jpeg",
-    "keywords": [
-      "middle eastern",
-      "falafel",
-      "hummus",
-      "pita",
-      "vegetarian",
-      "vegan",
-      "healthy",
-      "quick"
-    ]
-  },
-  {
-    "id": "ChIJD3hQ9CSZj4ARIGOdnCaEpAA",
-    "formattedAddress": "1489 Beach Park Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5634417,
-      "longitude": -122.25058820000001
+    {
+      "id": "ChIJj7WBxdeYj4ARD_wYzxfoz80",
+      "formattedAddress": "1080 Foster City Blvd, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5535473,
+        "longitude": -122.25696579999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14830327286910745615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://taiwufostercity.com/",
+      "displayName": {
+        "text": "Tai Wu Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/foster-city/Tai Wu Restaurant Small.jpeg",
+      "phone": "(650) 638-0168",
+      "hours": "Mon–Sun 11am–9pm",
+      "menuUrl": "https://www.yelp.com/biz/tai-wu-restaurant-foster-city-4",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "cantonese",
+        "seafood",
+        "dim sum",
+        "family style",
+        "noodles",
+        "casual"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=46307197551731488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://joystw.com/",
-    "displayName": {
-      "text": "Joy Restaurant",
-      "languageCode": "en"
+    {
+      "id": "ChIJ_U1_Qzafj4ARhZGhz7-jtvc",
+      "formattedAddress": "1031 E Hillsdale Blvd STE B, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5591351,
+        "longitude": -122.2719321
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17849634217347092869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tandooripizza.com/",
+      "displayName": {
+        "text": "Tandoori Pizza - Foster City",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/foster-city/Tandoori Pizza Small.jpeg",
+      "phone": "(650) 215-4600",
+      "description": "Traditional pizza meets bold Indian spices for fusion flavors.",
+      "hours": "Mon–Sun 10:00am–10:00pm",
+      "menuUrl": "https://tandooripizza.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "fusion",
+        "indian",
+        "pizza",
+        "tandoori",
+        "naan",
+        "curry",
+        "casual",
+        "delivery"
+      ]
     },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/foster-city/Joy Small.jpeg",
-    "phone": "(650) 345-1762",
-    "description": "Experience the best meals in our fairyland with Taiwanese cuisine.",
-    "hours": "Mon 11am–2:30pm, 5pm–9pm, Tue Closed, Wed–Sat 11am–2:30pm, 5pm–9pm, Sun 11am–2:30pm, 5pm–9pm",
-    "menuUrl": "http://places.singleplatform.com/joy-restaurant/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "cantonese",
-      "dim sum",
-      "seafood",
-      "family style",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJKzv8EySZj4ARt59z6jkbXm0",
-    "formattedAddress": "1495 Beach Park Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5635504,
-      "longitude": -122.2506562
+    {
+      "id": "ChIJC17Hqsiej4AR54zuflEh5Ek",
+      "formattedAddress": "1221 Chess Dr, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5622495,
+        "longitude": -122.27686910000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5324417293364399335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.clubhousebistro.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "displayName": {
+        "text": "The Clubhouse Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/foster-city/The Clubhouse Bistro Small.jpeg",
+      "phone": "(650) 570-5700",
+      "description": "Live DJs, dancing, sports events with an expertly crafted menu.",
+      "hours": "Mon–Thu 4pm–1am, Fri 4pm–2am, Sat 12pm–2am, Sun 12pm–1am",
+      "menuUrl": "https://www.clubhousebistro.com/bistro-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "burgers",
+        "sandwiches",
+        "salads",
+        "casual",
+        "lunch",
+        "dinner",
+        "bar"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=7880766333505478583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://order.online/business/kenta-ramen-324610",
-    "displayName": {
-      "text": "Kenta Ramen",
-      "languageCode": "en"
+    {
+      "id": "ChIJnxnmD8yej4ARR4Lfoz-pxt4",
+      "formattedAddress": "3 Plaza View Ln, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.564336999999995,
+        "longitude": -122.27020680000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16052704012606079559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://thesandwichmonkey.com/",
+      "displayName": {
+        "text": "The Sandwich Monkey",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/foster-city/Sandwich Monkey Small.jpeg",
+      "phone": "(650) 274-0264",
+      "description": "Made-to-order sandwiches with Dutch crunch bread and bold monkey-named creations.",
+      "hours": "Mon–Sun 10am–4pm",
+      "menuUrl": "https://thesandwichmonkey.com/menu",
+      "priceRange": "$",
+      "keywords": [
+        "sandwiches",
+        "deli",
+        "lunch",
+        "quick",
+        "casual",
+        "subs",
+        "wraps"
+      ]
     },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/foster-city/Kenta Ramen Small.jpeg",
-    "phone": "(650) 212-2883",
-    "description": "Signature ramen noodles and artfully crafted sushi rolls showcase Japanese artistry.",
-    "hours": "Mon Closed, Tue–Sun 11:30am–9pm",
-    "menuUrl": "https://kentaramen.net/menu/11467754",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "ramen",
-      "noodles",
-      "broth",
-      "tonkotsu",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJnzT-_hafj4AROcD0Hlm62f4",
-    "formattedAddress": "977 E Hillsdale Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5573185,
-      "longitude": -122.2750141
+    {
+      "id": "ChIJyyldBTifj4ARVdcgK6doVF0",
+      "formattedAddress": "1100 Foster Square Ln Suite 145, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5589466,
+        "longitude": -122.26759399999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6725115210763392853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.toastintown.com/",
+      "displayName": {
+        "text": "Toast In Town",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/foster-city/Toast In Town Small.jpeg",
+      "phone": "(650) 389-7618",
+      "description": "American comfort food with fresh coastal flavors and Asian-inspired twists.",
+      "hours": "Mon–Fri 9am–2:30pm, Sat–Sun 8am–2:30pm",
+      "menuUrl": "https://toastintownca.smiledining.com",
+      "priceRange": "$$",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "toast",
+        "eggs",
+        "coffee",
+        "casual",
+        "family friendly",
+        "weekend"
+      ]
     },
-    "googleMapsUri": "https://maps.google.com/?cid=18363913847514120249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.mjsushi.net/",
-    "displayName": {
-      "text": "MJ Sushi Foster City",
-      "languageCode": "en"
+    {
+      "id": "ChIJewvzhiefj4ARw2VyGqyH5yQ",
+      "formattedAddress": "3 Plaza View Ln, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5644916,
+        "longitude": -122.2702168
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2659243278233396675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://tsukiraramen.com/",
+      "displayName": {
+        "text": "Tsukira Ramen",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/foster-city/808 | Ramen Tsukira Small.jpeg",
+      "phone": "(415) 689-0638",
+      "description": "Handcrafted noodles paired with rich broths simmered for hours.",
+      "hours": "Mon–Sun 11:30am–2:30pm, 5pm–8:30pm",
+      "menuUrl": "https://www.ubereats.com/store/tsukira-ramen/q7EMTABiSXO0xHFVkx9XiQ",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "ramen",
+        "noodles",
+        "broth",
+        "tonkotsu",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
     },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/foster-city/MJ Sushi Small.jpeg",
-    "phone": "(650) 781-3657",
-    "description": "Fresh sashimi with generous fish portions and flavorful specialty rolls.",
-    "hours": "Sun–Thu 11:30am–8:30pm, Fri–Sat 11:30am–9:30pm",
-    "menuUrl": "http://www.mjsushi.net/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "sashimi",
-      "rolls",
-      "nigiri",
-      "sake",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJYzJUKuafj4ARaXLgH3mrGik",
-    "formattedAddress": "1099 Foster Square Ln #135, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5591948,
-      "longitude": -122.26805279999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=2961868241663717993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://mumuhotpot.com/",
-    "displayName": {
-      "text": "Mumu Hot Pot",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/foster-city/Mumu Hot Pot Small.jpeg",
-    "phone": "(650) 242-1945",
-    "description": "Fresh customizable Asian hotpot with individual pots and vegan options.",
-    "hours": "Mon–Thu 11:30am–2:30pm, 4:30pm–9pm, Fri–Sat 11:30am–9:30pm, Sun 11:30am–9pm",
-    "menuUrl": "https://mumuhotpot.com/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "hot pot",
-      "shabu shabu",
-      "seafood",
-      "broth",
-      "casual",
-      "dinner",
-      "family style"
-    ]
-  },
-  {
-    "id": "ChIJzUNfmTmfj4ARR0ND87WKvRQ",
-    "formattedAddress": "969J Edgewater Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5443511,
-      "longitude": -122.2706417
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=1494503165431857991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "",
-    "displayName": {
-      "text": "Nina’s Cafe",
-      "languageCode": "en"
-    },
-    "cuisine": "Cafe/Bakery",
-    "photoUrl": "images/restaurant-photos/foster-city/Ninas Cafe Small.jpeg",
-    "phone": "(650) 830-1109",
-    "description": "Outdoor seating overlooks the serene lagoon for peaceful brunch dining",
-    "hours": "Mon–Tue Closed, Wed–Fri 9am–2pm, Sat–Sun 9am–6pm",
-    "menuUrl": "https://www.yelp.com/biz/nina-s-cafe-foster-city",
-    "priceRange": "$$",
-    "keywords": [
-      "cafe",
-      "empanadas",
-      "latin american",
-      "sandwiches",
-      "coffee",
-      "breakfast",
-      "lunch",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJrR5MCMyej4AR7p9_0Zsv4RQ",
-    "formattedAddress": "3 Plaza View Ln, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5644603,
-      "longitude": -122.2702444
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=1504536096799694830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.penelopescoffee.com/",
-    "displayName": {
-      "text": "Penelope's Coffee and Tea",
-      "languageCode": "en"
-    },
-    "cuisine": "Cafe/Bakery",
-    "photoUrl": "images/restaurant-photos/foster-city/Penelopes Coffee Small.jpeg",
-    "phone": "(650) 393-4035",
-    "description": "A warm community space inspired by gathering for coffee and stories.",
-    "hours": "Mon–Sun 7am–4:30pm",
-    "menuUrl": "https://penelopescoffee.com/assets/menu.pdf",
-    "priceRange": "$$",
-    "keywords": [
-      "cafe",
-      "coffee",
-      "tea",
-      "pastries",
-      "breakfast",
-      "casual",
-      "quick"
-    ]
-  },
-  {
-    "id": "ChIJ666FxteYj4AR1GOowL8wYVY",
-    "formattedAddress": "1088 Foster City Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.553428,
-      "longitude": -122.25673509999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=6224309760131883988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://phonewsaigon.com/",
-    "displayName": {
-      "text": "Pho New Saigon",
-      "languageCode": "en"
-    },
-    "cuisine": "Vietnamese",
-    "photoUrl": "images/restaurant-photos/foster-city/Pho Saigon Small.jpeg",
-    "phone": "(650) 212-1788",
-    "description": "Fresh ingredients and rich home-style flavors transport you to Vietnam.",
-    "hours": "Mon–Sun 10:00am–8:30pm",
-    "priceRange": "$",
-    "keywords": [
-      "vietnamese",
-      "pho",
-      "banh mi",
-      "spring rolls",
-      "noodles",
-      "soup",
-      "casual",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJpXTlUimfj4ARk7iiKUV13gg",
-    "formattedAddress": "901 Edgewater Blvd Suite E, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.545397099999995,
-      "longitude": -122.2716033
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=639077137044912275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "",
-    "displayName": {
-      "text": "Rickshaw Corner",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/foster-city/Rickshaw Corner Small.jpeg",
-    "phone": "(650) 574-2603",
-    "hours": "Mon–Sat 11am–8pm, Sun Closed",
-    "menuUrl": "https://www.yelp.com/menu/rickshaw-corner-restaurant-foster-city",
-    "priceRange": "$",
-    "keywords": [
-      "chinese",
-      "cantonese",
-      "dim sum",
-      "seafood",
-      "noodles",
-      "family style",
-      "casual",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJj4VWjUefj4ARzRHHhGocRCM",
-    "formattedAddress": "1099 Foster Square Ln STE 125, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.559399299999995,
-      "longitude": -122.26791689999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=2541187333563552205&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.sizzlinglunch.com/",
-    "displayName": {
-      "text": "Sizzling Lunch",
-      "languageCode": "en"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/foster-city/Sizzling Lunch Small.jpeg",
-    "phone": "(650) 781-3338",
-    "description": "Cook your own food on hot iron plates with fresh ingredients.",
-    "hours": "Mon–Sun 11am–9pm",
-    "menuUrl": "https://www.sizzlinglunch.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "teriyaki",
-      "katsu",
-      "sizzling plate",
-      "bento",
-      "ramen",
-      "sushi",
-      "curry",
-      "lunch",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJQ4rvKtaYj4ARBTGefrZrSYg",
-    "formattedAddress": "1062 Foster City Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5538129,
-      "longitude": -122.2573218
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=9820498894010593541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.soonstofu.com/",
-    "displayName": {
-      "text": "Soon's Tofu & Korean BBQ",
-      "languageCode": "en"
-    },
-    "cuisine": "Korean",
-    "photoUrl": "images/restaurant-photos/foster-city/Soons Tofu & Korean BBQ Small.jpeg",
-    "phone": "(650) 286-0860",
-    "description": "Build-your-own soups, noodles, and stir-fries with customizable options.",
-    "hours": "Mon–Wed 11am–3pm, 4:30pm–10pm, Thu 11am–3pm, 4:30pm–10:30pm, Fri 11am–3pm, 4pm–10pm, Sat–Sun 11am–9:30pm",
-    "menuUrl": "https://www.soonstofu.com/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "korean",
-      "bbq",
-      "tofu",
-      "korean bbq",
-      "galbi",
-      "bulgogi",
-      "soon dubu",
-      "casual",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJ0zUtXSSZj4AR4FxutnC97fw",
-    "formattedAddress": "1473 Beach Park Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.563090900000006,
-      "longitude": -122.25038330000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=18225431558832938208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.sweetbasilthaifostercity.com/",
-    "displayName": {
-      "text": "Sweet Basil Thai Cuisine",
-      "languageCode": "en"
-    },
-    "cuisine": "Thai",
-    "photoUrl": "images/restaurant-photos/foster-city/Sweet Basil Small.jpeg",
-    "phone": "(650) 212-5788",
-    "description": "Modern style fused with authentic Thai flavors and bold ingredients.",
-    "hours": "Mon–Fri 11am–3pm, 5pm–9:30pm, Sat–Sun 12pm–3:30pm, 5pm–9:30pm",
-    "menuUrl": "https://www.sweetbasilthaifostercity.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "thai",
-      "pad thai",
-      "curry",
-      "basil",
-      "noodles",
-      "vegetarian",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJj7WBxdeYj4ARD_wYzxfoz80",
-    "formattedAddress": "1080 Foster City Blvd, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5535473,
-      "longitude": -122.25696579999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=14830327286910745615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://taiwufostercity.com/",
-    "displayName": {
-      "text": "Tai Wu Restaurant",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/foster-city/Tai Wu Restaurant Small.jpeg",
-    "phone": "(650) 638-0168",
-    "hours": "Mon–Sun 11am–9pm",
-    "menuUrl": "https://www.yelp.com/biz/tai-wu-restaurant-foster-city-4",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "cantonese",
-      "seafood",
-      "dim sum",
-      "family style",
-      "noodles",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJ_U1_Qzafj4ARhZGhz7-jtvc",
-    "formattedAddress": "1031 E Hillsdale Blvd STE B, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5591351,
-      "longitude": -122.2719321
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=17849634217347092869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://tandooripizza.com/",
-    "displayName": {
-      "text": "Tandoori Pizza - Foster City",
-      "languageCode": "en"
-    },
-    "cuisine": "Fusion",
-    "photoUrl": "images/restaurant-photos/foster-city/Tandoori Pizza Small.jpeg",
-    "phone": "(650) 215-4600",
-    "description": "Traditional pizza meets bold Indian spices for fusion flavors.",
-    "hours": "Mon–Sun 10:00am–10:00pm",
-    "menuUrl": "https://tandooripizza.com/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "fusion",
-      "indian",
-      "pizza",
-      "tandoori",
-      "naan",
-      "curry",
-      "casual",
-      "delivery"
-    ]
-  },
-  {
-    "id": "ChIJC17Hqsiej4AR54zuflEh5Ek",
-    "formattedAddress": "1221 Chess Dr, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5622495,
-      "longitude": -122.27686910000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=5324417293364399335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.clubhousebistro.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
-    "displayName": {
-      "text": "The Clubhouse Bistro",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/foster-city/The Clubhouse Bistro Small.jpeg",
-    "phone": "(650) 570-5700",
-    "description": "Live DJs, dancing, sports events with an expertly crafted menu.",
-    "hours": "Mon–Thu 4pm–1am, Fri 4pm–2am, Sat 12pm–2am, Sun 12pm–1am",
-    "menuUrl": "https://www.clubhousebistro.com/bistro-menu",
-    "priceRange": "$$",
-    "keywords": [
-      "american",
-      "burgers",
-      "sandwiches",
-      "salads",
-      "casual",
-      "lunch",
-      "dinner",
-      "bar"
-    ]
-  },
-  {
-    "id": "ChIJnxnmD8yej4ARR4Lfoz-pxt4",
-    "formattedAddress": "3 Plaza View Ln, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.564336999999995,
-      "longitude": -122.27020680000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=16052704012606079559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://thesandwichmonkey.com/",
-    "displayName": {
-      "text": "The Sandwich Monkey",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/foster-city/Sandwich Monkey Small.jpeg",
-    "phone": "(650) 274-0264",
-    "description": "Made-to-order sandwiches with Dutch crunch bread and bold monkey-named creations.",
-    "hours": "Mon–Sun 10am–4pm",
-    "menuUrl": "https://thesandwichmonkey.com/menu",
-    "priceRange": "$",
-    "keywords": [
-      "sandwiches",
-      "deli",
-      "lunch",
-      "quick",
-      "casual",
-      "subs",
-      "wraps"
-    ]
-  },
-  {
-    "id": "ChIJyyldBTifj4ARVdcgK6doVF0",
-    "formattedAddress": "1100 Foster Square Ln Suite 145, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5589466,
-      "longitude": -122.26759399999997
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=6725115210763392853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.toastintown.com/",
-    "displayName": {
-      "text": "Toast In Town",
-      "languageCode": "en"
-    },
-    "cuisine": "Breakfast",
-    "photoUrl": "images/restaurant-photos/foster-city/Toast In Town Small.jpeg",
-    "phone": "(650) 389-7618",
-    "description": "American comfort food with fresh coastal flavors and Asian-inspired twists.",
-    "hours": "Mon–Fri 9am–2:30pm, Sat–Sun 8am–2:30pm",
-    "menuUrl": "https://toastintownca.smiledining.com",
-    "priceRange": "$$",
-    "keywords": [
-      "breakfast",
-      "brunch",
-      "toast",
-      "eggs",
-      "coffee",
-      "casual",
-      "family friendly",
-      "weekend"
-    ]
-  },
-  {
-    "id": "ChIJewvzhiefj4ARw2VyGqyH5yQ",
-    "formattedAddress": "3 Plaza View Ln, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5644916,
-      "longitude": -122.2702168
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=2659243278233396675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://tsukiraramen.com/",
-    "displayName": {
-      "text": "Tsukira Ramen",
-      "languageCode": "en"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/foster-city/808 | Ramen Tsukira Small.jpeg",
-    "phone": "(415) 689-0638",
-    "description": "Handcrafted noodles paired with rich broths simmered for hours.",
-    "hours": "Mon–Sun 11:30am–2:30pm, 5pm–8:30pm",
-    "menuUrl": "https://www.ubereats.com/store/tsukira-ramen/q7EMTABiSXO0xHFVkx9XiQ",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "ramen",
-      "noodles",
-      "broth",
-      "tonkotsu",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJ6x0WHCyfj4AREfNcpraaJ4s",
-    "formattedAddress": "969 Edgewater Blvd D, Foster City, CA 94404, USA",
-    "location": {
-      "latitude": 37.5440501,
-      "longitude": -122.2706173
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=10027153204629533457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://waterfrontpizza.com/?utm_source=google",
-    "displayName": {
-      "text": "Waterfront Pizza",
-      "languageCode": "en"
-    },
-    "cuisine": "Pizza",
-    "photoUrl": "images/restaurant-photos/foster-city/Waterfront Pizza Small.jpeg",
-    "phone": "(650) 573-6634",
-    "description": "Every dish made from scratch using finest and freshest ingredients.",
-    "hours": "Mon–Sun 11:30am–8:45pm",
-    "menuUrl": "https://waterfrontpizza.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "pizza",
-      "italian",
-      "casual",
-      "delivery",
-      "family friendly",
-      "lunch",
-      "dinner"
-    ]
-  }
-],
+    {
+      "id": "ChIJ6x0WHCyfj4AREfNcpraaJ4s",
+      "formattedAddress": "969 Edgewater Blvd D, Foster City, CA 94404, USA",
+      "location": {
+        "latitude": 37.5440501,
+        "longitude": -122.2706173
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10027153204629533457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://waterfrontpizza.com/?utm_source=google",
+      "displayName": {
+        "text": "Waterfront Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/foster-city/Waterfront Pizza Small.jpeg",
+      "phone": "(650) 573-6634",
+      "description": "Every dish made from scratch using finest and freshest ingredients.",
+      "hours": "Mon–Sun 11:30am–8:45pm",
+      "menuUrl": "https://waterfrontpizza.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "italian",
+        "casual",
+        "delivery",
+        "family friendly",
+        "lunch",
+        "dinner"
+      ]
+    }
+  ],
   "Belmont, CA": [
     {
       "id": "ChIJG1dkCQCfj4ARUqNN2d1m1wU",
@@ -9881,23 +9881,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJs2k9e--fj4ARfwFcdE2rk6U",
-      "formattedAddress": "390 El Camino Real ste v, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5266717,
-        "longitude": -122.28479610000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11931068186987594111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Guadalajara Grill #02",
         "languageCode": "en"
       },
+      "formattedAddress": "390 El Camino Real, Belmont, CA 94002, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11931068186987594111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
       "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/belmont/Guadalajara Grill #02 Small.jpeg",
-      "phone": "(650) 622-4068",
-      "description": "Offers highest quality ingredients in clean space with indoor and outdoor dining.",
-      "menuUrl": "https://order.online/en/store/guadalajara-grill-02-el-camino-real-40593725",
-      "priceRange": "$",
       "keywords": [
         "mexican",
         "tacos",
@@ -9906,7 +9898,12 @@ var PREBAKED_DATA_CENTRAL = {
         "carnitas",
         "margaritas",
         "casual"
-      ]
+      ],
+      "menuUrl": "https://order.online/en/store/guadalajara-grill-02-el-camino-real-40593725",
+      "phone": "(650) 622-4068",
+      "priceRange": "$",
+      "description": "Offers highest quality ingredients in clean space with indoor and outdoor dining.",
+      "photoUrl": "images/restaurant-photos/belmont/Guadalajara Grill #02 Small.jpeg"
     },
     {
       "id": "ChIJwwcwf33tj4ARqZz3zCVCVcE",
@@ -10814,2462 +10811,2462 @@ var PREBAKED_DATA_CENTRAL = {
     }
   ],
   "San Carlos, CA": [
-  {
-    "id": "ChIJL0xAMxqij4ARw_KvL0mNHDg",
-    "formattedAddress": "888 Laurel St #3951, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5026266,
-      "longitude": -122.25681460000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=4043261910944051907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.888ristoranteitaliano.com/?y_source=1_MTQ3MjMwNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "displayName": {
-      "text": "888 Ristorante Italiano",
-      "languageCode": "en"
-    },
-    "cuisine": "Italian",
-    "phone": "(650) 591-0920",
-    "description": "In-house made menu changes seasonally with authentic Italian family recipes.",
-    "photoUrl": "images/restaurant-photos/san-carlos/888 Ristorante Italiano Small.jpeg",
-    "hours": "Mon 5pm–8pm, Tue–Thu 11am–1pm, 5pm–8pm, Fri 11am–1pm, 5pm–9pm, Sat 5pm–9pm, Sun Closed",
-    "menuUrl": "https://888ristoranteitaliano.com/our-dinner-menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "italian",
-      "pasta",
-      "pizza",
-      "risotto",
-      "wine",
-      "date night",
-      "dinner",
-      "romantic"
-    ]
-  },
-  {
-    "id": "ChIJ__9w8hmij4ARDPrtPmyz7jA",
-    "formattedAddress": "971 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5017664,
-      "longitude": -122.25521129999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=3525952835771300364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.alearsenal.com/",
-    "displayName": {
-      "text": "Ale Arsenal",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Ale Arsenal Small.jpeg",
-    "phone": "(650) 594-2337",
-    "description": "Features 24 rotating taps and two nitrogen dispensed beer taps.",
-    "hours": "Mon 3pm–10pm, Tue–Thu 3pm–11pm, Fri–Sat 1pm–12am, Sun 1pm–11pm",
-    "menuUrl": "http://alearsenal.com/beermenu.htm",
-    "priceRange": "$$",
-    "keywords": [
-      "american",
-      "pub",
-      "bar",
-      "craft beer",
-      "burgers",
-      "sandwiches",
-      "sports bar",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJzSUWDK-jj4ARz8oUeyheR-4",
-    "formattedAddress": "1653 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4947313,
-      "longitude": -122.2467551
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=17169795632329968335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.amazingwok-sancarlos.com/",
-    "displayName": {
-      "text": "Amazing Wok",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Amazing Wok Small.jpeg",
-    "phone": "(650) 595-2031",
-    "description": "Family-run restaurant crafting authentic Chinese dishes with quality ingredients.",
-    "hours": "Mon–Sun 11am–9pm",
-    "menuUrl": "https://www.amazingwok-sancarlos.com/2wvwl8mc/amazing-wok-san-carlos-94070/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "wok",
-      "stir fry",
-      "noodles",
-      "fried rice",
-      "takeout",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJA4uzEgCjj4ARiY62sWiquwE",
-    "formattedAddress": "749 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5047016,
-      "longitude": -122.25872000000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=124880781317672585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://bistromitte.com/",
-    "displayName": {
-      "text": "Bistro Mitte",
-      "languageCode": "en"
-    },
-    "cuisine": "German/Austrian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Bistro Mitte Small.jpeg",
-    "phone": "(650) 412-4832",
-    "description": "Authentic German schnitzels served with extensive German beer selection.",
-    "hours": "Mon–Thu 11am–2:30pm, 4:30pm–9pm, Fri 11am–2:30pm, 4:30pm–10pm, Sat 11am–10pm, Sun 11am–9pm",
-    "menuUrl": "https://bistromitte.com/san-carlos-redwood-city-bistro-mitte-food-menu",
-    "priceRange": "$$",
-    "keywords": [
-      "german",
-      "austrian",
-      "schnitzel",
-      "sausage",
-      "bratwurst",
-      "beer",
-      "european",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJD7eyOAOij4ARU531nDef78Y",
-    "formattedAddress": "1201 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5063494,
-      "longitude": -122.26117749999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=14334851200148938067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://bluelinepizza.com/",
-    "displayName": {
-      "text": "Blue Line Pizza",
-      "languageCode": "en"
-    },
-    "cuisine": "Pizza",
-    "photoUrl": "images/restaurant-photos/san-carlos/Blue Line Pizza Small.jpeg",
-    "phone": "(650) 610-0200",
-    "description": "Award-winning cornmeal crust deep dish and NY thin crust pizzas.",
-    "hours": "Sun–Thu 11:30am–8:30pm, Fri–Sat 11:30am–9pm",
-    "menuUrl": "https://bluelinepizza.com/menu-2/",
-    "priceRange": "$",
-    "keywords": [
-      "pizza",
-      "new york style",
-      "casual",
-      "delivery",
-      "family friendly",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJAQ4Edw-ij4ARwuGwpNeQ6_4",
-    "formattedAddress": "815 Cherry Ln, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5103332,
-      "longitude": -122.2530538
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=18368934761016123842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.blueoakbrewing.com/",
-    "displayName": {
-      "text": "Blue Oak Brewing Company",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "phone": "(415) 273-9676",
-    "description": "Microbrewery focusing on true-to-style Belgians, lagers and flavorful ales.",
-    "hours": "Mon–Tue 2pm–8pm, Wed–Thu 2pm–10pm, Fri 1pm–10pm, Sat 12pm–10pm, Sun 12pm–8pm",
-    "menuUrl": "https://www.blueoakbrewing.com/beer",
-    "priceRange": "$",
-    "photoUrl": "images/restaurant-photos/san-carlos/Blue Oak Brewing2 Small.jpeg",
-    "keywords": [
-      "brewery",
-      "craft beer",
-      "american",
-      "burgers",
-      "pub food",
-      "taproom",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJoYyTMRqij4ARfm7W1012IOM",
-    "formattedAddress": "895 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5028198,
-      "longitude": -122.25642489999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=16366211122570096254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.broilerexpresssc.com/",
-    "displayName": {
-      "text": "Broiler Express",
-      "languageCode": "en"
-    },
-    "cuisine": "Greek/Mediterranean",
-    "photoUrl": "images/restaurant-photos/san-carlos/Broiler Express Small.jpeg",
-    "phone": "(650) 593-2222",
-    "description": "Charbroiled burgers, hearty breakfast, and diverse Greek-Mexican-American offerings.",
-    "hours": "Mon–Fri 6am–9pm, Sat–Sun 7am–9pm",
-    "menuUrl": "https://www.yelp.com/menu/broiler-express-san-carlos",
-    "priceRange": "$$",
-    "keywords": [
-      "greek",
-      "mediterranean",
-      "gyros",
-      "falafel",
-      "kebab",
-      "chicken",
-      "quick",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJ_aEGkgGij4ARnpAP3ZsfIEY",
-    "formattedAddress": "344 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5097661,
-      "longitude": -122.26366999999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=5053073536198873246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.creolabistro.com/",
-    "displayName": {
-      "text": "CreoLa Bistro",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Creola Small.jpeg",
-    "phone": "(650) 654-0882",
-    "description": "House-made beignets and slow-simmered gumbos celebrate authentic New Orleans cuisine.",
-    "hours": "Mon Closed, Tue–Wed 5pm–9pm, Thu–Sat 11am–2pm & 5pm–9pm, Sun 11am–2pm & 5pm–8pm",
-    "menuUrl": "https://creola-bistro.square.site/",
-    "priceRange": "$$",
-    "keywords": [
-      "creole",
-      "cajun",
-      "southern",
-      "jambalaya",
-      "gumbo",
-      "shrimp",
-      "soul food",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJq0lIbwOij4ARYpsTKk7YkdY",
-    "formattedAddress": "1107 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5069149,
-      "longitude": -122.2604396
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=15461376825964600162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.deliziesc.com/",
-    "displayName": {
-      "text": "Delizie Cucina & Vino",
-      "languageCode": "en"
-    },
-    "cuisine": "Italian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Delizie Small.jpeg",
-    "phone": "(650) 486-1539",
-    "description": "Authentic Calabrian cuisine featuring homemade pastas and regional Italian dishes.",
-    "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 4:30pm–9:00pm, Sun 5:00pm–9:00pm",
-    "menuUrl": "https://www.deliziesc.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "italian",
-      "seafood",
-      "pasta",
-      "wine",
-      "date night",
-      "dinner",
-      "romantic",
-      "upscale"
-    ]
-  },
-  {
-    "id": "ChIJtb6FyVKfj4AR9_Nb7TZX89Y",
-    "formattedAddress": "935 Washington St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4985,
-      "longitude": -122.24443249999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=15488819436879344631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.devilscanyon.com/",
-    "displayName": {
-      "text": "Devil's Canyon Brewing Company",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Devils Canyon Small.jpeg",
-    "phone": "(650) 592-2739",
-    "description": "Family-friendly beer garden with live music and food trucks every Friday.",
-    "hours": "Mon–Thu Closed, Fri 4pm–10pm, Sat–Sun Closed",
-    "menuUrl": "https://www.yelp.com/menu/devils-canyon-brewing-company-san-carlos-2",
-    "priceRange": "$$",
-    "keywords": [
-      "brewery",
-      "craft beer",
-      "taproom",
-      "american",
-      "pub food",
-      "casual",
-      "tours"
-    ]
-  },
-  {
-    "id": "ChIJcWwqtyKjj4AR66v1iaPq7Os",
-    "formattedAddress": "1201 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.498745299999996,
-      "longitude": -122.25162979999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=17000220681531927531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://order.cliqbux.com/store/dim-sum-place",
-    "displayName": {
-      "text": "Dim Sum Place",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Dim Sum Place Small.jpeg",
-    "phone": "(650) 622-4817",
-    "description": "Every dish is hand-crafted by experienced dim sum masters.",
-    "hours": "Mon 11am–7pm, Tue Closed, Wed–Sat 11am–2:30pm, 4:30pm–7pm, Sun 11am–3:30pm",
-    "menuUrl": "https://www.yelp.com/biz/dim-sum-place-san-carlos",
-    "priceRange": "$",
-    "keywords": [
-      "chinese",
-      "dim sum",
-      "cantonese",
-      "dumplings",
-      "bao",
-      "brunch",
-      "family style",
-      "weekend"
-    ]
-  },
-  {
-    "id": "ChIJ2VG1i0Cij4ARD2GpO2HXf3E",
-    "formattedAddress": "1697 Industrial Rd, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.498965999999996,
-      "longitude": -122.24194999999997
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=8178492260940865807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.domenicowinery.com/",
-    "displayName": {
-      "text": "Domenico Winery",
-      "languageCode": "en"
-    },
-    "cuisine": "Wine Bar",
-    "photoUrl": "images/restaurant-photos/san-carlos/Domenico Winery Small.jpeg",
-    "phone": "(650) 593-2335",
-    "description": "Urban winery offering custom wine blending and stone hearth pizzas.",
-    "hours": "Mon–Tue Closed, Wed–Thu 5pm–9pm, Fri 5pm–9pm, Sat 11am–9pm, Sun 11am–6pm",
-    "menuUrl": "https://www.opentable.com/r/domenico-winery-and-osteria-san-carlos",
-    "priceRange": "$$",
-    "keywords": [
-      "wine bar",
-      "winery",
-      "tasting",
-      "date night",
-      "wine tasting",
-      "local wine",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJreyIpGWjj4ARvsw91mkBEn0",
-    "formattedAddress": "617 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5062529,
-      "longitude": -122.2606454
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=9012267358399351998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://doppiozerogroup.com/doppiozerosancarlos?utm_source=google",
-    "displayName": {
-      "text": "Doppio Zero San Carlos",
-      "languageCode": "en"
-    },
-    "cuisine": "Pizza",
-    "photoUrl": "images/restaurant-photos/san-carlos/Doppio Zero Small.jpeg",
-    "phone": "(650) 596-5152",
-    "description": "Neapolitan pizza certified by Vera Pizza Napoletana from wood-fired oven.",
-    "hours": "Mon–Thu 11:00am–2:30pm, 4:30pm–9:30pm, Fri 11:00am–2:30pm, 4:30pm–10:00pm, Sat 11:00am–10:00pm, Sun 11:00am–9:30pm",
-    "menuUrl": "https://order.toasttab.com/online/doppio-zero-san-carlos-617-laurel-avenue",
-    "priceRange": "$$",
-    "keywords": [
-      "pizza",
-      "neapolitan",
-      "wood fired",
-      "italian",
-      "pasta",
-      "casual",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJxdXENyKjj4ARbOiBdmpE9-E",
-    "formattedAddress": "1101 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5070239,
-      "longitude": -122.26025179999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=16282558201826764908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://drakessancarlos.com/",
-    "displayName": {
-      "text": "Drakes",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Drakes Small.jpeg",
-    "phone": "(650) 597-5080",
-    "description": "Good Eating, Good Living with New American cuisine and cocktails.",
-    "hours": "Mon 9am–2pm, Tue–Fri 9am–2pm & 4pm–9pm, Sat–Sun 8:30am–3pm & 4pm–9pm",
-    "menuUrl": "https://drakessancarlos.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "american",
-      "burgers",
-      "craft beer",
-      "pub",
-      "casual",
-      "lunch",
-      "dinner",
-      "sports bar"
-    ]
-  },
-  {
-    "id": "ChIJf4wGMwCjj4ARLGEqAV2CS6Y",
-    "formattedAddress": "1195 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4990488,
-      "longitude": -122.2519844
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=11982814569512460588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.dumplingdough.com/",
-    "displayName": {
-      "text": "Dumpling & Dough",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Dumpling & Dough Small.jpeg",
-    "phone": "(650) 264-8095",
-    "description": "Handcrafted dumplings made fresh daily with homemade noodles and broth.",
-    "hours": "Mon–Sun 11am–9pm",
-    "menuUrl": "https://www.dumplingdough.com/y1cxlnsx/dumpling-and-dough-san-carlos-94070/order-online",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "dumplings",
-      "potstickers",
-      "soup dumplings",
-      "noodles",
-      "casual",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJfw5_xwOij4AR7uUF5ABJ8rA",
-    "formattedAddress": "1100 Holly St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.508524,
-      "longitude": -122.26210949999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=12750333763213714926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://elcharritotaqueriasancarlos.com/",
-    "displayName": {
-      "text": "El Charrito",
-      "languageCode": "en"
-    },
-    "cuisine": "Mexican",
-    "photoUrl": "images/restaurant-photos/san-carlos/El charrito Small.jpeg",
-    "phone": "(650) 654-1400",
-    "description": "They care about fresh ingredients in unpretentious dishes.",
-    "hours": "Mon–Sun 8:00am–8:00pm",
-    "menuUrl": "https://www.yelp.com/menu/el-charrito-san-carlos",
-    "priceRange": "$$",
-    "keywords": [
-      "mexican",
-      "tacos",
-      "burritos",
-      "enchiladas",
-      "casual",
-      "lunch",
-      "dinner",
-      "margaritas"
-    ]
-  },
-  {
-    "id": "ChIJi_Cg6gOij4ARmaF1FIKcoX0",
-    "formattedAddress": "1065 Holly St D, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5091805,
-      "longitude": -122.26065330000002
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=9052688808494342553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://el-maguey-taqueria.cafe-inspector.com/",
-    "displayName": {
-      "text": "El Maguey",
-      "languageCode": "en"
-    },
-    "cuisine": "Mexican",
-    "photoUrl": "images/restaurant-photos/san-carlos/El Maguey Small.jpeg",
-    "phone": "(650) 591-3520",
-    "description": "Low prices, excellent and prompt service with free chips and salsas.",
-    "hours": "Mon–Sun 10:00am–8:00pm",
-    "menuUrl": "https://www.allmenus.com/ca/san-carlos/799723-el-maguey-taqueria/menu/",
-    "priceRange": "$",
-    "keywords": [
-      "mexican",
-      "tacos",
-      "burritos",
-      "enchiladas",
-      "margaritas",
-      "casual",
-      "family friendly"
-    ]
-  },
-  {
-    "id": "ChIJYf1TUgCjj4ARuJJ5OF4fRUw",
-    "formattedAddress": "727 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.504955599999995,
-      "longitude": -122.2590523
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=5495833409810436792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.eliarestaurants.com/",
-    "displayName": {
-      "text": "Elia",
-      "languageCode": "en"
-    },
-    "cuisine": "Greek/Mediterranean",
-    "photoUrl": "images/restaurant-photos/san-carlos/Elia Small.jpeg",
-    "phone": "(650) 674-6000",
-    "description": "Live music weekdays and DJ sets weekends enliven Mediterranean dining.",
-    "hours": "Mon 11am–2pm, 5pm–9pm, Tue–Thu 11am–2:30pm, 5pm–9:30pm, Fri–Sat 10am–10pm, Sun 10am–9:30pm",
-    "menuUrl": "https://www.eliarestaurants.com/menu.html",
-    "priceRange": "$$$",
-    "keywords": [
-      "greek",
-      "mediterranean",
-      "seafood",
-      "mezze",
-      "lamb",
-      "hummus",
-      "dinner",
-      "date night"
-    ]
-  },
-  {
-    "id": "ChIJWQuz7QOij4ARoKX2isiAOPI",
-    "formattedAddress": "1065 Holly St D, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5092827,
-      "longitude": -122.2604785
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=17453841954687591840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://emelinasrestaurant.com/",
-    "displayName": {
-      "text": "Emelinas Peruvian Restaurant",
-      "languageCode": "en"
-    },
-    "cuisine": "Peruvian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Emelina Peruvian Restaurant Small.jpeg",
-    "phone": "(650) 591-1133",
-    "description": "Specializes in northern Peruvian seafood with first-rate quality ingredients.",
-    "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–8pm",
-    "menuUrl": "https://www.beyondmenu.com/34659/san-carlos/emelina-s-peruvian-restaurant-san-carlos-94070.aspx",
-    "priceRange": "$$",
-    "keywords": [
-      "peruvian",
-      "ceviche",
-      "lomo saltado",
-      "seafood",
-      "chicken",
-      "casual",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJ56KZvzGjj4ARwSYAU6xKEco",
-    "formattedAddress": "1105 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5068956,
-      "longitude": -122.26032629999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=14560501174252873409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.esnafrestaurant.com/",
-    "displayName": {
-      "text": "Esnaf",
-      "languageCode": "en"
-    },
-    "cuisine": "Turkish",
-    "photoUrl": "images/restaurant-photos/san-carlos/Esnaf Small.jpeg",
-    "phone": "(650) 394-0244",
-    "description": "Regional Turkish flavors and recipes passed down through generations.",
-    "hours": "Mon–Thu 11:30am–2:30pm, 4:30pm–9pm, Fri 11:30am–2:30pm, 4:30pm–9:30pm, Sat–Sun 10am–3pm, 4:30pm–9:30pm (Sat), 4:30pm–9pm (Sun)",
-    "menuUrl": "http://www.esnafrestaurant.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "turkish",
-      "kebab",
-      "mediterranean",
-      "lamb",
-      "pita",
-      "halal",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJA947woyjj4AR2-NZGET4Clg",
-    "formattedAddress": "1135 Industrial Rd, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5021201,
-      "longitude": -122.24635210000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=6344155996454773723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.falafeltazah.com/",
-    "displayName": {
-      "text": "Falafel Tazah San Carlos",
-      "languageCode": "en"
-    },
-    "cuisine": "Middle Eastern",
-    "photoUrl": "images/restaurant-photos/san-carlos/Falafel Tazah Small.jpeg",
-    "phone": "(650) 453-3979",
-    "description": "Fresh Halal meat with locally sourced produce made fast.",
-    "hours": "Mon–Sat 11am–8pm, Sun 11am–7pm",
-    "menuUrl": "https://falafeltazah.com/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "middle eastern",
-      "falafel",
-      "hummus",
-      "pita",
-      "vegetarian",
-      "vegan",
-      "healthy",
-      "quick"
-    ]
-  },
-  {
-    "id": "ChIJaQG4bACjj4ARaeJ-EzZQEsg",
-    "formattedAddress": "751 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5046174,
-      "longitude": -122.25872059999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=14416673550351917673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "",
-    "displayName": {
-      "text": "Grand Bazaar Foods",
-      "languageCode": "en"
-    },
-    "cuisine": "Other",
-    "photoUrl": "images/restaurant-photos/san-carlos/Grand Bazaar Small.jpeg",
-    "phone": "(650) 412-0356",
-    "hours": "Mon–Sun 8am–9pm",
-    "menuUrl": "https://www.ubereats.com/store/grand-bazaar-grocery&meat-751-laurel-street-san-carlos/wwpPLQKpVFWPEQPFLd3vEw",
-    "keywords": [
-      "turkish",
-      "mediterranean",
-      "grocery",
-      "halal",
-      "baklava",
-      "turkish delight",
-      "coffee",
-      "market"
-    ]
-  },
-  {
-    "id": "ChIJU1-3rRajj4ARoy2qvBDSLV0",
-    "displayName": {
-      "text": "Groovy Goose",
-      "languageCode": "en"
-    },
-    "formattedAddress": "1221 San Carlos Ave a, San Carlos, CA 94070, USA",
-    "googleMapsUri": "https://maps.google.com/?cid=6714253588805856675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://groovygoose.coffee/",
-    "location": {},
-    "cuisine": "Cafe/Bakery",
-    "menuUrl": "https://www.yelp.com/biz/groovy-goose-coffee-san-carlos-2",
-    "videoUrl": "https://youtube.com/shorts/2ZjgnV_bzJA?feature=share",
-    "phone": "(650) 486-0522",
-    "hours": "Mon–Sun 7am–5pm",
-    "priceRange": "$$",
-    "description": "Coffee roasted to order and shipped fresh within days.",
-    "photoUrl": "images/restaurant-photos/san-carlos/Groovy Goose Small.jpeg",
-    "keywords": [
-      "cafe",
-      "coffee",
-      "bakery",
-      "pastries",
-      "breakfast",
-      "lunch",
-      "sandwiches",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJ9ykTdt6jj4ARjzw6p5rl778",
-    "formattedAddress": "1070 Holly St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5096681,
-      "longitude": -122.2609713
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=13830525433071418511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.hakkainigiribar.com/",
-    "displayName": {
-      "text": "Hakkai Nigiri Bar & Tapas",
-      "languageCode": "zh"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Hakkai Small.jpeg",
-    "phone": "(650) 264-8049",
-    "description": "Signature dishes feature Hamachi Carpaccio and Iwana Tataki with fresh seafood.",
-    "hours": "Mon–Thu 11:30am–2:30pm, 5pm–9pm, Fri–Sat 11:30am–2:30pm, 5pm–9:30pm, Sun 11:30am–2:30pm, 5pm–9pm",
-    "menuUrl": "https://www.opentable.com/r/hakkai-nigiri-bar-and-tapas-san-carlos",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "nigiri",
-      "tapas",
-      "sake",
-      "small plates",
-      "dinner",
-      "date night"
-    ]
-  },
-  {
-    "id": "ChIJZfRLIo6jj4ARKlSXkrgnTaE",
-    "formattedAddress": "722 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5047099,
-      "longitude": -122.25942900000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=11622989886999974954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://hapasbrewing.com/",
-    "displayName": {
-      "text": "Hapa’s Brewing Company",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Hapas Brewing Company Small.jpeg",
-    "phone": "(650) 400-1233",
-    "description": "South Bay craft brewery committed to creating delicious neighborhood beers.",
-    "hours": "Mon–Closed, Tue–Thu 3pm–10pm, Fri 12pm–10pm, Sat 11am–10pm, Sun 11am–9pm",
-    "menuUrl": "https://hapasbrewing.com/san-carlos/",
-    "priceRange": "$$",
-    "keywords": [
-      "brewery",
-      "craft beer",
-      "american",
-      "taproom",
-      "pub food",
-      "burgers",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJ8Sf6nw-jj4AR1bLIrhg2a4A",
-    "formattedAddress": "644 Laurel St Suite C, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.505639599999995,
-      "longitude": -122.26032959999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=9253549339002319573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://highlandssportsbar.com/",
-    "displayName": {
-      "text": "Highlands Sports Bar & Grill",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Highlands Sports Bar Small.jpeg",
-    "phone": "(650) 486-1518",
-    "description": "Line dancing Saturdays and trivia Mondays make this sports bar lively.",
-    "hours": "Mon–Thu 11am–9pm, Fri 11am–11:45pm, Sat 10am–11:45pm, Sun 10am–9pm",
-    "menuUrl": "https://highlandssportsbar.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "sports bar",
-      "american",
-      "burgers",
-      "wings",
-      "bar",
-      "beer",
-      "casual",
-      "tv"
-    ]
-  },
-  {
-    "id": "ChIJO-0JnD6ij4ARsWvFATbNs2o",
-    "formattedAddress": "1494 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.496511999999996,
-      "longitude": -122.2480234
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=7688714620693212081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.igueytaqueria.com/",
-    "displayName": {
-      "text": "iGuey Taqueria",
-      "languageCode": "en"
-    },
-    "cuisine": "Mexican",
-    "photoUrl": "images/restaurant-photos/san-carlos/iGuey Small.jpeg",
-    "phone": "(650) 453-3018",
-    "description": "Fresh ingredients provide the best quality and taste available.",
-    "hours": "Mon–Thu 10:30am–9pm, Fri–Sat 10:30am–9:30pm, Sun Closed",
-    "menuUrl": "https://igueytaqueria.com/our-menu",
-    "priceRange": "$$",
-    "keywords": [
-      "mexican",
-      "tacos",
-      "burritos",
-      "taqueria",
-      "carnitas",
-      "carne asada",
-      "quick",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJef0_iqajj4ARFYa044zH5tY",
-    "formattedAddress": "Parking lot, 661 El Camino Real Suite 103, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.507085499999995,
-      "longitude": -122.2596727
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=15485283776689636885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.impastosancarlos.com/",
-    "displayName": {
-      "text": "Impasto by Terun",
-      "languageCode": "en"
-    },
-    "cuisine": "Italian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Impasto Small.jpeg",
-    "phone": "(650) 486-1504",
-    "description": "Chefs follow AVPN guidelines ensuring authentic traditional Neapolitan pizza quality.",
-    "hours": "Mon 5pm–8:30pm, Tue–Thu 5pm–9pm, Fri–Sat 5pm–9:30pm, Sun 5pm–8:30pm",
-    "menuUrl": "https://www.impastosancarlos.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "italian",
-      "pizza",
-      "neapolitan",
-      "pasta",
-      "wine",
-      "dinner",
-      "date night",
-      "upscale"
-    ]
-  },
-  {
-    "id": "ChIJd8Txf8Ojj4ARzX8-VeI0wjI",
-    "formattedAddress": "1050 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5010873,
-      "longitude": -122.25330319999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=3657543994075676621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://isarngarden.com/",
-    "displayName": {
-      "text": "Isarn Garden Thai Cuisine",
-      "languageCode": "en"
-    },
-    "cuisine": "Thai",
-    "photoUrl": "images/restaurant-photos/san-carlos/Isarn Garden Small.jpeg",
-    "phone": "(650) 802-8081",
-    "description": "Specializes in authentic North Eastern Thai Isarn regional cuisine.",
-    "hours": "Mon–Thu 11am–3pm, 5pm–9pm, Fri–Sat 11am–3pm, 5pm–9:30pm, Sun 11am–3pm, 5pm–9pm",
-    "menuUrl": "https://www.yelp.com/menu/isarn-garden-thai-cuisine-san-carlos-2",
-    "priceRange": "$$",
-    "keywords": [
-      "thai",
-      "pad thai",
-      "curry",
-      "noodles",
-      "vegetarian",
-      "lunch",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJLX8tFDmij4ARpUjD3uO5RYg",
-    "formattedAddress": "1696 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4941016,
-      "longitude": -122.24652700000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=9819458950897289381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://johnstonsaltbox.com/",
-    "displayName": {
-      "text": "Johnston's Saltbox",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Johnsons Saltbox Small.jpeg",
-    "phone": "(650) 592-7258",
-    "description": "From-scratch seasonal dishes using ingredients from their rooftop garden.",
-    "hours": "Mon Closed, Tue–Fri 11:30am–2pm & 5pm–8:30pm, Sat–Sun 10am–2pm, Sat 5pm–8:30pm",
-    "menuUrl": "http://johnstonsaltbox.com/ourmenu",
-    "priceRange": "$$",
-    "keywords": [
-      "american",
-      "farm to table",
-      "burgers",
-      "fried chicken",
-      "brunch",
-      "outdoor seating",
-      "seasonal",
-      "craft beer",
-      "date night"
-    ]
-  },
-  {
-    "id": "ChIJl0pQ6_-hj4AR4AiwrZRogKI",
-    "formattedAddress": "135 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.512409999999996,
-      "longitude": -122.26592300000002
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=11709474018941733088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.kabulcuisine.co/",
-    "displayName": {
-      "text": "Kabul Afghan Cuisine",
-      "languageCode": "en"
-    },
-    "cuisine": "Middle Eastern",
-    "photoUrl": "images/restaurant-photos/san-carlos/Kabul Afghan Cuisine Small.jpeg",
-    "phone": "(650) 594-2840",
-    "description": "Specialty lamb kabobs and slow cooked traditional Afghan delicacies.",
-    "hours": "Mon–Fri 11:30am–2pm, 4pm–9pm, Sat–Sun 4pm–9pm",
-    "menuUrl": "https://www.kabulcuisine.co/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "afghan",
-      "middle eastern",
-      "kebab",
-      "lamb",
-      "rice",
-      "halal",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJwds5EwOij4ARMO7_oZ0A3j8",
-    "formattedAddress": "1188 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5067398,
-      "longitude": -122.2612338
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=4602116546246995504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.kingchuan.biz/",
-    "displayName": {
-      "text": "King Chuan Restaurant",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/san-carlos/King Chuan Small.jpeg",
-    "phone": "(650) 593-1035",
-    "description": "Everything cooked from scratch, steamed first, never using MSG.",
-    "hours": "Mon–Sun 11:00am–9:30pm",
-    "menuUrl": "https://kingchuan.menu11.com/carlos/order",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "cantonese",
-      "dim sum",
-      "seafood",
-      "family style",
-      "noodles",
-      "takeout"
-    ]
-  },
-  {
-    "id": "ChIJo9TTawOij4ARlZFyNVSlunk",
-    "formattedAddress": "1147 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5067127,
-      "longitude": -122.2607051
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=8771505005349998997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://lacorneta.com/lacornetasancarlos?utm_source=google",
-    "displayName": {
-      "text": "La Corneta Taqueria",
-      "languageCode": "en"
-    },
-    "cuisine": "Mexican",
-    "photoUrl": "images/restaurant-photos/san-carlos/La Corneta Small.jpeg",
-    "phone": "(650) 551-1400",
-    "description": "Classic dishes made to order with the freshest ingredients.",
-    "hours": "Mon–Sat 11am–9pm, Sun 11am–8pm",
-    "menuUrl": "https://lacorneta.com/menu",
-    "priceRange": "$",
-    "keywords": [
-      "mexican",
-      "tacos",
-      "burritos",
-      "taqueria",
-      "carnitas",
-      "carne asada",
-      "quick",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJy2K-wv-jj4ARQMZ6yOLXoPw",
-    "formattedAddress": "1377 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4973641,
-      "longitude": -122.24995899999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=18203787062857614912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://lahaciendarestaurantandcafeca.com/",
-    "displayName": {
-      "text": "La Hacienda Restaurant",
-      "languageCode": "en"
-    },
-    "cuisine": "Mexican",
-    "photoUrl": "images/restaurant-photos/san-carlos/La Hacienda Small.jpeg",
-    "phone": "(650) 591-9711",
-    "description": "Authentic Jalisco cuisine served by the Ramirez family since 1980.",
-    "hours": "Mon 11am–7:30pm, Tue–Sat 11am–8pm, Sun Closed",
-    "menuUrl": "http://www.lahaciendasancarlos.com/dinner-menu.html",
-    "priceRange": "$$",
-    "keywords": [
-      "mexican",
-      "tacos",
-      "enchiladas",
-      "burritos",
-      "margaritas",
-      "family friendly",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJ83BpPYGjj4ARi1kYIUkgSV0",
-    "formattedAddress": "902 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5024057,
-      "longitude": -122.25655409999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=6721939417287121291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://louscafesf.com/",
-    "displayName": {
-      "text": "Lou's Cafe",
-      "languageCode": "en"
-    },
-    "cuisine": "Cafe/Bakery",
-    "photoUrl": "images/restaurant-photos/san-carlos/Lous Cafe Small.jpeg",
-    "phone": "(650) 394-8914",
-    "description": "Pastrami brisket marinated overnight and steamed in their kettle daily.",
-    "hours": "Mon–Sat 9am–5pm, Sun 9am–4pm",
-    "menuUrl": "https://www.yelp.com/biz/lou-s-cafe-san-carlos",
-    "priceRange": "$",
-    "keywords": [
-      "cafe",
-      "coffee",
-      "breakfast",
-      "sandwiches",
-      "pastries",
-      "casual",
-      "quick"
-    ]
-  },
-  {
-    "id": "ChIJS24vMjmij4ARvvkYOX9j5K4",
-    "formattedAddress": "1620 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.495179799999995,
-      "longitude": -122.2465973
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=12602307055359424958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://mediterraneandelite.com/",
-    "displayName": {
-      "text": "Mediterranean Delite",
-      "languageCode": "en"
-    },
-    "cuisine": "Greek/Mediterranean",
-    "photoUrl": "images/restaurant-photos/san-carlos/Mediterranean Delite Small.jpeg",
-    "phone": "(650) 654-9172",
-    "description": "Family-owned with beloved recipes crafted with renewed focus on quality.",
-    "hours": "Mon–Sat 10am–8pm, Sun Closed",
-    "menuUrl": "https://www.meddelite.net/menu/",
-    "priceRange": "$",
-    "keywords": [
-      "greek",
-      "mediterranean",
-      "falafel",
-      "hummus",
-      "gyros",
-      "healthy",
-      "vegetarian",
-      "quick"
-    ]
-  },
-  {
-    "id": "ChIJVUAKaV-ej4ARYPOU-_YEHDY",
-    "formattedAddress": "1524 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.496177599999996,
-      "longitude": -122.24769409999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=3898996836225315680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.mintsandhoney.com/",
-    "displayName": {
-      "text": "Mints & Honey",
-      "languageCode": "en"
-    },
-    "cuisine": "Breakfast",
-    "photoUrl": "images/restaurant-photos/san-carlos/Mints & Honey Small.jpeg",
-    "phone": "(650) 808-7786",
-    "description": "Neighborhood cafe serving handcrafted coffee, tea, and creative artisan toasts.",
-    "hours": "Mon 8am–2pm, Tue Closed, Wed 8am–2pm, Thu 8am–2pm, Fri 8am–3pm, Sat 8am–3pm, Sun 8am–3pm",
-    "menuUrl": "https://order.online/store/mints-&-honey-san-carlos-625245/?hideModal=true&pickup=true",
-    "priceRange": "$$",
-    "keywords": [
-      "breakfast",
-      "brunch",
-      "eggs",
-      "pancakes",
-      "waffles",
-      "coffee",
-      "casual",
-      "family friendly"
-    ]
-  },
-  {
-    "id": "ChIJQbf0I-ajj4AR13SzhQDrajo",
-    "formattedAddress": "1163 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5065766,
-      "longitude": -122.26063649999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=4209435189206807767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://molly-os.com/",
-    "displayName": {
-      "text": "Molly O's",
-      "languageCode": "en"
-    },
-    "cuisine": "Irish",
-    "photoUrl": "images/restaurant-photos/san-carlos/Molly Os Small.jpeg",
-    "phone": "(650) 486-1370",
-    "description": "Family-run Irish pub offering warm hospitality and authentic traditional fare.",
-    "hours": "Mon 4pm–9pm, Tue–Thu 11:30am–9pm, Fri 11:30am–10pm, Sat 9am–10pm, Sun 9am–8pm",
-    "menuUrl": "https://www.molly-os.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "irish pub",
-      "bar",
-      "american",
-      "burgers",
-      "fish and chips",
-      "draft beer",
-      "sports",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJ03M8lBeij4ARCMh_cLleOWo",
-    "formattedAddress": "1137 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4997154,
-      "longitude": -122.25275370000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=7654253192242251784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.mybreakfasthouse.com/",
-    "displayName": {
-      "text": "My Breakfast House",
-      "languageCode": "en"
-    },
-    "cuisine": "Breakfast",
-    "photoUrl": "images/restaurant-photos/san-carlos/My Breakfast House Small.jpeg",
-    "phone": "(650) 598-7600",
-    "description": "Home-style cooking with excellent coffee using only real, fresh ingredients.",
-    "hours": "Mon–Sun 7am–1:30pm",
-    "menuUrl": "https://www.mybreakfasthouse.com/menu",
-    "priceRange": "$",
-    "keywords": [
-      "breakfast",
-      "brunch",
-      "eggs",
-      "pancakes",
-      "omelettes",
-      "coffee",
-      "casual",
-      "family friendly"
-    ]
-  },
-  {
-    "id": "ChIJW7bnwReij4ARYSHjhNcHCrM",
-    "formattedAddress": "1160 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4993224,
-      "longitude": -122.2527494
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=12901132704785047905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.newcantonsancarlos.com/",
-    "displayName": {
-      "text": "New Canton Restaurant",
-      "languageCode": "en"
-    },
-    "cuisine": "Cantonese",
-    "photoUrl": "images/restaurant-photos/san-carlos/New Canton Small.jpeg",
-    "phone": "(650) 591-4952",
-    "description": "Experience the best authentic and delicious Chinese food offerings.",
-    "hours": "Mon Closed, Tue–Sun 11am–3pm, 4:30pm–9pm",
-    "menuUrl": "https://www.newcantonsancarlos.com/1627j85h/new-canton-restaurant-san-carlos-94070/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "cantonese",
-      "chinese",
-      "dim sum",
-      "seafood",
-      "noodles",
-      "family style",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJy1Gi6j2ij4ARDmPT4rdXeaA",
-    "formattedAddress": "1340 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.498004099999996,
-      "longitude": -122.24980169999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=11563369965546595086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://newyorkpizzasc.com/",
-    "displayName": {
-      "text": "New York pizza, pasta & more",
-      "languageCode": "en"
-    },
-    "cuisine": "Pizza",
-    "photoUrl": "images/restaurant-photos/san-carlos/New York Pizza Small.jpeg",
-    "phone": "(650) 637-9999",
-    "description": "Famous for the King Kong 24-inch Pizza serving 8 to 10 people.",
-    "hours": "Mon–Thu 9:30am–10pm, Fri–Sat 9:30am–11:30pm, Sun 9:30am–10pm",
-    "menuUrl": "https://newyorkpizzasc.com/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "pizza",
-      "new york style",
-      "pasta",
-      "italian",
-      "casual",
-      "delivery",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJP8Z1Xbmjj4ARzh-YkIMLtIc",
-    "formattedAddress": "732 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5046134,
-      "longitude": -122.25930799999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=9778453350622699470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
-    "displayName": {
-      "text": "Nick The Greek",
-      "languageCode": "en"
-    },
-    "cuisine": "Greek/Mediterranean",
-    "photoUrl": "images/restaurant-photos/san-carlos/Nick The Greek Small.jpeg",
-    "phone": "(650) 394-4311",
-    "description": "Fresh Greek street food with classic gyros and flavorful meals.",
-    "hours": "Mon–Sun 11am–9pm",
-    "menuUrl": "https://nickthegreek.orderexperience.net/san_carlos/menu",
-    "priceRange": "$",
-    "keywords": [
-      "greek",
-      "gyros",
-      "souvlaki",
-      "falafel",
-      "mediterranean",
-      "quick",
-      "casual",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJVdkp1hmij4ARSUa_dwTD2Rg",
-    "formattedAddress": "1037 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.500821699999996,
-      "longitude": -122.25402280000002
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=1790676750812792393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.noelanis.com/",
-    "displayName": {
-      "text": "Noelani's Island Grill",
-      "languageCode": "en"
-    },
-    "cuisine": "Fusion",
-    "photoUrl": "images/restaurant-photos/san-carlos/Noelanis Small.jpeg",
-    "phone": "(844) 534-2773",
-    "description": "Hawaiian-Asian fusion with live music and tropical cocktails nightly.",
-    "hours": "Mon Closed, Tue–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 11:30am–5pm",
-    "menuUrl": "https://noelanis.com/san-carlos-noelani-s-island-grill-food-menu",
-    "priceRange": "$$",
-    "keywords": [
-      "hawaiian",
-      "poke",
-      "loco moco",
-      "garlic chicken",
-      "aloha",
-      "island food",
-      "casual",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJYbzc32yjj4ARiJ_QHb3zKvs",
-    "formattedAddress": "663 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5056211,
-      "longitude": -122.25989889999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=18098546046116339592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.number5kitchen.com/",
-    "displayName": {
-      "text": "number5kitchen",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Number5 Kitchen Small.jpeg",
-    "phone": "(650) 665-9655",
-    "description": "Chef Henry handpicks seasonal ingredients to create simple exquisite flavors.",
-    "hours": "Mon–Sun Closed, Tue 11am–2pm, Wed–Fri 11am–2pm, 5pm–9pm, Sat 5pm–9pm, Sun Closed",
-    "menuUrl": "http://www.number5kitchen.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "american",
-      "farm to table",
-      "seasonal",
-      "organic",
-      "pasta",
-      "seafood",
-      "burgers",
-      "pho",
-      "date night",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJVZlkJSyjj4ARaq0ve0KviUA",
-    "formattedAddress": "601 Old County Rd, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5077053,
-      "longitude": -122.25929599999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=4650440790306172266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://food.orders.co/bkhfen5k?y_source=1_MjAwOTQ4OTU0Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-    "displayName": {
-      "text": "Nursel Central Asian & Russian Cuisine",
-      "languageCode": "en"
-    },
-    "cuisine": "Other",
-    "photoUrl": "images/restaurant-photos/san-carlos/Nursel Small.jpeg",
-    "phone": "(650) 226-5163",
-    "description": "Bay Area's only fully halal certified Central Asian restaurant.",
-    "hours": "Mon–Thu 11am–10pm, Fri–Sun 11am–10:30pm",
-    "menuUrl": "https://www.yelp.com/biz/nursel-san-carlos-4",
-    "priceRange": "$$",
-    "keywords": [
-      "central asian",
-      "russian",
-      "kyrgyz",
-      "kebab",
-      "dumplings",
-      "manty",
-      "samsa",
-      "borscht",
-      "plov",
-      "halal",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJM2IcyASjj4AR-wQWoTZCVGo",
-    "formattedAddress": "1697 Industrial Rd, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4989835,
-      "longitude": -122.2419324
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=7661821668462298363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://osteria.domenicowinery.com/",
-    "displayName": {
-      "text": "Osteria at Domenico",
-      "languageCode": "en"
-    },
-    "cuisine": "Italian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Osteria at Domenico Small.jpeg",
-    "phone": "(650) 226-5420",
-    "description": "Timeless Italian fare made with fresh, local ingredients near the winery.",
-    "hours": "Mon–Tue Closed, Wed–Thu 5pm–9pm, Fri 5pm–9pm, Sat 11am–9pm, Sun 11am–6pm",
-    "menuUrl": "https://www.opentable.com/r/domenico-winery-and-osteria-san-carlos",
-    "priceRange": "$$",
-    "keywords": [
-      "italian",
-      "pasta",
-      "wine",
-      "dinner",
-      "date night",
-      "romantic",
-      "upscale"
-    ]
-  },
-  {
-    "id": "ChIJ0R5_qJ6jj4ARvA8TdCyp8XY",
-    "formattedAddress": "894 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.50256530000001,
-      "longitude": -122.2567702
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=8570817574253825980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.owadasushi.com/",
-    "displayName": {
-      "text": "Owada",
-      "languageCode": "en"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Owada Small.jpeg",
-    "phone": "(650) 637-9793",
-    "description": "Fresh and well prepared sushi with many delighted returning customers.",
-    "hours": "Mon–Fri 11:30am–2:30pm, 4:30pm–8:30pm, Sat 4:30pm–8:30pm, Sun Closed",
-    "menuUrl": "https://www.owadasushi.com/menu/",
-    "priceRange": "$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "sashimi",
-      "omakase",
-      "sake",
-      "dinner",
-      "date night",
-      "upscale"
-    ]
-  },
-  {
-    "id": "ChIJxTysJQChj4AROX2Cxd9DuKA",
-    "formattedAddress": "39 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5128221,
-      "longitude": -122.26619429999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=11581081070153661753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.paiksnoodleus.com/",
-    "displayName": {
-      "text": "Paik's Noodle 홍콩반점 - San Carlos",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Paiks Noodle Small.jpeg",
-    "phone": "(650) 595-9292",
-    "description": "Grown to over 300 locations worldwide since starting in Seoul 2006.",
-    "hours": "Mon–Sun 11am–2pm, 4:30pm–8:30pm",
-    "menuUrl": "https://www.doordash.com/store/paik's-noodle-san-carlos-1532278/",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "hong kong style",
-      "noodles",
-      "wonton",
-      "congee",
-      "casual",
-      "quick",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJtVlMxBeij4ARW1R2aJ91IMI",
-    "formattedAddress": "1179 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4992051,
-      "longitude": -122.25224340000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=13988309770125595739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.pazzosancarlos.com/",
-    "displayName": {
-      "text": "Pazzo",
-      "languageCode": "en"
-    },
-    "cuisine": "Italian",
-    "phone": "(650) 591-1075",
-    "description": "New Haven style wood-fired pizzas and handmade pastas from Gambardella's owner.",
-    "hours": "Mon–Mon Closed, Tue–Sat 4pm–9pm, Sun–Sun Closed",
-    "menuUrl": "https://pazzosancarlos.com/menu/",
-    "priceRange": "$$",
-    "photoUrl": "images/restaurant-photos/san-carlos/Pazzo Small.jpeg",
-    "keywords": [
-      "italian",
-      "pasta",
-      "pizza",
-      "wine",
-      "casual",
-      "dinner",
-      "family friendly"
-    ]
-  },
-  {
-    "id": "ChIJqy9n7AOij4ARTLAjf4-3mtk",
-    "formattedAddress": "1065 Holly St #A, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.509140099999996,
-      "longitude": -122.2607405
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=15680046879585054796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "",
-    "displayName": {
-      "text": "Pho Vinh Vietnamese Restaurant",
-      "languageCode": "en"
-    },
-    "cuisine": "Vietnamese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Pho Vinh Small.jpeg",
-    "phone": "(650) 637-9238",
-    "hours": "Mon–Sat 10am–3pm, 4:30pm–8:30pm, Sun Closed",
-    "menuUrl": "https://www.yelp.com/biz/pho-vinh-san-carlos-3",
-    "priceRange": "$",
-    "keywords": [
-      "vietnamese",
-      "pho",
-      "banh mi",
-      "spring rolls",
-      "noodles",
-      "soup",
-      "casual",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJw4Q89byjj4AR9b7UxZSum3I",
-    "formattedAddress": "603 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.50644,
-      "longitude": -122.26086739999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=8258386295711383285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://order.online/business/poked-out-11331213",
-    "displayName": {
-      "text": "Poke'd Out Fish Bar",
-      "languageCode": "en"
-    },
-    "cuisine": "Fusion",
-    "photoUrl": "images/restaurant-photos/san-carlos/Poked out Small.jpeg",
-    "phone": "(650) 596-8031",
-    "description": "Generous portions of fresh fish with unlimited veggie toppings.",
-    "hours": "Mon–Sun 11:30am–8pm",
-    "menuUrl": "https://order.online/store/poke'd-out-san-carlos-24226500",
-    "priceRange": "$$",
-    "keywords": [
-      "poke",
-      "hawaiian",
-      "bowls",
-      "seafood",
-      "healthy",
-      "fresh",
-      "casual",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJdYu1chuij4ARujIuEgcV_jE",
-    "formattedAddress": "777 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.504306899999996,
-      "longitude": -122.25835859999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=3602339872056947386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://pranzisc.com/",
-    "displayName": {
-      "text": "PRANZI",
-      "languageCode": "en"
-    },
-    "cuisine": "Italian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Pranzi Small.jpeg",
-    "phone": "(650) 453-3768",
-    "description": "House-made pastas and refined Northern Italian fare with warm hospitality.",
-    "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 11am–9pm",
-    "menuUrl": "https://pranzisc.com/menus/",
-    "priceRange": "$$",
-    "keywords": [
-      "italian",
-      "pasta",
-      "lunch",
-      "sandwiches",
-      "salads",
-      "casual",
-      "quick",
-      "wine"
-    ]
-  },
-  {
-    "id": "ChIJn0LJ5LCjj4ARqkorME1qfLc",
-    "formattedAddress": "621 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.50625,
-      "longitude": -122.2603982
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=13221559485806103210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.pylossc.com/",
-    "displayName": {
-      "text": "PYLOS",
-      "languageCode": "en"
-    },
-    "cuisine": "Greek/Mediterranean",
-    "photoUrl": "images/restaurant-photos/san-carlos/Pylos Small.jpeg",
-    "phone": "(650) 226-3652",
-    "description": "Everything homemade with top quality items imported from Greece and Turkey.",
-    "hours": "Mon–Wed 11am–9pm, Thu 11am–9:30pm, Fri 11am–10pm, Sat 11am–9:30pm, Sun 11am–9pm",
-    "menuUrl": "https://pylossc.com/san-carlos-pylos-food-menu",
-    "priceRange": "$$",
-    "keywords": [
-      "greek",
-      "mediterranean",
-      "seafood",
-      "mezze",
-      "wine",
-      "dinner",
-      "date night",
-      "upscale"
-    ]
-  },
-  {
-    "id": "ChIJOUSyqRyij4ARQMIUO76RqPQ",
-    "formattedAddress": "680 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.50524,
-      "longitude": -122.25982560000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=17629500987562836544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://rangoonrubysc.com/",
-    "displayName": {
-      "text": "Rangoon Ruby Burmese Cuisine",
-      "languageCode": "en"
-    },
-    "cuisine": "Burmese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Rangoon Ruby Small.jpeg",
-    "phone": "(650) 592-1852",
-    "description": "Authentic Burmese cuisine with signature Tiki cocktails and artfully designed interior.",
-    "hours": "Mon–Sat 11:30am–2:30pm, 4:30pm–8:30pm, Sun 11:30am–2:30pm, 4:30pm–8:00pm",
-    "menuUrl": "https://rangoonrubysc.com/san-carlos-rangoon-ruby-san-carlos-food-menu",
-    "priceRange": "$$",
-    "keywords": [
-      "burmese",
-      "asian",
-      "tea leaf salad",
-      "noodles",
-      "curry",
-      "casual",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJeU6raQOij4ARbWV1LkIFLpU",
-    "formattedAddress": "1125 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.50683360000001,
-      "longitude": -122.26054660000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=10749535142385378669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.redhotchillipepperca.com/",
-    "displayName": {
-      "text": "Red Hot Chilli Pepper",
-      "languageCode": "en"
-    },
-    "cuisine": "Fusion",
-    "photoUrl": "images/restaurant-photos/san-carlos/Red Hot Chilli Pepper Small.jpeg",
-    "phone": "(650) 453-3055",
-    "description": "Indian style Chinese food sourced from local vendors and purveyors.",
-    "hours": "Mon–Thu 11:30am–2pm, 5:30pm–9:15pm, Fri 11:30am–2pm, 5:30pm–10:15pm, Sat 11:30am–3pm, 5:30pm–10:15pm, Sun 11:30am–3pm, 5:30pm–9:15pm",
-    "menuUrl": "https://www.redhotchillipepperca.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "fusion",
-      "asian fusion",
-      "spicy",
-      "indian",
-      "chinese",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJrfx9kz2ij4AR60mFS7Addq4",
-    "formattedAddress": "1324 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4982258,
-      "longitude": -122.25002409999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=12571268052869794283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
-    "displayName": {
-      "text": "Round Table Pizza",
-      "languageCode": "en"
-    },
-    "cuisine": "Pizza",
-    "photoUrl": "images/restaurant-photos/san-carlos/Round Table Small.jpeg",
-    "phone": "(650) 591-1998",
-    "description": "Hand rolled dough and proprietary three-cheese blend with toppings to edge.",
-    "hours": "Mon–Thu 10:30am–9pm, Fri 10:30am–10:30pm, Sat 11am–10:30pm, Sun 11am–9pm",
-    "menuUrl": "https://ordering.roundtablepizza.com/Site/rtsancarlos",
-    "priceRange": "$$",
-    "keywords": [
-      "pizza",
-      "chain",
-      "family friendly",
-      "delivery",
-      "wings",
-      "salad bar",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJXe3tQgOij4ARyMcZtpQIkXY",
-    "formattedAddress": "1143 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5067422,
-      "longitude": -122.2606677
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=8543619402901866440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://thesaffronrestaurant.com/?utm_source=google",
-    "displayName": {
-      "text": "Saffron",
-      "languageCode": "en"
-    },
-    "cuisine": "Indian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Saffron Small.jpeg",
-    "phone": "(650) 593-4269",
-    "description": "Their daal makhani is slow-cooked for 24 hours daily.",
-    "hours": "Mon–Sun 11:30am–2:30pm, 4pm–9pm",
-    "menuUrl": "https://thesaffronrestaurant.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "indian",
-      "curry",
-      "tandoori",
-      "naan",
-      "biryani",
-      "vegetarian",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJz4xqZhuij4ARUo3IRMYygDo",
-    "formattedAddress": "744 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.504556199999996,
-      "longitude": -122.25904320000001
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=4215425078357691730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.sakurasancarlos.com/",
-    "displayName": {
-      "text": "Sakura San Carlos",
-      "languageCode": "en"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Sakura Small.jpeg",
-    "phone": "(650) 832-1254",
-    "description": "Offers hibachi or intimate dining meal experience with teppanyaki.",
-    "hours": "Mon–Thu 11am–8:30pm, Fri 11am–9:30pm, Sat 12pm–9:30pm, Sun 12pm–8:30pm",
-    "menuUrl": "https://sakurasancarlos.com/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "sashimi",
-      "teppanyaki",
-      "hibachi",
-      "sake",
-      "dinner",
-      "date night"
-    ]
-  },
-  {
-    "id": "ChIJpTY2DACjj4ARjPZ9bq2ReiA",
-    "formattedAddress": "677B Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5055403,
-      "longitude": -122.2597601
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=2340343130441512588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://senthainoodlebar.com/",
-    "displayName": {
-      "text": "Sen Thai Noodle",
-      "languageCode": "en"
-    },
-    "cuisine": "Thai",
-    "photoUrl": "images/restaurant-photos/san-carlos/Sen Small.jpeg",
-    "phone": "(650) 622-4919",
-    "hours": "Mon–Sun 11:30am–2:30pm, 4:30pm–9:30pm",
-    "menuUrl": "http://senthainoodlebar.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "thai",
-      "noodles",
-      "pad thai",
-      "soup",
-      "casual",
-      "quick",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJeyn3rRuij4ARrxYM-mXhavo",
-    "formattedAddress": "825 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.503561,
-      "longitude": -122.25730259999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=18044482685116356271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://shikisancarlos.com/",
-    "displayName": {
-      "text": "Shiki Bistro",
-      "languageCode": "en"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Shiki Bistro Small.jpeg",
-    "phone": "(650) 593-2275",
-    "description": "Chefs prepare fresh fish using delectable spices and inspiring techniques.",
-    "hours": "Mon–Thu 11:30am–2:30pm, 4pm–9pm, Fri 11:30am–2:30pm, 4pm–9:30pm, Sat 11:30am–9:30pm, Sun 11:30am–9pm",
-    "menuUrl": "https://shikisancarlos.com/menu-1",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "sashimi",
-      "rolls",
-      "sake",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJbwCMUQOij4AR83_yaWBlV7g",
-    "formattedAddress": "637 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5059313,
-      "longitude": -122.26027699999997
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=13283197090721333235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://siamesekitchen-sancarlos.com/",
-    "displayName": {
-      "text": "Siamese Kitchen",
-      "languageCode": "en"
-    },
-    "cuisine": "Thai",
-    "photoUrl": "images/restaurant-photos/san-carlos/Siamese Kitchen Small.jpeg",
-    "phone": "(650) 592-3277",
-    "description": "Homemade sauce from family recipes passed along for generations.",
-    "hours": "Mon–Sun Closed, Tue–Fri 11am–2:30pm, 5pm–9pm, Sat 12pm–3pm, 5pm–9pm",
-    "menuUrl": "http://siamesekitchen-sancarlos.com/online-ordering",
-    "priceRange": "$$",
-    "keywords": [
-      "thai",
-      "pad thai",
-      "curry",
-      "noodles",
-      "vegetarian",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJN35FowOjj4ARH_LvQZoF--8",
-    "formattedAddress": "366 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5095551,
-      "longitude": -122.26341629999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=17292421354308497951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://smorefood.com/order-online/sirayvah-organic-thai-san-carlos-94070-wtvbju2j?utm_source=gmb&utm_medium=website",
-    "displayName": {
-      "text": "Sirayvah Organic Thai Cuisine",
-      "languageCode": "en"
-    },
-    "cuisine": "Thai",
-    "photoUrl": "images/restaurant-photos/san-carlos/Sirayvah Thai Small.jpeg",
-    "phone": "(650) 637-1500",
-    "description": "Fresh organic Thai dishes using free-range chicken and homegrown spices.",
-    "hours": "Mon–Sat 5pm–8:45pm, Sun Closed",
-    "menuUrl": "https://www.sirayvahorganicthaica.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "thai",
-      "organic",
-      "pad thai",
-      "curry",
-      "vegetarian",
-      "vegan",
-      "healthy",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJn6yuqwmij4ARrdscqJxK_II",
-    "displayName": {
-      "text": "Sky Kitchen",
-      "languageCode": "en"
-    },
-    "formattedAddress": "620 Airport Way, San Carlos, CA 94070, USA",
-    "googleMapsUri": "https://maps.google.com/?cid=9438500955757534125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "",
-    "location": {},
-    "cuisine": "Other",
-    "phone": "(650) 595-0464",
-    "hours": "Mon–Thu 7am–2pm, Fri–Sun 7am–3pm",
-    "priceRange": "$",
-    "description": "Watch planes take off and land while eating breakfast.",
-    "photoUrl": "images/restaurant-photos/san-carlos/Sky Kitchen Small.jpeg",
-    "keywords": [
-      "breakfast",
-      "brunch",
-      "diner",
-      "omelettes",
-      "pancakes",
-      "corned beef hash",
-      "airport",
-      "outdoor seating",
-      "family friendly",
-      "american"
-    ]
-  },
-  {
-    "id": "ChIJoeNZl8ijj4ARwlavdRd5gTY",
-    "formattedAddress": "1541 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.495782999999996,
-      "longitude": -122.24797009999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=3927553491709417154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://sokosokosc.com/",
-    "displayName": {
-      "text": "Soko Soko Japanese Cuisine",
-      "languageCode": "en"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Soko Soko Small.jpeg",
-    "phone": "(650) 674-6019",
-    "description": "Traditional Japanese flavors combined with a modern twist here.",
-    "hours": "Mon–Fri 11:30am–2:30pm, 4:30pm–9pm, Sat–Sun 11am–2:30pm, 4:30pm–9:30pm (Fri), 9pm (Sun)",
-    "menuUrl": "https://pos.chowbus.com/online-ordering/store/soko-soko-japanese-cuisine/23809",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "sashimi",
-      "rolls",
-      "sake",
-      "dinner",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJDcNwchuij4ARneNiXjDR-jc",
-    "formattedAddress": "769 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.504402999999996,
-      "longitude": -122.2584708
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=4033766421935874973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://spassosc.com/",
-    "displayName": {
-      "text": "Spasso",
-      "languageCode": "en"
-    },
-    "cuisine": "Italian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Spasso Small.jpeg",
-    "phone": "(650) 592-5886",
-    "description": "Italian influenced California cuisine with an extensive wine list.",
-    "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
-    "menuUrl": "https://spassosc.com/menus",
-    "priceRange": "$$",
-    "keywords": [
-      "italian",
-      "pasta",
-      "pizza",
-      "wine",
-      "casual",
-      "dinner",
-      "family friendly"
-    ]
-  },
-  {
-    "id": "ChIJORNJ9R6jj4ARifDgwd9uP78",
-    "formattedAddress": "765 Old County Rd unit B, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.50570580000001,
-      "longitude": -122.2568367
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=13780855292086513801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://spilltheteaca.com/",
-    "displayName": {
-      "text": "Spill the Tea BBQ SC",
-      "languageCode": "en"
-    },
-    "cuisine": "BBQ",
-    "phone": "(650) 400-7508",
-    "description": "Authentic smoked BBQ with creative options like brisket and crepes.",
-    "hours": "Mon–Fri 9am–6pm, Sat 9am–5pm, Sun Closed",
-    "menuUrl": "https://postmates.com/store/spill-the-tea-bbq-sc/phyORjaERg22wncQzyJkMg",
-    "priceRange": "$$",
-    "photoUrl": "images/restaurant-photos/san-carlos/Spill the Tea Small.jpeg",
-    "keywords": [
-      "bbq",
-      "barbecue",
-      "ribs",
-      "brisket",
-      "pulled pork",
-      "smoked meat",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJT_Z7eRyjj4ARYHsoLEJpiNk",
-    "formattedAddress": "773 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5043568,
-      "longitude": -122.2584081
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=15674894235992619872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.stampbarandgrill.com/",
-    "displayName": {
-      "text": "Stamp Bar & Grill",
-      "languageCode": "en"
-    },
-    "cuisine": "Fusion",
-    "photoUrl": "images/restaurant-photos/san-carlos/Stamp Small.jpeg",
-    "phone": "(650) 226-5164",
-    "description": "Modern American classics alongside globally inspired flavors from Tokyo to Tuscany.",
-    "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 11am–9pm",
-    "menuUrl": "https://www.stampbarandgrill.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "fusion",
-      "american",
-      "burgers",
-      "bar",
-      "craft beer",
-      "casual",
-      "dinner",
-      "outdoor seating"
-    ]
-  },
-  {
-    "id": "ChIJgURqeoKjj4ARBo6ogQa5jek",
-    "formattedAddress": "648 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.506253799999996,
-      "longitude": -122.2595176
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=16829310820149661190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.sunshinehkcafe.com/",
-    "displayName": {
-      "text": "Sunshine HK Cafe",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Sunhine HK Cafe Small.jpeg",
-    "phone": "(650) 590-4821",
-    "description": "Signature homemade quality Hong Kong dishes with convenient takeout option.",
-    "hours": "Mon 11am–8pm, Tue Closed, Wed–Sat 11am–8pm, Sun 11am–8pm",
-    "menuUrl": "https://order.toasttab.com/online/sunshine-hk-cafe-648-el-camino-real-jtksu",
-    "priceRange": "$$",
-    "keywords": [
-      "hong kong",
-      "chinese",
-      "milk tea",
-      "toast",
-      "egg waffles",
-      "dim sum",
-      "casual",
-      "breakfast",
-      "lunch"
-    ]
-  },
-  {
-    "id": "ChIJK55JIwCjj4ARCrtxfxGd6v0",
-    "formattedAddress": "635 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.506126,
-      "longitude": -122.2601823
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=18296609134624226058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://order.toasttab.com/online/sunshine-hk-cafe-express-new-concept-635-laurel-street",
-    "displayName": {
-      "text": "Sunshine HK Cafe Express",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Sunshine HK Cafe Express Small.jpeg",
-    "phone": "(650) 250-7554",
-    "description": "Quick Hong Kong to-go meals featuring signature homemade quality dishes.",
-    "hours": "Mon 11am–2:30pm, 4pm–7pm, Tue Closed, Wed 11am–2:30pm, 4pm–7pm, Thu 11am–2:30pm, 4pm–7pm, Fri 11am–2:30pm, 4pm–8pm, Sat 11am–2:30pm, 4pm–8pm, Sun 11am–3pm",
-    "menuUrl": "https://order.toasttab.com/online/sunshine-hk-cafe-express-new-concept-635-laurel-street",
-    "priceRange": "$$",
-    "keywords": [
-      "hong kong",
-      "chinese",
-      "milk tea",
-      "toast",
-      "egg waffles",
-      "halal",
-      "casual",
-      "quick"
-    ]
-  },
-  {
-    "id": "ChIJAQBs1heij4AR9_db6Wz7QSs",
-    "formattedAddress": "920 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5026879,
-      "longitude": -122.25526359999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=3117048862307252215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://sushikazoku.kwickmenu.com/",
-    "displayName": {
-      "text": "Sushi Kazoku",
-      "languageCode": "en"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Sushi Kazoku Small.jpeg",
-    "phone": "(650) 508-8800",
-    "description": "They craft delicious dishes with fresh ingredients blending tradition and creativity.",
-    "hours": "Sun–Mon 11am–2pm, 4:30pm–9pm, Tue Closed, Wed–Thu 11am–2pm, 4:30pm–9pm, Fri–Sat 11am–2pm, 4:30pm–9:30pm",
-    "menuUrl": "https://sushikazoku.kwickmenu.com/",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "sashimi",
-      "rolls",
-      "sake",
-      "dinner",
-      "family friendly"
-    ]
-  },
-  {
-    "id": "ChIJF6b4MACjj4ARngisbbAkNWM",
-    "formattedAddress": "741 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5048295,
-      "longitude": -122.25895979999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=7148660323693365406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://takumisancarlos.com/",
-    "displayName": {
-      "text": "Takumi",
-      "languageCode": "en"
-    },
-    "cuisine": "Japanese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Takumi Small.jpeg",
-    "phone": "(650) 508-8888",
-    "description": "Expertly crafted sushi rolls with fresh ingredients and authentic Japanese flavors.",
-    "hours": "Mon–Thu 4:30pm–9pm, Fri–Sat 4:30pm–9:30pm, Sun 4:30pm–9pm",
-    "menuUrl": "https://www.takumisancarlos.com/menu/",
-    "priceRange": "$$",
-    "keywords": [
-      "japanese",
-      "sushi",
-      "sashimi",
-      "omakase",
-      "sake",
-      "dinner",
-      "date night",
-      "upscale"
-    ]
-  },
-  {
-    "id": "ChIJ_TOUEVOjj4AR4YPkvp3namU",
-    "formattedAddress": "1152 San Carlos Ave, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.507003,
-      "longitude": -122.26101079999998
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=7307908010060579809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.mytamari.com/",
-    "displayName": {
-      "text": "Tamari Authentic Georgian Cuisine",
-      "languageCode": "en"
-    },
-    "cuisine": "Georgian",
-    "photoUrl": "images/restaurant-photos/san-carlos/Tamari Authentic Georgian Cuisine Small.jpeg",
-    "phone": "(650) 232-7877",
-    "description": "They use genuine Georgian cheeses and offer qvevri Georgian wines.",
-    "hours": "Mon–Tue Closed, Wed–Thu 5pm–9pm, Fri–Sun 4pm–9pm",
-    "menuUrl": "https://mytamari.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "georgian",
-      "eastern european",
-      "khachapuri",
-      "khinkali",
-      "dumplings",
-      "wine",
-      "dinner",
-      "unique"
-    ]
-  },
-  {
-    "id": "ChIJYeRadBuij4ARuEPXHiFSDAM",
-    "formattedAddress": "782 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5041059,
-      "longitude": -122.25851779999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=219640784039134136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.thecaskwinebar.com/",
-    "displayName": {
-      "text": "The Cask Wine Bar",
-      "languageCode": "en"
-    },
-    "cuisine": "Wine Bar",
-    "photoUrl": "images/restaurant-photos/san-carlos/Cask Small.jpeg",
-    "phone": "(650) 610-0438",
-    "description": "Wine flights and three-course lunch specials with house wine pairings.",
-    "hours": "Mon–Sat 11am–10pm, Sun 11am–9pm",
-    "menuUrl": "https://www.thecaskwinebar.com/menus/",
-    "priceRange": "$$",
-    "keywords": [
-      "wine bar",
-      "wine",
-      "cheese",
-      "charcuterie",
-      "small plates",
-      "date night",
-      "casual"
-    ]
-  },
-  {
-    "id": "ChIJH22dQ82jj4ARP2e4TP5SWug",
-    "formattedAddress": "1295 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4982706,
-      "longitude": -122.2511313
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=16742785816865564479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://thegoodlifesc.com/",
-    "displayName": {
-      "text": "The Good Life Sandwich Co.",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/The Good Life Small.jpeg",
-    "phone": "(650) 622-4676",
-    "description": "Fresh-baked bread, hand-carved meats, and no seed oils used.",
-    "hours": "Mon–Sun 10am–3pm",
-    "menuUrl": "https://thegoodlifesc.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "sandwiches",
-      "deli",
-      "lunch",
-      "quick",
-      "casual",
-      "subs",
-      "wraps"
-    ]
-  },
-  {
-    "id": "ChIJdZoIwf-hj4ARpQPLV1DzsGM",
-    "formattedAddress": "66 El Camino Real, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.512035000000004,
-      "longitude": -122.2671181
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=7183508932051796901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "",
-    "displayName": {
-      "text": "The Omelette House",
-      "languageCode": "en"
-    },
-    "cuisine": "Breakfast",
-    "photoUrl": "images/restaurant-photos/san-carlos/The Omelette House Small.jpeg",
-    "phone": "(650) 593-4773",
-    "description": "Renowned for its wide variety of omelettes and classic breakfast offerings.",
-    "hours": "Mon–Sun 7am–2pm",
-    "menuUrl": "https://www.zmenu.com/the-omelette-house-san-carlos-online-menu/",
-    "priceRange": "$",
-    "keywords": [
-      "breakfast",
-      "brunch",
-      "omelettes",
-      "eggs",
-      "pancakes",
-      "coffee",
-      "casual",
-      "family friendly"
-    ]
-  },
-  {
-    "id": "ChIJm47x8hmij4ARyiM10cY4Yno",
-    "formattedAddress": "963 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5018829,
-      "longitude": -122.2553303
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=8818673446909453258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.refugesc.com/",
-    "displayName": {
-      "text": "The Refuge",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/The Refuge Small.jpeg",
-    "phone": "(650) 598-9813",
-    "description": "Hand-carved navel pastrami and most Belgian ales on draught in Bay Area.",
-    "hours": "Mon–Fri 11:30am–2:30pm, 5pm–9pm, Sat 11:30am–9pm, Sun 11:30am–8pm",
-    "menuUrl": "https://www.refugesc.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "american",
-      "burgers",
-      "sandwiches",
-      "craft beer",
-      "casual",
-      "lunch",
-      "dinner",
-      "comfort food"
-    ]
-  },
-  {
-    "id": "ChIJYXR6Zhuij4ARmUVUzx-mQwk",
-    "formattedAddress": "716 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5048544,
-      "longitude": -122.259458
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=667559825333568921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://townsc.com/",
-    "displayName": {
-      "text": "Town",
-      "languageCode": "en"
-    },
-    "cuisine": "American",
-    "photoUrl": "images/restaurant-photos/san-carlos/Town Small.jpeg",
-    "phone": "(650) 595-3003",
-    "description": "Ranch-raised cattle exclusively for the restaurant with handcrafted cocktails.",
-    "hours": "Mon–Thu 11:30am–9pm, Fri 11:30am–10pm, Sat 10am–10pm, Sun 10am–9pm",
-    "menuUrl": "https://www.townsc.com/menus",
-    "priceRange": "$$$",
-    "keywords": [
-      "american",
-      "new american",
-      "burgers",
-      "brunch",
-      "dinner",
-      "date night",
-      "craft beer",
-      "outdoor seating"
-    ]
-  },
-  {
-    "id": "ChIJDWMbdRuij4ARda-i0Gmyi6Q",
-    "formattedAddress": "788 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.5039636,
-      "longitude": -122.25835749999999
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=11856766611524595573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "http://www.westparkbistro.com/",
-    "displayName": {
-      "text": "West Park Bistro",
-      "languageCode": "en"
-    },
-    "cuisine": "Fusion",
-    "photoUrl": "images/restaurant-photos/san-carlos/West Park Small.jpeg",
-    "phone": "(650) 453-3313",
-    "description": "Award-winning wine collection complements fresh, locally sourced contemporary American cuisine.",
-    "hours": "Mon–Thu 11:30am–3pm, 4:30pm–9pm, Fri–Sat 10:30am–3pm, 4:30pm–10pm, Sun 10:30am–3pm, 4:30pm–9pm",
-    "menuUrl": "https://westparkbistro.com/san-carlos-west-park-bistro-food-menu",
-    "priceRange": "$$",
-    "keywords": [
-      "fusion",
-      "american",
-      "casual",
-      "brunch",
-      "dinner",
-      "neighborhood",
-      "wine"
-    ]
-  },
-  {
-    "id": "ChIJsWK0pIOjj4ARs8nsqcIwXho",
-    "formattedAddress": "1109 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.4999584,
-      "longitude": -122.2530811
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=1900009705429584307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "",
-    "displayName": {
-      "text": "William B.B.Q.",
-      "languageCode": "en"
-    },
-    "cuisine": "BBQ",
-    "photoUrl": "images/restaurant-photos/san-carlos/William BBQ Small.jpeg",
-    "phone": "(650) 595-8880",
-    "description": "Hawaiian-style barbecue featuring tender Wagyu beef and generous shareable portions.",
-    "hours": "Mon–Sun 11am–8:30pm",
-    "menuUrl": "https://www.williambbqrestaurant.com/mkda1opc/restaurant/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "bbq",
-      "barbecue",
-      "ribs",
-      "brisket",
-      "pulled pork",
-      "smoked meat",
-      "casual",
-      "lunch",
-      "dinner"
-    ]
-  },
-  {
-    "id": "ChIJy4OMMxqij4AREgSnVRom_qQ",
-    "formattedAddress": "885 Laurel St, San Carlos, CA 94070, USA",
-    "location": {
-      "latitude": 37.50287,
-      "longitude": -122.2566507
-    },
-    "googleMapsUri": "https://maps.google.com/?cid=11888981960852702226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "websiteUri": "https://www.yansgarden.com/",
-    "displayName": {
-      "text": "Yan's Garden",
-      "languageCode": "en"
-    },
-    "cuisine": "Chinese",
-    "photoUrl": "images/restaurant-photos/san-carlos/Yans Garden Small.jpeg",
-    "phone": "(650) 593-9777",
-    "description": "Frequently adds new dishes while maintaining a warm neighborhood atmosphere.",
-    "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 11:30am–9pm",
-    "menuUrl": "http://www.yansgardensancarlos.com/menu",
-    "priceRange": "$$",
-    "keywords": [
-      "chinese",
-      "cantonese",
-      "dim sum",
-      "seafood",
-      "family style",
-      "noodles",
-      "casual"
-    ]
-  }
-]
+    {
+      "id": "ChIJL0xAMxqij4ARw_KvL0mNHDg",
+      "formattedAddress": "888 Laurel St #3951, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5026266,
+        "longitude": -122.25681460000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4043261910944051907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.888ristoranteitaliano.com/?y_source=1_MTQ3MjMwNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "displayName": {
+        "text": "888 Ristorante Italiano",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "phone": "(650) 591-0920",
+      "description": "In-house made menu changes seasonally with authentic Italian family recipes.",
+      "photoUrl": "images/restaurant-photos/san-carlos/888 Ristorante Italiano Small.jpeg",
+      "hours": "Mon 5pm–8pm, Tue–Thu 11am–1pm, 5pm–8pm, Fri 11am–1pm, 5pm–9pm, Sat 5pm–9pm, Sun Closed",
+      "menuUrl": "https://888ristoranteitaliano.com/our-dinner-menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "pizza",
+        "risotto",
+        "wine",
+        "date night",
+        "dinner",
+        "romantic"
+      ]
+    },
+    {
+      "id": "ChIJ__9w8hmij4ARDPrtPmyz7jA",
+      "formattedAddress": "971 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5017664,
+        "longitude": -122.25521129999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3525952835771300364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.alearsenal.com/",
+      "displayName": {
+        "text": "Ale Arsenal",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Ale Arsenal Small.jpeg",
+      "phone": "(650) 594-2337",
+      "description": "Features 24 rotating taps and two nitrogen dispensed beer taps.",
+      "hours": "Mon 3pm–10pm, Tue–Thu 3pm–11pm, Fri–Sat 1pm–12am, Sun 1pm–11pm",
+      "menuUrl": "http://alearsenal.com/beermenu.htm",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "pub",
+        "bar",
+        "craft beer",
+        "burgers",
+        "sandwiches",
+        "sports bar",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJzSUWDK-jj4ARz8oUeyheR-4",
+      "formattedAddress": "1653 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4947313,
+        "longitude": -122.2467551
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17169795632329968335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amazingwok-sancarlos.com/",
+      "displayName": {
+        "text": "Amazing Wok",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Amazing Wok Small.jpeg",
+      "phone": "(650) 595-2031",
+      "description": "Family-run restaurant crafting authentic Chinese dishes with quality ingredients.",
+      "hours": "Mon–Sun 11am–9pm",
+      "menuUrl": "https://www.amazingwok-sancarlos.com/2wvwl8mc/amazing-wok-san-carlos-94070/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "wok",
+        "stir fry",
+        "noodles",
+        "fried rice",
+        "takeout",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJA4uzEgCjj4ARiY62sWiquwE",
+      "formattedAddress": "749 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5047016,
+        "longitude": -122.25872000000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=124880781317672585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://bistromitte.com/",
+      "displayName": {
+        "text": "Bistro Mitte",
+        "languageCode": "en"
+      },
+      "cuisine": "German/Austrian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Bistro Mitte Small.jpeg",
+      "phone": "(650) 412-4832",
+      "description": "Authentic German schnitzels served with extensive German beer selection.",
+      "hours": "Mon–Thu 11am–2:30pm, 4:30pm–9pm, Fri 11am–2:30pm, 4:30pm–10pm, Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://bistromitte.com/san-carlos-redwood-city-bistro-mitte-food-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "german",
+        "austrian",
+        "schnitzel",
+        "sausage",
+        "bratwurst",
+        "beer",
+        "european",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJD7eyOAOij4ARU531nDef78Y",
+      "formattedAddress": "1201 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5063494,
+        "longitude": -122.26117749999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14334851200148938067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://bluelinepizza.com/",
+      "displayName": {
+        "text": "Blue Line Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-carlos/Blue Line Pizza Small.jpeg",
+      "phone": "(650) 610-0200",
+      "description": "Award-winning cornmeal crust deep dish and NY thin crust pizzas.",
+      "hours": "Sun–Thu 11:30am–8:30pm, Fri–Sat 11:30am–9pm",
+      "menuUrl": "https://bluelinepizza.com/menu-2/",
+      "priceRange": "$",
+      "keywords": [
+        "pizza",
+        "new york style",
+        "casual",
+        "delivery",
+        "family friendly",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJAQ4Edw-ij4ARwuGwpNeQ6_4",
+      "formattedAddress": "815 Cherry Ln, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5103332,
+        "longitude": -122.2530538
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18368934761016123842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.blueoakbrewing.com/",
+      "displayName": {
+        "text": "Blue Oak Brewing Company",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "phone": "(415) 273-9676",
+      "description": "Microbrewery focusing on true-to-style Belgians, lagers and flavorful ales.",
+      "hours": "Mon–Tue 2pm–8pm, Wed–Thu 2pm–10pm, Fri 1pm–10pm, Sat 12pm–10pm, Sun 12pm–8pm",
+      "menuUrl": "https://www.blueoakbrewing.com/beer",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/san-carlos/Blue Oak Brewing2 Small.jpeg",
+      "keywords": [
+        "brewery",
+        "craft beer",
+        "american",
+        "burgers",
+        "pub food",
+        "taproom",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJoYyTMRqij4ARfm7W1012IOM",
+      "formattedAddress": "895 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5028198,
+        "longitude": -122.25642489999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16366211122570096254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.broilerexpresssc.com/",
+      "displayName": {
+        "text": "Broiler Express",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-carlos/Broiler Express Small.jpeg",
+      "phone": "(650) 593-2222",
+      "description": "Charbroiled burgers, hearty breakfast, and diverse Greek-Mexican-American offerings.",
+      "hours": "Mon–Fri 6am–9pm, Sat–Sun 7am–9pm",
+      "menuUrl": "https://www.yelp.com/menu/broiler-express-san-carlos",
+      "priceRange": "$$",
+      "keywords": [
+        "greek",
+        "mediterranean",
+        "gyros",
+        "falafel",
+        "kebab",
+        "chicken",
+        "quick",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJ_aEGkgGij4ARnpAP3ZsfIEY",
+      "formattedAddress": "344 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5097661,
+        "longitude": -122.26366999999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5053073536198873246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.creolabistro.com/",
+      "displayName": {
+        "text": "CreoLa Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Creola Small.jpeg",
+      "phone": "(650) 654-0882",
+      "description": "House-made beignets and slow-simmered gumbos celebrate authentic New Orleans cuisine.",
+      "hours": "Mon Closed, Tue–Wed 5pm–9pm, Thu–Sat 11am–2pm & 5pm–9pm, Sun 11am–2pm & 5pm–8pm",
+      "menuUrl": "https://creola-bistro.square.site/",
+      "priceRange": "$$",
+      "keywords": [
+        "creole",
+        "cajun",
+        "southern",
+        "jambalaya",
+        "gumbo",
+        "shrimp",
+        "soul food",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJq0lIbwOij4ARYpsTKk7YkdY",
+      "formattedAddress": "1107 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5069149,
+        "longitude": -122.2604396
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15461376825964600162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.deliziesc.com/",
+      "displayName": {
+        "text": "Delizie Cucina & Vino",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Delizie Small.jpeg",
+      "phone": "(650) 486-1539",
+      "description": "Authentic Calabrian cuisine featuring homemade pastas and regional Italian dishes.",
+      "hours": "Mon–Thu 5:00pm–9:00pm, Fri–Sat 4:30pm–9:00pm, Sun 5:00pm–9:00pm",
+      "menuUrl": "https://www.deliziesc.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "seafood",
+        "pasta",
+        "wine",
+        "date night",
+        "dinner",
+        "romantic",
+        "upscale"
+      ]
+    },
+    {
+      "id": "ChIJtb6FyVKfj4AR9_Nb7TZX89Y",
+      "formattedAddress": "935 Washington St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4985,
+        "longitude": -122.24443249999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15488819436879344631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.devilscanyon.com/",
+      "displayName": {
+        "text": "Devil's Canyon Brewing Company",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Devils Canyon Small.jpeg",
+      "phone": "(650) 592-2739",
+      "description": "Family-friendly beer garden with live music and food trucks every Friday.",
+      "hours": "Mon–Thu Closed, Fri 4pm–10pm, Sat–Sun Closed",
+      "menuUrl": "https://www.yelp.com/menu/devils-canyon-brewing-company-san-carlos-2",
+      "priceRange": "$$",
+      "keywords": [
+        "brewery",
+        "craft beer",
+        "taproom",
+        "american",
+        "pub food",
+        "casual",
+        "tours"
+      ]
+    },
+    {
+      "id": "ChIJcWwqtyKjj4AR66v1iaPq7Os",
+      "formattedAddress": "1201 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.498745299999996,
+        "longitude": -122.25162979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17000220681531927531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.cliqbux.com/store/dim-sum-place",
+      "displayName": {
+        "text": "Dim Sum Place",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Dim Sum Place Small.jpeg",
+      "phone": "(650) 622-4817",
+      "description": "Every dish is hand-crafted by experienced dim sum masters.",
+      "hours": "Mon 11am–7pm, Tue Closed, Wed–Sat 11am–2:30pm, 4:30pm–7pm, Sun 11am–3:30pm",
+      "menuUrl": "https://www.yelp.com/biz/dim-sum-place-san-carlos",
+      "priceRange": "$",
+      "keywords": [
+        "chinese",
+        "dim sum",
+        "cantonese",
+        "dumplings",
+        "bao",
+        "brunch",
+        "family style",
+        "weekend"
+      ]
+    },
+    {
+      "id": "ChIJ2VG1i0Cij4ARD2GpO2HXf3E",
+      "formattedAddress": "1697 Industrial Rd, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.498965999999996,
+        "longitude": -122.24194999999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8178492260940865807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.domenicowinery.com/",
+      "displayName": {
+        "text": "Domenico Winery",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/san-carlos/Domenico Winery Small.jpeg",
+      "phone": "(650) 593-2335",
+      "description": "Urban winery offering custom wine blending and stone hearth pizzas.",
+      "hours": "Mon–Tue Closed, Wed–Thu 5pm–9pm, Fri 5pm–9pm, Sat 11am–9pm, Sun 11am–6pm",
+      "menuUrl": "https://www.opentable.com/r/domenico-winery-and-osteria-san-carlos",
+      "priceRange": "$$",
+      "keywords": [
+        "wine bar",
+        "winery",
+        "tasting",
+        "date night",
+        "wine tasting",
+        "local wine",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJreyIpGWjj4ARvsw91mkBEn0",
+      "formattedAddress": "617 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5062529,
+        "longitude": -122.2606454
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9012267358399351998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://doppiozerogroup.com/doppiozerosancarlos?utm_source=google",
+      "displayName": {
+        "text": "Doppio Zero San Carlos",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-carlos/Doppio Zero Small.jpeg",
+      "phone": "(650) 596-5152",
+      "description": "Neapolitan pizza certified by Vera Pizza Napoletana from wood-fired oven.",
+      "hours": "Mon–Thu 11:00am–2:30pm, 4:30pm–9:30pm, Fri 11:00am–2:30pm, 4:30pm–10:00pm, Sat 11:00am–10:00pm, Sun 11:00am–9:30pm",
+      "menuUrl": "https://order.toasttab.com/online/doppio-zero-san-carlos-617-laurel-avenue",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "neapolitan",
+        "wood fired",
+        "italian",
+        "pasta",
+        "casual",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJxdXENyKjj4ARbOiBdmpE9-E",
+      "formattedAddress": "1101 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5070239,
+        "longitude": -122.26025179999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16282558201826764908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://drakessancarlos.com/",
+      "displayName": {
+        "text": "Drakes",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Drakes Small.jpeg",
+      "phone": "(650) 597-5080",
+      "description": "Good Eating, Good Living with New American cuisine and cocktails.",
+      "hours": "Mon 9am–2pm, Tue–Fri 9am–2pm & 4pm–9pm, Sat–Sun 8:30am–3pm & 4pm–9pm",
+      "menuUrl": "https://drakessancarlos.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "burgers",
+        "craft beer",
+        "pub",
+        "casual",
+        "lunch",
+        "dinner",
+        "sports bar"
+      ]
+    },
+    {
+      "id": "ChIJf4wGMwCjj4ARLGEqAV2CS6Y",
+      "formattedAddress": "1195 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4990488,
+        "longitude": -122.2519844
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11982814569512460588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.dumplingdough.com/",
+      "displayName": {
+        "text": "Dumpling & Dough",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Dumpling & Dough Small.jpeg",
+      "phone": "(650) 264-8095",
+      "description": "Handcrafted dumplings made fresh daily with homemade noodles and broth.",
+      "hours": "Mon–Sun 11am–9pm",
+      "menuUrl": "https://www.dumplingdough.com/y1cxlnsx/dumpling-and-dough-san-carlos-94070/order-online",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "dumplings",
+        "potstickers",
+        "soup dumplings",
+        "noodles",
+        "casual",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJfw5_xwOij4AR7uUF5ABJ8rA",
+      "formattedAddress": "1100 Holly St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.508524,
+        "longitude": -122.26210949999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12750333763213714926&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://elcharritotaqueriasancarlos.com/",
+      "displayName": {
+        "text": "El Charrito",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-carlos/El charrito Small.jpeg",
+      "phone": "(650) 654-1400",
+      "description": "They care about fresh ingredients in unpretentious dishes.",
+      "hours": "Mon–Sun 8:00am–8:00pm",
+      "menuUrl": "https://www.yelp.com/menu/el-charrito-san-carlos",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican",
+        "tacos",
+        "burritos",
+        "enchiladas",
+        "casual",
+        "lunch",
+        "dinner",
+        "margaritas"
+      ]
+    },
+    {
+      "id": "ChIJi_Cg6gOij4ARmaF1FIKcoX0",
+      "formattedAddress": "1065 Holly St D, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5091805,
+        "longitude": -122.26065330000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9052688808494342553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://el-maguey-taqueria.cafe-inspector.com/",
+      "displayName": {
+        "text": "El Maguey",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-carlos/El Maguey Small.jpeg",
+      "phone": "(650) 591-3520",
+      "description": "Low prices, excellent and prompt service with free chips and salsas.",
+      "hours": "Mon–Sun 10:00am–8:00pm",
+      "menuUrl": "https://www.allmenus.com/ca/san-carlos/799723-el-maguey-taqueria/menu/",
+      "priceRange": "$",
+      "keywords": [
+        "mexican",
+        "tacos",
+        "burritos",
+        "enchiladas",
+        "margaritas",
+        "casual",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJYf1TUgCjj4ARuJJ5OF4fRUw",
+      "formattedAddress": "727 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.504955599999995,
+        "longitude": -122.2590523
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=5495833409810436792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.eliarestaurants.com/",
+      "displayName": {
+        "text": "Elia",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-carlos/Elia Small.jpeg",
+      "phone": "(650) 674-6000",
+      "description": "Live music weekdays and DJ sets weekends enliven Mediterranean dining.",
+      "hours": "Mon 11am–2pm, 5pm–9pm, Tue–Thu 11am–2:30pm, 5pm–9:30pm, Fri–Sat 10am–10pm, Sun 10am–9:30pm",
+      "menuUrl": "https://www.eliarestaurants.com/menu.html",
+      "priceRange": "$$$",
+      "keywords": [
+        "greek",
+        "mediterranean",
+        "seafood",
+        "mezze",
+        "lamb",
+        "hummus",
+        "dinner",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJWQuz7QOij4ARoKX2isiAOPI",
+      "formattedAddress": "1065 Holly St D, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5092827,
+        "longitude": -122.2604785
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17453841954687591840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://emelinasrestaurant.com/",
+      "displayName": {
+        "text": "Emelinas Peruvian Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Peruvian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Emelina Peruvian Restaurant Small.jpeg",
+      "phone": "(650) 591-1133",
+      "description": "Specializes in northern Peruvian seafood with first-rate quality ingredients.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–8pm",
+      "menuUrl": "https://www.beyondmenu.com/34659/san-carlos/emelina-s-peruvian-restaurant-san-carlos-94070.aspx",
+      "priceRange": "$$",
+      "keywords": [
+        "peruvian",
+        "ceviche",
+        "lomo saltado",
+        "seafood",
+        "chicken",
+        "casual",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJ56KZvzGjj4ARwSYAU6xKEco",
+      "formattedAddress": "1105 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5068956,
+        "longitude": -122.26032629999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14560501174252873409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.esnafrestaurant.com/",
+      "displayName": {
+        "text": "Esnaf",
+        "languageCode": "en"
+      },
+      "cuisine": "Turkish",
+      "photoUrl": "images/restaurant-photos/san-carlos/Esnaf Small.jpeg",
+      "phone": "(650) 394-0244",
+      "description": "Regional Turkish flavors and recipes passed down through generations.",
+      "hours": "Mon–Thu 11:30am–2:30pm, 4:30pm–9pm, Fri 11:30am–2:30pm, 4:30pm–9:30pm, Sat–Sun 10am–3pm, 4:30pm–9:30pm (Sat), 4:30pm–9pm (Sun)",
+      "menuUrl": "http://www.esnafrestaurant.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "turkish",
+        "kebab",
+        "mediterranean",
+        "lamb",
+        "pita",
+        "halal",
+        "dinner",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJA947woyjj4AR2-NZGET4Clg",
+      "formattedAddress": "1135 Industrial Rd, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5021201,
+        "longitude": -122.24635210000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6344155996454773723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.falafeltazah.com/",
+      "displayName": {
+        "text": "Falafel Tazah San Carlos",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/san-carlos/Falafel Tazah Small.jpeg",
+      "phone": "(650) 453-3979",
+      "description": "Fresh Halal meat with locally sourced produce made fast.",
+      "hours": "Mon–Sat 11am–8pm, Sun 11am–7pm",
+      "menuUrl": "https://falafeltazah.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "middle eastern",
+        "falafel",
+        "hummus",
+        "pita",
+        "vegetarian",
+        "vegan",
+        "healthy",
+        "quick"
+      ]
+    },
+    {
+      "id": "ChIJaQG4bACjj4ARaeJ-EzZQEsg",
+      "formattedAddress": "751 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5046174,
+        "longitude": -122.25872059999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=14416673550351917673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Grand Bazaar Foods",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-carlos/Grand Bazaar Small.jpeg",
+      "phone": "(650) 412-0356",
+      "hours": "Mon–Sun 8am–9pm",
+      "menuUrl": "https://www.ubereats.com/store/grand-bazaar-grocery&meat-751-laurel-street-san-carlos/wwpPLQKpVFWPEQPFLd3vEw",
+      "keywords": [
+        "turkish",
+        "mediterranean",
+        "grocery",
+        "halal",
+        "baklava",
+        "turkish delight",
+        "coffee",
+        "market"
+      ]
+    },
+    {
+      "id": "ChIJU1-3rRajj4ARoy2qvBDSLV0",
+      "displayName": {
+        "text": "Groovy Goose",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1221 San Carlos Ave a, San Carlos, CA 94070, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6714253588805856675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://groovygoose.coffee/",
+      "location": {},
+      "cuisine": "Cafe/Bakery",
+      "menuUrl": "https://www.yelp.com/biz/groovy-goose-coffee-san-carlos-2",
+      "videoUrl": "https://youtube.com/shorts/2ZjgnV_bzJA?feature=share",
+      "phone": "(650) 486-0522",
+      "hours": "Mon–Sun 7am–5pm",
+      "priceRange": "$$",
+      "description": "Coffee roasted to order and shipped fresh within days.",
+      "photoUrl": "images/restaurant-photos/san-carlos/Groovy Goose Small.jpeg",
+      "keywords": [
+        "cafe",
+        "coffee",
+        "bakery",
+        "pastries",
+        "breakfast",
+        "lunch",
+        "sandwiches",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJ9ykTdt6jj4ARjzw6p5rl778",
+      "formattedAddress": "1070 Holly St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5096681,
+        "longitude": -122.2609713
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13830525433071418511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hakkainigiribar.com/",
+      "displayName": {
+        "text": "Hakkai Nigiri Bar & Tapas",
+        "languageCode": "zh"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Hakkai Small.jpeg",
+      "phone": "(650) 264-8049",
+      "description": "Signature dishes feature Hamachi Carpaccio and Iwana Tataki with fresh seafood.",
+      "hours": "Mon–Thu 11:30am–2:30pm, 5pm–9pm, Fri–Sat 11:30am–2:30pm, 5pm–9:30pm, Sun 11:30am–2:30pm, 5pm–9pm",
+      "menuUrl": "https://www.opentable.com/r/hakkai-nigiri-bar-and-tapas-san-carlos",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "nigiri",
+        "tapas",
+        "sake",
+        "small plates",
+        "dinner",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJZfRLIo6jj4ARKlSXkrgnTaE",
+      "formattedAddress": "722 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5047099,
+        "longitude": -122.25942900000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11622989886999974954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://hapasbrewing.com/",
+      "displayName": {
+        "text": "Hapa’s Brewing Company",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Hapas Brewing Company Small.jpeg",
+      "phone": "(650) 400-1233",
+      "description": "South Bay craft brewery committed to creating delicious neighborhood beers.",
+      "hours": "Mon–Closed, Tue–Thu 3pm–10pm, Fri 12pm–10pm, Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://hapasbrewing.com/san-carlos/",
+      "priceRange": "$$",
+      "keywords": [
+        "brewery",
+        "craft beer",
+        "american",
+        "taproom",
+        "pub food",
+        "burgers",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJ8Sf6nw-jj4AR1bLIrhg2a4A",
+      "formattedAddress": "644 Laurel St Suite C, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.505639599999995,
+        "longitude": -122.26032959999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9253549339002319573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://highlandssportsbar.com/",
+      "displayName": {
+        "text": "Highlands Sports Bar & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Highlands Sports Bar Small.jpeg",
+      "phone": "(650) 486-1518",
+      "description": "Line dancing Saturdays and trivia Mondays make this sports bar lively.",
+      "hours": "Mon–Thu 11am–9pm, Fri 11am–11:45pm, Sat 10am–11:45pm, Sun 10am–9pm",
+      "menuUrl": "https://highlandssportsbar.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "sports bar",
+        "american",
+        "burgers",
+        "wings",
+        "bar",
+        "beer",
+        "casual",
+        "tv"
+      ]
+    },
+    {
+      "id": "ChIJO-0JnD6ij4ARsWvFATbNs2o",
+      "formattedAddress": "1494 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.496511999999996,
+        "longitude": -122.2480234
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7688714620693212081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.igueytaqueria.com/",
+      "displayName": {
+        "text": "iGuey Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-carlos/iGuey Small.jpeg",
+      "phone": "(650) 453-3018",
+      "description": "Fresh ingredients provide the best quality and taste available.",
+      "hours": "Mon–Thu 10:30am–9pm, Fri–Sat 10:30am–9:30pm, Sun Closed",
+      "menuUrl": "https://igueytaqueria.com/our-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican",
+        "tacos",
+        "burritos",
+        "taqueria",
+        "carnitas",
+        "carne asada",
+        "quick",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJef0_iqajj4ARFYa044zH5tY",
+      "formattedAddress": "Parking lot, 661 El Camino Real Suite 103, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.507085499999995,
+        "longitude": -122.2596727
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15485283776689636885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.impastosancarlos.com/",
+      "displayName": {
+        "text": "Impasto by Terun",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Impasto Small.jpeg",
+      "phone": "(650) 486-1504",
+      "description": "Chefs follow AVPN guidelines ensuring authentic traditional Neapolitan pizza quality.",
+      "hours": "Mon 5pm–8:30pm, Tue–Thu 5pm–9pm, Fri–Sat 5pm–9:30pm, Sun 5pm–8:30pm",
+      "menuUrl": "https://www.impastosancarlos.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pizza",
+        "neapolitan",
+        "pasta",
+        "wine",
+        "dinner",
+        "date night",
+        "upscale"
+      ]
+    },
+    {
+      "id": "ChIJd8Txf8Ojj4ARzX8-VeI0wjI",
+      "formattedAddress": "1050 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5010873,
+        "longitude": -122.25330319999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3657543994075676621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://isarngarden.com/",
+      "displayName": {
+        "text": "Isarn Garden Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-carlos/Isarn Garden Small.jpeg",
+      "phone": "(650) 802-8081",
+      "description": "Specializes in authentic North Eastern Thai Isarn regional cuisine.",
+      "hours": "Mon–Thu 11am–3pm, 5pm–9pm, Fri–Sat 11am–3pm, 5pm–9:30pm, Sun 11am–3pm, 5pm–9pm",
+      "menuUrl": "https://www.yelp.com/menu/isarn-garden-thai-cuisine-san-carlos-2",
+      "priceRange": "$$",
+      "keywords": [
+        "thai",
+        "pad thai",
+        "curry",
+        "noodles",
+        "vegetarian",
+        "lunch",
+        "dinner",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJLX8tFDmij4ARpUjD3uO5RYg",
+      "formattedAddress": "1696 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4941016,
+        "longitude": -122.24652700000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9819458950897289381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://johnstonsaltbox.com/",
+      "displayName": {
+        "text": "Johnston's Saltbox",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Johnsons Saltbox Small.jpeg",
+      "phone": "(650) 592-7258",
+      "description": "From-scratch seasonal dishes using ingredients from their rooftop garden.",
+      "hours": "Mon Closed, Tue–Fri 11:30am–2pm & 5pm–8:30pm, Sat–Sun 10am–2pm, Sat 5pm–8:30pm",
+      "menuUrl": "http://johnstonsaltbox.com/ourmenu",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "farm to table",
+        "burgers",
+        "fried chicken",
+        "brunch",
+        "outdoor seating",
+        "seasonal",
+        "craft beer",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJl0pQ6_-hj4AR4AiwrZRogKI",
+      "formattedAddress": "135 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.512409999999996,
+        "longitude": -122.26592300000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11709474018941733088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.kabulcuisine.co/",
+      "displayName": {
+        "text": "Kabul Afghan Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Middle Eastern",
+      "photoUrl": "images/restaurant-photos/san-carlos/Kabul Afghan Cuisine Small.jpeg",
+      "phone": "(650) 594-2840",
+      "description": "Specialty lamb kabobs and slow cooked traditional Afghan delicacies.",
+      "hours": "Mon–Fri 11:30am–2pm, 4pm–9pm, Sat–Sun 4pm–9pm",
+      "menuUrl": "https://www.kabulcuisine.co/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "afghan",
+        "middle eastern",
+        "kebab",
+        "lamb",
+        "rice",
+        "halal",
+        "dinner",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJwds5EwOij4ARMO7_oZ0A3j8",
+      "formattedAddress": "1188 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5067398,
+        "longitude": -122.2612338
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4602116546246995504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.kingchuan.biz/",
+      "displayName": {
+        "text": "King Chuan Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-carlos/King Chuan Small.jpeg",
+      "phone": "(650) 593-1035",
+      "description": "Everything cooked from scratch, steamed first, never using MSG.",
+      "hours": "Mon–Sun 11:00am–9:30pm",
+      "menuUrl": "https://kingchuan.menu11.com/carlos/order",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "cantonese",
+        "dim sum",
+        "seafood",
+        "family style",
+        "noodles",
+        "takeout"
+      ]
+    },
+    {
+      "id": "ChIJo9TTawOij4ARlZFyNVSlunk",
+      "formattedAddress": "1147 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5067127,
+        "longitude": -122.2607051
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8771505005349998997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lacorneta.com/lacornetasancarlos?utm_source=google",
+      "displayName": {
+        "text": "La Corneta Taqueria",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-carlos/La Corneta Small.jpeg",
+      "phone": "(650) 551-1400",
+      "description": "Classic dishes made to order with the freshest ingredients.",
+      "hours": "Mon–Sat 11am–9pm, Sun 11am–8pm",
+      "menuUrl": "https://lacorneta.com/menu",
+      "priceRange": "$",
+      "keywords": [
+        "mexican",
+        "tacos",
+        "burritos",
+        "taqueria",
+        "carnitas",
+        "carne asada",
+        "quick",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJy2K-wv-jj4ARQMZ6yOLXoPw",
+      "formattedAddress": "1377 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4973641,
+        "longitude": -122.24995899999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18203787062857614912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://lahaciendarestaurantandcafeca.com/",
+      "displayName": {
+        "text": "La Hacienda Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Mexican",
+      "photoUrl": "images/restaurant-photos/san-carlos/La Hacienda Small.jpeg",
+      "phone": "(650) 591-9711",
+      "description": "Authentic Jalisco cuisine served by the Ramirez family since 1980.",
+      "hours": "Mon 11am–7:30pm, Tue–Sat 11am–8pm, Sun Closed",
+      "menuUrl": "http://www.lahaciendasancarlos.com/dinner-menu.html",
+      "priceRange": "$$",
+      "keywords": [
+        "mexican",
+        "tacos",
+        "enchiladas",
+        "burritos",
+        "margaritas",
+        "family friendly",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJ83BpPYGjj4ARi1kYIUkgSV0",
+      "formattedAddress": "902 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5024057,
+        "longitude": -122.25655409999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=6721939417287121291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://louscafesf.com/",
+      "displayName": {
+        "text": "Lou's Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Cafe/Bakery",
+      "photoUrl": "images/restaurant-photos/san-carlos/Lous Cafe Small.jpeg",
+      "phone": "(650) 394-8914",
+      "description": "Pastrami brisket marinated overnight and steamed in their kettle daily.",
+      "hours": "Mon–Sat 9am–5pm, Sun 9am–4pm",
+      "menuUrl": "https://www.yelp.com/biz/lou-s-cafe-san-carlos",
+      "priceRange": "$",
+      "keywords": [
+        "cafe",
+        "coffee",
+        "breakfast",
+        "sandwiches",
+        "pastries",
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "id": "ChIJS24vMjmij4ARvvkYOX9j5K4",
+      "formattedAddress": "1620 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.495179799999995,
+        "longitude": -122.2465973
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12602307055359424958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mediterraneandelite.com/",
+      "displayName": {
+        "text": "Mediterranean Delite",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-carlos/Mediterranean Delite Small.jpeg",
+      "phone": "(650) 654-9172",
+      "description": "Family-owned with beloved recipes crafted with renewed focus on quality.",
+      "hours": "Mon–Sat 10am–8pm, Sun Closed",
+      "menuUrl": "https://www.meddelite.net/menu/",
+      "priceRange": "$",
+      "keywords": [
+        "greek",
+        "mediterranean",
+        "falafel",
+        "hummus",
+        "gyros",
+        "healthy",
+        "vegetarian",
+        "quick"
+      ]
+    },
+    {
+      "id": "ChIJVUAKaV-ej4ARYPOU-_YEHDY",
+      "formattedAddress": "1524 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.496177599999996,
+        "longitude": -122.24769409999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3898996836225315680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mintsandhoney.com/",
+      "displayName": {
+        "text": "Mints & Honey",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/san-carlos/Mints & Honey Small.jpeg",
+      "phone": "(650) 808-7786",
+      "description": "Neighborhood cafe serving handcrafted coffee, tea, and creative artisan toasts.",
+      "hours": "Mon 8am–2pm, Tue Closed, Wed 8am–2pm, Thu 8am–2pm, Fri 8am–3pm, Sat 8am–3pm, Sun 8am–3pm",
+      "menuUrl": "https://order.online/store/mints-&-honey-san-carlos-625245/?hideModal=true&pickup=true",
+      "priceRange": "$$",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "eggs",
+        "pancakes",
+        "waffles",
+        "coffee",
+        "casual",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJQbf0I-ajj4AR13SzhQDrajo",
+      "formattedAddress": "1163 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5065766,
+        "longitude": -122.26063649999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4209435189206807767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://molly-os.com/",
+      "displayName": {
+        "text": "Molly O's",
+        "languageCode": "en"
+      },
+      "cuisine": "Irish",
+      "photoUrl": "images/restaurant-photos/san-carlos/Molly Os Small.jpeg",
+      "phone": "(650) 486-1370",
+      "description": "Family-run Irish pub offering warm hospitality and authentic traditional fare.",
+      "hours": "Mon 4pm–9pm, Tue–Thu 11:30am–9pm, Fri 11:30am–10pm, Sat 9am–10pm, Sun 9am–8pm",
+      "menuUrl": "https://www.molly-os.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "irish pub",
+        "bar",
+        "american",
+        "burgers",
+        "fish and chips",
+        "draft beer",
+        "sports",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJ03M8lBeij4ARCMh_cLleOWo",
+      "formattedAddress": "1137 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4997154,
+        "longitude": -122.25275370000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7654253192242251784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mybreakfasthouse.com/",
+      "displayName": {
+        "text": "My Breakfast House",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/san-carlos/My Breakfast House Small.jpeg",
+      "phone": "(650) 598-7600",
+      "description": "Home-style cooking with excellent coffee using only real, fresh ingredients.",
+      "hours": "Mon–Sun 7am–1:30pm",
+      "menuUrl": "https://www.mybreakfasthouse.com/menu",
+      "priceRange": "$",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "eggs",
+        "pancakes",
+        "omelettes",
+        "coffee",
+        "casual",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJW7bnwReij4ARYSHjhNcHCrM",
+      "formattedAddress": "1160 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4993224,
+        "longitude": -122.2527494
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12901132704785047905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.newcantonsancarlos.com/",
+      "displayName": {
+        "text": "New Canton Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Cantonese",
+      "photoUrl": "images/restaurant-photos/san-carlos/New Canton Small.jpeg",
+      "phone": "(650) 591-4952",
+      "description": "Experience the best authentic and delicious Chinese food offerings.",
+      "hours": "Mon Closed, Tue–Sun 11am–3pm, 4:30pm–9pm",
+      "menuUrl": "https://www.newcantonsancarlos.com/1627j85h/new-canton-restaurant-san-carlos-94070/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "cantonese",
+        "chinese",
+        "dim sum",
+        "seafood",
+        "noodles",
+        "family style",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJy1Gi6j2ij4ARDmPT4rdXeaA",
+      "formattedAddress": "1340 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.498004099999996,
+        "longitude": -122.24980169999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11563369965546595086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://newyorkpizzasc.com/",
+      "displayName": {
+        "text": "New York pizza, pasta & more",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-carlos/New York Pizza Small.jpeg",
+      "phone": "(650) 637-9999",
+      "description": "Famous for the King Kong 24-inch Pizza serving 8 to 10 people.",
+      "hours": "Mon–Thu 9:30am–10pm, Fri–Sat 9:30am–11:30pm, Sun 9:30am–10pm",
+      "menuUrl": "https://newyorkpizzasc.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "new york style",
+        "pasta",
+        "italian",
+        "casual",
+        "delivery",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJP8Z1Xbmjj4ARzh-YkIMLtIc",
+      "formattedAddress": "732 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5046134,
+        "longitude": -122.25930799999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9778453350622699470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.nickthegreek.com/?utm_source=cumulus&utm_medium=onlinepresence&utm_campaign=gbp",
+      "displayName": {
+        "text": "Nick The Greek",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-carlos/Nick The Greek Small.jpeg",
+      "phone": "(650) 394-4311",
+      "description": "Fresh Greek street food with classic gyros and flavorful meals.",
+      "hours": "Mon–Sun 11am–9pm",
+      "menuUrl": "https://nickthegreek.orderexperience.net/san_carlos/menu",
+      "priceRange": "$",
+      "keywords": [
+        "greek",
+        "gyros",
+        "souvlaki",
+        "falafel",
+        "mediterranean",
+        "quick",
+        "casual",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJVdkp1hmij4ARSUa_dwTD2Rg",
+      "formattedAddress": "1037 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.500821699999996,
+        "longitude": -122.25402280000002
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1790676750812792393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.noelanis.com/",
+      "displayName": {
+        "text": "Noelani's Island Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-carlos/Noelanis Small.jpeg",
+      "phone": "(844) 534-2773",
+      "description": "Hawaiian-Asian fusion with live music and tropical cocktails nightly.",
+      "hours": "Mon Closed, Tue–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 11:30am–5pm",
+      "menuUrl": "https://noelanis.com/san-carlos-noelani-s-island-grill-food-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "hawaiian",
+        "poke",
+        "loco moco",
+        "garlic chicken",
+        "aloha",
+        "island food",
+        "casual",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJYbzc32yjj4ARiJ_QHb3zKvs",
+      "formattedAddress": "663 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5056211,
+        "longitude": -122.25989889999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18098546046116339592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.number5kitchen.com/",
+      "displayName": {
+        "text": "number5kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Number5 Kitchen Small.jpeg",
+      "phone": "(650) 665-9655",
+      "description": "Chef Henry handpicks seasonal ingredients to create simple exquisite flavors.",
+      "hours": "Mon–Sun Closed, Tue 11am–2pm, Wed–Fri 11am–2pm, 5pm–9pm, Sat 5pm–9pm, Sun Closed",
+      "menuUrl": "http://www.number5kitchen.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "farm to table",
+        "seasonal",
+        "organic",
+        "pasta",
+        "seafood",
+        "burgers",
+        "pho",
+        "date night",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJVZlkJSyjj4ARaq0ve0KviUA",
+      "formattedAddress": "601 Old County Rd, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5077053,
+        "longitude": -122.25929599999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4650440790306172266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://food.orders.co/bkhfen5k?y_source=1_MjAwOTQ4OTU0Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "displayName": {
+        "text": "Nursel Central Asian & Russian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Other",
+      "photoUrl": "images/restaurant-photos/san-carlos/Nursel Small.jpeg",
+      "phone": "(650) 226-5163",
+      "description": "Bay Area's only fully halal certified Central Asian restaurant.",
+      "hours": "Mon–Thu 11am–10pm, Fri–Sun 11am–10:30pm",
+      "menuUrl": "https://www.yelp.com/biz/nursel-san-carlos-4",
+      "priceRange": "$$",
+      "keywords": [
+        "central asian",
+        "russian",
+        "kyrgyz",
+        "kebab",
+        "dumplings",
+        "manty",
+        "samsa",
+        "borscht",
+        "plov",
+        "halal",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJM2IcyASjj4AR-wQWoTZCVGo",
+      "formattedAddress": "1697 Industrial Rd, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4989835,
+        "longitude": -122.2419324
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7661821668462298363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://osteria.domenicowinery.com/",
+      "displayName": {
+        "text": "Osteria at Domenico",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Osteria at Domenico Small.jpeg",
+      "phone": "(650) 226-5420",
+      "description": "Timeless Italian fare made with fresh, local ingredients near the winery.",
+      "hours": "Mon–Tue Closed, Wed–Thu 5pm–9pm, Fri 5pm–9pm, Sat 11am–9pm, Sun 11am–6pm",
+      "menuUrl": "https://www.opentable.com/r/domenico-winery-and-osteria-san-carlos",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "wine",
+        "dinner",
+        "date night",
+        "romantic",
+        "upscale"
+      ]
+    },
+    {
+      "id": "ChIJ0R5_qJ6jj4ARvA8TdCyp8XY",
+      "formattedAddress": "894 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.50256530000001,
+        "longitude": -122.2567702
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8570817574253825980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.owadasushi.com/",
+      "displayName": {
+        "text": "Owada",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Owada Small.jpeg",
+      "phone": "(650) 637-9793",
+      "description": "Fresh and well prepared sushi with many delighted returning customers.",
+      "hours": "Mon–Fri 11:30am–2:30pm, 4:30pm–8:30pm, Sat 4:30pm–8:30pm, Sun Closed",
+      "menuUrl": "https://www.owadasushi.com/menu/",
+      "priceRange": "$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "sashimi",
+        "omakase",
+        "sake",
+        "dinner",
+        "date night",
+        "upscale"
+      ]
+    },
+    {
+      "id": "ChIJxTysJQChj4AROX2Cxd9DuKA",
+      "formattedAddress": "39 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5128221,
+        "longitude": -122.26619429999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11581081070153661753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.paiksnoodleus.com/",
+      "displayName": {
+        "text": "Paik's Noodle 홍콩반점 - San Carlos",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Paiks Noodle Small.jpeg",
+      "phone": "(650) 595-9292",
+      "description": "Grown to over 300 locations worldwide since starting in Seoul 2006.",
+      "hours": "Mon–Sun 11am–2pm, 4:30pm–8:30pm",
+      "menuUrl": "https://www.doordash.com/store/paik's-noodle-san-carlos-1532278/",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "hong kong style",
+        "noodles",
+        "wonton",
+        "congee",
+        "casual",
+        "quick",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJtVlMxBeij4ARW1R2aJ91IMI",
+      "formattedAddress": "1179 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4992051,
+        "longitude": -122.25224340000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13988309770125595739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.pazzosancarlos.com/",
+      "displayName": {
+        "text": "Pazzo",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "phone": "(650) 591-1075",
+      "description": "New Haven style wood-fired pizzas and handmade pastas from Gambardella's owner.",
+      "hours": "Mon–Mon Closed, Tue–Sat 4pm–9pm, Sun–Sun Closed",
+      "menuUrl": "https://pazzosancarlos.com/menu/",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-carlos/Pazzo Small.jpeg",
+      "keywords": [
+        "italian",
+        "pasta",
+        "pizza",
+        "wine",
+        "casual",
+        "dinner",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJqy9n7AOij4ARTLAjf4-3mtk",
+      "formattedAddress": "1065 Holly St #A, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.509140099999996,
+        "longitude": -122.2607405
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15680046879585054796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "Pho Vinh Vietnamese Restaurant",
+        "languageCode": "en"
+      },
+      "cuisine": "Vietnamese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Pho Vinh Small.jpeg",
+      "phone": "(650) 637-9238",
+      "hours": "Mon–Sat 10am–3pm, 4:30pm–8:30pm, Sun Closed",
+      "menuUrl": "https://www.yelp.com/biz/pho-vinh-san-carlos-3",
+      "priceRange": "$",
+      "keywords": [
+        "vietnamese",
+        "pho",
+        "banh mi",
+        "spring rolls",
+        "noodles",
+        "soup",
+        "casual",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJw4Q89byjj4AR9b7UxZSum3I",
+      "formattedAddress": "603 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.50644,
+        "longitude": -122.26086739999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8258386295711383285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.online/business/poked-out-11331213",
+      "displayName": {
+        "text": "Poke'd Out Fish Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-carlos/Poked out Small.jpeg",
+      "phone": "(650) 596-8031",
+      "description": "Generous portions of fresh fish with unlimited veggie toppings.",
+      "hours": "Mon–Sun 11:30am–8pm",
+      "menuUrl": "https://order.online/store/poke'd-out-san-carlos-24226500",
+      "priceRange": "$$",
+      "keywords": [
+        "poke",
+        "hawaiian",
+        "bowls",
+        "seafood",
+        "healthy",
+        "fresh",
+        "casual",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJdYu1chuij4ARujIuEgcV_jE",
+      "formattedAddress": "777 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.504306899999996,
+        "longitude": -122.25835859999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3602339872056947386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://pranzisc.com/",
+      "displayName": {
+        "text": "PRANZI",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Pranzi Small.jpeg",
+      "phone": "(650) 453-3768",
+      "description": "House-made pastas and refined Northern Italian fare with warm hospitality.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 11am–9pm",
+      "menuUrl": "https://pranzisc.com/menus/",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "lunch",
+        "sandwiches",
+        "salads",
+        "casual",
+        "quick",
+        "wine"
+      ]
+    },
+    {
+      "id": "ChIJn0LJ5LCjj4ARqkorME1qfLc",
+      "formattedAddress": "621 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.50625,
+        "longitude": -122.2603982
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13221559485806103210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.pylossc.com/",
+      "displayName": {
+        "text": "PYLOS",
+        "languageCode": "en"
+      },
+      "cuisine": "Greek/Mediterranean",
+      "photoUrl": "images/restaurant-photos/san-carlos/Pylos Small.jpeg",
+      "phone": "(650) 226-3652",
+      "description": "Everything homemade with top quality items imported from Greece and Turkey.",
+      "hours": "Mon–Wed 11am–9pm, Thu 11am–9:30pm, Fri 11am–10pm, Sat 11am–9:30pm, Sun 11am–9pm",
+      "menuUrl": "https://pylossc.com/san-carlos-pylos-food-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "greek",
+        "mediterranean",
+        "seafood",
+        "mezze",
+        "wine",
+        "dinner",
+        "date night",
+        "upscale"
+      ]
+    },
+    {
+      "id": "ChIJOUSyqRyij4ARQMIUO76RqPQ",
+      "formattedAddress": "680 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.50524,
+        "longitude": -122.25982560000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17629500987562836544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://rangoonrubysc.com/",
+      "displayName": {
+        "text": "Rangoon Ruby Burmese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Burmese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Rangoon Ruby Small.jpeg",
+      "phone": "(650) 592-1852",
+      "description": "Authentic Burmese cuisine with signature Tiki cocktails and artfully designed interior.",
+      "hours": "Mon–Sat 11:30am–2:30pm, 4:30pm–8:30pm, Sun 11:30am–2:30pm, 4:30pm–8:00pm",
+      "menuUrl": "https://rangoonrubysc.com/san-carlos-rangoon-ruby-san-carlos-food-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "burmese",
+        "asian",
+        "tea leaf salad",
+        "noodles",
+        "curry",
+        "casual",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJeU6raQOij4ARbWV1LkIFLpU",
+      "formattedAddress": "1125 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.50683360000001,
+        "longitude": -122.26054660000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=10749535142385378669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.redhotchillipepperca.com/",
+      "displayName": {
+        "text": "Red Hot Chilli Pepper",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-carlos/Red Hot Chilli Pepper Small.jpeg",
+      "phone": "(650) 453-3055",
+      "description": "Indian style Chinese food sourced from local vendors and purveyors.",
+      "hours": "Mon–Thu 11:30am–2pm, 5:30pm–9:15pm, Fri 11:30am–2pm, 5:30pm–10:15pm, Sat 11:30am–3pm, 5:30pm–10:15pm, Sun 11:30am–3pm, 5:30pm–9:15pm",
+      "menuUrl": "https://www.redhotchillipepperca.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "fusion",
+        "asian fusion",
+        "spicy",
+        "indian",
+        "chinese",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJrfx9kz2ij4AR60mFS7Addq4",
+      "formattedAddress": "1324 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4982258,
+        "longitude": -122.25002409999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=12571268052869794283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.roundtablepizza.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+      "displayName": {
+        "text": "Round Table Pizza",
+        "languageCode": "en"
+      },
+      "cuisine": "Pizza",
+      "photoUrl": "images/restaurant-photos/san-carlos/Round Table Small.jpeg",
+      "phone": "(650) 591-1998",
+      "description": "Hand rolled dough and proprietary three-cheese blend with toppings to edge.",
+      "hours": "Mon–Thu 10:30am–9pm, Fri 10:30am–10:30pm, Sat 11am–10:30pm, Sun 11am–9pm",
+      "menuUrl": "https://ordering.roundtablepizza.com/Site/rtsancarlos",
+      "priceRange": "$$",
+      "keywords": [
+        "pizza",
+        "chain",
+        "family friendly",
+        "delivery",
+        "wings",
+        "salad bar",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJXe3tQgOij4ARyMcZtpQIkXY",
+      "formattedAddress": "1143 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5067422,
+        "longitude": -122.2606677
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8543619402901866440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://thesaffronrestaurant.com/?utm_source=google",
+      "displayName": {
+        "text": "Saffron",
+        "languageCode": "en"
+      },
+      "cuisine": "Indian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Saffron Small.jpeg",
+      "phone": "(650) 593-4269",
+      "description": "Their daal makhani is slow-cooked for 24 hours daily.",
+      "hours": "Mon–Sun 11:30am–2:30pm, 4pm–9pm",
+      "menuUrl": "https://thesaffronrestaurant.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "indian",
+        "curry",
+        "tandoori",
+        "naan",
+        "biryani",
+        "vegetarian",
+        "dinner",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJz4xqZhuij4ARUo3IRMYygDo",
+      "formattedAddress": "744 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.504556199999996,
+        "longitude": -122.25904320000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4215425078357691730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sakurasancarlos.com/",
+      "displayName": {
+        "text": "Sakura San Carlos",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Sakura Small.jpeg",
+      "phone": "(650) 832-1254",
+      "description": "Offers hibachi or intimate dining meal experience with teppanyaki.",
+      "hours": "Mon–Thu 11am–8:30pm, Fri 11am–9:30pm, Sat 12pm–9:30pm, Sun 12pm–8:30pm",
+      "menuUrl": "https://sakurasancarlos.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "sashimi",
+        "teppanyaki",
+        "hibachi",
+        "sake",
+        "dinner",
+        "date night"
+      ]
+    },
+    {
+      "id": "ChIJpTY2DACjj4ARjPZ9bq2ReiA",
+      "formattedAddress": "677B Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5055403,
+        "longitude": -122.2597601
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2340343130441512588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://senthainoodlebar.com/",
+      "displayName": {
+        "text": "Sen Thai Noodle",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-carlos/Sen Small.jpeg",
+      "phone": "(650) 622-4919",
+      "hours": "Mon–Sun 11:30am–2:30pm, 4:30pm–9:30pm",
+      "menuUrl": "http://senthainoodlebar.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "thai",
+        "noodles",
+        "pad thai",
+        "soup",
+        "casual",
+        "quick",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJeyn3rRuij4ARrxYM-mXhavo",
+      "formattedAddress": "825 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.503561,
+        "longitude": -122.25730259999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18044482685116356271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://shikisancarlos.com/",
+      "displayName": {
+        "text": "Shiki Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Shiki Bistro Small.jpeg",
+      "phone": "(650) 593-2275",
+      "description": "Chefs prepare fresh fish using delectable spices and inspiring techniques.",
+      "hours": "Mon–Thu 11:30am–2:30pm, 4pm–9pm, Fri 11:30am–2:30pm, 4pm–9:30pm, Sat 11:30am–9:30pm, Sun 11:30am–9pm",
+      "menuUrl": "https://shikisancarlos.com/menu-1",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "sashimi",
+        "rolls",
+        "sake",
+        "dinner",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJbwCMUQOij4AR83_yaWBlV7g",
+      "formattedAddress": "637 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5059313,
+        "longitude": -122.26027699999997
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13283197090721333235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://siamesekitchen-sancarlos.com/",
+      "displayName": {
+        "text": "Siamese Kitchen",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-carlos/Siamese Kitchen Small.jpeg",
+      "phone": "(650) 592-3277",
+      "description": "Homemade sauce from family recipes passed along for generations.",
+      "hours": "Mon–Sun Closed, Tue–Fri 11am–2:30pm, 5pm–9pm, Sat 12pm–3pm, 5pm–9pm",
+      "menuUrl": "http://siamesekitchen-sancarlos.com/online-ordering",
+      "priceRange": "$$",
+      "keywords": [
+        "thai",
+        "pad thai",
+        "curry",
+        "noodles",
+        "vegetarian",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJN35FowOjj4ARH_LvQZoF--8",
+      "formattedAddress": "366 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5095551,
+        "longitude": -122.26341629999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=17292421354308497951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://smorefood.com/order-online/sirayvah-organic-thai-san-carlos-94070-wtvbju2j?utm_source=gmb&utm_medium=website",
+      "displayName": {
+        "text": "Sirayvah Organic Thai Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Thai",
+      "photoUrl": "images/restaurant-photos/san-carlos/Sirayvah Thai Small.jpeg",
+      "phone": "(650) 637-1500",
+      "description": "Fresh organic Thai dishes using free-range chicken and homegrown spices.",
+      "hours": "Mon–Sat 5pm–8:45pm, Sun Closed",
+      "menuUrl": "https://www.sirayvahorganicthaica.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "thai",
+        "organic",
+        "pad thai",
+        "curry",
+        "vegetarian",
+        "vegan",
+        "healthy",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJn6yuqwmij4ARrdscqJxK_II",
+      "displayName": {
+        "text": "Sky Kitchen",
+        "languageCode": "en"
+      },
+      "formattedAddress": "620 Airport Way, San Carlos, CA 94070, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9438500955757534125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {},
+      "cuisine": "Other",
+      "phone": "(650) 595-0464",
+      "hours": "Mon–Thu 7am–2pm, Fri–Sun 7am–3pm",
+      "priceRange": "$",
+      "description": "Watch planes take off and land while eating breakfast.",
+      "photoUrl": "images/restaurant-photos/san-carlos/Sky Kitchen Small.jpeg",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "diner",
+        "omelettes",
+        "pancakes",
+        "corned beef hash",
+        "airport",
+        "outdoor seating",
+        "family friendly",
+        "american"
+      ]
+    },
+    {
+      "id": "ChIJoeNZl8ijj4ARwlavdRd5gTY",
+      "formattedAddress": "1541 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.495782999999996,
+        "longitude": -122.24797009999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3927553491709417154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sokosokosc.com/",
+      "displayName": {
+        "text": "Soko Soko Japanese Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Soko Soko Small.jpeg",
+      "phone": "(650) 674-6019",
+      "description": "Traditional Japanese flavors combined with a modern twist here.",
+      "hours": "Mon–Fri 11:30am–2:30pm, 4:30pm–9pm, Sat–Sun 11am–2:30pm, 4:30pm–9:30pm (Fri), 9pm (Sun)",
+      "menuUrl": "https://pos.chowbus.com/online-ordering/store/soko-soko-japanese-cuisine/23809",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "sashimi",
+        "rolls",
+        "sake",
+        "dinner",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJDcNwchuij4ARneNiXjDR-jc",
+      "formattedAddress": "769 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.504402999999996,
+        "longitude": -122.2584708
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4033766421935874973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://spassosc.com/",
+      "displayName": {
+        "text": "Spasso",
+        "languageCode": "en"
+      },
+      "cuisine": "Italian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Spasso Small.jpeg",
+      "phone": "(650) 592-5886",
+      "description": "Italian influenced California cuisine with an extensive wine list.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://spassosc.com/menus",
+      "priceRange": "$$",
+      "keywords": [
+        "italian",
+        "pasta",
+        "pizza",
+        "wine",
+        "casual",
+        "dinner",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJORNJ9R6jj4ARifDgwd9uP78",
+      "formattedAddress": "765 Old County Rd unit B, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.50570580000001,
+        "longitude": -122.2568367
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=13780855292086513801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://spilltheteaca.com/",
+      "displayName": {
+        "text": "Spill the Tea BBQ SC",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "phone": "(650) 400-7508",
+      "description": "Authentic smoked BBQ with creative options like brisket and crepes.",
+      "hours": "Mon–Fri 9am–6pm, Sat 9am–5pm, Sun Closed",
+      "menuUrl": "https://postmates.com/store/spill-the-tea-bbq-sc/phyORjaERg22wncQzyJkMg",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-carlos/Spill the Tea Small.jpeg",
+      "keywords": [
+        "bbq",
+        "barbecue",
+        "ribs",
+        "brisket",
+        "pulled pork",
+        "smoked meat",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJT_Z7eRyjj4ARYHsoLEJpiNk",
+      "formattedAddress": "773 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5043568,
+        "longitude": -122.2584081
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=15674894235992619872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.stampbarandgrill.com/",
+      "displayName": {
+        "text": "Stamp Bar & Grill",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-carlos/Stamp Small.jpeg",
+      "phone": "(650) 226-5164",
+      "description": "Modern American classics alongside globally inspired flavors from Tokyo to Tuscany.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 11am–9pm",
+      "menuUrl": "https://www.stampbarandgrill.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "fusion",
+        "american",
+        "burgers",
+        "bar",
+        "craft beer",
+        "casual",
+        "dinner",
+        "outdoor seating"
+      ]
+    },
+    {
+      "id": "ChIJgURqeoKjj4ARBo6ogQa5jek",
+      "formattedAddress": "648 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.506253799999996,
+        "longitude": -122.2595176
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16829310820149661190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sunshinehkcafe.com/",
+      "displayName": {
+        "text": "Sunshine HK Cafe",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Sunhine HK Cafe Small.jpeg",
+      "phone": "(650) 590-4821",
+      "description": "Signature homemade quality Hong Kong dishes with convenient takeout option.",
+      "hours": "Mon 11am–8pm, Tue Closed, Wed–Sat 11am–8pm, Sun 11am–8pm",
+      "menuUrl": "https://order.toasttab.com/online/sunshine-hk-cafe-648-el-camino-real-jtksu",
+      "priceRange": "$$",
+      "keywords": [
+        "hong kong",
+        "chinese",
+        "milk tea",
+        "toast",
+        "egg waffles",
+        "dim sum",
+        "casual",
+        "breakfast",
+        "lunch"
+      ]
+    },
+    {
+      "id": "ChIJK55JIwCjj4ARCrtxfxGd6v0",
+      "formattedAddress": "635 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.506126,
+        "longitude": -122.2601823
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=18296609134624226058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.toasttab.com/online/sunshine-hk-cafe-express-new-concept-635-laurel-street",
+      "displayName": {
+        "text": "Sunshine HK Cafe Express",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Sunshine HK Cafe Express Small.jpeg",
+      "phone": "(650) 250-7554",
+      "description": "Quick Hong Kong to-go meals featuring signature homemade quality dishes.",
+      "hours": "Mon 11am–2:30pm, 4pm–7pm, Tue Closed, Wed 11am–2:30pm, 4pm–7pm, Thu 11am–2:30pm, 4pm–7pm, Fri 11am–2:30pm, 4pm–8pm, Sat 11am–2:30pm, 4pm–8pm, Sun 11am–3pm",
+      "menuUrl": "https://order.toasttab.com/online/sunshine-hk-cafe-express-new-concept-635-laurel-street",
+      "priceRange": "$$",
+      "keywords": [
+        "hong kong",
+        "chinese",
+        "milk tea",
+        "toast",
+        "egg waffles",
+        "halal",
+        "casual",
+        "quick"
+      ]
+    },
+    {
+      "id": "ChIJAQBs1heij4AR9_db6Wz7QSs",
+      "formattedAddress": "920 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5026879,
+        "longitude": -122.25526359999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=3117048862307252215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://sushikazoku.kwickmenu.com/",
+      "displayName": {
+        "text": "Sushi Kazoku",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Sushi Kazoku Small.jpeg",
+      "phone": "(650) 508-8800",
+      "description": "They craft delicious dishes with fresh ingredients blending tradition and creativity.",
+      "hours": "Sun–Mon 11am–2pm, 4:30pm–9pm, Tue Closed, Wed–Thu 11am–2pm, 4:30pm–9pm, Fri–Sat 11am–2pm, 4:30pm–9:30pm",
+      "menuUrl": "https://sushikazoku.kwickmenu.com/",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "sashimi",
+        "rolls",
+        "sake",
+        "dinner",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJF6b4MACjj4ARngisbbAkNWM",
+      "formattedAddress": "741 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5048295,
+        "longitude": -122.25895979999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7148660323693365406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://takumisancarlos.com/",
+      "displayName": {
+        "text": "Takumi",
+        "languageCode": "en"
+      },
+      "cuisine": "Japanese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Takumi Small.jpeg",
+      "phone": "(650) 508-8888",
+      "description": "Expertly crafted sushi rolls with fresh ingredients and authentic Japanese flavors.",
+      "hours": "Mon–Thu 4:30pm–9pm, Fri–Sat 4:30pm–9:30pm, Sun 4:30pm–9pm",
+      "menuUrl": "https://www.takumisancarlos.com/menu/",
+      "priceRange": "$$",
+      "keywords": [
+        "japanese",
+        "sushi",
+        "sashimi",
+        "omakase",
+        "sake",
+        "dinner",
+        "date night",
+        "upscale"
+      ]
+    },
+    {
+      "id": "ChIJ_TOUEVOjj4AR4YPkvp3namU",
+      "formattedAddress": "1152 San Carlos Ave, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.507003,
+        "longitude": -122.26101079999998
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7307908010060579809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.mytamari.com/",
+      "displayName": {
+        "text": "Tamari Authentic Georgian Cuisine",
+        "languageCode": "en"
+      },
+      "cuisine": "Georgian",
+      "photoUrl": "images/restaurant-photos/san-carlos/Tamari Authentic Georgian Cuisine Small.jpeg",
+      "phone": "(650) 232-7877",
+      "description": "They use genuine Georgian cheeses and offer qvevri Georgian wines.",
+      "hours": "Mon–Tue Closed, Wed–Thu 5pm–9pm, Fri–Sun 4pm–9pm",
+      "menuUrl": "https://mytamari.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "georgian",
+        "eastern european",
+        "khachapuri",
+        "khinkali",
+        "dumplings",
+        "wine",
+        "dinner",
+        "unique"
+      ]
+    },
+    {
+      "id": "ChIJYeRadBuij4ARuEPXHiFSDAM",
+      "formattedAddress": "782 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5041059,
+        "longitude": -122.25851779999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=219640784039134136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.thecaskwinebar.com/",
+      "displayName": {
+        "text": "The Cask Wine Bar",
+        "languageCode": "en"
+      },
+      "cuisine": "Wine Bar",
+      "photoUrl": "images/restaurant-photos/san-carlos/Cask Small.jpeg",
+      "phone": "(650) 610-0438",
+      "description": "Wine flights and three-course lunch specials with house wine pairings.",
+      "hours": "Mon–Sat 11am–10pm, Sun 11am–9pm",
+      "menuUrl": "https://www.thecaskwinebar.com/menus/",
+      "priceRange": "$$",
+      "keywords": [
+        "wine bar",
+        "wine",
+        "cheese",
+        "charcuterie",
+        "small plates",
+        "date night",
+        "casual"
+      ]
+    },
+    {
+      "id": "ChIJH22dQ82jj4ARP2e4TP5SWug",
+      "formattedAddress": "1295 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4982706,
+        "longitude": -122.2511313
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=16742785816865564479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://thegoodlifesc.com/",
+      "displayName": {
+        "text": "The Good Life Sandwich Co.",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/The Good Life Small.jpeg",
+      "phone": "(650) 622-4676",
+      "description": "Fresh-baked bread, hand-carved meats, and no seed oils used.",
+      "hours": "Mon–Sun 10am–3pm",
+      "menuUrl": "https://thegoodlifesc.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "sandwiches",
+        "deli",
+        "lunch",
+        "quick",
+        "casual",
+        "subs",
+        "wraps"
+      ]
+    },
+    {
+      "id": "ChIJdZoIwf-hj4ARpQPLV1DzsGM",
+      "formattedAddress": "66 El Camino Real, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.512035000000004,
+        "longitude": -122.2671181
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=7183508932051796901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "The Omelette House",
+        "languageCode": "en"
+      },
+      "cuisine": "Breakfast",
+      "photoUrl": "images/restaurant-photos/san-carlos/The Omelette House Small.jpeg",
+      "phone": "(650) 593-4773",
+      "description": "Renowned for its wide variety of omelettes and classic breakfast offerings.",
+      "hours": "Mon–Sun 7am–2pm",
+      "menuUrl": "https://www.zmenu.com/the-omelette-house-san-carlos-online-menu/",
+      "priceRange": "$",
+      "keywords": [
+        "breakfast",
+        "brunch",
+        "omelettes",
+        "eggs",
+        "pancakes",
+        "coffee",
+        "casual",
+        "family friendly"
+      ]
+    },
+    {
+      "id": "ChIJm47x8hmij4ARyiM10cY4Yno",
+      "formattedAddress": "963 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5018829,
+        "longitude": -122.2553303
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=8818673446909453258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.refugesc.com/",
+      "displayName": {
+        "text": "The Refuge",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/The Refuge Small.jpeg",
+      "phone": "(650) 598-9813",
+      "description": "Hand-carved navel pastrami and most Belgian ales on draught in Bay Area.",
+      "hours": "Mon–Fri 11:30am–2:30pm, 5pm–9pm, Sat 11:30am–9pm, Sun 11:30am–8pm",
+      "menuUrl": "https://www.refugesc.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "american",
+        "burgers",
+        "sandwiches",
+        "craft beer",
+        "casual",
+        "lunch",
+        "dinner",
+        "comfort food"
+      ]
+    },
+    {
+      "id": "ChIJYXR6Zhuij4ARmUVUzx-mQwk",
+      "formattedAddress": "716 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5048544,
+        "longitude": -122.259458
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=667559825333568921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://townsc.com/",
+      "displayName": {
+        "text": "Town",
+        "languageCode": "en"
+      },
+      "cuisine": "American",
+      "photoUrl": "images/restaurant-photos/san-carlos/Town Small.jpeg",
+      "phone": "(650) 595-3003",
+      "description": "Ranch-raised cattle exclusively for the restaurant with handcrafted cocktails.",
+      "hours": "Mon–Thu 11:30am–9pm, Fri 11:30am–10pm, Sat 10am–10pm, Sun 10am–9pm",
+      "menuUrl": "https://www.townsc.com/menus",
+      "priceRange": "$$$",
+      "keywords": [
+        "american",
+        "new american",
+        "burgers",
+        "brunch",
+        "dinner",
+        "date night",
+        "craft beer",
+        "outdoor seating"
+      ]
+    },
+    {
+      "id": "ChIJDWMbdRuij4ARda-i0Gmyi6Q",
+      "formattedAddress": "788 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.5039636,
+        "longitude": -122.25835749999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11856766611524595573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.westparkbistro.com/",
+      "displayName": {
+        "text": "West Park Bistro",
+        "languageCode": "en"
+      },
+      "cuisine": "Fusion",
+      "photoUrl": "images/restaurant-photos/san-carlos/West Park Small.jpeg",
+      "phone": "(650) 453-3313",
+      "description": "Award-winning wine collection complements fresh, locally sourced contemporary American cuisine.",
+      "hours": "Mon–Thu 11:30am–3pm, 4:30pm–9pm, Fri–Sat 10:30am–3pm, 4:30pm–10pm, Sun 10:30am–3pm, 4:30pm–9pm",
+      "menuUrl": "https://westparkbistro.com/san-carlos-west-park-bistro-food-menu",
+      "priceRange": "$$",
+      "keywords": [
+        "fusion",
+        "american",
+        "casual",
+        "brunch",
+        "dinner",
+        "neighborhood",
+        "wine"
+      ]
+    },
+    {
+      "id": "ChIJsWK0pIOjj4ARs8nsqcIwXho",
+      "formattedAddress": "1109 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.4999584,
+        "longitude": -122.2530811
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=1900009705429584307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "displayName": {
+        "text": "William B.B.Q.",
+        "languageCode": "en"
+      },
+      "cuisine": "BBQ",
+      "photoUrl": "images/restaurant-photos/san-carlos/William BBQ Small.jpeg",
+      "phone": "(650) 595-8880",
+      "description": "Hawaiian-style barbecue featuring tender Wagyu beef and generous shareable portions.",
+      "hours": "Mon–Sun 11am–8:30pm",
+      "menuUrl": "https://www.williambbqrestaurant.com/mkda1opc/restaurant/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "bbq",
+        "barbecue",
+        "ribs",
+        "brisket",
+        "pulled pork",
+        "smoked meat",
+        "casual",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "id": "ChIJy4OMMxqij4AREgSnVRom_qQ",
+      "formattedAddress": "885 Laurel St, San Carlos, CA 94070, USA",
+      "location": {
+        "latitude": 37.50287,
+        "longitude": -122.2566507
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11888981960852702226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.yansgarden.com/",
+      "displayName": {
+        "text": "Yan's Garden",
+        "languageCode": "en"
+      },
+      "cuisine": "Chinese",
+      "photoUrl": "images/restaurant-photos/san-carlos/Yans Garden Small.jpeg",
+      "phone": "(650) 593-9777",
+      "description": "Frequently adds new dishes while maintaining a warm neighborhood atmosphere.",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–9:30pm, Sun 11:30am–9pm",
+      "menuUrl": "http://www.yansgardensancarlos.com/menu",
+      "priceRange": "$$",
+      "keywords": [
+        "chinese",
+        "cantonese",
+        "dim sum",
+        "seafood",
+        "family style",
+        "noodles",
+        "casual"
+      ]
+    }
+  ]
 };
