@@ -2888,24 +2888,22 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=10318580383170529143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://anatolianmart.com/",
       "location": {},
-      "cuisine": [
-        "Mediterranean",
-        "Turkish"
-      ],
-      "menuUrl": "https://www.doordash.com/store/anatolian-san-mateo-34039627/",
-      "phone": "(650) 445-7273",
-      "hours": "Mon–Sun 8am–7pm",
-      "priceRange": "$$",
-      "description": "Family owned Authentic Mediterranean desserts, traditional breakfast, and handcrafted cafe drinks.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg",
+      "cuisine": "Mediterranean",
       "keywords": [
         "breakfast",
         "lunch",
         "baklava",
         "mediterranean market",
         "turkish coffee",
-        "grocery"
-      ]
+        "grocery",
+        "turkish"
+      ],
+      "menuUrl": "https://www.doordash.com/store/anatolian-san-mateo-34039627/",
+      "phone": "(650) 445-7273",
+      "hours": "Mon–Sun 8am–7pm",
+      "priceRange": "$$",
+      "description": "Family owned Authentic Mediterranean desserts, traditional breakfast, and handcrafted cafe drinks.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg"
     },
     {
       "id": "ChIJtyXnf-iej4ARgH5vz-MDChE",
