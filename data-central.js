@@ -3070,24 +3070,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ_yqFjbqfj4ARUmXo2-T8CSg",
-      "formattedAddress": "3081 S Delaware St Ste. C, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5407517,
-        "longitude": -122.29772949999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2885115096179696978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.bahchesf.com/",
       "displayName": {
         "text": "Bahche",
         "languageCode": "en"
       },
-      "cuisine": "Greek/Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bahche Small.jpeg",
-      "phone": "(650) 315-2197",
-      "description": "Modern Greek cuisine with curated wine list and inviting ambiance.",
-      "hours": "Mon–Thu 11am–2pm, 4:30pm–9pm, Fri 11am–2pm, 4:30pm–9:30pm, Sat 11am–9:30pm, Sun 11am–9pm",
-      "menuUrl": "https://www.bahchesf.com/menu",
-      "priceRange": "$$",
+      "formattedAddress": "3081 S Delaware St Ste. C, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2885115096179696978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bahchesf.com/",
+      "location": {},
+      "cuisine": "Mediterranean",
       "keywords": [
         "outdoor seating",
         "greek mezze",
@@ -3095,8 +3086,15 @@ var PREBAKED_DATA_CENTRAL = {
         "date night",
         "full bar",
         "souvlaki",
-        "wine list"
-      ]
+        "wine list",
+        "greek"
+      ],
+      "menuUrl": "https://www.bahchesf.com/menu",
+      "phone": "(650) 315-2197",
+      "hours": "Mon–Thu 11am–2pm, 4:30pm–9pm, Fri 11am–2pm, 4:30pm–9:30pm, Sat 11am–9:30pm, Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Modern Greek cuisine with curated wine list and inviting ambiance.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bahche Small.jpeg"
     },
     {
       "id": "ChIJdYnq7nCej4ARB-6vA0482oU",
