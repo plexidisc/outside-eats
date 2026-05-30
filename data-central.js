@@ -4164,7 +4164,8 @@ var PREBAKED_DATA_CENTRAL = {
         "all you can eat meat",
         "groups",
         "special occasion",
-        "full bar"
+        "full bar",
+        "bbq"
       ],
       "phone": "(650) 342-8700",
       "hours": "Mon–Thu 11:30am–2:30pm, 5pm–10pm, Fri 11:30am–2:30pm, 5pm–11pm, Sat 12pm–3pm, 5pm–11pm, Sun 12pm–9pm",
