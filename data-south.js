@@ -11779,7 +11779,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sun": "Closed"
       },
       "description": "No traditional menus, just small batched family style dishes showcasing Mexican tradition and fresh seasonal local offerings.",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/los-altos/Tal Palo Small.jpeg"
     },
     {
       "id": "ChIJUwcM_-6wj4AR4dMgkeeVpFI",
