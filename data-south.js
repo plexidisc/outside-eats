@@ -7388,7 +7388,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:30 AM – 9:00 PM"
       },
       "menuUrl": "https://hiddentapandbarrel.com/palo-alto",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/palo-alto/Hidden Tap And Barrel Palo Alto Small.jpeg"
     },
     {
       "id": "ChIJcymZ93y7j4ARGg6qXQT9Adc",
