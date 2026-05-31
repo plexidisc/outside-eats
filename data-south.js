@@ -15630,7 +15630,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 9:00 PM"
       },
       "priceRange": "$$",
-      "description": "Mexican restaurant on Castro Street with a full bar, margaritas, tacos, and traditional dishes in a colorful lively atmosphere."
+      "description": "Mexican restaurant on Castro Street with a full bar, margaritas, tacos, and traditional dishes in a colorful lively atmosphere.",
+      "photoUrl": "images/restaurant-photos/mountain-view/ViVe Sol Small.jpeg"
     },
     {
       "id": "ChIJtXbDmo63j4ARIXa0HZIzius",
