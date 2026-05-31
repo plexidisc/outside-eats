@@ -15496,7 +15496,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "8:00 AM - 9:00 PM"
       },
       "priceRange": "$",
-      "description": "Authentic Mexican and Salvadoran taqueria with weekend menudo, super burritos, pupusas, and no-frills hearty plates at working-class prices."
+      "description": "Authentic Mexican and Salvadoran taqueria with weekend menudo, super burritos, pupusas, and no-frills hearty plates at working-class prices.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Tres hermanos taqueria pupuseria Small.jpeg"
     },
     {
       "id": "ChIJdSXU-ZK3j4ARQ7KWKvpGkFI",
