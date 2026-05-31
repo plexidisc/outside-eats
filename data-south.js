@@ -14237,7 +14237,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "menuUrl": "https://www.ilovepokebar.com/locations/mountain-view",
       "priceRange": "$",
-      "description": "Build-your-own poke bowl chain on Castro Street with fresh proteins, a wide base selection, and customizable toppings in an efficient fast-casual format."
+      "description": "Build-your-own poke bowl chain on Castro Street with fresh proteins, a wide base selection, and customizable toppings in an efficient fast-casual format.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Poke Bar Small.jpeg"
     },
     {
       "id": "ChIJac8Jfre3j4ARp5fZrO0ttKo",
