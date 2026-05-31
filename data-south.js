@@ -11803,7 +11803,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Family owned since 1956, serving fresh sandwiches with quality Molinari meats and tasty catering options.",
       "menuUrl": "https://italiandeligodfather.com/los-altos-deli-menu/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/los-altos/The American Italian Deli Small.jpeg"
     },
     {
       "id": "ChIJxwHRCni6j4ARwJt6NK1v-s4",
