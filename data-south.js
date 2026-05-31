@@ -11657,7 +11657,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Authentic izakaya serving charcoal grilled skewers and famous oyakodon since 2008.",
       "menuUrl": "https://www.sumikagrill.com/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/los-altos/Sumika Small.jpeg"
     },
     {
       "id": "ChIJLYsmK-6wj4AR5mtsIe0ZzLk",
