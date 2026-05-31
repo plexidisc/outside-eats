@@ -10799,7 +10799,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Authentic Italian cuisine featuring award winning dishes, live music, and a hometown atmosphere with an upscale flare.",
       "menuUrl": "https://cafevitale.com/daily-menu/",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/los-altos/Cafe Vitale Small.jpeg"
     },
     {
       "id": "ChIJUbgC8-6wj4ARtKqFQrSioy8",
