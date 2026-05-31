@@ -11877,7 +11877,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sun": "Closed"
       },
       "description": "Intimate speakeasy with custom cocktails inspired by Matisse Jazz prints and smooth jazz ambiance.",
-      "priceRange": "$$$"
+      "priceRange": "$$$",
+      "photoUrl": "images/restaurant-photos/los-altos/The Grotto Small.jpeg"
     },
     {
       "id": "ChIJy02vUuSwj4AR0evlxyNKfn0",
