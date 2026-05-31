@@ -13932,7 +13932,8 @@ var PREBAKED_DATA_SOUTH = {
         "Sunday": "11:00 AM - 9:00 PM"
       },
       "priceRange": "$$",
-      "description": "Israeli-inspired restaurant on Castro Street from Oren Dobronsky, beloved for silky hummus with warm pita, shakshuka brunch, and fresh Middle Eastern small plates."
+      "description": "Israeli-inspired restaurant on Castro Street from Oren Dobronsky, beloved for silky hummus with warm pita, shakshuka brunch, and fresh Middle Eastern small plates.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Oren's Hummus Small.jpeg"
     },
     {
       "id": "ChIJ4fH1ZAC3j4AR1plGZKh_FZk",
