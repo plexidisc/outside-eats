@@ -9877,7 +9877,7 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 622-4068",
       "priceRange": "$",
       "description": "Offers highest quality ingredients in clean space with indoor and outdoor dining.",
-      "photoUrl": "images/restaurant-photos/belmont/Guadalajara Grill #02 Small.jpeg"
+      "photoUrl": "images/restaurant-photos/belmont/Guadalajara Grill 02 Small.jpeg"
     },
     {
       "id": "ChIJwwcwf33tj4ARqZz3zCVCVcE",
