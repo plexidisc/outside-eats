@@ -1892,24 +1892,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJTbRINPCdj4ARVQZDEDbvsNQ",
-      "formattedAddress": "1300 Howard Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5772815,
-        "longitude": -122.3459614
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15326012547421898325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.parkhowardbistro.com/",
       "displayName": {
         "text": "Park & Howard Bistro",
         "languageCode": "en"
       },
+      "formattedAddress": "1300 Howard Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15326012547421898325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.parkhowardbistro.com/",
+      "location": {},
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/burlingame/Park&Howard Small.jpeg",
-      "phone": "(650) 567-6080",
-      "description": "Signature warm toffee bread pudding and impressive wine cellar await.",
-      "hours": "Mon–Sun 11:30am–2:30pm, Mon–Thu 5pm–9:30pm, Fri–Sat 5pm–10pm, Sun 5pm–9pm",
-      "menuUrl": "https://parkhowardbistro.com/menus/",
-      "priceRange": "$$$",
       "keywords": [
         "outdoor seating",
         "american",
@@ -1917,7 +1908,14 @@ var PREBAKED_DATA_CENTRAL = {
         "date night",
         "cocktails",
         "farm to table"
-      ]
+      ],
+      "menuUrl": "https://parkhowardbistro.com/menus/",
+      "videoUrl": "https://youtube.com/shorts/4N7ZlyESKr0?feature=share",
+      "phone": "(650) 567-6080",
+      "hours": "Mon–Sun 11:30am–2:30pm, Mon–Thu 5pm–9:30pm, Fri–Sat 5pm–10pm, Sun 5pm–9pm",
+      "priceRange": "$$$",
+      "description": "Signature warm toffee bread pudding and impressive wine cellar await.",
+      "photoUrl": "images/restaurant-photos/burlingame/Park&Howard Small.jpeg"
     },
     {
       "id": "ChIJ25O2djd3j4AROSjVIs6-2I4",
