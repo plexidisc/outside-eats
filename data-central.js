@@ -3717,6 +3717,7 @@ var PREBAKED_DATA_CENTRAL = {
         "donuts",
         "ice cream"
       ],
+      "menuUrl": "https://youtube.com/shorts/8dZvn_IMPMU?feature=share",
       "phone": "+16503152216",
       "hours": "Mon-Fri 7:15am-8pm, Sat 7:15am-9pm, Sun 7:15am-5pm",
       "priceRange": "$",
