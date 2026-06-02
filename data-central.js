@@ -648,6 +648,7 @@ var PREBAKED_DATA_CENTRAL = {
         "outdoor seating"
       ],
       "menuUrl": "https://order.toasttab.com/online/capri",
+      "videoUrl": "https://youtube.com/shorts/znBcAm-txhE?feature=share",
       "phone": "(650) 931-4512",
       "hours": "Mon–Wed 11am–9pm, Thu–Sat 11am–10pm, Sun 11am–9pm",
       "priceRange": "$$",
