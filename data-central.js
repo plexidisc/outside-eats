@@ -3582,6 +3582,7 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.app.goo.gl/TjFMu191zHyqw2D16",
       "websiteUri": "https://www.chillspotrendezvous.com/",
       "location": {},
+      "placeId": "ChIJTd1wkaqfj4ARnRoT7536NHg",
       "cuisine": "Desserts",
       "keywords": [
         "ice cream",
