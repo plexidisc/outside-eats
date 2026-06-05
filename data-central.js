@@ -3584,13 +3584,18 @@ var PREBAKED_DATA_CENTRAL = {
       "location": {},
       "cuisine": "Desserts",
       "keywords": [
-        "ice cream"
+        "ice cream",
+        "ice cream shop",
+        "dessert café",
+        "vegan ice cream",
+        "filipino food",
+        "global street food"
       ],
       "menuUrl": "https://www.chillspotrendezvous.com/menu",
       "phone": "(650) 420-6477",
       "hours": "Tue-Sun, 4pm-9pm",
       "priceRange": "$$",
-      "description": "Premium Gourmet Ice Cream, homemade with unique, delicious flavors.",
+      "description": "San Mateo ice cream café serving gourmet handcrafted scoops, global street food, and community events.",
       "photoUrl": "images/restaurant-photos/san-mateo/Chill Spot Rendezvous Small.jpeg"
     },
     {
