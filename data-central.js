@@ -3579,7 +3579,7 @@ var PREBAKED_DATA_CENTRAL = {
         "languageCode": "en"
       },
       "formattedAddress": "271 Baldwin Ave, San Mateo, CA 94401",
-      "googleMapsUri": "google.com/maps/place/Chill+Spot+Rendezvous/data=!4m2!3m1!1s0x0:0x7834fa9def131a9d?sa=X&ved=1t:2428&ictx=111",
+      "googleMapsUri": "https://www.google.com/maps/search/Chill+Spot+Rendezvous+271+Baldwin+Ave+San+Mateo+CA",
       "websiteUri": "https://www.chillspotrendezvous.com/",
       "location": {},
       "cuisine": "Desserts",
