@@ -8442,6 +8442,25 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1780632382434",
+      "displayName": {
+        "text": "Chill Spot Rendezvous",
+        "languageCode": "en"
+      },
+      "formattedAddress": "271 Baldwin Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Chill+Spot+Rendezvous/@37.567194,-122.3280633,1337m/data=!3m2!1e3!4b1!4m6!3m5!1s0x808f9faa9170dd4d:0x7834fa9def131a9d!8m2!3d37.567194!4d-122.325483!16s%2Fg%2F11wx2l2240?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "https://www.chillspotrendezvous.com/",
+      "location": {},
+      "keywords": [
+        "ice cream"
+      ],
+      "menuUrl": "https://www.chillspotrendezvous.com/menu",
+      "phone": "(650) 420-6477",
+      "hours": "Tue-Sun, 4pm-9pm",
+      "priceRange": "$$",
+      "description": "Premium Gourmet Ice Cream, homemade with unique, delicious flavors."
     }
   ],
   "Foster City, CA": [
