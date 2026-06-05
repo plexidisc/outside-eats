@@ -3590,7 +3590,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 420-6477",
       "hours": "Tue-Sun, 4pm-9pm",
       "priceRange": "$$",
-      "description": "Premium Gourmet Ice Cream, homemade with unique, delicious flavors."
+      "description": "Premium Gourmet Ice Cream, homemade with unique, delicious flavors.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Chill Spot Rendezvous Small.jpeg"
     },
     {
       "id": "ChIJ-f64XwCfj4ARy9MhdAdp8kY",
