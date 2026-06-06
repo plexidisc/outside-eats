@@ -9806,31 +9806,29 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ3Wzc81Cfj4ARY1QwuJ1YQ_0",
-      "formattedAddress": "1301 6th Ave, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5174842,
-        "longitude": -122.27500680000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18249527549458666595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.farmhousebelmont.com/",
       "displayName": {
         "text": "Farm House",
         "languageCode": "en"
       },
+      "formattedAddress": "1301 6th Ave, Belmont, CA 94002, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=18249527549458666595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.farmhousebelmont.com/",
+      "location": {},
       "cuisine": "American",
-      "phone": "(650) 593-7311",
-      "description": "Seasonally changing menu with fresh ingredients made in-house daily.",
-      "hours": "Mon Closed, Tue–Thu 5:30pm–9pm, Fri 11am–2pm & 5:30pm–9pm, Sat 10:30am–2pm & 5:30pm–9pm, Sun 10:30am–2pm",
-      "menuUrl": "https://www.toasttab.com/farm-house-belmont/v3",
-      "priceRange": "$$",
       "keywords": [
         "american",
         "comfort food",
         "breakfast",
         "lunch",
         "casual",
-        "family friendly"
+        "family friendly",
+        "lambchop"
       ],
+      "menuUrl": "https://www.toasttab.com/farm-house-belmont/v3",
+      "phone": "(650) 593-7311",
+      "hours": "Mon Closed, Tue–Thu 5:30pm–9pm, Fri 11am–2pm & 5:30pm–9pm, Sat 10:30am–2pm & 5:30pm–9pm, Sun 10:30am–2pm",
+      "priceRange": "$$",
+      "description": "Seasonally changing menu with fresh ingredients made in-house daily.",
       "photoUrl": "images/restaurant-photos/belmont/Farm House Small.jpeg"
     },
     {
