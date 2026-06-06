@@ -10591,32 +10591,6 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
-      "id": "ChIJMcAME5ifj4ARq1hDHBhJzYY",
-      "formattedAddress": "786 Old County Rd, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5235165,
-        "longitude": -122.2786934
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9713500339210246315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/_tappd/",
-      "displayName": {
-        "text": "TAPP'D by SHMASH'D",
-        "languageCode": "en"
-      },
-      "cuisine": "Burgers",
-      "photoUrl": "images/restaurant-photos/belmont/Tappd Shmashd burgers Small.jpeg",
-      "phone": "(650) 867-5632",
-      "keywords": [
-        "burgers",
-        "smash burgers",
-        "american",
-        "fries",
-        "casual",
-        "lunch",
-        "dinner"
-      ]
-    },
-    {
       "id": "ChIJ69NpAFGfj4AROfcL_JjqWkE",
       "formattedAddress": "1316 El Camino Real, Belmont, CA 94002, USA",
       "location": {
