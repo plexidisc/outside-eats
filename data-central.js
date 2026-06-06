@@ -4240,6 +4240,7 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=10922842658916507258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://drinkfieldwork.com/san-mateo/",
       "location": {},
+      "placeId": "ChIJXYm1UR2fj4ARep4zzoa7lZc",
       "cuisine": "Brewery",
       "keywords": [
         "craft beer",
@@ -4251,6 +4252,7 @@ var PREBAKED_DATA_CENTRAL = {
         "american",
         "pretzels"
       ],
+      "videoUrl": "https://youtube.com/shorts/u-LurCZhr-4?feature=share",
       "phone": "(650) 242-1280",
       "hours": "Mon–Thu 12pm–9pm, Fri 12pm–10pm, Sat 11am–10pm, Sun 11am–9pm",
       "priceRange": "$$",
