@@ -3078,6 +3078,7 @@ var PREBAKED_DATA_CENTRAL = {
       "googleMapsUri": "https://maps.google.com/?cid=2885115096179696978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.bahchesf.com/",
       "location": {},
+      "placeId": "ChIJ_yqFjbqfj4ARUmXo2-T8CSg",
       "cuisine": "Mediterranean",
       "keywords": [
         "outdoor seating",
@@ -3090,6 +3091,7 @@ var PREBAKED_DATA_CENTRAL = {
         "greek"
       ],
       "menuUrl": "https://www.bahchesf.com/menu",
+      "videoUrl": "https://youtube.com/shorts/j_ojVohM75Y?feature=share",
       "phone": "(650) 315-2197",
       "hours": "Mon–Thu 11am–2pm, 4:30pm–9pm, Fri 11am–2pm, 4:30pm–9:30pm, Sat 11am–9:30pm, Sun 11am–9pm",
       "priceRange": "$$",
