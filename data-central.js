@@ -3048,7 +3048,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1779924828025",
-    "placeId": "ChIJZUKtRO6dj4ARnBtJIUgEkwM",
+      "placeId": "ChIJZUKtRO6dj4ARnBtJIUgEkwM",
       "displayName": {
         "text": "Backhaus",
         "languageCode": "en"
@@ -3555,7 +3555,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778251763637",
-    "placeId": "ChIJgyRbEgOfj4AR8ilzv4qcOqA",
+      "placeId": "ChIJgyRbEgOfj4AR8ilzv4qcOqA",
       "displayName": {
         "text": "Cheesecake Factory",
         "languageCode": "en"
@@ -3733,7 +3733,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1779577998337",
-    "placeId": "ChIJFRMcD6Wfj4ARe8WY3sKQsdI",
+      "placeId": "ChIJFRMcD6Wfj4ARe8WY3sKQsdI",
       "displayName": {
         "text": "Cruel Donuts & Ice Cream",
         "languageCode": "en"
@@ -4035,7 +4035,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_edis_quesabirrias_san_mateo",
-    "placeId": "ChIJ1dqUT7Kfj4ARJjWhF4JuDFI",
+      "placeId": "ChIJ1dqUT7Kfj4ARJjWhF4JuDFI",
       "displayName": {
         "text": "Edi's Quesabirrias and Tacos (Food Truck)",
         "languageCode": "en"
@@ -4098,7 +4098,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_el_sabor_de_mi_pueblo_san_mateo",
-    "placeId": "ChIJTWuhuaKdj4ARZTCofuVb3E8",
+      "placeId": "ChIJTWuhuaKdj4ARZTCofuVb3E8",
       "displayName": {
         "text": "El Sabor de Mi Pueblo (Food Truck)",
         "languageCode": "en"
@@ -4132,7 +4132,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778987417597",
-    "placeId": "ChIJd_2CuE-fj4ARf9eFhxhsbFw",
+      "placeId": "ChIJd_2CuE-fj4ARf9eFhxhsbFw",
       "displayName": {
         "text": "El Sanignacense (food truck)",
         "languageCode": "en"
@@ -5080,7 +5080,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778251321614",
-    "placeId": "ChIJI8hXPHCej4ARmURyGovdOmk",
+      "placeId": "ChIJI8hXPHCej4ARmURyGovdOmk",
       "displayName": {
         "text": "Kaz Teriyaki Grill",
         "languageCode": "en"
@@ -5365,7 +5365,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_leos_tacos_truck_san_mateo",
-    "placeId": "ChIJw1lxEgCfj4AR1G2b0NVDT-c",
+      "placeId": "ChIJw1lxEgCfj4AR1G2b0NVDT-c",
       "displayName": {
         "text": "Leo's Tacos Truck (Food Truck)",
         "languageCode": "en"
@@ -5501,7 +5501,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_los_carnalitos_san_mateo",
-    "placeId": "ChIJOycOZACfj4ARmUbln-ELdJs",
+      "placeId": "ChIJOycOZACfj4ARmUbln-ELdJs",
       "displayName": {
         "text": "Los Carnalitos (Food Truck)",
         "languageCode": "en"
@@ -6220,7 +6220,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1779923749111",
-    "placeId": "ChIJjepZJnCej4ARSdvGEZ7KNFo",
+      "placeId": "ChIJjepZJnCej4ARSdvGEZ7KNFo",
       "displayName": {
         "text": "Noah's NY Bagels",
         "languageCode": "en"
@@ -6679,29 +6679,26 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJCeDDEXCej4ARCMv4Lie2nj8",
-      "formattedAddress": "140 E 4th Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5637701,
-        "longitude": -122.32270030000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4584301750117780232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.pizzamyheart.com/",
       "displayName": {
-        "text": "Pizza My Heart",
+        "text": "Pizza My Heart (San Mateo)",
         "languageCode": "en"
       },
+      "formattedAddress": "140 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4584301750117780232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.pizzamyheart.com/",
+      "location": {},
       "cuisine": "Pizza",
-      "photoUrl": "images/restaurant-photos/san-mateo/Pizza My Heart Small.jpeg",
-      "phone": "(650) 344-9800",
-      "description": "Award-winning pizzas loaded with locally grown California farm ingredients.",
-      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
-      "menuUrl": "https://www.pizzamyheart.com/menu/",
-      "priceRange": "$",
       "keywords": [
         "pizza",
         "fast casual",
         "counter service"
-      ]
+      ],
+      "menuUrl": "https://www.pizzamyheart.com/menu/",
+      "phone": "(650) 344-9800",
+      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
+      "priceRange": "$",
+      "description": "Award-winning pizzas loaded with locally grown California farm ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Pizza My Heart Small.jpeg"
     },
     {
       "id": "ChIJtVBa0viej4ARVQZlZFwYlQI",
@@ -6970,7 +6967,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778003935551",
-    "placeId": "ChIJUTZt2Xaej4ARkUPLEc7vUXY",
+      "placeId": "ChIJUTZt2Xaej4ARkUPLEc7vUXY",
       "displayName": {
         "text": "Reposado",
         "languageCode": "en"
@@ -7906,7 +7903,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778252203958",
-    "placeId": "ChIJ3TudkFifj4AR1-KkklUy_3U",
+      "placeId": "ChIJ3TudkFifj4AR1-KkklUy_3U",
       "displayName": {
         "text": "Taqueria Las Pencas #2",
         "languageCode": "en"
@@ -7957,7 +7954,7 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778255094906",
-    "placeId": "ChIJZe2ninaej4AR0VJDQPRwrYU",
+      "placeId": "ChIJZe2ninaej4AR0VJDQPRwrYU",
       "displayName": {
         "text": "Taqueria Los Primos",
         "languageCode": "en"
