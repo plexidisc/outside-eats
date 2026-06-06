@@ -3677,7 +3677,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Irish pub offering local beers, low proof cocktails, and hearty comfort food in a warm community atmosphere.",
       "menuUrl": "https://www.thewildroverpub.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/redwood-city/The Wild Rover Small.jpeg"
     },
     {
       "id": "ChIJf399Ja2jj4AR_dT4Cif26EQ",
