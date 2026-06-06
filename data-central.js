@@ -8375,30 +8375,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJBz99fZqfj4AR0xl3FAfBon8",
-      "formattedAddress": "310 Baldwin Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.567282,
-        "longitude": -122.32459899999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9197125625196255699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://whisperfusion.com/",
       "displayName": {
         "text": "Whisper",
         "languageCode": "en"
       },
+      "formattedAddress": "310 Baldwin Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9197125625196255699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://whisperfusion.com/",
+      "location": {},
       "cuisine": "Fusion",
-      "photoUrl": "images/restaurant-photos/san-mateo/Whisper : Wunderbar Small.jpeg",
-      "phone": "(650) 727-3799",
-      "description": "Chef Nick Yoon crafts fusion flavors with precision and originality.",
-      "hours": "Mon–Thu 9:30am–2:30pm, 5:30pm–9pm, Fri 9:30am–2:30pm, 5:30pm–9:30pm, Sat 8:30am–3pm, 5:30pm–9:30pm, Sun 8:30am–3pm, 5:30pm–9pm",
-      "menuUrl": "https://pos.chowbus.com/online-ordering/store/Whisper/23635",
-      "priceRange": "$$",
       "keywords": [
         "fusion",
         "date night",
         "cocktails",
         "dinner only"
-      ]
+      ],
+      "menuUrl": "https://pos.chowbus.com/online-ordering/store/Whisper/23635",
+      "videoUrl": "https://youtube.com/shorts/20r39VY54wQ?feature=share",
+      "phone": "(650) 727-3799",
+      "hours": "Mon–Thu 9:30am–2:30pm, 5:30pm–9pm, Fri 9:30am–2:30pm, 5:30pm–9:30pm, Sat 8:30am–3pm, 5:30pm–9:30pm, Sun 8:30am–3pm, 5:30pm–9pm",
+      "priceRange": "$$",
+      "description": "Chef Nick Yoon crafts fusion flavors with precision and originality.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Whisper : Wunderbar Small.jpeg"
     },
     {
       "id": "ChIJQ5Cpuxmfj4AR6J-ovmEli1E",
