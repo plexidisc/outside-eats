@@ -1350,7 +1350,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Authentic Bavarian bierstube and market with hearty German food, thoughtfully selected German and craft beers, and rare European goods.",
       "menuUrl": "http://gourmethausstaudt.com/menu",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/redwood-city/Gourmet Haus Staudt Small.jpeg"
     },
     {
       "id": "ChIJ617NLqajj4ARGc1OWKkKyM8",
