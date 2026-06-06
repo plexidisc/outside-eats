@@ -2078,7 +2078,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Specializing in elote snacks and traditional Mexican corn dishes with unique flavors inspired by street vendors from Michoacán.",
       "menuUrl": "https://www.doordash.com/store/maizz-redwood-city-32226995/",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/redwood-city/Maizz Small.jpeg"
     },
     {
       "id": "ChIJfQQy06yjj4AR5K2Xz5XI4Kk",
