@@ -3199,7 +3199,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Fish sourced from Japan's Toyosu Market, expertly dry aged to enhance umami and showcase peak flavors.",
       "menuUrl": "https://www.sushiai-rwc.com/menu",
-      "priceRange": "$$$$"
+      "priceRange": "$$$$",
+      "photoUrl": "images/restaurant-photos/redwood-city/Sushi Ai Small.jpeg"
     },
     {
       "id": "ChIJGfNQqe6jj4ARKmUbzfYpVoA",
