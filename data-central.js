@@ -6684,7 +6684,7 @@ var PREBAKED_DATA_CENTRAL = {
     {
       "id": "ChIJCeDDEXCej4ARCMv4Lie2nj8",
       "displayName": {
-        "text": "Pizza My Heart",
+        "text": "Pizza My Heart (San Mateo)",
         "languageCode": "en"
       },
       "formattedAddress": "140 E 4th Ave, San Mateo, CA 94401, USA",
