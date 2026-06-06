@@ -9480,21 +9480,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJvxctKkqfj4ARlfJ5z2uke-c",
-      "formattedAddress": "111 Industrial Rd #8, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5215315,
-        "longitude": -122.2660101
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16680106427846095509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.bwbbrewing.com/",
       "displayName": {
         "text": "Brewing With Brothas",
         "languageCode": "en"
       },
-      "cuisine": "Other",
-      "description": "First Black-owned brewery from East Palo Alto with award-winning Belgian ales.",
-      "hours": "Mon–Wed Closed, Thu–Fri 5pm–9pm, Sat 12:30pm–9:30pm, Sun Closed",
-      "menuUrl": "https://www.bwbbrewing.com/menus?menu=dinner-menu",
+      "formattedAddress": "111 Industrial Rd #8, Belmont, CA 94002, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16680106427846095509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bwbbrewing.com/",
+      "location": {},
+      "cuisine": "brewery",
       "keywords": [
         "brewery",
         "craft beer",
@@ -9505,6 +9499,9 @@ var PREBAKED_DATA_CENTRAL = {
         "lager",
         "live music"
       ],
+      "menuUrl": "https://www.bwbbrewing.com/menus?menu=dinner-menu",
+      "hours": "Mon–Wed Closed, Thu–Fri 5pm–9pm, Sat 12:30pm–9:30pm, Sun Closed",
+      "description": "First Black-owned brewery from East Palo Alto with award-winning Belgian ales.",
       "photoUrl": "images/restaurant-photos/belmont/Brewing With Brothas Small.jpeg"
     },
     {
