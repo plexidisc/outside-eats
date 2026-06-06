@@ -2965,7 +2965,7 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon–Thu 4pm–9pm, Fri-Sat 12pm–10pm, Sun 11:30am–8:30pm",
       "priceRange": "$$",
       "description": "Traditional Filipino recipes elevated with contemporary techniques and local ingredients.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Avenida Small.jpeg"
+      "photoUrl": "images/restaurant-photos/san-mateo/Avenida Restaurant Small.jpeg"
     },
     {
       "id": "ChIJb-BteXCej4ARhYpP7JyS9cA",
