@@ -9824,7 +9824,7 @@ var PREBAKED_DATA_CENTRAL = {
         "family friendly",
         "lambchop"
       ],
-      "menuUrl": "https://www.toasttab.com/farm-house-belmont/v3",
+      "menuUrl": "https://www.farmhousebelmont.com/menu",
       "phone": "(650) 593-7311",
       "hours": "Mon Closed, Tue–Thu 5:30pm–9pm, Fri 11am–2pm & 5:30pm–9pm, Sat 10:30am–2pm & 5:30pm–9pm, Sun 10:30am–2pm",
       "priceRange": "$$",
