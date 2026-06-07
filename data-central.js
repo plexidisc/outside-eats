@@ -9046,23 +9046,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJpXTlUimfj4ARk7iiKUV13gg",
-      "formattedAddress": "901 Edgewater Blvd Suite E, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.545397099999995,
-        "longitude": -122.2716033
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=639077137044912275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Rickshaw Corner",
         "languageCode": "en"
       },
+      "formattedAddress": "901 Edgewater Blvd Suite E, Foster City, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=639077137044912275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://rickshawcorner.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/foster-city/Rickshaw Corner Small.jpeg",
-      "phone": "(650) 574-2603",
-      "hours": "Mon–Sat 11am–8pm, Sun Closed",
-      "menuUrl": "https://www.yelp.com/menu/rickshaw-corner-restaurant-foster-city",
-      "priceRange": "$",
       "keywords": [
         "chinese",
         "cantonese",
@@ -9072,7 +9064,12 @@ var PREBAKED_DATA_CENTRAL = {
         "family style",
         "casual",
         "lunch"
-      ]
+      ],
+      "menuUrl": "https://www.yelp.com/menu/rickshaw-corner-restaurant-foster-city",
+      "phone": "(650) 574-2603",
+      "hours": "Mon–Sat 11am–8pm, Sun Closed",
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/foster-city/Rickshaw Corner Small.jpeg"
     },
     {
       "id": "ChIJj4VWjUefj4ARzRHHhGocRCM",
