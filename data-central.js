@@ -6197,30 +6197,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ30KkXSOfj4AR-BP4ArnxwN0",
-      "formattedAddress": "5 S Ellsworth Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.567075599999995,
-        "longitude": -122.3248422
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15979037254831576056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.no5house.com/",
       "displayName": {
         "text": "No.5 House",
         "languageCode": "en"
       },
+      "formattedAddress": "5 S Ellsworth Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15979037254831576056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.no5house.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/No. 5 House Small.jpeg",
-      "phone": "(650) 727-3142",
-      "description": "Authentic Chinese flavors with a modern twist for memorable dining.",
-      "hours": "Mon 10:30am–2:30pm, 5pm–9pm, Tue Closed, Wed–Fri 10:30am–2:30pm, 5pm–9pm, Sat–Sun 10:30am–9pm",
-      "menuUrl": "https://www.no5house.com/menu/",
-      "priceRange": "$",
       "keywords": [
         "chinese",
         "noodles",
         "fast casual",
         "counter service"
-      ]
+      ],
+      "menuUrl": "https://www.no5house.com/menu/",
+      "videoUrl": "https://youtube.com/shorts/U8dwh0kqggQ?feature=share",
+      "phone": "(650) 727-3142",
+      "hours": "Mon 10:30am–2:30pm, 5pm–9pm, Tue Closed, Wed–Fri 10:30am–2:30pm, 5pm–9pm, Sat–Sun 10:30am–9pm",
+      "priceRange": "$",
+      "description": "Authentic Chinese flavors with a modern twist for memorable dining.",
+      "photoUrl": "images/restaurant-photos/san-mateo/No. 5 House Small.jpeg"
     },
     {
       "id": "manual_1779923749111",
