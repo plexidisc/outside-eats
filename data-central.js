@@ -9064,6 +9064,7 @@ var PREBAKED_DATA_CENTRAL = {
         "lunch"
       ],
       "menuUrl": "https://www.yelp.com/menu/rickshaw-corner-restaurant-foster-city",
+      "videoUrl": "https://youtube.com/shorts/CO6AsUhDe5c?feature=share",
       "phone": "(650) 574-2603",
       "hours": "Mon–Sat 11am–8pm, Sun Closed",
       "priceRange": "$",
