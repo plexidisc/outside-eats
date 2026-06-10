@@ -7580,7 +7580,7 @@ var PREBAKED_DATA_CENTRAL = {
       "cuisine": "Mexican",
       "phone": "(650) 581-1284",
       "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Suavecito Birria Small.jpeg",
+      "photoUrl": "images/restaurant-photos/san-mateo/Suavecito Birria Tacos Small.jpeg",
       "hours": "Mon–Closed, Tue–Thu 10:30am–8pm, Fri–Sat 10:30am–9pm, Sun 10:30am–8pm",
       "menuUrl": "http://www.suavecitosm.com/menu",
       "priceRange": "$$",
