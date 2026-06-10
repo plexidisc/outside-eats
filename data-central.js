@@ -9819,6 +9819,7 @@ var PREBAKED_DATA_CENTRAL = {
         "lambchop"
       ],
       "menuUrl": "https://www.farmhousebelmont.com/menu",
+      "videoUrl": "https://youtube.com/shorts/7gmQ7EWG32c?feature=share",
       "phone": "(650) 593-7311",
       "hours": "Mon Closed, Tue–Thu 5:30pm–9pm, Fri 11am–2pm & 5:30pm–9pm, Sat 10:30am–2pm & 5:30pm–9pm, Sun 10:30am–2pm",
       "priceRange": "$$",
