@@ -9494,6 +9494,7 @@ var PREBAKED_DATA_CENTRAL = {
         "live music"
       ],
       "menuUrl": "https://www.bwbbrewing.com/menus?menu=dinner-menu",
+      "videoUrl": "https://youtube.com/shorts/MGTT1022Xj0?feature=share",
       "hours": "Mon–Wed Closed, Thu–Fri 5pm–9pm, Sat 12:30pm–9:30pm, Sun Closed",
       "description": "First Black-owned brewery from East Palo Alto with award-winning Belgian ales.",
       "photoUrl": "images/restaurant-photos/belmont/Brewing With Brothas Small.jpeg"
