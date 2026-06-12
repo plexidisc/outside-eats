@@ -2900,6 +2900,7 @@ var PREBAKED_DATA_CENTRAL = {
         "turkish"
       ],
       "menuUrl": "https://www.doordash.com/store/anatolian-san-mateo-34039627/",
+      "videoUrl": "https://youtube.com/shorts/pGDvI8MnGFo?feature=share",
       "phone": "(650) 445-7273",
       "hours": "Mon–Sun 8am–7pm",
       "priceRange": "$$",
