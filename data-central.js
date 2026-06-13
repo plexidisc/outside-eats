@@ -3598,6 +3598,7 @@ var PREBAKED_DATA_CENTRAL = {
         "global street food"
       ],
       "menuUrl": "https://www.chillspotrendezvous.com/menu",
+      "videoUrl": "https://youtube.com/shorts/99zXLtVDQbo?feature=share",
       "phone": "(650) 420-6477",
       "hours": "Tue-Sun, 4pm-9pm",
       "priceRange": "$$",
