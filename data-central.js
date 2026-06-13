@@ -6957,9 +6957,10 @@ var PREBAKED_DATA_CENTRAL = {
         "italian",
         "pasta",
         "ravioli",
-        "family friendly"
+        "family friendly",
+        "sandwiches"
       ],
-      "menuUrl": "https://www.yelp.com/menu/the-ravioli-house-san-mateo",
+      "menuUrl": "https://www.theraviolihouse.com/",
       "phone": "(650) 344-7433",
       "hours": "Mon–Sat 10am–3pm, Sun Closed",
       "priceRange": "$",
