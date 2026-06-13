@@ -6944,30 +6944,27 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJp5jfy3qej4ARVlOWBNuy_eg",
-      "formattedAddress": "505 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.56410880000001,
-        "longitude": -122.3204674
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16788771639651619670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Ravioli House",
         "languageCode": "en"
       },
+      "formattedAddress": "505 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16788771639651619670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.theraviolihouse.com/",
+      "location": {},
       "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/san-mateo/Ravioli House Small.jpeg",
-      "phone": "(650) 344-7433",
-      "description": "Ravioli made with a restored vintage machine from the 1930s.",
-      "hours": "Mon–Sat 10am–3pm, Sun Closed",
-      "menuUrl": "https://www.yelp.com/menu/the-ravioli-house-san-mateo",
-      "priceRange": "$",
       "keywords": [
         "italian",
         "pasta",
         "ravioli",
         "family friendly"
-      ]
+      ],
+      "menuUrl": "https://www.yelp.com/menu/the-ravioli-house-san-mateo",
+      "phone": "(650) 344-7433",
+      "hours": "Mon–Sat 10am–3pm, Sun Closed",
+      "priceRange": "$",
+      "description": "Ravioli made with a restored vintage machine from the 1930s.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ravioli House Small.jpeg"
     },
     {
       "id": "manual_1778003935551",
