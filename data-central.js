@@ -1805,24 +1805,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJsXRBVUt4j4ARVcqO4yjah7I",
-      "formattedAddress": "824 Cowan Rd, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.6026874,
-        "longitude": -122.37473179999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12864490729758444117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.newenglandlobster.net/",
       "displayName": {
         "text": "New England Lobster Market & Eatery",
         "languageCode": "en"
       },
+      "formattedAddress": "824 Cowan Rd, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12864490729758444117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.newenglandlobster.net/",
+      "location": {},
       "cuisine": "Seafood",
-      "phone": "(650) 443-1559",
-      "description": "Largest lobster tank on West Coast with fresh Maine lobster.",
-      "hours": "Mon–Sun 11am–9pm",
-      "menuUrl": "https://order.toasttab.com/online/new-england-lobster-market-eatery",
-      "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/burlingame/New England Lobster Market Small.jpeg",
       "keywords": [
         "outdoor seating",
         "seafood",
@@ -1832,7 +1823,13 @@ var PREBAKED_DATA_CENTRAL = {
         "groups",
         "family friendly",
         "special occasion"
-      ]
+      ],
+      "menuUrl": "https://newenglandlobster.net/eatery/",
+      "phone": "(650) 443-1559",
+      "hours": "Mon–Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Largest lobster tank on West Coast with fresh Maine lobster.",
+      "photoUrl": "images/restaurant-photos/burlingame/New England Lobster Market Small.jpeg"
     },
     {
       "id": "ChIJP2Uqw_Gdj4ARx2LPjRVSfU4",
