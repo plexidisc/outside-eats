@@ -7155,30 +7155,27 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ51llI8Sfj4AR3U6RBSjFVeg",
-      "formattedAddress": "3158 Campus Dr, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.5339434,
-        "longitude": -122.3285659
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16741503965502459613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://sfhalal.com/",
       "displayName": {
         "text": "Sal's Burgers",
         "languageCode": "en"
       },
+      "formattedAddress": "3158 Campus Dr, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16741503965502459613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://sfhalal.com/",
+      "location": {},
       "cuisine": "Burgers",
-      "photoUrl": "images/restaurant-photos/san-mateo/Sals Burgers Small.jpeg",
-      "phone": "(650) 437-2140",
-      "description": "Voted best burgers, offering thoughtfully crafted halal burgers with quality.",
-      "hours": "Mon–Sat 11am–8pm, Sun 11am–8pm",
-      "menuUrl": "https://www.yelp.com/biz/sals-burgers-san-mateo-2",
-      "priceRange": "$$",
       "keywords": [
         "burgers",
         "fast casual",
         "counter service",
         "family friendly"
-      ]
+      ],
+      "menuUrl": "https://www.sfhalal.com/menu",
+      "phone": "(650) 437-2140",
+      "hours": "Mon–Sat 11am–8pm, Sun 11am–8pm",
+      "priceRange": "$$",
+      "description": "Voted best burgers, offering thoughtfully crafted halal burgers with quality.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sals Burgers Small.jpeg"
     },
     {
       "id": "ChIJD3cjhPOfj4ARp9sj08g3cjw",
