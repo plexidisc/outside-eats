@@ -3685,29 +3685,27 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJRTWR2O6fj4ARAqPsTcQX5Hk",
-      "formattedAddress": "50 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5635731,
-        "longitude": -122.3250106
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8783171305167692546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://colanderkitchens.com/",
       "displayName": {
         "text": "Colander Kitchens",
         "languageCode": "en"
       },
+      "formattedAddress": "50 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8783171305167692546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://colanderkitchens.com/",
+      "location": {},
       "cuisine": "Fusion",
-      "photoUrl": "images/restaurant-photos/san-mateo/Colander Kitchens Small.jpeg",
-      "phone": "(415) 997-0024",
-      "description": "Multiple dining concepts from Southern brunch to sushi burritos together.",
-      "hours": "Mon–Fri 9am–2:30pm, Sat–Sun Closed",
-      "menuUrl": "https://colanderkitchens.com/menus/",
-      "priceRange": "$",
       "keywords": [
         "fast casual",
         "counter service",
         "healthy options"
-      ]
+      ],
+      "menuUrl": "https://colanderkitchens.com/menus/",
+      "videoUrl": "https://youtube.com/shorts/-KRblrBbBaI?feature=share",
+      "phone": "(415) 997-0024",
+      "hours": "Mon–Fri 9am–2:30pm, Sat–Sun Closed",
+      "priceRange": "$",
+      "description": "Multiple dining concepts from Southern brunch to sushi burritos together.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Colander Kitchens Small.jpeg"
     },
     {
       "id": "ChIJ7VEHR9Ofj4AR6AEUKzk2Y38",
