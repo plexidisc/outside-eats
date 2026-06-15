@@ -2729,6 +2729,7 @@ var PREBAKED_DATA_CENTRAL = {
         "date night",
         "romantic atmosphere"
       ],
+      "videoUrl": "https://youtube.com/shorts/24h8vSK3xKU?feature=share",
       "phone": "650-387-0888",
       "hours": "Mon–Tue Closed, Wed–Sun 5pm–10pm",
       "priceRange": "$$",
