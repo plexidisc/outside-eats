@@ -5072,6 +5072,7 @@ var PREBAKED_DATA_CENTRAL = {
         "outdoor seating"
       ],
       "menuUrl": "https://www.kajikenusa.com/menu-1",
+      "videoUrl": "https://youtube.com/shorts/I1pBE_GH90Q?feature=share",
       "phone": "(650) 458-3061",
       "hours": "Mon–Thu 11am–2pm, 5pm–9pm, Fri–Sat 11am–10pm, Sun 11am–9:30pm",
       "priceRange": "$$",
