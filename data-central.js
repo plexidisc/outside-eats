@@ -3279,24 +3279,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJrQxCoJKdj4AR1Tmf4lRpJdU",
-      "formattedAddress": "1007 Howard Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.585951099999996,
-        "longitude": -122.33355870000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15358797917517199829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://bonjourbakehouse.com/",
       "displayName": {
         "text": "Bonjour Bakehouse",
         "languageCode": "en"
       },
+      "formattedAddress": "1007 Howard Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15358797917517199829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://bonjourbakehouse.com/",
+      "location": {},
       "cuisine": "Cafe/Bakery",
-      "phone": "(650) 476-4095",
-      "description": "Award-winning French bakery featuring seasonal treats from local farmers' market ingredients.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Bonjour Bakehouse Small.jpeg",
-      "hours": "Mon–Fri 7am–1pm, Sat–Sun 8am–1pm",
-      "menuUrl": "https://www.doordash.com/store/bonjour-bakehouse-san-mateo-24720396/",
-      "priceRange": "$$",
       "keywords": [
         "bakery",
         "breakfast",
@@ -3304,7 +3295,14 @@ var PREBAKED_DATA_CENTRAL = {
         "pastries",
         "coffee",
         "lunch"
-      ]
+      ],
+      "menuUrl": "https://www.doordash.com/store/bonjour-bakehouse-san-mateo-24720396/",
+      "videoUrl": "https://youtube.com/shorts/QEkIeFnbdr8?feature=share",
+      "phone": "(650) 476-4095",
+      "hours": "Mon–Fri 7am–1pm, Sat–Sun 8am–1pm",
+      "priceRange": "$$",
+      "description": "Award-winning French bakery featuring seasonal treats from local farmers' market ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Bonjour Bakehouse Small.jpeg"
     },
     {
       "id": "ChIJEZSWcoqfj4ARRh1KStl4i3s",
