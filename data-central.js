@@ -7171,6 +7171,7 @@ var PREBAKED_DATA_CENTRAL = {
         "family friendly"
       ],
       "menuUrl": "https://www.sfhalal.com/menu",
+      "videoUrl": "https://youtube.com/shorts/ordfHf-zLEE?feature=share",
       "phone": "(650) 437-2140",
       "hours": "Mon–Sat 11am–8pm, Sun 11am–8pm",
       "priceRange": "$$",
