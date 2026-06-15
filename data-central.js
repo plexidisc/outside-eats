@@ -5689,29 +5689,27 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJERZ2ZWWdj4ARCAAjBDaa2_Q",
-      "formattedAddress": "851 N San Mateo Dr, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5764971,
-        "longitude": -122.33832649999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17643865521942364168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://mateopizza.com/",
       "displayName": {
         "text": "Mateo Pizza Restaurant",
         "languageCode": "en"
       },
+      "formattedAddress": "851 N San Mateo Dr, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17643865521942364168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mateopizza.com/",
+      "location": {},
       "cuisine": "Pizza",
-      "photoUrl": "images/restaurant-photos/san-mateo/Meteo Pizza Small.jpeg",
-      "phone": "(650) 210-7616",
-      "description": "New York-style halal pizzas with Turkish influence and fresh ingredients.",
-      "hours": "Mon–Sun 11:00am–1:30am",
-      "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/mateo-pizza/menu",
-      "priceRange": "$$",
       "keywords": [
         "pizza",
         "family friendly",
         "delivery"
-      ]
+      ],
+      "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/mateo-pizza/menu",
+      "videoUrl": "https://youtube.com/shorts/t5DEhDnJ1uU?feature=share",
+      "phone": "(650) 210-7616",
+      "hours": "Mon–Sun 11:00am–1:30am",
+      "priceRange": "$$",
+      "description": "New York-style halal pizzas with Turkish influence and fresh ingredients.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Meteo Pizza Small.jpeg"
     },
     {
       "id": "ChIJ7TKz_xmfj4ARtQgGqsBFIBQ",
