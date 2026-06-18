@@ -7559,30 +7559,28 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJkUR07V2fj4AR7gvfwL9kCVs",
-      "formattedAddress": "1100 S Amphlett Blvd, San Mateo, CA 94402, USA",
-      "location": {
-        "latitude": 37.5640882,
-        "longitude": -122.30735159999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6559885106979212270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.suavecitosm.com/",
       "displayName": {
         "text": "Suavecito Birria & Tacos",
         "languageCode": "en"
       },
+      "formattedAddress": "1100 S Amphlett Blvd, San Mateo, CA 94402, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6559885106979212270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.suavecitosm.com/",
+      "location": {},
       "cuisine": "Mexican",
-      "phone": "(650) 581-1284",
-      "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Suavecito Birria Tacos Small.jpeg",
-      "hours": "Mon–Closed, Tue–Thu 10:30am–8pm, Fri–Sat 10:30am–9pm, Sun 10:30am–8pm",
-      "menuUrl": "http://www.suavecitosm.com/menu",
-      "priceRange": "$$",
       "keywords": [
         "birria tacos",
         "mexican",
         "fast casual",
         "counter service"
-      ]
+      ],
+      "menuUrl": "http://www.suavecitosm.com/menu",
+      "videoUrl": "https://youtube.com/shorts/Vi5YyKKTnMQ?feature=share",
+      "phone": "(650) 581-1284",
+      "hours": "Mon–Closed, Tue–Thu 10:30am–8pm, Fri–Sat 10:30am–9pm, Sun 10:30am–8pm",
+      "priceRange": "$$",
+      "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Suavecito Birria Tacos Small.jpeg"
     },
     {
       "id": "ChIJPwJWe3Cej4AR2tUwdkF4nL8",
