@@ -13328,7 +13328,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:00 AM – 1:00 AM",
         "Sunday": "11:00 AM – 1:00 AM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Everest Cuisine-Mountain View Small.jpeg"
     },
     {
       "id": "ChIJlTUD1AGxj4ARuBRu9Dj2OxE",
