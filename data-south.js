@@ -11022,7 +11022,8 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$$",
       "keywords": [
         "greek"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/los-altos/Cetrella Small.jpeg"
     },
     {
       "id": "ChIJaXfxOu6wj4ARO0BnfIvT9Bo",
