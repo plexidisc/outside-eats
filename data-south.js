@@ -14471,7 +14471,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:00 AM – 1:00 AM",
         "Sunday": "11:00 AM – 1:00 AM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Momo King- Mountain View Small.jpeg"
     },
     {
       "id": "ChIJnTWJhiuxj4ARN8YqFg7pbmE",
