@@ -6962,7 +6962,7 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 344-7433",
       "hours": "Mon–Sat 10am–3pm, Sun Closed",
       "priceRange": "$",
-      "description": "Ravioli made with a restored vintage machine from the 1930s.",
+      "description": "Historical San Mateo institution since 1940's. Ravioli made with a restored vintage machine from the 1930s paired with legendary handcrafted sandwiches.",
       "photoUrl": "images/restaurant-photos/san-mateo/Ravioli House Small.jpeg"
     },
     {
