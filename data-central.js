@@ -3296,14 +3296,17 @@ var PREBAKED_DATA_CENTRAL = {
         "brunch",
         "pastries",
         "coffee",
-        "lunch"
+        "lunch",
+        "croissant",
+        "scones",
+        "cookies"
       ],
       "menuUrl": "https://www.doordash.com/store/bonjour-bakehouse-san-mateo-24720396/",
       "videoUrl": "https://youtube.com/shorts/QEkIeFnbdr8?feature=share",
       "phone": "(650) 476-4095",
       "hours": "Mon–Fri 7am–1pm, Sat–Sun 8am–1pm",
       "priceRange": "$$",
-      "description": "Award-winning French bakery featuring seasonal treats from local farmers' market ingredients.",
+      "description": "Award-winning French bakery featuring seasonal treats from local farmers' market ingredients. Specialized in croissants, scones and cookies.",
       "photoUrl": "images/restaurant-photos/san-mateo/Bonjour Bakehouse Small.jpeg"
     },
     {
