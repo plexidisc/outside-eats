@@ -5709,7 +5709,9 @@ var PREBAKED_DATA_CENTRAL = {
         "pizza",
         "family friendly",
         "delivery",
-        "turkish food"
+        "turkish food",
+        "new york crust",
+        "halal"
       ],
       "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/mateo-pizza/menu",
       "videoUrl": "https://youtube.com/shorts/t5DEhDnJ1uU?feature=share",
