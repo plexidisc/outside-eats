@@ -13907,7 +13907,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "12:00 PM – 3:00 PM, 5:00 PM – 9:00 PM",
         "Sunday": "12:00 PM – 3:00 PM, 5:00 PM – 9:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Khao Kang Thai Kitchen Small.jpeg"
     },
     {
       "id": "ChIJl6WpAwCxj4ARGS8burVhH-Q",
