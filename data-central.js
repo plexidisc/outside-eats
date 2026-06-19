@@ -7166,14 +7166,16 @@ var PREBAKED_DATA_CENTRAL = {
         "burgers",
         "fast casual",
         "counter service",
-        "family friendly"
+        "family friendly",
+        "patty melt",
+        "halal"
       ],
       "menuUrl": "https://www.sfhalal.com/menu",
       "videoUrl": "https://youtube.com/shorts/ordfHf-zLEE?feature=share",
       "phone": "(650) 437-2140",
       "hours": "Mon–Sat 11am–8pm, Sun 11am–8pm",
       "priceRange": "$$",
-      "description": "Voted best burgers, offering thoughtfully crafted halal burgers with quality.",
+      "description": "Voted as one of the best burgers in San Mateo, offering thoughtfully crafted halal burgers with quality. Sal himself recommends the Patty Melt.",
       "photoUrl": "images/restaurant-photos/san-mateo/Sals Burgers Small.jpeg"
     },
     {
