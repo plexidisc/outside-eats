@@ -13682,7 +13682,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "2:00 PM – 8:30 PM",
         "Sunday": "Closed"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/I’l Portale Italian Restaurant by Los Portales Small.jpeg"
     },
     {
       "id": "ChIJ1bwjGQCxj4ARk3g2XaSpZDY",
