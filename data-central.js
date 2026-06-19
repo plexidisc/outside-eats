@@ -3697,7 +3697,10 @@ var PREBAKED_DATA_CENTRAL = {
       "keywords": [
         "fast casual",
         "counter service",
-        "healthy options"
+        "healthy options",
+        "ribeye steak",
+        "sushi",
+        "sushi burrito"
       ],
       "menuUrl": "https://colanderkitchens.com/menus/",
       "videoUrl": "https://youtube.com/shorts/-KRblrBbBaI?feature=share",
