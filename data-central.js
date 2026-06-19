@@ -5708,14 +5708,15 @@ var PREBAKED_DATA_CENTRAL = {
       "keywords": [
         "pizza",
         "family friendly",
-        "delivery"
+        "delivery",
+        "turkish food"
       ],
       "menuUrl": "https://slicelife.com/restaurants/ca/san-mateo/94401/mateo-pizza/menu",
       "videoUrl": "https://youtube.com/shorts/t5DEhDnJ1uU?feature=share",
       "phone": "(650) 210-7616",
       "hours": "Mon–Sun 11:00am–1:30am",
       "priceRange": "$$",
-      "description": "New York-style halal pizzas with Turkish influence and fresh ingredients.",
+      "description": "One of San Mateo's high rated pizza. Mateo pizza combines New York-style crust with Turkish flavors and fresh ingredients to offer a unique experience unlike any other.",
       "photoUrl": "images/restaurant-photos/san-mateo/Meteo Pizza Small.jpeg"
     },
     {
