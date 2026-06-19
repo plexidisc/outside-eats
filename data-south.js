@@ -14013,7 +14013,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "9:00 AM – 9:00 PM",
         "Sunday": "10:00 AM – 8:00 PM"
       },
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/mountain-view/La Costeña Small.jpeg"
     },
     {
       "id": "ChIJ1aqkYgCxj4ARoH9RI07fXEQ",
