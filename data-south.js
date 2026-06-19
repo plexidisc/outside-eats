@@ -13581,7 +13581,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "11:00 AM – 3:00 PM, 5:00 PM – 10:00 PM",
         "Sunday": "11:00 AM – 3:00 PM, 5:00 PM – 10:00 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Himalayan Kitchen Small.jpeg"
     },
     {
       "id": "ChIJDwVSiN-3j4ARzmdKWdvDSDs",
