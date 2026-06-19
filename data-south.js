@@ -14086,7 +14086,8 @@ var PREBAKED_DATA_SOUTH = {
         "Saturday": "5:00 PM – 8:30 PM",
         "Sunday": "5:00 PM – 8:30 PM"
       },
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/La Fiesta Small.jpeg"
     },
     {
       "id": "ChIJZ54APTS3j4ARBYZD956MHq8",
