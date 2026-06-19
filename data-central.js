@@ -7574,14 +7574,15 @@ var PREBAKED_DATA_CENTRAL = {
         "birria tacos",
         "mexican",
         "fast casual",
-        "counter service"
+        "counter service",
+        "tacos"
       ],
       "menuUrl": "http://www.suavecitosm.com/menu",
       "videoUrl": "https://youtube.com/shorts/Vi5YyKKTnMQ?feature=share",
       "phone": "(650) 581-1284",
       "hours": "Mon–Closed, Tue–Thu 10:30am–8pm, Fri–Sat 10:30am–9pm, Sun 10:30am–8pm",
       "priceRange": "$$",
-      "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas.",
+      "description": "A collaboration between local chefs serving tacos, burritos, and quesadillas. Specialize in Birria and fresh agua fresca.",
       "photoUrl": "images/restaurant-photos/san-mateo/Suavecito Birria Tacos Small.jpeg"
     },
     {
