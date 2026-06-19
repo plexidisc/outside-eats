@@ -7244,24 +7244,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJbQOaZ3Cej4ARpMxBFKP_K3A",
-      "formattedAddress": "174 E 3rd Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5646972,
-        "longitude": -122.32334890000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8082835032131095716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.sanmateoprime.com/",
       "displayName": {
         "text": "San Mateo Prime",
         "languageCode": "en"
       },
+      "formattedAddress": "174 E 3rd Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=8082835032131095716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.sanmateoprime.com/",
+      "location": {},
       "cuisine": "Steakhouse",
-      "photoUrl": "images/restaurant-photos/san-mateo/San Mateo Prime Small.jpeg",
-      "phone": "(650) 558-8918",
-      "description": "Dry aged prime rib slowly roasted to perfection since 2007.",
-      "hours": "Mon–Tue Closed, Wed–Sun 5pm–9pm",
-      "menuUrl": "https://www.yelp.com/menu/san-mateo-prime-san-mateo",
-      "priceRange": "$$$",
       "keywords": [
         "steakhouse",
         "prime beef",
@@ -7270,7 +7261,13 @@ var PREBAKED_DATA_CENTRAL = {
         "full bar",
         "wine list",
         "private dining"
-      ]
+      ],
+      "menuUrl": "http://www.sanmateoprime.com/menu.html",
+      "phone": "(650) 558-8918",
+      "hours": "Mon–Tue Closed, Wed–Sun 5pm–9pm",
+      "priceRange": "$$$",
+      "description": "Dry aged prime rib slowly roasted to perfection since 2007.",
+      "photoUrl": "images/restaurant-photos/san-mateo/San Mateo Prime Small.jpeg"
     },
     {
       "id": "ChIJ2VGpcliej4ARL6SrI46lA4I",
