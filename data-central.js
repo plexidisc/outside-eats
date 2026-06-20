@@ -7197,7 +7197,7 @@ var PREBAKED_DATA_CENTRAL = {
         "halal"
       ],
       "menuUrl": "https://www.sfhalal.com/menu",
-      "videoUrl": "https://youtube.com/shorts/ordfHf-zLEE?feature=share",
+      "videoUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oICfA2BXGLCxkItAgUIGimeIRAXpAcHPIqe3Bj/?a=1988&bti=ODszNWYuMDE6&&bt=1631&ft=aEeq8qT0mIoPD12axZBI3wU4yzAbMeF~O5&mime_type=video_mp4&rc=NDllZDY1NDZmNWc6aDhlNEBpM2o6anI5cjlwOzMzaTczNEBeMTYwYWA2NTIxNi00MGAvYSM2LXJoMmRza2thLS1kMTJzcw%3D%3D&expire=1782162279&l=202606202103389F7B050A1F627AC2BB95&ply_type=2&policy=2&signature=ac81ddfd7a114a815343a86911553c92&tk=tt_chain_token&btag=e00090000",
       "phone": "(650) 437-2140",
       "hours": "Mon–Sat 11am–8pm, Sun 11am–8pm",
       "priceRange": "$$",
