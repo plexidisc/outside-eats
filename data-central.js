@@ -7601,7 +7601,7 @@ var PREBAKED_DATA_CENTRAL = {
         "tacos"
       ],
       "menuUrl": "http://www.suavecitosm.com/menu",
-      "videoUrl": "https://youtube.com/shorts/Vi5YyKKTnMQ?feature=share",
+      "videoUrl": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/o8qau4CKkw8UzbQ7iiMPjEIw4Fv3KSBBAAEHg/?a=1988&bti=ODszNWYuMDE6&&bt=1402&ft=aEeq8qT0mIoPD12axZBI3wUYXzAbMeF~O5&mime_type=video_mp4&rc=PDg4ZmhkOTo8aDdnNGQ4ZEBpajNvd3I5cmRlOzMzZzczNEBeYjIxYy9fX18xYWAwXzQxYSMwMWxxMmQ0bWxhLS1kMS9zcw%3D%3D&expire=1782162281&l=20260620210338E9678EA5B84F5AC14968&ply_type=2&policy=2&signature=8fef92df1b9abe40f98393c8f0ea5682&tk=tt_chain_token&btag=e00090000",
       "phone": "(650) 581-1284",
       "hours": "Mon–Closed, Tue–Thu 10:30am–8pm, Fri–Sat 10:30am–9pm, Sun 10:30am–8pm",
       "priceRange": "$$",
