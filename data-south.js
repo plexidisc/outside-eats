@@ -10323,6 +10323,27 @@ var PREBAKED_DATA_SOUTH = {
       "description": "Inner Mongolian restaurant on El Camino Real with hand-pulled noodles, lamb-based dishes, and bold northern Chinese flavors rarely found on the Peninsula."
     },
     {
+      "id": "manual_1782146253013",
+      "displayName": {
+        "text": "Timothy Adams Chocolates",
+        "languageCode": "en"
+      },
+      "formattedAddress": "539 Bryant St, Palo Alto, CA 94301",
+      "googleMapsUri": "https://www.google.com/maps/place/Timothy+Adams+Chocolates/@37.4455397,-122.1633168,1305m/data=!3m2!1e3!4b1!4m6!3m5!1s0x808fbb3983592457:0x500e7ad0fc976035!8m2!3d37.4455397!4d-122.1607365!16s%2Fg%2F11b5pl46xq?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "https://timothyadamschocolates.com/",
+      "location": {},
+      "placeId": "ChIJVyRZgzm7j4ARNWCX_NB6DlA",
+      "cuisine": "dessert",
+      "keywords": [
+        "chocolate"
+      ],
+      "menuUrl": "https://timothyadamschocolates.com/pages/chocolates",
+      "phone": "(415) 755-8923",
+      "hours": "Tues - Thu 12pm - 9pm, Fri - Sat 12pm - 10pm",
+      "priceRange": "$$",
+      "description": "Handcrafted luxury chocolates created in small batches using the finest all natural French chocolate and ingredients. Artistic designs are as beautiful as they are delicious. Order online and delivered in 2 days."
+    },
+    {
       "id": "ChIJgVkH4BO7j4AR9Qj0HVCbuy8",
       "formattedAddress": "540 Bryant St, Palo Alto, CA 94301, USA",
       "location": {
@@ -10698,27 +10719,6 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.zolapaloalto.com/",
       "priceRange": "$$$",
       "description": "Romantic French-California bistro on California Avenue with a changing seasonal menu, natural wine program, and intimate BarZola cocktail lounge next door."
-    },
-    {
-      "id": "manual_1782146253013",
-      "displayName": {
-        "text": "Timothy Adams Chocolates",
-        "languageCode": "en"
-      },
-      "formattedAddress": "539 Bryant St, Palo Alto, CA 94301",
-      "googleMapsUri": "",
-      "websiteUri": "https://timothyadamschocolates.com/",
-      "location": {},
-      "placeId": "ChIJVyRZgzm7j4ARNWCX_NB6DlA",
-      "cuisine": "dessert",
-      "keywords": [
-        "chocolate"
-      ],
-      "menuUrl": "https://timothyadamschocolates.com/pages/chocolates",
-      "phone": "(415) 755-8923",
-      "hours": "Tues - Thu 12pm - 9pm, Fri - Sat 12pm - 10pm",
-      "priceRange": "$$",
-      "description": "Handcrafted luxury chocolates created in small batches using the finest all natural French chocolate and ingredients. Artistic designs are as beautiful as they are delicious. Order online and delivered in 2 days."
     }
   ],
   "Los Altos, CA": [
