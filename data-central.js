@@ -2712,6 +2712,20 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$",
       "description": "Food Truck",
       "photoUrl": "images/restaurant-photos/burlingame/Watani Spot Small.jpeg"
+    },
+    {
+      "id": "manual_1782169627372",
+      "displayName": {
+        "text": "Busy Lizzy’s Baked Goods",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1231 Burlingame Ave, Burlingame, CA 94010",
+      "googleMapsUri": "https://www.google.com/maps/place/Busy+Lizzy%E2%80%99s+Baked+Goods/@37.5786219,-122.3493499,1422m/data=!3m2!1e3!4b1!4m6!3m5!1s0x808f9db7b1668993:0x557c208d588cefbe!8m2!3d37.5786219!4d-122.3467696!16s%2Fg%2F11q8h1lzvv?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "https://www.busylizzysbakedgoods.com/",
+      "location": {},
+      "placeId": "ChIJVyRZgzm7j4ARNWCX_NB6DlA",
+      "cuisine": "Cafe/Bakery",
+      "phone": "(650) 389-7602"
     }
   ],
   "San Mateo, CA": [
