@@ -1104,7 +1104,8 @@ var PREBAKED_DATA_CENTRAL = {
         "asian",
         "fast casual",
         "counter service"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/burlingame/Happy Chef Small.jpeg"
     },
     {
       "id": "ChIJORjJh2d3j4ARPJK8q1uPWXM",
