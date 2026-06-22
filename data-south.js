@@ -10717,7 +10717,8 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://timothyadamschocolates.com/pages/chocolates",
       "phone": "(415) 755-8923",
       "hours": "Tues - Thu 12pm - 9pm, Fri - Sat 12pm - 10pm",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "description": "Handcrafted luxury chocolates created in small batches using the finest all natural French chocolate and ingredients. Artistic designs are as beautiful as they are delicious. Order online and delivered in 2 days."
     }
   ],
   "Los Altos, CA": [
