@@ -10715,7 +10715,9 @@ var PREBAKED_DATA_SOUTH = {
         "chocolate"
       ],
       "menuUrl": "https://timothyadamschocolates.com/pages/chocolates",
-      "phone": "(415) 755-8923"
+      "phone": "(415) 755-8923",
+      "hours": "Tues - Thu 12pm - 9pm, Fri - Sat 12pm - 10pm",
+      "priceRange": "$$"
     }
   ],
   "Los Altos, CA": [
