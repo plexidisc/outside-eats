@@ -10710,6 +10710,10 @@ var PREBAKED_DATA_SOUTH = {
       "websiteUri": "https://timothyadamschocolates.com/",
       "location": {},
       "placeId": "ChIJVyRZgzm7j4ARNWCX_NB6DlA",
+      "cuisine": "dessert",
+      "keywords": [
+        "chocolate"
+      ],
       "menuUrl": "https://timothyadamschocolates.com/pages/chocolates",
       "phone": "(415) 755-8923"
     }
