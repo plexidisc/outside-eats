@@ -10698,6 +10698,20 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.zolapaloalto.com/",
       "priceRange": "$$$",
       "description": "Romantic French-California bistro on California Avenue with a changing seasonal menu, natural wine program, and intimate BarZola cocktail lounge next door."
+    },
+    {
+      "id": "manual_1782146253013",
+      "displayName": {
+        "text": "Timothy Adams Chocolates",
+        "languageCode": "en"
+      },
+      "formattedAddress": "539 Bryant St, Palo Alto, CA 94301",
+      "googleMapsUri": "",
+      "websiteUri": "https://timothyadamschocolates.com/",
+      "location": {},
+      "placeId": "ChIJVyRZgzm7j4ARNWCX_NB6DlA",
+      "menuUrl": "https://timothyadamschocolates.com/pages/chocolates",
+      "phone": "(415) 755-8923"
     }
   ],
   "Los Altos, CA": [
