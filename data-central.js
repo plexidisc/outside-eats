@@ -8183,24 +8183,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJOWymJtWYj4ARenbrS8PUIJ8",
-      "formattedAddress": "34 E 4th Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.562566499999996,
-        "longitude": -122.3243596
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11466398586542716538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.tokies.com/",
       "displayName": {
         "text": "Tokie's Downtown",
         "languageCode": "en"
       },
+      "formattedAddress": "34 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11466398586542716538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.tokies.com/",
+      "location": {},
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Tokies Downtown Small.jpeg",
-      "phone": "(650) 570-6609",
-      "description": "Over 40 years serving Japanese comfort food in family atmosphere.",
-      "hours": "Mon Closed, Tue–Thu 5pm–9pm, Fri–Sat 5pm–9:30pm, Sun 4pm–8:30pm",
-      "menuUrl": "https://www.tokies.com/menu",
-      "priceRange": "$$",
       "keywords": [
         "japanese",
         "sushi",
@@ -8208,7 +8199,13 @@ var PREBAKED_DATA_CENTRAL = {
         "sake",
         "happy hour"
       ],
-      "award": "Best of San Mateo 2026 — Best Japanese Restaurants Winner"
+      "menuUrl": "https://www.tokies.com/menu",
+      "phone": "(650) 570-6609",
+      "hours": "Mon Closed, Tue–Thu 5pm–9pm, Fri–Sat 5pm–9:30pm, Sun 4pm–8:30pm",
+      "priceRange": "$$",
+      "description": "Over 40 years serving Japanese comfort food in family atmosphere.",
+      "award": "Best of San Mateo 2026 — Best Japanese Restaurants Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/Tokies Downtown Small.jpeg"
     },
     {
       "id": "ChIJkc4PgMGfj4ARLqAROaUFcRg",
