@@ -545,7 +545,8 @@ var PREBAKED_DATA_CENTRAL = {
       "menuUrl": "https://busylizzysbakedgoods.com/collections/all",
       "phone": "(650) 389-7602",
       "priceRange": "$$",
-      "description": "Busy Lizzy's Baked Goods is a Burlingame bakery known for handcrafted cookies, brownies, and baked treats made from scratch with premium ingredients and irresistible flavor."
+      "description": "Busy Lizzy's Baked Goods is a Burlingame bakery known for handcrafted cookies, brownies, and baked treats made from scratch with premium ingredients and irresistible flavor.",
+      "photoUrl": "images/restaurant-photos/burlingame/Busy Lizzy’s Baked Goods Small.jpeg"
     },
     {
       "id": "ChIJ45ZB6_Gdj4ARJDuklX8gUXk",
