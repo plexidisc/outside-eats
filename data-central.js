@@ -4754,23 +4754,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJcSNm1sGdj4ARp19r8dgKWYY",
-      "formattedAddress": "1012 Howard Ave, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.585788,
-        "longitude": -122.333264
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9680780800889151399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.hotwokbistrosm.com/",
       "displayName": {
         "text": "Hot Wok Bistro",
         "languageCode": "en"
       },
+      "formattedAddress": "1012 Howard Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9680780800889151399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.hotwokbistrosm.com/",
+      "location": {},
       "cuisine": "Chinese",
-      "phone": "(650) 548-1758",
-      "photoUrl": "images/restaurant-photos/san-mateo/Hot wok Bistro Small.jpeg",
-      "hours": "Mon–Sat 11:30am–9pm, Sun 4pm–9pm",
-      "menuUrl": "https://hotwokbistrosanmateoca.com/hot-wok-bistro/menu/1012-Howard-Ave/",
-      "priceRange": "$",
       "keywords": [
         "chinese",
         "wok",
@@ -4778,7 +4770,13 @@ var PREBAKED_DATA_CENTRAL = {
         "counter service",
         "delivery"
       ],
-      "award": "Best of San Mateo 2026 — Best Chinese Restaurants Winner"
+      "menuUrl": "http://www.hotwokbistrosm.com/",
+      "phone": "(650) 548-1758",
+      "hours": "Mon–Sat 11:30am–9pm, Sun 4pm–9pm",
+      "priceRange": "$",
+      "description": "Neighborhood spot with a cozy and warm atmosphere offering Chinese food at a good price.",
+      "award": "Best of San Mateo 2026 — Best Chinese Restaurants Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/Hot wok Bistro Small.jpeg"
     },
     {
       "id": "ChIJeYxGt3Gej4ARWlGEOdBa0LE",
