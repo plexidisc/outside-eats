@@ -8521,6 +8521,27 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1782251544172",
+      "displayName": {
+        "text": "TinyB Chocolate Shop",
+        "languageCode": "en"
+      },
+      "formattedAddress": "407 S B St, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/tinyB+chocolate+shop/@37.5646423,-122.3212258,1341m/data=!3m2!1e3!4b1!4m6!3m5!1s0x808f7dde19080ab7:0x2c6dd51b0e423feb!8m2!3d37.5646423!4d-122.3212258!16s%2Fg%2F11b8_tx90j?entry=ttu&g_ep=EgoyMDI2MDYyMS4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "https://tinybchocolate.com/",
+      "location": {},
+      "placeId": "ChIJtwoIGd59j4AR6z9CDhvVbSw",
+      "cuisine": "Dessert",
+      "keywords": [
+        "chocolate",
+        "brigadeiros",
+        "dubai chocolate",
+        "cookies"
+      ],
+      "menuUrl": "https://tinybchocolate.com/collections/all-products",
+      "phone": "(415) 854-0344"
     }
   ],
   "Foster City, CA": [
