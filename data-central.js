@@ -5066,6 +5066,7 @@ var PREBAKED_DATA_CENTRAL = {
         "family friendly"
       ],
       "menuUrl": "https://www.toasttab.com/local/order/johnnys-san-mateo/r-a38d1c27-5035-4575-9b55-a50ca778a6b2",
+      "videoUrl": "https://youtube.com/shorts/qdkqayZbvXY?feature=share",
       "phone": "(650) 520-2323",
       "hours": "Mon–Sun 8am–2pm",
       "priceRange": "$$",
