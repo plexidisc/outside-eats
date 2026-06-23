@@ -8231,7 +8231,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(415) 854-0344",
       "hours": "Mon-Sun 11am-7pm",
       "priceRange": "$$",
-      "description": "TinyB Chocolate handcrafts authentic Brazilian brigadeiros in small batches using premium ingredients, creating rich, gluten-free chocolate treats inspired by tradition and made in San Mateo."
+      "description": "TinyB Chocolate handcrafts authentic Brazilian brigadeiros in small batches using premium ingredients, creating rich, gluten-free chocolate treats inspired by tradition and made in San Mateo.",
+      "photoUrl": "images/restaurant-photos/san-mateo/TinyB Chocolate Shop Small.jpeg"
     },
     {
       "id": "ChIJOWymJtWYj4ARenbrS8PUIJ8",
