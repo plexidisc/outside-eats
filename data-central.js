@@ -9926,24 +9926,15 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJVYfuqVafj4ARsjl40gxQnJw",
-      "formattedAddress": "1500 El Camino Real, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.51612550000001,
-        "longitude": -122.27120850000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=11284982782284544434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://godfathersburgerlounge.com/",
       "displayName": {
         "text": "Godfather's Burger Lounge",
         "languageCode": "en"
       },
+      "formattedAddress": "1500 El Camino Real, Belmont, CA 94002, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=11284982782284544434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://godfathersburgerlounge.com/",
+      "location": {},
       "cuisine": "Burgers",
-      "photoUrl": "images/restaurant-photos/belmont/Godfathers Burger Lounge Small.jpeg",
-      "phone": "(650) 637-9257",
-      "description": "Gourmet grass-fed burgers served in movie-themed lounge with film slideshow.",
-      "hours": "Mon–Thu 11am–8:30pm, Fri–Sat 11am–9pm, Sun 11am–8:30pm",
-      "menuUrl": "https://godfathersburgerlounge.com/belmont-godfather-s-burger-lounge-food-menu",
-      "priceRange": "$$",
       "keywords": [
         "burgers",
         "american",
@@ -9954,7 +9945,14 @@ var PREBAKED_DATA_CENTRAL = {
         "lunch",
         "dinner"
       ],
-      "award": "Best of San Mateo 2026 — Best Burger Places Winner"
+      "menuUrl": "https://godfathersburgerlounge.com/belmont-godfather-s-burger-lounge-food-menu",
+      "videoUrl": "https://youtube.com/shorts/kvuMxXdts9k?feature=share",
+      "phone": "(650) 637-9257",
+      "hours": "Mon–Thu 11am–8:30pm, Fri–Sat 11am–9pm, Sun 11am–8:30pm",
+      "priceRange": "$$",
+      "description": "Gourmet grass-fed burgers served in movie-themed lounge with film slideshow.",
+      "award": "Best of San Mateo 2026 — Best Burger Places Winner",
+      "photoUrl": "images/restaurant-photos/belmont/Godfathers Burger Lounge Small.jpeg"
     },
     {
       "id": "ChIJs2k9e--fj4ARfwFcdE2rk6U",
