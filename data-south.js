@@ -6049,31 +6049,24 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "opening_shiok_singapore_kitchen",
-      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.4532,
-        "longitude": -122.183
-      },
-      "googleMapsUri": "https://maps.google.com/?q=625+Oak+Grove+Ave,+Menlo+Park,+CA",
-      "websiteUri": "https://shiokkitchen.com",
       "displayName": {
         "text": "Shiok Singapore Kitchen",
         "languageCode": "en"
       },
-      "cuisine": "Singaporean",
-      "phone": "(650) 838-9448",
-      "hours": {
-        "Monday": "11:00 AM - 8:30 PM",
-        "Tuesday": "11:00 AM - 8:30 PM",
-        "Wednesday": "11:00 AM - 8:30 PM",
-        "Thursday": "11:00 AM - 8:30 PM",
-        "Friday": "11:00 AM - 8:30 PM",
-        "Saturday": "11:00 AM - 8:30 PM",
-        "Sunday": "11:00 AM - 8:30 PM"
+      "formattedAddress": "625 Oak Grove Ave, Menlo Park, CA 94025, USA",
+      "googleMapsUri": "https://maps.google.com/?q=625+Oak+Grove+Ave,+Menlo+Park,+CA",
+      "websiteUri": "https://shiokkitchen.com",
+      "location": {
+        "latitude": 37.4532,
+        "longitude": -122.183
       },
-      "description": "Family-owned Singaporean kitchen serving authentic chili crab, laksa, and satay from recipes brought over from Singapore in 1999.",
+      "placeId": "ChIJu2z3_K-kj4AR56nmZskIkg4",
+      "cuisine": "Singaporean",
       "menuUrl": "https://shiokkitchen.com/menu",
-      "priceRange": "$$"
+      "phone": "(650) 838-9448",
+      "hours": "Mon-Sun 11:00 AM - 8:30 PM",
+      "priceRange": "$$",
+      "description": "Family-owned Singaporean kitchen serving authentic chili crab, laksa, and satay from recipes brought over from Singapore in 1999."
     },
     {
       "id": "ChIJLylwScmlj4ARj_Cu5p52tuc",
