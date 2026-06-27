@@ -16726,31 +16726,24 @@ var PREBAKED_DATA_SOUTH = {
   "Portola Valley, CA": [
     {
       "id": "opening_hibari",
-      "formattedAddress": "3130 Alpine Rd #240, Portola Valley, CA 94028, USA",
-      "location": {
-        "latitude": 37.374,
-        "longitude": -122.2146
-      },
-      "googleMapsUri": "https://maps.google.com/?q=3130+Alpine+Rd,+Portola+Valley,+CA",
-      "websiteUri": "https://hibariportolavalley.com",
       "displayName": {
         "text": "Hibari",
         "languageCode": "en"
       },
-      "cuisine": "Japanese",
-      "phone": "(650) 656-9243",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "Closed",
-        "Wednesday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
-        "Thursday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
-        "Friday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
-        "Saturday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
-        "Sunday": "11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM"
+      "formattedAddress": "3130 Alpine Rd #240, Portola Valley, CA 94028, USA",
+      "googleMapsUri": "https://maps.google.com/?q=3130+Alpine+Rd,+Portola+Valley,+CA",
+      "websiteUri": "https://hibariportolavalley.com",
+      "location": {
+        "latitude": 37.374,
+        "longitude": -122.2146
       },
-      "description": "Intimate kappo-style omakase from a former Nobu head sushi chef. Six-seat counter with chef-prepared courses and a 22-seat dining room with prix fixe tasting menus.",
+      "placeId": "ChIJKShbFMelj4AR11VKkU1Ia_w",
+      "cuisine": "Japanese",
       "menuUrl": "https://hibariportolavalley.com",
-      "priceRange": "$$$$"
+      "phone": "(650) 656-9243",
+      "hours": "Mon & Tue Closed, Wed-Sun 11:30 AM - 2:00 PM, 5:00 PM - 9:00 PM",
+      "priceRange": "$$$$",
+      "description": "Intimate kappo-style omakase from a former Nobu head sushi chef. Six-seat counter with chef-prepared courses and a 22-seat dining room with prix fixe tasting menus."
     }
   ]
 };
