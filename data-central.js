@@ -1365,6 +1365,7 @@ var PREBAKED_DATA_CENTRAL = {
         "latitude": 37.5898,
         "longitude": -122.3662
       },
+      "placeId": "ChIJwYo8l5Gdj4ARzYTiPg7X3JI",
       "cuisine": "Steakhouse",
       "keywords": [
         "outdoor seating",
