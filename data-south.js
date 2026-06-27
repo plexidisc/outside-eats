@@ -1928,21 +1928,16 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "885 Middlefield Rd space j, Redwood City, CA 94063, USA",
       "googleMapsUri": "https://maps.google.com/?cid=16561713066081744967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.limonrestaurants.com/",
-      "location": {},
-      "cuisine": "Peruvian",
-      "phone": "(650) 502-8800",
-      "hours": {
-        "Monday": "11:30 AM - 9:30 PM",
-        "Tuesday": "11:30 AM - 9:30 PM",
-        "Wednesday": "11:30 AM - 9:30 PM",
-        "Thursday": "11:30 AM - 9:30 PM",
-        "Friday": "11:30 AM - 10:30 PM",
-        "Saturday": "11:30 AM - 10:30 PM",
-        "Sunday": "11:30 AM - 9:30 PM"
+      "location": {
+        "latitude": 37.4862,
+        "longitude": -122.2281
       },
-      "description": "Innovative Peruvian cuisine fusing Incan staples with multicultural influences. Celebrated for exceptional ceviches, pisco sours, and vibrant atmosphere.",
+      "cuisine": "Peruvian",
       "menuUrl": "https://www.limonrestaurants.com/menus/",
+      "phone": "(650) 502-8800",
+      "hours": "Mon-Thu 11:30 AM - 9:30 PM, Fri & Sat 11:30 AM - 10:30 PM, Sun 11:30 AM - 9:30 PM",
       "priceRange": "$$",
+      "description": "Innovative Peruvian cuisine fusing Incan staples with multicultural influences. Celebrated for exceptional ceviches, pisco sours, and vibrant atmosphere.",
       "photoUrl": "images/restaurant-photos/redwood-city/Limon Small.jpeg"
     },
     {
