@@ -14483,24 +14483,19 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "650 Castro St suit 110, Mountain View, CA 94041, USA",
       "googleMapsUri": "https://maps.google.com/?cid=1278307253259405016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.mediterraneangrillhouse.com/",
-      "location": {},
-      "cuisine": "Mediterranean",
-      "menuUrl": "https://online-ordering.innowi.com/branch/medgrill",
-      "phone": "(650) 938-4048",
-      "hours": {
-        "Monday": "8:00 AM – 10:00 PM",
-        "Tuesday": "8:00 AM – 10:00 PM",
-        "Wednesday": "8:00 AM – 10:00 PM",
-        "Thursday": "8:00 AM – 10:00 PM",
-        "Friday": "8:00 AM – 10:00 PM",
-        "Saturday": "8:00 AM – 10:00 PM",
-        "Sunday": "8:00 AM – 10:00 PM"
+      "location": {
+        "latitude": 37.3916,
+        "longitude": -122.0805
       },
-      "priceRange": "$$",
-      "photoUrl": "images/restaurant-photos/mountain-view/Mediterranean Grill House xCoffee Small.jpeg",
+      "cuisine": "Mediterranean",
       "keywords": [
         "greek"
-      ]
+      ],
+      "menuUrl": "https://online-ordering.innowi.com/branch/medgrill",
+      "phone": "(650) 938-4048",
+      "hours": "Mon-Sun 8:00 AM – 10:00 PM",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/mountain-view/Mediterranean Grill House xCoffee Small.jpeg"
     },
     {
       "id": "ChIJczRbohGxj4ARJefRmnm2_mg",
