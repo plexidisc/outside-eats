@@ -3756,7 +3756,6 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778251763637",
-      "placeId": "ChIJgyRbEgOfj4AR8ilzv4qcOqA",
       "displayName": {
         "text": "Cheesecake Factory",
         "languageCode": "en"
@@ -3764,7 +3763,11 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "398 Hillsdale Shopping Ctr",
       "googleMapsUri": "https://www.google.com/maps/place/The+Cheesecake+Factory/data=!4m2!3m1!1s0x0:0xa03a9c8abf7329f2?sa=X&ved=1t:2428&ictx=111",
       "websiteUri": "https://www.thecheesecakefactory.com/?_ga=2.59035566.262883361.1778251379-1419924837.1778251379",
-      "location": {},
+      "location": {
+        "latitude": 37.5398,
+        "longitude": -122.2965
+      },
+      "placeId": "ChIJgyRbEgOfj4AR8ilzv4qcOqA",
       "cuisine": "American",
       "keywords": [
         "cheesecake"
