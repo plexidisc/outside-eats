@@ -13261,19 +13261,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "1040 Grant Rd STE 100, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=5177114792905938204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.eapingfresh.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.3524,
+        "longitude": -122.0831
+      },
       "cuisine": "Chinese",
       "menuUrl": "https://www.eapingfresh.com/9gar0j4y/eaping-fresh-chinese-mountain-view-94040/order-online?menu=All+Day+Menu&category=Mix+%26+Match+Box#menu-section",
       "phone": "(650) 964-8888",
-      "hours": {
-        "Monday": "11:00 AM – 9:00 PM",
-        "Tuesday": "11:00 AM – 9:00 PM",
-        "Wednesday": "11:00 AM – 9:00 PM",
-        "Thursday": "11:00 AM – 9:00 PM",
-        "Friday": "11:00 AM – 9:00 PM",
-        "Saturday": "11:00 AM – 9:00 PM",
-        "Sunday": "11:00 AM – 9:00 PM"
-      },
+      "hours": "Mon-Sun 11:00 AM – 9:00 PM",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/mountain-view/Eaping Small.jpeg"
     },
