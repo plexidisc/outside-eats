@@ -14323,19 +14323,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "1040 Grant Rd Suite #305, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=4692418714853246756&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.toasttab.com/local/order/los-amigos-mountainview/r-b3547295-bcda-415e-a1fa-d056c533cea4",
-      "location": {},
+      "location": {
+        "latitude": 37.3524,
+        "longitude": -122.0831
+      },
       "cuisine": "Mexican",
       "menuUrl": "https://www.toasttab.com/local/order/los-amigos-mountainview/r-b3547295-bcda-415e-a1fa-d056c533cea4",
       "phone": "(650) 965-0011",
-      "hours": {
-        "Monday": "10:00 AM – 10:00 PM",
-        "Tuesday": "10:00 AM – 10:00 PM",
-        "Wednesday": "10:00 AM – 10:00 PM",
-        "Thursday": "10:00 AM – 10:00 PM",
-        "Friday": "10:00 AM – 10:00 PM",
-        "Saturday": "10:00 AM – 10:00 PM",
-        "Sunday": "10:00 AM – 10:00 PM"
-      },
+      "hours": "Mon-Sun 10:00 AM – 10:00 PM",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/mountain-view/Los Amigos Small.jpeg"
     },
