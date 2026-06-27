@@ -12925,19 +12925,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "1910 W El Camino Real D, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=14164841659682382425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.caspiancuisineca.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.3871,
+        "longitude": -122.0988
+      },
       "cuisine": "Mediterranean",
       "menuUrl": "https://online-ordering.innowi.com/branch/caspianboost",
       "phone": "(650) 965-7400",
-      "hours": {
-        "Monday": "11:00 AM – 8:30 PM",
-        "Tuesday": "11:00 AM – 8:30 PM",
-        "Wednesday": "11:00 AM – 8:30 PM",
-        "Thursday": "11:00 AM – 8:30 PM",
-        "Friday": "11:00 AM – 8:30 PM",
-        "Saturday": "11:00 AM – 8:30 PM",
-        "Sunday": "11:00 AM – 3:00 PM"
-      },
+      "hours": "Mon-Sat 11:00 AM – 8:30 PM, Sun 11:00 AM – 3:00 PM",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/mountain-view/Caspian Small.jpeg"
     },
