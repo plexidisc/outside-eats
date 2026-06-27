@@ -1,4 +1,3 @@
-// Location coordinates sourced via OpenStreetMap Nominatim (openstreetmap.org/copyright)
 var PREBAKED_DATA_CENTRAL = {
   "Burlingame, CA": [
     {
@@ -97,18 +96,18 @@ var PREBAKED_DATA_CENTRAL = {
         "longitude": -122.345722
       },
       "cuisine": "Mexican",
-      "menuUrl": "https://amadoburlingame.com",
-      "hours": "[object Object]",
-      "priceRange": "$$$",
-      "description": "Chef Gloria Dominguez brings 38 years of mastery to upscale ancestral Mexican cuisine including seven regional moles, cochinita pibil, and wagyu beef tacos.",
-      "photoUrl": "images/restaurant-photos/burlingame/Amado Small.jpeg",
       "keywords": [
         "mexican",
         "upscale",
         "date night",
         "cocktails",
         "margaritas"
-      ]
+      ],
+      "menuUrl": "https://amadoburlingame.com",
+      "hours": "Sun-Thu 5pm-9:30pm, Fri-Sat 5pm-10:30pm",
+      "priceRange": "$$$",
+      "description": "Chef Gloria Dominguez brings 38 years of mastery to upscale ancestral Mexican cuisine including seven regional moles, cochinita pibil, and wagyu beef tacos.",
+      "photoUrl": "images/restaurant-photos/burlingame/Amado Small.jpeg"
     },
     {
       "id": "ChIJCZRsgLN3j4ARbGSv7IQs284",
