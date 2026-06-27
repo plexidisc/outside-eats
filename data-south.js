@@ -13829,25 +13829,20 @@ var PREBAKED_DATA_SOUTH = {
     {
       "id": "ChIJP_NCyBSxj4ARfaFtCqYUocU",
       "displayName": {
-        "text": "Il Fornaio | Mountain View",
+        "text": "Il Fornaio",
         "languageCode": "en"
       },
       "formattedAddress": "545 San Antonio Rd Suite 31, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=14240686200094302589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.ilfornaio.com/location/mountain-view/",
-      "location": {},
+      "location": {
+        "latitude": 37.4018,
+        "longitude": -122.1122
+      },
       "cuisine": "Italian",
       "menuUrl": "https://www.ilfornaio.com/menus/",
       "phone": "(650) 964-6283",
-      "hours": {
-        "Monday": "11:30 AM – 9:30 PM",
-        "Tuesday": "11:30 AM – 9:30 PM",
-        "Wednesday": "11:30 AM – 9:30 PM",
-        "Thursday": "11:30 AM – 9:30 PM",
-        "Friday": "11:30 AM – 9:30 PM",
-        "Saturday": "11:30 AM – 9:30 PM",
-        "Sunday": "11:30 AM – 9:30 PM"
-      },
+      "hours": "Mon-Sun 11:30 AM – 9:30 PM",
       "priceRange": "$$$",
       "photoUrl": "images/restaurant-photos/mountain-view/Il Fornaio Small.jpeg"
     },
