@@ -4799,6 +4799,7 @@ var PREBAKED_DATA_CENTRAL = {
         "delivery"
       ],
       "menuUrl": "http://www.hotwokbistrosm.com/",
+      "videoUrl": "https://youtube.com/shorts/EAieU5FFW4Y?feature=share",
       "phone": "(650) 548-1758",
       "hours": "Mon–Sat 11:30am–9pm, Sun 4pm–9pm",
       "priceRange": "$",
