@@ -3258,8 +3258,10 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "3081 S Delaware St Ste. C, San Mateo, CA 94403, USA",
       "googleMapsUri": "https://maps.google.com/?cid=2885115096179696978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.bahchesf.com/",
-      "location": {},
-      "placeId": "ChIJ_yqFjbqfj4ARUmXo2-T8CSg",
+      "location": {
+        "latitude": 37.5414,
+        "longitude": -122.3005
+      },
       "cuisine": "Mediterranean",
       "keywords": [
         "outdoor seating",
