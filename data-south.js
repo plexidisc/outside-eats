@@ -1,4 +1,3 @@
-// Location coordinates sourced via OpenStreetMap Nominatim (openstreetmap.org/copyright)
 var PREBAKED_DATA_SOUTH = {
   "Redwood City, CA": [
     {
@@ -734,21 +733,16 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "900 Middlefield Rd Ste A, Redwood City, CA 94063, USA",
       "googleMapsUri": "https://maps.google.com/?cid=9093549931299918319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://currypizzahouse.com/locations/redwood-city/",
-      "location": {},
-      "cuisine": "Fusion",
-      "phone": "(650) 362-3558",
-      "hours": {
-        "Monday": "10:00 AM - 12:00 AM",
-        "Tuesday": "10:00 AM - 12:00 AM",
-        "Wednesday": "10:00 AM - 12:00 AM",
-        "Thursday": "10:00 AM - 1:00 AM",
-        "Friday": "10:00 AM - 1:00 AM",
-        "Saturday": "10:00 AM - 1:00 AM",
-        "Sunday": "10:00 AM - 12:00 AM"
+      "location": {
+        "latitude": 37.4859,
+        "longitude": -122.2274
       },
-      "description": "Unique fusion of Indian spices and craft pizza since 2012, featuring fresh ingredients and creative flavors.",
+      "cuisine": "Fusion",
       "menuUrl": "https://currypizzahouse.com/menu/",
+      "phone": "(650) 362-3558",
+      "hours": "Mon-Wed 10:00 AM - 12:00 AM, Thu-Sat 10:00 AM - 1:00 AM, Sun 10:00 AM - 12:00 AM",
       "priceRange": "$$",
+      "description": "Unique fusion of Indian spices and craft pizza since 2012, featuring fresh ingredients and creative flavors.",
       "photoUrl": "images/restaurant-photos/redwood-city/Curry Pizza House Small.jpeg"
     },
     {
