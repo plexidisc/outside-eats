@@ -13815,19 +13815,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "1020 N Rengstorff Ave Suite EMountain, Mountain View, CA 94043, USA",
       "googleMapsUri": "https://maps.google.com/?cid=9453652933192599647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://locations.ikessandwich.com/ca/mountain-view/140/",
-      "location": {},
+      "location": {
+        "latitude": 37.422,
+        "longitude": -122.0922
+      },
       "cuisine": "American",
       "menuUrl": "https://www.ikessandwich.com/menu",
       "phone": "(650) 265-1111",
-      "hours": {
-        "Monday": "10:00 AM – 8:00 PM",
-        "Tuesday": "10:00 AM – 8:00 PM",
-        "Wednesday": "10:00 AM – 8:00 PM",
-        "Thursday": "10:00 AM – 8:00 PM",
-        "Friday": "10:00 AM – 8:00 PM",
-        "Saturday": "10:00 AM – 8:00 PM",
-        "Sunday": "10:00 AM – 8:00 PM"
-      },
+      "hours": "Mon-Sun 10:00 AM – 8:00 PM",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/mountain-view/Ikes Small.jpeg"
     },
