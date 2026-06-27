@@ -2991,7 +2991,10 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "66 21st Ave k15, San Mateo, CA 94403, USA",
       "googleMapsUri": "https://maps.google.com/?cid=10917318187807017123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.ammaskitchen.online/",
-      "location": {},
+      "location": {
+        "latitude": 37.5418,
+        "longitude": -122.3015
+      },
       "cuisine": "Indian",
       "keywords": [
         "dosa",
