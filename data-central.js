@@ -2857,7 +2857,11 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "117 S B St Suite A, San Mateo, CA 94401, USA",
       "googleMapsUri": "https://maps.google.com/?cid=5758847267307421578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.instagram.com/a2_wine_/",
-      "location": {},
+      "location": {
+        "latitude": 37.5558,
+        "longitude": -122.3235
+      },
+      "placeId": "ChIJXTASXQCfj4ARin-W8xOJ608",
       "cuisine": "Wine Bar",
       "keywords": [
         "charcuterie",
