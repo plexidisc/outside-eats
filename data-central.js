@@ -6768,13 +6768,11 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "48 Hillsdale Mall, San Mateo, CA 94403, USA",
       "googleMapsUri": "https://maps.google.com/?cid=9549412682736820287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://paletteteagarden.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.5645,
+        "longitude": -122.3175
+      },
       "cuisine": "Chinese",
-      "phone": "(650) 769-8888",
-      "hours": "Mon–Thu 11:30am–8:30pm, Fri 11am–9pm, Sat 10:30am–9pm, Sun 10:30am–8:30pm",
-      "priceRange": "$$",
-      "description": "Modern dim sum featuring unique Iberico Cha Siu and Peking Duck.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Palette_TeaG Small.jpeg",
       "keywords": [
         "dim sum",
         "cantonese",
@@ -6782,7 +6780,12 @@ var PREBAKED_DATA_CENTRAL = {
         "family friendly",
         "groups",
         "brunch"
-      ]
+      ],
+      "phone": "(650) 769-8888",
+      "hours": "Mon–Thu 11:30am–8:30pm, Fri 11am–9pm, Sat 10:30am–9pm, Sun 10:30am–8:30pm",
+      "priceRange": "$$",
+      "description": "Modern dim sum featuring unique Iberico Cha Siu and Peking Duck.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Palette_TeaG Small.jpeg"
     },
     {
       "id": "ChIJiZQybSCfj4ARUQYiq9JS-yE",
