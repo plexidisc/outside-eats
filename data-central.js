@@ -7315,7 +7315,6 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778003935551",
-      "placeId": "ChIJUTZt2Xaej4ARkUPLEc7vUXY",
       "displayName": {
         "text": "Reposado",
         "languageCode": "en"
@@ -7323,11 +7322,16 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "311 Baldwin Ave.",
       "googleMapsUri": "google.com/maps/place/Reposado+Restaurant+-+San+Mateo/data=!4m2!3m1!1s0x0:0x7651efce11cb4391?sa=X&ved=1t:2428&ictx=111",
       "websiteUri": "https://www.reposadorestaurant.com",
-      "location": {},
+      "location": {
+        "latitude": 37.5674,
+        "longitude": -122.3255
+      },
+      "placeId": "ChIJUTZt2Xaej4ARkUPLEc7vUXY",
       "cuisine": "Mexican",
       "keywords": [
         "fine dining"
       ],
+      "menuUrl": "https://www.reposadorestaurant.com/menu",
       "phone": "(650) 292-1321",
       "hours": "Mon-Fri 11:30am-3:00pm, Mon-Thur 4:00pm-10:00pm, Fri-Sat 4:00pm -10:30pm, Sun 4:00pm-9:00pm, Sat-Sun 11:00 am-3:00pm",
       "priceRange": "$$$",
