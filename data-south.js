@@ -13281,19 +13281,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "530 Showers Dr #4, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=15721545669704317468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.eightyeightsushi.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.4024,
+        "longitude": -122.112
+      },
       "cuisine": "Japanese",
       "menuUrl": "https://www.eightyeightsushi.com/menu/",
       "phone": "(650) 564-9060",
-      "hours": {
-        "Monday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Tuesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Wednesday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Thursday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Friday": "11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM",
-        "Saturday": "4:00 PM – 9:00 PM",
-        "Sunday": "4:00 PM – 9:00 PM"
-      },
+      "hours": "Mon-Fri 11:00 AM – 2:00 PM, 5:00 PM – 9:00 PM, Sat & Sun 4:00 PM – 9:00 PM",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/mountain-view/Eighty Eight Small.jpeg"
     },
