@@ -4426,21 +4426,14 @@ var PREBAKED_DATA_SOUTH = {
         "latitude": 37.4516617,
         "longitude": -122.1848195
       },
+      "placeId": "ChIJCXiv-Qelj4AR9V8pN11zgNE",
       "cuisine": "Wine Bar",
       "keywords": [
         "american"
       ],
       "menuUrl": "https://cafevivantca.com",
       "phone": "(650) 557-2244",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "4:30 PM – 8:30 PM",
-        "Wednesday": "4:30 PM – 8:30 PM",
-        "Thursday": "4:30 PM – 8:30 PM",
-        "Friday": "4:30 PM – 9:00 PM",
-        "Saturday": "4:30 PM – 9:00 PM",
-        "Sunday": "Closed"
-      },
+      "hours": "Mon Closed, Tue-Thu 4:30 PM – 8:30 PM, Fri & Sat 4:30 PM – 9:00 PM, Sun Closed",
       "priceRange": "$$$$",
       "description": "Heritage-breed chicken and an exceptional 3,000-bottle wine cellar from two sommeliers. One of the most distinctive new restaurants on the Peninsula.",
       "photoUrl": "images/restaurant-photos/menlo-park/Cafe Vivant Small.jpeg"
