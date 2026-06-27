@@ -10652,31 +10652,24 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "opening_zaytinya",
-      "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA",
-      "location": {
-        "latitude": 37.4425,
-        "longitude": -122.1604
-      },
-      "googleMapsUri": "https://maps.google.com/?q=180+El+Camino+Real,+Stanford+Shopping+Center,+Palo+Alto,+CA",
-      "websiteUri": "https://zaytinya.com",
       "displayName": {
         "text": "Zaytinya",
         "languageCode": "en"
       },
-      "cuisine": "Mediterranean",
-      "phone": "(650) 670-3000",
-      "hours": {
-        "Monday": "11:30 AM - 10:00 PM",
-        "Tuesday": "11:30 AM - 10:00 PM",
-        "Wednesday": "11:30 AM - 10:00 PM",
-        "Thursday": "11:30 AM - 10:00 PM",
-        "Friday": "11:30 AM - 11:00 PM",
-        "Saturday": "11:30 AM - 11:00 PM",
-        "Sunday": "11:30 AM - 10:00 PM"
+      "formattedAddress": "180 El Camino Real Suite EE1400, Palo Alto, CA 94304, USA",
+      "googleMapsUri": "https://maps.google.com/?q=180+El+Camino+Real,+Stanford+Shopping+Center,+Palo+Alto,+CA",
+      "websiteUri": "https://zaytinya.com",
+      "location": {
+        "latitude": 37.4425,
+        "longitude": -122.1604
       },
-      "description": "Chef Jose Andres brings his celebrated mezze concept to Stanford Shopping Center with Turkish, Greek and Lebanese small plates and creative Mediterranean cocktails.",
+      "placeId": "ChIJOW6rzsq7j4ARwtuFAHGPH-o",
+      "cuisine": "Mediterranean",
       "menuUrl": "https://www.zaytinya.com/",
+      "phone": "(650) 670-3000",
+      "hours": "Mon-Thu 11:30 AM - 10:00 PM, Fri & Sat 11:30 AM - 11:00 PM, Sun 11:30 AM - 10:00 PM",
       "priceRange": "$$$",
+      "description": "Chef Jose Andres brings his celebrated mezze concept to Stanford Shopping Center with Turkish, Greek and Lebanese small plates and creative Mediterranean cocktails.",
       "photoUrl": "images/restaurant-photos/palo-alto/Zaytinya Small.jpeg"
     },
     {
