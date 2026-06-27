@@ -6415,31 +6415,32 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJb2cMDUyfj4ARMMNpFMGBlv8",
-      "formattedAddress": "200 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.566127699999996,
-        "longitude": -122.3232482
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18417050392449368880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.newthaielephant.com/",
       "displayName": {
         "text": "New Thai Elephant",
         "languageCode": "en"
       },
+      "formattedAddress": "200 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=18417050392449368880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.newthaielephant.com/",
+      "location": {
+        "latitude": 37.566127699999996,
+        "longitude": -122.3232482
+      },
       "cuisine": "Thai",
-      "photoUrl": "images/restaurant-photos/san-mateo/New Thai Elephant Small.jpeg",
-      "phone": "(650) 431-0888",
-      "description": "Experienced chefs prepare authentic Thai dishes cooked to perfection.",
-      "hours": "Mon–Sun 11am–3pm, 4:30pm–9:30pm",
-      "menuUrl": "https://www.newthaielephant.com/menu-1",
-      "priceRange": "$$",
       "keywords": [
         "thai curry",
         "pad thai",
         "vegetarian options",
         "takeout",
         "delivery"
-      ]
+      ],
+      "menuUrl": "https://www.newthaielephant.com/menu-1",
+      "videoUrl": "https://youtube.com/shorts/10UvyzTr1so?feature=share",
+      "phone": "(650) 431-0888",
+      "hours": "Mon–Sun 11am–3pm, 4:30pm–9:30pm",
+      "priceRange": "$$",
+      "description": "Experienced chefs prepare authentic Thai dishes cooked to perfection.",
+      "photoUrl": "images/restaurant-photos/san-mateo/New Thai Elephant Small.jpeg"
     },
     {
       "id": "ChIJ9wyeTXqej4ARYxWWs4z7o3s",
