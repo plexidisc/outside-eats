@@ -9908,7 +9908,10 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "111 Industrial Rd #8, Belmont, CA 94002, USA",
       "googleMapsUri": "https://maps.google.com/?cid=16680106427846095509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.bwbbrewing.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.5186,
+        "longitude": -122.2743
+      },
       "cuisine": "brewery",
       "keywords": [
         "brewery",
