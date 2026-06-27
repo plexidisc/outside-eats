@@ -13795,19 +13795,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "565 San Antonio Rd Suite 27, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=3919444099122755731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.idlyexpress.com/#anchors-lb7nm99n",
-      "location": {},
+      "location": {
+        "latitude": 37.4027,
+        "longitude": -122.1121
+      },
       "cuisine": "Indian",
       "menuUrl": "https://www.idlyexpress.com/menu",
       "phone": "(650) 938-4848",
-      "hours": {
-        "Monday": "8:00 AM – 9:30 PM",
-        "Tuesday": "8:00 AM – 9:30 PM",
-        "Wednesday": "8:00 AM – 9:30 PM",
-        "Thursday": "8:00 AM – 9:30 PM",
-        "Friday": "8:00 AM – 9:30 PM",
-        "Saturday": "8:00 AM – 9:30 PM",
-        "Sunday": "8:00 AM – 9:30 PM"
-      },
+      "hours": "Mon-Sun 8:00 AM – 9:30 PM",
       "priceRange": "$",
       "photoUrl": "images/restaurant-photos/mountain-view/Idly Express Small.jpeg"
     },
