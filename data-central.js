@@ -6140,13 +6140,11 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "68 Hillsdale Mall, San Mateo, CA 94403, USA",
       "googleMapsUri": "https://maps.google.com/?cid=14095403719006569276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://mikiyashabu.com/project/san-mateo-ca/",
-      "location": {},
+      "location": {
+        "latitude": 37.5401,
+        "longitude": -122.2965
+      },
       "cuisine": "Japanese",
-      "phone": "(650) 865-5665",
-      "hours": "Mon–Thu 11:30am–10pm, Fri 11:30am–11pm, Sat 11am–11pm, Sun 11am–10pm",
-      "priceRange": "$$$$",
-      "description": "Premium Wagyu sourced from their own Masami Ranch with umami-rich broth.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Mikiya Small.jpeg",
       "keywords": [
         "wagyu beef",
         "shabu shabu",
@@ -6154,7 +6152,12 @@ var PREBAKED_DATA_CENTRAL = {
         "special occasion",
         "date night",
         "groups"
-      ]
+      ],
+      "phone": "(650) 865-5665",
+      "hours": "Mon–Thu 11:30am–10pm, Fri 11:30am–11pm, Sat 11am–11pm, Sun 11am–10pm",
+      "priceRange": "$$$$",
+      "description": "Premium Wagyu sourced from their own Masami Ranch with umami-rich broth.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Mikiya Small.jpeg"
     },
     {
       "id": "ChIJ3VUJ3tKfj4ARIKA9t6cIdzE",
