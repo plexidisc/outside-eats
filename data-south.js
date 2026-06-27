@@ -14785,19 +14785,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "1040 Grant Rd # 310, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=8400336813096110617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://nypizzamv.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.3524,
+        "longitude": -122.0831
+      },
       "cuisine": "Pizza",
       "menuUrl": "https://www.nypizzamountainview.com/",
       "phone": "(650) 962-9449",
-      "hours": {
-        "Monday": "11:00 AM - 10:00 PM",
-        "Tuesday": "11:00 AM - 10:00 PM",
-        "Wednesday": "11:00 AM - 10:00 PM",
-        "Thursday": "11:00 AM - 10:00 PM",
-        "Friday": "11:00 AM - 10:00 PM",
-        "Saturday": "11:00 AM - 10:00 PM",
-        "Sunday": "11:00 AM - 10:00 PM"
-      },
+      "hours": "Mon-Sun 11:00 AM - 10:00 PM",
       "priceRange": "$",
       "description": "No-frills pizza spot on Grant Road serving large New York-style slices and whole pies by the slice or whole — a quick and reliable lunch or late-night option.",
       "photoUrl": "images/restaurant-photos/mountain-view/new York Pizza Small.jpeg"
