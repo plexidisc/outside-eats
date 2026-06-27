@@ -14954,22 +14954,17 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "545 San Antonio Rd Suite 34, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=11530031354653019358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.pacificcatch.com/location/mountain-view/",
-      "location": {},
+      "location": {
+        "latitude": 37.4018,
+        "longitude": -122.1122
+      },
       "cuisine": "Seafood",
       "menuUrl": "https://www.pacificcatch.com/location/mountain-view/",
-      "photoUrl": "images/restaurant-photos/mountain-view/Pacific Catch Small.jpeg",
       "phone": "(650) 941-1810",
-      "hours": {
-        "Monday": "11:00 AM - 9:00 PM",
-        "Tuesday": "11:00 AM - 9:00 PM",
-        "Wednesday": "11:00 AM - 9:00 PM",
-        "Thursday": "11:00 AM - 9:00 PM",
-        "Friday": "11:00 AM - 10:00 PM",
-        "Saturday": "11:00 AM - 10:00 PM",
-        "Sunday": "11:00 AM - 9:00 PM"
-      },
+      "hours": "Mon-Thu 11:00 AM - 9:00 PM, Fri & Sat 11:00 AM - 10:00 PM, Sun 11:00 AM - 9:00 PM",
       "priceRange": "$$",
-      "description": "West Coast seafood chain at San Antonio Center with Hawaiian poke, fish tacos, island rice bowls, and an aloha-hour happy hour — one of the Peninsula's most consistent seafood spots."
+      "description": "West Coast seafood chain at San Antonio Center with Hawaiian poke, fish tacos, island rice bowls, and an aloha-hour happy hour — one of the Peninsula's most consistent seafood spots.",
+      "photoUrl": "images/restaurant-photos/mountain-view/Pacific Catch Small.jpeg"
     },
     {
       "id": "ChIJz_sWKQK7j4ARgmIaJnNrUqI",
