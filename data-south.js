@@ -10601,31 +10601,24 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "opening_yutori",
-      "formattedAddress": "3375 El Camino Real, Palo Alto, CA 94306, USA",
-      "location": {
-        "latitude": 37.4242,
-        "longitude": -122.1139
-      },
-      "googleMapsUri": "https://maps.google.com/?q=3375+El+Camino+Real,+Palo+Alto,+CA",
-      "websiteUri": "https://yutori-pa.com",
       "displayName": {
         "text": "Yutori",
         "languageCode": "en"
       },
-      "cuisine": "Japanese",
-      "phone": "(408) 239-3484",
-      "hours": {
-        "Monday": "8:00 AM - 5:00 PM",
-        "Tuesday": "8:00 AM - 5:00 PM",
-        "Wednesday": "8:00 AM - 5:00 PM",
-        "Thursday": "8:00 AM - 5:00 PM",
-        "Friday": "8:00 AM - 5:00 PM",
-        "Saturday": "8:00 AM - 5:00 PM",
-        "Sunday": "8:00 AM - 5:00 PM"
+      "formattedAddress": "3375 El Camino Real, Palo Alto, CA 94306, USA",
+      "googleMapsUri": "https://maps.google.com/?q=3375+El+Camino+Real,+Palo+Alto,+CA",
+      "websiteUri": "https://yutori-pa.com",
+      "location": {
+        "latitude": 37.4242,
+        "longitude": -122.1139
       },
-      "description": "A California-inspired Japanese cafe and konbini serving matcha drinks, fresh onigiri, seasonal bentos, and sandwiches daily in a thoughtfully designed space.",
+      "placeId": "ChIJ0daGNgC7j4ARXKFaLT2Gm5Q",
+      "cuisine": "Japanese",
       "menuUrl": "https://www.yutori-pa.com/",
+      "phone": "(408) 239-3484",
+      "hours": "Mon-Sun 8:00 AM - 5:00 PM",
       "priceRange": "$$",
+      "description": "A California-inspired Japanese cafe and konbini serving matcha drinks, fresh onigiri, seasonal bentos, and sandwiches daily in a thoughtfully designed space.",
       "photoUrl": "images/restaurant-photos/palo-alto/Yutori Small.jpeg"
     },
     {
