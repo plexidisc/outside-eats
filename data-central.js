@@ -4368,15 +4368,18 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1778987417597",
-      "placeId": "ChIJd_2CuE-fj4ARf9eFhxhsbFw",
       "displayName": {
         "text": "El Sanignacense (food truck)",
         "languageCode": "en"
       },
-      "formattedAddress": "404 19th Ave",
+      "formattedAddress": "404 19th Ave, San Mateo, CA",
       "googleMapsUri": "",
       "websiteUri": "",
-      "location": {},
+      "location": {
+        "latitude": 37.5492,
+        "longitude": -122.3023
+      },
+      "placeId": "ChIJd_2CuE-fj4ARf9eFhxhsbFw",
       "cuisine": "Mexican",
       "keywords": [
         "seafood",
