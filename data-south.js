@@ -1464,21 +1464,16 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "900 Middlefield Rd Ste A, Redwood City, CA 94063, USA",
       "googleMapsUri": "https://maps.google.com/?cid=13460755417891160515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.hiddentapandbarrel.com/",
-      "location": {},
-      "cuisine": "Other",
-      "phone": "(650) 362-3558",
-      "hours": {
-        "Monday": "10:00 AM - 12:00 AM",
-        "Tuesday": "10:00 AM - 12:00 AM",
-        "Wednesday": "10:00 AM - 12:00 AM",
-        "Thursday": "10:00 AM - 12:00 AM",
-        "Friday": "10:00 AM - 1:00 AM",
-        "Saturday": "10:00 AM - 1:00 AM",
-        "Sunday": "10:00 AM - 12:00 AM"
+      "location": {
+        "latitude": 37.4859,
+        "longitude": -122.2274
       },
-      "description": "Sports bar featuring over 400 spirits, 20 rotating Northern California craft beers, and fusion cocktails with free pool play.",
+      "cuisine": "Other",
       "menuUrl": "https://hiddentapandbarrel.com/redwood-city",
+      "phone": "(650) 362-3558",
+      "hours": "Mon-Thu 10:00 AM - 12:00 AM, Fri & Sat 10:00 AM - 1:00 AM, Sun 10:00 AM - 12:00 AM",
       "priceRange": "$$",
+      "description": "Sports bar featuring over 400 spirits, 20 rotating Northern California craft beers, and fusion cocktails with free pool play.",
       "photoUrl": "images/restaurant-photos/redwood-city/Hidden Tap and Barrel Small.jpeg"
     },
     {
