@@ -1361,14 +1361,11 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "60 Bay View Pl, Burlingame, CA 94010, USA",
       "googleMapsUri": "https://maps.google.com/?cid=10582569680598369485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.kincaids.com/location/kincaids-burlingame-ca/",
-      "location": {},
+      "location": {
+        "latitude": 37.5898,
+        "longitude": -122.3662
+      },
       "cuisine": "Steakhouse",
-      "menuUrl": "https://www.kincaids.com/location/kincaids-burlingame-ca/",
-      "phone": "(650) 342-9844",
-      "hours": "Sun–Thu 3:00pm–9:00pm, Fri–Sat 3:00pm–10:00pm",
-      "priceRange": "$$$$",
-      "description": "Steakhouse overlooking San Francisco bay with quality steaks and fresh seafood.",
-      "photoUrl": "images/restaurant-photos/burlingame/Kincaids Small.jpeg",
       "keywords": [
         "outdoor seating",
         "steakhouse",
@@ -1379,7 +1376,13 @@ var PREBAKED_DATA_CENTRAL = {
         "full bar",
         "wine list",
         "happy hour"
-      ]
+      ],
+      "menuUrl": "https://www.kincaids.com/location/kincaids-burlingame-ca/",
+      "phone": "(650) 342-9844",
+      "hours": "Sun–Thu 3:00pm–9:00pm, Fri–Sat 3:00pm–10:00pm",
+      "priceRange": "$$$$",
+      "description": "Steakhouse overlooking San Francisco bay with quality steaks and fresh seafood.",
+      "photoUrl": "images/restaurant-photos/burlingame/Kincaids Small.jpeg"
     },
     {
       "id": "ChIJW3ii8PGdj4AR1x1zsySJ93k",
