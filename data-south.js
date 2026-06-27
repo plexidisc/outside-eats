@@ -2932,19 +2932,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "2400 Broadway ste 120, Redwood City, CA 94063, USA",
       "googleMapsUri": "https://maps.google.com/?cid=13656550732558509217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.sanaahousecafe.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.4871,
+        "longitude": -122.2269
+      },
       "cuisine": "Mediterranean",
       "menuUrl": "https://sanaahousecafe.com/our-menu/",
       "phone": "(650) 362-3243",
-      "hours": {
-        "Monday": "7:00 AM – 10:00 PM",
-        "Tuesday": "7:00 AM – 10:00 PM",
-        "Wednesday": "7:00 AM – 10:00 PM",
-        "Thursday": "7:00 AM – 10:00 PM",
-        "Friday": "8:00 AM – 12:00 AM",
-        "Saturday": "8:00 AM – 12:00 AM",
-        "Sunday": "7:00 AM – 10:00 PM"
-      },
+      "hours": "Mon-Thu 7:00 AM – 10:00 PM, Fri & Sat 8:00 AM – 12:00 AM, Sun 7:00 AM – 10:00 PM",
       "priceRange": "$$",
       "description": "Authentic Yemeni coffee and specialty drinks made with cardamom, cinnamon, and traditional brewing methods in a cozy, welcoming space.",
       "photoUrl": "images/restaurant-photos/redwood-city/Sana a Cafe Small.jpeg"
