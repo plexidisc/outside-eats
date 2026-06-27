@@ -14106,19 +14106,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "235 E Middlefield Rd #1A, Mountain View, CA 94043, USA",
       "googleMapsUri": "https://maps.google.com/?cid=10916141406942703533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://costena.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.3995,
+        "longitude": -122.0631
+      },
       "cuisine": "Mexican",
       "menuUrl": "http://costena.com/",
       "phone": "(650) 969-9990",
-      "hours": {
-        "Monday": "9:00 AM – 9:00 PM",
-        "Tuesday": "9:00 AM – 9:00 PM",
-        "Wednesday": "9:00 AM – 9:00 PM",
-        "Thursday": "9:00 AM – 9:00 PM",
-        "Friday": "9:00 AM – 9:00 PM",
-        "Saturday": "9:00 AM – 9:00 PM",
-        "Sunday": "10:00 AM – 8:00 PM"
-      },
+      "hours": "Mon-Sat 9:00 AM – 9:00 PM, Sun 10:00 AM – 8:00 PM",
       "priceRange": "$",
       "photoUrl": "images/restaurant-photos/mountain-view/La Costeña Small.jpeg"
     },
