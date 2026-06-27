@@ -9475,7 +9475,10 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "901 Edgewater Blvd Suite E, Foster City, CA 94404, USA",
       "googleMapsUri": "https://maps.google.com/?cid=639077137044912275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://rickshawcorner.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.5539,
+        "longitude": -122.2711
+      },
       "cuisine": "Chinese",
       "keywords": [
         "chinese",
