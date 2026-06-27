@@ -14646,19 +14646,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "357 Castro St Unit 3A, Mountain View, CA 94041, USA",
       "googleMapsUri": "https://maps.google.com/?cid=12914312966705833734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.mrbaokitchen.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.3923,
+        "longitude": -122.0795
+      },
       "cuisine": "Chinese",
       "menuUrl": "https://order.mealkeyway.com/customer/release/index?mid=7a6b37444f4a42376e6877367357636d626e6a6234673d3d#/main",
       "phone": "(650) 282-5026",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
-        "Wednesday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
-        "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
-        "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Saturday": "11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM",
-        "Sunday": "11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM"
-      },
+      "hours": "Mon Closed, Tue-Thu 11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM, Fri & Sat 11:30 AM – 2:30 PM, 5:00 PM – 9:30 PM, Sun 11:30 AM – 2:30 PM, 5:00 PM – 8:30 PM",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/mountain-view/Mr Bao Kitchen Small.jpeg"
     },
