@@ -16311,19 +16311,14 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "545 San Antonio Rd Ste 32, Mountain View, CA 94040, USA",
       "googleMapsUri": "https://maps.google.com/?cid=17413462344962843288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "https://www.bcmidtown.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.4018,
+        "longitude": -122.1122
+      },
       "cuisine": "Breakfast",
       "menuUrl": "https://www.bcmidtown.com/location/the-breakfast-club-at-midtown-mountain-view/",
       "phone": "(650) 383-5093",
-      "hours": {
-        "Monday": "7:00 AM – 3:00 PM",
-        "Tuesday": "7:00 AM – 3:00 PM",
-        "Wednesday": "7:00 AM – 3:00 PM",
-        "Thursday": "7:00 AM – 3:00 PM",
-        "Friday": "7:00 AM – 3:00 PM",
-        "Saturday": "7:00 AM – 3:00 PM",
-        "Sunday": "7:00 AM – 3:00 PM"
-      },
+      "hours": "Mon-Sun 7:00 AM – 3:00 PM",
       "priceRange": "$$",
       "description": "Vibrant all-day breakfast and brunch restaurant at San Antonio Center with craft cocktails, outdoor patio seating, classic American favorites, and elevated brunch specials open daily until 3 PM.",
       "photoUrl": "images/restaurant-photos/mountain-view/The breakfast Club Small.jpeg"
