@@ -4271,7 +4271,6 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_edis_quesabirrias_san_mateo",
-      "placeId": "ChIJ1dqUT7Kfj4ARJjWhF4JuDFI",
       "displayName": {
         "text": "Edi's Quesabirrias and Tacos (Food Truck)",
         "languageCode": "en"
@@ -4279,7 +4278,11 @@ var PREBAKED_DATA_CENTRAL = {
       "formattedAddress": "500 E Third Ave, San Mateo, CA 94401, USA",
       "googleMapsUri": "https://maps.google.com/?q=Edi%27s+Quesabirrias+San+Mateo",
       "websiteUri": "",
-      "location": {},
+      "location": {
+        "latitude": 37.5645,
+        "longitude": -122.3168
+      },
+      "placeId": "ChIJ1dqUT7Kfj4ARJjWhF4JuDFI",
       "cuisine": "Mexican",
       "keywords": [
         "food truck",
@@ -4290,16 +4293,7 @@ var PREBAKED_DATA_CENTRAL = {
         "counter service",
         "cash only"
       ],
-      "phone": "",
-      "hours": {
-        "Monday": "11:00 AM – 9:30 PM",
-        "Tuesday": "Closed",
-        "Wednesday": "11:00 AM – 9:30 PM",
-        "Thursday": "11:00 AM – 10:00 PM",
-        "Friday": "11:00 AM – 11:00 PM",
-        "Saturday": "11:00 AM – 11:00 PM",
-        "Sunday": "11:00 AM – 11:00 PM"
-      },
+      "hours": "Mon 11:00 AM – 9:30 PM, Tue Closed, Wed 11:00 AM – 9:30 PM, Thu 11:00 AM – 10:00 PM, Fri-Sun 11:00 AM – 11:00 PM",
       "priceRange": "$",
       "description": "Standout birria truck on Third Avenue with handmade corn tortillas, perfectly seasoned quesabirria, shrimp and cheese tacos, and birria ramen. Cash only and made to order.",
       "photoUrl": "images/restaurant-photos/san-mateo/food_Truck_image.png"
