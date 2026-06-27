@@ -3720,21 +3720,16 @@ var PREBAKED_DATA_SOUTH = {
       "formattedAddress": "2400 Broadway UNIT 110, Redwood City, CA 94063, USA",
       "googleMapsUri": "https://maps.google.com/?cid=5826106929690228576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.tongsui.us/",
-      "location": {},
-      "cuisine": "Chinese",
-      "phone": "(650) 362-3313",
-      "hours": {
-        "Monday": "11:30 AM - 8:00 PM",
-        "Tuesday": "11:30 AM - 8:00 PM",
-        "Wednesday": "11:30 AM - 8:00 PM",
-        "Thursday": "11:30 AM - 8:00 PM",
-        "Friday": "11:30 AM - 9:00 PM",
-        "Saturday": "11:30 AM - 9:00 PM",
-        "Sunday": "11:30 AM - 8:00 PM"
+      "location": {
+        "latitude": 37.4871,
+        "longitude": -122.2269
       },
-      "description": "Organic, low calorie coconut puddings and refreshing fruit drinks using real seasonal ingredients.",
+      "cuisine": "Chinese",
       "menuUrl": "http://places.singleplatform.com/tong-sui/menu",
+      "phone": "(650) 362-3313",
+      "hours": "Mon-Thu 11:30 AM - 8:00 PM, Fri & Sat 11:30 AM - 9:00 PM, Sun 11:30 AM - 8:00 PM",
       "priceRange": "$$",
+      "description": "Organic, low calorie coconut puddings and refreshing fruit drinks using real seasonal ingredients.",
       "photoUrl": "images/restaurant-photos/redwood-city/Tong Sui Small.jpeg"
     },
     {
