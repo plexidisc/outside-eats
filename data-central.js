@@ -3086,12 +3086,13 @@ var PREBAKED_DATA_CENTRAL = {
         "burgers"
       ],
       "menuUrl": "https://www.yelp.com/biz/apple-fritter-san-mateo",
+      "videoUrl": "https://youtube.com/shorts/bWQ411xk9mg?feature=share",
       "phone": "(650) 525-9125",
       "hours": "Mon–Fri 6:30am–2:45pm, Sat–Sun 7:30am–2:45pm",
       "priceRange": "$$",
       "description": "They serve donut burgers, fruity pebble shakes, and churro french toasts.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Apple Fritter Small.jpeg",
-      "award": "Best of San Mateo 2026 — Best Breakfast/Brunch Spots Winner"
+      "award": "Best of San Mateo 2026 — Best Breakfast/Brunch Spots Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/Apple Fritter Small.jpeg"
     },
     {
       "id": "ChIJC3dM58Oej4ARtSZewKk4DV8",
