@@ -7337,6 +7337,7 @@ var PREBAKED_DATA_CENTRAL = {
         "fine dining"
       ],
       "menuUrl": "https://www.reposadorestaurant.com/menu",
+      "videoUrl": "https://youtube.com/shorts/VogXO2nsWdI?feature=share",
       "phone": "(650) 292-1321",
       "hours": "Mon-Fri 11:30am-3:00pm, Mon-Thur 4:00pm-10:00pm, Fri-Sat 4:00pm -10:30pm, Sun 4:00pm-9:00pm, Sat-Sun 11:00 am-3:00pm",
       "priceRange": "$$$",
