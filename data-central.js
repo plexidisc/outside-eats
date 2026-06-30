@@ -1471,32 +1471,34 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJddVBgrR3j4ARVMlFoRC4Tq4",
-      "formattedAddress": "1809 El Camino Real, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.59413,
-        "longitude": -122.38441399999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=12560178792347584852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.littlelucca.com/",
       "displayName": {
         "text": "Little Lucca",
         "languageCode": "en"
       },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/burlingame/Little Lucca Small.jpeg",
-      "phone": "(650) 697-8389",
-      "description": "Giant sandwiches with famous garlic spread served since 1980.",
-      "hours": "Mon–Fri 9am–4pm, Sat–Sun 9am–4pm",
-      "menuUrl": "https://littlelucca.com/our-menu",
-      "priceRange": "$$",
+      "formattedAddress": "1809 El Camino Real, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12560178792347584852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.littlelucca.com/",
+      "location": {
+        "latitude": 37.59413,
+        "longitude": -122.38441399999999
+      },
+      "cuisine": "Sandwich Shop",
       "keywords": [
         "sandwiches",
         "deli",
         "lunch",
         "counter service",
-        "family friendly"
+        "family friendly",
+        "cafe",
+        "bakery"
       ],
-      "award": "Best of San Mateo 2026 — Best Restaurants for Sandwiches and Salads Winner"
+      "menuUrl": "https://littlelucca.com/our-menu",
+      "phone": "(650) 697-8389",
+      "hours": "Mon–Fri 9am–4pm, Sat–Sun 9am–4pm",
+      "priceRange": "$$",
+      "description": "Giant sandwiches with famous garlic spread served since 1980.",
+      "award": "Best of San Mateo 2026 — Best Restaurants for Sandwiches and Salads Winner",
+      "photoUrl": "images/restaurant-photos/burlingame/Little Lucca Small.jpeg"
     },
     {
       "id": "ChIJIV9OtQCdj4ARKiA1bDi2I5A",
