@@ -2158,6 +2158,7 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 344-3254",
       "hours": "Sun-Mon 12-7pm, Tue-Thu 12-8pm, Fri-Sat 11am-9pm",
       "priceRange": "$",
+      "description": "Preston's has been offering a collection of the finest chocolate for over 80 years. Combining premium chocolate, fruit, herbs, fresh cream and butter, their chocolates have locals coming back for generations.",
       "outsideEatsRating": 4.5,
       "photoUrl": "images/restaurant-photos/burlingame/Preston's Candy Ice Cream Small.jpeg"
     },
