@@ -5121,21 +5121,16 @@ var PREBAKED_DATA_NORTH = {
       "formattedAddress": "360 Shaw Rd C, South San Francisco, CA 94080, USA",
       "googleMapsUri": "https://maps.google.com/?cid=14655249129150210284&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://www.theboneyardtruck.com/",
-      "location": {},
-      "cuisine": "BBQ",
-      "phone": "(650) 399-3300",
-      "hours": {
-        "Monday": "9:00 AM - 5:00 PM",
-        "Tuesday": "9:00 AM - 5:00 PM",
-        "Wednesday": "9:00 AM - 5:00 PM",
-        "Thursday": "9:00 AM - 5:00 PM",
-        "Friday": "9:00 AM - 5:00 PM",
-        "Saturday": "9:00 AM - 5:00 PM",
-        "Sunday": "9:00 AM - 5:00 PM"
+      "location": {
+        "latitude": 37.65345,
+        "longitude": -122.40932
       },
-      "description": "Meats are smoked to succulent perfection daily and paired with seasonal sides and fresh baked breads.",
+      "cuisine": "BBQ",
       "menuUrl": "http://www.theboneyardtruck.com/menu",
+      "phone": "(650) 399-3300",
+      "hours": "Mon-Sun 9:00 AM - 5:00 PM",
       "priceRange": "$$",
+      "description": "Meats are smoked to succulent perfection daily and paired with seasonal sides and fresh baked breads.",
       "photoUrl": "images/restaurant-photos/south-san-francisco/Turkish street food KEBAP Small.jpeg"
     },
     {
