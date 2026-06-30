@@ -2861,7 +2861,6 @@ var PREBAKED_DATA_CENTRAL = {
         "latitude": 37.5558,
         "longitude": -122.3235
       },
-      "placeId": "ChIJXTASXQCfj4ARin-W8xOJ608",
       "cuisine": "Wine Bar",
       "keywords": [
         "charcuterie",
@@ -2876,6 +2875,7 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon–Tue Closed, Wed–Sun 5pm–10pm",
       "priceRange": "$$",
       "description": "Local wine bar, art gallery with live music.",
+      "outsideEatsRating": 4.7,
       "photoUrl": "images/restaurant-photos/san-mateo/A2 Small.jpeg"
     },
     {
