@@ -7576,6 +7576,32 @@ var PREBAKED_DATA_NORTH = {
         "shawarma",
         "hummus"
       ]
+    },
+    {
+      "id": "manual_1782842939309",
+      "displayName": {
+        "text": "Padoca Bakery",
+        "languageCode": "en"
+      },
+      "formattedAddress": "445 San Mateo Ave, San Bruno, CA 94066",
+      "googleMapsUri": "https://www.google.com/maps/place/PADOCA+BAKERY/@37.6227633,-122.4115003,1480m/data=!3m1!1e3!4m6!3m5!1s0x808f79a58ed7d3ff:0xb2bf3b038bc88289!8m2!3d37.6227634!4d-122.4114972!16s%2Fg%2F11yggb7_6x?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.62298009215871,
+        "longitude": -122.41148647116475
+      },
+      "placeId": "ChIJ_9PXjqV5j4ARiYLIiwM7v7I",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "desserts",
+        "brigadeiros",
+        "bread",
+        "cakes"
+      ],
+      "hours": "Wed-Thu 7:30am - 3pm, Sat-Sun 8am-3pm",
+      "priceRange": "$",
+      "description": "Brazilian bakery offering Brazilian foods, breads, cakes and brigadeiros in charming and inviting atmosphere.",
+      "outsideEatsRating": 4.9
     }
   ],
   "Millbrae, CA": [
