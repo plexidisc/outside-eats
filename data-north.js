@@ -994,23 +994,18 @@ var PREBAKED_DATA_NORTH = {
       "formattedAddress": "Serramonte Blvd & Hwy 1, Daly City, CA 94015, USA",
       "googleMapsUri": "https://maps.google.com/?cid=17636678042452727167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://orderlomalindatacotruck.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.66934769164492,
+        "longitude": -122.47765859306257
+      },
       "cuisine": "Mexican",
       "keywords": [
         "food truck"
       ],
-      "photoUrl": "images/restaurant-photos/daly-city/Loma Linda Taco Truck (food truck) Small.jpeg",
-      "hours": {
-        "Monday": "9:00 AM - 9:00 PM",
-        "Tuesday": "9:00 AM - 9:00 PM",
-        "Wednesday": "9:00 AM - 9:00 PM",
-        "Thursday": "9:00 AM - 9:00 PM",
-        "Friday": "9:00 AM - 9:00 PM",
-        "Saturday": "9:00 AM - 9:00 PM",
-        "Sunday": "9:00 AM - 9:00 PM"
-      },
+      "hours": "Mon-Sun 9:00 AM - 9:00 PM",
       "priceRange": "$",
-      "description": "Mexican food truck with tacos, burritos, and street food staples at street-food prices in Daly City."
+      "description": "Mexican food truck with tacos, burritos, and street food staples at street-food prices in Daly City.",
+      "photoUrl": "images/restaurant-photos/daly-city/Loma Linda Taco Truck (food truck) Small.jpeg"
     },
     {
       "id": "ChIJxftR9Q58j4AR3i3-r4zJP9Q",
