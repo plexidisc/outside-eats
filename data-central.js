@@ -2148,8 +2148,15 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "placeId": "ChIJl0JpqCV2j4AR0IuuU7HqpkY",
       "cuisine": "Dessert",
+      "keywords": [
+        "ice cream",
+        "chocolate",
+        "truffles",
+        "candy"
+      ],
       "menuUrl": "https://prestonscandyshop.com/collections/all",
       "phone": "(650) 344-3254",
+      "priceRange": "$",
       "photoUrl": "images/restaurant-photos/burlingame/Preston's Candy Ice Cream Small.jpeg"
     },
     {
