@@ -1,4 +1,3 @@
-// Location coordinates sourced via OpenStreetMap Nominatim (openstreetmap.org/copyright)
 var PREBAKED_DATA_COAST = {
   "Pacifica, CA": [
     {
@@ -3183,7 +3182,6 @@ var PREBAKED_DATA_COAST = {
     },
     {
       "id": "manual_odysseys_pizzeria_moss_beach",
-      "placeId": "ChIJr4lkE4txj4ARR6h0u2NisGc",
       "displayName": {
         "text": "Odyssey's Pizzeria",
         "languageCode": "en"
@@ -3191,7 +3189,11 @@ var PREBAKED_DATA_COAST = {
       "formattedAddress": "2350 Carlos St, Moss Beach, CA 94038, USA",
       "googleMapsUri": "https://maps.google.com/?q=Odyssey%27s+Pizzeria+Moss+Beach",
       "websiteUri": "https://www.odysseyspizzeriamossbeach.com/",
-      "location": {},
+      "location": {
+        "latitude": 37.52861407185694,
+        "longitude": -122.51366014221388
+      },
+      "placeId": "ChIJr4lkE4txj4ARR6h0u2NisGc",
       "cuisine": "Pizza",
       "keywords": [
         "pizza",
@@ -3204,13 +3206,12 @@ var PREBAKED_DATA_COAST = {
         "fish and chips",
         "gyros"
       ],
+      "menuUrl": "https://www.odysseyspizzeriamossbeach.com/",
       "phone": "(650) 921-3553",
       "hours": "Mon–Thu 11am–8pm, Fri, Sat 11am–9pm, Sun 11am–8pm",
-      "menuUrl": "https://www.odysseyspizzeriamossbeach.com/",
       "priceRange": "$",
       "description": "A family-run neighborhood pizzeria on Carlos St with a Mediterranean twist.",
-      "photoUrl": "images/restaurant-photos/moss-beach/Odyssey's Pizzeria Small.jpeg",
-      "priceLevel": "$$"
+      "photoUrl": "images/restaurant-photos/moss-beach/Odyssey's Pizzeria Small.jpeg"
     },
     {
       "id": "ChIJjdgNC5dxj4ARjl9G7pIQkwE",
