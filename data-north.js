@@ -1,4 +1,3 @@
-// Location coordinates sourced via OpenStreetMap Nominatim (openstreetmap.org/copyright)
 var PREBAKED_DATA_NORTH = {
   "Daly City, CA": [
     {
@@ -7736,27 +7735,22 @@ var PREBAKED_DATA_NORTH = {
       "formattedAddress": "979 Broadway Unit 106, Millbrae, CA 94030, USA",
       "googleMapsUri": "https://maps.google.com/?cid=12674409343568908708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
       "websiteUri": "http://binkabites.com/",
-      "location": {},
-      "cuisine": "Cafe/Bakery",
-      "phone": "(650) 296-8215",
-      "hours": {
-        "Monday": "10:00 AM - 7:00 PM",
-        "Tuesday": "10:00 AM - 7:00 PM",
-        "Wednesday": "10:00 AM - 7:00 PM",
-        "Thursday": "10:00 AM - 7:00 PM",
-        "Friday": "10:00 AM - 7:00 PM",
-        "Saturday": "10:00 AM - 7:00 PM",
-        "Sunday": "10:00 AM - 7:00 PM"
+      "location": {
+        "latitude": 37.60484,
+        "longitude": -122.39728
       },
-      "description": "Filipino inspired bibingka cupcakes made with coconut rice, offering creative sweet and savory flavors.",
-      "menuUrl": "https://www.binkabites.com/shop/online-menu/AENNZQKDXI2SKFINKS5PGB4X",
-      "priceRange": "$$",
+      "cuisine": "Cafe/Bakery",
       "keywords": [
         "cafe",
         "bakery",
         "pastries",
         "coffee"
-      ]
+      ],
+      "menuUrl": "https://www.binkabites.com/shop/online-menu/AENNZQKDXI2SKFINKS5PGB4X",
+      "phone": "(650) 296-8215",
+      "hours": "Mon-Sun 10:00 AM - 7:00 PM",
+      "priceRange": "$$",
+      "description": "Filipino inspired bibingka cupcakes made with coconut rice, offering creative sweet and savory flavors."
     },
     {
       "id": "ChIJs2sEWqF3j4AR3wNTFMbIYJk",
