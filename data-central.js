@@ -2134,6 +2134,24 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
+      "id": "manual_1782855480020",
+      "displayName": {
+        "text": "Preston's Candy & Ice Cream",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1170 Broadway, Burlingame, CA 94010",
+      "googleMapsUri": "https://www.google.com/maps/place/Preston's+Candy+%26+Ice+Cream/@37.5866754,-122.3670249,17z/data=!4m15!1m8!3m7!1s0x808f7625a8694297:0x46a6eab153ae8bd0!2sPreston's+Candy+%26+Ice+Cream!8m2!3d37.5866754!4d-122.3644446!10e9!16s%2Fg%2F1tgm32hb!3m5!1s0x808f7625a8694297:0x46a6eab153ae8bd0!8m2!3d37.5866754!4d-122.3644446!16s%2Fg%2F1tgm32hb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.586836878370434,
+        "longitude": -122.36439631445798
+      },
+      "placeId": "ChIJl0JpqCV2j4AR0IuuU7HqpkY",
+      "cuisine": "Dessert",
+      "phone": "(650) 344-3254",
+      "photoUrl": "images/restaurant-photos/burlingame/Preston's Candy Ice Cream Small.jpeg"
+    },
+    {
       "id": "ChIJTTgiNfCdj4ARxr6K9Uv8XI0",
       "formattedAddress": "209 Park Rd, Burlingame, CA 94010, USA",
       "location": {
@@ -2847,23 +2865,6 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$",
       "description": "Food Truck",
       "photoUrl": "images/restaurant-photos/burlingame/Watani Spot Small.jpeg"
-    },
-    {
-      "id": "manual_1782855480020",
-      "displayName": {
-        "text": "Preston's Candy & Ice Cream",
-        "languageCode": "en"
-      },
-      "formattedAddress": "1170 Broadway, Burlingame, CA 94010",
-      "googleMapsUri": "https://www.google.com/maps/place/Preston's+Candy+%26+Ice+Cream/@37.5866754,-122.3670249,17z/data=!4m15!1m8!3m7!1s0x808f7625a8694297:0x46a6eab153ae8bd0!2sPreston's+Candy+%26+Ice+Cream!8m2!3d37.5866754!4d-122.3644446!10e9!16s%2Fg%2F1tgm32hb!3m5!1s0x808f7625a8694297:0x46a6eab153ae8bd0!8m2!3d37.5866754!4d-122.3644446!16s%2Fg%2F1tgm32hb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-      "websiteUri": "",
-      "location": {
-        "latitude": 37.586836878370434,
-        "longitude": -122.36439631445798
-      },
-      "placeId": "ChIJl0JpqCV2j4AR0IuuU7HqpkY",
-      "cuisine": "Dessert",
-      "phone": "(650) 344-3254"
     }
   ],
   "San Mateo, CA": [
