@@ -1732,31 +1732,31 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJiahRlPGdj4ARJjeUd2mmutU",
-      "formattedAddress": "1213 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5788556,
-        "longitude": -122.34648609999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15400804847654811430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://mingalabarestaurant.com/",
       "displayName": {
         "text": "Mingalaba Restaurant",
         "languageCode": "en"
       },
-      "cuisine": "Other",
-      "photoUrl": "images/restaurant-photos/burlingame/Mingalaba Small.jpeg",
-      "phone": "(650) 343-3228",
-      "description": "Authentic Burmese and Mandarin cuisine with unique flavor profiles.",
-      "hours": "Mon–Fri 11:30am–2:30pm, 4:30pm–9pm, Sat–Sun 11:30am–9pm",
-      "menuUrl": "https://mingalabarestaurant.com/menu-1",
-      "priceRange": "$$",
+      "formattedAddress": "1213 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15400804847654811430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mingalabarestaurant.com/",
+      "location": {
+        "latitude": 37.5788556,
+        "longitude": -122.34648609999999
+      },
+      "cuisine": "Burmese",
       "keywords": [
         "burmese",
         "garlic noodles",
         "vegetarian options",
         "family friendly"
       ],
-      "award": "Best of San Mateo 2026 — Best Thai/Burmese & Other Asian Restaurants Winner"
+      "menuUrl": "https://mingalabarestaurant.com/menu-1",
+      "phone": "(650) 343-3228",
+      "hours": "Mon–Fri 11:30am–2:30pm, 4:30pm–9pm, Sat–Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "Authentic Burmese and Mandarin cuisine with unique flavor profiles.",
+      "award": "Best of San Mateo 2026 — Best Thai/Burmese & Other Asian Restaurants Winner",
+      "photoUrl": "images/restaurant-photos/burlingame/Mingalaba Small.jpeg"
     },
     {
       "id": "ChIJ7W_sp6Odj4ARsnYGnU91N-U",
