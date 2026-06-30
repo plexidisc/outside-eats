@@ -1930,12 +1930,13 @@ var PREBAKED_DATA_CENTRAL = {
         "special occasion"
       ],
       "menuUrl": "https://newenglandlobster.net/eatery/",
+      "videoUrl": "https://youtube.com/shorts/PpuvYCcP1FQ?feature=share",
       "phone": "(650) 443-1559",
       "hours": "Mon–Sun 11am–9pm",
       "priceRange": "$$",
       "description": "Largest lobster tank on West Coast with fresh Maine lobster.",
-      "photoUrl": "images/restaurant-photos/burlingame/New England Lobster Market Small.jpeg",
-      "award": "Best of San Mateo 2026 — Best Restaurant for Seafood Winner"
+      "award": "Best of San Mateo 2026 — Best Restaurant for Seafood Winner",
+      "photoUrl": "images/restaurant-photos/burlingame/New England Lobster Market Small.jpeg"
     },
     {
       "id": "ChIJP2Uqw_Gdj4ARx2LPjRVSfU4",
