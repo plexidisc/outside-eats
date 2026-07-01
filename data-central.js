@@ -8612,6 +8612,7 @@ var PREBAKED_DATA_CENTRAL = {
         "cookies"
       ],
       "menuUrl": "https://tinybchocolate.com/collections/all-products",
+      "videoUrl": "https://youtube.com/shorts/Q-cBw-_aEYs?feature=share",
       "phone": "(415) 854-0344",
       "hours": "Mon-Sun 11am-7pm",
       "priceRange": "$$",
