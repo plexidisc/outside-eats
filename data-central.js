@@ -1493,6 +1493,7 @@ var PREBAKED_DATA_CENTRAL = {
         "bakery"
       ],
       "menuUrl": "https://littlelucca.com/our-menu",
+      "videoUrl": "https://youtube.com/shorts/AdIq-YgFZtE?feature=share",
       "phone": "(650) 697-8389",
       "hours": "Mon–Fri 9am–4pm, Sat–Sun 9am–4pm",
       "priceRange": "$$",
