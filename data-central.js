@@ -1752,6 +1752,7 @@ var PREBAKED_DATA_CENTRAL = {
         "family friendly"
       ],
       "menuUrl": "https://mingalabarestaurant.com/menu-1",
+      "videoUrl": "https://youtube.com/shorts/UM2U386tveI?feature=share",
       "phone": "(650) 343-3228",
       "hours": "Mon–Fri 11:30am–2:30pm, 4:30pm–9pm, Sat–Sun 11:30am–9pm",
       "priceRange": "$$",
