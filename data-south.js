@@ -8043,6 +8043,35 @@ var PREBAKED_DATA_SOUTH = {
       "priceRange": "$$$"
     },
     {
+      "id": "manual_1783436333222",
+      "displayName": {
+        "text": "La Corneta Taqueria",
+        "languageCode": "en"
+      },
+      "formattedAddress": "324 University Ave, Palo Alto, CA 94301",
+      "googleMapsUri": "https://www.google.com/maps/place/La+Corneta+Taqueria/data=!4m2!3m1!1s0x0:0x978be363c69bb27e?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://lacorneta.com/menu?utm_source=menu",
+      "location": {
+        "latitude": 37.446290530428904,
+        "longitude": -122.16095733797091
+      },
+      "placeId": "ChIJW6cfQgC7j4ARfrKbxmPji5c",
+      "cuisine": "Mexican",
+      "keywords": [
+        "burrito",
+        "tacos",
+        "flautas",
+        "tostada",
+        "super nachos"
+      ],
+      "menuUrl": "https://lacorneta.com/menu",
+      "phone": "(650) 656-9958",
+      "hours": "Mon-Fri 10am-10pm, Sat 11am-10pm, Sun 11am-9pm",
+      "priceRange": "$",
+      "description": "Fresh Mexican food with a full menu of classic dishes made to order, offering a wide variety of tacos, enchiladas, or our famous burritos.",
+      "outsideEatsRating": 4.7
+    },
+    {
       "id": "ChIJX2dDTkW7j4ARFo59XEuoaPk",
       "formattedAddress": "3906 Middlefield Rd, Palo Alto, CA 94306, USA",
       "location": {
@@ -10727,20 +10756,6 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.zolapaloalto.com/",
       "priceRange": "$$$",
       "description": "Romantic French-California bistro on California Avenue with a changing seasonal menu, natural wine program, and intimate BarZola cocktail lounge next door."
-    },
-    {
-      "id": "manual_1783436333222",
-      "displayName": {
-        "text": "La Corneta Taqueria",
-        "languageCode": "en"
-      },
-      "formattedAddress": "",
-      "googleMapsUri": "",
-      "websiteUri": "",
-      "location": {
-        "latitude": 37.446290530428904,
-        "longitude": -122.16095733797091
-      }
     }
   ],
   "Los Altos, CA": [
