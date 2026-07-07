@@ -3229,24 +3229,18 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJSS6QeHCej4ARAssTIDcQIiU",
-      "formattedAddress": "320 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.565168,
-        "longitude": -122.32233300000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2675718957558909698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.bstreetandvine.com/",
       "displayName": {
         "text": "B Street & Vine",
         "languageCode": "en"
       },
+      "formattedAddress": "320 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2675718957558909698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.bstreetandvine.com/",
+      "location": {
+        "latitude": 37.565168,
+        "longitude": -122.32233300000001
+      },
       "cuisine": "Wine Bar",
-      "photoUrl": "images/restaurant-photos/san-mateo/B Street & Vine Small.jpeg",
-      "phone": "(650) 347-8463",
-      "description": "Famous for signature bruschettas with unique sweet and savory combinations.",
-      "hours": "Mon 5pm–9pm, Tue–Thu 11:30am–9pm, Fri–Sat 11:30am–12am, Sun 11:30am–5pm",
-      "menuUrl": "http://www.bstreetandvine.com/files/BStreetandVineHTML/menu.html",
-      "priceRange": "$$",
       "keywords": [
         "outdoor seating",
         "wine bar",
@@ -3255,7 +3249,14 @@ var PREBAKED_DATA_CENTRAL = {
         "happy hour",
         "romantic"
       ],
-      "award": "Best of San Mateo 2026 — Best Wine Bar / Winery Store Winner"
+      "menuUrl": "http://www.bstreetandvine.com/files/BStreetandVineHTML/menu.html",
+      "videoUrl": "https://youtube.com/shorts/C4WnYc7Q160?feature=share",
+      "phone": "(650) 347-8463",
+      "hours": "Mon 5pm–9pm, Tue–Thu 11:30am–9pm, Fri–Sat 11:30am–12am, Sun 11:30am–5pm",
+      "priceRange": "$$",
+      "description": "Famous for signature bruschettas with unique sweet and savory combinations.",
+      "award": "Best of San Mateo 2026 — Best Wine Bar / Winery Store Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/B Street & Vine Small.jpeg"
     },
     {
       "id": "manual_1779924828025",
