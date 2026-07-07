@@ -6397,7 +6397,8 @@ var PREBAKED_DATA_SOUTH = {
       "cuisine": "American",
       "keywords": [
         "burgers",
-        "devil eggs"
+        "devil eggs",
+        "crispy chicken sandwich"
       ],
       "menuUrl": "https://drive.google.com/file/d/1IKiGwFZztSwA3D_OCBJq2PnmFyzyxNUj/view",
       "phone": "415-447-6081",
