@@ -2158,6 +2158,7 @@ var PREBAKED_DATA_CENTRAL = {
         "candy"
       ],
       "menuUrl": "https://prestonscandyshop.com/collections/all",
+      "videoUrl": "https://youtube.com/shorts/O0S0hb92oLs?feature=share",
       "phone": "(650) 344-3254",
       "hours": "Sun-Mon 12-7pm, Tue-Thu 12-8pm, Fri-Sat 11am-9pm",
       "priceRange": "$",
