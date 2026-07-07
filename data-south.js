@@ -10727,6 +10727,20 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.zolapaloalto.com/",
       "priceRange": "$$$",
       "description": "Romantic French-California bistro on California Avenue with a changing seasonal menu, natural wine program, and intimate BarZola cocktail lounge next door."
+    },
+    {
+      "id": "manual_1783436333222",
+      "displayName": {
+        "text": "La Corneta Taqueria",
+        "languageCode": "en"
+      },
+      "formattedAddress": "",
+      "googleMapsUri": "",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.446290530428904,
+        "longitude": -122.16095733797091
+      }
     }
   ],
   "Los Altos, CA": [
