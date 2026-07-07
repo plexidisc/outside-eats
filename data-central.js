@@ -5255,6 +5255,7 @@ var PREBAKED_DATA_CENTRAL = {
         "groups"
       ],
       "menuUrl": "https://www.ilovejacks.com/san-mateo-menus",
+      "videoUrl": "https://youtube.com/shorts/8OhLVJqrzUg?feature=share",
       "phone": "(650) 350-1077",
       "hours": "Mon–Thu 8am–9pm, Fri–Sat 8am–10pm, Sun 8am–9pm",
       "priceRange": "$$",
