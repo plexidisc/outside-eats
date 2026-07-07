@@ -5395,7 +5395,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon-Sun 7am-4pm",
       "priceRange": "$$",
       "description": "Very popular coffee spot sourcing coffee from around the world and rotating their selections to bring high quality, crafted coffee experiences.",
-      "outsideEatsRating": 4.9
+      "outsideEatsRating": 4.9,
+      "photoUrl": "images/restaurant-photos/san-mateo/Kaizen Small.jpeg"
     },
     {
       "id": "ChIJoRzWonufj4ARgwyltSJXaP4",
