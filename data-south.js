@@ -6379,6 +6379,22 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://yeobodarling.com/",
       "priceRange": "$$$$",
       "description": "Intimate Korean-Taiwanese dinner restaurant at 827 Santa Cruz Avenue from the Michelin-starred Maum team, with abundant banchan service, tea-infused cocktails, premium sool, and dishes celebrating the chefs' shared heritage."
+    },
+    {
+      "id": "manual_1783435541825",
+      "displayName": {
+        "text": "Causwells",
+        "languageCode": "en"
+      },
+      "formattedAddress": "550 Oak Grove Ave, Menlo Park, CA , 94025",
+      "googleMapsUri": "https://www.google.com/maps/place/Causwells+Menlo+Park/data=!4m2!3m1!1s0x0:0x912a5f3d3a2ea4c6?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.45535174638615,
+        "longitude": -122.18393962886807
+      },
+      "placeId": "ChIJl0JpqCV2j4AR0IuuU7HqpkY",
+      "phone": "415-447-6081"
     }
   ],
   "Palo Alto, CA": [
