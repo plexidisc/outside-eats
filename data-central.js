@@ -8954,6 +8954,31 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1783461267620",
+      "displayName": {
+        "text": "Kaizen",
+        "languageCode": "en"
+      },
+      "formattedAddress": "2337 S El Camino Real, San Mateo, CA 94403",
+      "googleMapsUri": "https://www.google.com/maps/place/kaizen+coffee,+san+mateo/data=!4m2!3m1!1s0x808f9ef945b1bf81:0x283ccc9d2ea64e72?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "http://www.kaizenandcoffee.com/",
+      "location": {
+        "latitude": 37.54531353182516,
+        "longitude": -122.30610293103439
+      },
+      "placeId": "ChIJgb-xRfmej4ARck6mLp3MPCg",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "espresso",
+        "coffee",
+        "pastries"
+      ],
+      "menuUrl": "https://www.kaizenandcoffee.com/menu",
+      "hours": "Mon-Sun 7am-4pm",
+      "priceRange": "$$",
+      "outsideEatsRating": 4.9
     }
   ],
   "Foster City, CA": [
