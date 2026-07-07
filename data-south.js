@@ -6388,13 +6388,23 @@ var PREBAKED_DATA_SOUTH = {
       },
       "formattedAddress": "550 Oak Grove Ave, Menlo Park, CA , 94025",
       "googleMapsUri": "https://www.google.com/maps/place/Causwells+Menlo+Park/data=!4m2!3m1!1s0x0:0x912a5f3d3a2ea4c6?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "",
+      "websiteUri": "https://www.causwells.com/",
       "location": {
         "latitude": 37.45535174638615,
         "longitude": -122.18393962886807
       },
-      "placeId": "ChIJl0JpqCV2j4AR0IuuU7HqpkY",
-      "phone": "415-447-6081"
+      "placeId": "ChIJtybW95alj4ARxqQuOj1fKpE",
+      "cuisine": "American",
+      "keywords": [
+        "burgers",
+        "devil eggs"
+      ],
+      "menuUrl": "https://drive.google.com/file/d/1IKiGwFZztSwA3D_OCBJq2PnmFyzyxNUj/view",
+      "phone": "415-447-6081",
+      "hours": "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-9pm",
+      "priceRange": "$$$",
+      "description": "American bistro and cocktail bar using fresh, seasonal ingredients from local produce. Many rave about their burgers and crispy chicken sandwich",
+      "outsideEatsRating": 3.8
     }
   ],
   "Palo Alto, CA": [
