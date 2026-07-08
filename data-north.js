@@ -6789,7 +6789,8 @@ var PREBAKED_DATA_NORTH = {
       "keywords": [
         "pizza",
         "italian"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/san-bruno/New York Pizza Small.jpeg"
     },
     {
       "id": "ChIJTcCoP8B5j4ARJkg113dpHZs",
