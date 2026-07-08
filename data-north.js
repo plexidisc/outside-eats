@@ -7601,7 +7601,8 @@ var PREBAKED_DATA_NORTH = {
       "hours": "Wed-Thu 7:30am - 3pm, Sat-Sun 8am-3pm",
       "priceRange": "$",
       "description": "Brazilian bakery offering Brazilian foods, breads, cakes and brigadeiros in charming and inviting atmosphere.",
-      "outsideEatsRating": 4.9
+      "outsideEatsRating": 4.9,
+      "photoUrl": "images/restaurant-photos/san-bruno/Padoca Bakery Small.jpeg"
     }
   ],
   "Millbrae, CA": [
