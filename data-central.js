@@ -8467,7 +8467,7 @@ var PREBAKED_DATA_CENTRAL = {
       },
       "formattedAddress": "1208 S El Camino Real, San Mateo, CA 94402, USA",
       "googleMapsUri": "https://maps.google.com/?cid=16313379973960033487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.tasteandgloryca.com/",
+      "websiteUri": "",
       "location": {
         "latitude": 37.5558443,
         "longitude": -122.3182096
@@ -8480,11 +8480,12 @@ var PREBAKED_DATA_CENTRAL = {
         "coffee",
         "family friendly"
       ],
-      "menuUrl": "https://tasteandgloryca.smiledining.com/",
+      "menuUrl": "https://order.online/en/store/taste-glory-s-el-camino-real-28213150",
       "phone": "(650) 393-4951",
       "hours": "Mon–Fri 9am–2pm, Sat–Sun 8:30am–2:30pm",
       "priceRange": "$$",
       "description": "Asian fusion brunch blending classic Western dishes with Thai flavors.",
+      "outsideEatsRating": 4.7,
       "photoUrl": "images/restaurant-photos/san-mateo/Taste & Glory Small.jpeg"
     },
     {
