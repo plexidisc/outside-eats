@@ -57,30 +57,31 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJj2yyE_Gdj4ARW78PDfzi8-4",
-      "formattedAddress": "1408 Burlingame Ave, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5777061,
-        "longitude": -122.34856189999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=17218355372546309979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://alanascafe.com/",
       "displayName": {
         "text": "Alana's Cafe",
         "languageCode": "en"
       },
+      "formattedAddress": "1408 Burlingame Ave, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=17218355372546309979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://alanascafe.com/",
+      "location": {
+        "latitude": 37.5777061,
+        "longitude": -122.34856189999999
+      },
       "cuisine": "Breakfast",
-      "photoUrl": "images/restaurant-photos/burlingame/Alanas Small.jpeg",
-      "phone": "(650) 348-0417",
-      "description": "Watch chefs prepare housemade comfort food in an open kitchen.",
-      "hours": "Mon–Sun 9am–2pm",
-      "menuUrl": "https://www.alanascafe.com/menu/",
-      "priceRange": "$$",
       "keywords": [
         "breakfast",
         "brunch",
         "family friendly",
         "counter service"
-      ]
+      ],
+      "menuUrl": "https://www.alanascafe.com/menu/",
+      "videoUrl": "https://youtube.com/shorts/a_OOmLO3mP0?feature=share",
+      "phone": "(650) 348-0417",
+      "hours": "Mon–Sun 9am–2pm",
+      "priceRange": "$$",
+      "description": "Watch chefs prepare housemade comfort food in an open kitchen.",
+      "photoUrl": "images/restaurant-photos/burlingame/Alanas Small.jpeg"
     },
     {
       "id": "opening_amado",
