@@ -4693,34 +4693,6 @@ var PREBAKED_DATA_SOUTH = {
       "description": "Menlo Park seafood institution at 751 El Camino Real since 1947 with fresh Dungeness crab, clam chowder, fish and chips, shrimp cocktail, and a takeout counter beloved across generations."
     },
     {
-      "id": "ChIJo0NIcZi8j4ARjJ9Kj6BWEnc",
-      "formattedAddress": "873 Hamilton Ave, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.4798664,
-        "longitude": -122.15203009999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=8580015487693004684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.dashijapaneserestaurant.com/",
-      "displayName": {
-        "text": "Dashi Japanese Restaurant",
-        "languageCode": "en"
-      },
-      "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/menlo-park/Dashi Japanese Small.jpeg",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Wednesday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Thursday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Friday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Saturday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM",
-        "Sunday": "11:30 AM - 2:30 PM, 5:00 PM - 9:30 PM"
-      },
-      "menuUrl": "https://www.dashibythebay.com/",
-      "priceRange": "$$",
-      "description": "Japanese comfort food and ramen restaurant with house-made broths, sushi rolls, and Japanese small plates in a warm neighborhood setting."
-    },
-    {
       "id": "ChIJnfbTrlSjj4ARTeEjFnYAsNc",
       "formattedAddress": "3219 Middlefield Rd, Menlo Park, CA 94025, USA",
       "location": {
