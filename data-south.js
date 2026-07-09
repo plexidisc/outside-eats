@@ -8115,7 +8115,7 @@ var PREBAKED_DATA_SOUTH = {
       "phone": "(650) 656-9958",
       "hours": "Mon-Fri 10am-10pm, Sat 11am-10pm, Sun 11am-9pm",
       "priceRange": "$",
-      "description": "Fresh Mexican food with a full menu of classic dishes made to order, offering a wide variety of tacos, enchiladas, or our famous burritos.",
+      "description": "San Francisco's beloved Glen Park taqueria since 1995 opens its first Palo Alto location on University Avenue. Expect the same carefully crafted burritos and tacos that built a 30-year following. Fresh Mexican food with a full menu of classic dishes made to order, offering a wide variety of tacos, enchiladas, or our famous burritos.",
       "outsideEatsRating": 4.7
     },
     {
