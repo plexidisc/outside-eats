@@ -8986,6 +8986,31 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1783637344787",
+      "displayName": {
+        "text": "Sibby's Cupcakery",
+        "languageCode": "en"
+      },
+      "formattedAddress": "716 S Railroad Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Sibby's+Cupcakery/data=!4m2!3m1!1s0x0:0x92cd3a22accd2d95?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://sibbyscupcakery.com/signature-designs.php",
+      "location": {
+        "latitude": 37.5629933349207,
+        "longitude": -122.31856472885507
+      },
+      "placeId": "ChIJ7-Nx72Sej4ARlS3NrCI6zZI",
+      "cuisine": "Dessert",
+      "keywords": [
+        "cupcakes"
+      ],
+      "menuUrl": "https://sibbyscupcakery.com/menu.php",
+      "phone": "(415) 613-4373",
+      "hours": "Wed-Fri 10am-5:30pm, Sat 10am-5pm, Sun 10am-2pm",
+      "priceRange": "$",
+      "award": "Best of San Mateo 2026 - Dessert shops",
+      "outsideEatsRating": 4.9
     }
   ],
   "Foster City, CA": [
