@@ -5393,6 +5393,7 @@ var PREBAKED_DATA_CENTRAL = {
         "pour over"
       ],
       "menuUrl": "https://www.kaizenandcoffee.com/menu",
+      "videoUrl": "https://youtube.com/shorts/E0RVzcYFTNY?feature=share",
       "hours": "Mon-Sun 7am-4pm",
       "priceRange": "$$",
       "description": "Very popular coffee spot sourcing coffee from around the world and rotating their selections to bring high quality, crafted coffee experiences.",
