@@ -6554,7 +6554,7 @@ var PREBAKED_DATA_SOUTH = {
       "phone": "(650) 250-5047",
       "hours": "Mon-Sun 11am - 11pm",
       "priceRange": "$$",
-      "description": "Authentic Italian gelato made fresh daily with premium ingredients, blending traditional recipes, local dairy, and imported Italian flavors into every handcrafted scoop",
+      "description": "Brazil's premier gelateria makes its Bay Area debut at Stanford Shopping Center with 22+ rotating flavors and a new flavor introduced every three weeks. Over 200 locations in Brazil and 16 in Southern California. Authentic Italian gelato made fresh daily with premium ingredients, blending traditional recipes, local dairy, and imported Italian flavors into every handcrafted scoop",
       "outsideEatsRating": 4.4
     },
     {
