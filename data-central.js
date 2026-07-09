@@ -9010,7 +9010,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Wed-Fri 10am-5:30pm, Sat 10am-5pm, Sun 10am-2pm",
       "priceRange": "$",
       "award": "Best of San Mateo 2026 - Dessert shops",
-      "outsideEatsRating": 4.9
+      "outsideEatsRating": 4.9,
+      "photoUrl": "images/restaurant-photos/san-mateo/Sibby's Cupcakery Small.jpeg"
     }
   ],
   "Foster City, CA": [
