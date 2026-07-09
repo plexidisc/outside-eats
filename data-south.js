@@ -6529,6 +6529,35 @@ var PREBAKED_DATA_SOUTH = {
       }
     },
     {
+      "id": "manual_1783468597145",
+      "displayName": {
+        "text": "Bacio di Latte",
+        "languageCode": "en"
+      },
+      "formattedAddress": "660 Stanford Shopping Center #11A, Palo Alto, CA 94304",
+      "googleMapsUri": "https://www.google.com/maps/place/Bacio+di+Latte+%7C+Stanford+Shopping+Center,+Palo+Alto/data=!4m2!3m1!1s0x0:0x929494dfbf758526?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://baciodilatte.us/",
+      "location": {
+        "latitude": 37.44440841251515,
+        "longitude": -122.17079109997755
+      },
+      "placeId": "ChIJ__2CU1m7j4ARJoV1v9-UlJI",
+      "cuisine": "Dessert",
+      "keywords": [
+        "gelato",
+        "ice cream",
+        "affogato",
+        "coffee",
+        "cookies"
+      ],
+      "menuUrl": "https://baciodilatte.us/flavors/",
+      "phone": "(650) 250-5047",
+      "hours": "Mon-Sun 11am - 11pm",
+      "priceRange": "$$",
+      "description": "Authentic Italian gelato made fresh daily with premium ingredients, blending traditional recipes, local dairy, and imported Italian flavors into every handcrafted scoop",
+      "outsideEatsRating": 4.4
+    },
+    {
       "id": "ChIJi9iYmjm7j4AR904-JYOQQN4",
       "formattedAddress": "335 University Ave, Palo Alto, CA 94301, USA",
       "location": {
@@ -10758,33 +10787,21 @@ var PREBAKED_DATA_SOUTH = {
       "description": "Romantic French-California bistro on California Avenue with a changing seasonal menu, natural wine program, and intimate BarZola cocktail lounge next door."
     },
     {
-      "id": "manual_1783468597145",
+      "id": "manual_1783608594598",
       "displayName": {
-        "text": "Bacio di Latte",
+        "text": "Cedar & Sage Bistro & Lounge",
         "languageCode": "en"
       },
-      "formattedAddress": "660 Stanford Shopping Center #11A, Palo Alto, CA 94304",
-      "googleMapsUri": "https://www.google.com/maps/place/Bacio+di+Latte+%7C+Stanford+Shopping+Center,+Palo+Alto/data=!4m2!3m1!1s0x0:0x929494dfbf758526?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://baciodilatte.us/",
+      "formattedAddress": "1301 Stanford Shopping Center, Palo Alto, CA 94304",
+      "googleMapsUri": "https://www.google.com/maps/place/Cedar+And+Sage+Bistro/data=!4m2!3m1!1s0x0:0x69c7b385b46b771e?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.cedarandsagebistro.com/",
       "location": {
-        "latitude": 37.44440841251515,
-        "longitude": -122.17079109997755
+        "latitude": 37.444599457051105,
+        "longitude": -122.17224087113493
       },
-      "placeId": "ChIJ__2CU1m7j4ARJoV1v9-UlJI",
-      "cuisine": "Dessert",
-      "keywords": [
-        "gelato",
-        "ice cream",
-        "affogato",
-        "coffee",
-        "cookies"
-      ],
-      "menuUrl": "https://baciodilatte.us/flavors/",
-      "phone": "(650) 250-5047",
-      "hours": "Mon-Sun 11am - 11pm",
-      "priceRange": "$$",
-      "description": "Authentic Italian gelato made fresh daily with premium ingredients, blending traditional recipes, local dairy, and imported Italian flavors into every handcrafted scoop",
-      "outsideEatsRating": 4.4
+      "placeId": "ChIJpbeYtaS7j4ARHndrtIWzx2k",
+      "cuisine": "Wine Bar",
+      "menuUrl": "https://www.cedarandsagebistro.com/menu"
     }
   ],
   "Los Altos, CA": [
