@@ -6732,6 +6732,24 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/palo-alto/Caffe Riace Small.jpeg"
     },
     {
+      "id": "manual_1783608594598",
+      "displayName": {
+        "text": "Cedar & Sage Bistro & Lounge",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1301 Stanford Shopping Center, Palo Alto, CA 94304",
+      "googleMapsUri": "https://www.google.com/maps/place/Cedar+And+Sage+Bistro/data=!4m2!3m1!1s0x0:0x69c7b385b46b771e?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.cedarandsagebistro.com/",
+      "location": {
+        "latitude": 37.444599457051105,
+        "longitude": -122.17224087113493
+      },
+      "placeId": "ChIJpbeYtaS7j4ARHndrtIWzx2k",
+      "cuisine": "Wine Bar",
+      "menuUrl": "https://www.cedarandsagebistro.com/menu",
+      "description": "Wine-focused bistro and lounge coming to Stanford Shopping Center from the owners of The Winery Restaurant in Orange County. Chef-driven menu with custom paintings of R&B and Rock and Roll Hall of Fame artists throughout."
+    },
+    {
       "id": "ChIJ7c_w_4q6j4ARF8QWNPNwbck",
       "formattedAddress": "3740 El Camino Real, Palo Alto, CA 94306, USA",
       "location": {
@@ -10785,23 +10803,6 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://www.zolapaloalto.com/",
       "priceRange": "$$$",
       "description": "Romantic French-California bistro on California Avenue with a changing seasonal menu, natural wine program, and intimate BarZola cocktail lounge next door."
-    },
-    {
-      "id": "manual_1783608594598",
-      "displayName": {
-        "text": "Cedar & Sage Bistro & Lounge",
-        "languageCode": "en"
-      },
-      "formattedAddress": "1301 Stanford Shopping Center, Palo Alto, CA 94304",
-      "googleMapsUri": "https://www.google.com/maps/place/Cedar+And+Sage+Bistro/data=!4m2!3m1!1s0x0:0x69c7b385b46b771e?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://www.cedarandsagebistro.com/",
-      "location": {
-        "latitude": 37.444599457051105,
-        "longitude": -122.17224087113493
-      },
-      "placeId": "ChIJpbeYtaS7j4ARHndrtIWzx2k",
-      "cuisine": "Wine Bar",
-      "menuUrl": "https://www.cedarandsagebistro.com/menu"
     }
   ],
   "Los Altos, CA": [
