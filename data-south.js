@@ -4525,6 +4525,33 @@ var PREBAKED_DATA_SOUTH = {
       "description": "Michelin-recommended California cuisine restaurant at 898 Santa Cruz Avenue with a sunlit corner dining room, seasonal menus, 10-hour pork ragu rigatoni, buttermilk fried chicken, and weekend brunch."
     },
     {
+      "id": "manual_1783435541825",
+      "displayName": {
+        "text": "Causwells",
+        "languageCode": "en"
+      },
+      "formattedAddress": "550 Oak Grove Ave, Menlo Park, CA , 94025",
+      "googleMapsUri": "https://www.google.com/maps/place/Causwells+Menlo+Park/data=!4m2!3m1!1s0x0:0x912a5f3d3a2ea4c6?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.causwells.com/",
+      "location": {
+        "latitude": 37.45535174638615,
+        "longitude": -122.18393962886807
+      },
+      "placeId": "ChIJtybW95alj4ARxqQuOj1fKpE",
+      "cuisine": "American",
+      "keywords": [
+        "burgers",
+        "devil eggs",
+        "crispy chicken sandwich"
+      ],
+      "menuUrl": "https://drive.google.com/file/d/1IKiGwFZztSwA3D_OCBJq2PnmFyzyxNUj/view",
+      "phone": "415-447-6081",
+      "hours": "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-9pm",
+      "priceRange": "$$$",
+      "description": "SF's beloved American bistro lands at Springline with a reimagined 75% new menu. Chef Adam Rosenblum brings classical French training to distinctly American cooking, with a standout bar program and a martini cart. American bistro and cocktail bar using fresh, seasonal ingredients from local produce. Many rave about their burgers and crispy chicken sandwich.",
+      "outsideEatsRating": 3.8
+    },
+    {
       "id": "ChIJq6CCdl-jj4ARjkoQDdcOsDE",
       "formattedAddress": "1850 El Camino Real, Menlo Park, CA 94025, USA",
       "location": {
@@ -6379,33 +6406,6 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://yeobodarling.com/",
       "priceRange": "$$$$",
       "description": "Intimate Korean-Taiwanese dinner restaurant at 827 Santa Cruz Avenue from the Michelin-starred Maum team, with abundant banchan service, tea-infused cocktails, premium sool, and dishes celebrating the chefs' shared heritage."
-    },
-    {
-      "id": "manual_1783435541825",
-      "displayName": {
-        "text": "Causwells",
-        "languageCode": "en"
-      },
-      "formattedAddress": "550 Oak Grove Ave, Menlo Park, CA , 94025",
-      "googleMapsUri": "https://www.google.com/maps/place/Causwells+Menlo+Park/data=!4m2!3m1!1s0x0:0x912a5f3d3a2ea4c6?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://www.causwells.com/",
-      "location": {
-        "latitude": 37.45535174638615,
-        "longitude": -122.18393962886807
-      },
-      "placeId": "ChIJtybW95alj4ARxqQuOj1fKpE",
-      "cuisine": "American",
-      "keywords": [
-        "burgers",
-        "devil eggs",
-        "crispy chicken sandwich"
-      ],
-      "menuUrl": "https://drive.google.com/file/d/1IKiGwFZztSwA3D_OCBJq2PnmFyzyxNUj/view",
-      "phone": "415-447-6081",
-      "hours": "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-9pm",
-      "priceRange": "$$$",
-      "description": "American bistro and cocktail bar using fresh, seasonal ingredients from local produce. Many rave about their burgers and crispy chicken sandwich",
-      "outsideEatsRating": 3.8
     }
   ],
   "Palo Alto, CA": [
