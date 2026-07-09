@@ -5246,34 +5246,6 @@ var PREBAKED_DATA_SOUTH = {
       "description": "Neighborhood Italian restaurant with fresh pasta, wood-fired dishes, and a warm trattoria atmosphere popular for business lunches and date nights."
     },
     {
-      "id": "ChIJo4971K-kj4AReyDUlK6mSI0",
-      "formattedAddress": "635 Santa Cruz Ave, Menlo Park, CA 94025, USA",
-      "location": {
-        "latitude": 37.452656,
-        "longitude": -122.18331719999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10180570226422456443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.leftbank.com/",
-      "displayName": {
-        "text": "Left Bank Menlo Park",
-        "languageCode": "en"
-      },
-      "cuisine": "French",
-      "photoUrl": "images/restaurant-photos/menlo-park/Left bank Small.jpeg",
-      "hours": {
-        "Monday": "11:30 AM - 9:00 PM",
-        "Tuesday": "11:30 AM - 9:00 PM",
-        "Wednesday": "11:30 AM - 9:00 PM",
-        "Thursday": "11:30 AM - 9:00 PM",
-        "Friday": "11:30 AM - 10:00 PM",
-        "Saturday": "11:30 AM - 10:00 PM",
-        "Sunday": "10:30 AM - 9:00 PM"
-      },
-      "menuUrl": "https://www.leftbank.com/menlo-park/",
-      "priceRange": "$$$",
-      "description": "Classic French brasserie on Santa Cruz Avenue with escargot, steak frites, moules marinières, a rotating menu of French favorites, and a popular weekend brunch since 2005."
-    },
-    {
       "id": "ChIJB0d75rK9j4AR-sgYVBDrIgs",
       "formattedAddress": "842 Santa Cruz Ave, Menlo Park, CA 94025, USA",
       "location": {
