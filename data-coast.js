@@ -211,27 +211,6 @@ var PREBAKED_DATA_COAST = {
       "description": "Charming oceanfront cafe in the Manor Shopping Center at 5 W. Manor Dr."
     },
     {
-      "id": "ChIJ5z7At_96j4AR55wS3rlWVX0",
-      "formattedAddress": "2100 Beach Blvd, Pacifica, CA 94044, USA",
-      "location": {
-        "latitude": 37.6333929,
-        "longitude": -122.49459300000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9031219984056098023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.chitchatpacifica.com/",
-      "displayName": {
-        "text": "Chit Chat Cafe at the Pier",
-        "languageCode": "en"
-      },
-      "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/pacifica/Chit Chat Cafe Small.jpeg",
-      "hours": "Mon–Sun 7:30am–5pm",
-      "phone": "(650) 359-7025",
-      "menuUrl": "https://www.chitchatpacifica.com/",
-      "priceRange": "$",
-      "description": "Cozy octagon-shaped cafe at the base of the Pacifica Pier serving espresso, soups, sandwiches, and weekend BBQ."
-    },
-    {
       "id": "ChIJvUa_WJNwj4ARlNohScJDWgk",
       "formattedAddress": "1049 Terra Nova Blvd, Pacifica, CA 94044, USA",
       "location": {
