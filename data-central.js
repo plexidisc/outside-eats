@@ -8483,6 +8483,7 @@ var PREBAKED_DATA_CENTRAL = {
         "family friendly"
       ],
       "menuUrl": "https://order.online/en/store/taste-glory-s-el-camino-real-28213150",
+      "videoUrl": "https://youtube.com/shorts/SqS_Zb7Nsuk?feature=share",
       "phone": "(650) 393-4951",
       "hours": "Mon–Fri 9am–2pm, Sat–Sun 8:30am–2:30pm",
       "priceRange": "$$",
