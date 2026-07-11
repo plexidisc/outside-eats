@@ -6946,23 +6946,18 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJjcw0nnqej4ARvrndVxyQY60",
+      "displayName": {
+        "text": "Pausa",
+        "languageCode": "en"
+      },
       "formattedAddress": "223 E 4th Ave, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=12493988242663520702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.pausasanmateo.com/",
       "location": {
         "latitude": 37.5647072,
         "longitude": -122.32199899999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=12493988242663520702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.pausasanmateo.com/",
-      "displayName": {
-        "text": "Pausa Bar & Cookery",
-        "languageCode": "en"
-      },
       "cuisine": "Italian",
-      "photoUrl": "images/restaurant-photos/san-mateo/Pausa Small.jpeg",
-      "phone": "(650) 375-0818",
-      "description": "Chef Andrea Giuliani creates authentic Italian cuisine from Northern California bounty.",
-      "hours": "Mon–Thu 4:30pm–9pm, Fri–Sat 4pm–9:30pm, Sun 4pm–8:30pm",
-      "priceRange": "$$",
       "keywords": [
         "italian",
         "outdoor seating",
@@ -6971,9 +6966,19 @@ var PREBAKED_DATA_CENTRAL = {
         "happy hour",
         "brunch",
         "wine list",
-        "pasta"
+        "pasta",
+        "charcuterie",
+        "pizza"
       ],
-      "award": "Best of San Mateo 2026 — Best Italian Restaurants Winner"
+      "menuUrl": "https://www.pausasanmateo.com/home#menus",
+      "videoUrl": "https://youtube.com/shorts/oZKF_NaYUpU?feature=share",
+      "phone": "(650) 375-0818",
+      "hours": "Mon–Thu 4:30pm–9pm, Fri–Sat 4pm–9:30pm, Sun 4pm–8:30pm",
+      "priceRange": "$$$",
+      "description": "Chef Andrea Giuliani creates authentic Italian cuisine from Northern California bounty.",
+      "award": "Best of San Mateo 2026 — Best Italian Restaurants Winner",
+      "outsideEatsRating": 4.9,
+      "photoUrl": "images/restaurant-photos/san-mateo/Pausa Small.jpeg"
     },
     {
       "id": "ChIJJRmUeRafj4ARQs7iBA7Y80Y",
