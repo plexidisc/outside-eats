@@ -13841,6 +13841,31 @@ var PREBAKED_DATA_CENTRAL = {
         "noodles",
         "casual"
       ]
+    },
+    {
+      "id": "manual_1783807474375",
+      "displayName": {
+        "text": "House of Bagels",
+        "languageCode": "en"
+      },
+      "formattedAddress": "605 Laurel St, San Carlos, CA 94070",
+      "googleMapsUri": "https://www.google.com/maps/place/house+of+bagels+san+carlos/data=!4m2!3m1!1s0x808fa203442399d7:0x3caf92351caba731?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "https://www.houseofbagels.co/",
+      "location": {
+        "latitude": 37.5065191651531,
+        "longitude": -122.2608449577242
+      },
+      "placeId": "ChIJ15kjRAOij4ARMaerHDWSrzw",
+      "cuisine": "Breakfast",
+      "keywords": [
+        "bagels"
+      ],
+      "phone": "(650) 637-8277",
+      "hours": "Mon 6:30am - 1:30pm, Tues-Fri 6:30am - 2pm, Sat-Sun 7am - 2pm",
+      "priceRange": "$",
+      "description": "New York style bagels since 1962 available at their restaurants and retail locations throughout the bay area.",
+      "award": "Best of San Mateo 2026 - Best Bagel Shop",
+      "outsideEatsRating": 4.7
     }
   ]
 };
