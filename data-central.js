@@ -3105,6 +3105,32 @@ var PREBAKED_DATA_CENTRAL = {
       "photoUrl": "images/restaurant-photos/san-mateo/Anatolian Cafe Small.jpeg"
     },
     {
+      "id": "manual_1783953554498",
+      "displayName": {
+        "text": "Antoine's Cookie Shop",
+        "languageCode": "en"
+      },
+      "formattedAddress": "220 2nd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Antoine's+Cookie+Shop+San+Mateo/data=!4m2!3m1!1s0x0:0x9d4c7f449d523d7a?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.antoinescookieshop.com/shop/pick-up-cookies/2",
+      "location": {
+        "latitude": 37.5661585197252,
+        "longitude": -122.32342457113505
+      },
+      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
+      "cuisine": "dessert",
+      "keywords": [
+        "cookies"
+      ],
+      "menuUrl": "https://www.antoinescookieshop.com/shop/pick-up-cookies/2",
+      "phone": "(650) 495-2303",
+      "hours": "Mon-Sat 10am-8pm, Sun 10am-5pm",
+      "priceRange": "$",
+      "notes": "Handcrafted cookies using butter, real vanilla, organic flour and guittard chocolate.",
+      "outsideEatsRating": 4.8,
+      "photoUrl": "images/restaurant-photos/san-mateo/Antoine's Cookie Shop Small.jpeg"
+    },
+    {
       "id": "ChIJtyXnf-iej4ARgH5vz-MDChE",
       "displayName": {
         "text": "Apple Fritter",
@@ -9018,31 +9044,6 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
-    },
-    {
-      "id": "manual_1783953554498",
-      "displayName": {
-        "text": "Antoine's Cookie Shop",
-        "languageCode": "en"
-      },
-      "formattedAddress": "220 2nd Ave, San Mateo, CA 94401",
-      "googleMapsUri": "https://www.google.com/maps/place/Antoine's+Cookie+Shop+San+Mateo/data=!4m2!3m1!1s0x0:0x9d4c7f449d523d7a?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://www.antoinescookieshop.com/shop/pick-up-cookies/2",
-      "location": {
-        "latitude": 37.5661585197252,
-        "longitude": -122.32342457113505
-      },
-      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
-      "cuisine": "dessert",
-      "keywords": [
-        "cookies"
-      ],
-      "menuUrl": "https://www.antoinescookieshop.com/shop/pick-up-cookies/2",
-      "phone": "(650) 495-2303",
-      "hours": "Mon-Sat 10am-8pm, Sun 10am-5pm",
-      "priceRange": "$",
-      "notes": "Handcrafted cookies using butter, real vanilla, organic flour and guittard chocolate.",
-      "outsideEatsRating": 4.8
     }
   ],
   "Foster City, CA": [
