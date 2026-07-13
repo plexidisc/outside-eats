@@ -7899,6 +7899,32 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
+      "id": "manual_1783637344787",
+      "displayName": {
+        "text": "Sibby's Cupcakery",
+        "languageCode": "en"
+      },
+      "formattedAddress": "716 S Railroad Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Sibby's+Cupcakery/data=!4m2!3m1!1s0x0:0x92cd3a22accd2d95?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://sibbyscupcakery.com/signature-designs.php",
+      "location": {
+        "latitude": 37.5629933349207,
+        "longitude": -122.31856472885507
+      },
+      "placeId": "ChIJ7-Nx72Sej4ARlS3NrCI6zZI",
+      "cuisine": "Dessert",
+      "keywords": [
+        "cupcakes"
+      ],
+      "menuUrl": "https://sibbyscupcakery.com/menu.php",
+      "phone": "(415) 613-4373",
+      "hours": "Wed-Fri 10am-5:30pm, Sat 10am-5pm, Sun 10am-2pm",
+      "priceRange": "$",
+      "award": "Best of San Mateo 2026 - Dessert shops",
+      "outsideEatsRating": 4.9,
+      "photoUrl": "images/restaurant-photos/san-mateo/Sibby's Cupcakery Small.jpeg"
+    },
+    {
       "id": "ChIJ14-fBvmej4ARrGESAkmSw-I",
       "formattedAddress": "2224 S El Camino Real, San Mateo, CA 94403, USA",
       "location": {
@@ -8994,30 +9020,29 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
-      "id": "manual_1783637344787",
+      "id": "manual_1783953554498",
       "displayName": {
-        "text": "Sibby's Cupcakery",
+        "text": "Antoine's Cookie Shop",
         "languageCode": "en"
       },
-      "formattedAddress": "716 S Railroad Ave, San Mateo, CA 94401",
-      "googleMapsUri": "https://www.google.com/maps/place/Sibby's+Cupcakery/data=!4m2!3m1!1s0x0:0x92cd3a22accd2d95?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://sibbyscupcakery.com/signature-designs.php",
+      "formattedAddress": "220 2nd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Antoine's+Cookie+Shop+San+Mateo/data=!4m2!3m1!1s0x0:0x9d4c7f449d523d7a?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.antoinescookieshop.com/shop/pick-up-cookies/2",
       "location": {
-        "latitude": 37.5629933349207,
-        "longitude": -122.31856472885507
+        "latitude": 37.5661585197252,
+        "longitude": -122.32342457113505
       },
-      "placeId": "ChIJ7-Nx72Sej4ARlS3NrCI6zZI",
-      "cuisine": "Dessert",
+      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
+      "cuisine": "dessert",
       "keywords": [
-        "cupcakes"
+        "cookies"
       ],
-      "menuUrl": "https://sibbyscupcakery.com/menu.php",
-      "phone": "(415) 613-4373",
-      "hours": "Wed-Fri 10am-5:30pm, Sat 10am-5pm, Sun 10am-2pm",
+      "menuUrl": "https://www.antoinescookieshop.com/shop/pick-up-cookies/2",
+      "phone": "(650) 495-2303",
+      "hours": "Mon-Sat 10am-8pm, Sun 10am-5pm",
       "priceRange": "$",
-      "award": "Best of San Mateo 2026 - Dessert shops",
-      "outsideEatsRating": 4.9,
-      "photoUrl": "images/restaurant-photos/san-mateo/Sibby's Cupcakery Small.jpeg"
+      "notes": "Handcrafted cookies using butter, real vanilla, organic flour and guittard chocolate.",
+      "outsideEatsRating": 4.8
     }
   ],
   "Foster City, CA": [
@@ -12886,6 +12911,35 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
+      "id": "manual_1783953059311",
+      "displayName": {
+        "text": "Papachay Peruvian Coffee",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1431 Old County Rd, San Carlos, CA 94070",
+      "googleMapsUri": "https://www.google.com/maps/place/Papachay+Peruvian+Coffee/data=!4m2!3m1!1s0x0:0x4cdfc105cb481a4d?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "http://www.papachay.com/",
+      "location": {
+        "latitude": 37.497852480795004,
+        "longitude": -122.2477846133702
+      },
+      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "coffee",
+        "coffee beans",
+        "latte",
+        "cappuccino",
+        "tea",
+        "empanadas"
+      ],
+      "menuUrl": "http://www.papachay.com/",
+      "phone": "(650) 593-1999",
+      "hours": "Mon-Fri 7am-2pm",
+      "priceRange": "$",
+      "description": "Family owned coffee shop beloved by locals. Also known for their empanadas."
+    },
+    {
       "id": "ChIJtVlMxBeij4ARW1R2aJ91IMI",
       "formattedAddress": "1179 Laurel St, San Carlos, CA 94070, USA",
       "location": {
@@ -13867,35 +13921,6 @@ var PREBAKED_DATA_CENTRAL = {
         "noodles",
         "casual"
       ]
-    },
-    {
-      "id": "manual_1783953059311",
-      "displayName": {
-        "text": "Papachay Peruvian Coffee",
-        "languageCode": "en"
-      },
-      "formattedAddress": "1431 Old County Rd, San Carlos, CA 94070",
-      "googleMapsUri": "https://www.google.com/maps/place/Papachay+Peruvian+Coffee/data=!4m2!3m1!1s0x0:0x4cdfc105cb481a4d?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "http://www.papachay.com/",
-      "location": {
-        "latitude": 37.497852480795004,
-        "longitude": -122.2477846133702
-      },
-      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
-      "cuisine": "Cafe/Bakery",
-      "keywords": [
-        "coffee",
-        "coffee beans",
-        "latte",
-        "cappuccino",
-        "tea",
-        "empanadas"
-      ],
-      "menuUrl": "http://www.papachay.com/",
-      "phone": "(650) 593-1999",
-      "hours": "Mon-Fri 7am-2pm",
-      "priceRange": "$",
-      "description": "Family owned coffee shop beloved by locals. Also known for their empanadas."
     }
   ]
 };
