@@ -13867,6 +13867,35 @@ var PREBAKED_DATA_CENTRAL = {
         "noodles",
         "casual"
       ]
+    },
+    {
+      "id": "manual_1783953059311",
+      "displayName": {
+        "text": "Papachay Peruvian Coffee",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1431 Old County Rd, San Carlos, CA 94070",
+      "googleMapsUri": "https://www.google.com/maps/place/Papachay+Peruvian+Coffee/data=!4m2!3m1!1s0x0:0x4cdfc105cb481a4d?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "http://www.papachay.com/",
+      "location": {
+        "latitude": 37.497852480795004,
+        "longitude": -122.2477846133702
+      },
+      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "coffee",
+        "coffee beans",
+        "latte",
+        "cappuccino",
+        "tea",
+        "empanadas"
+      ],
+      "menuUrl": "http://www.papachay.com/",
+      "phone": "(650) 593-1999",
+      "hours": "Mon-Fri 7am-2pm",
+      "priceRange": "$",
+      "description": "Family owned coffee shop beloved by locals. Also known for their empanadas."
     }
   ]
 };
