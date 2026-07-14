@@ -9044,6 +9044,33 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1784046182255",
+      "displayName": {
+        "text": "Golden Bell Donuts",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1500 E 3rd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "google.com/maps/place/golden+bell+donuts/data=!4m2!3m1!1s0x808f9fe835cea661:0xef1a7d9aebac54a6?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.57338331294027,
+        "longitude": -122.31084235568629
+      },
+      "placeId": "ChIJYabONeifj4ARplSs65p9Gu8",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "donuts",
+        "fritters",
+        "crawlers",
+        "coffee"
+      ],
+      "phone": "(650) 343-0126",
+      "hours": "Mon-Sun 4:30am-2pm",
+      "priceRange": "$",
+      "description": "Friendly mom and pop donut shop. Everything made in house.",
+      "outsideEatsRating": 4.8
     }
   ],
   "Foster City, CA": [
