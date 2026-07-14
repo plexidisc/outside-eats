@@ -1162,7 +1162,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Bold Mexican street food meets hibachi style cooking with homemade sauces at this unique food truck.",
       "menuUrl": "https://www.firehibachigrill.com/menu?menu=fire-hibachi-menu-sep-2025",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/redwood-city/Fire Hibachi Small.jpeg"
     },
     {
       "id": "ChIJW5Yt70-ij4ARzVE2Ri_m6oM",
