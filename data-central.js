@@ -9071,6 +9071,32 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1784046911960",
+      "displayName": {
+        "text": "3 Bees Coffee",
+        "languageCode": "en"
+      },
+      "formattedAddress": "224 E 3rd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/3+Bees+Coffee/data=!4m2!3m1!1s0x0:0xba5f082b0c77217e?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.3beescoffee.com/",
+      "location": {
+        "latitude": 37.56539925151947,
+        "longitude": -122.3226634577393
+      },
+      "placeId": "ChIJbfvnfHCej4ARfiF3DCsIX7o",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "coffee",
+        "italian coffee"
+      ],
+      "menuUrl": "https://www.3beescoffee.com/3-bees-coffee-menu/",
+      "phone": "(650) 344-2339",
+      "hours": "Mon-Fri 6:30am - 5pm, Sat 7am-5pm, Sun 7:30am - 5pm",
+      "priceRange": "$",
+      "description": "Locally owned, Italian focused coffee shop with fresh baked pastries and breakfast sandwiches. Warm and relaxing atmosphere also with outdoor seating.",
+      "outsideEatsRating": 4.4
     }
   ],
   "Foster City, CA": [
@@ -12968,6 +12994,30 @@ var PREBAKED_DATA_CENTRAL = {
       "description": "Family owned coffee shop beloved by locals. Also known for their empanadas."
     },
     {
+      "id": "manual_1784046533627",
+      "displayName": {
+        "text": "Papachay Peruvian Coffee",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1431 Old County Rd, San Carlos, CA 94070",
+      "googleMapsUri": "https://www.google.com/maps/place/Papachay+Peruvian+Coffee/data=!4m2!3m1!1s0x0:0x4cdfc105cb481a4d?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "http://www.papachay.com/",
+      "location": {
+        "latitude": 37.49782694468957,
+        "longitude": -122.24788117319248
+      },
+      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "coffee",
+        "empanadas"
+      ],
+      "menuUrl": "https://www.papachay.com/",
+      "phone": "+16505931999",
+      "priceRange": "$",
+      "outsideEatsRating": 4.9
+    },
+    {
       "id": "ChIJtVlMxBeij4ARW1R2aJ91IMI",
       "formattedAddress": "1179 Laurel St, San Carlos, CA 94070, USA",
       "location": {
@@ -13949,30 +13999,6 @@ var PREBAKED_DATA_CENTRAL = {
         "noodles",
         "casual"
       ]
-    },
-    {
-      "id": "manual_1784046533627",
-      "displayName": {
-        "text": "Papachay Peruvian Coffee",
-        "languageCode": "en"
-      },
-      "formattedAddress": "1431 Old County Rd, San Carlos, CA 94070",
-      "googleMapsUri": "https://www.google.com/maps/place/Papachay+Peruvian+Coffee/data=!4m2!3m1!1s0x0:0x4cdfc105cb481a4d?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "http://www.papachay.com/",
-      "location": {
-        "latitude": 37.49782694468957,
-        "longitude": -122.24788117319248
-      },
-      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
-      "cuisine": "Cafe/Bakery",
-      "keywords": [
-        "coffee",
-        "empanadas"
-      ],
-      "menuUrl": "https://www.papachay.com/",
-      "phone": "+16505931999",
-      "priceRange": "$",
-      "outsideEatsRating": 4.9
     }
   ]
 };
