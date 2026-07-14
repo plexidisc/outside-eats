@@ -7599,6 +7599,7 @@ var PREBAKED_DATA_NORTH = {
         "bread",
         "cakes"
       ],
+      "videoUrl": "https://youtube.com/shorts/3IHUJsxS9nM?feature=share",
       "hours": "Wed-Thu 7:30am - 3pm, Sat-Sun 8am-3pm",
       "priceRange": "$",
       "description": "Brazilian bakery offering Brazilian foods, breads, cakes and brigadeiros in charming and inviting atmosphere.",
