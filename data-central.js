@@ -12993,7 +12993,8 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 593-1999",
       "hours": "Mon-Fri 7am-2pm",
       "priceRange": "$",
-      "description": "Family owned coffee shop beloved by locals. Also known for their empanadas."
+      "description": "Family owned coffee shop beloved by locals. Also known for their empanadas.",
+      "outsideEatsRating": 4.9
     },
     {
       "id": "ChIJtVlMxBeij4ARW1R2aJ91IMI",
