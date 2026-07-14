@@ -4502,7 +4502,8 @@ var PREBAKED_DATA_SOUTH = {
       "hours": "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-9pm",
       "priceRange": "$$$",
       "description": "SF's beloved American bistro lands at Springline with a reimagined 75% new menu. Chef Adam Rosenblum brings classical French training to distinctly American cooking, with a standout bar program and a martini cart. American bistro and cocktail bar using fresh, seasonal ingredients from local produce. Many rave about their burgers and crispy chicken sandwich.",
-      "outsideEatsRating": 3.8
+      "outsideEatsRating": 3.8,
+      "photoUrl": "images/restaurant-photos/menlo-park/Causwells Small.jpeg"
     },
     {
       "id": "ChIJq6CCdl-jj4ARjkoQDdcOsDE",
