@@ -2613,21 +2613,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/redwood-city/Pho Dong Small.jpeg"
     },
     {
-      "id": "ChIJ-y8SHTCjj4ARrKkGwONBpIE",
-      "formattedAddress": "459 Seaport Ct F Dock, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.503899,
-        "longitude": -122.21352519999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9341663973508295084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
-      "displayName": {
-        "text": "Pioneer Seafoods",
-        "languageCode": "en"
-      },
-      "cuisine": "Seafood"
-    },
-    {
       "id": "ChIJ11VpjVqjj4ARQAAmO_M9WUI",
       "formattedAddress": "2053A Broadway, Redwood City, CA 94063, USA",
       "location": {
