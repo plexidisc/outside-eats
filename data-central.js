@@ -4892,7 +4892,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon-Sun 4:30am-2pm",
       "priceRange": "$",
       "description": "Friendly mom and pop donut shop. Everything made in house.",
-      "outsideEatsRating": 4.8
+      "outsideEatsRating": 4.8,
+      "photoUrl": "images/restaurant-photos/san-mateo/Golden Bell Donuts Small.jpeg"
     },
     {
       "id": "ChIJh1Pinbedj4ARfPkf5TbAlbI",
