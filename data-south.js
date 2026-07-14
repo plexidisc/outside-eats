@@ -3274,7 +3274,7 @@ var PREBAKED_DATA_SOUTH = {
         "languageCode": "en"
       },
       "cuisine": "Mexican",
-      "photoUrl": "images/restaurant-photos/redwood-city/Tacos El Grullense #1 Small.jpeg",
+      "photoUrl": "images/restaurant-photos/redwood-city/Tacos El Grullense 1 Small.jpeg",
       "phone": "(650) 298-9972",
       "hours": {
         "Monday": "8:00 AM - 11:00 PM",
@@ -5990,7 +5990,8 @@ var PREBAKED_DATA_SOUTH = {
       "phone": "(650) 838-9448",
       "hours": "Mon-Sun 11:00 AM - 8:30 PM",
       "priceRange": "$$",
-      "description": "Family-owned Singaporean kitchen serving authentic chili crab, laksa, and satay from recipes brought over from Singapore in 1999."
+      "description": "Family-owned Singaporean kitchen serving authentic chili crab, laksa, and satay from recipes brought over from Singapore in 1999.",
+      "photoUrl": "images/restaurant-photos/menlo-park/Shiok Singapore Kitchen Small.jpeg"
     },
     {
       "id": "ChIJLylwScmlj4ARj_Cu5p52tuc",
