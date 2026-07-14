@@ -12994,7 +12994,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon-Fri 7am-2pm",
       "priceRange": "$",
       "description": "Family owned coffee shop beloved by locals. Also known for their empanadas.",
-      "outsideEatsRating": 4.9
+      "outsideEatsRating": 4.9,
+      "photoUrl": "images/restaurant-photos/san-carlos/Papachay Peruvian Coffee Small.jpeg"
     },
     {
       "id": "ChIJtVlMxBeij4ARW1R2aJ91IMI",
