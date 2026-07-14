@@ -3013,34 +3013,6 @@ var PREBAKED_DATA_SOUTH = {
       "photoUrl": "images/restaurant-photos/redwood-city/Seoul Kitchen Small.jpeg"
     },
     {
-      "id": "ChIJu2z3_K-kj4AR56nmZskIkg4",
-      "formattedAddress": "426 MacArthur Ave, Redwood City, CA 94063, USA",
-      "location": {
-        "latitude": 37.4777766,
-        "longitude": -122.21145999999997
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=1049911324238588391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://shiokkitchen.com/?utm_source=google",
-      "displayName": {
-        "text": "Shiok Singapore Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Singaporean",
-      "phone": "(650) 815-5148",
-      "hours": {
-        "Sunday": "11:00 AM - 8:30 PM",
-        "Monday": "11:00 AM - 8:30 PM",
-        "Tuesday": "11:00 AM - 8:30 PM",
-        "Wednesday": "11:00 AM - 8:30 PM",
-        "Thursday": "11:00 AM - 8:30 PM",
-        "Friday": "11:00 AM - 8:30 PM",
-        "Saturday": "11:00 AM - 8:30 PM"
-      },
-      "description": "Authentic Singaporean cuisine featuring satay, chili crab, and beef rendang made from scratch with fresh ingredients.",
-      "menuUrl": "https://shiokkitchen.com/menu",
-      "priceRange": "$$"
-    },
-    {
       "id": "ChIJHxd5UdGjj4ARSU73Grs-iG8",
       "formattedAddress": "3045, 3201A Oak Knoll Dr #3045, Redwood City, CA 94062, USA",
       "location": {
