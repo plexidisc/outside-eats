@@ -1138,31 +1138,26 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJnfcRRACjj4AR7rb5P5g2z8M",
+      "displayName": {
+        "text": "Fire Hibachi (food truck)",
+        "languageCode": "en"
+      },
       "formattedAddress": "1690 Broadway, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14109556185111312110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.firehibachigrill.com/",
       "location": {
         "latitude": 37.48726,
         "longitude": -122.220829
       },
-      "googleMapsUri": "https://maps.google.com/?cid=14109556185111312110&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.firehibachigrill.com/",
-      "displayName": {
-        "text": "Fire Hibachi",
-        "languageCode": "en"
-      },
       "cuisine": "Fusion",
-      "phone": "(650) 509-2894",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "Closed",
-        "Wednesday": "4:00 PM - 11:00 PM",
-        "Thursday": "4:00 PM - 11:00 PM",
-        "Friday": "4:00 PM - 1:00 AM",
-        "Saturday": "4:00 PM - 1:00 AM",
-        "Sunday": "4:00 PM - 11:00 PM"
-      },
-      "description": "Bold Mexican street food meets hibachi style cooking with homemade sauces at this unique food truck.",
+      "keywords": [
+        "food truck"
+      ],
       "menuUrl": "https://www.firehibachigrill.com/menu?menu=fire-hibachi-menu-sep-2025",
+      "phone": "(650) 509-2894",
+      "hours": "Mon & Tue Closed, Wed & Thu 4:00 PM - 11:00 PM, Fri & Sat 4:00 PM - 1:00 AM, Sun 4:00 PM - 11:00 PM",
       "priceRange": "$$",
+      "description": "Bold Mexican street food meets hibachi style cooking with homemade sauces at this unique food truck.",
       "photoUrl": "images/restaurant-photos/redwood-city/Fire Hibachi Small.jpeg"
     },
     {
