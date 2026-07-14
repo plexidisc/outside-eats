@@ -4841,6 +4841,33 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
+      "id": "manual_1784046182255",
+      "displayName": {
+        "text": "Golden Bell Donuts",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1500 E 3rd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "google.com/maps/place/golden+bell+donuts/data=!4m2!3m1!1s0x808f9fe835cea661:0xef1a7d9aebac54a6?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.57338331294027,
+        "longitude": -122.31084235568629
+      },
+      "placeId": "ChIJYabONeifj4ARplSs65p9Gu8",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "donuts",
+        "fritters",
+        "crawlers",
+        "coffee"
+      ],
+      "phone": "(650) 343-0126",
+      "hours": "Mon-Sun 4:30am-2pm",
+      "priceRange": "$",
+      "description": "Friendly mom and pop donut shop. Everything made in house.",
+      "outsideEatsRating": 4.8
+    },
+    {
       "id": "ChIJh1Pinbedj4ARfPkf5TbAlbI",
       "formattedAddress": "1119 N Amphlett Blvd, San Mateo, CA 94401, USA",
       "location": {
@@ -9044,33 +9071,6 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
-    },
-    {
-      "id": "manual_1784046182255",
-      "displayName": {
-        "text": "Golden Bell Donuts",
-        "languageCode": "en"
-      },
-      "formattedAddress": "1500 E 3rd Ave, San Mateo, CA 94401",
-      "googleMapsUri": "google.com/maps/place/golden+bell+donuts/data=!4m2!3m1!1s0x808f9fe835cea661:0xef1a7d9aebac54a6?sa=X&ved=1t:242&ictx=111",
-      "websiteUri": "",
-      "location": {
-        "latitude": 37.57338331294027,
-        "longitude": -122.31084235568629
-      },
-      "placeId": "ChIJYabONeifj4ARplSs65p9Gu8",
-      "cuisine": "Cafe/Bakery",
-      "keywords": [
-        "donuts",
-        "fritters",
-        "crawlers",
-        "coffee"
-      ],
-      "phone": "(650) 343-0126",
-      "hours": "Mon-Sun 4:30am-2pm",
-      "priceRange": "$",
-      "description": "Friendly mom and pop donut shop. Everything made in house.",
-      "outsideEatsRating": 4.8
     }
   ],
   "Foster City, CA": [
@@ -13949,6 +13949,30 @@ var PREBAKED_DATA_CENTRAL = {
         "noodles",
         "casual"
       ]
+    },
+    {
+      "id": "manual_1784046533627",
+      "displayName": {
+        "text": "Papachay Peruvian Coffee",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1431 Old County Rd, San Carlos, CA 94070",
+      "googleMapsUri": "https://www.google.com/maps/place/Papachay+Peruvian+Coffee/data=!4m2!3m1!1s0x0:0x4cdfc105cb481a4d?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "http://www.papachay.com/",
+      "location": {
+        "latitude": 37.49782694468957,
+        "longitude": -122.24788117319248
+      },
+      "placeId": "ChIJi0m30Beij4ARTRpIywXB30w",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "coffee",
+        "empanadas"
+      ],
+      "menuUrl": "https://www.papachay.com/",
+      "phone": "+16505931999",
+      "priceRange": "$",
+      "outsideEatsRating": 4.9
     }
   ]
 };
