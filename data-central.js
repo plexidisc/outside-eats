@@ -4702,31 +4702,32 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ_YgYJYufj4ARKw1ULsKCDiE",
-      "formattedAddress": "144 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.566493200000004,
-        "longitude": -122.32369459999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=2381985023438097707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.fogbird.co/",
       "displayName": {
         "text": "Fogbird",
         "languageCode": "en"
       },
+      "formattedAddress": "144 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=2381985023438097707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.fogbird.co/",
+      "location": {
+        "latitude": 37.566493200000004,
+        "longitude": -122.32369459999998
+      },
       "cuisine": "Other",
-      "photoUrl": "images/restaurant-photos/san-mateo/Fogbird Small.jpeg",
-      "phone": "(650) 458-0049",
-      "description": "Named Best Bar two years running with creative cocktails.",
-      "hours": "Mon 4pm–9pm, Tue–Thu 4pm–10pm, Fri–Sat 4pm–12am, Sun Closed",
-      "menuUrl": "https://www.fogbird.co/visit-us",
-      "priceRange": "$$",
       "keywords": [
         "outdoor seating",
         "craft beer",
         "bar food",
         "happy hour"
       ],
-      "award": "Best of San Mateo 2026 — Best Bars & Best Cocktails Winner"
+      "menuUrl": "https://www.fogbird.co/visit-us",
+      "videoUrl": "https://youtube.com/shorts/_1Py3Giyqcg?feature=share",
+      "phone": "(650) 458-0049",
+      "hours": "Mon 4pm–9pm, Tue–Thu 4pm–10pm, Fri–Sat 4pm–12am, Sun Closed",
+      "priceRange": "$$",
+      "description": "Named Best Bar two years running with creative cocktails.",
+      "award": "Best of San Mateo 2026 — Best Bars & Best Cocktails Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/Fogbird Small.jpeg"
     },
     {
       "id": "ChIJBUJUEvufj4AR3Ms-AQad6AU",
