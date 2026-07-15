@@ -4099,30 +4099,31 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJwdQE_hmfj4ARhnRXauveN9M",
-      "formattedAddress": "3799 S El Camino Real, San Mateo, CA 94403, USA",
-      "location": {
-        "latitude": 37.533799099999996,
-        "longitude": -122.2934504
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=15219878568404677766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.cubankitchen.org/",
       "displayName": {
         "text": "Cuban Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "3799 S El Camino Real, San Mateo, CA 94403, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=15219878568404677766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.cubankitchen.org/",
+      "location": {
+        "latitude": 37.533799099999996,
+        "longitude": -122.2934504
+      },
       "cuisine": "Caribbean",
-      "phone": "(650) 627-4636",
-      "description": "Female and family owned business serving authentically flavored Cuban cuisine.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Cuban Kitchen Small.jpeg",
-      "hours": "Mon Closed, Tue–Sat 11am–9:30pm, Sun 11am–8pm",
-      "menuUrl": "https://order.toasttab.com/online/qbacubankitchen",
-      "priceRange": "$",
       "keywords": [
         "cuban sandwich",
         "fast casual",
         "counter service"
       ],
-      "award": "Best of San Mateo 2026 — Best Caterers Winner"
+      "menuUrl": "https://order.toasttab.com/online/qbacubankitchen",
+      "videoUrl": "https://youtube.com/shorts/yHLr-m0OzuA?feature=share",
+      "phone": "(650) 627-4636",
+      "hours": "Mon Closed, Tue–Sat 11am–9:30pm, Sun 11am–8pm",
+      "priceRange": "$",
+      "description": "Female and family owned business serving authentically flavored Cuban cuisine.",
+      "award": "Best of San Mateo 2026 — Best Caterers Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cuban Kitchen Small.jpeg"
     },
     {
       "id": "ChIJTV5S5-Ofj4ARcKTVvNe9Z7E",
