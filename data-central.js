@@ -4043,7 +4043,6 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "manual_1779577998337",
-      "placeId": "ChIJFRMcD6Wfj4ARe8WY3sKQsdI",
       "displayName": {
         "text": "Cruel Donuts & Ice Cream",
         "languageCode": "en"
@@ -4055,19 +4054,20 @@ var PREBAKED_DATA_CENTRAL = {
         "latitude": 37.5438036,
         "longitude": -122.3077778
       },
+      "placeId": "ChIJFRMcD6Wfj4ARe8WY3sKQsdI",
       "cuisine": "Dessert",
       "keywords": [
         "donuts",
         "ice cream"
       ],
       "menuUrl": "https://youtube.com/shorts/8dZvn_IMPMU?feature=share",
-      "videoUrl": "https://youtube.com/shorts/8dZvn_IMPMU?feature=share",
+      "videoUrl": "https://youtube.com/shorts/nG4U8NMJQd8?feature=share",
       "phone": "+16503152216",
       "hours": "Mon-Fri 7:15am-8pm, Sat 7:15am-9pm, Sun 7:15am-5pm",
       "priceRange": "$",
       "description": "Homemade ice cream and donuts. Ice cream is made in house by highly experienced ice cream chef. Unique flavors.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Cruel Donuts Ice Cream Small.jpeg",
-      "award": "Best of San Mateo 2026 — Best Doughnuts Winner"
+      "award": "Best of San Mateo 2026 — Best Doughnuts Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/Cruel Donuts Ice Cream Small.jpeg"
     },
     {
       "id": "ChIJObonFH-fj4ARLrUSRoNnYI8",
