@@ -7707,30 +7707,31 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJD3cjhPOfj4ARp9sj08g3cjw",
-      "formattedAddress": "800 S B St #500, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5616249,
-        "longitude": -122.3184551
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=4355605125296020391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.coffeeshopsanmateo.com/",
       "displayName": {
         "text": "Sama Coffee Shop",
         "languageCode": "en"
       },
+      "formattedAddress": "800 S B St #500, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4355605125296020391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.5616249,
+        "longitude": -122.3184551
+      },
       "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/san-mateo/Sama Coffee Small.jpeg",
-      "phone": "(650) 393-5553",
-      "hours": "Mon–Thu 7am–8pm, Fri–Sat 7am–9pm, Sun 8am–9pm",
-      "menuUrl": "https://www.yelp.com/menu/sama-coffee-shop-san-mateo-3",
-      "priceRange": "$$",
       "keywords": [
         "cafe",
         "coffee",
         "breakfast",
         "pastries",
         "counter service"
-      ]
+      ],
+      "menuUrl": "https://www.yelp.com/menu/sama-coffee-shop-san-mateo-3",
+      "phone": "(650) 393-5553",
+      "hours": "Mon–Thu 7am–8pm, Fri–Sat 7am–9pm, Sun 8am–9pm",
+      "priceRange": "$$",
+      "description": "Sama Coffee offers traditional plus Turkish coffee as well as mediterranean pastries",
+      "photoUrl": "images/restaurant-photos/san-mateo/Sama Coffee Small.jpeg"
     },
     {
       "id": "ChIJlTAjdP2fj4ARRqh4_bN1Y3k",
