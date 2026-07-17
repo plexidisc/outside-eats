@@ -8793,6 +8793,7 @@ var PREBAKED_DATA_CENTRAL = {
         "happy hour"
       ],
       "menuUrl": "https://www.tokies.com/menu",
+      "videoUrl": "https://youtube.com/shorts/42nS64wBugs?feature=share",
       "phone": "(650) 570-6609",
       "hours": "Mon Closed, Tue–Thu 5pm–9pm, Fri–Sat 5pm–9:30pm, Sun 4pm–8:30pm",
       "priceRange": "$$",
