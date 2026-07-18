@@ -12279,6 +12279,7 @@ var PREBAKED_DATA_CENTRAL = {
       "keywords": [
         "bagels"
       ],
+      "videoUrl": "https://youtube.com/shorts/2Jd-KoMUoK4?feature=share",
       "phone": "(650) 637-8277",
       "hours": "Mon 6:30am - 1:30pm, Tues-Fri 6:30am - 2pm, Sat-Sun 7am - 2pm",
       "priceRange": "$",
