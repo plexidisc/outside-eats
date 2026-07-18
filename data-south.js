@@ -1449,7 +1449,8 @@ var PREBAKED_DATA_SOUTH = {
       },
       "description": "Authentic Guatemalan soups, guisados, and antojitos served in a newly renovated, family run restaurant with welcoming service.",
       "menuUrl": "https://www.ubereats.com/store/hermelinda-restaurante-guatemalteco/y7xxNoliULKG_HIlKwOVHQ",
-      "priceRange": "$"
+      "priceRange": "$",
+      "photoUrl": "images/restaurant-photos/redwood-city/Hermelinda Restaurante Guatemalteco Small.jpeg"
     },
     {
       "id": "ChIJF1bmK8Sjj4ARw0HRA7w1zro",
