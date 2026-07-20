@@ -8016,7 +8016,8 @@ var PREBAKED_DATA_SOUTH = {
       "hours": "Mon-Fri 10am-10pm, Sat 11am-10pm, Sun 11am-9pm",
       "priceRange": "$",
       "description": "San Francisco's beloved Glen Park taqueria since 1995 opens its first Palo Alto location on University Avenue. Expect the same carefully crafted burritos and tacos that built a 30-year following. Fresh Mexican food with a full menu of classic dishes made to order, offering a wide variety of tacos, enchiladas, or our famous burritos.",
-      "outsideEatsRating": 4.7
+      "outsideEatsRating": 4.7,
+      "photoUrl": "images/restaurant-photos/palo-alto/La Corneta Taqueria Small.jpeg"
     },
     {
       "id": "ChIJX2dDTkW7j4ARFo59XEuoaPk",
