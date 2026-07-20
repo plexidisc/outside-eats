@@ -10331,7 +10331,7 @@ var PREBAKED_DATA_SOUTH = {
         "longitude": -122.1607329
       },
       "placeId": "ChIJVyRZgzm7j4ARNWCX_NB6DlA",
-      "cuisine": "dessert",
+      "cuisine": "Dessert",
       "keywords": [
         "chocolate"
       ],
