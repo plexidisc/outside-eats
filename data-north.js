@@ -1926,32 +1926,6 @@ var PREBAKED_DATA_NORTH = {
       "description": "Bay Area-born pizza chain at 1901 Junipero Serra Boulevard with classic thin and hearty crust pies, pasta, wings, and salads with a consistent 4.6-star delivery rating."
     },
     {
-      "id": "ChIJc6bRdAB9j4ARLRVSTlDFwf4",
-      "formattedAddress": "1216 Hillside Blvd, Daly City, CA 94014, USA",
-      "location": {
-        "latitude": 37.6858497,
-        "longitude": -122.45973850000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=18357170504840910125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.instagram.com/russfamkitchen_?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr",
-      "displayName": {
-        "text": "Russ Fam Kitchen",
-        "languageCode": "en"
-      },
-      "cuisine": "Other",
-      "hours": {
-        "Monday": "10:00 AM - 8:00 PM",
-        "Tuesday": "10:00 AM - 8:00 PM",
-        "Wednesday": "10:00 AM - 8:00 PM",
-        "Thursday": "10:00 AM - 8:00 PM",
-        "Friday": "10:00 AM - 8:00 PM",
-        "Saturday": "10:00 AM - 8:00 PM",
-        "Sunday": "10:00 AM - 8:00 PM"
-      },
-      "priceRange": "$",
-      "description": "Family-run Filipino kitchen with home-style cooking, rice plates, and traditional dishes served in a casual welcoming setting."
-    },
-    {
       "id": "ChIJQ4BnIyF7j4ARASVC3xDPZHQ",
       "formattedAddress": "383 Gellert Blvd, Daly City, CA 94015, USA",
       "location": {
