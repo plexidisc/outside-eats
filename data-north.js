@@ -2165,7 +2165,8 @@ var PREBAKED_DATA_NORTH = {
         "Sunday": "11:30 AM - 10:00 PM"
       },
       "priceRange": "$$",
-      "description": "Hot pot restaurant in Daly City with individual and shared pot options, fresh proteins, vegetables, and a broad selection of dipping sauces."
+      "description": "Hot pot restaurant in Daly City with individual and shared pot options, fresh proteins, vegetables, and a broad selection of dipping sauces.",
+      "photoUrl": "images/restaurant-photos/daly-city/Supreme Pot Small.jpeg"
     },
     {
       "id": "ChIJ2Rca7Ox_j4ARg-kQN9kC2nc",
