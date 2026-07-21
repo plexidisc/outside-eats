@@ -7727,6 +7727,7 @@ var PREBAKED_DATA_CENTRAL = {
         "counter service"
       ],
       "menuUrl": "https://www.yelp.com/menu/sama-coffee-shop-san-mateo-3",
+      "videoUrl": "https://youtube.com/shorts/IfsUVrW0Zkw?feature=share",
       "phone": "(650) 393-5553",
       "hours": "Mon–Thu 7am–8pm, Fri–Sat 7am–9pm, Sun 8am–9pm",
       "priceRange": "$$",
