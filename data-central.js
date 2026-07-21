@@ -5802,13 +5802,13 @@ var PREBAKED_DATA_CENTRAL = {
         "kids menu"
       ],
       "menuUrl": "https://orders.lazydogrestaurants.com/menu",
-      "videoUrl": "https://youtube.com/shorts/kAoKE1OHxt8?feature=share",
+      "videoUrl": "https://youtube.com/shorts/J95dtQlNdag?feature=share",
       "phone": "(650) 514-6772",
       "hours": "Mon–Fri 11am–12am, Sat–Sun 10am–12am",
       "priceRange": "$$",
       "description": "Handcrafted American food with happy hour drinks starting at three dollars.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Lazy Dog Small.jpeg",
-      "award": "Best of San Mateo 2026 — Most Pet Friendly Restaurant Winner"
+      "award": "Best of San Mateo 2026 — Most Pet Friendly Restaurant Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/Lazy Dog Small.jpeg"
     },
     {
       "id": "manual_leos_tacos_truck_san_mateo",
