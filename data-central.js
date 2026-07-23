@@ -2047,7 +2047,8 @@ var PREBAKED_DATA_CENTRAL = {
         "breakfast",
         "brunch",
         "family friendly",
-        "counter service"
+        "counter service",
+        "smashburger"
       ],
       "menuUrl": "https://www.toasttab.com/local/order/patty-s-retro-diner-1184-broadway",
       "videoUrl": "https://youtube.com/shorts/InjwMNUXhrw?feature=share",
