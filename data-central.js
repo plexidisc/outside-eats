@@ -2030,31 +2030,32 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ25O2djd3j4AROSjVIs6-2I4",
-      "formattedAddress": "1184 Broadway, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.586548799999996,
-        "longitude": -122.36469040000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10293186740912203833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "",
       "displayName": {
         "text": "Patty’s Diner",
         "languageCode": "en"
       },
+      "formattedAddress": "1184 Broadway, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10293186740912203833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.586548799999996,
+        "longitude": -122.36469040000001
+      },
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/burlingame/Patty’s Diner Small.jpeg",
-      "phone": "(650) 727-3672",
-      "description": "Custom beef blend burgers with locally sourced ingredients and retro vibes.",
-      "hours": "Mon 11am–9pm, Tue Closed, Wed–Sat 11am–9pm, Sun 11am–9pm",
-      "menuUrl": "https://www.toasttab.com/local/order/patty-s-retro-diner-1184-broadway",
-      "priceRange": "$$",
       "keywords": [
         "american",
         "breakfast",
         "brunch",
         "family friendly",
         "counter service"
-      ]
+      ],
+      "menuUrl": "https://www.toasttab.com/local/order/patty-s-retro-diner-1184-broadway",
+      "videoUrl": "https://youtube.com/shorts/InjwMNUXhrw?feature=share",
+      "phone": "(650) 727-3672",
+      "hours": "Mon 11am–9pm, Tue Closed, Wed–Sat 11am–9pm, Sun 11am–9pm",
+      "priceRange": "$$",
+      "description": "Custom beef blend burgers with locally sourced ingredients and retro vibes.",
+      "photoUrl": "images/restaurant-photos/burlingame/Patty’s Diner Small.jpeg"
     },
     {
       "id": "ChIJ6QI8VfCdj4ARVw83lkffb4A",
