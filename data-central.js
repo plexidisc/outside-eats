@@ -8004,6 +8004,7 @@ var PREBAKED_DATA_CENTRAL = {
         "cupcakes"
       ],
       "menuUrl": "https://sibbyscupcakery.com/menu.php",
+      "videoUrl": "https://youtube.com/shorts/NhrX1-9MpKI?feature=share",
       "phone": "(415) 613-4373",
       "hours": "Wed-Fri 10am-5:30pm, Sat 10am-5pm, Sun 10am-2pm",
       "priceRange": "$",
