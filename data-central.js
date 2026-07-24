@@ -4892,10 +4892,11 @@ var PREBAKED_DATA_CENTRAL = {
         "crawlers",
         "coffee"
       ],
+      "videoUrl": "https://youtube.com/shorts/lyryUXixw74?feature=share",
       "phone": "(650) 343-0126",
       "hours": "Mon-Sun 4:30am-2pm",
       "priceRange": "$",
-      "description": "Friendly mom and pop donut shop. Everything made in house.",
+      "description": "Voted 2026 top 5 best donut shop Golden Bell is a friendly mom and pop donut shop. Everything made in house.",
       "outsideEatsRating": 4.8,
       "photoUrl": "images/restaurant-photos/san-mateo/Golden Bell Donuts Small.jpeg"
     },
