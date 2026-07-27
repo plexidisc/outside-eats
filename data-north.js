@@ -6562,38 +6562,31 @@ var PREBAKED_DATA_NORTH = {
     },
     {
       "id": "ChIJdy5Iclt5j4ARijdDqguy6lY",
-      "formattedAddress": "504 San Bruno Ave W, San Bruno, CA 94066, USA",
-      "location": {
-        "latitude": 37.6295602,
-        "longitude": -122.41554859999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=6263013994983012234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://mazra.com/",
       "displayName": {
         "text": "Mazra",
         "languageCode": "en"
       },
-      "cuisine": "Mediterranean",
-      "photoUrl": "images/restaurant-photos/san-bruno/Mazra Small.jpeg",
-      "phone": "(650) 225-9027",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "11:00 AM - 9:00 PM",
-        "Wednesday": "11:00 AM - 9:00 PM",
-        "Thursday": "11:00 AM - 9:00 PM",
-        "Friday": "11:00 AM - 9:00 PM",
-        "Saturday": "11:00 AM - 9:00 PM",
-        "Sunday": "11:00 AM - 9:00 PM"
+      "formattedAddress": "504 San Bruno Ave W, San Bruno, CA 94066, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=6263013994983012234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mazra.com/",
+      "location": {
+        "latitude": 37.6295602,
+        "longitude": -122.41554859999998
       },
-      "description": "Family owned Mediterranean restaurant serving vibrant Levantine dishes prepared over 100% mesquite wood and meant to be shared.",
-      "menuUrl": "https://www.allmenus.com/ca/san-bruno/503688-mazra/menu/",
-      "priceRange": "$$",
+      "cuisine": "Mediterranean",
       "keywords": [
         "mediterranean",
         "lebanese",
         "hummus",
         "falafel"
-      ]
+      ],
+      "menuUrl": "https://www.allmenus.com/ca/san-bruno/503688-mazra/menu/",
+      "videoUrl": "https://youtube.com/shorts/0AyUJemwdL4?feature=share",
+      "phone": "(650) 225-9027",
+      "hours": "Mon Closed, Tue-Sun 11:00 AM - 9:00 PM",
+      "priceRange": "$$",
+      "description": "Family owned Mediterranean restaurant serving vibrant Levantine dishes prepared over 100% mesquite wood and meant to be shared.",
+      "photoUrl": "images/restaurant-photos/san-bruno/Mazra Small.jpeg"
     },
     {
       "id": "ChIJU7Ij6nl3j4ARFOK6wkrSz8A",
