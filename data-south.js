@@ -2200,31 +2200,23 @@ var PREBAKED_DATA_SOUTH = {
     },
     {
       "id": "ChIJeXNiHs-jj4ARmQN_Xuuww0I",
+      "displayName": {
+        "text": "Mazra",
+        "languageCode": "en"
+      },
       "formattedAddress": "2021 Broadway, Redwood City, CA 94063, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=4810883351911007129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://mazra.com/",
       "location": {
         "latitude": 37.4864235,
         "longitude": -122.22685489999999
       },
-      "googleMapsUri": "https://maps.google.com/?cid=4810883351911007129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://mazra.com/",
-      "displayName": {
-        "text": "MAZRA",
-        "languageCode": "en"
-      },
       "cuisine": "Mediterranean",
-      "phone": "(650) 503-8440",
-      "hours": {
-        "Monday": "Closed",
-        "Tuesday": "11:00 AM - 9:00 PM",
-        "Wednesday": "11:00 AM - 9:00 PM",
-        "Thursday": "11:00 AM - 9:00 PM",
-        "Friday": "11:00 AM - 9:00 PM",
-        "Saturday": "11:00 AM - 9:00 PM",
-        "Sunday": "11:00 AM - 9:00 PM"
-      },
-      "description": "Authentic Levantine flavors prepared over mesquite wood fire, featuring expertly grilled meats and signature garlic sauce.",
       "menuUrl": "https://www.toasttab.com/local/order/mazra-rwc-2021-broadway/r-db32a3d4-9164-43a7-8461-f10e11c6e9ca",
+      "phone": "(650) 503-8440",
+      "hours": "Mon Closed, Tue-Sun 11:00 AM - 9:00 PM",
       "priceRange": "$$",
+      "description": "Authentic Levantine flavors prepared over mesquite wood fire, featuring expertly grilled meats and signature garlic sauce.",
       "photoUrl": "images/restaurant-photos/redwood-city/Mazra Small.jpeg"
     },
     {
