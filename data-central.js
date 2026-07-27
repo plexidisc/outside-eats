@@ -2906,6 +2906,7 @@ var PREBAKED_DATA_CENTRAL = {
         "italian coffee"
       ],
       "menuUrl": "https://www.3beescoffee.com/3-bees-coffee-menu/",
+      "videoUrl": "https://youtube.com/shorts/_I56Na_ydxY?feature=share",
       "phone": "(650) 344-2339",
       "hours": "Mon-Fri 6:30am - 5pm, Sat 7am-5pm, Sun 7:30am - 5pm",
       "priceRange": "$",
