@@ -2212,7 +2212,7 @@ var PREBAKED_DATA_SOUTH = {
         "longitude": -122.22685489999999
       },
       "cuisine": "Mediterranean",
-      "menuUrl": "https://www.toasttab.com/local/order/mazra-rwc-2021-broadway/r-db32a3d4-9164-43a7-8461-f10e11c6e9ca",
+      "menuUrl": "https://instantwebsite.com/img/published-images/mazra/2210cbbd-a763-4c8b-8492-86a880eff90d.pdf",
       "phone": "(650) 503-8440",
       "hours": "Mon Closed, Tue-Sun 11:00 AM - 9:00 PM",
       "priceRange": "$$",
