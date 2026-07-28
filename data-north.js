@@ -6580,7 +6580,7 @@ var PREBAKED_DATA_NORTH = {
         "hummus",
         "falafel"
       ],
-      "menuUrl": "https://www.allmenus.com/ca/san-bruno/503688-mazra/menu/",
+      "menuUrl": "https://instantwebsite.com/img/published-images/mazra/2210cbbd-a763-4c8b-8492-86a880eff90d.pdf",
       "videoUrl": "https://youtube.com/shorts/0AyUJemwdL4?feature=share",
       "phone": "(650) 225-9027",
       "hours": "Mon Closed, Tue-Sun 11:00 AM - 9:00 PM",
