@@ -10076,24 +10076,18 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJ1-5wU0Wfj4ARJHnIz2coCMk",
-      "formattedAddress": "932 Ralston Ave, Belmont, CA 94002, USA",
-      "location": {
-        "latitude": 37.5196684,
-        "longitude": -122.27708789999998
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14485872627769964836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.belmontdelico.com/",
       "displayName": {
         "text": "Belmont Deli",
         "languageCode": "en"
       },
+      "formattedAddress": "932 Ralston Ave, Belmont, CA 94002, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14485872627769964836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.belmontdelico.com/",
+      "location": {
+        "latitude": 37.5196684,
+        "longitude": -122.27708789999998
+      },
       "cuisine": "Cafe/Bakery",
-      "photoUrl": "images/restaurant-photos/belmont/Belmont Deli Small.jpeg",
-      "phone": "(650) 832-1136",
-      "description": "Made with Boar's Head meats and fresh bread daily.",
-      "hours": "Mon–Sat 9am–4pm, Sun Closed",
-      "menuUrl": "https://slicelife.com/restaurants/ca/belmont/94002/belmont-deli/menu",
-      "priceRange": "$$",
       "keywords": [
         "deli",
         "sandwiches",
@@ -10101,7 +10095,14 @@ var PREBAKED_DATA_CENTRAL = {
         "soup",
         "breakfast",
         "grab and go"
-      ]
+      ],
+      "menuUrl": "https://slicelife.com/restaurants/ca/belmont/94002/belmont-deli/menu",
+      "videoUrl": "https://youtube.com/shorts/OCPvBtWz7IE?feature=share",
+      "phone": "(650) 832-1136",
+      "hours": "Mon–Sat 9am–4pm, Sun Closed",
+      "priceRange": "$$",
+      "description": "Made with Boar's Head meats and fresh bread daily.",
+      "photoUrl": "images/restaurant-photos/belmont/Belmont Deli Small.jpeg"
     },
     {
       "id": "ChIJGwmmr1Wfj4ARUMI84D0T7jA",
