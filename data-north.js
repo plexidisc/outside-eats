@@ -6796,6 +6796,34 @@ var PREBAKED_DATA_NORTH = {
       ]
     },
     {
+      "id": "manual_1782842939309",
+      "displayName": {
+        "text": "Padoca Bakery",
+        "languageCode": "en"
+      },
+      "formattedAddress": "445 San Mateo Ave, San Bruno, CA 94066",
+      "googleMapsUri": "https://www.google.com/maps/place/PADOCA+BAKERY/@37.6227633,-122.4115003,1480m/data=!3m1!1e3!4m6!3m5!1s0x808f79a58ed7d3ff:0xb2bf3b038bc88289!8m2!3d37.6227634!4d-122.4114972!16s%2Fg%2F11yggb7_6x?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "",
+      "location": {
+        "latitude": 37.62298009215871,
+        "longitude": -122.41148647116475
+      },
+      "placeId": "ChIJ_9PXjqV5j4ARiYLIiwM7v7I",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "desserts",
+        "brigadeiros",
+        "bread",
+        "cakes"
+      ],
+      "videoUrl": "https://youtube.com/shorts/3IHUJsxS9nM?feature=share",
+      "hours": "Wed-Thu 7:30am - 3pm, Sat-Sun 8am-3pm",
+      "priceRange": "$",
+      "description": "Brazilian bakery offering Brazilian foods, breads, cakes and brigadeiros in charming and inviting atmosphere.",
+      "outsideEatsRating": 4.9,
+      "photoUrl": "images/restaurant-photos/san-bruno/Padoca Bakery Small.jpeg"
+    },
+    {
       "id": "ChIJixazyr53j4ARbVN7UqRLK4U",
       "formattedAddress": "310 Poplar Ave, San Bruno, CA 94066, USA",
       "location": {
@@ -7547,32 +7575,44 @@ var PREBAKED_DATA_NORTH = {
       ]
     },
     {
-      "id": "manual_1782842939309",
+      "id": "manual_1785352936947",
       "displayName": {
-        "text": "Padoca Bakery",
+        "text": "Rolling Pin Donuts",
         "languageCode": "en"
       },
-      "formattedAddress": "445 San Mateo Ave, San Bruno, CA 94066",
-      "googleMapsUri": "https://www.google.com/maps/place/PADOCA+BAKERY/@37.6227633,-122.4115003,1480m/data=!3m1!1e3!4m6!3m5!1s0x808f79a58ed7d3ff:0xb2bf3b038bc88289!8m2!3d37.6227634!4d-122.4114972!16s%2Fg%2F11yggb7_6x?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-      "websiteUri": "",
+      "formattedAddress": "429 San Bruno Ave W, San Bruno, CA 94066",
+      "googleMapsUri": "https://www.google.com/maps/place/Rolling+Pin+Donuts/@37.6293736,-122.4145724,875m/data=!3m1!1e3!4m6!3m5!1s0x808f79dac20667d9:0xa1b8bd326840aebf!8m2!3d37.629373!4d-122.4145724!16s%2Fg%2F1tkrm0nn?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "https://rollingpindonuts.shop/",
       "location": {
-        "latitude": 37.62298009215871,
-        "longitude": -122.41148647116475
+        "latitude": 37.629538794306946,
+        "longitude": -122.41457776776228
       },
-      "placeId": "ChIJ_9PXjqV5j4ARiYLIiwM7v7I",
+      "placeId": "ChIJ2WcGwtp5j4ARv65AaDK9uKE",
       "cuisine": "Cafe/Bakery",
       "keywords": [
-        "desserts",
-        "brigadeiros",
-        "bread",
-        "cakes"
+        "donuts",
+        "crullers",
+        "apple fritter",
+        "cookies",
+        "cinnamon roll",
+        "twist",
+        "croissant",
+        "muffins",
+        "scones",
+        "danish",
+        "strudel",
+        "bagel",
+        "churros",
+        "cake",
+        "coffee",
+        "smoothie",
+        "hot chocolate"
       ],
-      "videoUrl": "https://youtube.com/shorts/3IHUJsxS9nM?feature=share",
-      "hours": "Wed-Thu 7:30am - 3pm, Sat-Sun 8am-3pm",
+      "menuUrl": "https://order.online/store/762023?redirected=true",
+      "phone": "(650) 589-9687",
+      "hours": "open 24 hours",
       "priceRange": "$",
-      "description": "Brazilian bakery offering Brazilian foods, breads, cakes and brigadeiros in charming and inviting atmosphere.",
-      "outsideEatsRating": 4.9,
-      "photoUrl": "images/restaurant-photos/san-bruno/Padoca Bakery Small.jpeg"
+      "description": "Donut shop offering a huge variety of fresh, soft donuts and pastries. They are open 24/7 with easy parking."
     }
   ],
   "Millbrae, CA": [
