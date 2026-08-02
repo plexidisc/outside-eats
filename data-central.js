@@ -2809,30 +2809,31 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJa3BqASV2j4AR0Z5qgwuefME",
-      "formattedAddress": "1200 Broadway, Burlingame, CA 94010, USA",
-      "location": {
-        "latitude": 37.5862695,
-        "longitude": -122.36488670000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=13942192318718844625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://www.youngcanwokchinesebistro.com/",
       "displayName": {
         "text": "Young Can Wok Chinese Bistro",
         "languageCode": "en"
       },
+      "formattedAddress": "1200 Broadway, Burlingame, CA 94010, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=13942192318718844625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.youngcanwokchinesebistro.com/",
+      "location": {
+        "latitude": 37.5862695,
+        "longitude": -122.36488670000001
+      },
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/burlingame/Young Can Dok Chinese Bistro Small.jpeg",
-      "phone": "(650) 343-3322",
-      "description": "Modern interpretation of classic dishes using locally sourced fresh ingredients.",
-      "hours": "Mon–Sat 11am–2:30pm, 5pm–8:30pm, Sun 5pm–8:30pm",
-      "menuUrl": "http://youngcanwokchinesebistro.com/menu/",
-      "priceRange": "$$",
       "keywords": [
         "chinese",
         "cantonese",
         "fast casual",
         "delivery"
-      ]
+      ],
+      "menuUrl": "http://youngcanwokchinesebistro.com/menu/",
+      "videoUrl": "https://youtube.com/shorts/Ndg1bsj_pwU?feature=share",
+      "phone": "(650) 343-3322",
+      "hours": "Mon–Sat 11am–2:30pm, 5pm–8:30pm, Sun 5pm–8:30pm",
+      "priceRange": "$$",
+      "description": "Modern interpretation of classic dishes using locally sourced fresh ingredients.",
+      "photoUrl": "images/restaurant-photos/burlingame/Young Can Dok Chinese Bistro Small.jpeg"
     },
     {
       "id": "ChIJuQl8HCp3j4ARqJO67kMSIJI",
