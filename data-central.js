@@ -3153,6 +3153,7 @@ var PREBAKED_DATA_CENTRAL = {
         "cookies"
       ],
       "menuUrl": "https://www.antoinescookieshop.com/shop/pick-up-cookies/2",
+      "videoUrl": "https://youtube.com/shorts/dZz7n-hpn4g?feature=share",
       "phone": "(650) 495-2303",
       "hours": "Mon-Sat 10am-8pm, Sun 10am-5pm",
       "priceRange": "$",
