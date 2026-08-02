@@ -13002,6 +13002,7 @@ var PREBAKED_DATA_CENTRAL = {
         "empanadas"
       ],
       "menuUrl": "http://www.papachay.com/",
+      "videoUrl": "https://youtube.com/shorts/zjrl8Mje8_U?feature=share",
       "phone": "(650) 593-1999",
       "hours": "Mon-Fri 7am-2pm",
       "priceRange": "$",
