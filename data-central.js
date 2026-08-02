@@ -4821,31 +4821,32 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJpxRGD8efj4AR6j3jq50wM4k",
-      "formattedAddress": "313 S San Mateo Dr, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.5641216,
-        "longitude": -122.32366150000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=9886299060760165866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://gaokitchen.com/",
       "displayName": {
         "text": "Gao Viet Kitchen",
         "languageCode": "en"
       },
+      "formattedAddress": "313 S San Mateo Dr, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=9886299060760165866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://gaokitchen.com/",
+      "location": {
+        "latitude": 37.5641216,
+        "longitude": -122.32366150000001
+      },
       "cuisine": "Vietnamese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Gao Viet Kitchen Small.jpeg",
-      "phone": "(650) 477-2524",
-      "description": "Home of the Phozilla with 24-hour simmered marrow broth.",
-      "hours": "Mon 4:30pm–9pm, Tue Closed, Wed 4:30pm–9pm, Thu 4:30pm–9pm, Fri 11:30am–3pm & 5pm–9pm, Sat 11:30am–3:30pm & 5pm–9pm, Sun 11:30am–3:30pm & 5pm–9pm",
-      "menuUrl": "https://gaokitchen.com/san-mateo-menu-1",
-      "priceRange": "$$",
       "keywords": [
         "vietnamese",
         "pho",
         "banh mi",
         "fast casual"
       ],
-      "award": "Best of San Mateo 2026 — Best Vietnamese/Cambodian/Laotian Restaurants Winner"
+      "menuUrl": "https://gaokitchen.com/san-mateo-menu-1",
+      "videoUrl": "https://youtube.com/shorts/8p9tNoO_uNw?feature=share",
+      "phone": "(650) 477-2524",
+      "hours": "Mon 4:30pm–9pm, Tue Closed, Wed 4:30pm–9pm, Thu 4:30pm–9pm, Fri 11:30am–3pm & 5pm–9pm, Sat 11:30am–3:30pm & 5pm–9pm, Sun 11:30am–3:30pm & 5pm–9pm",
+      "priceRange": "$$",
+      "description": "Home of the Phozilla with 24-hour simmered marrow broth.",
+      "award": "Best of San Mateo 2026 — Best Vietnamese/Cambodian/Laotian Restaurants Winner",
+      "photoUrl": "images/restaurant-photos/san-mateo/Gao Viet Kitchen Small.jpeg"
     },
     {
       "id": "ChIJP7SzgWOej4ARm8ksqOCHTCw",
