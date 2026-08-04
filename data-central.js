@@ -5356,29 +5356,30 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJJ5RD_Eh2j4ARJXCwvPBwjQY",
-      "formattedAddress": "42 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.567076,
-        "longitude": -122.32429250000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=472157715203911717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://jeffreyshamburgers.com/",
       "displayName": {
         "text": "Jeffrey's Hamburgers",
         "languageCode": "en"
       },
+      "formattedAddress": "42 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=472157715203911717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://jeffreyshamburgers.com/",
+      "location": {
+        "latitude": 37.567076,
+        "longitude": -122.32429250000001
+      },
       "cuisine": "Burgers",
-      "photoUrl": "images/restaurant-photos/san-mateo/Jeffreys Small.jpeg",
-      "phone": "(650) 348-8698",
-      "description": "Handmade burgers ground fresh daily from Certified Angus Beef.",
-      "hours": "Mon–Sun 11:00am–8:00pm",
-      "menuUrl": "https://www.jeffreyshamburgers.com/menu",
-      "priceRange": "$$",
       "keywords": [
         "burgers",
         "family friendly",
         "counter service"
-      ]
+      ],
+      "menuUrl": "https://www.jeffreyshamburgers.com/menu",
+      "videoUrl": "https://youtube.com/shorts/AuNbMN_InEM?feature=share",
+      "phone": "(650) 348-8698",
+      "hours": "Mon–Sun 11:00am–8:00pm",
+      "priceRange": "$$",
+      "description": "Handmade burgers ground fresh daily from Certified Angus Beef.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Jeffreys Small.jpeg"
     },
     {
       "id": "ChIJ__3YvAKfj4ARV1pq8xK3ggQ",
