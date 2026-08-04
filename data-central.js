@@ -2638,12 +2638,13 @@ var PREBAKED_DATA_CENTRAL = {
         "outdoor seating"
       ],
       "menuUrl": "https://www.twelvemonthburlingame.com/menus",
+      "videoUrl": "https://youtube.com/shorts/BwSEq6gDAaQ?feature=share",
       "phone": "(650) 443-7111",
       "hours": "Mon Closed, Tue–Thu 11:30am–10pm, Fri–Sat 11:30am–11pm, Sun 11:30am–9pm",
       "priceRange": "$$",
       "description": "Everything made from scratch daily including bread, pastries, and desserts.",
-      "photoUrl": "images/restaurant-photos/burlingame/Twelvemonth Small.jpeg",
-      "award": "Best of San Mateo 2026 — Best Restaurant for Ambiance Winner"
+      "award": "Best of San Mateo 2026 — Best Restaurant for Ambiance Winner",
+      "photoUrl": "images/restaurant-photos/burlingame/Twelvemonth Small.jpeg"
     },
     {
       "id": "ChIJ18zKaACdj4AR5KjiU3agS2M",
