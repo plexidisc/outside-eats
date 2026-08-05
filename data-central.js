@@ -10914,6 +10914,7 @@ var PREBAKED_DATA_CENTRAL = {
         "belmont"
       ],
       "menuUrl": "https://www.madeoutofdough.com/",
+      "phone": "(650) 753-4999",
       "hours": "Wed-Sun 8am-3pm",
       "priceRange": "$",
       "description": "Belmont's beloved female-owned bakery specializing in handcrafted scones, cinnamon rolls, pastries, and cakes made from scratch daily.",
