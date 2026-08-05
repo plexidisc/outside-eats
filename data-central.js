@@ -10917,7 +10917,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Wed-Sun 8am-3pm",
       "priceRange": "$",
       "description": "Belmont's beloved female-owned bakery specializing in handcrafted scones, cinnamon rolls, pastries, and cakes made from scratch daily.",
-      "outsideEatsRating": 4.9
+      "outsideEatsRating": 4.9,
+      "photoUrl": "images/restaurant-photos/belmont/Made Out Of Dough Small.jpeg"
     },
     {
       "id": "ChIJIZyhM1Cfj4AR9QgFYPdBeo4",
