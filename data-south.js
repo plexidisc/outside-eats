@@ -4010,6 +4010,40 @@ var PREBAKED_DATA_SOUTH = {
       "menuUrl": "https://orderingatzareens.square.site/",
       "priceRange": "$$",
       "photoUrl": "images/restaurant-photos/redwood-city/Zareens Small.jpeg"
+    },
+    {
+      "id": "manual_1785954001521",
+      "displayName": {
+        "text": "See's Candies (Redwood City)",
+        "languageCode": "en"
+      },
+      "formattedAddress": "1027 El Camino Real, Redwood City, CA 94063",
+      "googleMapsUri": "https://www.google.com/maps/place/See's+Candies/data=!4m2!3m1!1s0x0:0xb5a9082a60f39b8f?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://chocolateshops.sees.com/ca/redwoodcity/chocolate_shops_redwood-city_ca_ca_202112.html",
+      "location": {
+        "latitude": 37.48522231015543,
+        "longitude": -122.23195220000005
+      },
+      "placeId": "ChIJL4cwSF6fj4AR9Epj_nPF0ao",
+      "cuisine": "Dessert",
+      "keywords": [
+        "chocolates",
+        "truffles",
+        "candy",
+        "gift box",
+        "hand-dipped chocolates",
+        "brittles",
+        "caramels",
+        "lollipops",
+        "candy shop",
+        "boxed chocolates"
+      ],
+      "menuUrl": "https://www.sees.com/",
+      "phone": "(650) 365-5434",
+      "hours": "Mon-Sat 10am-7pm, Sun 11am-6pm",
+      "priceRange": "$$",
+      "description": "Iconic California candy brand famous for hand-dipped chocolates, truffles, brittles, and seasonal gift boxes since 1921.",
+      "outsideEatsRating": 4.5
     }
   ],
   "Menlo Park, CA": [
