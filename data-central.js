@@ -10884,6 +10884,42 @@ var PREBAKED_DATA_CENTRAL = {
       "photoUrl": "images/restaurant-photos/belmont/Los Triki Takos Mariscos y Tacos Small.jpeg"
     },
     {
+      "id": "manual_1785950513530",
+      "displayName": {
+        "text": "Made Out Of Dough",
+        "languageCode": "en"
+      },
+      "formattedAddress": "200 Old County Rd, Belmont, CA 94002",
+      "googleMapsUri": "https://www.google.com/maps/place/Made+Out+Of+Dough/data=!4m2!3m1!1s0x0:0xaad1c573fe634af4?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://www.madeoutofdough.com/",
+      "location": {
+        "latitude": 37.528856566495605,
+        "longitude": -122.28569871752462
+      },
+      "placeId": "ChIJL4cwSF6fj4AR9Epj_nPF0ao",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "cinnamon rolls",
+        "scones",
+        "pastries",
+        "cakes",
+        "bakery",
+        "artison bakery",
+        "female owned",
+        "small batch",
+        "breakfast",
+        "baked goods",
+        "coffee",
+        "coffee cake",
+        "belmont"
+      ],
+      "menuUrl": "https://www.madeoutofdough.com/",
+      "hours": "Wed-Sun 8am-3pm",
+      "priceRange": "$",
+      "description": "Belmont's beloved female-owned bakery specializing in handcrafted scones, cinnamon rolls, pastries, and cakes made from scratch daily.",
+      "outsideEatsRating": 4.9
+    },
+    {
       "id": "ChIJIZyhM1Cfj4AR9QgFYPdBeo4",
       "formattedAddress": "1160 Old County Rd, Belmont, CA 94002, USA",
       "location": {
@@ -11487,26 +11523,6 @@ var PREBAKED_DATA_CENTRAL = {
         "dinner",
         "romantic"
       ]
-    },
-    {
-      "id": "manual_1785950513530",
-      "displayName": {
-        "text": "Made Out Of Dough",
-        "languageCode": "en"
-      },
-      "formattedAddress": "200 Old County Rd, Belmont, CA 94002",
-      "googleMapsUri": "https://www.google.com/maps/place/Made+Out+Of+Dough/data=!4m2!3m1!1s0x0:0xaad1c573fe634af4?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://www.madeoutofdough.com/",
-      "location": {
-        "latitude": 37.528856566495605,
-        "longitude": -122.28569871752462
-      },
-      "placeId": "ChIJL4cwSF6fj4AR9Epj_nPF0ao",
-      "cuisine": "Cafe/Bakery",
-      "menuUrl": "https://www.madeoutofdough.com/",
-      "priceRange": "$",
-      "description": "Belmont's beloved female-owned bakery specializing in handcrafted scones, cinnamon rolls, pastries, and cakes made from scratch daily.",
-      "outsideEatsRating": 4.9
     }
   ],
   "San Carlos, CA": [
