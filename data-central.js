@@ -4759,7 +4759,7 @@ var PREBAKED_DATA_CENTRAL = {
         "lunch"
       ],
       "menuUrl": "https://www.foreignercafe.com/wp-content/uploads/2023/03/Brunch-Menu-8-AM-2.30-PM.pdf",
-      "videoUrl": "https://youtube.com/shorts/CECMIqScT7M",
+      "videoUrl": "https://youtube.com/shorts/QWAgobaGBks?feature=share",
       "phone": "(650) 620-1888",
       "hours": "Mon–Sun 8:00am–4:00pm",
       "priceRange": "$$",
