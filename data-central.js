@@ -6731,10 +6731,18 @@ var PREBAKED_DATA_CENTRAL = {
       "keywords": [
         "bagels",
         "breakfast",
-        "bagels sandwiches",
         "bakery",
         "coffee",
-        "juices"
+        "juices",
+        "ny bagels",
+        "bagel sandwich",
+        "egg sandwich",
+        "breakfast sandwich",
+        "cream cheese",
+        "shmear",
+        "lox",
+        "deli",
+        "catering"
       ],
       "menuUrl": "https://www.noahs.com/our-nosh?y_source=1_ODk4NTc0My03MTUtbG9jYXRpb24ubWVudV91cmw%3D",
       "phone": "(650) 347-2364",
