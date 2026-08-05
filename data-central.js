@@ -6749,7 +6749,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon-Fri 5am-2pm, Sat - Sun 6am-2pm",
       "priceRange": "$$",
       "description": "New York-style bagels baked fresh daily, paired with signature cream cheese spreads, egg sandwiches, deli favorites, and coffee.",
-      "outsideEatsRating": 4.3
+      "outsideEatsRating": 4.3,
+      "photoUrl": "images/restaurant-photos/san-mateo/"
     },
     {
       "id": "ChIJkdufYMqfj4ARRzWEPAMY5T8",
