@@ -4043,7 +4043,8 @@ var PREBAKED_DATA_SOUTH = {
       "hours": "Mon-Sat 10am-7pm, Sun 11am-6pm",
       "priceRange": "$$",
       "description": "Iconic California candy brand famous for hand-dipped chocolates, truffles, brittles, and seasonal gift boxes since 1921.",
-      "outsideEatsRating": 4.5
+      "outsideEatsRating": 4.5,
+      "photoUrl": "images/restaurant-photos/redwood-city/"
     }
   ],
   "Menlo Park, CA": [
