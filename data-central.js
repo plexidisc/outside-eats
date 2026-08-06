@@ -2885,6 +2885,38 @@ var PREBAKED_DATA_CENTRAL = {
       "priceRange": "$$",
       "description": "Food Truck",
       "photoUrl": "images/restaurant-photos/burlingame/Watani Spot Small.jpeg"
+    },
+    {
+      "id": "manual_1786055086347",
+      "displayName": {
+        "text": "It's-It Ice Cream",
+        "languageCode": "en"
+      },
+      "formattedAddress": "865 Burlway Rd, Burlingame, CA 94010",
+      "googleMapsUri": "https://www.google.com/maps/place/It's+-+It+Ice+Cream/data=!4m2!3m1!1s0x0:0xf9ef064141df6098?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "http://www.itsiticecream.com/",
+      "location": {
+        "latitude": 37.59465577699509,
+        "longitude": -122.36712705983719
+      },
+      "placeId": "ChIJhyubjy12j4ARmGDfQUEG7_k",
+      "cuisine": "Dessert",
+      "keywords": [
+        "ice cream sandwich",
+        "ice cream",
+        "oatmeal cookie",
+        "chocolate dipped",
+        "it's it",
+        "frozen treat",
+        "san francisco ice cream",
+        "classic ice cream"
+      ],
+      "menuUrl": "https://www.itsiticecream.com/products",
+      "phone": "(800) 345-1928",
+      "hours": "Mon-Fri 10am-4:30pm",
+      "priceRange": "$",
+      "description": "San Francisco's iconic ice cream sandwich since 1928, vanilla ice cream between two oatmeal cookies, dipped in dark chocolate.",
+      "outsideEatsRating": 5
     }
   ],
   "San Mateo, CA": [
