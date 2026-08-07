@@ -4039,6 +4039,7 @@ var PREBAKED_DATA_SOUTH = {
         "boxed chocolates"
       ],
       "menuUrl": "https://www.sees.com/",
+      "videoUrl": "https://youtube.com/shorts/O1ddMKJEhnQ?feature=share",
       "phone": "(650) 365-5434",
       "hours": "Mon-Sat 10am-7pm, Sun 11am-6pm",
       "priceRange": "$$",
