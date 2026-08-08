@@ -10947,6 +10947,7 @@ var PREBAKED_DATA_CENTRAL = {
         "belmont"
       ],
       "menuUrl": "https://www.madeoutofdough.com/",
+      "videoUrl": "https://youtube.com/shorts/cxzb4tUFbaU?feature=share",
       "phone": "(650) 753-4999",
       "hours": "Wed-Sun 8am-3pm",
       "priceRange": "$",
