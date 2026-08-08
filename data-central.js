@@ -6778,6 +6778,7 @@ var PREBAKED_DATA_CENTRAL = {
         "catering"
       ],
       "menuUrl": "https://www.noahs.com/our-nosh?y_source=1_ODk4NTc0My03MTUtbG9jYXRpb24ubWVudV91cmw%3D",
+      "videoUrl": "https://youtube.com/shorts/0Lryq0hnJPo?feature=share",
       "phone": "(650) 347-2364",
       "hours": "Mon-Fri 5am-2pm, Sat - Sun 6am-2pm",
       "priceRange": "$$",
