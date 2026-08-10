@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Outside Eats — SF Peninsula Premier Food Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,600;9..40,700;9..40,800&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+<!-- ============================================================
+  OUTSIDE EATS — LANDING PAGE TEMPLATE
+
+  HOW TO UPDATE THIS PAGE
+  ──────────────────────────────────────────────────────────────
+  1. HERO IMAGE      →  search *** HERO IMAGE URL ***
+  2. HERO TEXT       →  search *** HERO HEADLINE ***
+  3. CARD IMAGES     →  search *** CARD IMAGE ***
+  4. FEATURE STORY   →  search *** FEATURE STORY ***
+  5. VIDEOS          →  search *** VIDEO 1 *** / *** VIDEO 2 ***
+  6. FEATURED ITEMS  →  search *** FEATURED ITEM ***
+  7. AD BANNER       →  search *** AD CONTENT ***
+  ============================================================ -->
+
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'DM Sans',-apple-system,sans-serif;background:#fff;color:#1a1a1a;}
+
+/* ── NAV ── */
+.nav{background:#011f49;height:72px;display:flex;align-items:center;padding:0 48px;gap:16px;position:sticky;top:0;z-index:999;}
+.logo-block{display:flex;align-items:center;gap:10px;flex-shrink:0;text-decoration:none;}
+.logo-icon{width:52px;height:52px;flex-shrink:0;}
+.logo-divider{width:1px;height:40px;background:rgba(255,255,255,0.25);flex-shrink:0;margin-left:2px;}
+.logo-text{display:flex;flex-direction:column;}
+.logo-wordmark{font-family:'DM Sans',sans-serif;font-size:20px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;color:#fff;line-height:1;}
+.logo-sub{font-family:'Source Sans 3',sans-serif;font-size:9.5px;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.55);margin-top:3px;}
+.nav-links{display:flex;gap:22px;align-items:center;flex:1;justify-content:center;}
+.nav-link{font-family:'Source Sans 3',sans-serif;font-size:14px;color:rgba(255,255,255,0.6);white-space:nowrap;padding-bottom:2px;border-bottom:2px solid transparent;transition:all 0.15s;text-decoration:none;}
+.nav-link:hover{color:#fff;border-bottom-color:#E8A82A;}
+.nav-right{display:flex;align-items:center;flex-shrink:0;}
+#btnSignIn{display:none;color:#011f49;font-family:'DM Sans',sans-serif;font-size:13px;font-weight:700;padding:8px 22px;border-radius:22px;background:#E8A82A;cursor:pointer;text-decoration:none;}
+#btnSignIn:hover{background:#f0b830;}
+
+/* ── HERO ── *** HERO IMAGE URL *** → change background-image below */
+.hero{position:relative;height:400px;background-image:url('https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=1600&q=90&auto=format&fit=crop');background-size:cover;background-position:center 45%;}
+.hero-overlay{position:absolute;inset:0;background:linear-gradient(to top,rgba(1,31,73,0.95) 0%,rgba(1,31,73,0.75) 28%,rgba(1,31,73,0.2) 58%,transparent 100%);display:flex;align-items:flex-end;padding-bottom:40px;}
+.hero-inner{max-width:912px;margin:0 auto;width:100%;padding:0 48px;}
+/* *** HERO HEADLINE *** edit text in HTML */
+.hero-h1{font-family:'DM Sans',sans-serif;font-size:42px;font-weight:800;color:#fff;line-height:1.1;letter-spacing:-0.025em;margin-bottom:8px;max-width:560px;}
+.hero-sub{font-family:'Source Sans 3',sans-serif;font-size:15px;color:rgba(255,255,255,0.68);line-height:1.5;max-width:420px;}
+
+/* ── SHARED CONTENT WRAPPER — 912px max, 48px padding each side = 816px content ──
+   ALL sections use this. Every grid shares identical left + right edges. */
+.content-wrap{max-width:912px;margin:0 auto;padding:0 48px;}
+
+/* ── EXPLORE CARDS ── */
+.explore{background:#fff;padding:44px 0;}
+.cards-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+.card{border:1.5px solid #e4ddd4;border-radius:14px;overflow:hidden;text-decoration:none;display:block;transition:all 0.22s;}
+.card:hover{border-color:#E8A82A;box-shadow:0 8px 32px rgba(232,168,42,0.18);transform:translateY(-3px);}
+.card-banner{position:relative;height:130px;overflow:hidden;}
+.card-banner img{width:100%;height:100%;object-fit:cover;display:block;transition:transform 0.4s ease;}
+.card:hover .card-banner img{transform:scale(1.05);}
+.card-banner-overlay{position:absolute;inset:0;background:linear-gradient(to top,rgba(1,31,73,0.88) 0%,rgba(1,31,73,0.3) 55%,rgba(1,31,73,0.05) 100%);display:flex;align-items:flex-end;padding:12px 16px;gap:11px;}
+.card-icon{width:36px;height:36px;border-radius:50%;background:#E8A82A;display:flex;align-items:center;justify-content:center;flex-shrink:0;color:#011f49;}
+.card-icon svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+.card-name{font-family:'DM Sans',sans-serif;font-size:16px;font-weight:700;color:#fff;line-height:1.2;text-shadow:0 1px 4px rgba(0,0,0,0.3);}
+.card-body{padding:14px 18px 18px;}
+.card-desc{font-family:'Source Sans 3',sans-serif;font-size:13.5px;color:#888;line-height:1.55;margin-bottom:11px;}
+.card-cta{font-family:'DM Sans',sans-serif;font-size:12.5px;font-weight:700;color:#E8A82A;}
+
+/* ══════════════════════════════════════════════════════════
+   FEATURE STORY — magazine editorial section.
+   Background: light blue — distinct from warm cream sections.
+   Two layout options. Activate one; comment the other out.
+
+   LAYOUT A (default): Photo left + editorial text right.
+   LAYOUT B (commented): Wide hero + two-column text.
+══════════════════════════════════════════════════════════ */
+.feature-section{
+  /* Light blue — distinct from the warm cream video/ad sections */
+  background:#e8f0fb;
+  padding:52px 0;
+  border-top:1px solid #c8d8f0;
+}
+
+/* ── LAYOUT A: photo left, text right ── */
+.feature-a{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  grid-template-rows:auto 1fr;
+  grid-template-areas:"photo header" "photo body";
+  column-gap:44px;
+  row-gap:0;
+}
+.feature-a-photo{grid-area:photo;align-self:start;}
+.feature-a-header{grid-area:header;align-self:start;padding-bottom:18px;}
+.feature-a-body{grid-area:body;align-self:start;}
+.feature-a-photo{position:relative;border-radius:10px;overflow:hidden;}
+.feature-a-photo img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block;}
+.feature-a-caption{font-family:'Source Sans 3',sans-serif;font-size:11px;color:#7a90b0;font-style:italic;margin-top:8px;}
+
+/* YouTube link card inside the feature */
+.feature-yt{
+  display:flex;align-items:center;gap:12px;
+  background:#fff;border:1px solid #c8d8f0;border-radius:8px;
+  padding:10px 14px;margin-top:14px;text-decoration:none;
+  transition:border-color 0.15s;
+}
+.feature-yt:hover{border-color:#E8A82A;}
+.feature-yt-thumb{
+  width:52px;height:52px;border-radius:6px;overflow:hidden;flex-shrink:0;
+}
+.feature-yt-thumb img{width:100%;height:100%;object-fit:cover;display:block;}
+.feature-yt-text{flex:1;}
+.feature-yt-label{font-family:'Source Sans 3',sans-serif;font-size:10px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#FF0000;margin-bottom:2px;}
+.feature-yt-title{font-family:'DM Sans',sans-serif;font-size:13px;font-weight:700;color:#011f49;line-height:1.3;}
+.feature-yt-play{flex-shrink:0;color:#aaa;font-size:18px;}
+
+.feature-pill{display:inline-block;background:#011f49;color:#E8A82A;font-family:'Source Sans 3',sans-serif;font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:4px 12px;border-radius:12px;margin-bottom:14px;}
+.feature-name{font-family:'DM Sans',sans-serif;font-size:30px;font-weight:800;color:#011f49;margin-bottom:4px;letter-spacing:-0.02em;line-height:1.1;}
+.feature-meta{font-family:'Source Sans 3',sans-serif;font-size:13px;color:#5a7090;margin-bottom:6px;}
+.feature-awards{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;}
+.feature-award{font-family:'Source Sans 3',sans-serif;font-size:10px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;color:#5a7090;background:rgba(1,31,73,0.07);padding:3px 9px;border-radius:10px;}
+.feature-lede{font-family:'Source Sans 3',sans-serif;font-size:16px;font-weight:600;color:#1a2a3a;line-height:1.65;margin-bottom:12px;}
+.feature-body{font-family:'Source Sans 3',sans-serif;font-size:14.5px;color:#445;line-height:1.8;margin-bottom:12px;}
+.feature-cta{font-family:'DM Sans',sans-serif;font-size:13px;font-weight:700;color:#E8A82A;text-decoration:none;display:inline-block;margin-top:10px;padding:9px 20px;background:#011f49;border-radius:20px;}
+.feature-cta:hover{background:#0a2d5e;}
+
+/* ── LAYOUT B: full-width hero + two-column text ── */
+.feature-b-hero{border-radius:10px;overflow:hidden;margin-bottom:28px;}
+.feature-b-hero img{width:100%;aspect-ratio:16/6;object-fit:cover;display:block;}
+.feature-b-cols{display:grid;grid-template-columns:1fr 1fr;gap:40px;}
+.feature-b-body{font-family:'Source Sans 3',sans-serif;font-size:14.5px;color:#445;line-height:1.8;}
+
+/* ── SOCIAL VIDEOS ── */
+.highlights{background:#fffaf4;padding:44px 0;border-top:1px solid #ede5d8;}
+.video-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+.video-card{display:block;text-decoration:none;border-radius:12px;overflow:hidden;position:relative;height:520px;background:#1a1a2e;}
+.video-card img{width:100%;height:100%;object-fit:cover;display:block;transition:transform 0.3s ease;}
+.video-card:hover img{transform:scale(1.03);}
+.video-play{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(1,31,73,0.35);transition:background 0.2s;}
+.video-card:hover .video-play{background:rgba(1,31,73,0.15);}
+.video-play-btn{width:56px;height:56px;border-radius:50%;background:rgba(255,255,255,0.92);display:flex;align-items:center;justify-content:center;margin-bottom:12px;box-shadow:0 4px 20px rgba(0,0,0,0.35);transition:transform 0.2s;}
+.video-card:hover .video-play-btn{transform:scale(1.08);}
+.video-play-btn svg{width:20px;height:20px;fill:#011f49;margin-left:3px;}
+.video-caption{font-family:'DM Sans',sans-serif;font-size:13px;font-weight:700;color:#fff;text-align:center;padding:0 20px;text-shadow:0 1px 6px rgba(0,0,0,0.6);line-height:1.3;}
+.video-caption-sub{font-family:'Source Sans 3',sans-serif;font-size:11px;color:rgba(255,255,255,0.75);margin-top:4px;text-shadow:0 1px 4px rgba(0,0,0,0.5);}
+.yt-badge{position:absolute;top:12px;right:12px;background:#fff;border-radius:4px;padding:3px 7px 3px 6px;display:flex;align-items:center;gap:5px;font-family:'DM Sans',sans-serif;font-size:10px;font-weight:700;color:#111;opacity:0.88;}
+.yt-badge svg{width:14px;height:10px;fill:#FF0000;}
+
+/* ── FEATURED ── */
+.featured{background:#fff;padding:44px 0;border-top:1px solid #ede5d8;}
+.feat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;}
+.feat{display:block;text-decoration:none;background:#fff;border-radius:10px;overflow:hidden;border:1px solid #e4ddd4;transition:all 0.2s;}
+.feat:hover{box-shadow:0 5px 20px rgba(1,31,73,0.1);transform:translateY(-2px);border-color:#E8A82A;}
+.feat-img{width:100%;height:130px;object-fit:cover;display:block;background:#e8ddd0;}
+.feat-body{padding:12px 13px 14px;}
+.feat-tag{font-family:'Source Sans 3',sans-serif;font-size:9.5px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#E8A82A;margin-bottom:4px;}
+.feat-name{font-family:'DM Sans',sans-serif;font-size:13.5px;font-weight:700;color:#011f49;margin-bottom:3px;line-height:1.3;}
+.feat-meta{font-family:'Source Sans 3',sans-serif;font-size:11.5px;color:#aaa;}
+
+
+/* ── FOOTER ── */
+footer{background:#011f49;padding:18px 48px;font-family:'Source Sans 3',sans-serif;font-size:12px;color:rgba(255,255,255,0.45);text-align:center;}
+footer a{color:rgba(255,255,255,0.45);text-decoration:underline;}
+footer a:hover{color:rgba(255,255,255,0.75);}
+.footer-sep{margin:0 10px;opacity:0.4;}
+
+/* ════════════════════════════════════════════
+   MOBILE RESPONSIVE
+   ════════════════════════════════════════════ */
+
+/* Cards: single column when viewport too narrow for the fixed 390px pair */
+@media (max-width: 860px) {
+  .cards-grid {
+    grid-template-columns: 1fr;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+}
+
+/* Tablet / standard mobile */
+@media (max-width: 768px) {
+
+  /* NAV — hide centre links, keep logo + sign-in */
+  .nav { padding: 0 16px; height: 58px; gap: 8px; }
+  .nav-links { display: none; }
+  /* On mobile: smaller icon, hide subtitle, tighten gap */
+  .logo-icon { width: 38px; height: 38px; }
+  .logo-divider { height: 32px; }
+  .logo-sub { display: none; }
+  .logo-wordmark { font-size: 17px; }
+
+  /* HERO */
+  .hero { height: 270px; }
+  .hero-inner { padding: 0 20px; }
+  .hero-h1 { font-size: 28px; max-width: 100%; margin-bottom: 8px; }
+  .hero-sub { font-size: 13.5px; max-width: 100%; }
+
+  /* SHARED PADDING */
+  .content-wrap { padding: 0 16px; }
+
+  /* EXPLORE */
+  .explore { padding: 28px 0; }
+
+  /* FEATURE SECTION */
+  .feature-section { padding: 36px 0; }
+  .feature-a {
+    /* switch desktop grid to flex column for mobile reordering */
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  /* Mobile order: 1=header (pill/name/awards) 2=photo+YT 3=body text */
+  .feature-a-header { order: 1; padding-bottom: 16px; }
+  .feature-a-photo  { order: 2; padding-bottom: 20px; }
+  .feature-a-body   { order: 3; }
+  .feature-a-photo img { aspect-ratio: 16/9; }
+  .feature-name { font-size: 24px; }
+  .feature-lede { font-size: 15px; }
+  .feature-body { font-size: 14px; }
+  .feature-awards { gap: 4px; }
+  .feature-award { font-size: 9.5px; padding: 2px 7px; }
+  .feature-yt { margin-top: 12px; }
+
+  /* VIDEOS — single column */
+  .highlights { padding: 28px 0; }
+  .video-grid {
+    grid-template-columns: 1fr;
+    max-width: 340px;
+    margin: 0 auto;
+    gap: 16px;
+  }
+  .video-card { height: 520px; }
+
+  /* FEATURED — 2 columns on mobile */
+  .featured { padding: 28px 0; }
+  .feat-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .feat-img { height: 100px; }
+  .feat-name { font-size: 12.5px; line-height: 1.3; }
+  .feat-meta { font-size: 10.5px; }
+  .feat-body { padding: 10px 10px 12px; }
+
+  /* AD */
+  .ad-section { padding: 20px 0 28px; }
+  .ad-box { height: 80px; }
+  .ad-box-title { font-size: 13px; }
+  .ad-box-hint { font-size: 11px; }
+
+  /* FOOTER */
+  footer { padding: 16px 20px; font-size: 11px; line-height: 1.9; }
+  .footer-sep { margin: 0 5px; }
+}
+
+/* Small phones */
+@media (max-width: 480px) {
+  .hero { height: 240px; }
+  .hero-h1 { font-size: 24px; }
+  .hero-sub { font-size: 13px; }
+  .nav { height: 56px; }
+  .video-grid { max-width: 280px; }
+  .video-card { height: 440px; }
+  /* Stack featured to single column if very tight */
+  .feat-grid { grid-template-columns: 1fr 1fr; }
+  .feat-name { font-size: 12px; }
+  .cards-grid { padding: 0 12px; }
+  .content-wrap { padding: 0 12px; }
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav">
+  <a class="logo-block" href="/">
+    <!-- Icon: pure geometry SVG, no font dependency. Upload OE_cloche.svg to R2. -->
+    <img class="logo-icon"
+         src="https://images.outside-eats.com/OE_cloche.svg"
+         alt="" width="52" height="52">
+    <div class="logo-divider"></div>
+    <div class="logo-text">
+      <div class="logo-wordmark">Outside Eats</div>
+      <div class="logo-sub">SF Peninsula Premier Food Guide</div>
+    </div>
+  </a>
+  <div class="nav-links">
+    <a class="nav-link" href="/restaurants.html">Restaurant Guide</a>
+    <a class="nav-link" href="/openings.html">New Openings</a>
+    <a class="nav-link" href="/markets.html">Farmers Markets</a>
+    <a class="nav-link" href="/events.html">Events</a>
+  </div>
+  <div class="nav-right">
+    <a id="btnSignIn" href="/restaurants.html?signin=1">Sign In</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-overlay">
+    <div class="hero-inner">
+      <!-- *** HERO HEADLINE *** -->
+      <div class="hero-h1">Your local food guide<br>for the SF Peninsula.</div>
+      <div class="hero-sub">Restaurants, markets, and events — all in one place.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ EXPLORE CARDS ═══
+  *** CARD IMAGE *** — change src in each .card-banner img to swap photo.
+  Alt options listed in each card's comment. -->
+<section class="explore">
+  <div class="content-wrap">
+    <div class="cards-grid">
+
+      <!-- RESTAURANT GUIDE — *** CARD IMAGE ***
+           alt: vibrant restaurant interior
+           https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=85 -->
+      <a class="card" href="/restaurants.html">
+        <div class="card-banner">
+          <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=85&auto=format&fit=crop" alt="Restaurant Guide" loading="lazy">
+          <div class="card-banner-overlay">
+            <div class="card-icon"><svg viewBox="0 0 24 24"><path d="M12 2C8.69 2 6 4.69 6 8c0 5.25 6 12 6 12s6-6.75 6-12c0-3.31-2.69-6-6-6z"/><circle cx="12" cy="8" r="2.5"/></svg></div>
+            <div class="card-name">Restaurant Guide</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-desc">A curated guide to 1,565 top-rated restaurants on the Peninsula — handpicked from over 2,000, sorted by city, cuisine, price, and distance.</div>
+          <div class="card-cta">Browse restaurants →</div>
+        </div>
+      </a>
+
+      <!-- NEW OPENINGS — *** CARD IMAGE ***
+           alt: colourful taco spread
+           https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&q=85 -->
+      <a class="card" href="/openings.html">
+        <div class="card-banner">
+          <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&q=85&auto=format&fit=crop" alt="New Openings" loading="lazy">
+          <div class="card-banner-overlay">
+            <div class="card-icon"><svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
+            <div class="card-name">New Openings</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-desc">The latest restaurants to open near you — tracked and updated every week.</div>
+          <div class="card-cta">See what's new →</div>
+        </div>
+      </a>
+
+      <!-- FARMERS MARKETS — *** CARD IMAGE ***
+           Updated: outdoor morning market with tents and fresh produce
+           alt: colourful fruit stall
+           https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=800&q=85 -->
+      <a class="card" href="/markets.html">
+        <div class="card-banner">
+          <img src="https://images.unsplash.com/photo-1573246123716-6b1782bfc499?w=800&q=85&auto=format&fit=crop" alt="Farmers Markets" loading="lazy">
+          <div class="card-banner-overlay">
+            <div class="card-icon"><svg viewBox="0 0 24 24"><path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 01-8 0"/></svg></div>
+            <div class="card-name">Farmers Markets</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-desc">Fresh local vendors and seasonal produce markets across the Peninsula every weekend.</div>
+          <div class="card-cta">Find a market →</div>
+        </div>
+      </a>
+
+      <!-- EVENTS — *** CARD IMAGE ***
+           Updated: outdoor street food festival / food truck event
+           alt: BBQ grill close-up
+           https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=85 -->
+      <a class="card" href="/events.html">
+        <div class="card-banner">
+          <img src="https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=800&q=85&auto=format&fit=crop" alt="Events" loading="lazy">
+          <div class="card-banner-overlay">
+            <div class="card-icon"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></div>
+            <div class="card-name">Events</div>
+          </div>
+        </div>
+        <div class="card-body">
+          <div class="card-desc">Pop-ups, food festivals, and local happenings you won't want to miss this weekend.</div>
+          <div class="card-cta">View events →</div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+  FEATURE STORY — magazine editorial.
+  Background: light blue (#e8f0fb) — different from the warm cream sections.
+
+  *** FEATURE STORY ***
+
+  To write a new feature:
+    1. Change the photo src in .feature-a-photo img
+    2. Update .feature-pill label (e.g. "Restaurant Feature", "Chef Spotlight")
+    3. Update .feature-name, .feature-meta, award badges
+    4. Write your lede and body paragraphs
+    5. Update the YouTube link card (href + thumbnail src + title)
+    6. Update .feature-cta href with the correct restaurant slug
+
+  LAYOUT B (two-column text under wide hero image) is available below,
+  commented out — uncomment and delete Layout A to use it instead.
+═══════════════════════════════════════════════════════════════════ -->
+<section class="feature-section">
+  <div class="content-wrap">
+
+    <!-- ── LAYOUT A: Photo left, editorial text right (active) ── -->
+    <div class="feature-a">
+
+      <div class="feature-a-photo">
+        <!-- Restaurant photo from R2. Replace src to change photo. -->
+        <img src="https://images.outside-eats.com/restaurant-photos/san-mateo/Pausa%20Small.jpeg"
+             alt="Pausa Bar &amp; Cookery, San Mateo"
+             onerror="this.src='https://images.squarespace-cdn.com/content/v1/658c686c2b626f2aa9534d43/48d9ad41-2574-4c4a-aa9f-cd01aae1a7aa/Pausa_440.jpg'">
+        <div class="feature-a-caption">Pausa Bar &amp; Cookery · 223 E. 4th Ave, San Mateo</div>
+
+        <!-- YouTube video card -->
+        <a class="feature-yt" href="https://www.youtube.com/shorts/oZKF_NaYUpU" target="_blank" rel="noopener">
+          <div class="feature-yt-thumb">
+            <img src="https://img.youtube.com/vi/oZKF_NaYUpU/hqdefault.jpg" alt="Pausa video">
+          </div>
+          <div class="feature-yt-text">
+            <div class="feature-yt-label">▶ Watch on YouTube</div>
+            <div class="feature-yt-title">Our visit to Pausa Bar &amp; Cookery</div>
+          </div>
+        </a>
+      </div>
+
+      <!-- HEADER: pill, name, meta, awards — appears first on mobile -->
+      <div class="feature-a-header">
+        <div class="feature-pill">Restaurant Feature</div>
+        <div class="feature-name">Pausa Bar &amp; Cookery</div>
+        <div class="feature-meta">Italian · San Mateo · $$$</div>
+        <div class="feature-awards">
+          <span class="feature-award">Michelin Bib Gourmand</span>
+          <span class="feature-award">Wine Spectator Award 2018–</span>
+          <span class="feature-award">Gambero Rosso International</span>
+        </div>
+      </div>
+
+      <!-- BODY: editorial text — appears after photo+YT on mobile -->
+      <div class="feature-a-body">
+        <p class="feature-lede">When I sat down with Chef-Owner Andrea Giuliani at Pausa Bar &amp; Cookery, I asked him the question every first-time visitor should ask: what do I order? Without hesitation, he said the charcuterie board and the margherita pizza — and after trying both, I completely understand why.</p>
+
+        <p class="feature-body">Pausa — Italian for "pause" — is Andrea's invitation to step away from the pace of daily life and settle into something genuinely special. Born in the Veneto region of Italy and cooking professionally for more than 30 years, Andrea opened Pausa on E. 4th Avenue in San Mateo after leading kitchens at some of the Bay Area's best Italian restaurants. Every element of the menu — the house-made pasta, the artisan bread, the fresh mozzarella, the hand-crafted desserts — reflects that depth of experience.</p>
+
+        <!-- Collapsed content — shown when "Read more" is clicked -->
+        <div id="pausa-more" style="display:none;">
+          <p class="feature-body">The charcuterie board is a window into Andrea's craft: all house-cured salumi, made entirely from scratch in-house. The margherita pizza, meanwhile, earned Pausa a spot in the Michelin Guide's roundup of the best pizzas in and around San Francisco — a recognition that's hard to argue with once you've had a slice. These are the two dishes Andrea would put in front of any first-timer, and they make an ideal introduction to everything the restaurant does well.</p>
+
+          <p class="feature-body">Pausa has also been recognised by the San Mateo Chamber of Commerce as the best Italian restaurant in the San Mateo area — a local nod that sits alongside its Michelin Bib Gourmand designation (held for multiple consecutive years) and Wine Spectator's Award of Excellence every year since 2018. Whether you're there for Spritz Hour in the outdoor parklet, a date night in the dining room, or a seat at the Chef's Table, the kitchen delivers.</p>
+          <button onclick="document.getElementById('pausa-more').style.display='none';document.getElementById('pausa-read-more-btn').style.display='inline-block';" style="background:none;border:none;padding:0;cursor:pointer;font-family:'DM Sans',sans-serif;font-size:13px;font-weight:700;color:#E8A82A;margin-bottom:14px;text-align:left;">Read less ↑</button>
+        </div>
+
+        <button id="pausa-read-more-btn" onclick="document.getElementById('pausa-more').style.display='block';this.style.display='none';" style="background:none;border:none;padding:0;cursor:pointer;font-family:'DM Sans',sans-serif;font-size:13px;font-weight:700;color:#E8A82A;margin-bottom:14px;text-align:left;">Read more ↓</button>
+
+        <a class="feature-cta" href="/restaurants.html?r=pausa">View Pausa in the Restaurant Guide →</a>
+      </div><!-- end feature-a-body -->
+    </div><!-- end feature-a -->
+
+    <!-- ── LAYOUT B: Wide hero + two-column text (commented out) ──
+    <div class="feature-b-hero">
+      <img src="YOUR_WIDE_PHOTO_URL" alt="Feature">
+    </div>
+    <div class="feature-pill">Story Type Here</div>
+    <div class="feature-b-cols">
+      <div class="feature-b-left">
+        <div class="feature-name">Headline Here</div>
+        <div class="feature-meta">Location · Date</div>
+      </div>
+      <div>
+        <p class="feature-b-body">Body text column one...</p>
+        <p class="feature-b-body">Body text column two...</p>
+        <a class="feature-cta" href="/restaurants.html?r=slug">View in Guide →</a>
+      </div>
+    </div>
+    -->
+
+  </div>
+</section>
+
+<!-- SOCIAL VIDEOS -->
+<section class="highlights">
+  <div class="content-wrap">
+    <div class="video-grid">
+      <!-- *** VIDEO 1 *** -->
+      <a class="video-card" href="https://www.youtube.com/shorts/lyryUXixw74" target="_blank" rel="noopener">
+        <img src="https://img.youtube.com/vi/lyryUXixw74/hqdefault.jpg" alt="Golden Bell Donuts" loading="lazy">
+        <div class="video-play">
+          <div class="video-play-btn"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <div class="video-caption">Golden Bell Donuts</div>
+          <div class="video-caption-sub">San Mateo</div>
+        </div>
+        <div class="yt-badge"><svg viewBox="0 0 24 16"><path d="M23.5 2.5a3 3 0 00-2.1-2.1C19.5 0 12 0 12 0S4.5 0 2.6.4A3 3 0 00.5 2.5C0 4.3 0 8 0 8s0 3.7.5 5.5a3 3 0 002.1 2.1C4.5 16 12 16 12 16s7.5 0 9.4-.4a3 3 0 002.1-2.1C24 11.7 24 8 24 8s0-3.7-.5-5.5zM9.8 11.4V4.6L16 8l-6.2 3.4z"/></svg>YouTube</div>
+      </a>
+      <!-- *** VIDEO 2 *** -->
+      <a class="video-card" href="https://www.youtube.com/shorts/NhrX1-9MpKI" target="_blank" rel="noopener">
+        <img src="https://img.youtube.com/vi/NhrX1-9MpKI/hqdefault.jpg" alt="Sibby's Cupcakery" loading="lazy">
+        <div class="video-play">
+          <div class="video-play-btn"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div>
+          <div class="video-caption">Sibby's Cupcakery</div>
+          <div class="video-caption-sub">San Mateo</div>
+        </div>
+        <div class="yt-badge"><svg viewBox="0 0 24 16"><path d="M23.5 2.5a3 3 0 00-2.1-2.1C19.5 0 12 0 12 0S4.5 0 2.6.4A3 3 0 00.5 2.5C0 4.3 0 8 0 8s0 3.7.5 5.5a3 3 0 002.1 2.1C4.5 16 12 16 12 16s7.5 0 9.4-.4a3 3 0 002.1-2.1C24 11.7 24 8 24 8s0-3.7-.5-5.5zM9.8 11.4V4.6L16 8l-6.2 3.4z"/></svg>YouTube</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- FEATURED -->
+<section class="featured">
+  <div class="content-wrap">
+    <div class="feat-grid">
+      <!-- *** FEATURED ITEM 1 *** -->
+      <a class="feat" href="/restaurants.html?r=hot-wok-bistro">
+        <img class="feat-img" src="https://images.outside-eats.com/restaurant-photos/san-mateo/Hot%20wok%20Bistro%20Small.jpeg" alt="Hot Wok Bistro" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1563245372-f21724e3856d?w=400&q=80&auto=format&fit=crop'">
+        <div class="feat-body">
+          <div class="feat-tag">Featured</div>
+          <div class="feat-name">Hot Wok Bistro</div>
+          <div class="feat-meta">Chinese · San Mateo</div>
+        </div>
+      </a>
+      <!-- *** FEATURED ITEM 2 *** -->
+      <a class="feat" href="/restaurants.html?r=sibbys-cupcakery">
+        <img class="feat-img" src="https://images.outside-eats.com/restaurant-photos/san-mateo/Sibby%27s%20Cupcakery%20Small.jpeg" alt="Sibby's Cupcakery" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=400&q=80&auto=format&fit=crop'">
+        <div class="feat-body">
+          <div class="feat-tag">Featured</div>
+          <div class="feat-name">Sibby's Cupcakery</div>
+          <div class="feat-meta">Cupcakes · San Mateo</div>
+        </div>
+      </a>
+      <!-- *** FEATURED ITEM 3 *** -->
+      <a class="feat" href="/restaurants.html?r=mazra">
+        <img class="feat-img" src="https://images.outside-eats.com/restaurant-photos/san-bruno/Mazra%20Small.jpeg" alt="Mazra" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&q=80&auto=format&fit=crop'">
+        <div class="feat-body">
+          <div class="feat-tag">Featured</div>
+          <div class="feat-name">Mazra</div>
+          <div class="feat-meta">Middle Eastern · San Bruno</div>
+        </div>
+      </a>
+      <!-- *** FEATURED ITEM 4 *** -->
+      <a class="feat" href="/restaurants.html?r=prestons-candy-ice-cream">
+        <img class="feat-img" src="https://images.outside-eats.com/restaurant-photos/burlingame/Preston%27s%20Candy%20Ice%20Cream%20Small.jpeg" alt="Preston's Candy and Ice Cream" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=400&q=80&auto=format&fit=crop'">
+        <div class="feat-body">
+          <div class="feat-tag">Featured</div>
+          <div class="feat-name">Preston's Candy &amp; Ice Cream</div>
+          <div class="feat-meta">Candy &amp; Ice Cream · Burlingame</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<footer>
+  © 2026 Outside Eats, LLC. All Rights Reserved.
+  <span class="footer-sep">·</span>
+  <a href="/privacy.html">Privacy Policy</a>
+  <span class="footer-sep">·</span>
+  <a href="/support.html">Support</a>
+</footer>
+
+<script>
+(function () {
+  function hasActiveSession() {
+    try {
+      for (var i = 0; i < localStorage.length; i++) {
+        var key = localStorage.key(i);
+        if (key && key.startsWith('sb-') && key.endsWith('-auth-token')) {
+          var data = JSON.parse(localStorage.getItem(key));
+          var exp = data && data.expires_at;
+          if (exp && (Date.now() / 1000) < exp) return true;
+        }
+      }
+    } catch (e) {}
+    return false;
+  }
+  if (!hasActiveSession()) {
+    document.getElementById('btnSignIn').style.display = 'inline-block';
+  }
+})();
+</script>
+</body>
+</html>
