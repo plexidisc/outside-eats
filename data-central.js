@@ -1304,6 +1304,7 @@ var PREBAKED_DATA_CENTRAL = {
         "classic ice cream"
       ],
       "menuUrl": "https://www.itsiticecream.com/products",
+      "videoUrl": "https://youtube.com/shorts/GhiHLLqKNYQ?feature=share",
       "phone": "(800) 345-1928",
       "hours": "Mon-Fri 10am-4:30pm",
       "priceRange": "$",
