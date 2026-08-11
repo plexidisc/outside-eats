@@ -9163,6 +9163,39 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
+    },
+    {
+      "id": "manual_1786470274665",
+      "displayName": {
+        "text": "Boba Bless",
+        "languageCode": "en"
+      },
+      "formattedAddress": "16 E 3rd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/boba+bless/data=!4m2!3m1!1s0x808f9f502fafa44b:0xa2e7bf7d123b376c?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "https://www.bobabless.com/",
+      "location": {
+        "latitude": 37.56333811328643,
+        "longitude": -122.32530485017506
+      },
+      "placeId": "ChIJS6SvL1Cfj4ARbDc7En2_56I",
+      "cuisine": "Cafe",
+      "keywords": [
+        "boba tea",
+        "bubble tea",
+        "milk tea",
+        "community cafe",
+        "san mateo boba",
+        "tea shop",
+        "downtown san mateo",
+        "boba shop",
+        "specialty drinks"
+      ],
+      "menuUrl": "https://order.snackpass.co/bobabless",
+      "phone": "(650) 513-9386",
+      "hours": "Mon 7am-10am, Tue-Thu 11:30am-9pm, Fri-Sat 11:30am-10pm",
+      "priceRange": "$$",
+      "description": "Community-driven boba shop in downtown San Mateo founded by two former basketball coaches with a mission to serve and give back.",
+      "outsideEatsRating": 5
     }
   ],
   "Foster City, CA": [
