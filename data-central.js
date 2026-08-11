@@ -9163,43 +9163,6 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
-    },
-    {
-      "id": "manual_1786469537827",
-      "displayName": {
-        "text": "Teaspoon",
-        "languageCode": "en"
-      },
-      "formattedAddress": "128 E 3rd Ave, San Mateo, CA 94401",
-      "googleMapsUri": "https://www.google.com/maps/place/teaspoon+san+mateo/data=!4m2!3m1!1s0x808f9e7043e72179:0x8589d8f1b956ca0c?sa=X&ved=1t:242&ictx=111",
-      "websiteUri": "https://teaspoon-sanmateo.square.site/",
-      "location": {
-        "latitude": 37.56445785406252,
-        "longitude": -122.32375363556271
-      },
-      "placeId": "ChIJeSHnQ3Cej4ARDMpWufHYiYU",
-      "cuisine": "Boba Tea",
-      "keywords": [
-        "boba",
-        "bubble tea",
-        "milk tea",
-        "taro milk tea",
-        "matcha latte",
-        "oolong tea",
-        "thai tea",
-        "vietnamese coffee",
-        "specialty drinks",
-        "tea shop",
-        "san mateo boba",
-        "downtown san mateo"
-      ],
-      "menuUrl": "https://teaspoon-sanmateo.square.site/",
-      "phone": "(650) 393-5727",
-      "hours": "Sun-Thu 11am-10pm, Fri-Sat 11am-12am",
-      "priceRange": "$",
-      "description": "Taiwanese bubble tea shop serving handcrafted milk teas, boba, specialty lattes, and seasonal drinks in downtown San Mateo.",
-      "award": "Best of San Mateo 2026 - Boba Tea Shop",
-      "outsideEatsRating": 4.2
     }
   ],
   "Foster City, CA": [
