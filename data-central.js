@@ -7563,7 +7563,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon-Sat 11am-8:30pm",
       "priceRange": "$$",
       "description": "A San Mateo institution since 1983, Rainbow Pizza is a family-owned Greek and Italian restaurant serving hand-tossed pizzas, gyros, pasta, seafood, and generous portions in a lively Greek-themed setting.",
-      "outsideEatsRating": 4.8
+      "outsideEatsRating": 4.8,
+      "photoUrl": "images/restaurant-photos/san-mateo/Rainbow Pizza Small.jpeg"
     },
     {
       "id": "ChIJe_K0-WSej4ARodOC4dXyLbI",
