@@ -3609,7 +3609,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Mon 7am-10am, Tue-Thu 11:30am-9pm, Fri-Sat 11:30am-10pm",
       "priceRange": "$$",
       "description": "Community-driven boba shop in downtown San Mateo founded by two former basketball coaches with a mission to serve and give back.",
-      "outsideEatsRating": 5
+      "outsideEatsRating": 5,
+      "photoUrl": "images/restaurant-photos/san-mateo/Boba Bless Small.jpeg"
     },
     {
       "id": "ChIJ6zDxjXCej4AROgj36_xUWgM",
@@ -7764,6 +7765,43 @@ var PREBAKED_DATA_CENTRAL = {
       "award": "Best of San Mateo 2026 — Best Pizza Winner"
     },
     {
+      "id": "manual_1786479380275",
+      "displayName": {
+        "text": "Romolo's Cannoli",
+        "languageCode": "en"
+      },
+      "formattedAddress": "81 37th Ave, San Mateo, CA 94403",
+      "googleMapsUri": "https://www.google.com/maps/place/romolo's+cannoli/data=!4m2!3m1!1s0x808f9f1a6545d04b:0x88a0fca150aa237e?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "http://www.romoloscannoli.com/",
+      "location": {
+        "latitude": 37.53384566627093,
+        "longitude": -122.29590879999778
+      },
+      "placeId": "ChIJJQ0wDMifj4ARJH4RAlBBVkQ",
+      "cuisine": "Dessert",
+      "keywords": [
+        "cannoli",
+        "sicilian cannoli",
+        "italian bakery",
+        "ricotta cannoli",
+        "gelato",
+        "tiramisu",
+        "spumoni",
+        "italian dessers",
+        "san mateo bakery",
+        "bannoli kit",
+        "catering",
+        "amaretti",
+        "dessert shop"
+      ],
+      "menuUrl": "https://www.romoloscannoli.com/#menu",
+      "phone": "(650) 574-0625",
+      "hours": "Tue-Sat 11am-6pm, Sun 12pm-4pm",
+      "priceRange": "$$",
+      "description": "A three-generation Sicilian family bakery in San Mateo since 1968, hand-crafting cannoli filled to order with fresh ricotta, plus gelato, tiramisu, spumoni, and traditional Italian pastries.",
+      "outsideEatsRating": 4.7
+    },
+    {
       "id": "ChIJJbGJdumfj4ARHqzFGHMnOfs",
       "formattedAddress": "2317 S El Camino Real, San Mateo, CA 94403, USA",
       "location": {
@@ -9276,43 +9314,6 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
-    },
-    {
-      "id": "manual_1786479380275",
-      "displayName": {
-        "text": "Romolo's Cannoli",
-        "languageCode": "en"
-      },
-      "formattedAddress": "81 37th Ave, San Mateo, CA 94403",
-      "googleMapsUri": "https://www.google.com/maps/place/romolo's+cannoli/data=!4m2!3m1!1s0x808f9f1a6545d04b:0x88a0fca150aa237e?sa=X&ved=1t:242&ictx=111",
-      "websiteUri": "http://www.romoloscannoli.com/",
-      "location": {
-        "latitude": 37.53384566627093,
-        "longitude": -122.29590879999778
-      },
-      "placeId": "ChIJJQ0wDMifj4ARJH4RAlBBVkQ",
-      "cuisine": "Dessert",
-      "keywords": [
-        "cannoli",
-        "sicilian cannoli",
-        "italian bakery",
-        "ricotta cannoli",
-        "gelato",
-        "tiramisu",
-        "spumoni",
-        "italian dessers",
-        "san mateo bakery",
-        "bannoli kit",
-        "catering",
-        "amaretti",
-        "dessert shop"
-      ],
-      "menuUrl": "https://www.romoloscannoli.com/#menu",
-      "phone": "(650) 574-0625",
-      "hours": "Tue-Sat 11am-6pm, Sun 12pm-4pm",
-      "priceRange": "$$",
-      "description": "A three-generation Sicilian family bakery in San Mateo since 1968, hand-crafting cannoli filled to order with fresh ricotta, plus gelato, tiramisu, spumoni, and traditional Italian pastries.",
-      "outsideEatsRating": 4.7
     }
   ],
   "Foster City, CA": [
