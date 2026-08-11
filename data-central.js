@@ -3579,6 +3579,39 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
+      "id": "manual_1786470274665",
+      "displayName": {
+        "text": "Boba Bless",
+        "languageCode": "en"
+      },
+      "formattedAddress": "16 E 3rd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/boba+bless/data=!4m2!3m1!1s0x808f9f502fafa44b:0xa2e7bf7d123b376c?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "https://www.bobabless.com/",
+      "location": {
+        "latitude": 37.56333811328643,
+        "longitude": -122.32530485017506
+      },
+      "placeId": "ChIJS6SvL1Cfj4ARbDc7En2_56I",
+      "cuisine": "Cafe",
+      "keywords": [
+        "boba tea",
+        "bubble tea",
+        "milk tea",
+        "community cafe",
+        "san mateo boba",
+        "tea shop",
+        "downtown san mateo",
+        "boba shop",
+        "specialty drinks"
+      ],
+      "menuUrl": "https://order.snackpass.co/bobabless",
+      "phone": "(650) 513-9386",
+      "hours": "Mon 7am-10am, Tue-Thu 11:30am-9pm, Fri-Sat 11:30am-10pm",
+      "priceRange": "$$",
+      "description": "Community-driven boba shop in downtown San Mateo founded by two former basketball coaches with a mission to serve and give back.",
+      "outsideEatsRating": 5
+    },
+    {
       "id": "ChIJ6zDxjXCej4AROgj36_xUWgM",
       "formattedAddress": "220 S B St, San Mateo, CA 94401, USA",
       "location": {
@@ -9165,37 +9198,45 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
-      "id": "manual_1786470274665",
+      "id": "manual_1786477593470",
       "displayName": {
-        "text": "Boba Bless",
+        "text": "Lajawab Indian Cuisine",
         "languageCode": "en"
       },
-      "formattedAddress": "16 E 3rd Ave, San Mateo, CA 94401",
-      "googleMapsUri": "https://www.google.com/maps/place/boba+bless/data=!4m2!3m1!1s0x808f9f502fafa44b:0xa2e7bf7d123b376c?sa=X&ved=1t:242&ictx=111",
-      "websiteUri": "https://www.bobabless.com/",
+      "formattedAddress": "514 Peninsula Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Lajawab+Indian+Cuisine/data=!4m2!3m1!1s0x0:0xdfd09359215305c2?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://lajawabca.com/",
       "location": {
-        "latitude": 37.56333811328643,
-        "longitude": -122.32530485017506
+        "latitude": 37.5801451579843,
+        "longitude": -122.33479785773557
       },
-      "placeId": "ChIJS6SvL1Cfj4ARbDc7En2_56I",
-      "cuisine": "Cafe",
+      "placeId": "ChIJ6R-Eyvudj4ARwgVTIVmT0N8",
+      "cuisine": "Indian",
       "keywords": [
-        "boba tea",
-        "bubble tea",
-        "milk tea",
-        "community cafe",
-        "san mateo boba",
-        "tea shop",
-        "downtown san mateo",
-        "boba shop",
-        "specialty drinks"
+        "indian food",
+        "north indian",
+        "himalayan",
+        "tandoor",
+        "butter chicken",
+        "biryani",
+        "momos",
+        "naan",
+        "curry",
+        "kebabs",
+        "tikka masala",
+        "dal makhani",
+        "thali",
+        "lunch thali",
+        "catering",
+        "vegetarian",
+        "vegan"
       ],
-      "menuUrl": "https://order.snackpass.co/bobabless",
-      "phone": "(650) 513-9386",
-      "hours": "Mon 7am-10am, Tue-Thu 11:30am-9pm, Fri-Sat 11:30am-10pm",
+      "menuUrl": "https://lajawabca.com/#menu",
+      "phone": "(650) 389-7690",
+      "hours": "Tue-Thu 11am-3pm, 4:30pm-9pm, Fri 11am-3pm, Sat 4:30pm-9:30pm, Sun 11am-3pm, 4:30pm-9pm",
       "priceRange": "$$",
-      "description": "Community-driven boba shop in downtown San Mateo founded by two former basketball coaches with a mission to serve and give back.",
-      "outsideEatsRating": 5
+      "description": "Chef-owned North Indian and Himalayan restaurant in San Mateo, known for tandoor-charred kebabs, slow-simmered curries, hand-folded momos, and fresh clay oven breads.",
+      "outsideEatsRating": 4.5
     }
   ],
   "Foster City, CA": [
