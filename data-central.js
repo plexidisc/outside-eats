@@ -5867,7 +5867,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Tue-Thu 11am-3pm, 4:30pm-9pm, Fri 11am-3pm, Sat 4:30pm-9:30pm, Sun 11am-3pm, 4:30pm-9pm",
       "priceRange": "$$",
       "description": "Chef-owned North Indian and Himalayan restaurant in San Mateo, known for tandoor-charred kebabs, slow-simmered curries, hand-folded momos, and fresh clay oven breads.",
-      "outsideEatsRating": 4.5
+      "outsideEatsRating": 4.5,
+      "photoUrl": "images/restaurant-photos/san-mateo/Lajawab Indian Cuisine Small.jpeg"
     },
     {
       "id": "ChIJ45zmZ3qej4ARcQEvOh9jrlQ",
