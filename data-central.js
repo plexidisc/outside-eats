@@ -7525,6 +7525,45 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
+      "id": "manual_1786478362687",
+      "displayName": {
+        "text": "Rainbow Pizza",
+        "languageCode": "en"
+      },
+      "formattedAddress": "112 De Anza Blvd, San Mateo, CA 94402",
+      "googleMapsUri": "https://www.google.com/maps/place/rainbow+pizza/data=!4m2!3m1!1s0x808f9fc80c300d25:0x4456415002117e24?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "https://rainbowpizza.com/menu",
+      "location": {
+        "latitude": 37.52138482421174,
+        "longitude": -122.33727704432917
+      },
+      "placeId": "ChIJJQ0wDMifj4ARJH4RAlBBVkQ",
+      "cuisine": "Pizza",
+      "keywords": [
+        "pizza",
+        "greek food",
+        "italian food",
+        "gyro",
+        "pasta",
+        "seafood",
+        "burgers",
+        "salad bar",
+        "hand tossed dough",
+        "mediterranean",
+        "catering",
+        "party trays",
+        "takeout",
+        "delivery",
+        "san mateo pizza"
+      ],
+      "menuUrl": "https://rainbowpizza.com/the-whole-menu/",
+      "phone": "(650) 571-1848",
+      "hours": "Mon-Sat 11am-8:30pm",
+      "priceRange": "$$",
+      "description": "A San Mateo institution since 1983, Rainbow Pizza is a family-owned Greek and Italian restaurant serving hand-tossed pizzas, gyros, pasta, seafood, and generous portions in a lively Greek-themed setting.",
+      "outsideEatsRating": 4.8
+    },
+    {
       "id": "ChIJe_K0-WSej4ARodOC4dXyLbI",
       "formattedAddress": "805 S B St, San Mateo, CA 94401, USA",
       "location": {
@@ -9239,43 +9278,41 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
-      "id": "manual_1786478362687",
+      "id": "manual_1786479380275",
       "displayName": {
-        "text": "Rainbow Pizza",
+        "text": "Romolo's Cannoli",
         "languageCode": "en"
       },
-      "formattedAddress": "112 De Anza Blvd, San Mateo, CA 94402",
-      "googleMapsUri": "https://www.google.com/maps/place/rainbow+pizza/data=!4m2!3m1!1s0x808f9fc80c300d25:0x4456415002117e24?sa=X&ved=1t:242&ictx=111",
-      "websiteUri": "https://rainbowpizza.com/menu",
+      "formattedAddress": "81 37th Ave, San Mateo, CA 94403",
+      "googleMapsUri": "https://www.google.com/maps/place/romolo's+cannoli/data=!4m2!3m1!1s0x808f9f1a6545d04b:0x88a0fca150aa237e?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "http://www.romoloscannoli.com/",
       "location": {
-        "latitude": 37.52138482421174,
-        "longitude": -122.33727704432917
+        "latitude": 37.53384566627093,
+        "longitude": -122.29590879999778
       },
       "placeId": "ChIJJQ0wDMifj4ARJH4RAlBBVkQ",
-      "cuisine": "Pizza",
+      "cuisine": "Dessert",
       "keywords": [
-        "pizza",
-        "greek food",
-        "italian food",
-        "gyro",
-        "pasta",
-        "seafood",
-        "burgers",
-        "salad bar",
-        "hand tossed dough",
-        "mediterranean",
+        "cannoli",
+        "sicilian cannoli",
+        "italian bakery",
+        "ricotta cannoli",
+        "gelato",
+        "tiramisu",
+        "spumoni",
+        "italian dessers",
+        "san mateo bakery",
+        "bannoli kit",
         "catering",
-        "party trays",
-        "takeout",
-        "delivery",
-        "san mateo pizza"
+        "amaretti",
+        "dessert shop"
       ],
-      "menuUrl": "https://rainbowpizza.com/the-whole-menu/",
-      "phone": "(650) 571-1848",
-      "hours": "Mon-Sat 11am-8:30pm",
+      "menuUrl": "https://www.romoloscannoli.com/#menu",
+      "phone": "(650) 574-0625",
+      "hours": "Tue-Sat 11am-6pm, Sun 12pm-4pm",
       "priceRange": "$$",
-      "description": "A San Mateo institution since 1983, Rainbow Pizza is a family-owned Greek and Italian restaurant serving hand-tossed pizzas, gyros, pasta, seafood, and generous portions in a lively Greek-themed setting.",
-      "outsideEatsRating": 4.8
+      "description": "A three-generation Sicilian family bakery in San Mateo since 1968, hand-crafting cannoli filled to order with fresh ricotta, plus gelato, tiramisu, spumoni, and traditional Italian pastries.",
+      "outsideEatsRating": 4.7
     }
   ],
   "Foster City, CA": [
