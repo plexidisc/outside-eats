@@ -5828,6 +5828,47 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
+      "id": "manual_1786477593470",
+      "displayName": {
+        "text": "Lajawab Indian Cuisine",
+        "languageCode": "en"
+      },
+      "formattedAddress": "514 Peninsula Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/Lajawab+Indian+Cuisine/data=!4m2!3m1!1s0x0:0xdfd09359215305c2?sa=X&ved=1t:2428&ictx=111",
+      "websiteUri": "https://lajawabca.com/",
+      "location": {
+        "latitude": 37.5801451579843,
+        "longitude": -122.33479785773557
+      },
+      "placeId": "ChIJ6R-Eyvudj4ARwgVTIVmT0N8",
+      "cuisine": "Indian",
+      "keywords": [
+        "indian food",
+        "north indian",
+        "himalayan",
+        "tandoor",
+        "butter chicken",
+        "biryani",
+        "momos",
+        "naan",
+        "curry",
+        "kebabs",
+        "tikka masala",
+        "dal makhani",
+        "thali",
+        "lunch thali",
+        "catering",
+        "vegetarian",
+        "vegan"
+      ],
+      "menuUrl": "https://lajawabca.com/#menu",
+      "phone": "(650) 389-7690",
+      "hours": "Tue-Thu 11am-3pm, 4:30pm-9pm, Fri 11am-3pm, Sat 4:30pm-9:30pm, Sun 11am-3pm, 4:30pm-9pm",
+      "priceRange": "$$",
+      "description": "Chef-owned North Indian and Himalayan restaurant in San Mateo, known for tandoor-charred kebabs, slow-simmered curries, hand-folded momos, and fresh clay oven breads.",
+      "outsideEatsRating": 4.5
+    },
+    {
       "id": "ChIJ45zmZ3qej4ARcQEvOh9jrlQ",
       "formattedAddress": "92 E 3rd Ave, San Mateo, CA 94401, USA",
       "location": {
@@ -9198,45 +9239,43 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
-      "id": "manual_1786477593470",
+      "id": "manual_1786478362687",
       "displayName": {
-        "text": "Lajawab Indian Cuisine",
+        "text": "Rainbow Pizza",
         "languageCode": "en"
       },
-      "formattedAddress": "514 Peninsula Ave, San Mateo, CA 94401",
-      "googleMapsUri": "https://www.google.com/maps/place/Lajawab+Indian+Cuisine/data=!4m2!3m1!1s0x0:0xdfd09359215305c2?sa=X&ved=1t:2428&ictx=111",
-      "websiteUri": "https://lajawabca.com/",
+      "formattedAddress": "112 De Anza Blvd, San Mateo, CA 94402",
+      "googleMapsUri": "https://www.google.com/maps/place/rainbow+pizza/data=!4m2!3m1!1s0x808f9fc80c300d25:0x4456415002117e24?sa=X&ved=1t:242&ictx=111",
+      "websiteUri": "https://rainbowpizza.com/menu",
       "location": {
-        "latitude": 37.5801451579843,
-        "longitude": -122.33479785773557
+        "latitude": 37.52138482421174,
+        "longitude": -122.33727704432917
       },
-      "placeId": "ChIJ6R-Eyvudj4ARwgVTIVmT0N8",
-      "cuisine": "Indian",
+      "placeId": "ChIJJQ0wDMifj4ARJH4RAlBBVkQ",
+      "cuisine": "Pizza",
       "keywords": [
-        "indian food",
-        "north indian",
-        "himalayan",
-        "tandoor",
-        "butter chicken",
-        "biryani",
-        "momos",
-        "naan",
-        "curry",
-        "kebabs",
-        "tikka masala",
-        "dal makhani",
-        "thali",
-        "lunch thali",
+        "pizza",
+        "greek food",
+        "italian food",
+        "gyro",
+        "pasta",
+        "seafood",
+        "burgers",
+        "salad bar",
+        "hand tossed dough",
+        "mediterranean",
         "catering",
-        "vegetarian",
-        "vegan"
+        "party trays",
+        "takeout",
+        "delivery",
+        "san mateo pizza"
       ],
-      "menuUrl": "https://lajawabca.com/#menu",
-      "phone": "(650) 389-7690",
-      "hours": "Tue-Thu 11am-3pm, 4:30pm-9pm, Fri 11am-3pm, Sat 4:30pm-9:30pm, Sun 11am-3pm, 4:30pm-9pm",
+      "menuUrl": "https://rainbowpizza.com/the-whole-menu/",
+      "phone": "(650) 571-1848",
+      "hours": "Mon-Sat 11am-8:30pm",
       "priceRange": "$$",
-      "description": "Chef-owned North Indian and Himalayan restaurant in San Mateo, known for tandoor-charred kebabs, slow-simmered curries, hand-folded momos, and fresh clay oven breads.",
-      "outsideEatsRating": 4.5
+      "description": "A San Mateo institution since 1983, Rainbow Pizza is a family-owned Greek and Italian restaurant serving hand-tossed pizzas, gyros, pasta, seafood, and generous portions in a lively Greek-themed setting.",
+      "outsideEatsRating": 4.8
     }
   ],
   "Foster City, CA": [
