@@ -7000,29 +7000,30 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJKfn1kpKfj4ARJ-KC-Uwze98",
-      "formattedAddress": "11 S B St, San Mateo, CA 94401, USA",
-      "location": {
-        "latitude": 37.567647799999996,
-        "longitude": -122.3244765
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=16103521298289975847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://ox9noodles.com/",
       "displayName": {
         "text": "Ox 9 Lanzhou Handpulled Noodles",
         "languageCode": "en"
       },
+      "formattedAddress": "11 S B St, San Mateo, CA 94401, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=16103521298289975847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://ox9noodles.com/",
+      "location": {
+        "latitude": 37.567647799999996,
+        "longitude": -122.3244765
+      },
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/san-mateo/Ox9 Small.jpeg",
-      "phone": "(650) 242-1790",
-      "hours": "Mon–Sun 11am–3pm, 5pm–9pm",
-      "menuUrl": "https://www.yelp.com/biz/ox-9-lanzhou-handpulled-noodles-san-mateo",
-      "priceRange": "$$",
       "keywords": [
         "hand-pulled noodles",
         "lanzhou beef noodles",
         "fast casual",
         "counter service"
-      ]
+      ],
+      "menuUrl": "https://www.yelp.com/biz/ox-9-lanzhou-handpulled-noodles-san-mateo",
+      "videoUrl": "https://youtube.com/shorts/yXP4-u-adrk?feature=share",
+      "phone": "(650) 242-1790",
+      "hours": "Mon–Sun 11am–3pm, 5pm–9pm",
+      "priceRange": "$$",
+      "photoUrl": "images/restaurant-photos/san-mateo/Ox9 Small.jpeg"
     },
     {
       "id": "ChIJY5OlhXCej4ARTewMKKVfI2Q",
