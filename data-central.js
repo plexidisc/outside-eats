@@ -8300,7 +8300,7 @@ var PREBAKED_DATA_CENTRAL = {
       "phone": "(650) 348-2888",
       "hours": "Tue-Sun 10am-9pm",
       "priceRange": "$$",
-      "description": "Asian bakery in downtown San Mateo handcrafting light, airy cakes, artisan breads, and pastries using traditional techniques and authentic ingredients.",
+      "description": "Asian inspired bakery in downtown San Mateo handcrafting light, airy cakes, artisan breads, and pastries using traditional techniques and authentic ingredients.",
       "outsideEatsRating": 4.3,
       "photoUrl": "images/restaurant-photos/san-mateo/SimplyCake Small.jpeg"
     },
