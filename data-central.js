@@ -7802,7 +7802,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Tue-Sat 11am-6pm, Sun 12pm-4pm",
       "priceRange": "$$",
       "description": "A three-generation Sicilian family bakery in San Mateo since 1968, hand-crafting cannoli filled to order with fresh ricotta, plus gelato, tiramisu, spumoni, and traditional Italian pastries.",
-      "outsideEatsRating": 4.7
+      "outsideEatsRating": 4.7,
+      "photoUrl": "images/restaurant-photos/san-mateo/"
     },
     {
       "id": "ChIJJbGJdumfj4ARHqzFGHMnOfs",
@@ -8271,6 +8272,36 @@ var PREBAKED_DATA_CENTRAL = {
         "family style",
         "groups"
       ]
+    },
+    {
+      "id": "manual_1786553512986",
+      "displayName": {
+        "text": "SimplyCake",
+        "languageCode": "en"
+      },
+      "formattedAddress": "132 E 3rd Ave, San Mateo, CA 94401",
+      "googleMapsUri": "https://www.google.com/maps/place/SimplyCake/@37.5643187,-122.32375,17z/data=!3m1!4b1!4m6!3m5!1s0x808f9f507676c1ad:0xe947bd69a12a7f0a!8m2!3d37.5643187!4d-122.32375!16s%2Fg%2F11t470_g9c?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "https://www.simplycakebakery.com/",
+      "location": {
+        "latitude": 37.564527058311846,
+        "longitude": -122.32380900876987
+      },
+      "placeId": "ChIJrcF2dlCfj4ARCn8qoWm9R-k",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "cake",
+        "custom cakes",
+        "taiwanese-inspired asian bakery",
+        "airy cakes",
+        "artisan breads",
+        "pastries"
+      ],
+      "menuUrl": "https://www.simplycakebakery.com/menus",
+      "phone": "(650) 348-2888",
+      "hours": "Tue-Sun 10am-9pm",
+      "priceRange": "$$",
+      "description": "Taiwanese-inspired Asian bakery in downtown San Mateo handcrafting light, airy cakes, artisan breads, and pastries using traditional techniques and authentic ingredients.",
+      "outsideEatsRating": 4.3
     },
     {
       "id": "ChIJma5mbxqfj4ARgg-PlO8L6Cw",
@@ -9317,36 +9348,6 @@ var PREBAKED_DATA_CENTRAL = {
         "fast casual",
         "counter service"
       ]
-    },
-    {
-      "id": "manual_1786553512986",
-      "displayName": {
-        "text": "SimplyCake",
-        "languageCode": "en"
-      },
-      "formattedAddress": "132 E 3rd Ave, San Mateo, CA 94401",
-      "googleMapsUri": "https://www.google.com/maps/place/SimplyCake/@37.5643187,-122.32375,17z/data=!3m1!4b1!4m6!3m5!1s0x808f9f507676c1ad:0xe947bd69a12a7f0a!8m2!3d37.5643187!4d-122.32375!16s%2Fg%2F11t470_g9c?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D",
-      "websiteUri": "https://www.simplycakebakery.com/",
-      "location": {
-        "latitude": 37.564527058311846,
-        "longitude": -122.32380900876987
-      },
-      "placeId": "ChIJrcF2dlCfj4ARCn8qoWm9R-k",
-      "cuisine": "Cafe/Bakery",
-      "keywords": [
-        "cake",
-        "custom cakes",
-        "taiwanese-inspired asian bakery",
-        "airy cakes",
-        "artisan breads",
-        "pastries"
-      ],
-      "menuUrl": "https://www.simplycakebakery.com/menus",
-      "phone": "(650) 348-2888",
-      "hours": "Tue-Sun 10am-9pm",
-      "priceRange": "$$",
-      "description": "Taiwanese-inspired Asian bakery in downtown San Mateo handcrafting light, airy cakes, artisan breads, and pastries using traditional techniques and authentic ingredients.",
-      "outsideEatsRating": 4.3
     }
   ],
   "Foster City, CA": [
