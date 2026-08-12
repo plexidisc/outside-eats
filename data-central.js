@@ -8301,7 +8301,8 @@ var PREBAKED_DATA_CENTRAL = {
       "hours": "Tue-Sun 10am-9pm",
       "priceRange": "$$",
       "description": "Taiwanese-inspired Asian bakery in downtown San Mateo handcrafting light, airy cakes, artisan breads, and pastries using traditional techniques and authentic ingredients.",
-      "outsideEatsRating": 4.3
+      "outsideEatsRating": 4.3,
+      "photoUrl": "images/restaurant-photos/san-mateo/SimplyCake Small.jpeg"
     },
     {
       "id": "ChIJma5mbxqfj4ARgg-PlO8L6Cw",
