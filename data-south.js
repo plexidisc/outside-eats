@@ -6662,7 +6662,7 @@ var PREBAKED_DATA_SOUTH = {
     {
       "id": "manual_1783608594598",
       "displayName": {
-        "text": "Cedar & Sage Bistro & Lounge",
+        "text": "Cedar & Sage Bistro & Lounge (coming soon)",
         "languageCode": "en"
       },
       "formattedAddress": "1301 Stanford Shopping Center, Palo Alto, CA 94304",
@@ -6675,7 +6675,7 @@ var PREBAKED_DATA_SOUTH = {
       "placeId": "ChIJpbeYtaS7j4ARHndrtIWzx2k",
       "cuisine": "Wine Bar",
       "menuUrl": "https://www.cedarandsagebistro.com/menu",
-      "description": "Wine-focused bistro and lounge coming to Stanford Shopping Center from the owners of The Winery Restaurant in Orange County. Chef-driven menu with custom paintings of R&B and Rock and Roll Hall of Fame artists throughout."
+      "description": "(COMING SOON) Wine-focused bistro and lounge coming to Stanford Shopping Center from the owners of The Winery Restaurant in Orange County. Chef-driven menu with custom paintings of R&B and Rock and Roll Hall of Fame artists throughout."
     },
     {
       "id": "ChIJ7c_w_4q6j4ARF8QWNPNwbck",
