@@ -3078,6 +3078,7 @@ var PREBAKED_DATA_CENTRAL = {
         "outdoor seating"
       ],
       "menuUrl": "https://www.amicis.com/menu-san-mateo",
+      "videoUrl": "https://youtube.com/shorts/FyZVw1fNUbM?feature=share",
       "phone": "(650) 342-9392",
       "hours": "Mon–Thu 11:30am–9pm, Fri–Sat 11:30am–10pm, Sun 11:30am–9pm",
       "priceRange": "$$",
