@@ -3606,6 +3606,7 @@ var PREBAKED_DATA_CENTRAL = {
         "specialty drinks"
       ],
       "menuUrl": "https://order.snackpass.co/bobabless",
+      "videoUrl": "https://youtube.com/shorts/bVMdbmpSHF8?feature=share",
       "phone": "(650) 513-9386",
       "hours": "Mon 7am-10am, Tue-Thu 11:30am-9pm, Fri-Sat 11:30am-10pm",
       "priceRange": "$$",
