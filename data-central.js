@@ -4390,32 +4390,6 @@ var PREBAKED_DATA_CENTRAL = {
       ]
     },
     {
-      "id": "ChIJGyBz3xmfj4ARnkSXuVr4I2s",
-      "displayName": {
-        "text": "Dough Zone Dumpling House",
-        "languageCode": "en"
-      },
-      "formattedAddress": "111 E 4th Ave, San Mateo, CA 94401, USA",
-      "googleMapsUri": "https://maps.google.com/?cid=7720287254787605662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://www.doughzonedumplinghouse.com/locations",
-      "location": {
-        "latitude": 37.5637285,
-        "longitude": -122.3232111
-      },
-      "cuisine": "Chinese",
-      "phone": "(650) 336-1888",
-      "hours": "Mon–Thu 11am–9pm, Fri–Sat 11am–10pm, Sun 11am–9pm",
-      "priceRange": "$$",
-      "description": "Known for exquisite Soup Dumplings, Pork Buns, and Dan Dan Noodles.",
-      "photoUrl": "images/restaurant-photos/san-mateo/Dough Zone Small.jpeg",
-      "keywords": [
-        "dumplings",
-        "xiao long bao",
-        "dim sum",
-        "family friendly"
-      ]
-    },
-    {
       "id": "ChIJe1hpqKGfj4ARWBFCgo71nII",
       "displayName": {
         "text": "Dynasty BBQ",
