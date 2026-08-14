@@ -4147,31 +4147,31 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJObonFH-fj4ARLrUSRoNnYI8",
-      "formattedAddress": "742 Polhemus Rd, San Mateo, CA 94402, USA",
-      "location": {
-        "latitude": 37.5202524,
-        "longitude": -122.33893870000001
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=10331371358701925678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://crystalspringstavern.com/",
       "displayName": {
         "text": "Crystal Springs Tavern",
         "languageCode": "en"
       },
+      "formattedAddress": "742 Polhemus Rd, San Mateo, CA 94402, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=10331371358701925678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://crystalspringstavern.com/",
+      "location": {
+        "latitude": 37.5202524,
+        "longitude": -122.33893870000001
+      },
       "cuisine": "American",
-      "photoUrl": "images/restaurant-photos/san-mateo/Crystal Springs Tavern Small.jpeg",
-      "phone": "(650) 865-3660",
-      "description": "Gourmet comfort fare features dry-aged burger and house-made pastas.",
-      "hours": "Mon–Closed, Tue–Thu 4pm–9pm, Fri 4pm–10pm, Sat 4pm–9pm, Sun–Closed",
-      "menuUrl": "https://www.opentable.com/r/crystal-springs-tavern-san-mateo",
-      "priceRange": "$$",
       "keywords": [
         "american",
         "bar",
         "happy hour",
         "outdoor seating",
         "sports bar"
-      ]
+      ],
+      "menuUrl": "http://crystalspringstavern.com/",
+      "phone": "(650) 865-3660",
+      "hours": "Mon–Closed, Tue–Thu 4pm–9pm, Fri 4pm–10pm, Sat 4pm–9pm, Sun–Closed",
+      "priceRange": "$$",
+      "description": "Gourmet comfort fare features dry-aged burger and house-made pastas.",
+      "photoUrl": "images/restaurant-photos/san-mateo/Crystal Springs Tavern Small.jpeg"
     },
     {
       "id": "ChIJwdQE_hmfj4ARhnRXauveN9M",
