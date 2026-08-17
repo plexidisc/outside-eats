@@ -7536,6 +7536,7 @@ var PREBAKED_DATA_CENTRAL = {
         "san mateo pizza"
       ],
       "menuUrl": "https://rainbowpizza.com/the-whole-menu/",
+      "videoUrl": "https://youtube.com/shorts/zszQD0Hwulg?feature=share",
       "phone": "(650) 571-1848",
       "hours": "Mon-Sat 11am-8:30pm",
       "priceRange": "$$",
