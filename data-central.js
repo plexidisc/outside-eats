@@ -10040,23 +10040,18 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJj7WBxdeYj4ARD_wYzxfoz80",
-      "formattedAddress": "1080 Foster City Blvd, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5535473,
-        "longitude": -122.25696579999999
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=14830327286910745615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "http://taiwufostercity.com/",
       "displayName": {
         "text": "Tai Wu Restaurant",
         "languageCode": "en"
       },
+      "formattedAddress": "1080 Foster City Blvd, Foster City, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=14830327286910745615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://taiwufostercity.com/",
+      "location": {
+        "latitude": 37.5535473,
+        "longitude": -122.25696579999999
+      },
       "cuisine": "Chinese",
-      "photoUrl": "images/restaurant-photos/foster-city/Tai Wu Restaurant Small.jpeg",
-      "phone": "(650) 638-0168",
-      "hours": "Mon–Sun 11am–9pm",
-      "menuUrl": "https://www.yelp.com/biz/tai-wu-restaurant-foster-city-4",
-      "priceRange": "$$",
       "keywords": [
         "chinese",
         "cantonese",
@@ -10066,7 +10061,13 @@ var PREBAKED_DATA_CENTRAL = {
         "noodles",
         "casual"
       ],
-      "outsideEatsRating": 4
+      "menuUrl": "https://www.yelp.com/biz/tai-wu-restaurant-foster-city-4",
+      "videoUrl": "https://youtube.com/shorts/bGb2_hT0WMk?feature=share",
+      "phone": "(650) 638-0168",
+      "hours": "Mon–Sun 11am–9pm",
+      "priceRange": "$$",
+      "outsideEatsRating": 4,
+      "photoUrl": "images/restaurant-photos/foster-city/Tai Wu Restaurant Small.jpeg"
     },
     {
       "id": "ChIJ_U1_Qzafj4ARhZGhz7-jtvc",
