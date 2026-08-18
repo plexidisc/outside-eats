@@ -329,9 +329,19 @@ main { max-width: 1100px; margin: 0 auto; padding: 132px 2rem 4rem; }
   background: white;
   border-left: 3px solid #3B6D11;
   height: auto;
-  min-height: 100px;
+  min-height: 76px;
   overflow: visible;
 }
+/* Carousel card: tighter body, single-line description, cuisine · address row. */
+.resto-featured .resto-body { padding: 0.4rem 0.7rem; gap: 2px; }
+.resto-featured .resto-description {
+  display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  margin-top: 2px;
+}
+.featured-meta { display: flex; align-items: center; gap: 6px; margin-top: 2px; min-width: 0; overflow: hidden; white-space: nowrap; }
+.featured-meta .cuisine-label { flex-shrink: 0; }
+.featured-meta .resto-address { flex: 1; min-width: 0; text-align: left; }
+.featured-meta-dot { color: var(--border-mid); font-size: 10px; flex-shrink: 0; }
 .featured-strip {
   background: #3B6D11;
   padding: 0 10px;
@@ -2206,9 +2216,12 @@ function buildCard(r, featured = false) {
       <div style="width:110px;min-width:110px;overflow:hidden;flex-shrink:0;position:relative;align-self:stretch;">${ribbonHTML}${photoUrl ? `<img src="${photoUrl}" alt="${name}" loading="lazy" style="width:100%;height:100%;object-fit:cover;" onerror="showPhotoPlaceholder(this.parentElement)">` : `<div class="photo-placeholder"></div>`}</div>
       <div class="resto-body" style="justify-content:center;">
         <span class="resto-name" style="cursor:pointer;" onclick="openDetailOverlayById('${r.id}')">${name}</span>
-        ${r.cuisine ? `<div class="cuisine-label">${cuisineStr(r.cuisine)}</div>` : ''}
         ${descHTML}
-        ${address ? `<div style="display:flex;justify-content:flex-end;margin-top:2px;"><span class="resto-address">${address}</span></div>` : ''}
+        ${(r.cuisine || address) ? `<div class="featured-meta">
+          ${r.cuisine ? `<span class="cuisine-label">${cuisineStr(r.cuisine)}</span>` : ''}
+          ${(r.cuisine && address) ? `<span class="featured-meta-dot">·</span>` : ''}
+          ${address ? `<span class="resto-address">${address}</span>` : ''}
+        </div>` : ''}
       </div>
     </div>`;
   } else {
