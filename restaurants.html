@@ -2182,7 +2182,7 @@ function buildCard(r, featured = false) {
     mapsUrl ? `<a class="rlink maps" href="#" title="Show on map" aria-label="Show on map" onclick="openMapForRestaurant('${r.id}', event)"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></a>` : '',
     websiteUrl ? `<a class="rlink website offsite" href="${websiteUrl}" target="_blank" rel="noopener" title="Website (opens in new tab)" aria-label="Website (opens in new tab)"><svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 8h20"/><circle cx="6" cy="6" r="0.8" fill="currentColor"/><circle cx="9" cy="6" r="0.8" fill="currentColor"/></svg></a>` : '',
     reviewsUrl ? `<a class="rlink reviews offsite" href="${reviewsUrl}" target="_blank" rel="noopener" title="Reviews (opens Google)" aria-label="Reviews (opens Google)"><svg viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 9h8"/><path d="M8 13h4.5"/><path d="M10.325 19.605l-2.325 1.395v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v4.5"/><path d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z"/></svg></a>` : '',
-    r.videoUrl ? `<a class="rlink video" href="#" title="Watch Video" onclick="openDetailOverlayById('${r.id}');return false;"><svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg></a>` : '',
+    r.videoUrl ? `<a class="rlink video" href="#" title="Watch Video" onclick="openDetailWithVideo('${r.id}');return false;"><svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg></a>` : '',
     heartHTML,
   ].filter(Boolean).join('');
 
@@ -2396,6 +2396,19 @@ window.addEventListener('popstate', function(){
   } finally { _detailUrlLock = false; }
 });
 function openDetailOverlayById(id) { const r = _restaurantRegistry[id]; if (r) openDetailOverlay(r); }
+
+// Card video button: open the detail modal, then auto-play the embedded video
+// and scroll it into view. oePlayVideo runs synchronously inside the click's
+// user gesture so YouTube autoplay is allowed.
+function openDetailWithVideo(id) {
+  const r = _restaurantRegistry[id];
+  if (!r) return;
+  openDetailOverlay(r);
+  const embed = detailOverlayEl.querySelector('.video-embed');
+  if (!embed) return;
+  if (typeof oePlayVideo === 'function' && !embed.classList.contains('is-playing')) oePlayVideo(embed);
+  requestAnimationFrame(() => embed.scrollIntoView({ behavior: 'smooth', block: 'center' }));
+}
 
 function openDetailOverlay(r) {
   const name = r.displayName?.text || 'Unknown';
