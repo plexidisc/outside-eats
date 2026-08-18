@@ -153,6 +153,8 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   position: fixed; top: 72px; left: 0; right: 0; z-index: 10000;
   overflow: visible;
 }
+/* Collapse toggle is mobile-only; desktop always shows the full filter row. */
+.filter-toggle { display: none; }
 /* Stop the fixed filter bar's empty area from covering cards below it.
    Only the bar's own children should be interactive, and the dropdown
    menus (which need to overflow) handle their own stacking. */
@@ -205,9 +207,34 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
 /* Mobile */
 @media (max-width: 680px) {
   .header-top { padding: 0 1rem; height: 60px; }
-  .filter-bar { top: 60px; }
-  .results-header { top: 166px; }
-  #mapContainer.visible { top: 232px; }
+  /* Collapsed filter bar = just the toggle button (~52px tall). Offsets below
+     clear header (60) + toggle bar (52); expanded filters float over content. */
+  .filter-bar { top: 60px; padding: 6px 10px; }
+  .results-header { top: 112px; }
+  #mapContainer.visible { top: 164px; }
+  /* Wide marketing toggle button */
+  .filter-toggle {
+    display: flex; align-items: center; justify-content: center; gap: 8px;
+    width: 100%; height: 40px; box-sizing: border-box;
+    background: #011f49; color: #fff; border: none; border-radius: 8px;
+    font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
+    letter-spacing: 0.02em; cursor: pointer;
+  }
+  .filter-toggle svg { opacity: 0.85; flex-shrink: 0; }
+  .ft-chevron {
+    width: 0; height: 0; flex-shrink: 0; margin-left: 2px;
+    border-left: 5px solid transparent; border-right: 5px solid transparent;
+    border-top: 6px solid #fff; transition: transform 0.2s ease;
+  }
+  .filter-bar.filters-open .ft-chevron { transform: rotate(180deg); }
+  /* Filters drop as a floating panel below the toggle; hidden until expanded. */
+  .filter-bar .filter-inner {
+    position: absolute; top: 100%; left: 0; right: 0;
+    background: #F0F3F8; border-bottom: 1px solid #D8DEE8;
+    box-shadow: 0 10px 24px rgba(0,0,0,0.14);
+    pointer-events: auto; display: none;
+  }
+  .filter-bar.filters-open .filter-inner { display: flex; }
   .logo-text { display: flex; }
   .logo-divider { display: block; }
   .logo-wordmark { font-size: 17px; }
@@ -220,7 +247,7 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   .filter-search { order: 2; flex: 0 0 100%; width: auto; }
   .filter-inner .pill-btn, .filter-inner .city-dropdown-btn { padding: 6px 9px; font-size: 12.5px; gap: 4px; }
   .filter-inner .pill-btn svg, .filter-inner .city-dropdown-btn svg { width: 13px; height: 13px; }
-  main { padding-top: 176px; padding-left: 1rem; padding-right: 1rem; }
+  main { padding-top: 122px; padding-left: 1rem; padding-right: 1rem; }
 }
 .slide-panel {
   position: fixed; top: 0; right: -280px; width: 280px; height: 100vh;
@@ -841,8 +868,14 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 </header>
 
 <!-- Bar 2: pill filters -->
-<div class="filter-bar">
-  <div class="filter-inner">
+<div class="filter-bar" id="filterBar">
+  <!-- Mobile-only collapse/expand toggle (collapsed by default) -->
+  <button class="filter-toggle" type="button" onclick="toggleFilters()" aria-expanded="false" aria-controls="filterInner">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+    <span>Search &amp; Filter Options</span>
+    <span class="ft-chevron"></span>
+  </button>
+  <div class="filter-inner" id="filterInner">
     <!-- Hidden native selects for JS compatibility -->
     <select id="cuisineSelect" onchange="handleCuisineChange()"><option value="all">All cuisines</option></select>
     <select id="alphaSelect" onchange="handleAlphaChange(this.value)">
@@ -2395,6 +2428,24 @@ window.addEventListener('popstate', function(){
     else if (activeView === 'map') { _mapHistoryPushed = false; focusedRestaurantId = null; activeView = 'list'; renderResults(); }
   } finally { _detailUrlLock = false; }
 });
+// Mobile: expand/collapse the filter + search panel (collapsed by default).
+function toggleFilters() {
+  const bar = document.getElementById('filterBar');
+  if (!bar) return;
+  const open = bar.classList.toggle('filters-open');
+  const btn = bar.querySelector('.filter-toggle');
+  if (btn) btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+}
+// Collapse the panel when tapping outside the filter bar.
+document.addEventListener('click', function(e) {
+  const bar = document.getElementById('filterBar');
+  if (bar && bar.classList.contains('filters-open') && !bar.contains(e.target)) {
+    bar.classList.remove('filters-open');
+    const btn = bar.querySelector('.filter-toggle');
+    if (btn) btn.setAttribute('aria-expanded', 'false');
+  }
+});
+
 function openDetailOverlayById(id) { const r = _restaurantRegistry[id]; if (r) openDetailOverlay(r); }
 
 // Card video button: open the detail modal, then auto-play the embedded video
