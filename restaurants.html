@@ -361,6 +361,12 @@ main { max-width: 1100px; margin: 0 auto; padding: 132px 2rem 4rem; }
 .promo-card { pointer-events: auto; }
 .promo-card a { pointer-events: auto; }
 .restaurant-list { display: flex; flex-direction: column; gap: 0; }
+/* Desktop: two restaurant cards per row */
+@media (min-width: 681px) {
+  .restaurant-list { display: grid; grid-template-columns: 1fr 1fr; column-gap: 20px; }
+  .restaurant-list > .street-header,
+  .restaurant-list > .carousel-wrap { grid-column: 1 / -1; }
+}
 
 .resto-card {
   display: flex; gap: 0;

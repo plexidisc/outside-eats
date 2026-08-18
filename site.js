@@ -46,7 +46,7 @@ function oePlayVideo(el){
   // Wide players (e.g. restaurant detail pages) keep YouTube's native button.
   var narrow = el.classList.contains('feature-video') || el.classList.contains('video-card');
   var fsBtn = narrow
-    ? '<button type="button" class="oe-fs-btn" aria-label="Full screen" onclick="oeFsVideo(event,this)">' +
+    ? '<button type="button" class="oe-fs-btn" aria-label="Full screen" onclick="oeFsVideo(event,\'' + id + '\')">' +
       '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>'
     : '';
   var player = '<div class="video-playing"><iframe src="https://www.youtube.com/embed/' + id +
@@ -63,15 +63,40 @@ function oePlayVideo(el){
 /* Fullscreen the player box in place (no navigation to YouTube). Used by the
    custom expand button on narrow home-page players; degrades to the iframe's
    native fullscreen on older iOS where elements can't go fullscreen. */
-function oeFsVideo(e, btn){
+// Open the video in a full-viewport overlay. This is a real "fullscreen" on
+// every device (it just covers the screen) and does NOT use the Fullscreen API,
+// which iPhone Safari refuses to run on a div/iframe. The large player also
+// exposes YouTube's own fullscreen button for true OS fullscreen if wanted.
+function oeFsVideo(e, id){
   if(e){ e.stopPropagation(); e.preventDefault(); }
-  var box = btn.closest ? btn.closest('.video-playing') : btn.parentNode;
-  if(!box) return;
-  var req = box.requestFullscreen || box.webkitRequestFullscreen || box.msRequestFullscreen;
-  if(req){ try{ req.call(box); return; }catch(err){} }
-  var f = box.querySelector('iframe');
-  if(f && f.webkitEnterFullscreen){ try{ f.webkitEnterFullscreen(); }catch(err){} }
+  if(!id) return;
+  var ov = document.getElementById('oeVideoOverlay');
+  if(!ov){
+    ov = document.createElement('div');
+    ov.id = 'oeVideoOverlay';
+    ov.className = 'oe-video-overlay';
+    ov.innerHTML = '<button type="button" class="oe-video-overlay-close" aria-label="Close video">✕</button><div class="oe-video-overlay-inner"></div>';
+    ov.addEventListener('click', function(ev){
+      if(ev.target === ov || ev.target.classList.contains('oe-video-overlay-close')) oeCloseVideoOverlay();
+    });
+    document.body.appendChild(ov);
+  }
+  ov.querySelector('.oe-video-overlay-inner').innerHTML =
+    '<iframe src="https://www.youtube.com/embed/' + id + '?autoplay=1&rel=0&playsinline=1" title="Video" ' +
+    'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ' +
+    'allowfullscreen></iframe>';
+  ov.classList.add('open');
+  document.documentElement.style.overflow = 'hidden';
 }
+function oeCloseVideoOverlay(){
+  var ov = document.getElementById('oeVideoOverlay');
+  if(!ov) return;
+  ov.classList.remove('open');
+  var inner = ov.querySelector('.oe-video-overlay-inner');
+  if(inner) inner.innerHTML = '';   // unload the iframe so playback stops
+  document.documentElement.style.overflow = '';
+}
+document.addEventListener('keydown', function(e){ if(e.key === 'Escape') oeCloseVideoOverlay(); });
 
 /* ============================================================
    Shared sign-in state
