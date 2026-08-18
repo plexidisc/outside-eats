@@ -215,9 +215,11 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   .logo-block { gap: 8px; }
   .logo-block { margin-right: 12px; }
   .city-dropdown-btn { font-size: 14px; }
-  /* Filters wrap & center on row 1; search drops to its own full-width row 2 */
-  .filter-inner { padding: 0.45rem 1rem; gap: 8px; flex-wrap: wrap; justify-content: center; row-gap: 10px; }
+  /* Filters on one centered row; search drops to its own full-width row 2 */
+  .filter-inner { padding: 0.45rem 0.6rem; gap: 6px; flex-wrap: wrap; justify-content: center; row-gap: 10px; }
   .filter-search { order: 2; flex: 0 0 100%; width: auto; }
+  .filter-inner .pill-btn, .filter-inner .city-dropdown-btn { padding: 6px 9px; font-size: 12.5px; gap: 4px; }
+  .filter-inner .pill-btn svg, .filter-inner .city-dropdown-btn svg { width: 13px; height: 13px; }
   main { padding-top: 158px; padding-left: 1rem; padding-right: 1rem; }
 }
 .slide-panel {
