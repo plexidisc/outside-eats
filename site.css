@@ -37,7 +37,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 /* ── Mobile: hide horizontal nav, restore the hamburger/drawer ── */
 @media (max-width: 768px){
   .nav-links{display:none;}
-  .hamburger-btn{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;}
+  .hamburger-btn{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;margin-left:auto;}
   footer{padding:16px 20px;font-size:11px;line-height:1.9;}
   .footer-sep{margin:0 5px;}
 }
