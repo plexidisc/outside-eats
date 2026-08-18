@@ -950,6 +950,16 @@ function saveFMFavorites(ids) {
   localStorage.setItem(FM_FAV_KEY, JSON.stringify(ids));
 }
 function toggleFM(btn) {
+  // Require sign-in to save, matching the restaurants page. oeAuthEmail /
+  // oeStartSignIn come from site.js (loaded on this page). This function lives
+  // AFTER the footer, in the region the markets manager preserves, so the gate
+  // survives manager rewrites (the manager only regenerates the heart buttons,
+  // which still call toggleFM).
+  if (typeof oeAuthEmail === 'function' && !oeAuthEmail()) {
+    if (typeof oeStartSignIn === 'function') oeStartSignIn();
+    else location.href = '/restaurants.html?signin=1';
+    return;
+  }
   const id = btn.dataset.fmid;
   const favs = getFMFavorites();
   const idx = favs.indexOf(id);
