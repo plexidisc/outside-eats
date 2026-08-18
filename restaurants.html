@@ -376,7 +376,7 @@ main { max-width: 1100px; margin: 0 auto; padding: 132px 2rem 4rem; }
 .resto-card:hover { background: #FDFDFB; }
 
 .resto-photo {
-  width: 100px; min-width: 100px; height: 100px;
+  width: 108px; min-width: 108px; align-self: stretch; min-height: 108px;
   overflow: hidden; flex-shrink: 0; position: relative; background: #EEE;
 }
 .resto-photo img {
@@ -394,15 +394,16 @@ main { max-width: 1100px; margin: 0 auto; padding: 132px 2rem 4rem; }
   background-size: 36px 36px;
 }
 
-.resto-body { flex: 1; padding: 0.55rem 0.75rem; padding-right: 90px; display: flex; flex-direction: column; justify-content: flex-start; gap: 1px; min-width: 0; overflow: hidden; position: relative; }
-.resto-body.no-links { padding-right: 0.75rem; }
+.resto-body { flex: 1; padding: 0.6rem 0.8rem; display: flex; flex-direction: column; justify-content: flex-start; gap: 3px; min-width: 0; overflow: hidden; position: relative; }
+.resto-body.no-links { padding-right: 0.8rem; }
 
 .resto-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
 .resto-name {
   font-family: 'DM Sans', sans-serif;
   font-size: 17px; font-weight: 700;
-  color: var(--ink); line-height: 1.2;
-  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  color: var(--ink); line-height: 1.25;
+  width: 100%; overflow-wrap: anywhere;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
 .resto-name a { color: inherit; text-decoration: none; }
 .resto-name a:hover { color: var(--red); }
@@ -465,17 +466,26 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 .resto-phone { font-size: 11px; color: var(--ink-faint); text-align: right; text-decoration: none; -webkit-tap-highlight-color: transparent; }
 .resto-card { -webkit-tap-highlight-color: transparent; }
 .cuisine-label, .resto-phone, .resto-address, .resto-description { -webkit-tap-highlight-color: transparent; text-decoration: none !important; }
-.resto-description { font-size: 12px; color: var(--ink-mid); margin-top: 2px; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.resto-description { font-size: 12px; color: var(--ink-mid); margin-top: 2px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .desc-more { font-size: 12px; color: #4A7FB5; cursor: pointer; flex-shrink: 0; margin-left: 4px; margin-right: 10px; text-decoration: underline; text-underline-offset: 2px; }
-.resto-links { position: absolute; top: 0.55rem; right: 0.75rem; display: flex; gap: 4px; line-height: 0; }.resto-hours { font-size: 11px; color: var(--ink-faint); text-align: right; margin-top: 1px; white-space: nowrap; }
+.resto-links { display: flex; gap: 2px; align-items: center; margin-top: 6px; margin-left: -8px; }
+.resto-hours { font-size: 11px; color: var(--ink-faint); text-align: right; margin-top: 1px; white-space: nowrap; }
 .rlink {
-  width: 24px; height: 24px; display: flex; align-items: center; justify-content: center;
-  cursor: pointer; opacity: 0.45; border-radius: 4px;
+  width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;
+  cursor: pointer; opacity: 0.55; border-radius: 9px; position: relative;
   text-decoration: none; transition: opacity 0.12s, background 0.12s;
   background: transparent; border: none; padding: 0; flex-shrink: 0;
 }
 .rlink:hover { opacity: 1; background: #F0F3F8; }
-.rlink svg { width: 17px; height: 17px; fill: none; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; display: block; }
+.rlink svg { width: 22px; height: 22px; fill: none; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; display: block; }
+/* Off-site links carry a small external-link arrow badge (assets/external-link.svg) */
+.rlink.offsite::after {
+  content: ''; position: absolute; top: 7px; right: 7px;
+  width: 13px; height: 13px;
+  background: url('assets/external-link.svg') center/contain no-repeat;
+  filter: drop-shadow(0 0.5px 0.5px rgba(0,0,0,0.3));
+  pointer-events: none;
+}
 .rlink.maps svg { stroke: #444; }
 .rlink.website svg { stroke: #c0392b; }
 .rlink.reviews svg { stroke: #2E6B3E; }
@@ -537,20 +547,19 @@ footer a:hover{color:rgba(255,255,255,0.75);}
   .filter-inner { padding-left: 1rem; padding-right: 1rem; gap: 5px; }
   .sort-sel { font-size: 13px; }
   main { padding-left: 1rem; padding-right: 1rem; }
-  .resto-photo { width: 80px; min-width: 80px; height: 80px; }
-  .resto-card { height: auto; min-height: 80px; }
-  .resto-body { padding: 0.3rem 0.6rem; padding-right: 100px; gap: 0; }
-  .rlink svg { width: 20px; height: 20px; }
-  .rlink { width: 28px; height: 28px; }
-  .resto-links { top: 0.3rem; }
-  .resto-name { font-size: 14px; line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: calc(100% - 7ch); }
+  .resto-photo { width: 92px; min-width: 92px; min-height: 92px; }
+  .resto-card { height: auto; min-height: 92px; }
+  .resto-body { padding: 0.5rem 0.6rem; gap: 2px; }
+  .rlink svg { width: 22px; height: 22px; }
+  .rlink { width: 44px; height: 44px; padding: 0; }
+  .resto-links { margin-left: -8px; }
+  .resto-name { font-size: 15px; line-height: 1.25; max-width: 100%; -webkit-line-clamp: 2; }
   .cuisine-label { font-size: 11px; margin-top: 1px; }
-  .resto-description { font-size: 11px; margin-top: 1px; }
+  .resto-description { font-size: 12px; margin-top: 1px; }
   .resto-address { font-size: 10px; margin-top: 1px; }
   .wordmark { font-size: 18px; }
-  .rlink { padding: 3px 6px; font-size: 10px; }
   .resto-phone { text-decoration: none; }
-  .resto-description { min-width: 0; max-height: calc(1.4 * 12px); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; }
+  .resto-description { min-width: 0; max-height: calc(1.5em * 3); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }
   .desc-more { color: #4A7FB5; margin-left: 6px; padding-right: 12px; text-decoration: underline; text-underline-offset: 2px; }
 }
 .lightbox-overlay {
@@ -619,7 +628,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 .detail-price-value { font-size: 13px; font-weight: 400; color: var(--ink-faint); }
 .detail-menu-btn { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 600; color: #011f49; text-decoration: none; border: 1px solid #011f49; border-radius: 16px; padding: 4px 12px; }
 .detail-menu-btn:hover { background: #011f49; color: white; }
-.resto-description { font-size: 12px; color: var(--ink-mid); margin-top: 2px; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.resto-description { font-size: 12px; color: var(--ink-mid); margin-top: 2px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .desc-more { font-size: 12px; color: #4A7FB5; cursor: pointer; flex-shrink: 0; margin-left: 4px; text-decoration: underline; text-underline-offset: 2px; }
 @media (max-width: 600px) { .detail-modal-photo { height: 260px; } .detail-modal-photo-placeholder { height: 260px; } }
 
@@ -2088,9 +2097,9 @@ function buildCard(r, featured = false) {
   const heartHTML = `<button class="rlink heart-btn${favored ? ' favorited' : ''}" data-id="${r.id}" title="${favored ? 'Remove from saved' : 'Save restaurant'}" onclick="toggleFavorite('${r.id}', event)"><svg viewBox="0 0 24 24" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>`;
 
   const linksHTML = [
-    mapsUrl ? `<a class="rlink maps" href="${mapsUrl}" target="_blank" title="Map" onclick="handleDirectionsTap('${r.id}', event)"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></a>` : '',
-    websiteUrl ? `<a class="rlink website" href="${websiteUrl}" target="_blank" title="Website"><svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 8h20"/><circle cx="6" cy="6" r="0.8" fill="currentColor"/><circle cx="9" cy="6" r="0.8" fill="currentColor"/></svg></a>` : '',
-    reviewsUrl ? `<a class="rlink reviews" href="${reviewsUrl}" target="_blank" title="Reviews"><svg viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 9h8"/><path d="M8 13h4.5"/><path d="M10.325 19.605l-2.325 1.395v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v4.5"/><path d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z"/></svg></a>` : '',
+    mapsUrl ? `<a class="rlink maps offsite" href="${mapsUrl}" target="_blank" rel="noopener" title="Map (opens Google Maps)" aria-label="Map (opens Google Maps)" onclick="handleDirectionsTap('${r.id}', event)"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></a>` : '',
+    websiteUrl ? `<a class="rlink website offsite" href="${websiteUrl}" target="_blank" rel="noopener" title="Website (opens in new tab)" aria-label="Website (opens in new tab)"><svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 8h20"/><circle cx="6" cy="6" r="0.8" fill="currentColor"/><circle cx="9" cy="6" r="0.8" fill="currentColor"/></svg></a>` : '',
+    reviewsUrl ? `<a class="rlink reviews offsite" href="${reviewsUrl}" target="_blank" rel="noopener" title="Reviews (opens Google)" aria-label="Reviews (opens Google)"><svg viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 9h8"/><path d="M8 13h4.5"/><path d="M10.325 19.605l-2.325 1.395v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v4.5"/><path d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z"/></svg></a>` : '',
     r.videoUrl ? `<a class="rlink video" href="#" title="Watch Video" onclick="openDetailOverlayById('${r.id}');return false;"><svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg></a>` : '',
     heartHTML,
   ].filter(Boolean).join('');
@@ -2134,16 +2143,14 @@ function buildCard(r, featured = false) {
     card.innerHTML = `
     ${photoHTML}
     <div class="resto-body">
-      <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8px;min-width:0;">
-        <span class="resto-name" style="cursor:pointer;flex:1;min-width:0;" onclick="openDetailOverlayById('${r.id}')">${name}</span>
-        ${linksHTML ? `<div class="resto-links">${linksHTML}</div>` : ''}
-      </div>
+      <div class="resto-name" style="cursor:pointer;" onclick="openDetailOverlayById('${r.id}')">${name}</div>
       ${r.cuisine ? `<div class="cuisine-label">${r.cuisine}</div>` : ''}
       ${descHTML}
       ${address ? `<div style="display:flex;justify-content:space-between;align-items:center;margin-top:2px;">
         <span class="resto-address">${address}</span>
         ${nearMeActive && userLat !== null ? (() => { const coords = getRestaurantCoords(r); const d = coords ? calcDistance(userLat, userLng, coords.lat, coords.lng) : null; return d !== null ? `<span class="resto-distance">${d < 0.1 ? 'Here' : d < 10 ? d.toFixed(1) + ' mi' : Math.round(d) + ' mi'}</span>` : ''; })() : ''}
       </div>` : ''}
+      ${linksHTML ? `<div class="resto-links">${linksHTML}</div>` : ''}
     </div>`;
   }
 
