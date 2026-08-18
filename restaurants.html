@@ -210,8 +210,8 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   /* Collapsed filter bar = just the toggle button (~52px tall). Offsets below
      clear header (60) + toggle bar (52); expanded filters float over content. */
   .filter-bar { top: 60px; padding: 6px 10px; }
-  .results-header { top: 112px; }
-  #mapContainer.visible { top: 164px; }
+  /* NOTE: .results-header top and #mapContainer top are set in the later mobile
+     block (after the base rules) so they win — see below. */
   /* Wide marketing toggle button */
   .filter-toggle {
     display: flex; align-items: center; justify-content: center; gap: 8px;
@@ -247,7 +247,7 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   .filter-search { order: 2; flex: 0 0 100%; width: auto; }
   .filter-inner .pill-btn, .filter-inner .city-dropdown-btn { padding: 6px 9px; font-size: 12.5px; gap: 4px; }
   .filter-inner .pill-btn svg, .filter-inner .city-dropdown-btn svg { width: 13px; height: 13px; }
-  main { padding-top: 122px; padding-left: 1rem; padding-right: 1rem; }
+  main { padding-top: 113px; padding-left: 1rem; padding-right: 1rem; }
 }
 .slide-panel {
   position: fixed; top: 0; right: -280px; width: 280px; height: 100vh;
@@ -594,7 +594,12 @@ footer a:hover{color:rgba(255,255,255,0.75);}
   .header-top { padding: 0.5rem 1rem; gap: 8px; }
   .filter-inner { padding-left: 1rem; padding-right: 1rem; gap: 5px; }
   .sort-sel { font-size: 13px; }
-  main { padding-left: 1rem; padding-right: 1rem; }
+  /* These offsets are set here (after the unconditional base rules for main,
+     .results-header, and #mapContainer) so the mobile values actually win.
+     They match the collapsed filter bar's bottom edge (header 60 + toggle bar 53). */
+  main { padding-top: 113px; padding-left: 1rem; padding-right: 1rem; }
+  .results-header { top: 113px; }
+  #mapContainer.visible { top: 164px; }
   .resto-photo { width: 108px; min-width: 108px; min-height: 108px; }
   .resto-card { height: auto; min-height: 108px; }
   /* Reserve a right gutter for the vertical icon column (position: absolute below). */
