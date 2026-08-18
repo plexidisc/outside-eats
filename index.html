@@ -363,9 +363,6 @@ footer a:hover{color:rgba(255,255,255,0.75);}
       </div>
     </div>
   </div>
-  <div class="nav-right">
-    <a id="btnSignIn" href="/restaurants.html?signin=1">Sign In</a>
-  </div>
 </nav>
 
 <!-- HERO -->
@@ -706,26 +703,6 @@ footer a:hover{color:rgba(255,255,255,0.75);}
   </span>
 </footer>
 
-<script>
-(function () {
-  function hasActiveSession() {
-    try {
-      for (var i = 0; i < localStorage.length; i++) {
-        var key = localStorage.key(i);
-        if (key && key.startsWith('sb-') && key.endsWith('-auth-token')) {
-          var data = JSON.parse(localStorage.getItem(key));
-          var exp = data && data.expires_at;
-          if (exp && (Date.now() / 1000) < exp) return true;
-        }
-      }
-    } catch (e) {}
-    return false;
-  }
-  if (!hasActiveSession()) {
-    document.getElementById('btnSignIn').style.display = 'inline-block';
-  }
-})();
-</script>
 <script>
 function toggleMore(e){e.stopPropagation();var m=document.getElementById('navMore');if(!m)return;var open=m.classList.toggle('open');var b=m.querySelector('.nav-more-btn');if(b)b.setAttribute('aria-expanded',open?'true':'false');}
 document.addEventListener('click',function(){var m=document.getElementById('navMore');if(m)m.classList.remove('open');});

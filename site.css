@@ -52,10 +52,27 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 .video-playing{position:relative;width:100%;aspect-ratio:16/9;background:#000;border-radius:10px;overflow:hidden;}
 .video-playing iframe{position:absolute;inset:0;width:100%;height:100%;border:0;display:block;}
 
+/* ── Account / sign-in button (injected into the nav by site.js) ── */
+.oe-auth{position:relative;flex-shrink:0;margin-left:auto;}
+.oe-auth-btn{font-family:'DM Sans',sans-serif;font-size:13px;font-weight:700;padding:8px 18px;border-radius:22px;background:#E8A82A;color:#011f49;border:0;cursor:pointer;white-space:nowrap;transition:background 0.15s;}
+.oe-auth-btn:hover{background:#f0b830;}
+.oe-auth-btn.signed-in{background:rgba(255,255,255,0.12);color:#fff;}
+.oe-auth-btn.signed-in:hover{background:rgba(255,255,255,0.22);}
+.oe-auth-menu{position:absolute;top:100%;right:0;margin-top:8px;background:#fff;border-radius:8px;box-shadow:0 8px 32px rgba(1,31,73,0.18);padding:10px;min-width:200px;display:none;z-index:1001;}
+.oe-auth-menu.open{display:block;}
+.oe-auth-email{font-size:12px;color:#888;padding:2px 8px 8px;word-break:break-all;border-bottom:1px solid #eee;margin-bottom:6px;}
+.oe-auth-signout{width:100%;text-align:left;background:none;border:0;padding:8px;font-size:14px;color:#c0392b;cursor:pointer;border-radius:6px;font-family:'Source Sans 3',sans-serif;}
+.oe-auth-signout:hover{background:#fdf2f2;}
+/* drawer entry (mobile, non-restaurants content pages) */
+.oe-auth-drawer{border-top:1px solid #E8E8E4;margin-top:6px;padding-top:6px;}
+.oe-auth-drawer-email{font-size:12px;color:#888;padding:8px 1.25rem 2px;word-break:break-all;}
+.slide-nav-item.oe-auth-drawer-out{color:#c0392b;background:none;border:0;width:100%;text-align:left;cursor:pointer;font-family:inherit;}
+
 /* ── Mobile: hide horizontal nav, restore the hamburger/drawer ── */
 @media (max-width: 768px){
   .nav-links{display:none;}
   .hamburger-btn{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;margin-left:auto;}
+  .oe-auth.has-drawer{display:none;}   /* mobile uses the drawer instead */
   footer{padding:16px 20px;font-size:11px;line-height:1.9;}
   .footer-sep{margin:0 5px;}
 }
