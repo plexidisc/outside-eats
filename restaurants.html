@@ -714,7 +714,10 @@ footer a:hover{color:rgba(255,255,255,0.75);}
   max-height: 92vh; overflow-y: auto;
   transform: translateY(100%); transition: transform 0.3s ease;
 }
-.auth-modal-overlay.open .auth-modal { transform: translateY(0); }
+/* Reset to none (not translateY(0)) once open: a lingering transform makes the
+   modal a containing block, which mis-positions password-manager field icons
+   (e.g. LastPass) until a click forces them to recompute. */
+.auth-modal-overlay.open .auth-modal { transform: none; }
 /* Desktop: centered card instead of a bottom sheet */
 @media (min-width: 600px) {
   .auth-modal-overlay { align-items: center; }
@@ -723,7 +726,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
     padding: 30px 30px 34px; max-height: 88vh;
     transform: translateY(16px) scale(0.98);
   }
-  .auth-modal-overlay.open .auth-modal { transform: translateY(0) scale(1); }
+  .auth-modal-overlay.open .auth-modal { transform: none; }
 }
 .auth-modal-title {
   font-family: 'DM Sans', sans-serif; font-size: 18px;
