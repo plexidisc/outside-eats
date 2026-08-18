@@ -55,7 +55,10 @@ body { font-family: 'Source Sans 3', sans-serif; background: var(--cream); color
 .olink { font-size: 10px; font-weight: 700; padding: 3px 8px; border: 1px solid var(--navy); border-radius: 2px; color: var(--navy); text-transform: uppercase; letter-spacing: 0.05em; text-decoration: none; white-space: nowrap; flex-shrink: 0; }
 .olink:hover { background: var(--navy); color: white; }
 
-footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); text-align: center; }
+footer{background:#011f49;padding:18px 48px;font-family:'Source Sans 3',sans-serif;font-size:12px;color:rgba(255,255,255,0.45);text-align:center;}
+footer a{color:rgba(255,255,255,0.45);text-decoration:underline;}
+footer a:hover{color:rgba(255,255,255,0.75);}
+.footer-sep{margin:0 10px;opacity:0.4;}
 
 .hamburger-btn {
   background: transparent; border: none; padding: 6px;
@@ -202,7 +205,15 @@ footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); 
 })();
 </script>
 
-<footer>© 2026 Outside Eats. All Rights Reserved.</footer>
+<footer>
+  © 2026 Outside Eats, LLC. All Rights Reserved.
+  <span class="footer-sep">·</span>
+  <a href="/privacy.html">Privacy Policy</a>
+  <span class="footer-sep">·</span>
+  <a href="/support.html">Support</a>
+  <span class="footer-sep">·</span>
+  Powered by Food
+</footer>
 
 <script>
 function togglePanel() {

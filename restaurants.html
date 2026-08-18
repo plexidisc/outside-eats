@@ -436,7 +436,10 @@ main { max-width: 1100px; margin: 0 auto; padding: 108px 2rem 4rem; }
 }
 
 .resto-footer { display: flex; align-items: center; gap: 8px; margin-top: 0; }
-footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); text-align: center; }
+footer{background:#011f49;padding:18px 48px;font-family:'Source Sans 3',sans-serif;font-size:12px;color:rgba(255,255,255,0.45);text-align:center;}
+footer a{color:rgba(255,255,255,0.45);text-decoration:underline;}
+footer a:hover{color:rgba(255,255,255,0.75);}
+.footer-sep{margin:0 10px;opacity:0.4;}
 .resto-address { font-size: 12px; color: var(--ink-faint); flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .resto-phone { font-size: 11px; color: var(--ink-faint); text-align: right; text-decoration: none; -webkit-tap-highlight-color: transparent; }
 .resto-card { -webkit-tap-highlight-color: transparent; }
@@ -870,7 +873,15 @@ footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); 
   </div>
 </main>
 
-<footer>© 2026 Outside Eats, LLC. All Rights Reserved.</footer>
+<footer>
+  © 2026 Outside Eats, LLC. All Rights Reserved.
+  <span class="footer-sep">·</span>
+  <a href="/privacy.html">Privacy Policy</a>
+  <span class="footer-sep">·</span>
+  <a href="/support.html">Support</a>
+  <span class="footer-sep">·</span>
+  Powered by Food
+</footer>
 
 
 <script>

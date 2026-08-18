@@ -31,7 +31,10 @@ a { color: var(--navy); }
 .contact-card { background: white; border: 1px solid var(--border); border-radius: 12px; padding: 24px 28px; margin: 24px 0; }
 .contact-card p { margin-bottom: 6px; }
 .contact-card a { font-weight: 600; }
-footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); text-align: center; border-top: 1px solid var(--border); }
+footer{background:#011f49;padding:18px 48px;font-family:'Source Sans 3',sans-serif;font-size:12px;color:rgba(255,255,255,0.45);text-align:center;}
+footer a{color:rgba(255,255,255,0.45);text-decoration:underline;}
+footer a:hover{color:rgba(255,255,255,0.75);}
+.footer-sep{margin:0 10px;opacity:0.4;}
 </style>
 </head>
 <body>
@@ -84,7 +87,15 @@ footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); 
   <p>For anything not covered above, email us at <a href="mailto:info@outside-eats.com">info@outside-eats.com</a>. We typically respond within 1–2 business days.</p>
 </div>
 
-<footer>© 2026 Outside Eats · <a href="/index.html" style="color:inherit;text-decoration:underline;">Back to Outside Eats</a> · <a href="/privacy.html" style="color:inherit;text-decoration:underline;">Privacy Policy</a></footer>
+<footer>
+  © 2026 Outside Eats, LLC. All Rights Reserved.
+  <span class="footer-sep">·</span>
+  <a href="/privacy.html">Privacy Policy</a>
+  <span class="footer-sep">·</span>
+  <a href="/support.html">Support</a>
+  <span class="footer-sep">·</span>
+  Powered by Food
+</footer>
 
 </body>
 </html>

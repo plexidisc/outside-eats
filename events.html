@@ -70,7 +70,10 @@ body { font-family: 'Source Sans 3', sans-serif; background: var(--cream); color
 .cal-dropdown a { display: block; padding: 7px 12px; font-size: 11px; color: var(--ink); text-decoration: none; white-space: nowrap; }
 .cal-dropdown a:hover { background: var(--light-blue); }
 .cal-wrap.open .cal-dropdown { display: block; }
-footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); text-align: center; }
+footer{background:#011f49;padding:18px 48px;font-family:'Source Sans 3',sans-serif;font-size:12px;color:rgba(255,255,255,0.45);text-align:center;}
+footer a{color:rgba(255,255,255,0.45);text-decoration:underline;}
+footer a:hover{color:rgba(255,255,255,0.75);}
+.footer-sep{margin:0 10px;opacity:0.4;}
 @media (max-width: 640px) { .event-name { font-size: 14px; } .event-desc { -webkit-line-clamp: 2; } }
 
 .slide-panel-close:hover { color: #1B2A4A; }
@@ -388,7 +391,15 @@ footer { padding: 1.5rem 2rem 2.5rem; font-size: 12px; color: var(--ink-faint); 
 </div>
 </div>
 
-<footer>© 2026 Outside Eats. All Rights Reserved.</footer>
+<footer>
+  © 2026 Outside Eats, LLC. All Rights Reserved.
+  <span class="footer-sep">·</span>
+  <a href="/privacy.html">Privacy Policy</a>
+  <span class="footer-sep">·</span>
+  <a href="/support.html">Support</a>
+  <span class="footer-sep">·</span>
+  Powered by Food
+</footer>
 <script>
 document.querySelectorAll('.cal-btn').forEach(function(btn) {
   btn.addEventListener('click', function(e) {
