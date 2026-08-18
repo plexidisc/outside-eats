@@ -86,6 +86,11 @@ function oeRenderAuth(){
   var email = oeAuthEmail();
   var local = email ? email.split('@')[0] : '';
 
+  // Remove any legacy static Sign-In button (e.g. a stale-cached page) so it
+  // can never appear alongside the injected one.
+  var legacy = document.getElementById('btnSignIn');
+  if (legacy && legacy.id !== 'oeAuthBtn') legacy.remove();
+
   // ── top-nav button (desktop everywhere; mobile only where there is no drawer) ──
   var navLinks = document.querySelector('.nav-links');
   var host = navLinks ? navLinks.parentNode

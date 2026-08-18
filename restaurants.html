@@ -206,8 +206,8 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
 @media (max-width: 680px) {
   .header-top { padding: 0 1rem; height: 60px; }
   .filter-bar { top: 60px; }
-  .results-header { top: 150px; }
-  #mapContainer.visible { top: 200px; }
+  .results-header { top: 166px; }
+  #mapContainer.visible { top: 216px; }
   .logo-text { display: flex; }
   .logo-divider { display: block; }
   .logo-wordmark { font-size: 17px; }
@@ -220,7 +220,7 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   .filter-search { order: 2; flex: 0 0 100%; width: auto; }
   .filter-inner .pill-btn, .filter-inner .city-dropdown-btn { padding: 6px 9px; font-size: 12.5px; gap: 4px; }
   .filter-inner .pill-btn svg, .filter-inner .city-dropdown-btn svg { width: 13px; height: 13px; }
-  main { padding-top: 158px; padding-left: 1rem; padding-right: 1rem; }
+  main { padding-top: 176px; padding-left: 1rem; padding-right: 1rem; }
 }
 .slide-panel {
   position: fixed; top: 0; right: -280px; width: 280px; height: 100vh;
@@ -278,13 +278,13 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
 .filter-spacer { flex: 1; }
 
 /* MAIN */
-main { max-width: 1100px; margin: 0 auto; padding: 108px 2rem 4rem; }
+main { max-width: 1100px; margin: 0 auto; padding: 132px 2rem 4rem; }
 
 .results-header {
   display: flex; align-items: center; gap: 10px;
   padding: 14px 0 8px;
   border-bottom: 2px solid var(--ink);
-  position: sticky; top: 108px; z-index: 18;
+  position: sticky; top: 128px; z-index: 18;
   background: var(--cream);
 }
 .results-header h2 { font-family: 'Playfair Display', serif; font-size: 20px; font-weight: 600; line-height: 1.2; margin: 0; flex-shrink: 0; }
@@ -626,7 +626,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 /* ── AUTH MODAL ──────────────────────────────────────────── */
 .auth-modal-overlay {
   position: fixed; inset: 0; background: rgba(0,0,0,0.55);
-  z-index: 3000; display: flex; align-items: flex-end;
+  z-index: 11000; display: flex; align-items: flex-end;
   justify-content: center; opacity: 0; pointer-events: none;
   transition: opacity 0.25s;
 }
