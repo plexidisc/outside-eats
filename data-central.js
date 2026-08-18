@@ -7775,6 +7775,7 @@ var PREBAKED_DATA_CENTRAL = {
         "dessert shop"
       ],
       "menuUrl": "https://www.romoloscannoli.com/#menu",
+      "videoUrl": "https://youtube.com/shorts/mzOzwjCwS4I?feature=share",
       "phone": "(650) 574-0625",
       "hours": "Tue-Sat 11am-6pm, Sun 12pm-4pm",
       "priceRange": "$$",
