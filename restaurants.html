@@ -2068,7 +2068,7 @@ function buildCard(r, featured = false) {
     mapsUrl ? `<a class="rlink maps" href="${mapsUrl}" target="_blank" title="Map" onclick="handleDirectionsTap('${r.id}', event)"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></a>` : '',
     websiteUrl ? `<a class="rlink website" href="${websiteUrl}" target="_blank" title="Website"><svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 8h20"/><circle cx="6" cy="6" r="0.8" fill="currentColor"/><circle cx="9" cy="6" r="0.8" fill="currentColor"/></svg></a>` : '',
     reviewsUrl ? `<a class="rlink reviews" href="${reviewsUrl}" target="_blank" title="Reviews"><svg viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 9h8"/><path d="M8 13h4.5"/><path d="M10.325 19.605l-2.325 1.395v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v4.5"/><path d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z"/></svg></a>` : '',
-    r.videoUrl ? `<a class="rlink video" href="${r.videoUrl}" target="_blank" title="Watch Video"><svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg></a>` : '',
+    r.videoUrl ? `<a class="rlink video" href="#" title="Watch Video" onclick="openDetailOverlayById('${r.id}');return false;"><svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg></a>` : '',
     heartHTML,
   ].filter(Boolean).join('');
 
@@ -2340,8 +2340,9 @@ function openDetailOverlay(r) {
     ? `<a class="detail-menu-btn" href="${r.menuUrl}" target="_blank">📋 View Menu</a>`
     : '';
 
-  const videoHTML = r.videoUrl
-    ? `<a class="detail-menu-btn" href="${r.videoUrl}" target="_blank" style="color:#b91c1c;border-color:#b91c1c;">▶ Watch Video</a>`
+  const videoId = oeYtId(r.videoUrl);
+  const videoHTML = videoId
+    ? `<div class="video-embed" data-yt="${videoId}" onclick="oePlayVideo(this)" role="button" tabindex="0" aria-label="Play video"><div class="oe-thumb"><img src="https://img.youtube.com/vi/${videoId}/hqdefault.jpg" alt="" loading="lazy"><div class="oe-play"><span><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span></div></div></div>`
     : '';
 
   detailOverlayEl.innerHTML = `
@@ -2366,7 +2367,8 @@ function openDetailOverlay(r) {
       </div>
       <div class="detail-body">
         ${r.description ? `<div class="detail-desc">${r.description}</div>` : ''}
-        ${(menuHTML || videoHTML) ? `<div style="margin-bottom:12px;display:flex;gap:8px;flex-wrap:wrap;">${menuHTML}${videoHTML}</div>` : ''}
+        ${menuHTML ? `<div style="margin-bottom:12px;display:flex;gap:8px;flex-wrap:wrap;">${menuHTML}</div>` : ''}
+        ${videoHTML ? `<div style="margin-bottom:12px;">${videoHTML}</div>` : ''}
         ${r.phone ? `<div class="detail-row"><span class="detail-lbl">Phone</span><span class="detail-val">${phoneEl}</span></div>` : ''}
         ${streetAddress ? `<div class="detail-row"><span class="detail-lbl">Address</span><span class="detail-val">${addressEl}</span></div>` : ''}
         ${r.hours ? `<div class="detail-row"><span class="detail-lbl">Hours</span><span class="detail-val" style="text-align:right;">${(function(h){
@@ -3154,5 +3156,6 @@ function _clearStoredSession() {
 function toggleMore(e){e.stopPropagation();var m=document.getElementById('navMore');if(!m)return;var open=m.classList.toggle('open');var b=m.querySelector('.nav-more-btn');if(b)b.setAttribute('aria-expanded',open?'true':'false');}
 document.addEventListener('click',function(){var m=document.getElementById('navMore');if(m)m.classList.remove('open');});
 </script>
+<script src="/site.js"></script>
 </body>
 </html>

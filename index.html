@@ -485,7 +485,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
         <div class="feature-a-caption">Pausa Bar &amp; Cookery · 223 E. 4th Ave, San Mateo</div>
 
         <!-- YouTube video card -->
-        <a class="feature-yt" href="https://www.youtube.com/shorts/oZKF_NaYUpU" target="_blank" rel="noopener">
+        <div class="feature-yt  video-embed" data-yt="oZKF_NaYUpU" onclick="oePlayVideo(this)" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();oePlayVideo(this);}">
           <div class="feature-yt-thumb">
             <img src="https://img.youtube.com/vi/oZKF_NaYUpU/hqdefault.jpg" alt="Pausa video">
           </div>
@@ -493,7 +493,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
             <div class="feature-yt-label">▶ Watch on YouTube</div>
             <div class="feature-yt-title">Our visit to Pausa Bar &amp; Cookery</div>
           </div>
-        </a>
+        </div>
       </div>
 
       <!-- HEADER: pill, name, meta, awards — appears first on mobile -->
@@ -556,7 +556,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
     <div class="video-grid">
 
       <!-- *** VIDEO 1 *** href = YouTube URL · thumbnail = https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg -->
-      <a class="video-card" href="https://www.youtube.com/shorts/lyryUXixw74" target="_blank" rel="noopener">
+      <div class="video-card  video-embed" data-yt="lyryUXixw74" onclick="oePlayVideo(this)" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();oePlayVideo(this);}">
         <div class="video-thumb">
           <img src="https://img.youtube.com/vi/lyryUXixw74/hqdefault.jpg" alt="Golden Bell Donuts" loading="lazy">
           <div class="video-thumb-overlay">
@@ -568,10 +568,10 @@ footer a:hover{color:rgba(255,255,255,0.75);}
           <div class="video-title">Golden Bell Donuts</div>
           <div class="video-loc">San Mateo</div>
         </div>
-      </a>
+      </div>
 
       <!-- *** VIDEO 2 *** -->
-      <a class="video-card" href="https://www.youtube.com/shorts/NhrX1-9MpKI" target="_blank" rel="noopener">
+      <div class="video-card  video-embed" data-yt="NhrX1-9MpKI" onclick="oePlayVideo(this)" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();oePlayVideo(this);}">
         <div class="video-thumb">
           <img src="https://img.youtube.com/vi/NhrX1-9MpKI/hqdefault.jpg" alt="Sibby's Cupcakery" loading="lazy">
           <div class="video-thumb-overlay">
@@ -583,10 +583,10 @@ footer a:hover{color:rgba(255,255,255,0.75);}
           <div class="video-title">Sibby's Cupcakery</div>
           <div class="video-loc">San Mateo</div>
         </div>
-      </a>
+      </div>
 
       <!-- *** VIDEO 3 *** -->
-      <a class="video-card" href="https://www.youtube.com/shorts/0AyUJemwdL4" target="_blank" rel="noopener">
+      <div class="video-card  video-embed" data-yt="0AyUJemwdL4" onclick="oePlayVideo(this)" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();oePlayVideo(this);}">
         <div class="video-thumb">
           <img src="https://img.youtube.com/vi/0AyUJemwdL4/hqdefault.jpg" alt="Mazra Restaurant" loading="lazy">
           <div class="video-thumb-overlay">
@@ -598,10 +598,10 @@ footer a:hover{color:rgba(255,255,255,0.75);}
           <div class="video-title">Mazra Restaurant</div>
           <div class="video-loc">San Bruno</div>
         </div>
-      </a>
+      </div>
 
       <!-- *** VIDEO 4 *** -->
-      <a class="video-card" href="https://www.youtube.com/shorts/InjwMNUXhrw" target="_blank" rel="noopener">
+      <div class="video-card  video-embed" data-yt="InjwMNUXhrw" onclick="oePlayVideo(this)" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();oePlayVideo(this);}">
         <div class="video-thumb">
           <img src="https://img.youtube.com/vi/InjwMNUXhrw/hqdefault.jpg" alt="Patty's Diner" loading="lazy">
           <div class="video-thumb-overlay">
@@ -613,7 +613,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
           <div class="video-title">Patty's Diner</div>
           <div class="video-loc">Burlingame</div>
         </div>
-      </a>
+      </div>
 
     </div><!-- /.video-grid -->
 
@@ -729,5 +729,6 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 function toggleMore(e){e.stopPropagation();var m=document.getElementById('navMore');if(!m)return;var open=m.classList.toggle('open');var b=m.querySelector('.nav-more-btn');if(b)b.setAttribute('aria-expanded',open?'true':'false');}
 document.addEventListener('click',function(){var m=document.getElementById('navMore');if(m)m.classList.remove('open');});
 </script>
+<script src="/site.js"></script>
 </body>
 </html>
