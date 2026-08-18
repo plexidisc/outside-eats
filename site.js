@@ -1,4 +1,26 @@
 /* ============================================================
+   OAuth redirect catcher
+   Google/Supabase can return the sign-in token to a page without the
+   auth SDK (e.g. the Supabase "Site URL", usually the home page), where
+   it just sits in the URL and never becomes a session. Forward any such
+   token/code to restaurants.html, which loads the SDK and completes the
+   sign-in. The session then persists site-wide via localStorage.
+   ============================================================ */
+(function () {
+  try {
+    var path = location.pathname;
+    if (/(^|\/)restaurants\.html$/.test(path)) return;      // handled there natively
+    var hashTok = location.hash && (location.hash.indexOf('access_token=') > -1 ||
+                                    location.hash.indexOf('refresh_token=') > -1 ||
+                                    location.hash.indexOf('error=') > -1);
+    var codeTok = /[?&]code=/.test(location.search);
+    if (hashTok || codeTok) {
+      location.replace('/restaurants.html' + location.search + location.hash);
+    }
+  } catch (e) {}
+})();
+
+/* ============================================================
    Outside Eats — shared behaviors
    Click-to-play video facade: keeps thumbnails fast; on click,
    swaps in the YouTube player and plays IN PLACE (no navigation).
