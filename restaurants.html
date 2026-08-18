@@ -206,8 +206,8 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
 @media (max-width: 680px) {
   .header-top { padding: 0 1rem; height: 60px; }
   .filter-bar { top: 60px; }
-  .results-header { top: 100px; }
-  #mapContainer.visible { top: 150px; }
+  .results-header { top: 150px; }
+  #mapContainer.visible { top: 200px; }
   .logo-text { display: flex; }
   .logo-divider { display: block; }
   .logo-wordmark { font-size: 17px; }
@@ -215,9 +215,10 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   .logo-block { gap: 8px; }
   .logo-block { margin-right: 12px; }
   .city-dropdown-btn { font-size: 14px; }
-  .filter-search { width: auto; flex: 1; }
-  .filter-inner { padding: 0.45rem 1rem; gap: 8px; }
-  main { padding-top: 108px; padding-left: 1rem; padding-right: 1rem; }
+  /* Filters wrap & center on row 1; search drops to its own full-width row 2 */
+  .filter-inner { padding: 0.45rem 1rem; gap: 8px; flex-wrap: wrap; justify-content: center; row-gap: 10px; }
+  .filter-search { order: 2; flex: 0 0 100%; width: auto; }
+  main { padding-top: 158px; padding-left: 1rem; padding-right: 1rem; }
 }
 .slide-panel {
   position: fixed; top: 0; right: -280px; width: 280px; height: 100vh;
