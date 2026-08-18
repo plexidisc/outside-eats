@@ -298,7 +298,8 @@ main { max-width: 1100px; margin: 0 auto; padding: 132px 2rem 4rem; }
 .leaflet-popup-content { margin: 0; }
 .map-popup { padding: 12px 14px; min-width: 160px; cursor: pointer; }
 .map-popup-name { font-size: 14px; font-weight: 600; color: #1B2A4A; font-family: 'DM Sans', sans-serif; margin-bottom: 2px; }
-.map-popup-cuisine { font-size: 12px; color: #666; margin-bottom: 6px; }
+.map-popup-cuisine { font-size: 12px; color: #666; margin-bottom: 4px; }
+.map-popup-address { font-size: 12px; color: #444; line-height: 1.35; margin-bottom: 6px; }
 .map-popup-more { font-size: 12px; color: #4A7FB5; text-decoration: underline; cursor: pointer; }
 .street-header { padding: 0.35rem 0.75rem; background: #6B2737; font-family: 'DM Sans', sans-serif; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: white; margin-top: 2px; }
 
@@ -376,7 +377,7 @@ main { max-width: 1100px; margin: 0 auto; padding: 132px 2rem 4rem; }
 .resto-card:hover { background: #FDFDFB; }
 
 .resto-photo {
-  width: 108px; min-width: 108px; align-self: stretch; min-height: 108px;
+  width: 124px; min-width: 124px; align-self: stretch; min-height: 108px;
   overflow: hidden; flex-shrink: 0; position: relative; background: #EEE;
 }
 .resto-photo img {
@@ -468,7 +469,7 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 .cuisine-label, .resto-phone, .resto-address, .resto-description { -webkit-tap-highlight-color: transparent; text-decoration: none !important; }
 .resto-description { font-size: 12px; color: var(--ink-mid); margin-top: 2px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .desc-more { font-size: 12px; color: #4A7FB5; cursor: pointer; flex-shrink: 0; margin-left: 4px; margin-right: 10px; text-decoration: underline; text-underline-offset: 2px; }
-.resto-links { display: flex; gap: 2px; align-items: center; margin-top: 6px; margin-left: -8px; }
+.resto-links { display: flex; gap: 2px; align-items: center; justify-content: center; margin-top: 6px; }
 .resto-hours { font-size: 11px; color: var(--ink-faint); text-align: right; margin-top: 1px; white-space: nowrap; }
 .rlink {
   width: 44px; height: 44px; display: flex; align-items: center; justify-content: center;
@@ -547,12 +548,12 @@ footer a:hover{color:rgba(255,255,255,0.75);}
   .filter-inner { padding-left: 1rem; padding-right: 1rem; gap: 5px; }
   .sort-sel { font-size: 13px; }
   main { padding-left: 1rem; padding-right: 1rem; }
-  .resto-photo { width: 92px; min-width: 92px; min-height: 92px; }
+  .resto-photo { width: 108px; min-width: 108px; min-height: 92px; }
   .resto-card { height: auto; min-height: 92px; }
   .resto-body { padding: 0.5rem 0.6rem; gap: 2px; }
   .rlink svg { width: 22px; height: 22px; }
   .rlink { width: 44px; height: 44px; padding: 0; }
-  .resto-links { margin-left: -8px; }
+  .resto-links { justify-content: center; }
   .resto-name { font-size: 15px; line-height: 1.25; max-width: 100%; -webkit-line-clamp: 2; }
   .cuisine-label { font-size: 11px; margin-top: 1px; }
   .resto-description { font-size: 12px; margin-top: 1px; }
@@ -1424,6 +1425,7 @@ function openSigninFromUrl() {
 
 let activeView = 'list';
 let leafletMap = null;
+let focusedRestaurantId = null;  // when set, the map shows only this restaurant, zoomed + callout open
 
 function cuisineStr(c) {
   if (!c) return '';
@@ -1779,11 +1781,24 @@ function getSorted(list) {
 }
 
 function setView(view) {
+  focusedRestaurantId = null;   // toggling the whole view clears any single-restaurant focus
   activeView = view;
   renderResults();
 }
 
-function renderMap(restaurants) {
+// Map icon on a card: open the internal map focused on just this restaurant,
+// with its callout open. Inside the native iOS app, keep the native directions preview.
+function openMapForRestaurant(id, event) {
+  if (event) { event.preventDefault(); event.stopPropagation(); }
+  const isNative = window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.directionsPreview;
+  if (isNative) { const r = _restaurantRegistry[id]; if (r) openDirectionsPreview(r); return false; }
+  focusedRestaurantId = id;
+  activeView = 'map';
+  renderResults();
+  return false;
+}
+
+function renderMap(restaurants, focused = false) {
   const container = document.getElementById('mapContainer');
   if (!container) return;
 
@@ -1816,6 +1831,7 @@ function renderMap(restaurants) {
   });
 
   const bounds = [];
+  let firstMarker = null;
 
   withCoords.forEach(r => {
     const name = r.displayName?.text || '';
@@ -1824,20 +1840,31 @@ function renderMap(restaurants) {
     bounds.push([lat, lng]);
 
     const marker = L.marker([lat, lng], { icon: pinIcon }).addTo(leafletMap);
+    if (!firstMarker) firstMarker = marker;
 
     const cuisine = cuisineStr(r.cuisine).replace(/,([^ ])/g, ', $1');
+    // Show the street address (segment before "CA #####"), falling back to the full string.
+    const _p = (r.formattedAddress || '').split(',');
+    const _caIdx = _p.findIndex(s => /^\s*CA\s+\d{5}/.test(s));
+    const addr = _caIdx > 0 ? _p.slice(0, _caIdx).join(',').trim() : (r.formattedAddress || '');
     const popupContent = `
       <div class="map-popup" onclick="openDetailOverlayById('${r.id}');leafletMap.closePopup();">
         <div class="map-popup-name">${name}</div>
         ${cuisine ? `<div class="map-popup-cuisine">${cuisine}</div>` : ''}
+        ${addr ? `<div class="map-popup-address">${addr}</div>` : ''}
         <div class="map-popup-more">View details</div>
       </div>`;
 
-    marker.bindPopup(popupContent, { maxWidth: 220 });
+    marker.bindPopup(popupContent, { maxWidth: 240 });
     registerRestaurant(r);
   });
 
-  if (bounds.length > 0) leafletMap.fitBounds(bounds, { padding: [40, 40] });
+  if (focused && firstMarker) {
+    leafletMap.setView([withCoords[0].location.latitude, withCoords[0].location.longitude], 16);
+    firstMarker.openPopup();
+  } else if (bounds.length > 0) {
+    leafletMap.fitBounds(bounds, { padding: [40, 40] });
+  }
 }
 
 function renderResults() {
@@ -1889,6 +1916,13 @@ function renderResults() {
     <div id="mapContainer" class="${activeView === 'map' ? 'visible' : ''}"></div>`;
 
   const list = document.getElementById('restoList');
+
+  // Single-restaurant focus (from a card's map icon): one pin, zoomed, callout open.
+  if (activeView === 'map' && focusedRestaurantId) {
+    const focus = _restaurantRegistry[focusedRestaurantId];
+    renderMap(focus ? [focus] : filtered, true);
+    return;
+  }
 
   if (activeAlpha === 'street') {
     // Group by street name extracted from address
@@ -2097,7 +2131,7 @@ function buildCard(r, featured = false) {
   const heartHTML = `<button class="rlink heart-btn${favored ? ' favorited' : ''}" data-id="${r.id}" title="${favored ? 'Remove from saved' : 'Save restaurant'}" onclick="toggleFavorite('${r.id}', event)"><svg viewBox="0 0 24 24" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>`;
 
   const linksHTML = [
-    mapsUrl ? `<a class="rlink maps offsite" href="${mapsUrl}" target="_blank" rel="noopener" title="Map (opens Google Maps)" aria-label="Map (opens Google Maps)" onclick="handleDirectionsTap('${r.id}', event)"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></a>` : '',
+    mapsUrl ? `<a class="rlink maps" href="#" title="Show on map" aria-label="Show on map" onclick="openMapForRestaurant('${r.id}', event)"><svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></a>` : '',
     websiteUrl ? `<a class="rlink website offsite" href="${websiteUrl}" target="_blank" rel="noopener" title="Website (opens in new tab)" aria-label="Website (opens in new tab)"><svg viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 8h20"/><circle cx="6" cy="6" r="0.8" fill="currentColor"/><circle cx="9" cy="6" r="0.8" fill="currentColor"/></svg></a>` : '',
     reviewsUrl ? `<a class="rlink reviews offsite" href="${reviewsUrl}" target="_blank" rel="noopener" title="Reviews (opens Google)" aria-label="Reviews (opens Google)"><svg viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 9h8"/><path d="M8 13h4.5"/><path d="M10.325 19.605l-2.325 1.395v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v4.5"/><path d="M17.8 20.817l-2.172 1.138a.392 .392 0 0 1 -.568 -.41l.415 -2.411l-1.757 -1.707a.389 .389 0 0 1 .217 -.665l2.428 -.352l1.086 -2.193a.392 .392 0 0 1 .702 0l1.086 2.193l2.428 .352a.39 .39 0 0 1 .217 .665l-1.757 1.707l.414 2.41a.39 .39 0 0 1 -.567 .411l-2.172 -1.138z"/></svg></a>` : '',
     r.videoUrl ? `<a class="rlink video" href="#" title="Watch Video" onclick="openDetailOverlayById('${r.id}');return false;"><svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg></a>` : '',
