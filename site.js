@@ -41,15 +41,36 @@ function oeYtId(url){
 function oePlayVideo(el){
   var id = el.getAttribute('data-yt');
   if(!id) return;
+  // The narrow home-page players (Shorts in a slim column) are too small for
+  // YouTube to render its own fullscreen control, so add our own expand button.
+  // Wide players (e.g. restaurant detail pages) keep YouTube's native button.
+  var narrow = el.classList.contains('feature-video') || el.classList.contains('video-card');
+  var fsBtn = narrow
+    ? '<button type="button" class="oe-fs-btn" aria-label="Full screen" onclick="oeFsVideo(event,this)">' +
+      '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>'
+    : '';
   var player = '<div class="video-playing"><iframe src="https://www.youtube.com/embed/' + id +
     '?autoplay=1&rel=0&playsinline=1" title="Video" ' +
     'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ' +
-    'allowfullscreen></iframe></div>';
+    'allowfullscreen></iframe>' + fsBtn + '</div>';
   var slot = el.querySelector('.oe-thumb') || el.querySelector('.video-thumb');
   if(slot){ slot.outerHTML = player; }
   else { el.innerHTML = player; }
   el.classList.add('is-playing');
   el.removeAttribute('onclick');
+}
+
+/* Fullscreen the player box in place (no navigation to YouTube). Used by the
+   custom expand button on narrow home-page players; degrades to the iframe's
+   native fullscreen on older iOS where elements can't go fullscreen. */
+function oeFsVideo(e, btn){
+  if(e){ e.stopPropagation(); e.preventDefault(); }
+  var box = btn.closest ? btn.closest('.video-playing') : btn.parentNode;
+  if(!box) return;
+  var req = box.requestFullscreen || box.webkitRequestFullscreen || box.msRequestFullscreen;
+  if(req){ try{ req.call(box); return; }catch(err){} }
+  var f = box.querySelector('iframe');
+  if(f && f.webkitEnterFullscreen){ try{ f.webkitEnterFullscreen(); }catch(err){} }
 }
 
 /* ============================================================
