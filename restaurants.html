@@ -1798,12 +1798,51 @@ function openMapForRestaurant(id, event) {
   return false;
 }
 
+// ── Address geocoding (OpenStreetMap Nominatim) ──────────────────────────
+// Map pins are placed by geocoding each restaurant's street address. Results
+// are cached in localStorage (geocode a given address at most once), and
+// network calls are serialized + throttled to ~1/sec per Nominatim's usage
+// policy. Markers first paint at whatever coordinates ship with the data, then
+// move to the geocoded position once it resolves — so the map is never blank
+// and a geocode failure just leaves the pin at its original spot.
+const _GEO_CACHE_KEY = 'oe_geocache_v1';
+let _geoCache = {};
+try { _geoCache = JSON.parse(localStorage.getItem(_GEO_CACHE_KEY) || '{}') || {}; } catch (e) { _geoCache = {}; }
+function _saveGeoCache() { try { localStorage.setItem(_GEO_CACHE_KEY, JSON.stringify(_geoCache)); } catch (e) {} }
+
+let _geoQueue = Promise.resolve();
+let _lastGeoAt = 0;
+function geocodeAddress(address) {
+  const key = (address || '').trim();
+  if (!key) return Promise.resolve(null);
+  if (Object.prototype.hasOwnProperty.call(_geoCache, key)) return Promise.resolve(_geoCache[key]);
+  const run = _geoQueue.then(async () => {
+    if (Object.prototype.hasOwnProperty.call(_geoCache, key)) return _geoCache[key];
+    const wait = Math.max(0, 1100 - (Date.now() - _lastGeoAt));
+    if (wait) await new Promise(r => setTimeout(r, wait));
+    _lastGeoAt = Date.now();
+    try {
+      const url = 'https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=us&q=' + encodeURIComponent(key);
+      const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+      const arr = res.ok ? await res.json() : [];
+      const hit = (Array.isArray(arr) && arr[0]) ? { lat: parseFloat(arr[0].lat), lng: parseFloat(arr[0].lon) } : null;
+      _geoCache[key] = (hit && isFinite(hit.lat) && isFinite(hit.lng)) ? hit : null;
+    } catch (e) {
+      _geoCache[key] = null;
+    }
+    _saveGeoCache();
+    return _geoCache[key];
+  });
+  _geoQueue = run.catch(() => {});   // advance the shared queue; swallow errors so it never stalls
+  return run;
+}
+
 function renderMap(restaurants, focused = false) {
   const container = document.getElementById('mapContainer');
   if (!container) return;
 
-  const withCoords = restaurants.filter(r => r.location?.latitude && r.location?.longitude);
-  if (withCoords.length === 0) {
+  const usable = restaurants.filter(r => (r.formattedAddress && r.formattedAddress.trim()) || (r.location?.latitude && r.location?.longitude));
+  if (usable.length === 0) {
     container.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#999;font-size:14px;">No location data available for these restaurants.</div>';
     return;
   }
@@ -1811,7 +1850,7 @@ function renderMap(restaurants, focused = false) {
   // Destroy existing map instance if present
   if (leafletMap) { leafletMap.remove(); leafletMap = null; }
 
-  leafletMap = L.map(container);
+  leafletMap = L.map(container).setView([37.5630, -122.3255], 12);   // Peninsula default until coords/geocode land
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -1831,22 +1870,17 @@ function renderMap(restaurants, focused = false) {
   });
 
   const bounds = [];
-  let firstMarker = null;
+  const mapInstance = leafletMap;   // capture so async callbacks ignore a stale map
 
-  withCoords.forEach(r => {
+  usable.forEach(r => {
     const name = r.displayName?.text || '';
-    const lat = r.location.latitude;
-    const lng = r.location.longitude;
-    bounds.push([lat, lng]);
-
-    const marker = L.marker([lat, lng], { icon: pinIcon }).addTo(leafletMap);
-    if (!firstMarker) firstMarker = marker;
+    const fullAddr = (r.formattedAddress || '').trim();
+    // Short street address (segment before "CA #####") for the callout.
+    const _p = fullAddr.split(',');
+    const _caIdx = _p.findIndex(s => /^\s*CA\s+\d{5}/.test(s));
+    const addr = _caIdx > 0 ? _p.slice(0, _caIdx).join(',').trim() : fullAddr;
 
     const cuisine = cuisineStr(r.cuisine).replace(/,([^ ])/g, ', $1');
-    // Show the street address (segment before "CA #####"), falling back to the full string.
-    const _p = (r.formattedAddress || '').split(',');
-    const _caIdx = _p.findIndex(s => /^\s*CA\s+\d{5}/.test(s));
-    const addr = _caIdx > 0 ? _p.slice(0, _caIdx).join(',').trim() : (r.formattedAddress || '');
     const popupContent = `
       <div class="map-popup" onclick="openDetailOverlayById('${r.id}');leafletMap.closePopup();">
         <div class="map-popup-name">${name}</div>
@@ -1855,16 +1889,36 @@ function renderMap(restaurants, focused = false) {
         <div class="map-popup-more">View details</div>
       </div>`;
 
-    marker.bindPopup(popupContent, { maxWidth: 240 });
-    registerRestaurant(r);
+    // Initial position: cached geocode if we have one, else the coords shipped with the data.
+    const cached = _geoCache[fullAddr];
+    const stored = (r.location?.latitude && r.location?.longitude)
+      ? { lat: r.location.latitude, lng: r.location.longitude } : null;
+    let pos = (cached && isFinite(cached.lat)) ? cached : stored;
+
+    let marker = null;
+    const place = p => {
+      if (!mapInstance || mapInstance !== leafletMap) return;   // map was replaced; drop stale update
+      if (!marker) {
+        marker = L.marker([p.lat, p.lng], { icon: pinIcon }).addTo(mapInstance);
+        marker.bindPopup(popupContent, { maxWidth: 240 });
+        registerRestaurant(r);
+      } else {
+        marker.setLatLng([p.lat, p.lng]);
+      }
+      if (focused) { mapInstance.setView([p.lat, p.lng], 16); marker.openPopup(); }
+    };
+
+    if (pos) { place(pos); bounds.push([pos.lat, pos.lng]); }
+
+    // Geocode from the address and move the pin to the result (once resolved).
+    geocodeAddress(fullAddr).then(g => {
+      if (!g || !isFinite(g.lat)) return;
+      place(g);
+      if (!pos && bounds.length === 0 && !focused) mapInstance.setView([g.lat, g.lng], 14);
+    });
   });
 
-  if (focused && firstMarker) {
-    leafletMap.setView([withCoords[0].location.latitude, withCoords[0].location.longitude], 16);
-    firstMarker.openPopup();
-  } else if (bounds.length > 0) {
-    leafletMap.fitBounds(bounds, { padding: [40, 40] });
-  }
+  if (!focused && bounds.length > 0) leafletMap.fitBounds(bounds, { padding: [40, 40] });
 }
 
 function renderResults() {
