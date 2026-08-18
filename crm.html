@@ -343,11 +343,39 @@
   let allContacts = [];
   let currentAccessToken = null;
 
+  // Detects PostgREST's clock-skew rejection: a 401 PGRST303
+  // "JWT issued at future" (or a related JWT error) that fires when the
+  // presented access token's timestamp looks wrong to the server. Almost
+  // always a stale/cached token or a device clock set ahead of real time.
+  function isClockSkewError(status, body) {
+    return status === 401 && /PGRST303|issued at future|JWT/i.test(body || "");
+  }
+
+  // Force-mints a fresh access token from the stored refresh token. This
+  // bypasses the SDK's own expiry math (which trusts the local clock and
+  // can be fooled by a wrong device time) and re-stamps the token with the
+  // server's real "issued at", which is what self-heals a rejected token.
+  // Returns true if a new token was obtained.
+  async function forceRefreshSession() {
+    try {
+      const { data, error } = await withTimeout(
+        supabaseClient.auth.refreshSession(),
+        8000,
+        "Session refresh"
+      );
+      if (error || !data || !data.session) return false;
+      currentAccessToken = data.session.access_token;
+      return true;
+    } catch (e) {
+      return false;
+    }
+  }
+
   // Direct REST calls instead of the SDK's .from() data client. Auth
   // calls through the SDK work fine on this stack, but SDK data calls
   // have hung specifically on the live site before (confirmed on the
   // main Outside Eats site). This bypasses that entirely.
-  async function restRequest(path, options = {}) {
+  async function restRequest(path, options = {}, _retried = false) {
     const url = `${SUPABASE_URL}/rest/v1/${path}`;
     const headers = {
       "apikey": SUPABASE_ANON_KEY,
@@ -362,6 +390,18 @@
     );
     if (!response.ok) {
       const text = await response.text();
+      // A stale or future-dated token surfaces as a 401 (often PGRST303
+      // "JWT issued at future"). Force one token refresh and retry before
+      // giving up — this transparently recovers a cached bad token.
+      if (!_retried && response.status === 401) {
+        const refreshed = await forceRefreshSession();
+        if (refreshed) {
+          return restRequest(path, options, true);
+        }
+        if (isClockSkewError(response.status, text)) {
+          throw new Error("CLOCK_SKEW");
+        }
+      }
       throw new Error(`${response.status}: ${text}`);
     }
     if (response.status === 204) return null;
@@ -441,8 +481,11 @@
       allContacts = data || [];
       renderContacts();
     } catch (err) {
+      const msg = err.message === "CLOCK_SKEW"
+        ? "Your session was rejected as out of date. This usually means your device's clock is set wrong — turn on automatic date &amp; time, then sign out and sign in again."
+        : `Could not load contacts: ${err.message}`;
       document.getElementById("contacts-tbody").innerHTML =
-        `<tr><td colspan="5">Could not load contacts: ${err.message}</td></tr>`;
+        `<tr><td colspan="5">${msg}</td></tr>`;
     }
   }
 
