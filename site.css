@@ -1,0 +1,43 @@
+/* ============================================================
+   Outside Eats — shared site chrome
+   Single stylesheet serving every page: top nav, "More" dropdown,
+   footer, social icons, and the desktop/mobile responsive rules.
+   Loaded LAST in <head> so it authoritatively governs these shared
+   components; page-specific styles stay in each page's own <style>.
+   ============================================================ */
+
+/* ── Top nav links + "More" dropdown ── */
+.nav-links{display:flex;gap:22px;align-items:center;flex:1;justify-content:center;}
+.nav-link{font-family:'Source Sans 3',sans-serif;font-size:14px;color:rgba(255,255,255,0.6);white-space:nowrap;padding-bottom:2px;border-bottom:2px solid transparent;transition:all 0.15s;text-decoration:none;background:none;border-top:0;border-left:0;border-right:0;cursor:pointer;}
+.nav-link:hover{color:#fff;border-bottom-color:#E8A82A;}
+.nav-more{position:relative;}
+.nav-more-btn{display:inline-flex;align-items:center;gap:5px;}
+.nav-chevron{width:12px;height:12px;transition:transform 0.15s;}
+.nav-more.open .nav-chevron{transform:rotate(180deg);}
+.nav-more-menu{position:absolute;top:100%;left:50%;transform:translateX(-50%);margin-top:8px;background:#fff;border-radius:8px;box-shadow:0 8px 32px rgba(1,31,73,0.18);padding:6px 0;min-width:180px;display:none;z-index:1000;}
+.nav-more.open .nav-more-menu{display:block;}
+.nav-more-item{display:block;padding:8px 18px;font-family:'Source Sans 3',sans-serif;font-size:14px;color:#011f49;text-decoration:none;white-space:nowrap;text-align:left;}
+.nav-more-item:hover{background:#F0F3F8;}
+.nav-more-item.coming-soon{color:#bbb;pointer-events:none;}
+.nav-more-item.coming-soon::after{content:' \2014 Coming Soon';font-size:11px;color:#ccc;}
+
+/* ── Hamburger / drawer trigger: hidden on desktop ── */
+.hamburger-btn{display:none;}
+
+/* ── Footer ── */
+footer{background:#011f49;padding:18px 48px;font-family:'Source Sans 3',sans-serif;font-size:12px;color:rgba(255,255,255,0.45);text-align:center;}
+footer a{color:rgba(255,255,255,0.45);text-decoration:underline;}
+footer a:hover{color:rgba(255,255,255,0.75);}
+.footer-sep{margin:0 10px;opacity:0.4;}
+.footer-social{display:inline-flex;gap:14px;vertical-align:middle;}
+.footer-social a{display:inline-flex;color:rgba(255,255,255,0.45);transition:color 0.15s;}
+.footer-social a:hover{color:rgba(255,255,255,0.85);}
+.footer-social svg{width:16px;height:16px;fill:currentColor;display:block;}
+
+/* ── Mobile: hide horizontal nav, restore the hamburger/drawer ── */
+@media (max-width: 768px){
+  .nav-links{display:none;}
+  .hamburger-btn{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;}
+  footer{padding:16px 20px;font-size:11px;line-height:1.9;}
+  .footer-sep{margin:0 5px;}
+}
