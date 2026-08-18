@@ -147,13 +147,16 @@ body{font-family:'DM Sans',-apple-system,sans-serif;background:#fff;color:#1a1a1
 /* ── SOCIAL VIDEOS ── */
 .highlights{background:#fffaf4;padding:44px 0;border-top:1px solid #ede5d8;}
 .highlights-label{font-family:'Source Sans 3',sans-serif;font-size:10.5px;font-weight:700;color:#011f49;letter-spacing:0.16em;text-transform:uppercase;margin-bottom:18px;}
-.video-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+.video-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;}
 /* Video cards match the featured restaurant card style exactly */
 .video-card{display:block;text-decoration:none;background:#fff;border-radius:10px;overflow:hidden;border:1px solid #e4ddd4;transition:all 0.2s;}
 .video-card:hover{box-shadow:0 5px 20px rgba(1,31,73,0.1);transform:translateY(-2px);border-color:#E8A82A;}
-.video-thumb{position:relative;width:100%;height:130px;overflow:hidden;}
+.video-thumb{position:relative;width:100%;aspect-ratio:9/16;overflow:hidden;}
 .video-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform 0.3s ease;}
 .video-card:hover .video-thumb img{transform:scale(1.03);}
+.video-card .video-playing,.feature-video .video-playing{aspect-ratio:9/16;}
+.feature-video{display:block;max-width:220px;margin-top:14px;cursor:pointer;}
+.feature-video .feature-yt-title{margin-top:8px;}
 .video-thumb-overlay{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(1,31,73,0.28);transition:background 0.2s;}
 .video-card:hover .video-thumb-overlay{background:rgba(1,31,73,0.12);}
 .video-play-circle{width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,0.92);display:flex;align-items:center;justify-content:center;box-shadow:0 2px 12px rgba(0,0,0,0.3);transition:transform 0.2s;}
@@ -484,15 +487,13 @@ footer a:hover{color:rgba(255,255,255,0.75);}
              onerror="this.src='https://images.squarespace-cdn.com/content/v1/658c686c2b626f2aa9534d43/48d9ad41-2574-4c4a-aa9f-cd01aae1a7aa/Pausa_440.jpg'">
         <div class="feature-a-caption">Pausa Bar &amp; Cookery · 223 E. 4th Ave, San Mateo</div>
 
-        <!-- YouTube video card -->
-        <div class="feature-yt  video-embed" data-yt="oZKF_NaYUpU" onclick="oePlayVideo(this)" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();oePlayVideo(this);}">
-          <div class="feature-yt-thumb">
-            <img src="https://img.youtube.com/vi/oZKF_NaYUpU/hqdefault.jpg" alt="Pausa video">
+        <!-- Feature video (inline embed) -->
+        <div class="feature-video video-embed" data-yt="oZKF_NaYUpU" onclick="oePlayVideo(this)" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();oePlayVideo(this);}">
+          <div class="video-thumb">
+            <img src="https://img.youtube.com/vi/oZKF_NaYUpU/hqdefault.jpg" alt="Our visit to Pausa Bar &amp; Cookery" loading="lazy">
+            <div class="video-thumb-overlay"><div class="video-play-circle"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></div></div>
           </div>
-          <div class="feature-yt-text">
-            <div class="feature-yt-label">▶ Watch on YouTube</div>
-            <div class="feature-yt-title">Our visit to Pausa Bar &amp; Cookery</div>
-          </div>
+          <div class="feature-yt-title">Our visit to Pausa Bar &amp; Cookery</div>
         </div>
       </div>
 
