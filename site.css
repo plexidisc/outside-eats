@@ -24,6 +24,10 @@
 /* ── Hamburger / drawer trigger: hidden on desktop ── */
 .hamburger-btn{display:none;}
 
+/* ── Drawer: scroll when taller than the viewport, header stays pinned ── */
+.slide-panel-header{flex:0 0 auto;}
+.slide-nav{flex:1 1 auto;min-height:0;overflow-y:auto;}
+
 /* ── Footer ── */
 footer{background:#011f49;padding:18px 48px;font-family:'Source Sans 3',sans-serif;font-size:12px;color:rgba(255,255,255,0.45);text-align:center;}
 footer a{color:rgba(255,255,255,0.45);text-decoration:underline;}
