@@ -215,7 +215,7 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   /* Wide marketing toggle button */
   .filter-toggle {
     display: flex; align-items: center; justify-content: center; gap: 8px;
-    width: 100%; height: 40px; box-sizing: border-box;
+    width: 100%; height: 34px; box-sizing: border-box;
     background: #011f49; color: #fff; border: none; border-radius: 8px;
     font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
     letter-spacing: 0.02em; cursor: pointer;
@@ -230,9 +230,10 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   /* Filters drop as a floating panel below the toggle; hidden until expanded. */
   .filter-bar .filter-inner {
     position: absolute; top: 100%; left: 0; right: 0;
-    background: #F0F3F8; border-bottom: 1px solid #D8DEE8;
+    background: #F0F3F8; border-bottom: 3px solid #011f49;
     box-shadow: 0 10px 24px rgba(0,0,0,0.14);
     pointer-events: auto; display: none;
+    padding-bottom: 16px;
   }
   .filter-bar.filters-open .filter-inner { display: flex; }
   .logo-text { display: flex; }
@@ -247,7 +248,7 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
   .filter-search { order: 2; flex: 0 0 100%; width: auto; }
   .filter-inner .pill-btn, .filter-inner .city-dropdown-btn { padding: 6px 9px; font-size: 12.5px; gap: 4px; }
   .filter-inner .pill-btn svg, .filter-inner .city-dropdown-btn svg { width: 13px; height: 13px; }
-  main { padding-top: 113px; padding-left: 1rem; padding-right: 1rem; }
+  main { padding-top: 107px; padding-left: 1rem; padding-right: 1rem; }
 }
 .slide-panel {
   position: fixed; top: 0; right: -280px; width: 280px; height: 100vh;
@@ -596,10 +597,10 @@ footer a:hover{color:rgba(255,255,255,0.75);}
   .sort-sel { font-size: 13px; }
   /* These offsets are set here (after the unconditional base rules for main,
      .results-header, and #mapContainer) so the mobile values actually win.
-     They match the collapsed filter bar's bottom edge (header 60 + toggle bar 53). */
-  main { padding-top: 113px; padding-left: 1rem; padding-right: 1rem; }
-  .results-header { top: 113px; }
-  #mapContainer.visible { top: 164px; }
+     They match the collapsed filter bar's bottom edge (header 60 + toggle bar 47). */
+  main { padding-top: 107px; padding-left: 1rem; padding-right: 1rem; }
+  .results-header { top: 107px; }
+  #mapContainer.visible { top: 158px; }
   .resto-photo { width: 108px; min-width: 108px; min-height: 108px; }
   .resto-card { height: auto; min-height: 108px; }
   /* Reserve a right gutter for the vertical icon column (position: absolute below). */
