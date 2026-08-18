@@ -70,15 +70,15 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
 .city-sel-wrap { position: relative; flex-shrink: 0; }
 .city-dropdown-btn {
   display: flex; align-items: center; gap: 6px;
-  background: transparent; border: none; color: white;
+  background: white; border: 1.5px solid #C8CED8; border-radius: 24px; color: #011f49;
   font-family: 'Source Sans 3', sans-serif; font-size: 15px; font-weight: 500;
-  cursor: pointer; outline: none; padding: 6px 4px; white-space: nowrap;
+  cursor: pointer; outline: none; padding: 7px 14px; white-space: nowrap;
 }
 .city-dropdown-btn:hover { opacity: 0.85; }
 .city-btn-chevron {
   width: 0; height: 0; flex-shrink: 0;
   border-left: 4px solid transparent; border-right: 4px solid transparent;
-  border-top: 5px solid rgba(255,255,255,0.7); margin-left: 2px;
+  border-top: 5px solid rgba(1,31,73,0.6); margin-left: 2px;
 }
 .city-dropdown-list {
   display: none; position: absolute; top: calc(100% + 6px); left: 0;
@@ -100,7 +100,7 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
 .city-dropdown-item.dim { color: #bbb; }
 
 /* Search: pill shape, white border, no fill */
-.filter-search { position: relative; flex: 1; min-width: 0; overflow: visible; }
+.filter-search { position: relative; flex: 0 1 360px; min-width: 0; overflow: visible; }
 .filter-search input {
   width: 100%; height: 34px; box-sizing: border-box;
   padding: 7px 28px 7px 32px;
@@ -126,6 +126,20 @@ header { background: #011f49; position: fixed; top: 0; left: 0; right: 0; z-inde
 .search-clear-btn.visible:hover { color: #333; background: #EDEDE9; }
 
 /* Hamburger: borderless, white lines */
+/* ── Consistent top nav (matches home) + More dropdown ── */
+.nav-links{display:flex;gap:22px;align-items:center;flex:1;justify-content:center;}
+.nav-link{font-family:'Source Sans 3',sans-serif;font-size:14px;color:rgba(255,255,255,0.6);white-space:nowrap;padding-bottom:2px;border-bottom:2px solid transparent;transition:all 0.15s;text-decoration:none;background:none;border-top:0;border-left:0;border-right:0;cursor:pointer;}
+.nav-link:hover{color:#fff;border-bottom-color:#E8A82A;}
+.nav-more{position:relative;}
+.nav-more-btn{display:inline-flex;align-items:center;gap:5px;}
+.nav-chevron{width:12px;height:12px;transition:transform 0.15s;}
+.nav-more.open .nav-chevron{transform:rotate(180deg);}
+.nav-more-menu{position:absolute;top:100%;left:50%;transform:translateX(-50%);margin-top:8px;background:#fff;border-radius:8px;box-shadow:0 8px 32px rgba(1,31,73,0.18);padding:6px 0;min-width:180px;display:none;z-index:1000;}
+.nav-more.open .nav-more-menu{display:block;}
+.nav-more-item{display:block;padding:8px 18px;font-family:'Source Sans 3',sans-serif;font-size:14px;color:#011f49;text-decoration:none;white-space:nowrap;text-align:left;}
+.nav-more-item:hover{background:#F0F3F8;}
+.nav-more-item.coming-soon{color:#bbb;pointer-events:none;}
+.nav-more-item.coming-soon::after{content:' — Coming Soon';font-size:11px;color:#ccc;}
 .hamburger-btn {
   background: transparent; border: none; padding: 6px;
   display: flex; flex-direction: column; align-items: center;
@@ -440,6 +454,10 @@ footer{background:#011f49;padding:18px 48px;font-family:'Source Sans 3',sans-ser
 footer a{color:rgba(255,255,255,0.45);text-decoration:underline;}
 footer a:hover{color:rgba(255,255,255,0.75);}
 .footer-sep{margin:0 10px;opacity:0.4;}
+.footer-social{display:inline-flex;gap:14px;vertical-align:middle;}
+.footer-social a{display:inline-flex;color:rgba(255,255,255,0.45);transition:color 0.15s;}
+.footer-social a:hover{color:rgba(255,255,255,0.85);}
+.footer-social svg{width:16px;height:16px;fill:currentColor;display:block;}
 .resto-address { font-size: 12px; color: var(--ink-faint); flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .resto-phone { font-size: 11px; color: var(--ink-faint); text-align: right; text-decoration: none; -webkit-tap-highlight-color: transparent; }
 .resto-card { -webkit-tap-highlight-color: transparent; }
@@ -733,44 +751,27 @@ footer a:hover{color:rgba(255,255,255,0.75);}
       <div class="logo-divider"></div>
     </a>
 
-    <!-- City selector: pin icon + label + chevron, no border -->
-    <div class="city-sel-wrap" id="citySelWrap">
-      <input type="hidden" id="citySelect" value="">
-      <button class="city-dropdown-btn" id="cityDropdownBtn" onclick="toggleCityDropdown(event)">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
-        <span id="cityLabel">Select City</span>
-        <div class="city-btn-chevron"></div>
-      </button>
-      <div class="city-dropdown-list" id="cityDropdownList">
-        <div class="city-dropdown-item" style="font-weight:600;" onclick="selectCity('__all__', 'All Cities', this)">All Cities</div>
-        <div class="city-dropdown-group">Bay Area Peninsula</div>
-        <div class="city-dropdown-item" onclick="selectCity('Belmont, CA', 'Belmont', this)">Belmont</div>
-        <div class="city-dropdown-item" onclick="selectCity('Burlingame, CA', 'Burlingame', this)">Burlingame</div>
-        <div class="city-dropdown-item" onclick="selectCity('Daly City, CA', 'Daly City', this)">Daly City</div>
-        <div class="city-dropdown-item" onclick="selectCity('Foster City, CA', 'Foster City', this)">Foster City</div>
-        <div class="city-dropdown-item" onclick="selectCity('Half Moon Bay, CA', 'Half Moon Bay', this)">Half Moon Bay</div>
-        <div class="city-dropdown-item" onclick="selectCity('El Granada, CA', 'El Granada', this)">El Granada</div>
-        <div class="city-dropdown-item" onclick="selectCity('Los Altos, CA', 'Los Altos', this)">Los Altos</div>
-        <div class="city-dropdown-item" onclick="selectCity('Menlo Park, CA', 'Menlo Park', this)">Menlo Park</div>
-        <div class="city-dropdown-item" onclick="selectCity('Millbrae, CA', 'Millbrae', this)">Millbrae</div>
-        <div class="city-dropdown-item" onclick="selectCity('Montara, CA', 'Montara', this)">Montara</div>
-        <div class="city-dropdown-item" onclick="selectCity('Moss Beach, CA', 'Moss Beach', this)">Moss Beach</div>
-        <div class="city-dropdown-item" onclick="selectCity('Mountain View, CA', 'Mountain View', this)">Mountain View</div>
-        <div class="city-dropdown-item" onclick="selectCity('Pacifica, CA', 'Pacifica', this)">Pacifica</div>
-        <div class="city-dropdown-item" onclick="selectCity('Palo Alto, CA', 'Palo Alto', this)">Palo Alto</div>
-        <div class="city-dropdown-item" onclick="selectCity('Redwood City, CA', 'Redwood City', this)">Redwood City</div>
-        <div class="city-dropdown-item" onclick="selectCity('San Bruno, CA', 'San Bruno', this)">San Bruno</div>
-        <div class="city-dropdown-item" onclick="selectCity('San Carlos, CA', 'San Carlos', this)">San Carlos</div>
-        <div class="city-dropdown-item" onclick="selectCity('San Mateo, CA', 'San Mateo', this)">San Mateo</div>
-        <div class="city-dropdown-item" onclick="selectCity('South San Francisco, CA', 'South San Francisco', this)">South San Francisco</div>
-        <div class="city-dropdown-item" onclick="selectCity('Woodside, CA', 'Woodside', this)">Woodside</div>
-      </div>
-    </div>
 
-    <div style="flex:1;"></div>
 
     <!-- Hamburger: borderless white lines -->
-    <button class="hamburger-btn" onclick="togglePanel()" aria-label="Explore menu">
+    <div class="nav-links">
+  <a class="nav-link" href="/restaurants.html">Restaurant Guide</a>
+  <a class="nav-link" href="/openings.html">New Openings</a>
+  <a class="nav-link" href="/farmers-markets.html">Farmers Markets</a>
+  <a class="nav-link" href="/events.html">Events</a>
+  <div class="nav-more" id="navMore">
+    <button class="nav-link nav-more-btn" type="button" onclick="toggleMore(event)" aria-haspopup="true" aria-expanded="false">More
+      <svg class="nav-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </button>
+    <div class="nav-more-menu">
+      <a class="nav-more-item" href="/winners.html">Best of San Mateo</a>
+      <span class="nav-more-item coming-soon">Wine</span>
+      <span class="nav-more-item coming-soon">Beer</span>
+      <span class="nav-more-item coming-soon">Shop</span>
+    </div>
+  </div>
+</div>
+  <button class="hamburger-btn" onclick="togglePanel()" aria-label="Explore menu">
       <span></span><span></span><span></span>
     </button>
   </div>
@@ -836,6 +837,38 @@ footer a:hover{color:rgba(255,255,255,0.75);}
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
       </button>
     </div>
+    <div class="city-sel-wrap" id="citySelWrap">
+      <input type="hidden" id="citySelect" value="">
+      <button class="city-dropdown-btn" id="cityDropdownBtn" onclick="toggleCityDropdown(event)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#011f49" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+        <span id="cityLabel">Select City</span>
+        <div class="city-btn-chevron"></div>
+      </button>
+      <div class="city-dropdown-list" id="cityDropdownList">
+        <div class="city-dropdown-item" style="font-weight:600;" onclick="selectCity('__all__', 'All Cities', this)">All Cities</div>
+        <div class="city-dropdown-group">Bay Area Peninsula</div>
+        <div class="city-dropdown-item" onclick="selectCity('Belmont, CA', 'Belmont', this)">Belmont</div>
+        <div class="city-dropdown-item" onclick="selectCity('Burlingame, CA', 'Burlingame', this)">Burlingame</div>
+        <div class="city-dropdown-item" onclick="selectCity('Daly City, CA', 'Daly City', this)">Daly City</div>
+        <div class="city-dropdown-item" onclick="selectCity('Foster City, CA', 'Foster City', this)">Foster City</div>
+        <div class="city-dropdown-item" onclick="selectCity('Half Moon Bay, CA', 'Half Moon Bay', this)">Half Moon Bay</div>
+        <div class="city-dropdown-item" onclick="selectCity('El Granada, CA', 'El Granada', this)">El Granada</div>
+        <div class="city-dropdown-item" onclick="selectCity('Los Altos, CA', 'Los Altos', this)">Los Altos</div>
+        <div class="city-dropdown-item" onclick="selectCity('Menlo Park, CA', 'Menlo Park', this)">Menlo Park</div>
+        <div class="city-dropdown-item" onclick="selectCity('Millbrae, CA', 'Millbrae', this)">Millbrae</div>
+        <div class="city-dropdown-item" onclick="selectCity('Montara, CA', 'Montara', this)">Montara</div>
+        <div class="city-dropdown-item" onclick="selectCity('Moss Beach, CA', 'Moss Beach', this)">Moss Beach</div>
+        <div class="city-dropdown-item" onclick="selectCity('Mountain View, CA', 'Mountain View', this)">Mountain View</div>
+        <div class="city-dropdown-item" onclick="selectCity('Pacifica, CA', 'Pacifica', this)">Pacifica</div>
+        <div class="city-dropdown-item" onclick="selectCity('Palo Alto, CA', 'Palo Alto', this)">Palo Alto</div>
+        <div class="city-dropdown-item" onclick="selectCity('Redwood City, CA', 'Redwood City', this)">Redwood City</div>
+        <div class="city-dropdown-item" onclick="selectCity('San Bruno, CA', 'San Bruno', this)">San Bruno</div>
+        <div class="city-dropdown-item" onclick="selectCity('San Carlos, CA', 'San Carlos', this)">San Carlos</div>
+        <div class="city-dropdown-item" onclick="selectCity('San Mateo, CA', 'San Mateo', this)">San Mateo</div>
+        <div class="city-dropdown-item" onclick="selectCity('South San Francisco, CA', 'South San Francisco', this)">South San Francisco</div>
+        <div class="city-dropdown-item" onclick="selectCity('Woodside, CA', 'Woodside', this)">Woodside</div>
+      </div>
+    </div>
   </div>
 </div>
 </div>
@@ -880,7 +913,11 @@ footer a:hover{color:rgba(255,255,255,0.75);}
   <span class="footer-sep">·</span>
   <a href="/support.html">Support</a>
   <span class="footer-sep">·</span>
-  Powered by Food
+  <span class="footer-social">
+    <a href="https://www.tiktok.com/@outsideeats" target="_blank" rel="noopener" aria-label="TikTok"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.25 8.25 0 004.83 1.56V6.8a4.85 4.85 0 01-1.06-.11z"/></svg></a>
+    <a href="https://www.instagram.com/outsideeatsSF" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg></a>
+    <a href="https://www.youtube.com/@outsideeats" target="_blank" rel="noopener" aria-label="YouTube"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+  </span>
 </footer>
 
 
@@ -3112,5 +3149,9 @@ function _clearStoredSession() {
 })();
 </script>
 
+<script>
+function toggleMore(e){e.stopPropagation();var m=document.getElementById('navMore');if(!m)return;var open=m.classList.toggle('open');var b=m.querySelector('.nav-more-btn');if(b)b.setAttribute('aria-expanded',open?'true':'false');}
+document.addEventListener('click',function(){var m=document.getElementById('navMore');if(m)m.classList.remove('open');});
+</script>
 </body>
 </html>
