@@ -1344,8 +1344,10 @@ function openPlaceFromUrl() {
     const ogDesc = document.getElementById('og-description');
     if (ogTitle) ogTitle.setAttribute('content', `${name} — Outside Eats`);
     if (ogDesc) ogDesc.setAttribute('content', `${name} on the SF Peninsula food guide.`);
-    history.replaceState(null, '', location.pathname);
+    _detailUrlLock = true;
     openDetailOverlay(r);
+    _detailUrlLock = false;
+    history.replaceState({ r: slug }, '', location.pathname + '?r=' + encodeURIComponent(slug));
   }
 
   function openWhenReady(city, r) {
@@ -2263,6 +2265,21 @@ function registerRestaurant(r) {
   const id = r.id || r.placeId || r.place_id || (typeof r.name === 'string' && r.name.startsWith('places/') ? r.name.split('/')[1] : null);
   if (id) { r.id = id; _restaurantRegistry[id] = r; }
 }
+var _detailUrlLock = false;
+function _findLoadedBySlug(slug){
+  const live = Object.values(_restaurantRegistry).find(x => toSlug(x.displayName?.text || x.name || '') === slug);
+  if (live) return live;
+  for (const city in PREBAKED_DATA){ const arr = PREBAKED_DATA[city]; if (Array.isArray(arr)){ const hit = arr.find(x => toSlug(x.displayName?.text || x.name || '') === slug); if (hit) return hit; } }
+  return null;
+}
+window.addEventListener('popstate', function(){
+  const slug = new URLSearchParams(location.search).get('r');
+  _detailUrlLock = true;
+  try {
+    if (slug) { const r = _findLoadedBySlug(slug); if (r) openDetailOverlay(r); else openPlaceFromUrl(); }
+    else if (detailOverlayEl.classList.contains('open')) closeDetailOverlay();
+  } finally { _detailUrlLock = false; }
+});
 function openDetailOverlayById(id) { const r = _restaurantRegistry[id]; if (r) openDetailOverlay(r); }
 
 function openDetailOverlay(r) {
@@ -2425,12 +2442,18 @@ function openDetailOverlay(r) {
 
   detailOverlayEl.classList.add('open');
   document.body.style.overflow = 'hidden';
+  // URL-addressable detail (shareable link + back button)
+  document.title = (r.displayName?.text || r.name || 'Restaurant') + ' — Outside Eats';
+  const _dslug = toSlug(r.displayName?.text || r.name || '');
+  if (!_detailUrlLock && _dslug) history.pushState({ r: _dslug }, '', location.pathname + '?r=' + encodeURIComponent(_dslug));
 }
 
 function closeDetailOverlay() {
   closeDirectionsPreview();
   detailOverlayEl.classList.remove('open');
   document.body.style.overflow = '';
+  document.title = 'Restaurant Guide — Outside Eats';
+  if (!_detailUrlLock && new URLSearchParams(location.search).get('r')) history.pushState({}, '', location.pathname);
 }
 
 // ── DIRECTIONS PREVIEW ──────────────────────────────────────────────────────

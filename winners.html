@@ -417,6 +417,39 @@ function formatHours(h) {
   }).join('');
 }
 
+function toSlug(name) {
+  return (name || '').toLowerCase()
+    .replace(/[‘’]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+var _detailUrlLock = false;
+function _findWinnerBySlug(slug){
+  for (var i = 0; i < winners.length; i++){
+    if (toSlug(winners[i].r.displayName.text || '') === slug) return winners[i];
+  }
+  return null;
+}
+function openWinnerFromUrl(){
+  var slug = new URLSearchParams(location.search).get('r');
+  if (!slug) return;
+  var w = _findWinnerBySlug(slug);
+  if (w){
+    _detailUrlLock = true; openDetailOverlay(w); _detailUrlLock = false;
+    history.replaceState({ r: slug }, '', location.pathname + '?r=' + encodeURIComponent(slug));
+  } else {
+    history.replaceState(null, '', location.pathname);
+  }
+}
+window.addEventListener('popstate', function(){
+  var slug = new URLSearchParams(location.search).get('r');
+  _detailUrlLock = true;
+  try {
+    if (slug){ var w = _findWinnerBySlug(slug); if (w) openDetailOverlay(w); }
+    else if (detailOverlayEl.classList.contains('open')) closeDetailOverlay();
+  } finally { _detailUrlLock = false; }
+});
+
 function openDetailOverlay(w) {
   var r = w.r;
   var name = r.displayName.text || 'Unknown';
@@ -503,11 +536,17 @@ function openDetailOverlay(w) {
     '</div>';
   detailOverlayEl.classList.add('open');
   document.body.style.overflow = 'hidden';
+  // URL-addressable detail (shareable link + back button)
+  document.title = (r.displayName.text || 'Restaurant') + ' — Outside Eats';
+  var _wslug = toSlug(r.displayName.text || '');
+  if (!_detailUrlLock && _wslug) history.pushState({ r: _wslug }, '', location.pathname + '?r=' + encodeURIComponent(_wslug));
 }
 
 function closeDetailOverlay() {
   detailOverlayEl.classList.remove('open');
   document.body.style.overflow = '';
+  document.title = 'Best of San Mateo — Outside Eats';
+  if (!_detailUrlLock && new URLSearchParams(location.search).get('r')) history.pushState({}, '', location.pathname);
 }
 
 document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeDetailOverlay(); });
@@ -523,6 +562,7 @@ document.addEventListener('keydown', function(e) { if (e.key === 'Escape') close
 
 layoutBars();
 loadWinners();
+openWinnerFromUrl();
 </script>
 <footer>
   © 2026 Outside Eats, LLC. All Rights Reserved.
