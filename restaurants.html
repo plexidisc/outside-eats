@@ -475,6 +475,10 @@ footer a:hover{color:rgba(255,255,255,0.75);}
 .cuisine-label, .resto-phone, .resto-address, .resto-description { -webkit-tap-highlight-color: transparent; text-decoration: none !important; }
 .resto-description { font-size: 12px; color: var(--ink-mid); margin-top: 2px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .desc-more { font-size: 12px; color: #4A7FB5; cursor: pointer; flex-shrink: 0; margin-left: 4px; margin-right: 10px; text-decoration: underline; text-underline-offset: 2px; }
+/* Address row: address (+ optional distance). "More info" link is mobile-only. */
+.resto-addr-row { display: flex; justify-content: space-between; align-items: center; margin-top: 2px; }
+.more-info-link { display: none; color: #C0392B; font-size: 11px; font-weight: 600; cursor: pointer; flex-shrink: 0; white-space: nowrap; }
+.more-info-link::before { content: '\00B7'; color: var(--ink-faint); margin: 0 5px; font-weight: 400; }
 .resto-links { display: flex; gap: 2px; align-items: center; justify-content: center; margin-top: 6px; }
 .resto-hours { font-size: 11px; color: var(--ink-faint); text-align: right; margin-top: 1px; white-space: nowrap; }
 .rlink {
@@ -554,20 +558,33 @@ footer a:hover{color:rgba(255,255,255,0.75);}
   .filter-inner { padding-left: 1rem; padding-right: 1rem; gap: 5px; }
   .sort-sel { font-size: 13px; }
   main { padding-left: 1rem; padding-right: 1rem; }
-  .resto-photo { width: 108px; min-width: 108px; min-height: 92px; }
-  .resto-card { height: auto; min-height: 92px; }
-  .resto-body { padding: 0.5rem 0.6rem; gap: 2px; }
-  .rlink svg { width: 22px; height: 22px; }
-  .rlink { width: 44px; height: 44px; padding: 0; }
-  .resto-links { justify-content: center; }
+  .resto-photo { width: 108px; min-width: 108px; min-height: 108px; }
+  .resto-card { height: auto; min-height: 108px; }
+  /* Reserve a right gutter for the vertical icon column (position: absolute below). */
+  .resto-body { padding: 0.5rem 46px 0.5rem 0.6rem; gap: 2px; }
+  .rlink svg { width: 20px; height: 20px; }
+  .rlink { width: 36px; height: 36px; padding: 0; }
+  /* Icons stack top-to-bottom in their own right-aligned column:
+     favorite, video, location (source order maps,video,heart → column-reverse). */
+  .resto-links {
+    position: absolute; top: 0; right: 2px; height: 100%;
+    flex-direction: column-reverse; justify-content: center; gap: 0; margin-top: 0;
+  }
+  /* Mobile shows only favorite, video, location. */
+  .rlink.website, .rlink.reviews { display: none; }
   .resto-name { font-size: 15px; line-height: 1.25; max-width: 100%; -webkit-line-clamp: 2; }
   .cuisine-label { font-size: 11px; margin-top: 1px; }
   .resto-description { font-size: 12px; margin-top: 1px; }
   .resto-address { font-size: 10px; margin-top: 1px; }
   .wordmark { font-size: 18px; }
   .resto-phone { text-decoration: none; }
-  .resto-description { min-width: 0; max-height: calc(1.5em * 3); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }
+  /* Description clamped to a single line, ending in an ellipsis. */
+  .resto-description { min-width: 0; display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .desc-more { color: #4A7FB5; margin-left: 6px; padding-right: 12px; text-decoration: underline; text-underline-offset: 2px; }
+  /* Address + "More info" sit adjacent, dot-separated. */
+  .resto-addr-row { justify-content: flex-start; }
+  .resto-address { flex: 0 1 auto; }
+  .more-info-link { display: inline; }
 }
 .lightbox-overlay {
   position: fixed; inset: 0; background: rgba(0,0,0,0.85);
@@ -2201,8 +2218,9 @@ function buildCard(r, featured = false) {
       <div class="resto-name" style="cursor:pointer;" onclick="openDetailOverlayById('${r.id}')">${name}</div>
       ${r.cuisine ? `<div class="cuisine-label">${r.cuisine}</div>` : ''}
       ${descHTML}
-      ${address ? `<div style="display:flex;justify-content:space-between;align-items:center;margin-top:2px;">
+      ${address ? `<div class="resto-addr-row">
         <span class="resto-address">${address}</span>
+        <span class="more-info-link" onclick="openDetailOverlayById('${r.id}');event.stopPropagation();">More info</span>
         ${nearMeActive && userLat !== null ? (() => { const coords = getRestaurantCoords(r); const d = coords ? calcDistance(userLat, userLng, coords.lat, coords.lng) : null; return d !== null ? `<span class="resto-distance">${d < 0.1 ? 'Here' : d < 10 ? d.toFixed(1) + ' mi' : Math.round(d) + ' mi'}</span>` : ''; })() : ''}
       </div>` : ''}
       ${linksHTML ? `<div class="resto-links">${linksHTML}</div>` : ''}
