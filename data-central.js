@@ -9720,24 +9720,18 @@ var PREBAKED_DATA_CENTRAL = {
     },
     {
       "id": "ChIJKzv8EySZj4ARt59z6jkbXm0",
-      "formattedAddress": "1495 Beach Park Blvd, Foster City, CA 94404, USA",
-      "location": {
-        "latitude": 37.5635504,
-        "longitude": -122.2506562
-      },
-      "googleMapsUri": "https://maps.google.com/?cid=7880766333505478583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "websiteUri": "https://order.online/business/kenta-ramen-324610",
       "displayName": {
         "text": "Kenta Ramen",
         "languageCode": "en"
       },
+      "formattedAddress": "1495 Beach Park Blvd, Foster City, CA 94404, USA",
+      "googleMapsUri": "https://maps.google.com/?cid=7880766333505478583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://order.online/business/kenta-ramen-324610",
+      "location": {
+        "latitude": 37.5635504,
+        "longitude": -122.2506562
+      },
       "cuisine": "Japanese",
-      "photoUrl": "images/restaurant-photos/foster-city/Kenta Ramen Small.jpeg",
-      "phone": "(650) 212-2883",
-      "description": "Signature ramen noodles and artfully crafted sushi rolls showcase Japanese artistry.",
-      "hours": "Mon Closed, Tue–Sun 11:30am–9pm",
-      "menuUrl": "https://kentaramen.net/menu/11467754",
-      "priceRange": "$$",
       "keywords": [
         "japanese",
         "ramen",
@@ -9748,7 +9742,14 @@ var PREBAKED_DATA_CENTRAL = {
         "lunch",
         "dinner"
       ],
-      "outsideEatsRating": 4.3
+      "menuUrl": "https://kentaramen.net/menu/11467754",
+      "videoUrl": "https://youtube.com/shorts/aByNi6c2j-Q?feature=share",
+      "phone": "(650) 212-2883",
+      "hours": "Mon Closed, Tue–Sun 11:30am–9pm",
+      "priceRange": "$$",
+      "description": "Signature ramen noodles and artfully crafted sushi rolls showcase Japanese artistry.",
+      "outsideEatsRating": 4.3,
+      "photoUrl": "images/restaurant-photos/foster-city/Kenta Ramen Small.jpeg"
     },
     {
       "id": "ChIJnzT-_hafj4AROcD0Hlm62f4",
