@@ -8701,7 +8701,8 @@ var PREBAKED_DATA_NORTH = {
       "keywords": [
         "chinese",
         "noodles"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/millbrae/Noodleosophy Medium"
     },
     {
       "id": "ChIJdY1XHKV3j4ARoqed9zXnooo",
