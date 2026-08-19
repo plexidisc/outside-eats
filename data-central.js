@@ -10277,12 +10277,6 @@ var PREBAKED_DATA_CENTRAL = {
         "longitude": -122.293085
       },
       "cuisine": "Mediterranean",
-      "phone": "(650) 486-1703",
-      "photoUrl": "images/restaurant-photos/belmont/Amara Small.jpeg",
-      "description": "A courtyard garden from the Michelin-recognized team behind Rasa and Saffron",
-      "hours": "Mon–Closed, Tue–Sun 11am–2pm, 4pm–9pm",
-      "menuUrl": "https://www.amararestaurants.com/menus/",
-      "priceRange": "$$$",
       "keywords": [
         "greek",
         "mediterranean",
@@ -10292,7 +10286,13 @@ var PREBAKED_DATA_CENTRAL = {
         "shawarma",
         "lamb",
         "pita"
-      ]
+      ],
+      "menuUrl": "https://www.amararestaurants.com/menus/",
+      "phone": "(650) 486-1703",
+      "hours": "Mon–Tues Closed, Wed–Sun 11am–2pm, 4pm–9pm",
+      "priceRange": "$$$",
+      "description": "A courtyard garden from the Michelin-recognized team behind Rasa and Saffron",
+      "photoUrl": "images/restaurant-photos/belmont/Amara Small.jpeg"
     },
     {
       "id": "ChIJ1-5wU0Wfj4ARJHnIz2coCMk",
