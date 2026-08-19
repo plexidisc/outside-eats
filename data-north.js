@@ -6994,6 +6994,47 @@ var PREBAKED_DATA_NORTH = {
       ]
     },
     {
+      "id": "manual_1785352936947",
+      "displayName": {
+        "text": "Rolling Pin Donuts",
+        "languageCode": "en"
+      },
+      "formattedAddress": "429 San Bruno Ave W, San Bruno, CA 94066",
+      "googleMapsUri": "https://www.google.com/maps/place/Rolling+Pin+Donuts/@37.6293736,-122.4145724,875m/data=!3m1!1e3!4m6!3m5!1s0x808f79dac20667d9:0xa1b8bd326840aebf!8m2!3d37.629373!4d-122.4145724!16s%2Fg%2F1tkrm0nn?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D",
+      "websiteUri": "https://rollingpindonuts.shop/",
+      "location": {
+        "latitude": 37.629538794306946,
+        "longitude": -122.41457776776228
+      },
+      "placeId": "ChIJ2WcGwtp5j4ARv65AaDK9uKE",
+      "cuisine": "Cafe/Bakery",
+      "keywords": [
+        "donuts",
+        "crullers",
+        "apple fritter",
+        "cookies",
+        "cinnamon roll",
+        "twist",
+        "croissant",
+        "muffins",
+        "scones",
+        "danish",
+        "strudel",
+        "bagel",
+        "churros",
+        "cake",
+        "coffee",
+        "smoothie",
+        "hot chocolate"
+      ],
+      "menuUrl": "https://order.online/store/762023?redirected=true",
+      "phone": "(650) 589-9687",
+      "hours": "open 24 hours",
+      "priceRange": "$",
+      "description": "Donut shop offering a huge variety of fresh, soft donuts and pastries. They are open 24/7 with easy parking.",
+      "photoUrl": "images/restaurant-photos/san-bruno/Rolling Pin Donuts Small.jpeg"
+    },
+    {
       "id": "ChIJ7Q2o39d5j4AREF-w4yM3VM4",
       "formattedAddress": "424 San Mateo Ave, San Bruno, CA 94066, USA",
       "location": {
@@ -7573,46 +7614,6 @@ var PREBAKED_DATA_NORTH = {
         "shawarma",
         "hummus"
       ]
-    },
-    {
-      "id": "manual_1785352936947",
-      "displayName": {
-        "text": "Rolling Pin Donuts",
-        "languageCode": "en"
-      },
-      "formattedAddress": "429 San Bruno Ave W, San Bruno, CA 94066",
-      "googleMapsUri": "https://www.google.com/maps/place/Rolling+Pin+Donuts/@37.6293736,-122.4145724,875m/data=!3m1!1e3!4m6!3m5!1s0x808f79dac20667d9:0xa1b8bd326840aebf!8m2!3d37.629373!4d-122.4145724!16s%2Fg%2F1tkrm0nn?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D",
-      "websiteUri": "https://rollingpindonuts.shop/",
-      "location": {
-        "latitude": 37.629538794306946,
-        "longitude": -122.41457776776228
-      },
-      "placeId": "ChIJ2WcGwtp5j4ARv65AaDK9uKE",
-      "cuisine": "Cafe/Bakery",
-      "keywords": [
-        "donuts",
-        "crullers",
-        "apple fritter",
-        "cookies",
-        "cinnamon roll",
-        "twist",
-        "croissant",
-        "muffins",
-        "scones",
-        "danish",
-        "strudel",
-        "bagel",
-        "churros",
-        "cake",
-        "coffee",
-        "smoothie",
-        "hot chocolate"
-      ],
-      "menuUrl": "https://order.online/store/762023?redirected=true",
-      "phone": "(650) 589-9687",
-      "hours": "open 24 hours",
-      "priceRange": "$",
-      "description": "Donut shop offering a huge variety of fresh, soft donuts and pastries. They are open 24/7 with easy parking."
     }
   ],
   "Millbrae, CA": [
