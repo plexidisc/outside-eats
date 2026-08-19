@@ -7778,7 +7778,8 @@ var PREBAKED_DATA_NORTH = {
       "phone": "(650) 296-8215",
       "hours": "Mon-Sun 10:00 AM - 7:00 PM",
       "priceRange": "$$",
-      "description": "Filipino inspired bibingka cupcakes made with coconut rice, offering creative sweet and savory flavors."
+      "description": "Filipino inspired bibingka cupcakes made with coconut rice, offering creative sweet and savory flavors.",
+      "photoUrl": "images/restaurant-photos/millbrae/Binka Bites Bakery Cafe Small.jpeg"
     },
     {
       "id": "ChIJs2sEWqF3j4AR3wNTFMbIYJk",
