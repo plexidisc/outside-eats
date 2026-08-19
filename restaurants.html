@@ -2639,6 +2639,10 @@ function openDetailOverlay(r) {
 
 function closeDetailOverlay() {
   closeDirectionsPreview();
+  // Stop any embedded video so it doesn't keep playing (audio) after the modal
+  // closes. Blanking the src halts playback immediately; the modal is rebuilt
+  // from scratch on the next open, so the dead iframe is discarded then.
+  detailOverlayEl.querySelectorAll('iframe').forEach(function(f){ f.src = 'about:blank'; });
   detailOverlayEl.classList.remove('open');
   document.body.style.overflow = '';
   document.title = 'Restaurant Guide — Outside Eats';
