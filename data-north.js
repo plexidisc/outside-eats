@@ -8603,7 +8603,8 @@ var PREBAKED_DATA_NORTH = {
       "keywords": [
         "pizza",
         "american"
-      ]
+      ],
+      "photoUrl": "images/restaurant-photos/millbrae/Mt_Mikes_pizza.jpeg"
     },
     {
       "id": "ChIJc7xuXpJ3j4AR72DXDlEkL0k",
